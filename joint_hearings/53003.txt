@@ -1,0 +1,3484 @@
+
+ - BEYOND THE BUDGET: ADDRESSING FINANCIAL ACCOUNTABILITY IN THE DEPARTMENT OF DEFENSE
+
+[Joint House and Senate Hearing, 118 Congress]
+[From the U.S. Government Publishing Office]
+
+
+                           BEYOND THE BUDGET:
+                  ADDRESSING FINANCIAL ACCOUNTABILITY
+                      IN THE DEPARTMENT OF DEFENSE
+
+=======================================================================
+
+                             JOINT HEARING
+
+                               BEFORE THE
+
+                   SUBCOMMITTEE ON NATIONAL SECURITY,
+                    THE BORDER, AND FOREIGN AFFAIRS
+
+                                AND THE
+
+                 SUBCOMMITTEE ON GOVERNMENT OPERATIONS
+                       AND THE FEDERAL WORKFORCE
+
+                                 OF THE
+
+               COMMITTEE ON OVERSIGHT AND ACCOUNTABILITY
+
+                        HOUSE OF REPRESENTATIVES
+
+                    ONE HUNDRED EIGHTEENTH CONGRESS
+
+                             FIRST SESSION
+
+                               __________
+
+                             JULY 13, 2023
+
+                               __________
+
+                           Serial No. 118-49
+
+                               __________
+
+  Printed for the use of the Committee on Oversight and Accountability
+  
+[GRAPHIC NOT AVAILABLE IN TIFF FORMAT]
+
+
+                       Available on: govinfo.gov,
+                         oversight.house.gov or
+                             docs.house.gov
+                             
+                                __________
+
+                                
+                    U.S. GOVERNMENT PUBLISHING OFFICE                    
+53-003 PDF                   WASHINGTON : 2023                    
+          
+-----------------------------------------------------------------------------------                                  
+                            
+               COMMITTEE ON OVERSIGHT AND ACCOUNTABILITY
+
+                    JAMES COMER, Kentucky, Chairman
+
+Jim Jordan, Ohio                     Jamie Raskin, Maryland, Ranking 
+Mike Turner, Ohio                        Minority Member
+Paul Gosar, Arizona                  Eleanor Holmes Norton, District of 
+Virginia Foxx, North Carolina            Columbia
+Glenn Grothman, Wisconsin            Stephen F. Lynch, Massachusetts
+Gary Palmer, Alabama                 Gerald E. Connolly, Virginia
+Clay Higgins, Louisiana              Raja Krishnamoorthi, Illinois
+Pete Sessions, Texas                 Ro Khanna, California
+Andy Biggs, Arizona                  Kweisi Mfume, Maryland
+Nancy Mace, South Carolina           Alexandria Ocasio-Cortez, New York
+Jake LaTurner, Kansas                Katie Porter, California
+Pat Fallon, Texas                    Cori Bush, Missouri
+Byron Donalds, Florida               Jimmy Gomez, California
+Kelly Armstrong, North Dakota        Shontel Brown, Ohio
+Scott Perry, Pennsylvania            Melanie Stansbury, New Mexico
+William Timmons, South Carolina      Robert Garcia, California
+Tim Burchett, Tennessee              Maxwell Frost, Florida
+Marjorie Taylor Greene, Georgia      Summer Lee, Pennsylvania
+Lisa McClain, Michigan               Greg Casar, Texas
+Lauren Boebert, Colorado             Jasmine Crockett, Texas
+Russell Fry, South Carolina          Dan Goldman, New York
+Anna Paulina Luna, Florida           Jared Moskowitz, Florida
+Chuck Edwards, North Carolina        Vacancy
+Nick Langworthy, New York
+Eric Burlison, Missouri
+
+                       Mark Marin, Staff Director
+       Jessica Donlon, Deputy Staff Director and General Counsel
+             Kaity Wolfe, Senior Professional Staff Member
+         Grayson Westmoreland, Senior Professional Staff Member
+                      Bill Womack, Senior Advisor
+      Mallory Cogar, Deputy Director of Operations and Chief Clerk
+
+                      Contact Number: 202-225-5074
+
+                  Julie Tagen, Minority Staff Director
+                      Contact Number: 202-225-5051
+
+   Subcommittee On National Security, the Border, and Foreign Affairs
+
+                  Glenn Grothman, Wisconsin, Chairman
+Paul Gosar, Arizona                  Robert Garcia, California, Ranking 
+Virginia Foxx, North Carolina            Minority Member
+Clay Higgins, Louisiana              Stephen F. Lynch, Massachusetts
+Pete Sessions, Texas                 Dan Goldman, New York
+Andy Biggs, Arizona                  Jared Moskowitz, Florida
+Nancy Mace, South Carolina           Katie Porter, California
+Jake LaTurner, Kansas                Cori Bush, Missouri
+Pat Fallon, Texas                    Maxwell Frost, Florida
+Kelly Armstrong, North Dakota        Vacancy
+Scott Perry, Pennsylvania            Vacancy
+
+    Subcommittee On Government Operations and the Federal Workforce
+
+                     Pete Sessions, Texas, Chairman
+Gary Palmer, Alabama                 Kweisi Mfume, Maryland Ranking 
+Clay Higgins, Louisiana                  Minority Member
+Andy Biggs, Arizona                  Eleanor Holmes Norton, District of 
+Byron Donalds, Florida                   Columbia
+William Timmons, South Carolina      Maxwell Frost, Florida
+Tim Burchett, Tennessee              Greg Casar, Texas
+Marjorie Taylor Greene, Georgia      Gerald E. Connolly, Virginia
+Lauren Boebert, Colorado             Melanie Stansbury, New Mexico
+Russell Fry, South Carolina          Robert Garcia, California
+Chuck Edwards, North Carolina        Summer Lee, Pennsylvania
+Eric Burlison, Missouri              Jasmine Crockett, Texas
+                                     Vacancy
+                        
+                        
+                        C  O  N  T  E  N  T  S
+
+                              ----------                              
+                                                                   Page
+Hearing held on July 13, 2023....................................     1
+
+                               Witnesses
+
+                              ----------                              
+
+Mr. John Tenaglia, Principal Director, Defense Pricing and 
+  Contracting, U.S. Department of Defense
+Oral Statement...................................................     8
+Mr. Brett Mansfield, Deputy Inspector General for Audits, 
+  Department of Defense Office of Inspector General, U.S. 
+  Department of Defense
+Oral Statement...................................................     9
+Mr. Asif Khan, Director, Financial Management and Assurance, U.S. 
+  Government Accountability Office
+Oral Statement...................................................    11
+
+ Opening statements and the prepared statements for the witnesses 
+  are available in the U.S. House of Representatives Repository 
+  at: docs.house.gov.
+
+                           Index of Documents
+
+                              ----------                              
+
+
+  * Statement for the Record; submitted by Rep. Connolly.
+
+  * List, government auditing agencies, part of the Ukraine 
+  Oversight 
+  Interagency Working Group; submitted by Rep. Garcia.
+
+  * DoD fact sheet, re: accounting of equipment to Ukraine; 
+  submitted by Rep. Garcia.
+
+  * Questions for the Record: to Mr. Mansfield; submitted by Rep. 
+  Sessions.
+
+  * Questions for the Record: to Mr. Khan; submitted by Rep. 
+  Sessions.
+
+  * Questions for the Record: to Mr. Khan; submitted by Rep. 
+  Garcia.
+
+  * Questions for the Record: to Mr. Tanaglia; submitted by Rep. 
+  Donalds.
+
+  * Questions for the Record: to Mr. Tanaglia; submitted by Rep. 
+  Garcia.
+
+
+The documents listed above are available at: docs.house.gov.
+
+ 
+                           BEYOND THE BUDGET:
+                  ADDRESSING FINANCIAL ACCOUNTABILITY
+                      IN THE DEPARTMENT OF DEFENSE
+
+                              ----------                              
+
+
+                    Thursday, July 13, 2023
+
+                        House of Representatives
+
+               Committee on Oversight and Accountability
+
+   Subcommittee on National Security, the Border, and Foreign Affairs
+
+  and Subcommittee on Government Operations and the Federal Workforce
+
+                                           Washington, D.C.
+
+    The Subcommittees met, pursuant to notice, at 10:03 a.m., 
+in room 2154, Rayburn House Office Building, Hon. Glenn 
+Grothman [Chairman of the Subcommittee on National Security, 
+the Border, and Foreign Affairs] presiding.
+    Present: Representatives Grothman, Sessions, Palmer, Foxx, 
+Higgins, Biggs, Mace, Donalds, LaTurner, Timmons, Fallon, 
+Burchett, Greene, Boebert, Edwards, Burlison, Robert Garcia of 
+California, Mfume, Lynch, Norton, Goldman, Frost, Moskowitz, 
+Connolly, Porter, Lee, and Crockett.
+    Mr. Grothman. The Joint Subcommittee hearing on the 
+Department of Defense's financial management will come to 
+order. Welcome, everyone.
+    Without objection, the Chair may declare a recess at any 
+time. I recognize myself for the purpose of making an opening 
+statement.
+    Good morning, and welcome to our Joint Subcommittee hearing 
+on addressing the financial management challenges at the 
+Department of Defense. We are grateful to be joined by our 
+colleagues on the Government Operations Subcommittee and would 
+like to thank their Chairman, Mr. Sessions, for joining me in 
+tackling this important and timely topic since Congress is 
+currently debating next year's National Defense Authorization 
+Act.
+    Since the early 1990's, all Federal departments have been 
+required to undergo an independent financial audit. Every 
+Federal department has achieved a clean audit since 2013, when 
+the Department of Homeland Security had its first clean audit, 
+except for the Department of Defense.
+    The Pentagon failed its fifth consecutive audit last year. 
+DoD was unable to right auditors to an accurate accounting of 
+more than 61 percent of its $3.5 trillion in assets.
+    The goal for today's hearing is to understand what prevents 
+the Pentagon from being able to produce a clean audit like 
+every other agency. Testifying before us today is DoD's Deputy 
+Inspector General for Audits, Brett Mansfield, to discuss the 
+Inspector General's role in overseeing the audit process.
+    We would have liked to have someone from the Department of 
+Defense Comptroller's Office on this panel, but they chose not 
+to participate in today's hearing because their entire senior 
+leadership team was either out of the office or on vacation.
+    Today, we are also going to address the serious financial 
+mismanagement at the Pentagon. President Biden's budget request 
+included $910.8 billion for defense-related activities, almost 
+a trillion dollars. The U.S. spends more on defense than China, 
+Russia, India, Saudi Arabia, the U.K., Germany, France, South 
+Korea, Japan, and Ukraine combined.
+    The American people work diligently to earn every dollar, 
+but it seems the DOT [sic] has become a master of squandering 
+those funds without batting an eye.
+    I would like to share with you some examples of the 
+mismanagement--the extreme mismanagement at the Department of 
+Defense. Last week, Chairman Comer and I sent a letter to the 
+Pentagon asking for a briefing on the recent accounting error 
+by overestimating the value of weapons from Ukraine by $6.2 
+billion. That is about the price of an aircraft carrier. The 
+Special Inspector General for Afghanistan Reconstruction 
+investigated the Pentagon's G222 aircraft program for the 
+Afghan Security Forces. They found that after the Pentagon 
+spent $549 million on 20 cargo planes, DoD sold them for scrap 
+due to unreliability, maintenance issues, and safety complaints 
+for about $40,000. In 2018, the U.S. Air Force claimed it spent 
+$10,000 on a toilet seat and toilet seat covers for the C-17 
+cargo planes.
+    I could sit on this chair all day and go over instance 
+after instance of the financial mismanagement at the Pentagon. 
+And, you know, the Pentagon is the most important organization. 
+So, it is especially frustrating that they seem to be the most 
+arrogant leaders at mismanaging things.
+    While average citizens and small businesses are expected to 
+maintain meticulous financial records, the DoD operates under a 
+different set of rules, an extravagant game of hide and seek 
+where the U.S. taxpayer is the one seeking.
+    Today, it is vital we assess the efficiency, transparency, 
+and accountability of Department of Defense's financial 
+practices. The auditors and evaluators that work to bring 
+transparency and accountability to light are working with the 
+numbers that will make your head spin faster than a fighter 
+jet. I do not know. A fighter jet? Oh.
+    But by ensuring the good stewardship of U.S. taxpayer 
+dollars to the Department of Defense, we can ultimately enhance 
+our Nation's national security and safeguard the interests of 
+the American people.
+    I hope to hear from our panelists today how their agencies 
+work together to identify waste, fraud, and abuse at the 
+Pentagon. I would also like to understand their offices' 
+recommendations they have to fix Department of Defense's 
+financial management issues.
+    As we continue to be the world's defenders of freedom, 
+assist the Ukrainian people encountering Russian aggression, 
+deter China and defend our homeland, we must make sure that our 
+own financial accounting is done properly.
+    Thank you to our witnesses today for being here and for 
+helping us understand financial practices at DoD. I look 
+forward to all of your testimony.
+    I now recognize National Security Subcommittee Ranking 
+Member Garcia for the purposes of his opening statement.
+    Mr. Garcia. Thank you, Mr. Chair and also Chairman 
+Sessions.
+    Auditing the Department of Defense is an incredibly 
+important bipartisan priority. The Department's financial 
+management has been on the Government Accountability Office 
+High Risk List since 1995. And it goes without saying that our 
+problems are bigger than any single administration, President, 
+or party when it comes to auditing.
+    Now, auditing an agency as large as DoD is a complex and 
+significant challenge, and it is critical that we work together 
+to make this goal possible. The Department spending makes up 
+about half of the Federal Government's discretionary spending. 
+Its physical assets comprise almost 68 percent of the Federal 
+Government's physical assets.
+    Now, DoD's financial management faces long-standing issues, 
+including ineffective processes, systems, and controls; 
+incomplete corrective action plans; and the need for more 
+effective monitoring and reporting. These long-standing issues 
+limit the ability to identify vulnerabilities and miss out on 
+ways to improve operations and, ultimately, save taxpayer 
+money.
+    Now, as the recent 60 Minute segment on DoD price gouging 
+pointed out, without greater visibility and accuracy, DoD 
+contractors can use their status as uniquely positioned sole-
+source suppliers to overcharge the American public or to profit 
+inappropriately from our military. Now, actions like these 
+divert fundings from other critical priorities, and we should 
+not allow for it. And, DoD should not get a free pass from the 
+law, especially when other agencies that invest in priorities 
+like healthcare, education, climate change, or economic growth 
+are under high scrutiny and take important and difficult steps 
+to comply with statutory auditing requirements.
+    Now, we should welcome a bipartisan conversation as we make 
+sure that our military, which is the most powerful in history 
+and in the world, becomes a more effective and transparent 
+institution. However, I also need to address a deeply 
+concerning issue.
+    Now, some of my colleagues in the Majority, including 
+Members of this Committee, have continued to push a narrative 
+that our aid to Ukraine in particular is not properly overseen 
+or is not properly used. Now, Republican leadership is allowing 
+amendments to end and to prohibit aid to Ukraine. This should 
+not be supported by the American public.
+    Now, some have even said on this Committee that there is no 
+real oversight of Ukraine aid. I believe this is a false 
+narrative, and you do not have to just take my word for it.
+    Here is what Republican Foreign Affairs Committee Ranking 
+Member Senator John Risch said this week. He said that he has 
+seen firsthand that idea that equipment is ending up in the 
+wrong hands is, and I will quote him, all baloney. And that, 
+quote, ``stuff is going where it is supposed to go and it is 
+going quickly,'' end quote. He pointed out that the last 
+Ukrainian supplemental had 52 separate oversight provisions, 
+saying, and again I quote him, ``that we have got really, 
+really strong oversight,'' and I will end quote.
+    To further dispel this anti-Ukrainian myth, I am sure that 
+the Inspectors General for the Department of Defense, 
+Department of State, and USAID will be happy to brief this 
+Committee on the whole-of-government oversight efforts for 
+Ukraine aid, including the 20 government agencies and hundreds 
+of staff working on current and planning for future oversight 
+projects. I hope to hear more about that important work and 
+look for areas where we can hold agencies appropriately 
+accountable.
+    Now, thanks to President Biden, we have provided Ukraine 
+with the tools to track defensive equipment, which they are 
+using even as their country fights for its survival. I am 
+disappointed, however, that the Majority decided to move 
+forward with this hearing without the Department of Defense 
+Comptroller who is best equipped to provide full answers to 
+Congress on today's topic, including the oversight of Ukraine 
+aid.
+    Our fight in Ukraine is a fight for democracy and for the 
+global system of trade, peace, and the rule of law that we all 
+rely on. America is stronger with our allies and partners, not 
+when we are isolated and weak. We need to stand up to global 
+authoritarians like Putin who has attacked our democracy, who 
+has threatened our allies, and has started a criminal and 
+unprovoked war of aggression. And we should not accept any 
+effort to distort the truth about our aid to Ukraine.
+    Now, I look forward to a productive conversation about 
+building a better and stronger DoD, to cracking down on 
+corruption in contracting, and to developing a more accountable 
+government.
+    I want to thank our witnesses for being here today. And, 
+Mr. Chairman, I yield back.
+    Mr. Grothman. Yes, I would like to clarify. We did try to 
+get the Comptroller here. They just are not here because they 
+were on vacation or whatever. It is entirely possible we will 
+have another Subcommittee hearing and bring them back at a 
+future time. But it was a little frustrating that they all 
+seemed to be out.
+    Now, I would like to ask the Government Operations 
+Subcommittee Chairman, Mr. Sessions, for his opening statement.
+    Mr. Sessions. Chairman Grothman, thank you very much.
+    I want to align myself with the comments that I believe all 
+four of us will make this morning, and that is, thank you to 
+each of the witnesses. Thank you for your service. We well 
+understand that you do want to be the watchdog, so to speak, of 
+the organization that is there to ensure that the effectiveness 
+of the money that is given by the American people appropriated 
+by Congress and used in a way that would be in the best 
+interest of not only this Nation, but the long-term investment 
+that we make in the United States military.
+    It is important that the dollars that we give you, however, 
+equally are tracked, known, and understood. Please know that I 
+would like to have us focus today on your insight, not 
+necessarily the problems of whether we are talking about 
+whether you were given access to the Afghanistan debacle or 
+otherwise. But I would like for you to be able to provide 
+Congress both on--all of us on a bipartisan basis, the things 
+that you believe that we might do to strengthen your ability to 
+effectively do your job.
+    I think financial transparency is critical. It is critical, 
+it is much like rule of law. If we do not have insight to how 
+things happen, then we will not be able to inflect in that 
+debate, in that ability to track, trend, and see things, and 
+becomes an investment that over time is diminished.
+    What do we want today? We want you to know that we 
+appreciate you and the United States military. The Department 
+of Defense, we want them to know that we support them. We will 
+continue to rely on them to do not only the heavy lifting, but 
+also the delivery to support our homeland and our friends 
+around the world.
+    Our allies around the world are also equally important to 
+the United States because they represent our ability to go 
+places in this world with a commonality of not just policies 
+and directives, but rather what free people and how they will 
+move.
+    It is important for you to know that we believe in this 
+effort, that we are not trying to get at a completely--nor beat 
+you up, where is your clean audit, where is your clean audit, 
+where is your clean audit? That is not what we are after. We 
+recognize that you are working diligently. But in order to 
+achieve a clean audit, I am looking for you today to give us 
+those facts factors that would help us as we not only ask 
+questions, but that we may strengthen within the law.
+    We are in the middle of debating the National Defense 
+Authorization Act. Now is not the time to be trying to overlay 
+in that something that we think is a demand without the proper 
+steps to become more accountable. We believe you will help us 
+in those steps. We believe you will help us to see your mission 
+more clearly and the impediments that might lie in that 
+endeavor.
+    So, please know that we appreciate what you are doing. I 
+appreciate the gentleman, Chairman Grothman, for not only 
+having this hearing, but making sure that we receive from it 
+very specific and direct information from you on the front 
+line.
+    So, Mr. Chairman, I want to thank you. I want to thank my 
+colleagues on the Democratic side for seeing this issue, I 
+think, the same way that we want to, and that is to strengthen 
+our military. Every dollar that they need, we need to 
+understand that. But every penny that they need, we need to 
+also understand they add up to dollars that could be 
+inefficient, and that is where we want to empower you.
+    Mr. Chairman, thank you very much. I yield back my time.
+    Mr. Grothman. I now recognize Government Operations 
+Subcommittee Ranking Member, Mr. Mfume, for the purpose of 
+making his opening statement.
+    Mr. Mfume. Thank you, Chairman Sessions and Chairman 
+Grothman. And I want to also thank the witnesses who have 
+appeared here today and are prepared to present testimony.
+    In my opinion, this hearing could not have come at a better 
+time. It will allow us to consider the bloated, and what I 
+consider to be outrageous, defense spending package without the 
+sort of accountability that we should have with it.
+    The Department of Defense, unfortunately, has had a 
+critical history of challenges with its financial management 
+systems, with its business processes, with its internal 
+controls, and with its financial reporting. Those are not my 
+findings. Those are the findings of the Government Accounting 
+Office.
+    And like all of you on this Committee, I, too, support our 
+troops and believe we have a special and solemn duty to ensure 
+that our Nation is protected from increasing threats at home 
+and abroad, but there has to be accountability to the American 
+people. And as it stands, correct me if I am wrong, no one 
+really knows how much waste, fraud, and abuse is at issue here 
+and whether that money could be spent on other critical 
+programs, critical outreach efforts, and critical communities 
+all across our country.
+    As lawmakers, I think we also have a solemn duty to 
+maintain accountability of the billions of dollars that 
+taxpayers give every year that make up the defense spending 
+that we talked about previously in this committee room. It 
+comprises half of the Federal Government's discretionary 
+spending and 15 percent of the government's total spending.
+    Now, in the past, I have supported amendments to the 
+National Defense Authorization Act to cut back on excessive 
+billions of dollars funneled to the Pentagon because I know of 
+the long-standing issues that the Department of Defense and the 
+Government Accountability Office has outlined for us on their 
+High-Risk List.
+    The GAO report specifically details the Department of 
+Defense's history of pervasive deficiencies. Those deficiencies 
+are in financial management systems; business processes; as I 
+indicated before, internal controls; and financial reporting. 
+Excuse the redundancy, but I am overwhelmed by the fact that we 
+are still here dealing with this same issue again this year.
+    Until the Department can restore full faith in 
+accountability for these critical dollars, like many of my 
+colleagues, I cannot justify inflating their budget again and 
+sending tax dollars to an unknown and often untraceable realm.
+    Since 2018, auditors have identified increasing material 
+weaknesses in a total of 28 separate and distinct areas. These 
+material weaknesses are serious deficiencies that impact 
+financial reporting and, ultimately, impede the Department's 
+ability to achieve a clean audit opinion. In fact, the 
+Department is the only major Federal agency unable to receive a 
+clean audit opinion because of those deficiencies. I am going 
+to repeat that because I find that absolutely amazing. The 
+Department is the only major Federal agency unable to receive a 
+clean audit opinion because of these deficiencies.
+    As we all know, the Department of Defense is the largest 
+Federal agency. It employs over 1.4 million Active Duty 
+servicemembers, 770,000 civil employees, and an additional 1.1 
+million citizens who serve in the National Guard and Reserve 
+forces. And I am grateful for their service. I honor their 
+sacrifices. I understand that these are hardworking Americans 
+that make a sacrifice every day for our defense and for our 
+security.
+    In an effort to keep our Nation safe, we must ensure that 
+our patriots have the most sophisticated, modernized technology 
+and systems to eliminate financial errors, to streamline data 
+entry, and to ensure that we are getting the most effective 
+national security results that we can for the dollars that we 
+are putting in.
+    Mr. Chairman, I think it is important for Democrats and 
+Republicans to continue to investigate this area of technology, 
+modernization, the TMF, which helps agencies to update outdated 
+legacy IT systems, secure sensitive data, and utilize taxpayer 
+dollars in an effort and in a manner in keeping with what we 
+ultimately would like to see.
+    I just cannot allow another year, another NDAA, another 
+failed audit to go by without speaking on the record about what 
+I consider to be the severity of this issue. And I implore the 
+Department of Defense leadership to end this sort of madness 
+and to remedy the underlying material weaknesses within that 
+department as soon as possible. It makes no sense for us to 
+come back 12 months from now and to have this same discussion.
+    I want to thank, again, the witnesses for testifying today 
+before us. The security of our Nation remains absolute 
+paramount, a concern for all of us, and accountability across 
+the Department of Defense must be utmost in terms of efficiency 
+and effectiveness. So, I look forward to hearing the 
+testimonies.
+    I thank both Chairs and my Ranking Member Garcia and those 
+who have participated in getting us to this point. I look 
+forward to the testimonies, Mr. Chairman.
+    Mr. Grothman. Thank you.
+    I am pleased to introduce our witnesses here today. First, 
+Mr. John Tenaglia, the Principal Director for Defense Pricing 
+and Contracting within the Secretary of Defense, and serves as 
+Principal Advisor to the Under Secretary of Defense for 
+Acquisition and Sustainment.
+    Second witness is Dr. Brett Mansfield. He is the Deputy 
+Inspector General for audits within DoD's Office of Inspector 
+General and has over 24 years working for the IG's office.
+    And our final witness is Mr. Asif Khan, the Director of 
+Financial Management and Assurance at the U.S. Government 
+Accountability Office, where he focuses on improving financial 
+management at the Department of Defense.
+    Pursuant to Committee Rule 9(g), the witnesses will please 
+stand and raise their right hands.
+    Do you solemnly swear or affirm that the testimony that you 
+are about to give is the truth, the whole truth, and nothing 
+but the truth, so help you God?
+    Let the record show the witnesses answered in the 
+affirmative.
+    One more time, appreciate--say one more time that I 
+appreciate all of you being here today, and look forward to 
+your testimony.
+    Let me remind the witnesses that we have read your written 
+statements and they will appear in full in the hearing record. 
+We are going to try to limit your oral statements to 5 minutes. 
+As a reminder, please press the button on the microphone in 
+front of you so that it is on, and Members can hear you. When 
+you begin to speak, the light in front of you will turn green. 
+After 4 minutes, the light will turn yellow. When the red light 
+comes on, your 5 minutes has expired, and we would like to ask 
+you to wrap up at that time.
+    I recognize Mr. Tenaglia to please begin his opening 
+statement. Thank you very much.
+
+                       STATEMENT OF JOHN TENAGLIA
+
+                           PRINCIPAL DIRECTOR
+
+                    DEFENSE PRICING AND CONTRACTING
+
+                       U.S. DEPARTMENT OF DEFENSE
+
+    Mr. Tenaglia. Chairman Grothman, Chairman Sessions, Ranking 
+Member Garcia, Ranking Member Mfume, and distinguished Members 
+of your respective Subcommittees, thank you for the opportunity 
+to testify today at this joint hearing to address financial 
+accountability in the Department of Defense.
+    I am John Tenaglia, the Principal Director, Defense Pricing 
+and Contracting, in the Office of the Under Secretary of 
+Defense for Acquisition and Sustainment. I am privileged to 
+serve as the functional leader of DoD's contracting and pricing 
+community. My staff and I provide the policies, guidance, 
+regulatory framework, and e-business capabilities that enable 
+DoD components to execute the mission. DoD's contracting 
+officers are charged with the fiduciary responsibility of 
+balancing taxpayer interests, that we pay a fair and reasonable 
+price, with the mission imperative to timely deliver combat 
+capability for our Nation's warfighters.
+    Last year, I testified before the House Oversight and 
+Reform Committee to address pricing of contracts for military 
+spare parts. Since then, and with the strong support of the 
+Congress, the Department has advanced legislation and 
+additional policies that reinforced our contracting officers' 
+ability to negotiate and administer contracts with the defense 
+industry.
+    As a team, defense acquisition work force has persevered 
+through the pandemic to rapidly respond and fulfill public 
+health-related requirements on behalf of our interagency 
+partners. The Department executed over $87 billion in support 
+of COVID-19 pandemic response. The DoD acquisition work force 
+demonstrated the ability to effectively use a variety of 
+procurement authorities to rapidly deliver medical 
+countermeasures to the American people and strengthen the 
+medical industrial base.
+    Currently, our acquisition work force is engaging with the 
+defense industry to provide security assistance to Ukraine, 
+while at the same time modernizing and sustaining our own 
+systems.
+    Recently, our contracting officers have been challenged to 
+navigate with industry through economic conditions that have 
+required us to manage the risk of cost and price uncertainty. 
+In my written statement, I cited guidance we have issued this 
+past year to address inflation mitigation strategies.
+    As I asserted in my testimony last year, the price we pay 
+matters, because the more we pay, the less combat capability we 
+can acquire for our ready force. Ideally, our contract pricing 
+is based on competitive market pressures that dictate the 
+boundaries of what is fair and reasonable.
+    Three months ago, my staff and I published the DoD Contract 
+Finance Study. One finding from that study noted that small 
+business subcontractors are particularly vulnerable when it 
+comes to having cash on hand to cover operating expenses. As we 
+seek public feedback in the weeks ahead about prioritization of 
+our study recommendations, we look forward to working with the 
+Congress in assessing whether statutory changes are necessary 
+to support these objectives.
+    DoD's acquisition and contracting professionals work 
+closely with our colleagues in the DoD financial management 
+community. For example, my staff and I have collaborated with 
+the OSD Comptroller to jointly develop data standards and 
+government property accountability policy and guidance. Sound 
+financial management of the precious resources allocated to the 
+Department requires our employment of policies, practices, and 
+tools that I have described in my written statement.
+    The Department of Defense is absolutely committed to 
+delivering and sustaining preeminent capabilities for our 
+warfighters and our international partners.
+    Thank you for the opportunity to testify, and I look 
+forward to your questions.
+    Mr. Grothman. Thank you.
+    Mr. Mansfield?
+
+                      STATEMENT OF BRETT MANSFIELD
+
+                  DEPUTY INSPECTOR GENERAL FOR AUDITS
+
+                         DEPARTMENT OF DEFENSE
+
+                    OFFICE OF THE INSPECTOR GENERAL
+
+    Mr. Mansfield. Chairmen Grothman and Sessions, Ranking 
+Member Garcia and Mfume, and Members of the Subcommittee, thank 
+you for the opportunity to represent the more than 1,750 
+oversight professionals that make up the DoD OIG and to discuss 
+financial management within the Department of Defense.
+    I am Brett Mansfield, and I am the Deputy Inspector General 
+for Audit at the Department of Defense Office of Inspector 
+General. Today, I will focus on the DoD's efforts to obtain a 
+clean audit opinion and some of its long-standing challenges, 
+the importance of internal controls and their impact on 
+financial reporting and operational readiness, and the need to 
+have persistent all-hands approaches to addressing financial 
+management in internal control challenges within the Department 
+of Defense.
+    The DoD OIG performs the annual audit of the DoD agency-
+wide financial statements and oversees into public accounting 
+firms as they perform audits of the DoD's component financial 
+statements.
+    The OIG issued a disclaimer of opinion on the DoD agency-
+wide financial statement for Fiscal Year 2022, meaning that the 
+OIG could not opine on whether the financial statements were 
+presented fairly and in accordance with generally accepted 
+accounting principles. This, however, is not a new development. 
+In fact, the DoD OIG has issued a disclaimer of opinion on the 
+DoD agency-wide financial statements each year since 1996.
+    While the DoD has not received a clean opinion on its 
+overall financial statements, it has made progress in that 
+multiple components have consistently obtained an unmodified 
+opinion. While these are positive results, they do not extend 
+across the DoD, as there were another 16 entities that received 
+disclaimers of opinion for each of the last 5 years, including 
+eight CFO Act-required reporting entities.
+    The DoD's budget authority for Fiscal Year 2022 was more 
+than $775 billion, representing nearly one-half of the Federal 
+Government's discretionary budget. In the DoD's $3.2 trillion 
+in reported assets, we got nearly 70 percent of the Federal 
+Government's assets, making the DoD key to the Federal 
+Government's ability to produce clean financial statements.
+    During the most recent audit, the DoD OIG identified 28 
+material weaknesses at the DoD agency-wide level. Of those 28 
+material weaknesses, we consider 16 to be scope limiting, 
+meaning that they prevent auditors from performing the 
+necessary procedures and steps to draw a conclusion on the 
+financial statements and the supporting information.
+    And while some material weaknesses are financial in nature, 
+such as unsupported accounting adjustments, many others also 
+affect DoD operations. For example, government property in the 
+possession of contractors is a financial issue, but also tied 
+to readiness and supply chain management. In fact, many DoD 
+operational systems are the primary source of information used 
+to support DoD financial statements. As a result, it is 
+important to note that good financial management is not just a 
+financial management community responsibility. Rather, it is a 
+whole-of-DoD effort that requires consistent attention from 
+operators, CIOs, and the financial management community.
+    Financial accountability also goes well beyond financial 
+statements. It is also the day-to-day management of taxpayer 
+resources and the consistency with which the DoD demonstrates 
+its commitment to being a good steward.
+    In the last year alone, we have reported on issues related 
+to the tracking and reporting of supplemental funds, the 
+difficulties obtaining fair and reasonable pricing, and the 
+accountability of equipment provided to Ukraine through the 
+Presidential drawdown authority. In addition, over the last 5 
+years, the Defense Criminal Investigative Service, the criminal 
+investigative arm of the Department of Defense Office of 
+Inspector General, has completed 46 investigations related to 
+defective pricing.
+    These examples individually and collectively erode the 
+confidence of the American public regarding the DoD's ability 
+to manage taxpayers' dollars.
+    As I close today, I think it is important to remember that 
+achieving a clean financial statement opinion on the DoD 
+agency-wide financial statements is a long-term and continuous 
+effort for the DoD. The DoD has made progress in many areas, 
+especially those directly under the charge of the financial 
+management community. However, overcoming the DoD's financial 
+management challenges will require a commitment from personnel 
+across all functional areas within the DoD. The DoD must work 
+together to integrate the policies, business practices, and 
+systems of its vastly divergent components.
+    We believe it is imperative that the DoD focus on 
+developing and implementing consistent and sustainable DoD-wide 
+processes and internal controls, which will improve operational 
+effectiveness and efficiencies and ultimately result in a clean 
+financial statement.
+    As for the DoD Office of Inspector General, we are 
+committed to doing our part as well by providing meaningful, 
+independent oversight of the DoD and being transparent with our 
+findings and recommendations.
+    Thank you, and I look forward to your questions.
+    Mr. Grothman. Thank you.
+    Mr. Khan?
+
+                         STATEMENT OF ASIF KHAN
+
+                                DIRECTOR
+
+                   FINANCIAL MANAGEMENT AND ASSURANCE
+
+                 U.S. GOVERNMENT ACCOUNTABILITY OFFICE
+
+    Mr. Kahn. Chairmen Grothman and Sessions, Ranking Members 
+Mfume and Garcia, and Members of the Subcommittee, thank you 
+for the opportunity for inviting me here to discuss the 
+Department of Defense's auditability and systems oversight.
+    The Department of Defense is responsible for about half the 
+Federal Government's discretionary spending and about 15 
+percent of its total spending. However, DoD remains the only 
+major Federal agency that has never been able to achieve a 
+clean audit opinion.
+    A clean opinion is when an auditor finds the statements are 
+presented fairly and consistent with accounting principles. Why 
+does that matter? Imagine you are preparing to launch a 
+spacecraft on a crucial mission. Just as the success of a 
+spacecraft mission is of the utmost importance, the Department 
+of Defense's role in national security is paramount. The 
+spacecraft represents the DoD and the spacecraft's fuel 
+signifies the Department's resources, such as personnel, 
+taxpayers' money, and equipment. Every bit of fuel is vital for 
+the mission's success and every drop should be used optimally.
+    The clean audit is not the launch of the flight. It is like 
+the preflight checklist. Without it, we might know that the 
+spacecraft is using fuel, but we would not know how efficiently 
+or effectively. We would not know if some of it is leaking 
+unnoticed, if there are parts of the engine that are drawing 
+more than necessary, if redundant systems are consuming 
+resources that add no value to the mission.
+    Achieving a clean audit is like completing this preflight 
+checklist. It is not the mission's goal, but it is an essential 
+step to ensuring the flight is best positioned for success. It 
+shows that the spacecraft is not wasting fuel, that it is being 
+directed as efficiently as possible toward the goal. In the 
+case of DoD, the goal is the defense and security of our 
+Nation.
+    Just as the launch of a critical spacecraft mission needs a 
+thorough preflight check, the DoD needs to earn a clean audit 
+opinion. Fuel efficiency in a spacecraft is crucial to its 
+success. Just as the effective use of resources is critical to 
+DoD's operations, any waste or any misuse could hinder the 
+mission. Just as the checklist helps identify potential issues 
+that could jeopardize the mission, a clean audit opinion 
+ensures transparency and accountability and DoD's financial 
+operations, helping to identify and address any fraud, any 
+waste, and any abuse.
+    The goal of the Department of Defense is not to achieve a 
+clean audit opinion, but to ensure our Nation's security. A 
+clean audit opinion, however, would help ensure that the DoD is 
+making use of its resources optimally toward this goal.
+    The preflight checklist is also representative of 
+transparency. Every system and every subsystem of a spacecraft 
+is inspected and validated. Nothing is left hidden or 
+unaccounted for.
+    Similarly, achieving a clean audit opinion would mean that 
+the Department's financial transactions and resource allocation 
+and expenditures have been examined and are clear for all 
+stakeholders to see and to understand. And the preflight 
+checklist provides accountability. Each inspected and approved 
+element traces back to a specific team or individual 
+responsible for readiness.
+    Just as a checklist, a clean audit opinion holds various 
+components of the Department accountable for their financial 
+activities, therefore ensuring each dollar can be accounted for 
+and any mismanagement addressed.
+    The roadmap toward a clean audit opinion for DoD is not a 
+bureaucratic exercise. It is a commitment to a comprehensive 
+preflight checklist. This is not just about financial 
+management, but fortifying a national defense by ensuring the 
+Department directs every drop of fuel and every taxpayer 
+dollars as efficiently and effectively toward the mission of 
+securing our Nation's security.
+    I would be happy to answer any questions that you may have. 
+Thank you.
+    Mr. Grothman. Thank you very much.
+    I will recognize myself first for the purpose of asking you 
+guys some questions.
+    Both the Department of Defense Inspector General--and this 
+is for Mr. Tenaglia and Mr. Khan, either one. Both the 
+Department of Defense Inspector General and GAO have identified 
+the Joint Strike Fighter F-35 program as one of DoD's most 
+costly programs. F-35s cost the taxpayer about $400 billion to 
+acquire, and it has been projected it will cost another 1.27 
+trillion to operate and sustain them. However, as of February, 
+only 53 percent of the 500 F-35s delivered can perform at least 
+one of their assigned missions at any given time. Fewer than 
+one in three can do them all.
+    Why has the F-35 program not been able to produce a clean 
+audit, and what problems have your agencies identified that 
+prevent an accurate accounting of the F-35 program?
+    Mr. Tenaglia. Mr. Chairman, I will start with that.
+    The GAO has done some recent work on the F-35. You are 
+referring to the audit of property. And our office and the 
+Office of the Under Secretary for Acquisition and Sustainment 
+recently agreed with, I believe there was four recommendations 
+the GAO had, to strengthen the property accountability measures 
+on that particular program.
+    In my office, we have responsibility for issuing the 
+Defense Federal Acquisition Regulation Supplement language that 
+goes into the contracts, in this case the F-35 contract, to 
+enforce the property provisions and require the contractor to 
+account for the property that is in their possession. That is a 
+significant aspect of it.
+    Our office also, as I indicated in my written statement, 
+provides the tools and what we call a GFP Module that enables a 
+contractor to report that information. The F-35 program has a 
+significant amount of property, and it is complicated by the 
+fact that we have a number of international partners as well. 
+But we have accepted those recommendations and are prepared to 
+improve.
+    Mr. Grothman. OK. Does DoD issue clear guidance to 
+contractor managers when it comes to keeping track of 
+government-furnished property within the F-35 program?
+    Mr. Tenaglia. The GAO's criticism of the clarity of that 
+guidance was one of the recommendations. And I will say we have 
+worked with that program office to make sure that the terms and 
+conditions that go in that contract are clear and unambiguous. 
+Also, we are working to take those lessons and understand what 
+improvements we might make to that clause that is put in every 
+contract. We need to be absolutely clear about the 
+responsibility of contractors that have property in their 
+possession.
+    Mr. Grothman. OK.
+    Mr. Khan?
+    Mr. Kahn. The Joint Strike Fighter of the joint program and 
+the government property held by the contractors are two scope 
+limiting material weaknesses that Mr. Mansfield mentioned. The 
+primary reason for that is that there is not adequate policy 
+and procedure and guidance given by the DoD to the contractors 
+to be able to account for that information.
+    The joint program was designed for the contractors to 
+manage that supply chain. However, the financial statement 
+auditors were not able to get information from the contractors, 
+or if they were able to get the information, it did not match 
+up to what the records was. So, it really comes down to flawed 
+guidance given by the DoD to its own personnel and then 
+consequently what flowed down to the contractors.
+    Mr. Grothman. OK. I will give you a general question here. 
+On the F-35s, what is the--what do you expect the total cost of 
+the program to be, and what was the expected cost when we 
+originally started down this path?
+    Mr. Tenaglia. Mr. Chairman, I am going to have to take that 
+one for the record and have the program office provide you that 
+detailed information.
+    Mr. Grothman. I am sorry, I did not hear you. Say that 
+again.
+    Mr. Tenaglia. I am going to have to ask the program office, 
+the Joint Program Office to provide that information for you.
+    Mr. Grothman. OK. Congress has allocated 113 billion over 
+the past 2 years to provide Ukraine with assistance. In 
+November of last year, DoD Comptroller and Chief Financial 
+Officer, Michael McCord, stated that the war in Ukraine is a 
+really great example of why it matters to get this sort of 
+thing right of counting inventory, knowing where it is. Through 
+the work of the Department of Defense Inspector General and 
+GAO, it is clear DoD does not know how much money it has in the 
+Treasury or how much equipment it has or even where it is.
+    Given that, do you believe the Department of Defense has 
+the capability to accurately track the money and equipment we 
+have provided Ukraine and ensure it does not fall into the 
+hands of our enemies?
+    Mr. Mansfield. So, at the Department of Defense Office of 
+Inspector General, we have a robust series of projects ongoing 
+currently and some recently completed that get to the very 
+heart of your question, looking at the controls over end-use 
+monitoring, equipment provided to Ukraine, and looking at the 
+tracking of equipment that is in process or being shipped to 
+Germany to be provided to Ukraine. And then also, looking at 
+the training provided Ukraine, how effective and efficient that 
+is. And then a number of other projects where we are also 
+focused on the impact of that on the DoD itself in terms of its 
+operations as it draws down from prepositioned stock to provide 
+that to Ukraine.
+    So, I do believe that we have a mechanism to provide some 
+oversight and provide some assurance or lack of assurance, 
+depending on how our audits and evaluations come out on that. 
+But I would say, right now, we are still in the process of 
+providing and performing a lot of that work.
+    Mr. Grothman. Thank you.
+    Mr. Garcia?
+    Mr. Garcia. Thank you, Mr. Chairman.
+    I just want to just start off by just clarifying also for 
+the record that the DoD Comptroller Under Secretary wanted to 
+be here. I think there was an issue about ensuring that he 
+could be here on today's hearing date, so he actually did want 
+to be here. So, I just wanted to clarify that as well.
+    But thank you again for being here. Today's topic on the 
+DoD's challenges to passing an audit is important to all of us. 
+The Department's efforts to reach a clean audit will help 
+provide greater transparency and visibility so that the funds 
+are used as intended.
+    I want to also just discuss some of the ongoing audit 
+efforts with respect to Ukraine aid. Obviously, this is a very 
+important topic for all of us right now.
+    Just to start, Mr. Mansfield, how many inspectors general 
+offices are part of Ukraine Oversight Interagency Working 
+Group?
+    Mr. Mansfield. I believe, if memory serves correctly, it is 
+around 20 currently. It is led currently by the coalition of 
+the DoD, State, and Agency for International Development 
+Inspectors General.
+    Mr. Garcia. So, a large and robust group?
+    Mr. Mansfield. Yes, sir.
+    Mr. Garcia. Thank you.
+    Mr. Tenaglia, can you tell us how many defense-related 
+departments are part of the working group?
+    Mr. Tenaglia. Ranking Member Garcia, I believe you are 
+referring to the effort in support of Ukraine. I do not refer 
+to it as a working group, per se----
+    Mr. Garcia. OK.
+    Mr. Tenaglia [continuing]. But we have--on the procurement 
+end of it, the Army is executing the significant volume of the 
+business. It is providing security assistance in the form of 
+contracts. Other military departments are contributing as well.
+    Mr. Garcia. Thank you. So, there is multiple departments 
+within the Department of Defense that are all part of the 
+working--or the group as far as it relates to Ukraine aid and 
+Ukraine, correct, sir?
+    Mr. Tenaglia. Yes, sir.
+    Mr. Garcia. Thank you.
+    Mr. Khan, is the Government Accountability Office part of 
+the working group as well?
+    Mr. Kahn. The GAO was requested by Congress to provide 
+oversight. We have 24 separate engagement, 10 of them have 
+already been initiated, and other dozens will be initiated. We 
+coordinate with this interagency working group that you are 
+referring to. In addition to that, we coordinate with the 
+Inspector General of the DoD, as well as the Inspector Generals 
+of the State Department and USAID.
+    Mr. Garcia. Thank you very much.
+    So, I mean, there are at least 20 organizations, minimum, 
+working on Ukraine oversight as part of the interagency working 
+group, including at least 15 offices of inspectors general for 
+Defense Department components and the GAO. And this number, of 
+course, does not reflect of more than 20 organizations, half 
+dozen additional OIGs in organizations who have participated in 
+meetings within these oversight groups.
+    Mr. Chairman, I also would like to ask for unanimous 
+consent to enter into the record this list of the 20 government 
+auditing agencies that are part of the Ukraine Oversight 
+Interagency Working Group.
+    Mr. Sessions. [Presiding.] Without objection, it will be 
+entered into the record.
+    Mr. Garcia. Thank you.
+    So, I think it is pretty clear that there is a significant 
+amount of professionals, of groups, of departments that are all 
+working on the, you know, important work that is happening in 
+Ukraine, ensuring the auditing, ensuring that agencies are 
+working together to ensure the money and the American public is 
+actually understanding what is happening as we are providing 
+this important aid.
+    I want to note that DoD's Inspector General, Robert Storch, 
+noted in the March 2023 joint oversight of the Ukraine response 
+that DoD agencies have been, quote, ``positive and productive 
+in their response to the Inspector General.''
+    So, I just want to be clear, and even though I know that 
+some of the Majority has claimed that there is no real 
+oversight and no good accounting of the military aid going to 
+Ukraine, that is just not the case and not true.
+    We should stop advancing a narrative which undermines a 
+resistance to Vladimir Putin, who has killed thousands of 
+people, caused the gas price increases of 2022, and threatened 
+the security of the whole world. We should stop a narrative 
+that empowers people who are working to end all of our aid to 
+Ukraine and to abandon all of our allies and destabilize the 
+whole world. And we should certainly not empower people who 
+call Ukrainians Nazis.
+    Today on the House Floor, these extremists are pushing pro-
+Putin amendments to the National Defense Authorization Act. 
+This would sell out the Ukrainian people. And I hope all 
+Members will join me in opposing them.
+    I yield back.
+    Mr. Sessions. Thank you very much. The gentleman makes very 
+good points, and I appreciate him being a part of this hearing 
+today.
+    I will now yield myself such time as I consume--choose to 
+consume, which will be about 5 minutes.
+    I would like to ask the panel. Perhaps, Mr. Khan, you are 
+best at answering this, at least a whack at it first. I am 
+interested in, are we giving you the proper tools, the proper 
+ability to be able to effectively do your work?
+    We see in the GAO has recently estimated that the DoD 
+utilizes over 350 different systems for financial management, 
+with some of them being not just old but incapable of 
+effectively providing data and information inputting and get 
+out what you would need.
+    First of all, are we providing you with what you need? 
+Second of all, have you a list of these things to where you 
+have identified weaknesses in your own abilities? Question to 
+Mr. Khan, and then the rest of the panel.
+    Mr. Kahn. Thank you, Chairman Sessions for that question.
+    Yes. Answer to that--your first question is affirmative 
+yes. We have the resources and the ability to oversee the 
+Department of Defense. And we work through a coalition of other 
+overseers of the Department of Defense, including the DoD OIG, 
+as well as the public accounting firms who are carrying out the 
+financial statement audits. So, it is not just the GAO by 
+itself, but we are working with a network of other auditors.
+    Mr. Sessions. So, perhaps what you are suggesting is these 
+outside auditors may not be able to speak transparently to the 
+systems that you would expect them to be able to help you. Is 
+that what you are saying?
+    Mr. Kahn. We can leverage their work. If there is any 
+ambiguity in the information they are providing, we follow up 
+with the DoD officials, and we are able to get the information 
+to satisfy our questions.
+    Mr. Sessions. OK. Well, I am really interested in your 
+operation. I do recognize you have outside auditors. I do 
+recognize those outside auditors speak to you. I am talking 
+about your ability that you control and the things whether we 
+are giving you the money, the effort, and the attention to fix 
+your own shop in these what might be antiquated systems.
+    Mr. Kahn. Right. Congressman Sessions, our--the GAO's own 
+operations are working efficiently and effectively. We have the 
+resources to be able to carry out our audits at the DoD.
+    Mr. Sessions. OK. So, your testimony is that you would 
+disagree with what GAO reported that it estimates that DoD 
+utilizes over 350 different systems for financial management.
+    Mr. Kahn. That is the DoD. That is a correct number. DoD 
+uses several hundred systems.
+    Mr. Sessions. So, their own financial systems are outdated, 
+but you and your oversight, you are up to date. They are the 
+ones that do not then--have not chosen to update it to where 
+they can then correspond with you or to produce reports. Is 
+that your testimony?
+    Mr. Kahn. DoD has antiquated systems. GAO has current 
+systems. We can go out and audit the DoD----
+    Mr. Sessions. OK. Mr. Khan, this Subcommittee of Government 
+Operations, as well as National Security, the gentleman, Mr. 
+Grothman, and I, I think you could expect a letter from the 
+four of us--we will have to see--that would ask for that 
+specific list of, let us say, the most critical systems that we 
+need to write the DoD and we need to ensure that they are going 
+to perform them. Because if that hinders your ability based 
+upon a decision that they have made, we need to know about 
+that.
+    Thank you very much for that answer. That gets us closer.
+    Mr. Mansfield?
+    Mr. Mansfield. Yes. I would say that we--at the DoD OIG we 
+definitely support--appreciate the support we receive from 
+Congress in terms of our funding. I think we do have the 
+resources currently that we need to do the oversight that we 
+perform, both in partnership with GAO and overseeing IPA is 
+doing independent work as well.
+    That said, I think to your point, are there things within 
+the DoD that limit our ability? Absolutely. That is why I have 
+identified in our--my written statement as well as in our 
+earlier issued report, Understanding the Results of the DoD's 
+Financial Statements, what we consider to be scope-limiting 
+material weaknesses. And what that means is the DoD does not 
+have appropriate systems or controls in place or they do not 
+know to how to describe their processes and procedures for 
+collecting up information and reporting it out to a great 
+enough detail for us to actually be able to test it. So, we 
+cannot do our job until the DoD effectively does its own job of 
+producing financial statements and tracking transactions, you 
+know, assets and all of those things.
+    Mr. Sessions. My time has expired, but I am going to extend 
+myself an additional minute.
+    Would you expect that when they do buy these corresponding 
+systems that you need, that there would be an interaction or a 
+coordination of communication at the same time? I know they are 
+old. I know they are not working. I know. Would you expect us 
+to be able to say to them and you need to be able to talk 
+together, or are they such large systems you just need to be 
+able to access the data?
+    Mr. Mansfield. I think it is a combination of both. You 
+know, you have a plethora of feeder systems, which are 
+traditionally operational systems, so your accounting--your, 
+like, inventory systems and whatnot. That contains condition 
+information, accountability information, and cost information. 
+And those are used by operators. But that also then feeds the 
+financial statements. So, do they need to talk? Absolutely.
+    I think the other question that I have is whether or not 
+they need to have multiple accounting--or, you know, inventory 
+systems where is one good enough that they can use in multiple 
+places.
+    Mr. Sessions. Redundancy.
+    Mr. Mansfield. We have an ongoing audit right now looking 
+at the DoD's information systems that are relevant to financial 
+reporting. We would be happy to come and brief the Committee 
+once that report is issued.
+    Mr. Sessions. Thank you very much. I think this would be of 
+common interest, and I will find out among my colleagues. Thank 
+you very much.
+    Mr. Mfume, you are recognized.
+    Mr. Mfume. Thank you, Mr. Chairman.
+    Let me begin by associating my remarks with those of Mr. 
+Garcia, the Ranking Member. I could not agree with him more 
+that those who would seek to use efforts in the form of 
+amendments that ultimately are pro-Putin should be defeated on 
+the Floor. Otherwise, they risk this bill being defeated. And I 
+do not want that to go by without a comment. So, I associate 
+myself totally with his remarks in that regard, and would just 
+say again that that sort of effort will--could very well 
+imperil the passage of this authorization.
+    I would like to go to you, Mr. Tenaglia, for just a moment, 
+if I might. You spoke about contractors and the fact that so 
+many are holding, for lack of a better term, property. And that 
+they are not just here in the United States but all over the 
+globe.
+    In looking at this practice, for lack of a better term, are 
+we able to assign a dollar value or an approximation of the 
+value of that property worldwide?
+    Mr. Tenaglia. Yes, we are able. I do not have that specific 
+number with me today. We can provide that to you, but that is 
+part of the process, making sure we have an understanding of 
+the exact amount of property, where it is located. The efforts 
+that we have underway are all about getting after exactly how 
+can we inventory that.
+    The nature of government contracts, particularly in DoD, is 
+such that it is to our benefit to provide contractors with 
+government-furnished property, as we call it. It helps from an 
+efficiency standpoint. It helps them reuse the existing 
+property that we have available to us. And that is less that we 
+would have to pay for a given contract if we are able to give 
+them property to use. And so, it is very important for us to 
+embed that requirement for accountability into our contractors 
+and then to actually enforce those terms.
+    Mr. Mfume. So, you will return that information or get that 
+information to this Committee?
+    Mr. Tenaglia. The total amount, yes, sir.
+    Mr. Mfume. Yes. And I am assuming you have had a chance to 
+look at the total amount at some point in time. Would you 
+consider it to be a staggering amount of money?
+    Mr. Tenaglia. Sir, reading what the GAO has observed, it is 
+staggering. I believe on the order of $3 trillion, something to 
+that effect.
+    Mr. Mfume. OK.
+    Mr. Tenaglia. But we will get you the specific amount.
+    Mr. Mfume. Yes, it is alarming to me. I do not know how 
+other people feel about it. That is a lot of money.
+    What is the reclamation process for much of this equipment 
+after a contract ends?
+    Mr. Tenaglia. So, the disposition of property--and I should 
+come back to what I was just referring to would be probably the 
+total property, not necessarily the property that is in the 
+possession of contractors. But the reclamation process goes to 
+how we disposition property. For example, in the GAO report, 
+they talked about dispositioning spare tires for aircraft that 
+is no longer functional. So, there is an adjudication process 
+that the government undertakes with the contractor to 
+understand whether that property could be destroyed or 
+otherwise reused.
+    Mr. Mfume. Let me go to you, Mr. Khan, if I might, for just 
+a moment. I appreciated the scenario that you drew for us of 
+the launching of a spacecraft and how in that process, which is 
+rather benign, of course, you have a preflight checklist, if I 
+understood you correctly. In that preflight checklist are all 
+the things that ought to be in place before there is an attempt 
+to try to launch in order to be able to find out where the 
+deficiencies are, how to correct them, and how to prevent them 
+from happening again. And so, this preflight checklist 
+obviously deals with accountability, accountability, and more 
+accountability. But at the end of the day, it fortifies our 
+national defense.
+    I want you to walk me back through that again and talk to 
+some extent or even give examples of how inaccurate inventories 
+in DoD's financial system can hinder mission-critical needs.
+    Mr. Kahn. Thank you for that question, Congressman Mfume.
+    The--just speaking about the audit process, the checklist, 
+it checks the inventory, it checks where the assets are, what 
+the count is, what the condition is, what the location is. That 
+has a direct impact on readiness.
+    There have been instances as part of the audit process 
+where DoD themselves have found assets in warehouses, like 
+Black Hawk helicopters which were not on the property records. 
+They have found missile motors that were not on the records. 
+They have found other assets. As a result, they were able to 
+reprioritize those assets, put them where they could be put to 
+great use. So, in that respect, getting audit readiness really 
+does impact the military's readiness.
+    Mr. Mfume. Well, I am glad you brought up these Black Hawk 
+helicopters, which I also find amazing. Can you kind of give us 
+some background on how that problem even became a problem?
+    Mr. Kahn. It goes back to the property records where the 
+assets are recorded. It goes back to the older and antiquated 
+system. They are meant to really support very localized 
+operations, and in many cases, they do not communicate with 
+each other.
+    So, in this case, the Black Hawk helicopters were in one 
+particular system, but they were not communicating with the 
+system which was reporting that information higher up. And when 
+the team of auditors went to the warehouse, they discovered the 
+helicopters in the warehouse, but they were not on the 
+inventory records. That is how they were discovered in this 
+particular instance.
+    Mr. Mfume. So, is it fair to assume that DoD has no 
+preflight checklist?
+    Mr. Kahn. Yes, analogous with the----
+    Mr. Mfume. With the example you gave.
+    Mr. Kahn. Yes.
+    Mr. Mfume. Thank you, sir.
+    Mr. Grothman. [Presiding.] Congresswoman Foxx.
+    Ms. Foxx. Thank you, Mr. Chairman.
+    Mr. Chairman, I want to tell you, my blood just boils when 
+I read about what is happening in DoD and to hear the answers 
+that we are hearing today, not because I am angry at the people 
+here, but this is ridiculous.
+    We claim to be the greatest country in the world, and yet 
+we cannot--the Department of Defense cannot produce a clean 
+audit. What in the heck is this? It makes no sense. It makes no 
+sense. It does not--I love your analogy of a rocket launch. But 
+you know it does not take a rocket scientist to figure out how 
+to do an audit or how to find things that belong to your 
+office.
+    I looked up ``systems'' because my staff said, you know, we 
+have got lots and lots of systems. What are you all, over 300 
+systems in the Pentagon? So, what is the definition of a 
+system. A set of principles or procedures according to which 
+something is done. A set of things working together as part of 
+a mechanism or interconnecting network.
+    What is clear is these are not systems, because they are 
+not working and nothing gets done from them. Something is 
+wrong, deeply wrong in the Department of Defense. And we are 
+wasting--they are wasting taxpayer dollars. And that is 
+absolutely unacceptable, as far as I am concerned.
+    I want to ask a question. I just need a very quick answer. 
+Can any one of you name one system in the DoD that is working? 
+Each one of you, is there one system? If there are two, just 
+tell me. Is there one system that works?
+    Mr. Tenaglia. We do have a number of systems that work in 
+the procurement field. The standard procurement system needs to 
+be retired. It is a legacy system. It works. We are working 
+with the Comptroller on the standards to make sure that it 
+communicates with the financial system, so it is really all 
+about the data standards behind that.
+    Ms. Foxx. OK. Well, Mr. Mansfield, I want you to answer 
+that question too. But one of the questions I had had to do 
+with the fact--you said that that system works. But in 2021, 
+the Office of the Special Inspector General for Afghanistan 
+reported that the Air Force spent $549 million to purchase 20 
+cargo aircraft for the Afghan Air Force, but due to 
+unreliability and numerous complaints about safety, the program 
+was suspended, the planes were destroyed and turned into scrap 
+metal.
+    And you just told me that the office of procurement system 
+works? You explain that to me. I cannot understand this fact 
+and your answer.
+    Mr. Tenaglia. I am not familiar with that particular fact, 
+but I do not believe that would be part of the standard 
+procurement system. I will take that back and understand which 
+system presented that fact.
+    Ms. Foxx. So, you have a standard procurement system, but 
+then you have an organization that works outside the standard 
+procurement system. Is that what you are telling me?
+    Mr. Tenaglia. There are a number of other systems, logistic 
+systems, financial systems. I was just speaking to the system 
+that we use to write contracts.
+    Ms. Foxx. OK. But I am going to follow up on this with you, 
+and I want a response on how you are telling me that the 
+procurement system works, but we have a debacle where $500 
+million of taxpayer dollars were wasted when you are telling me 
+that system works.
+    Mr. Mansfield, very quickly, do you know the system that 
+works? It better be better than the one he just explained.
+    Mr. Mansfield. Unfortunately, what I would say is that 
+there are systems that are capable of working. The difficulty 
+is whether or not the individuals who are using those systems 
+are----
+    Ms. Foxx. So, then fire them. Get rid of them if they 
+cannot do the job. It sounds to me you have a culture problem.
+    Mr. Khan?
+    Mr. Khan. I do not know of any system in DoD that works as 
+intended.
+    Ms. Foxx. That is an indictment that is unbelievable. We 
+have 345 systems and not a single one is working as designed.
+    I yield back, Mr. Chairman.
+    Mr. Grothman. Ms. Lee.
+    Ms. Lee. Thank you, Mr. Chairman.
+    I want to thank the Joint Subcommittees for holding this 
+hearing on the financial mismanagement of the Department of 
+Defense. I think this is one of the few areas where I can agree 
+with my Republican colleagues on the need and nature of this 
+oversight.
+    When we dedicate so many of our resources to our military 
+while we nickel and dime our other programs, the least we are 
+owed is transparency and accountability. When our country 
+spends more on defense than the next ten countries combined, we 
+rightfully have high expectations for how that department 
+functions. Yet year after year, we shovel billions their way, 
+15 percent of our total budget. We continue to be disappointed, 
+and the American people are let down.
+    Mr. Tenaglia, how much did the 2023 National Defense 
+Authorization Act authorize for shipbuilding?
+    Mr. Tenaglia. I do not have that particular figure. The 
+total amount of contract obligations in 2022 was over $400 
+billion.
+    Ms. Lee. For shipbuilding it authorized $32.6 billion.
+    Do you know how many school lunches that amount could 
+provide to hungry children in America, where for the one in 
+eight children who go to school hungry, that may be the only 
+meal they get? All of them, and then some. The school lunch 
+program cost $28.7 billion in 2022.
+    Mr. Tenaglia, on average how much does the military spend 
+on Viagra each year?
+    Mr. Tenaglia. I do not have that figure.
+    Ms. Lee. About $41.6 million.
+    Do you know how many bridges in my district of Pittsburgh 
+could be repaired with that amount? About two. The rebuilding 
+of the Fern Hollow Bridge which, of course, collapsed the day 
+that President Biden happened to be coming to Pittsburgh cost 
+about $25.3 million to rebuild.
+    Mr. Tenaglia, how much did the Department of Defense spend 
+on snow crab and Alaskan king crab in 2018?
+    Mr. Tenaglia. I do not have that amount.
+    Ms. Lee. According to OpenTheBooks, it was $2.3 million.
+    Do you know how much the Pittsburgh City Council spends 
+each year serving the county's unhoused population?
+    Mr. Tenaglia. No.
+    Ms. Lee. Only $1.2 million, but they are certainly not 
+being served Alaskan king crabs.
+    According to an investigation by this Committee in 2016, 
+the F-35 program specifically raked up hundreds of millions of 
+dollars in added cost due to mismanagement and negatively 
+affected military readiness.
+    Mr. Tenaglia, how much is the F-35 joint program estimated 
+to cost the Federal Government to produce, operate, and sustain 
+over its lifetime?
+    Mr. Tenaglia. I believe that the GAO cited that figure. I 
+do not have it in front of me, but we can get that for you.
+    Ms. Lee. It is about $1.7 trillion, enough to completely 
+eradicate student loan debt.
+    According to the Government Accountability Office, between 
+May 2018 and October 2022, about 1 million F-35 spare parts 
+worth $85 million were, quote, ``lost'', just vanished. Losing 
+millions of dollars in assets is unacceptable. DoD themselves 
+do not oversee or account for certain F-35 spare parts. Only 
+the prime contractors maintain this information.
+    Mr. Khan, how does this lack of access to contractor 
+information hinder accountability in DoD's ability to provide 
+accurate reporting in its audit?
+    Mr. Khan. It severely impacts DoD's ability to be able to 
+provide accountability over those assets.
+    Ms. Lee. Mr. Tenaglia, going forward, what steps can your 
+office take to improve contract requirements on the front end 
+to enable better oversight during the life of the contract?
+    Mr. Tenaglia. So, we are taking those actions now, 
+improving the clauses, the terms and conditions that go into 
+contracts that communicate to contractors what the requirements 
+are for property management. And the government-furnished 
+property module that I described, it is the means by which 
+contractors can communicate how they are dispositioning 
+property, how they are receiving property, and we know where 
+that property is throughout its life.
+    Ms. Lee. OK. Thank you.
+    In 2019, this Committee led a bipartisan hearing to hold 
+military contractor, TransDigm, accountable for its exorbitant 
+profits on DoD contracts for spare parts. This pressure led to 
+TransDigm repaying DoD $16.1 million. Last Congress, this 
+Committee held a second hearing again on the excess profits 
+that TransDigm received.
+    I will note that my Republican colleagues did not join our 
+call for TransDigm to repay its excess profits, even though 
+TransDigm has a track record of fleecing American taxpayers. 
+TransDigm likes to acquire companies with sole source DoD 
+contracts and then exploit its monopoly position by hiking up 
+prices on crucial spare parts.
+    Mr. Tenaglia, what policy changes are DoD considering to 
+prevent price gouging on sole source contracts? And are there 
+specific legislative reforms that would assist this effort?
+    Mr. Tenaglia. So, as I indicated in my written statement, 
+section 803 of the Fiscal Year 2023 NDAA helps us in that 
+regard. It will require contractors to provide the transparent 
+cost and pricing data that we need. In the case of commercial 
+items, likely that will be uncertified information. But, by the 
+same token, our contracting officers need access to that 
+information in order to establish a fair and reasonable price.
+    Ms. Lee. Thank you.
+    It is my time, but I want to say I urge the department to 
+do better. Your department accounts for 15 percent of the total 
+budget. You need to be more mindful of not only how you spend 
+America's tax dollars, but also how you account for it. 
+Millions of dollars should not just be lost and failing audits 
+should not be the norm. That is unacceptable.
+    I yield back.
+    Mr. Grothman. Mr. Higgins.
+    Mr. Higgins. Thank you, Mr. Chairman.
+    Gentlemen, what an uncomfortable hearing. Is it not? Let me 
+say it is uncomfortable for the entire American citizenry to 
+gaze upon this bizarre realm of D.C. and wonder how it operates 
+when we are facing now $32 trillion in debt. We have added $1 
+trillion in 1 month, by the way. And the most ravenous 
+leviathan of our government that devours the people's wealth is 
+the Department of Defense, the Pentagon.
+    What a culture we have allowed to become manifest in those 
+halls of ultimate power, the military might and expenditure of 
+the people's treasure. Yet we were warned on the year of my 
+birth, 1961, in his farewell speech, President Eisenhower said 
+the following: ``This conjunction of an immense military 
+establishment and a large arms industry is the new American 
+experience, yet we must not fail to comprehend its grave 
+implications. In the councils of government, we must guard 
+against the acquisition of unwarranted influence, whether 
+sought or unsought, by the military-industrial complex. The 
+potential for the disastrous rise of misplaced power exists and 
+will persist.''
+    I have a copy of the NDAA of that year, the 1962 NDAA as 
+drafted in 1961. I have a copy of it on my desk. It is one page 
+long. $7.5 billion covers the entire expenditure. My, my, my, 
+how we have descended into the belly of this beast.
+    In the private sector, a corporate entity or business goes 
+to a bank for financial establishment and is, therefore, 
+subject to audit. On a regular basis the bank audits that 
+business. If the business passes the audit, then the business 
+can return to the bank for more money. If the business fails 
+the audit, what do you think happens, Mr. Mansfield? Can that 
+business go to the bank and get more money?
+    Mr. Mansfield. It cannot.
+    Mr. Higgins. It cannot. Or maybe it is a minor error. Maybe 
+it is a minor error. They make adjustments. They have another 
+audit. They fail that audit. Does the bank change course and 
+say, ``Well, you tried, we are going to give you money.'' Can 
+they get money, Mr. Mansfield?
+    Mr. Mansfield. Probably not.
+    Mr. Higgins. They cannot.
+    Mr. Mansfield. They cannot.
+    Mr. Higgins. Thank you for your candor.
+    Here is the problem with this bank. We do not even have the 
+money. We are giving you $1 trillion a year almost now. We just 
+added $1 trillion to our national debt in 1 month. It is an 
+arrogantly abusive culture that we have allowed to become 
+manifest over there that devours the people's wealth.
+    So, let us shift to a positive note, Mr. Mansfield. For the 
+record, how long have you been in your position, good sir?
+    Mr. Mansfield. My current position, about a year and a 
+half.
+    Mr. Higgins. Year and a half. You stepped into the fire, 
+man. I would imagine you are a patriot, very good at what you 
+do. I am sure you envisioned fixing this thing. Did you not?
+    Mr. Mansfield. Well, I envisioned the department fixing it. 
+Our job is to validate them.
+    Mr. Higgins. Through your leadership and guidance and 
+supervision, through your skills, you would endeavor to produce 
+a clean or relatively clean audit by the DoD?
+    Mr. Mansfield. It is not particularly whether the audit is 
+clean or not, meaning it really depends on the department 
+getting its financial house in order. We just report the facts 
+as they are.
+    Mr. Higgins. You are in the middle of that, though, aren't 
+you?
+    Mr. Mansfield. Yes, sir.
+    Mr. Higgins. Along with the gentleman sitting next to you.
+    In my closing seconds, can any of you gentlemen promise in 
+the near future a clean audit?
+    Mr. Tenaglia?
+    Mr. Tenaglia. Sir, I would ask the Comptroller to help me 
+provide you with a timeline that the Comptroller is indicating 
+is the pathway to a clean audit.
+    Mr. Higgins. We are looking for a glimmer of hope here, 
+gentlemen.
+    Mr. Mansfield?
+    Mr. Mansfield. I can only commit to continuing to assess 
+the department and being as transparent as we can with how we 
+see it. And as of right now, I do not think their timeline is 
+as they say----
+    Mr. Higgins. Valiant effort, good sir.
+    Mr. Khan?
+    Mr. Khan. No. GAO cannot project a time when DoD is going 
+to be audible. Through our recommendations, we are forcing them 
+to get audible, but it is certainly up to them to implement 
+those recommendations and to reach that goal.
+    Mr. Higgins. Thank you, gentlemen, for your testimony 
+today.
+    Mr. Chairman, I yield.
+    Mr. Grothman. Ms. Norton.
+    Ms. Norton. Thank you, Mr. Chairman.
+    In the 1990's, Congress passed, Mr. Mansfield, legislation 
+requiring Federal agencies to improve their financial 
+management processes. That goal included a requirement for 
+large agencies to prepare annual agency-wide financial 
+statements and have them audited. Congress designed the 
+legislation to effectively manage and safeguard taxpayer-
+provided resources and to help lawmakers better focus on 
+government performance and serving this country.
+    The Government Accounting Office placed DoD financial 
+management on its High-Risk List in 1995. That, of course, 
+indicates financial management was vulnerable to waste, fraud, 
+abuse, and mismanagement. Despite decades of preparation, DoD 
+did not assert readiness for a full audit of its financial 
+statements until Fiscal Year 2018.
+    So, Mr. Mansfield, can you provide a brief--or a few brief 
+observations on DoD's main challenges preparing for audit 
+readiness leading up to 2018?
+    Mr. Mansfield. I would say that they are very similar to 
+the problems that they face today, in that it is systems that 
+are noncompliant with Federal general ledger expectations. It 
+is systems that do not communicate. It is a department that 
+cannot consistently and repeatedly do the same processes over 
+and over. They cannot describe, on occasion, the processes 
+through which information are supposed to flow, the controls 
+they have in place to ensure the information is accurate. These 
+are long-standing issues.
+    I would refer you back to our--my prepared statement where 
+some of the scope-limiting material weaknesses that I spoke 
+about earlier, some of those have been around for nearly 27 
+years, so since the DoD and the CFO Act required financial 
+statements from the DoD.
+    So, information technology, fund balance with Treasury, 
+inventory-related property, general property and equipment, and 
+government property in possession of contractors, as well as 
+environmental liabilities and disposal--or environmental 
+disposal liabilities, those have all been issues the department 
+has been dealing with since the establishment of the CFO Act 
+which you referred to.
+    Ms. Norton. Thank you.
+    Mr. Khan, since Fiscal Year 2018, DoD's Office of Inspector 
+General has coordinated five DoD department-wide financial 
+audits, five. Each time DoD has been unable to receive a clean 
+audit opinion, meaning that independent auditors could not 
+obtain sufficient reliable information on whether DoD presented 
+its financial statements fairly and in accordance with 
+generally accepted accounting principles.
+    For Fiscal Year 2023, DoD's OIG identified improving 
+financial management and budgeting as one of the eight top 
+management challenges of the agency. Their report stated--and 
+here I am quoting--``the DoD will continue to face challenges 
+related to financial managements and budgeting due to its size 
+and complexity, shortcomings in its current business processes 
+and reliance on legacy systems.''
+    For example, DoD operates more than 300 different financial 
+management systems across the department, which includes some 
+legacy systems dating back to the 1960's. We do not actually 
+know how many systems there are. Moreover, DoD's OIG has found 
+that DoD--and here I am quoting--``historically underestimates 
+the time necessary to retire legacy systems.''
+    So, Mr. Khan, DoD has been working to improve its financial 
+systems environment for more than 30 years. Why is it taking so 
+long to modernize these systems?
+    Mr. Khan. This was not a priority for DoD until the last 10 
+or so years. DoD has many systems, but they are not meant to 
+produce reliable financial information. They were put into 
+place to support the mission logistics and it has only been in 
+the last 10, 15 years that they have realized that financial 
+information is important to them primarily because of budget 
+constraints.
+    So, it is a matter of priority, and that has only happened 
+in the last 10 or so years.
+    Ms. Norton. Thank you.
+    I yield back.
+    Mr. Grothman. Thank you.
+    Mr. Biggs.
+    Mr. Biggs. Thanks, Mr. Chairman.
+    This is an incredibly important and timely hearing today. 
+Appreciate you gentlemen for being here today. We are 
+considering an almost $890 billion NDAA bill this week. The 
+only thing that is actually growing faster than the DoD budget 
+as a budget unit is our interest on our national debt. That is 
+the only thing that is growing faster than that. So, I thank 
+you for being here.
+    Mr. Tenaglia, I have to tell you I am disappointed that 
+your colleagues did not make today's hearing a priority, but I 
+am grateful that you are here.
+    DoD's budget accounts for nearly half of the Federal 
+discretionary budget, and DoD is responsible for nearly 75 
+percent of government assets.
+    Mr. Khan, DoD's financial management has been on GAO's 
+High-Risk List since when?
+    Mr. Khan. 1995.
+    Mr. Biggs. And this highlights the exposure of taxpayer-
+funded resources to waste, fraud, abuse, or mismanagement 
+because it is nearly 30 years DoD has been on that High-Risk 
+List.
+    It has already been discussed today. Last fall, DoD failed 
+its fifth consecutive audit and was unable to account for 61 
+percent, 61 percent, of it is $3.5 trillion in assets. Yet 
+after more than 15 years of audit readiness and mediation 
+efforts, DoD is yet to produce a clean audit.
+    Mr. Mansfield, how much money has DoD spent on audit 
+readiness over the past 15 years?
+    Mr. Mansfield. Sir, I do not know, over the past 15 years, 
+I do not have that in front of me. But I can tell you since 
+2018, audit support, which is responding to auditor requests is 
+right around $1 billion. And audit remediation efforts, that is 
+putting controls in developing corrective action plans, that is 
+around $3 billion.
+    Mr. Biggs. $3 billion?
+    Mr. Mansfield. Yes, sir.
+    Mr. Biggs. So, a total of about $4 billion?
+    Mr. Mansfield. That is correct.
+    Mr. Biggs. And you still cannot manage to pass a stinking 
+audit.
+    Mr. Khan, what factors contribute to DoD's inability to 
+pass a financial audit?
+    Mr. Khan. It is primarily the capacity. It has got two 
+parts to that. One is antiquated systems that are unable to 
+produce survival information, and the other one is their 
+trained work force, people who know the interim DoD business 
+processes and they know how to work new Martin systems.
+    Mr. Biggs. Same question for you, Mr. Mansfield.
+    Mr. Mansfield. I do not have a whole lot to add there. I 
+think it really is just antiquated systems and just a lack of 
+understanding what their processes and procedures are.
+    Mr. Biggs. Mr. Tenaglia?
+    Mr. Tenaglia. I think the internal controls and also the 
+inability of our systems to communicate with one another. In my 
+written statement, I described the procure-to-pay process, the 
+end-to-end process, from financial inception of a requirement 
+in through contract and payment on that contract. And so, 
+behind that we are instituting a number of standards that will 
+enable----
+    Mr. Biggs. OK. Let me ask you this next question.
+    Mr. Tenaglia, what are the consequences for failing to pass 
+an audit to DoD?
+    Mr. Tenaglia. In the case--well, in the demand that I work 
+in, in the procurement and contracting, it relates to our 
+inability to----
+    Mr. Biggs. What is the consequences?
+    Mr. Tenaglia. The consequence, the inability to understand 
+where our assets are.
+    Mr. Biggs. So, the response of this body is we just keep 
+throwing more money there. Right? You do not know where your 
+assets are, but we are going to keep giving you more money. So, 
+the NDAA top line is increasing by $23 billion this year. 
+Inflation adjusted, it will be highest DoD budget since World 
+War II, highest.
+    And Mr. Higgins here, the audit line, the questioning that 
+he was engaged in, the problem is he said Mr. Mansfield 
+correctly answered that if you fail an audit, you are not going 
+to get more money from the bank. And he says, ``Well, we are 
+the bank.'' The problem is the bank just keeping giving you 
+more money.
+    So, Mr. Tenaglia, there is no consequence. You may not know 
+where everything is, but we are going to give you more money. 
+It just keeps happening. And that is what is going to happen 
+tonight at 10 p.m. We will finish it off tomorrow. We will do 
+amendments tonight, and then tomorrow we will pass it out, and 
+we will send it to the Senate, and you guys are going to get 
+more money than you have ever had.
+    I do not think anybody in this audience at home, the four 
+people that are watching this on TV, and those of you who are 
+in this room, and probably most people on this Committee, I am 
+not sure that you even realize this, but it was reported to me 
+before we left for the July 4th recess that the $1.8 trillion 
+discretionary budget, non-military and military, all the 
+discretionary budget, we have to borrow every penny of that 
+$1.8 trillion, every penny. That is the problem with us being a 
+bank. We are broke, and we just do not acknowledge it or know 
+it.
+    Yield.
+    Mr. Grothman. Ms. Crockett.
+    Ms. Crockett. Yes. Thank you, Mr. Chair.
+    I do not want to be redundant. I think that if we have not 
+figured out by now, we know that you all are constantly 
+failing. Right? And, honestly, our job is to win for the 
+American people. And so, while this Committee tends to be 
+probably the most divided committee in the Congress, especially 
+this Congress, it is amazing the times that we can agree. And 
+we agree that right now taxpayer dollars are being wasted. I am 
+just going to keep it all the way real.
+    And what is frustrating to me is that while I applaud my 
+colleagues from the other side of the aisle bringing this and 
+pointing out that there is definitely a ridiculous amount of 
+waste when it comes to defense--and that does not mean on the 
+anti-defense before the haters on Twitter start getting crazy, 
+because we all want to be free. We all want to feel safe here 
+in this country, and we appreciate what defense does for us. 
+But everyone has to be held accountable, especially when we are 
+dealing with the budget deficits that we are dealing with, 
+especially when we are dealing with the inflation that we are 
+dealing with.
+    And, unfortunately, I sat through Rules Committee this 
+week, and it took everything in me not to blow up, because I 
+had colleagues from the other side of the aisle as we are 
+dealing with NDAA and we have real things to address, such as 
+how are we going to get DoD on track, do you know what they 
+wanted to talk about? Do you know what these amendments are 
+going to deal with? They are going to deal with things that do 
+not have anything to do with the budget, such as they want to 
+talk about if they are going to deny access to healthcare for 
+women.
+    That is a priority in NDAA. They wanted to talk about 
+whether or not Trans folk would have access to the healthcare 
+that they need. That is what they want to talk about. They want 
+to deal with the things--and, of course, they want to fight 
+about Ukraine and not recognize that it is important that this 
+modern-day democracy is upheld.
+    So, what I want to talk about is getting to the point that, 
+No. 1, we only got here because there were certain people that 
+decided that they were going to hold the entire country hostage 
+in the debt ceiling fight. And so, as part of the agreement, 
+the agreement was that all of those people that need Social 
+Security, Medicaid, Medicare, all of those programs that people 
+are relying upon, SNAP benefits, as we are dealing with record 
+inflation, they got less money and defense got more.
+    That is exactly what happened. Somebody got more, somebody 
+got less, because we care more about let us try to balance the 
+budget on the backs of people that are only getting $6 a day 
+for things like SNAP benefits instead of focusing on the waste 
+that Is going on here.
+    And so, the only question that I have for you is what do 
+you need from us? What is needed so that we can actually stop 
+being performative? Because what I do not want us to do is try 
+to pretend as if we really care about this waste that is going 
+on by having this hearing on the same day that, as has already 
+been said by my colleague, Mr. Biggs, this is going to get 
+voted out, and you all are going to get more money. That is 
+going to happen.
+    And you know what? We are still going to have more people 
+that are facing homelessness in this country. We are still 
+going to have more people that are hungry in this country. And, 
+honestly, I can promise you I would rather give more people 
+that $6 to eat than to sit here and say, ``Well, we just have 
+not fixed it.''
+    If we know that the problem is that we have not modernized, 
+what is the problem with modernizing? Why can't we? Because it 
+is not for a lack of resources. Is there anyone that can tell 
+me why we cannot modernize, especially since we have the best 
+military in this country, but we cannot figure out how to count 
+our money and count our guns? We cannot figure that out? 
+Somebody help me, anybody. This is a real question. What is the 
+problem?
+    Mr. Tenaglia. So, with respect to clean audit and 
+auditability we--as has been previously said, retirement of 
+legacy systems is a significant part of the path to do that. 
+So, we do need to get after that. That is the most significant 
+from the procurement----
+    Ms. Crockett. Let me stop you right there. We need to get 
+after that. Tell me why we have not is my question.
+    Mr. Tenaglia. I think it is just a matter of the number of 
+systems that we are having to evaluate for retirement and 
+incorporation of a modernized business process to capture----
+    Ms. Crockett. Let me ask you this. So, can we agree that 
+all of the systems need to go? I mean, how modern are any of 
+these systems? Can we not just agree that we need to scrap it 
+and we need to get up to date?
+    This is the same body where we are dealing with AI 
+conversations. Like we are--I mean, we have not even been 
+brought up to today, yet alone the future. Can we not just 
+agree that we need to scrap, and we need to move on instead of, 
+like, pontificating? Because I feel like that is what is 
+happening, and it is happening on the American people's dime.
+    Mr. Tenaglia. The parts we are taking is to promulgate 
+standards that are feeding the data between the systems. So 
+regardless, I do not think it is realistic that we are going to 
+be able to clean slate them all and so the systems that we have 
+forcing procurement standards and other standards so that the 
+systems can talk to one another.
+    Ms. Crockett. And, Mr. Chair, I know I am out of time, but 
+if I could just ask this last question.
+    Can you give me a reasonable amount of time to get through 
+to modernizing these systems, just a reasonable number?
+    Mr. Tenaglia. I mean, there is systems within my 
+responsibility. I could speak to those, but I am not familiar--
+--
+    Ms. Crockett. OK. So, speak to those.
+    Mr. Tenaglia. I would say within a 5-year period.
+    Ms. Crockett. Thank you so much.
+    With that, I yield.
+    Mr. Grothman. Congressman Palmer.
+    Mr. Palmer. This has probably already been covered in one 
+form or another, but I just want to clarify that the $6.2 
+billion error in accounting for the equipment that was sent to 
+the Ukraine was an overestimate, not an underestimate and that 
+we sent $6.2 billion less than what we thought in terms of the 
+value of the equipment. Is that correct?
+    Mr. Tenaglia. That is my understanding. The Comptroller 
+advised me that the error, as you described it, with respect to 
+the valuation of the equipment----
+    Mr. Palmer. Give a short answer so we can get to some more 
+substantive stuff. It is either a ``yes'' or ``no.''
+    Mr. Tenaglia. Yes, sir.
+    Mr. Palmer. It was overvalued.
+    So, one of the things that I have run into--and I have had 
+multiple discussions since I have been a Member of Congress, 
+had a discussion with a former procurement officer with the 
+Pentagon--is that the Pentagon cannot operate in the same way 
+that a business does.
+    I formerly worked for two international engineering 
+companies. And when we bid on a project, we had a preliminary 
+bid based on a proposed design, but what we built was to a 
+finalized design. And we were able to do that because we knew 
+that we would get paid. If the client needed to make changes, 
+we did change orders, and that would get added to the cost of 
+the project.
+    Part of the problem I think with the Pentagon and what I 
+consider--well, I do not know if I call it waste, but the 
+inefficiencies is that so many times--and correct me if I am 
+wrong, and I have had these discussions before--is that 
+oftentimes the Pentagon is so concerned that the next Congress 
+will not follow through on the funding that has been 
+appropriated by one Congress for a weapon systems, for new 
+facilities, whatever, that they begin the construction of 
+facilities or the production of the weapon systems or platforms 
+before the design is complete.
+    Is that an accurate statement? And you wind up with a 
+number of overruns and change orders as a result.
+    Mr. Tenaglia. We do have a number of systems that have 
+concurrent development as--that are ongoing development.
+    Mr. Palmer. And current development is another way of 
+saying you started the system before the design was complete. 
+You need to speak in plain language because I am not here to 
+throw you under the bus. I am here to find a way to fix this. 
+And part of the solution rests with the Pentagon, but a lot of 
+it rests with us, and I do not think we can escape 
+acknowledging that.
+    And it is not just a problem with the Pentagon. When I was 
+on the Science Committee, we had a NASA project that as I 
+recall--and my math might be a little--my memory of the math 
+might be a little bit fuzzy, but it was a $48 million budget, 
+which is not even a drop in the drop in the bucket. But halfway 
+through the project construction, they had already gotten $24 
+million in change orders. And I asked the individual from NASA 
+if it was because they started it before the design was 
+complete, and he acknowledged that that was the case.
+    Mr. Chairman and Chairman Sessions, I think this is an 
+enormous problem that Congress needs to address. Because if we 
+are going to invest money in one Congress to build out defense 
+systems, weapon systems, and platforms facilities, we should 
+not start paying the bill until the design is right. But at the 
+same time, we need to make sure that they have time to get the 
+design right and that the money will be there.
+    If we did that, would you guys agree that there could be 
+potentially substantial savings? That is a ``yes'' or ``no.'' 
+And if you disagree, say so, because we have got to find a way 
+to fix this.
+    Mr. Tenaglia. I think a lot of our systems that are 
+software driven and the iterative development of software-
+driven systems require us to field some minimal capability and 
+upgrade that as we go. I think that----
+    Mr. Palmer. That is part of the problem you had with the F-
+35, particularly with the helmet. But what I am trying to get 
+to is a way to address these issues, because we are at a point 
+right now where we need--and with all due respect to my 
+colleagues here, I am more interested in paying for soldiers 
+and weapons than I am accountants. But at the same time, you 
+are responsible for making sure that every dollar that we 
+appropriate for the defense of this country goes for the 
+defense of this country.
+    And as I have reminded my colleagues, we are either going 
+to pay for this in dollars or we will pay for it in blood. That 
+is the responsibility that rests on your shoulders.
+    Mr. Chairman, I yield back.
+    Mr. Grothman. Thank you.
+    Mr. Frost.
+    Mr. Frost. Thank you, Mr. Chairman.
+    So, audits are one of our best tools in ensuring oversight 
+and accountability. They give us a chance to look at the 
+financial records and accounting documents and ultimately 
+ensure that assets and liabilities are tracked over time. That 
+is as long as we are achieving an unmodified or clean audit.
+    Mr. Mansfield, very simple question. When did the 
+Department of Defense go through its first full scope 
+consolidated financial statement audit?
+    Mr. Mansfield. 2018.
+    Mr. Frost. 2018.
+    Mr. Mansfield, did the DoD achieve a clean audit in 2019?
+    Mr. Mansfield. No.
+    Mr. Frost. What about in 2020?
+    Mr. Mansfield. No.
+    Mr. Frost. What about in 2021?
+    Mr. Mansfield. No.
+    Mr. Frost. 2022?
+    Mr. Mansfield. No.
+    Mr. Frost. Year after year, we hope that the DoD will 
+attain a clean audit, and year after year the DoD fails. The 
+DoD is the only major Federal agency with this level of 
+consistent failure as it relates to an audit.
+    Mr. Khan, in an attempt to meet the essential standards of 
+accountability, some components of the DoD introduced reforms, 
+including correcting around $5.2 billion in cost assessments 
+and innovations, like the deployment of hundreds of bots 
+aligned to financial management processes.
+    Why have these measures all failed to get DoD to have a 
+clean audit?
+    Mr. Khan. The issues at DoD are much more pervasive. Some 
+of what you mentioned--I mean, there is other bright spots. It 
+is helping that DoD is embracing technology and using some of 
+the robotic process automation. It is freeing up the resources 
+to be able to do more analytical work. But the problems are 
+very pervasive across DoD, and that is why it is taking them 
+time.
+    Mr. Frost. DoD antiquated and mismatching financial 
+management systems are a cause for concern. It is part of the 
+reason that they have been on the GAO's High-Risk List since 
+1995.
+    Yes or no, has GAO ever outlined what DoD could do to get 
+them off the list?
+    Mr. Khan. Yes, we have.
+    Mr. Frost. Go ahead.
+    Mr. Khan. It is in the High-Risk List. We have five removal 
+criteria, and we have been very specific as to what DoD needs 
+to do to come off the list.
+    Mr. Frost. And there has been many agencies have been on 
+this list, have been taken off, followed your recommendations. 
+Usually when GAO gives recommendations, how long does it 
+usually take for agencies to implement them and get off the 
+list?
+    Mr. Khan. The one parallel I can draw is DHS, which is a 
+much smaller agency. It took them 10 years from inception to 
+getting a clean audit opinion.
+    Having said that, they continue to be on the High-Risk List 
+because of some issues they are having with technology.
+    Mr. Frost. Failing an audit does not necessarily indicate 
+that funds are being misused or lost funds. In fact, people can 
+achieve a clean audit and still be misusing funds. However, I 
+refuse to accept the status quo that DoD just cannot get a 
+clean audit.
+    Mr. Mansfield, when does DoD estimate that you will be able 
+to pass a clean audit?
+    Oh, if you could turn on your mic, I think.
+    Mr. Mansfield. So, the DoD has estimated that they are 
+looking at 2028.
+    Mr. Frost. 2028?
+    Mr. Mansfield. Yes, sir.
+    Mr. Frost. Mr. Khan, does GAO agree with that estimate? And 
+what does GAO see as the roadblocks to achieving that timeline?
+    Mr. Khan. They need to have better plans. We do not have a 
+timeline projected for DoD essentially because the audits are 
+still continuing, the scope of the audits is still expanding. 
+So, the complexity and difficulty of the remediation activity 
+is still unknown.
+    Mr. Frost. And I agree with what my colleague just said 
+before me. Look, I am not just here to rail on DoD about this. 
+We know that it is an issue. We want solutions.
+    So, from any of you, what can Congress do to help DoD get 
+off of the next GAO High Risk List? I do not think 2028 list is 
+acceptable. What can we do to make sure that DoD gets off the 
+High-Risk List for the next GAO list that will come up?
+    Mr. Khan. The main issue is capacity, doing modernization 
+of their system and to have their work force trained. They 
+are--understanding the financial management function and so 
+that they also understand how to use the new financial systems, 
+the automated systems. That is critical. Then they need to have 
+better action plans which are detailed. That is one of the 
+areas where DoD has slipped. They have not adequately defined 
+the action plans, so the dates come and go, and they got 
+extended.
+    Then, finally, they need to have a better monitoring 
+mechanism to be able to monitor where their deficiencies are 
+and to be able to address those risks before they become a 
+crisis.
+    Mr. Frost. Thank you.
+    Congress is poised to give the Department of Defense $844.3 
+billion for this year's NDAA. How can Congress continue to 
+justify, given these increases, when you cannot even pass a 
+clean audit? It is not fair. It is not fair to the American 
+people. In fact, I do not believe Congress can justify it, and 
+so I hope this gets fixed.
+    Thank you. I yield back.
+    Mr. Burlison. [Presiding.] I now recognize Mrs. Mace for 5 
+minutes.
+    Mrs. Mace. Thank you, Mr. Chair.
+    And I have several questions I want to get to, so I would 
+just ask that you answer them quickly. If you filibuster, I 
+will interrupt you.
+    This morning we have already heard DoD has been on GAO's 
+High-Risk List since 1995. Mr. Khan, I dropped out of high 
+school in 1995, a very long time ago. Are there any other 
+Federal agencies which have consistently failed to meet basic 
+accounting standards since I dropped out of high school? 
+``Yes'' or ``no.''
+    Mr. Khan. No.
+    Mrs. Mace. All right. Mr. Mansfield, DoD has never had a 
+clean audit. Yet last month a DoD spokesperson claimed its on 
+track for a clean audit by 2027. I always hear--if I had a 
+dollar for every time I heard, ``Hey, we are on track, we are 
+going to get you this or get you that.'' So, why should the 
+Congress believe the department now will meet this goal when it 
+has never done so in its history? What has changed?
+    Mr. Mansfield. I cannot speak on behalf of the DoD itself. 
+We provide oversight of them, so I would say we are going to 
+continue from the Office of Inspector General's perspective to 
+validate and be transparent in our conclusions on that in terms 
+of how----
+    Mrs. Mace. So, no answer. All right. Got it.
+    OK. Mr. Tenaglia, the retirement of legacy systems is part 
+of what you are saying needs to be modernized. And yet the DoD 
+uses a 25-year-old Defense Travel System to book billions and 
+billions of dollars in travel expenses every year. This legacy 
+system wastes hundreds of millions of dollars annually due to 
+inefficiency and overpayments. Though on track to modernize the 
+system, which would be a good thing per your comments earlier, 
+but in May the department outright canceled a $374 million 
+contract to replace a system with a more modern version.
+    Who is responsible for that decision?
+    Mr. Tenaglia. I believe that is under the purview of the 
+Office of the Under Secretary for Personnel and Readiness.
+    Mrs. Mace. OK. Do you believe if you are in charge of 
+wasting $374 million on a contract that you should keep your 
+job? ``Yes'' or ``no.''
+    Mr. Tenaglia. I would not characterize that as wasteful.
+    Mrs. Mace. So, you do not have an answer. Got it. All 
+right.
+    The Defense Travel System has incurred over $965 million in 
+improper payments from Fiscal Year 2016 to 2018. Exactly how 
+large will that number get if the system remains in use?
+    Mr. Tenaglia. I do not have the answer for that.
+    Mrs. Mace. You do not have any answers today. OK.
+    So, if you are responsible for losing $965 million, which 
+is almost $1 billion in improper payments, should the person 
+responsible for those losses keep their job? ``Yes'' or ``no.''
+    Mr. Tenaglia. I do not know that that would be----
+    Mrs. Mace. You do not have an answer. OK.
+    So, what is the plan going forward? Do you plan to stay 
+with the Defense Travel System for another 25 years? Do they 
+plan to start from scratch? And how much more money is going to 
+be wasted?
+    Mr. Tenaglia. I would defer to the Office of Personnel.
+    Mrs. Mace. So, no answer.
+    So, nobody has any answers. That is the thing. When we have 
+these hearings, you guys come to our Committee. We have 
+specific questions. We want specific answers. We are wasting 
+billions of dollars every single year. And no one, no one that 
+comes before these Committees ever have any answers. They have 
+no solutions.
+    So, like, what are you guys doing? I do not understand. 
+And, quite frankly, I have been up here for 2.5 years. I have 
+been very jaded in a very short period of time. I do not know 
+if there is incompetency or ignorance, like I really do not. 
+And I do not understand why any of that is OK. It is not OK.
+    In the business sector, if you lose $1 billion, you lose 
+your job, or you have an audit. You have to pass an audit to 
+get--as we have heard today to get financing, to get lending, 
+to get the bank to do business with you. And yet you just have 
+a free check, a free pass--all of these agencies have a free 
+pass from us. We are going to give another free pass. DoD is 
+going to get another free pass today with no one being held 
+accountable, no one being held responsible, and no one taking 
+responsibility. No one is in charge.
+    Like, I just do not understand the incompetency with any of 
+this. I just--I do not get it. I am not impressed. We are just 
+going to basically shrug our shoulders and just sit here with 
+our hands crossed that we are just going to continue waste 
+billions of dollars. No one is in charge. No one is 
+responsible. No one is ever going to be held accountable, and 
+everybody gets to keep their job. And it is wrong, and it is 
+bullshit.
+    I hope you guys are better prepared for our next hearing on 
+this because my questions are going to be even more specific, 
+and I am going to want answers.
+    Thank you, Mr. Chairman. And I yield back.
+    Mr. Burlison. The Chair now recognizes Mr. Goldman from New 
+York for 5 minutes.
+    Mr. Goldman. Thank you very much, Mr. Chairman. And I thank 
+our witnesses for coming in today.
+    I want to focus a little bit on Ukraine and the money that 
+the U.S. Congress has appropriated to support our democratic 
+ally against an illegal, unwarranted, and global altering war 
+of aggression by an authoritarian dictator, Vladimir Putin.
+    There--and I want to focus a little bit on the oversight, 
+especially with you, Mr. Mansfield, because I think on both 
+sides of the aisle, we very much want to ensure that there is 
+strong oversight and accountability to ensure that the money 
+that Congress has authorized and appropriated in support of 
+Ukraine is used as it is intended to be used. And I would note 
+that Inspector General Storch testified earlier this year to 
+the Armed Services Committee that the situation in Ukraine is 
+fluid and calls for continuous agile oversight.
+    Mr. Mansfield, can you describe the OIG efforts to execute 
+that agile oversight?
+    Mr. Mansfield. Yes. Thank you for the question.
+    First, I would say that we have partnered with the 
+oversight community writ large. So, between the State 
+Department, the Agency for International Involvement, and the 
+Department of Defense Office of Inspectors General, we have 
+formed a working group where we collectively come together to 
+talk about what meaningful oversight should be occurring within 
+Ukraine related to the funding being provided in support for 
+the DoD Office of Inspector General.
+    To date we have issued four reports and seven advisories 
+related to anything from tracking of the funds appropriated or 
+supplemental funds to the department's processes and State 
+Department's processes for tracking and monitoring, end use 
+monitoring of military funds that have been provided.
+    We have 18 ongoing projects related to anything from 
+training of Ukrainian forces to execution of the funds provided 
+under the supplemental appropriations, and we have another 
+three projects right now planned, but there is more in the 
+works as well.
+    Mr. Goldman. And has Ukraine generally been cooperative 
+with DoD's efforts to do the tracking and oversight that you 
+just described?
+    Mr. Mansfield. So, from our perspective at the OIG, we have 
+gotten cooperation from the Department of Defense in terms of 
+our oversight of their efforts to oversight the Ukraine's use 
+of the equipment that is provided. So, we have not had any 
+difficulties there yet.
+    Mr. Goldman. I appreciate that. And I thank the department 
+broadly for having such robust oversight. I think it is often 
+mischaracterized and it is important for you to recite all of 
+those efforts as you just did in terms of oversight.
+    We are dealing right now, as one of my colleagues on the 
+other side--or Mr. Frost mentioned, about-- we are dealing with 
+the NDAA and appropriations in support for the department. And 
+one of the things that has become a very hot button issue, 
+sadly, is support for Ukraine. Many of my colleagues on the 
+other side of the aisle seem to fundamentally misunderstand the 
+purpose of our support to Ukraine. Ukraine is a democracy. 
+Russia is an authoritarian regime that is trying to conquer and 
+overtake a democracy. And when we talk about America first, we 
+are talking about America's national security. And if my 
+colleagues do not realize that the support of a robust 
+democracy and end robust democracies broadly around the world 
+do not relate to our national security, then they fundamentally 
+misunderstand global engagement and foreign policy and what 
+makes us safe here at home.
+    I was very disturbed to see that the Chairman of this 
+Committee, not the Subcommittee but the Committee, went on 
+television last week, I believe, to say that President Biden is 
+scared of conducting oversight of what is going on in Ukraine. 
+And I appreciate you outlining all of the extensive efforts 
+that the department is doing to provide that oversight.
+    And I would just urge the department to continue to do that 
+oversight, and I would urge my colleagues on the other side of 
+the aisle not to defend and take the side of a dictator in 
+Vladimir Putin trying to overtake and dominate and conquer a 
+democratic nation that needs our support. And it has sadly 
+become somewhat of an odd political football, but the notion 
+that we would not support a democracy at war around--anywhere 
+in the globe is completely counterintuitive and 
+counterproductive to our own national security.
+    So, I thank you all for being here, and I yield back.
+    Mr. Burlison. Thank you.
+    The Chair now recognizes Mr. Donalds from Florida for 5 
+minutes.
+    Mr. Donalds. Thank you, Mr. Chairman.
+    Allow me to actually respond to my colleague on the other 
+side of the aisle. The issue with Ukraine is not that Members 
+on my side of the aisle do not want to support a democracy in 
+Ukraine. That is not the issue. The issue is, is that while 
+spending upwards of $114 billion in said conflict with, 
+frankly, no end in sight, because the President has not led in 
+any of this effort, mind you. He was drug into this conflict 
+because of his own dereliction of duty when Russia was amassing 
+troops on the Ukrainian border for 6 months, and President 
+Biden did nothing. He dithered. He ignored. And only when Putin 
+actually went in, his first comment to Volodymyr Zelenskyy was: 
+``I will send the G5 for you, hop on the plane, and let us go 
+home.'' That is what he told Volodymyr Zelenskyy. And it was 
+only until the Ukrainian president and, frankly, people around 
+the world said we should stand for Ukraine, then Joe Biden did 
+an about-face. So, that is No. 1.
+    No. 2, the issue a lot of Americans are having right now is 
+that we have spent $114 billion on the Ukrainian conflict to 
+defend Ukraine, which, by the way, I do think we should do, but 
+at the same time, we have recklessly disregarded our own 
+southern border and our own national security, which is 
+affecting many states, many counties, many localities who are 
+now not just on the southern border but basically at every city 
+in the country.
+    Do not believe me? Go ask Eric Adams, the Mayor of New 
+York, who is now very concerned about the fact that we have 
+more migrants in the city of New York than they have space for 
+because of President Biden's reckless policy on the southern 
+border.
+    So, what I would urge my colleague on the other side of the 
+aisle is please do not do this in a vacuum. Please understand 
+that you have Members who want to be supportive of Ukraine, but 
+they are very concerned and now at this point apoplectic that 
+we have spent $115 billion on Ukraine but we cannot secure our 
+southern border. That is why Members on my side of the aisle 
+are furious, frankly, with Joe Biden and those who want to use 
+Ukraine as a leverage point.
+    Mr. Goldman. Will the gentleman yield to----
+    Mr. Donalds. I am not yielding. You had your time. I let 
+you talk. I was going to interrupt you, but I did not want to. 
+I am not yielding.
+    Now, point No. 3--and this is very, very clear--with 
+respect to Ukraine sovereignty, I am very familiar with the 
+Budapest agreement. I think every Member of the Chamber is now 
+familiar with this agreement. We signed on to protect their 
+sovereignty if Ukraine returned their nuclear ballistic 
+missiles back to Russia. That was the 1994 agreement. We signed 
+on to that as the United States of America. I believe that we 
+should uphold that agreement. I do. But when you see Russian 
+troops amassing on the border of the same country, we have an 
+agreement to protect and you do nothing, your inaction as the 
+Commander in Chief cost the United States taxpayer $115 
+billion. That is why Members on this side of the aisle are 
+frustrated with Joe Biden and his lack of action.
+    Now back to the Department of Defense, because that is what 
+I am really here to do, but I had to set the record straight. 
+Here is the issue----
+    Mr. Goldman. Can I just ask a question quickly?
+    Mr. Donalds. No, because you are not recognized.
+    Now, back to the Department of Defense. Here is the issue 
+we are having. We want to spend money to defend this Nation and 
+to make sure that our men and women have every piece of 
+equipment necessary to do so. We want to make sure they have 
+all the bullets, all the tanks, all the ships, all the 
+equipment necessary.
+    But the frustration we are having in Congress you are 
+seeing, which I am going to tell you right now is growing, is 
+the complete disregard for fiscal sanity at the Department of 
+Defense. We cannot continue to just fund contracts in ad 
+infinitum with no idea of how we are going to actually acquire 
+the material we are paying for, getting them the material that 
+we have maintained in an orderly and timely fashion, and that 
+the men and women who are on the frontlines, not the brass, not 
+the people over at the Pentagon, the men and women who are on 
+the frontline are getting what they need in a timely fashion. I 
+do not think you would have many issues from Congress to be 
+able to fund that.
+    But--and I think, Mr. Khan, you spoke to this before in 
+your comments as I was watching the hearing before I came in--
+the issue is that DoD cannot even find a way to just go through 
+the audit process and come through with minimal findings, which 
+is something that publicly traded companies have to do, and it 
+is something that the current SEC would demand they do, forget 
+the other agencies for that matter.
+    So, that is the issue we are having at the Department of 
+Defense.
+    I want to fund our military. I want us to be a lean, mean 
+fighting machine. That is what I want. But as a Member on the 
+Republican side of the aisle, I have got serious concerns about 
+funding the agency if the bloat and the waste continues. 
+Procurement reform is critical.
+    Last quick question, and I believe I am going to send it to 
+you, Mr. Mansfield. I understand that we spend a ton of money 
+on diesel fuel, but don't you believe that finishing the 
+Project Pele and actually getting it up and running and doing 
+it consistently, won't that be to the betterment of the 
+Department of Defense? And I will close off that.
+    Mr. Mansfield. Sir, I will take that one for the record.
+    Mr. Burlison. All right. The Chair now recognizes Mr. Lynch 
+for 5 minutes.
+    Mr. Lynch. Thank you very much, Mr. Chairman.
+    I do want to say there is a little bit of revisionist 
+history here about the circumstances under which Russia did 
+invade Ukraine. I hope my colleagues recall that it was the 
+U.S. Intelligence Service and the White House that consistently 
+warned President Zelenskyy that Russia was going to invade. It 
+was Zelenskyy who came back and said: ``We do not think they 
+are going to do this.''
+    Those are the facts. Those are the facts. I understand 
+you--if you want to score political points, I understand that, 
+but you cannot rewrite history. And if you go back and read the 
+intelligence reports, read what Zelenskyy was insisting, it was 
+the U.S. Intelligence Service, and we collectively in this 
+Congress, in classified settings, we applauded the work of the 
+U.S. Intelligence Service under the Biden Administration for 
+correctly calling that invasion and rallying, rallying Europe 
+behind Ukraine, standing behind them. Separate and apart from 
+any other criticism you might have of the Administration, they 
+got that right. They got that right.
+    Let me talk briefly about--and ask briefly about a matter 
+at hand.
+    So, DoD has been frequently criticized because of the 
+failure of its audits from various quarters. One of the factors 
+that affects our ability to really--look, our readiness 
+militarily is going to be affected by our fiscal readiness as 
+well. Right? We have got to be able to plan. We have got to be 
+able, to the degree possible, correctly estimate costs on 
+weapon systems and deployments. All of that requires a good 
+financial team within DoD. And I am concerned.
+    The Government Accountability Office reported last year 
+that they were worried about DoD's ability to attract the 
+necessary personnel with the right skill sets to put our fiscal 
+house in order. And I am just wondering what Is going on right 
+now, from your perspective, to meet that challenge that GAO has 
+identified.
+    Mr. Mansfield. So, I prefer to defer to the Department of 
+Defense on their hiring practices in terms of their own 
+personnel. We at the DoD OIG have been pretty successful in 
+hiring highly qualified individuals who provide oversight of 
+the Department of Defense, to include financial management 
+professionals. So, I defer to DoD.
+    Mr. Tenaglia. So, within the financial management 
+community, I am not able to speak about that. But within the 
+acquisition community, we have a significant number of people 
+that perform multiple functions, whether they are procurement, 
+engineering, systems engineering, logistics. But the work force 
+challenge of making sure we are able to attract and recruit the 
+right people to do what we need them to do, that is right now 
+one of our leaders' top priorities.
+    Mr. Lynch. Let me just--you know, it sounds like everything 
+is fine, do not worry. But this is--I am reading, from the GAO 
+report, that DoD lacks a strategic approach for work force 
+planning for the collective set of staff that support financial 
+management systems. And that is their analysis after their 
+investigation. And, you know, you are saying things are good 
+and we are going to keep on doing what we are doing. So, there 
+seems to be a divergence of opinion there.
+    Did the GAO hit on anything, or they are just----
+    Mr. Tenaglia. Sir, I would prefer to have the Comptroller 
+provide you the response for the financial management 
+community. I can speak to the acquisition community.
+    Mr. Lynch. Mr. Khan?
+    Mr. Kahn. The major issue that was identified in that 
+report was a skill gap analysis for DoD to be looking to the 
+future to develop the work force of the future, for a few 
+reason. Their processes are changing in part because of the 
+audit. New technology is coming in line, so you have to retrain 
+the people to be able to understand the new process and the 
+technology. So, without doing a skill gap analysis, which is 
+what they currently have and where they need to be, it is going 
+to be difficult to develop the requirements, the skills that 
+the people need to have for the future needs.
+    Mr. Lynch. All right. My time has expired. Mr. Chairman, I 
+yield back. Thank you.
+    Mr. Burlison. Thank you.
+    The Chair now recognizes Mr. LaTurner for 5 minutes.
+    Mr. LaTurner. Thank you, Mr. Chairman. Thank you all for 
+being here today.
+    As our adversaries continue to increase their aggression, 
+it is more important than ever that Congress ensures our brave 
+servicemen and--women have the resources they need to keep 
+themselves and our Nation safe. China is slowly but surely 
+probing the sovereign boundaries of Taiwan, and their malign 
+naval activity in the Pacific is well recorded. Iran seeks to 
+become a nuclear power in the near future, which would only 
+further destabilize one of the most tumultuous regions in the 
+world. And President Biden's weakness on the world stage 
+following the botched withdrawal from Afghanistan has empowered 
+our enemies across the globe.
+    I would argue that strengthening our military readiness and 
+supporting our allies abroad is one of most important duties we 
+have this Congress. At the same time, the American people find 
+themselves drowning in $32 trillion of debt.
+    Kansans, like many Americans across our country, are very 
+concerned with the Pentagon's lax accounting practices. The DoD 
+is no stranger to sloppy bookkeeping. They failed five 
+consecutive audits, and cannot even tell you how many 
+contractors the Department employs. As just a few examples of 
+this complete lack of accountability, the DoD could not account 
+for more than 61 percent of its assets in the most recent 
+audit.
+    The United States Air Force spent $549 million on 20 cargo 
+planes for the Afghan Security Forces, and then was forced to 
+suspend the program and sell the planes for scrap for just over 
+$40,000 because they were deemed unreliable and unsafe.
+    Just last month, the agency overestimated the value of 
+weapons sent to Ukraine by $6.2 billion. And when the Pentagon 
+has been provided opportunities for improvement, they often 
+fail to take advantage and allow this mismanagement to 
+continue.
+    Of the over 3,300 recommendations made to the Department in 
+2021 to improve their financial management, they failed close 
+to 2,800. No business or organization in America operates this 
+way. This current standard of fiscal accountability is 
+completely unacceptable, and the American taxpayers deserve 
+better.
+    With the countless threats facing our country today, it is 
+vital that the United States continue funding our defense 
+capability. However, Congress' authority over the power of the 
+purse is a tremendous responsibility, and we owe it to our 
+constituents to exercise that power judiciously.
+    Mr. Khan, how does the lack of financial auditability at 
+the Pentagon impact its ability to effectively allocate 
+resources, manage budgets, and make informed financial 
+decisions?
+    Mr. Kahn. It impacts it greatly. Without having adequate 
+controls, you would not have the reliable information with 
+which to make the decisions as to where to allocate the money 
+and to reprioritize funding, if that need arises.
+    Mr. LaTurner. This is for each of you. What are the 
+consequences, both financial and reputational, of DoD's failure 
+to pass audits?
+    Mr. Tenaglia. Sir, I think the operational concern is one 
+of logistics and understanding where our assets are so that we 
+can have, for example, spare parts, needing to know where they 
+are at any one time in order to operate in that environment.
+    Mr. LaTurner. What about reputationally?
+    Mr. Tenaglia. Well, I think we would all prefer to have the 
+ability to say we have a clean audit.
+    Mr. LaTurner. I hope it is more than just a preference. 
+Trust in government is at an all-time low in this country, and 
+it is because people across the country, our constituents, do 
+not feel like they can trust government to do what they say 
+they are going to do.
+    I hope you care about DoD's reputation, and I hope you want 
+to improve it. I hope that you want the American people to have 
+trust in it. Tell me that is the case.
+    Mr. Tenaglia. Absolutely, yes.
+    Mr. LaTurner. Go ahead, Mr. Mansfield.
+    Mr. Mansfield. Well, you took my answer. I was going to say 
+it erodes the trust of the American public in the Department's 
+ability to be fiscally responsible, to be good stewards of 
+taxpayer dollars. That is, I think, the biggest risk in terms 
+of reputation for the Department.
+    Operationally, as we have talked about financial, the 
+dollar value is one piece of that. But as we are going through 
+and doing testings of systems and records, we also look at 
+condition. And so that is where you really start to get into 
+some of the operational side of the house.
+    When you have--when you do not know where equipment is or 
+you do not know what condition it is in, it is difficult to 
+budget from what you need to purchase going forward in terms of 
+spare parts or equipment. If you do not know what condition it 
+is, you do not--you cannot budget for repair to bring stuff up 
+to standards, so it is operationally available and ready. And 
+so, it is fundamentally an operational issue in addition to a 
+fiscal issue.
+    Mr. LaTurner. Quickly, my time is about up.
+    Mr. Kahn. DoD's inability to get an opinion prevents GAO 
+from auditing the government-wide financial statements. Because 
+of that, government-wide, the U.S. Government cannot get an 
+opinion.
+    Mr. LaTurner. We have to fix this problem, gentlemen. 
+Members of Congress are incredibly frustrated, and it is 
+because our constituents are incredibly frustrated. We have got 
+to fund our military in a way that allows us to meet the 
+challenges of today. And we should expect, and DoD should 
+deliver, sound accounting practices to make certain that when 
+we send our taxpayers hard-earned money, that it is being well 
+spent defending this Nation.
+    I yield back.
+    Mr. Grothman. [Presiding.] Thank you.
+    Ms. Porter?
+    Ms. Porter. In Washington, the same game is played year 
+after year. The President requests a massive defense budget, 
+lawmakers do not want to be seen as soft on national security, 
+and defense lobbyists exploit that. Congress then falls into 
+line and passes an expensive defense package. And then we do 
+the same thing again the next year. That is the game that 
+lawmakers and lobbyists play with our tax dollars.
+    Today, we are going to play a new game. Welcome to Jeopar-
+DoD, where our witnesses will uncover Waste, Missing 
+Guardrails, and the Enablers who make our defense budget 
+balloon. Witnesses, you will pick a category and a point 
+amount. I will read you a prompt. And just like in regular 
+Jeopardy, you will give the answer in the form of a question. 
+For example, if I read, the Congresswoman hosting Jeopar-DoD, 
+you will say, ``Who is Katie Porter?''
+    Let us get started. Mr. Tenaglia.
+    Mr. Tenaglia. I will take Enablers for $100, please.
+    Ms. Porter. Enablers for 100. A President who called how 
+much we spent on defense crazy, but let defense spending grow 
+by over $100 billion in one term.
+    Mr. Tenaglia. I do not know the answer to that question.
+    Ms. Porter. Really? You do not know who called the defense 
+budget crazy? Who is Donald Trump?
+    Mr. Mansfield?
+    Mr. Mansfield. Enablers for 200.
+    Ms. Porter. Enablers for 20O. A Member of Senate leadership 
+who recently said funding the Pentagon at $886 billion would 
+mean defense is radically underfunded.
+    Mr. Mansfield. I do not know the answer.
+    Ms. Porter. Who is Mitch McConnell?
+    Mr. Khan, really, you can easily be the winner here.
+    Mr. Kahn. I will take Waste for 300.
+    Ms. Porter. Great choice. Waste for 300. Ineffective DoD 
+assets that cost about $600 million to build and are now being 
+decommissioned before the end of their useful life.
+    Mr. Kahn. I am drawing a blank there. Sorry.
+    Ms. Porter. What are littoral combat ships? You are 
+familiar with this program.
+    Mr. Tenaglia?
+    Mr. Tenaglia. Enablers for 300.
+    Ms. Porter. Pardon me?
+    Mr. Tenaglia. Enablers for 300.
+    Ms. Porter. Enablers for 300. Individuals who get rich 
+while pushing to overspend our tax dollars.
+    Mr. Tenaglia. I do not know.
+    Ms. Porter. Who are defense lobbyists?
+    Mr. Mansfield?
+    Mr. Mansfield. Waste for 200.
+    Ms. Porter. Waste for 200. I am really counting on you 
+here, Mr. Mansfield. A program that is $183 billion over budget 
+and 10 years behind schedule.
+    Mr. Mansfield. What is the Joint Strike Fighter program?
+    Ms. Porter. What is the what?
+    Mr. Mansfield. Is it the Joint Strike Fighter program?
+    Ms. Porter. That is correct. What is the F-35 program. 
+Correct.
+    Mr. Khan?
+    Mr. Kahn. Missing Guardrails for 200.
+    Ms. Porter. Missing Guardrails for 200. The institution 
+that has authorized more defense spending than the President 
+requested for the current fiscal year. Who has authorized more 
+defense spending than the President requested for this current 
+2023 fiscal year?
+    Mr. Kahn. I would say it is the Armed Services Committee.
+    Ms. Porter. We will give you that. Who is Congress?
+    Mr. Tenaglia, I would really love to see you get one right 
+here. I am rooting for you.
+    Mr. Tenaglia. Missing Guardrails for 100.
+    Ms. Porter. Missing Guardrails for 100. This one I think 
+you are going to know. A review that every agency has passed 
+except the DoD.
+    Mr. Tenaglia. What is an audit?
+    Ms. Porter. What is an audit? Correct.
+    Mr. Mansfield?
+    Mr. Mansfield. Missing Guardrails for 300.
+    Ms. Porter. Missing Guardrails for 300. This is a really 
+good one. The percentage of DoD's assets that it cannot account 
+for.
+    Mr. Mansfield. Sixty-one percent.
+    Ms. Porter. Sixty-one percent.
+    Mr. Mansfield. What is 61 percent?
+    Ms. Porter. Huh?
+    Mr. Mansfield. What is 61 percent?
+    Ms. Porter. What is 61 percent? So, I read the question 
+wrong. The percentage of DoD assets that it can account for is 
+39 percent.
+    You are right. Cannot account for 61 percent, can account 
+for 39.
+    All right, Mr. Khan.
+    Mr. Kahn. Is that double jeopardy? 100.
+    Ms. Porter. Yes, this is it. Waste for 100. DoD assets that 
+have been lost, damaged, or destroyed to the tune of millions 
+of dollars based on a May GAO report.
+    What are spare aircraft parts?
+    We are out of time for Jeopar-DoD, and the winner here 
+today should be the American people, because no matter who 
+uncovers the most waste, the important thing is that we provide 
+long-overdue oversight to the taxpayers.
+    Look, politicians and lobbyists play the same spending game 
+year after year, and that is not getting us to a responsible 
+defense budget. Nobody is going to win----
+    Mr. Grothman. Mr. Fallon?
+    Ms. Porter [continuing]. Until we start playing a new game.
+    I yield back.
+    Mr. Fallon. Thank you, Mr. Chairman.
+    Gee, I think we all know who is running for the U.S. 
+Senate.
+    So, I want to thank you, Mr. Chairman. I want to thank the 
+witnesses today as well. We are not going to play Jeopardy or 
+any other childish games because I do not care about viral 
+clicks. What I care about is some answers because soldiers are 
+dying. I want to bring to the attention DoD financial 
+mismanagement that is directly leading to injuries and death of 
+our servicemembers.
+    The Army has a Humvee program that retrofits Humvees to 
+prevent them from rolling over, and it is going to save the 
+taxpayers about $8 billion. And more importantly, it is going 
+to save lives. We have got about 47,000, a little north of 
+that, Humvees in the fleet. We have been using them since 1983. 
+They are a workhorse. And the Army is going to continue to use 
+them until 2050.
+    There has been 900 rollover accidents. We have lost 150 
+servicemembers. We all agree that one is too many, 150 is 
+incredibly egregious. Seven hundred members have been injured 
+as well in noncombat accidents. That is a very important point 
+to point out here.
+    So, if the issue is not bad enough alone, there is delays 
+in the awarding of the contract. Congress has made it very 
+clear that we want to spend hundreds of millions of dollars to 
+mitigate this issue because we want to save lives and, again, 
+we are going to save lots of money. But sadly, we have lost 
+another servicemember with a preventable Humvee rollover, and 
+his name was Specialist Jayson Haven, and he was 20 years old. 
+What makes me angry is his vehicle was originally scheduled to 
+be retrofitted in February, but because of delays, it never 
+happened. I cannot help but think that if the Army had done its 
+due diligence and ignored contractor politics and moved forward 
+with a sense of urgency that Congress has clearly directed for 
+3 years, that Specialist Haven might be alive today.
+    So, let us call this for what it is. It is contractor 
+politics, and it is special interests inside the Pentagon that 
+is delaying the retrofit program because it is not lucrative 
+for certain interests outside of the Pentagon. The incumbent 
+contractor with only--with the only proven kit to solve this 
+issue has passed every hurdle that the contracting office and 
+the competitors could have thought to throw at them. So, this 
+decision is costing the Army billions of dollars and is a 
+perfect example of financial mismanagement.
+    So, Secretary of the Army Wormuth, I just talked to her 
+yesterday. She has assured me under oath and in private again 
+that she is committed to getting this work done expeditiously. 
+I really thank her for that. But unfortunately, down a few 
+levels, something--the ball Is being dropped here. So, the 
+commitments that we--we have to do something for our men and 
+women.
+    And, Mr. Tenaglia, are you tracking this issue with the 
+Humvee retrofit program?
+    Mr. Tenaglia. I was not aware of that detail, but I will 
+commit to getting with the Army to get you answers, and----
+    Mr. Fallon. Thank you. Because again, we are losing 
+soldiers' lives, and this is preventable, you know. None of 
+this work is happening because the supplier is not under 
+contract.
+    So, Red River Army Depot does a lot of this work, and they 
+can get the work done, but they cannot hire the people that 
+they need until they are under contract, till they have a 
+contract for this. And then the Army says now that they do not 
+expect that the award will occur until the fourth quarter of 
+this year.
+    Do you have an acceptable reason as to why this 
+appropriated money is not being spent in a timely manner? 
+Really, invested.
+    Mr. Tenaglia. No, sir, I do not have----
+    Mr. Fallon. OK. So, Mr. Khan, costing the taxpayers an 
+additional $8 billion while jeopardizing the lives of our 
+soldiers sounds like an issue that GAO might be interested in. 
+So, has the GAO reviewed this recent delay in the Army's Humvee 
+retrofit program?
+    Mr. Kahn. No. GAO has not reviewed that program.
+    Mr. Fallon. Will you and Comptroller Dodaro commit to a 
+formal review of the issues related to the Army's Humvee 
+retrofit program?
+    Mr. Kahn. I will get in touch with that team who does work 
+on the weapons systems, and they will work with your office to 
+see how we can meet your needs.
+    Mr. Fallon. Thank you. And we will be more than happy to 
+provide you with a formal written request, if needed.
+    So, I want to thank the witnesses again. And just while I 
+have a minute left, I want to just discuss--maybe talk about 
+truth for a minute and candor and not politics. So, I will be 
+real frank.
+    This Congress on the Hill, 2 years ago got it right in 
+regard to Ukraine. It was very clear that the Russians were 
+going to invade. And Congress, both Democrats and Republicans, 
+got it right. The White House did not. The White House did not 
+lead. Congress led.
+    I signed on to a letter that was sent out in 2021 in 
+December to the White House urging more lethal aid to be sent 
+to act as a deterrent because, yes, war is expensive. You know 
+what is even more expensive? Losing a war. And we, Congress, 
+both Republican and Democrats, bipartisan, led on that issue. 
+The White House failed.
+    Because if the White House got it right, I would say they 
+got it right. They got it wrong, but we got it right. Congress 
+led. And the facts are the facts. And now we will never know if 
+that deterrence could have been--could have worked because the 
+White House dragged their feet for 6 weeks until that second 
+lethal aid package was sent.
+    So, I yield back. Thank you, Mr. Chairman.
+    Mr. Grothman. [Presiding.] Thank you.
+    There he is, Mr. Connolly.
+    Mr. Connolly. Thank you, Mr. Chairman.
+    And let me take direct issue with the gentleman who just 
+spoke. The Biden Administration is one of the only 
+administrations ever to deliberately leak intelligence to let 
+people know the invasion was pending. And by the way, an 
+invasion that initially the Ukrainians felt was not going to 
+happen. It was the Biden Administration that called out the 
+fact that it was about to happen and leaked intelligence we had 
+about Russia to ensure that Russia could not use pretext that 
+the Ukrainians, in fact, had provoked the invasion.
+    I also want to take issue with him in diminishing and 
+ridiculing my colleague from California on her Jeopardy 
+example. We have been droning on in the entire 15 years I have 
+been in Congress about the lack of an audit for the Pentagon, 
+and zero progress has been made. We have talked about waste, 
+fraud, and abuse for generations with respect to Pentagon 
+spending, and zero progress has been made. And in one 5-minute 
+questioning, my colleague, Ms. Porter from California, showed 
+the American people, in clear and understandable terms, numbers 
+and systems that are at risk or at fault, and it is their tax 
+dollars, and it is our national security.
+    So, I praise Ms. Porter for what she just did. I thank her, 
+and I think she probably did more to penetrate American public 
+consciousness than 15 years of hearings on the subject.
+    Mr. Khan, do I understand that DoD has 326 financial 
+management systems according to the DoD itself?
+    Mr. Kahn. That is correct. I think the list has gone up 
+to--closer to 400.
+    Mr. Connolly. Four hundred financial management systems. Is 
+that correct?
+    Mr. Kahn. Correct.
+    Mr. Connolly. What could go wrong with that?
+    Mr. Kahn. Everything. Primarily, they do not communicate 
+with each other. They do not have controls, so the information 
+does not pass from one system to another system reliably. 
+Consequently, the information which is aggregated at the top 
+level is unreliable. You cannot make decisions on that 
+information.
+    Mr. Connolly. So how does the President, the Joint Chiefs 
+of Staff, or the Secretary of Defense manage financially within 
+the budget Congress gives them if they have got over 400 
+systems, they do not talk to each other, they do not cooperate, 
+and do not give a complete picture of what is happening at, 
+say, a 30,000-foot level?
+    Mr. Kahn. Primarily, through budget. How much budget is 
+available and how much is spent. But it does not provide them 
+if the money is being spent on the right assets, the right 
+services, and are they receiving the right services and right 
+goods for the amount paid.
+    Mr. Connolly. So, what do you think should happen with 
+these 400 separate systems of financial management?
+    Mr. Kahn. As GAO has recommended, they need to be 
+modernized. But they----
+    Mr. Connolly. Well, modernized. But shouldn't they be 
+consolidated?
+    Mr. Kahn. Yes.
+    Mr. Connolly. Like, a lot of them eliminated?
+    Mr. Kahn. Right.
+    Mr. Connolly. And is that possible? Is that doable?
+    Mr. Kahn. It is doable, but it has to be planned.
+    Mr. Connolly. Do other Federal agencies have 400 financial 
+management systems?
+    Mr. Kahn. No, they do not.
+    Mr. Connolly. They do not. So, it is doable?
+    Mr. Kahn. Correct.
+    Mr. Connolly. We even have examples we could point to?
+    Mr. Kahn. Yes.
+    Mr. Connolly. And has the Pentagon used best practices with 
+other Federal agencies to start to make some progress on this?
+    Mr. Kahn. It is trying to do that.
+    Mr. Connolly. Legacy systems. One of my favorite topics on 
+this Committee has always been IT modernization because I 
+believe it is fundamental to the enterprise, to the mission, 
+and to the execution of the mission.
+    Now, DoD has decommissioned, I understand, 18 legacy audit-
+related systems in Fiscal Year 2022. Is that correct?
+    Mr. Kahn. That sounds about right.
+    Mr. Connolly. How many more do we got to go?
+    Mr. Kahn. Hundreds more.
+    Mr. Connolly. Hundreds. And how are they doing in 
+developing and executing a plan to do that?
+    Mr. Kahn. It is somewhat slow. They need to have better 
+plans as to how they are going to go from where they are right 
+now to what the target state is, where they need to get there.
+    Mr. Connolly. Are there cyber risks from outside malign 
+actors with the legacy systems?
+    Mr. Kahn. Yes. Yes, there is.
+    Mr. Connolly. So, this directly affects the security of our 
+missions, of our intelligence, of our defense planning, on our 
+new weapons systems development?
+    Mr. Kahn. It does.
+    Mr. Connolly. It does. So, it is a pretty grave matter.
+    Mr. Kahn. Very much so.
+    Mr. Connolly. I think we are going to want to know a lot 
+more about that as we proceed.
+    My time is up, but I really thank you.
+    Mr. Grothman. Mr. Timmons.
+    Mr. Timmons. Thank you, Mr. Chairman. And thank you to the 
+witnesses for joining us to discuss the lack of financial 
+accountability that is all too prevalent within the DoD.
+    As we all know, the Pentagon had its first ever independent 
+audit in 2017, but failed that audit. And it has also failed 
+every audit subsequently. Unsurprisingly, in November 22, DoD 
+announced that it failed its most recent audit, unable to 
+account for more than half of its assets. It is extremely 
+concerning that our largest Federal agency cannot properly 
+identify up to half its assets. And today, I want to focus on 
+some smaller issues that are contributing to that.
+    In the GAO report released on May 23, on the accountability 
+of spare parts, GAO found that 1 million parts have been, 
+quote, ``lost'' since 2018. The report said DoD and contractors 
+cannot agree on how spare parts should be categorized. This 
+lack of agreement affects how DoD processes lost parts. For 
+example, about a half million lost parts worth $85 million, DoD 
+was only able to review the circumstances surrounding two 
+percent of identified losses since 2018.
+    Mr. Khan, this question is for you. Can you provide 
+additional context for the Committee? What is your definition 
+of a, quote/unquote, ``lost'' part?
+    Mr. Kahn. When the parts do not match what is in the record 
+and what is in the record do not match the part which is in the 
+warehouse.
+    Mr. Timmons. And do auditors currently have the ability to 
+identify and differentiate which parts are actually lost and 
+those which are simply excess inventory?
+    Mr. Kahn. No.
+    Mr. Timmons. Is that a problem?
+    Mr. Kahn. That is a huge problem.
+    Mr. Timmons. So, would it be much better to have--to 
+differentiate these categories?
+    Mr. Kahn. Yes.
+    Mr. Timmons. How do we do that?
+    Mr. Kahn. By inventorying them correctly, by tagging them, 
+by having the right information in the records as to which part 
+is obsolete and which part is still serviceable.
+    Mr. Timmons. What needs to be done to accomplish that?
+    Mr. Kahn. Better records, better policy and procedures. So, 
+somebody follows through with their guidance to make sure that 
+information is in the records.
+    Mr. Timmons. Is it harder--I know that Mr. Connolly was 
+discussing the 400 different systems. Is that part of the 
+problem? If there were fewer, if it was more streamlined, would 
+it be able to accomplish that?
+    Mr. Kahn. That is part of the problem. In this case, a lot 
+of these spare parts are managed by contractors, so there needs 
+to be proper guidance for the DoD personnel to require the 
+contractors to provide that information.
+    Mr. Timmons. OK. Thank you.
+    Mr. Mansfield, speaking specifically on the F-35 program, 
+what percentage of parts have been lost in the last 5 years?
+    Mr. Mansfield. I do not have a specific number on that.
+    Mr. Timmons. OK. It seems that the rate is fairly low, 
+given the information that I am looking at. How--so you do not 
+know the answer to that.
+    What is the overall goal for the Defense Department as it 
+relates to lost parts?
+    Mr. Mansfield. So, I cannot speak for the Department's 
+overall goal, only because we provide oversight over the 
+Department. But what I could say their goal should be is there 
+should be no lost parts, right. One hundred percent inventory 
+accuracy in terms of parts.
+    Mr. Timmons. I think that that is a great goal, but I mean, 
+I think zero percent is probably not attainable. But I mean, I 
+would say somewhere low single digits is a good objective.
+    What methods do you think could be implemented to lower 
+lost part percentages?
+    Mr. Mansfield. So, specifically for the Joint Strike 
+Fighter, because those are government assets, they are 
+controlled by a contractor. The fundamental thing, there is 
+three things that go into it. One is contract requirements, 
+very clear contract requirements and deliverables that have 
+measurable outcomes and goals within that. And then you also 
+have to have, the second part of this is a very solid oversight 
+plan from the government, a way of checking and checks and 
+balances on the contractor. And the third is the wherewithal 
+within the contracting community to actually hold the 
+contractors accountable for not meeting contract requirements 
+and providing the information that is required to maintain 
+accountability and fiscal responsibility for those parts.
+    Mr. Timmons. Sure. Thank you for that.
+    We have got a long day ahead of us working on the NDAA. I 
+am glad that we are having this hearing to discuss concerns 
+with what is our largest Federal agency, so we can continue to 
+do better.
+    And, Mr. Chairman, I yield back. Thank you.
+    Mr. Grothman. Thank you.
+    Mr. Moskowitz?
+    Mr. Moskowitz. Thank you, Mr. Chairman.
+    I would like to yield some of my time to Representative 
+Goldman.
+    Mr. Goldman. Thank you. I thank the distinguished gentleman 
+from Florida for yielding a little time.
+    I want to briefly address another one of my distinguished 
+colleagues from Florida's earlier remarks in mostly saying that 
+there was a 6-month buildup of Russian troops on the border and 
+somehow President Biden did nothing to deter Russia from 
+invading Ukraine. I find it odd to hear a Republican supporter 
+of Donald Trump complain that we did not do more earlier to 
+deter Russia.
+    We all remember, in 2019, Donald Trump withheld all of the 
+military and security assistance Congress appropriated to 
+Ukraine in order to benefit his reelection campaign. And, in 
+fact, on the contrary, Joe Biden, as President, did share 
+intelligence to rally around our European allies to support 
+Ukraine in a meaningful way that actually offset the need for 
+us to provide as much financial assistance.
+    But I am glad to hear that Mr. Donalds supports Ukraine in 
+its war against Russia. And I hope that he can convince his 
+colleagues, including some on this committee, not to strip all 
+funding for Ukraine in the NDAA.
+    I thank my colleague for yielding. And I yield back.
+    Mr. Moskowitz. Thank you.
+    So, we are talking about the NDAA, while this hearing is 
+going on, supporting our defense, supporting our country, 
+keeping our military superiority over China. It passed 58 to 1 
+in committee, bipartisan, how it has always been and how it 
+should be. Except now, it is held hostage. It is held hostage 
+over the culture war, right. It is not about defense. It is not 
+about protecting the American people. No, it is about abortion 
+or defending the Confederacy, based on amendments that my 
+colleagues have filed. Or it is about books again. We are back 
+to books. Or it is about stopping mitigation to climate change. 
+Anyone right now who is currently experiencing record flooding 
+or record heat, they are not worried about defending the 
+country. No, they are worried about stopping mitigation and 
+climate change.
+    The Senate is going to kick all this back to us. They are 
+going to wipe all this culture war nonsense out. And so, this 
+is just theater. It is not about defending the country. They 
+are holding up 250 nominees, in the Senate, to our military. My 
+colleagues across the aisle are doing that. We cannot appoint 
+the head of the Marine Corps because of the culture wars. Has 
+not happened since 1910.
+    In October, when we are going to see the Chairman of the 
+Joint Chiefs of Staff probably retire, nope, we will not be 
+able to appoint that person either, based on this nonsense if 
+it continues.
+    But they are focused on the audit of the Pentagon. Can you 
+imagine if someone audited this Committee? Oh, wait, I have 
+that audit of this Committee. Actually, it is in form of an 
+indictment. That is the audit of this Committee. It is an 
+indictment by the Department of Justice, because this Committee 
+is focusing on working with foreign agents, right. You want to 
+talk about national security? That is why you guys are here. It 
+is about national security.
+    But the main Committee is working with an indicted Chinese 
+agent who does business with the Iranian regime and is an 
+illegal arms dealer to Libya. All of this in order to own 
+Hunter Biden. That is how far they have stooped. It reads like 
+a 007 movie, this indictment, except they are working with the 
+villain.
+    You know, that is why I have sent a letter to the China 
+Select Committee, the chairman of that committee, to open up 
+into an investigation into what is happening in Oversight, 
+because I am deeply worried about whether the CCP has 
+manipulated the information that has been provided to this 
+Committee through their foreign agent that they are working 
+with and the information that they are then providing to the 
+American people.
+    It is also why I have sent a letter to the Chairman of 
+Foreign Affairs and the Chairman of Homeland Security, because 
+I need to know and the American people need to know, they have 
+a right to know, whether the indicted foreign agent, the 
+illegal arms salesman who is working within the Iranian regime, 
+who is a supporter of terrorism around the world--that is who 
+they are working with--we need to know whether they have 
+jeopardized homeland security in their search to help Donald 
+Trump in his reelection.
+    I yield back.
+    Mr. Grothman. Mr. Burchett?
+    Mr. Burchett. Yes, sir. Sorry, Mr. Chairman, I am usually a 
+little more prepared. I apologize.
+    Mr. Mansfield, the Presidential budget for Fiscal Year 2024 
+requested $910.8 billion for defense-related activities. Does 
+that sound right to you?
+    Mr. Mansfield. Yes.
+    Mr. Burchett. How much of that $910.8 billion is mandatory 
+and how much is discretionary spending?
+    Mr. Mansfield. I believe the vast majority is 
+discretionary.
+    Mr. Burchett. I cannot hear what you are saying.
+    Mr. Mansfield. It is discretionary, sir.
+    Mr. Burchett. Say again.
+    Mr. Mansfield. I said I believe the vast majority of that 
+would be discretionary.
+    Mr. Burchett. Vast majority, OK.
+    When was the last time the Department of Defense passed a 
+clean audit?
+    Mr. Mansfield. It never has.
+    Mr. Burchett. Never has. And what issue does the Department 
+face in tracking the money that was spent?
+    Mr. Mansfield. It is a magnitude of issues. You know, it 
+is--as we speak about--or I spoke about in my prepared 
+statement, there is a series of material weaknesses, anything 
+from information technology systems to be able to track its 
+balances that are with the Treasury. It is inventory over 
+property and equipment. It is ability to actually capture the 
+total universe of financial----
+    Mr. Burchett. OK, OK. I appreciate all that, but don't you 
+think it is time? I mean, you have never had it--if it never 
+has come out right, that you all would fix that problem?
+    Mr. Mansfield. I would agree it is time for the DoD to fix 
+that problem. Our role as the Inspector General is to oversight 
+the DoD's process. So, we actually issue the opinion that finds 
+that the DoD cannot report its financial information 
+accurately.
+    Mr. Burchett. How does the process work in the Department 
+of Defense? The auditing process, how does it work?
+    Mr. Mansfield. Well, in terms of the audit or the 
+compilation of the financial statements, because----
+    Mr. Burchett. Just the audit, the audit, sir.
+    Mr. Mansfield. So, we have--within the DoD Office of 
+Inspector General, we look at the consolidated financial 
+statements, and then we oversee a series of independent public 
+accounting firms that look at individual entities within the 
+DoD that have their own financial statements that roll up into 
+the agency-wide. And so, at the entity level, there is testing 
+going on by IPAs substantive to----
+    Mr. Burchett. So, it just goes from one bureaucrat to 
+another bureaucrat to--it just goes up the chain.
+    OK. Let me ask you, how many people work in this maze? How 
+many people work to audit the Pentagon?
+    Mr. Mansfield. Right now, my organization, the DoD Office 
+of Inspector General, has about 180 people dedicated to it. And 
+then within the independent public accounting firms, it is 
+right around 1,400 staff.
+    Mr. Burchett. Now, does the Pentagon do any of this work 
+in-house? Do they do their own auditing at all or any of that, 
+or do they just----
+    Mr. Burchett. They contract with a few IPAs and oversees 
+those IPAs. We do the vast majority.
+    Mr. Burchett. Did you say overseas?
+    Mr. Mansfield. They oversee them.
+    Mr. Burchett. Oversee them. OK. I am sorry.
+    Mr. Mansfield. I am sorry. I apologize. Yep.
+    Mr. Burchett. You had me really nervous thinking I was 
+going to change my questions.
+    How much do you all spend to do--on the auditing process?
+    Mr. Mansfield. So, in Fiscal Year 2023, it looks like we 
+are around $186--the DoD is around $186 million. But if you 
+look at the contracts they have, which are multiyear contracts, 
+the total potential amount obligated there is around $485 
+million or so.
+    Mr. Burchett. Do you think they will ever pass a clean 
+audit?
+    Mr. Mansfield. I think there is room there for that to 
+occur. I think it just requires consistent attention.
+    Mr. Burchett. I think at some point this Congress is going 
+to have to get some guts and remember what we said, that we are 
+the country's checkbook--or this Congress' checkbook, and we 
+have to start cutting money if they do not. I mean, that is 
+what you do in the business community, that is what you do in 
+small government. You--and when I was county mayor, I will tell 
+you this, if it--if they did not come back clean and they could 
+not give me the proper answer, I was going to fire somebody's 
+butt overnight, overnight. Tennessee is a right-to-work state, 
+and they were gone. I just--this group, all you do is hire more 
+people. I just do not follow what is going on.
+    Mr. Khan--did I say that name correctly?
+    Mr. Kahn. Yes.
+    Mr. Burchett. Mr. Khan?
+    Mr. Khan. Yes, sir.
+    Mr. Burchett. In your opinion, what programs within the 
+Department are most prone to waste, fraud, and abuse?
+    Mr. Kahn. Based on the work, it is primarily the weapons 
+systems. I mean, that is where their cost overruns time delays.
+    Mr. Burchett. Do they do this so they can say, well, we are 
+putting more into it, or it just--I mean, you know, they try to 
+wrap it in the patriotism of this great country, and I just 
+worry about that.
+    Mr. Kahn. I cannot answer that question.
+    Mr. Burchett. Do what?
+    Mr. Kahn. I do not know the answer to that question.
+    Mr. Burchett. All right. How does the Department of 
+Defense's financial management compare to other Federal 
+agencies?
+    Mr. Kahn. It is lacking compared to other Federal agency.
+    Mr. Burchett. And that is saying something, because Federal 
+agencies are pitiful. So, go ahead. I am sorry.
+    Mr. Kahn. Well, I was going to say it is the only one which 
+has not received audit opinion since it became the law in 1990, 
+so it is really far behind other Federal agencies.
+    Mr. Burchett. I prepared legislation. I will be filing it, 
+Mr. Chairman, to penalize government departments that do not 
+follow through or do not--or who have audit findings in the 
+future. I would hope, maybe this Congress would get some guts 
+and our party would get some guts and follow through with some 
+of our promises that we have made.
+    Thank you, Mr. Chairman. I appreciate all you guys being 
+here. I know you probably woke up this morning and thought, 
+wow, this is going to be just like it is on television, and 
+obviously it is not, because we have terrible snacks back 
+there. I just want you to know that, so--exactly, no snacks, 
+exactly.
+    Thank you.
+    Mr. Grothman. OK. Thank you.
+    Ms. Greene?
+    Ms. Greene. Thank you, Mr. Chairman.
+    As Congress is debating and considering voting on the next 
+National Defense Authorization Act that will cost the American 
+people $866 billion, I think this is a very important hearing 
+today. And I thank you all for being here.
+    I own a construction company. And my company is audited 
+every single year. That is part of being able to do the jobs 
+that we do. We have to account for everything that our business 
+owns, all of our liabilities, all the way down to counting 
+hammers and nails.
+    So, this was very alarming information to me as I found out 
+that the Pentagon had failed its first ever independent 
+financial audit in 2017. But more importantly, that the 
+Department of Defense has failed every single audit since then. 
+And I am sure that alarms you as well.
+    In November 2022, the Department of Defense announced that 
+it failed its most recent audit, unable to account for more 
+than half of its assets. That is mind-boggling, especially for 
+Americans that pay for all of this. After 1,600 auditors sifted 
+through the Department of Defense's 3.5 trillion in assets and 
+3.7 trillion in liabilities, officials found that the DoD could 
+not account for more than 61 percent of its assets is so 
+alarming.
+    What Is particularly concerning to me, in our NDAA, there 
+is $300 million more dollars in the NDAA to go to Ukraine. 
+Congress has already spent $113 billion for the Ukraine war.
+    So, on June 20th, 2023, when a Department of Defense 
+spokesperson said that the DoD had been overestimating the 
+value of U.S. assistance to Ukraine by nearly $6.2 billion over 
+the Fiscal Year 2022 and 2023, that is really concerning. The 
+spokesperson noted that military services used replacement 
+costs rather than net book value in many cases. And this sum 
+would subsequently go back into the pot of money allocated for 
+the Presidential Drawdown Authority, PDA, for Ukraine.
+    So, I want to talk about accounting practices today. And I 
+am going to ask both of you, Mr. Tenaglia--I apologize if I 
+mispronounced that--and Mr. Mansfield. Basically, my estimation 
+of what this means in simple terms for anyone watching this 
+hearing is that, at first, using the accounting practice, 
+basically putting the net worth and the value of this equipment 
+originally given to Ukraine, it was kind of like pricing it 
+like a new car. And then changing its value by pricing it like 
+a used car and that is how $6.2 billion showed up. But yet, the 
+American people have to resupply the military at a new car 
+value, right. So, that is a loss to the American people in the 
+amount of money they are spending.
+    Would you agree with me? And I will go with each of you.
+    Mr. Tenaglia. I am told by the Comptroller's staff that the 
+accounting error that they identified through an internal 
+review was--informed the Congress of that, as you referred, 
+does not have any fraud, waste, or abuse implications, and that 
+accounting error has been rectified.
+    Ms. Greene. And how was that rectified? It is a loss to the 
+American people. Or it is actually just giving you--is it a 
+loss to the American people or is it giving Ukraine another 
+$6.2 billion, using accounting terms?
+    Mr. Tenaglia. I do not believe it is another $6 billion. I 
+believe it is a re-estimation of the value of that equipment.
+    Ms. Greene. Well, who is going to be paying for the $6.2 
+billion when we replace the military equipment for our 
+military, for the defense of our country, not Ukraine, who some 
+seem to think it is the 51st state, but actually the Defense of 
+the United States of America? Who is going to be filling in 
+that $6.2 billion?
+    Mr. Tenaglia. Again, I do not believe it is a matter of 
+filling in the $6.2 billion, but we can get--the Department 
+will get you an answer to describe the impact of that error.
+    Ms. Greene. There is an impact for sure and it is always 
+made up in terms, but the American people pay for it.
+    Mr. Mansfield, could you answer my question?
+    Mr. Mansfield. Yes. First, I would say I appreciate your 
+analogy. I think it is a good way of describing the situation, 
+as I understand it. In terms of who pays for the equipment that 
+has gone to Ukraine ultimately, that is the U.S. taxpayer.
+    Ms. Greene. Right. And then, obviously, if they have to 
+replace the $6.2 billion of equipment at a new car price, 
+versus what the change in accounting has been to a used car 
+price, then it is the American people that pay the price again.
+    Thank you so much for clarifying.
+    I yield back, Mr. Chairman.
+    Mr. Grothman. Thank you.
+    Mrs. Boebert?
+    Mrs. Boebert. Thank you, Mr. Chairman.
+    Mr. Tenaglia, can you please give me an example within the 
+past year when your office has provided oversight on 
+contractors who are overcharging for their services and 
+equipment?
+    Mr. Tenaglia. Yes. The role of our office is to help 
+contracting officers throughout the Department with the 
+policies that we issue. And so, one example would be the 
+reviews we conduct advising contracting officers about 
+individual negotiations. Each of those negotiations involve 
+contractors submitting proposals. Some of those proposals may 
+indicate overvalue, and some of that is subject to negotiation. 
+The Congress has provided us some safeguards for sole-source 
+contracts so that we have----
+    Mrs. Boebert. So, you are providing regular oversight.
+    Mr. Tenaglia. Yes.
+    Mrs. Boebert. Just a few years ago, it was determined--and 
+I apologize if this has been brought up already today--but it 
+was determined that contractors were charging the United States 
+Air Force $1,280 for a cup of coffee. Or----
+    Mr. Tenaglia. I am not familiar with that particular 
+example.
+    Mrs. Boebert. So--but is there oversight being conducted to 
+ensure that we are not paying $1,280 for a cup of coffee?
+    Mr. Tenaglia. The oversight that my office conducts 
+primarily relates to the largest transactions, anything that is 
+valued over a billion dollars for negotiation.
+    Mrs. Boebert. So, something like that could be overlooked. 
+There is not an in-depth office--there is not an in-depth 
+search in your office for small dollar items that cost----
+    Mr. Tenaglia. We do have some safeguards in place.
+    Mrs. Boebert. OK.
+    Mr. Tenaglia. For example, with the government purchase 
+card program, we have the ability to identify fraud, waste, and 
+abuse. But throughout the Department, we have a number of 
+different buying activities, and each one of those have 
+leadership and warranted contracting officers who are empowered 
+to make sure that they are getting at the best deal for the 
+taxpayer.
+    Mrs. Boebert. So, Mr.--what steps are you taking to ensure 
+that companies that the DoD is contracting with are providing 
+their best warfighting capabilities at a reasonable cost to the 
+taxpayer so, you know, we do not have a $1,200 cup of coffee? 
+So, what are you doing to ensure that does not happen?
+    Mr. Tenaglia. The best thing that we can do is promote 
+competition, and competition gets us the best pricing possible. 
+But in many cases, we have fielded weapons systems for which we 
+have negotiations with sole-source contractors, and we have 
+safeguards to make sure we are paying the fair price.
+    Mrs. Boebert. So, is it your determination that there is no 
+fraud, waste, and abuse by contractors in the DoD in terms of 
+materials and capabilities received?
+    Mr. Tenaglia. Where there is fraud, waste, and abuse, we 
+have mechanisms, such as the Defense Contract Management Agency 
+has an organization responsible for rooting out that. The DoD 
+IG has a whistleblower program. And so, we have the means to 
+identify fraud, waste, and abuse.
+    Mrs. Boebert. Do any of your whistleblowers ever get 
+indicted?
+    Mr. Tenaglia. I am not aware of that.
+    Mr. Mansfield. I would hope the whistleblowers themselves 
+would not get indicted, but the individuals they are blowing 
+the whistle on. I apologize.
+    Mrs. Boebert. I see--no, but----
+    Mr. Mansfield. Thank you.
+    Mrs. Boebert. Thank you, Mr. Mansfield.
+    So, have you determined that any of the sole source of 
+manufacturers of the systems that we are providing to Ukraine 
+are making exorbitant profits via price gouging? And if so, 
+what percentage of profit are they making? And if you have 
+looked into this Ukrainian spending.
+    Mr. Tenaglia. So, a significant amount of the Ukrainian 
+security assistance has been executed using a technique we call 
+undefinitized contract action. And so, we have deferred the 
+negotiation of the price for that, and so we do not yet know 
+what the definitized price or profitability will be. But we 
+have no information that will indicate any price gouging.
+    Mrs. Boebert. Well, I sure hope that you get that 
+information. I would like that to be given to me personally. 
+Because in 2015, the Pentagon ordered a review, and Army 
+negotiators discovered one company and its subcontractor 
+company were grossly overcharging the Pentagon and U.S. allies 
+by hundreds of millions of dollars for the Patriot's PAC-3 
+missiles. Pentagon analysis found the total profits approached 
+40 percent. The standard, as you know, is anywhere from 12 to 
+15 percent. And this is only one of the examples that I know 
+about.
+    How many other examples of this corrupt practice will come 
+to light as we continue to send Ukraine more weapons at the 
+taxpayers' expense? Our servicemembers are lacking the 
+resources they need in exchange for the CEO of a defense 
+contractor's new private jet.
+    So, China has clearly--it has paced--it is a pacing threat. 
+Would you agree with that?
+    Mr. Tenaglia. Yes.
+    Mrs. Boebert. Yes. Under Secretary Colin Kahl, he said that 
+the top priority for the Department is getting China right. 
+Secretary of Defense Austin has described China as America's 
+pacing threat. It means that China is the only country that can 
+pose a systematic challenge to the United States in the sense 
+of challenging us economically, technologically, politically, 
+and militarily.
+    Now, my time has expired. If I may, do you just consider 
+the current contracting process limited to the small number of 
+prime contractors sufficient to meet the rapid technological 
+requirements that the threat picture poses by our adversaries?
+    Mr. Tenaglia. So, the defense industrial base we have is 
+producing weapons systems that our warfighters are using. If we 
+have more competition, that would be better.
+    Mrs. Boebert. Thank you. I appreciate you all for being 
+here.
+    Mr. Chairman, I yield.
+    Mr. Grothman. Thank you very much.
+    Well, that--I want to thank our panelists for being here 
+today. Nice long hearing. I will have a few more words to add 
+in a second, but we will start out going to Ranking Member 
+Mfume for closing remarks.
+    Mr. Mfume. Thank you very much, Mr. Chairman.
+    I want to thank the witnesses for their time today, for 
+their testimony as well. And I want to thank Members of this 
+body for helping to drill down on this very important, very, 
+very important issue.
+    As Members of this body, we are obligated to keep careful 
+watch over the use of taxpayers' dollars, that goes without 
+saying. And that responsibility must be carefully balanced 
+again and again with ensuring the security of our Nation.
+    As we have heard, the General Accounting Office has 
+identified many, many instances over the years where the 
+Department of Defense's components had inaccurate inventories 
+on their books, like the Black Hawk helicopter debacle, which 
+left 39 Black Hawk helicopters unrecorded in the Army's 
+property system. That sort of military equipment costs millions 
+of dollars each year, depending on the model. And that is only 
+one example of many.
+    When you consider the fact that the moneys lost, without a 
+doubt, could fund school lunch programs across this country, 
+SNAP benefits, assistance to our seniors who are in desperate 
+need of housing assistance, student loan support, Medicaid and 
+Medicare, it is almost unbelievable that the testimony and the 
+facts before us today point to such an atrocity. And I do not 
+know a better word for it.
+    The most striking thing, Mr. Chairman, that I took away 
+from this goes back to the comments from the gentlewoman from 
+North Carolina when she gave us a definition of systems, and 
+then said, of the almost 400 systems at DoD, how many of those 
+worked as intended. And Mr. Khan in his statement said, none of 
+them.
+    So, if none of the systems are working, none of them--and 
+this is GAO's assessment--we are in a big pickle here, in a 
+situation that I think requires immediate and drastic actions. 
+It is--I just--I find that so unbelievable. None of the systems 
+work as intended.
+    So, I do not know. I, you know, I generally have been 
+supportive of NDAA, but I do not know how I am going to vote in 
+support of something like this. This is absolutely ridiculous. 
+It is. And I know I do not want to be here next year and hear 
+the same thing all over again.
+    So, I just would implore, as best I can, the Department of 
+Defense, from the top down, to address this and do it 
+immediately, to make it a priority, and to do it before we are 
+back here again in 12 months. It is shameful. I do not know how 
+any other word could be used when you consider the amount of 
+dollars that are being lost that could be going to help people, 
+that are continually lost, and the fact that the DoD has been 
+on this high-risk list going back to the 1990's?
+    Maybe it is just me, I do not know, but I just--I am 
+astounded, I am insulted, and I am very perplexed about how it 
+goes on. And many of our colleagues who are not here today, I 
+certainly hope that I get a chance to talk to on the Floor 
+before these votes come up because this is ridiculous. We just 
+cannot keep doing the same thing.
+    So, I implore the leadership of DoD to address these 
+deficiencies as outlined by GAO immediately.
+    I want to thank the witnesses here. Actually, you have been 
+here taking knives and the arrows of other people who should 
+have been here. I hope that they will understand that they have 
+an obligation to come to this Committee when requested by the 
+Chair.
+    I yield back.
+    Mr. Grothman. Thank you.
+    Mr. Garcia?
+    Mr. Garcia. Thank you, Mr. Chairman. And thank you to our 
+witnesses again.
+    You know, at least as we have heard throughout the hearing, 
+I just want to recap a few things. Obviously, the Department of 
+Defense has a statutory and financial responsibility to the 
+military but, of course, the taxpayers and the American people 
+to achieving a clean audit to ensure greater transparency and 
+better support for our military.
+    DoD's long-standing issues to reach an audit expand 
+multiple administrations, and so we know that, and it has been 
+made very clear today as well. Congress needs to hold DoD 
+accountable to achieve a clean audit. That has been also very 
+clear today. And DoD needs to streamline and modernize its 
+legacy data bases to ensure that systems are working together 
+and in harmony. And we know that achieving a clean financial 
+statement also does not indicate that DoD is free of fraud, 
+waste, or abuse, or even mismanagement.
+    Now, I want to note that we should be very concerned that 
+many of our House colleagues in the Majority are also attacking 
+vital support and resources to Ukraine as has happened in 
+today's hearing. I want to be clear that the Federal Government 
+is conducting robust oversight over the support in Ukraine. 
+More than 120 auditors from 20 different oversight agencies, 
+and including 15 Offices of Inspectors General, have completed 
+four reports, with 18 currently in progress as some of you have 
+stated earlier today.
+    Moreover, the Ukraine Oversight Interagency Working Group 
+has sent seven different management advisories to improve its 
+collective oversight and ensure accountability of all of these 
+critical funds.
+    So, to say that the U.S. is sending Ukraine a blank check 
+is dangerous, reckless, and, quite frankly, counter to our own 
+national security.
+    Now, I do welcome bipartisan efforts to helping DoD achieve 
+a clean audit, but House Republicans cannot exploit a decades' 
+long inability to achieve a clean audit to endanger our 
+national security and allow a tyrant like Putin to invade a 
+sovereign democracy.
+    I also just want to make two more notes. One is I want to 
+remind everyone that the Majority called this hearing and knew 
+that the DoD Comptroller would be--even though would be the 
+most appropriate witness for the agency and for the substance 
+of this hearing, because they could not find the right date and 
+that Mr. McCord could not avail himself on this date, they 
+moved forward with oftentimes questions today that could not be 
+answered because, really, that is the job of the DoD 
+Comptroller.
+    So, in the future we should certainly work, I think, better 
+with witnesses so that we have our true subject matter experts 
+answering these questions.
+    And, finally, Mr. Chairman, I just ask for unanimous 
+consent to enter also a fact sheet into the record. There has 
+been some discussion about some of the mischaracterization 
+around DoD's accounting of Ukraine. DoD did share with both the 
+Majority and the Minority of this Committee ahead of this 
+hearing that once DoD discovered these miscalculations, they 
+notified Congress and reissued guidance clarifying how to value 
+this equipment. So, we do have that fact sheet that was 
+submitted, and so I just want to enter that record into the 
+record without any objection, please.
+    Thank you.
+    Mr. Grothman. OK. Well, thank you. First of all, to 
+clarify, it was not just the Comptroller that could not make 
+it. It was the two people immediately under him. So, you would 
+figure for a congressional hearing focusing on your inability 
+to pass an audit, one of the three would have been available, 
+but apparently not.
+    As far as the hearing overall is concerned, to me the most 
+important part of the Federal Government is the Department of 
+Defense. Right? The freedom of the whole free world depends on 
+it, and it is kind of disappointing that it would--you know, it 
+would be disappointing if the Department of Interior failed an 
+audit, but the Department of Defense.
+    It shows--I think Ms. Foxx said we have a cultural problem. 
+It is a cultural problem. It is an arrogance problem. They 
+think because they are the Department of Defense, they do not 
+play the rules by everybody else. We do not care if we are 
+wasting money. We do not care if we misplace stuff.
+    We will just say that we have a threat from China or a 
+threat from Russia, and Congress has no alternative but to give 
+us the money we are asking for, or we produce weapons in a lot 
+of people's different districts or give a lot of campaign 
+contributions, or whatever. And as the result, we just have to 
+keep writing the checks, and that is not true.
+    A lot of these hearings, I guess, would be had by the Armed 
+Services Committee. I do not know how many they have had all on 
+this line. This is not the first hearing we have had focusing 
+on the idea that we are spending money on the Department of 
+Defense we do not have to. I did not ask Kevin to be on the 
+Armed Services Committee, but if this Committee has got to have 
+more hearings to delve into where all of this money is going--
+and the odd thing is they are important things that we should 
+be building that we cannot build. OK? But apparently, we cannot 
+build it because we are just going to be sloppy on what we are 
+spending.
+    So, you can carry it back to people. And if you are around 
+the Comptroller, you can tell him too that, you know, this is 
+not the last hearing that this Committee is going to be holding 
+focusing on waste or unnecessary spending of the Department of 
+Defense.
+    And it is very important on--it kind of frustrates me. My 
+colleagues here feel that if we are able to spend a little more 
+money on defense, we can spend more money on something else. 
+Actually, if you can spend a little less money on defense, we 
+should not be operating such a big budget deficit is what we 
+should be doing.
+    But, in any event, I appreciate you for coming over here 
+today. I do not want to hold more hearings on this topic, but I 
+do not have a choice but to hold more hearings on this topic, 
+because, you know, we are going to have the Appropriations Bill 
+come around. We are going to have the Senate.
+    They are going to pass their version of events, and then we 
+are going to be on to next year as well. And you just cannot 
+trust the Department of Defense to give you a straight story as 
+to why we are spending so much money, whether there is any 
+waste out there, or, quite frankly, whether we are procuring 
+the right weapons as well, or whether we are doing a good job 
+with our personnel. And I have got one amendment in this bill.
+    But, in any event, I appreciate you coming over here. I did 
+not run for Congress to monitor the Department of Defense, but 
+I guess I am going to have to do that.
+    So, again, thanks for coming over here, and I hope you 
+enjoyed our humble Subcommittees.
+    I know we have got to--with that and without objection, all 
+Members will have 5 legislative days within which to submit 
+materials and to submit additional written questions for the 
+witnesses which will be forwarded to the witnesses for their 
+response.
+    If there is no further business, without objection, the 
+Joint Subcommittee hearing stands adjourned.
+    [Whereupon, at 1:05 p.m., the Subcommittees were 
+adjourned.]
+
+                                 [all]
+

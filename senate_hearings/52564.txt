@@ -1,0 +1,1672 @@
+
+ - RESIDENTS AT RISK: THE STRAINED NURSING HOME INSPECTION SYSTEM AND THE NEED TO IMPROVE OVERSIGHT, TRANSPARENCY, AND ACCOUNTABILITY
+
+[Senate Hearing 118-027]
+[From the U.S. Government Publishing Office]
+
+
+                                                        S. Hrg. 118-027
+
+                    RESIDENTS AT RISK: THE STRAINED
+                   NURSING HOME INSPECTION SYSTEM AND
+                     THE NEED TO IMPROVE OVERSIGHT,
+                    TRANSPARENCY, AND ACCOUNTABILITY
+
+=======================================================================
+
+                                HEARING
+
+                               BEFORE THE
+
+                       SPECIAL COMMITTEE ON AGING
+
+                          UNITED STATES SENATE
+
+                    ONE HUNDRED EIGHTEENTH CONGRESS
+
+
+                             FIRST SESSION
+                               __________
+
+                             WASHINGTON, DC
+                               __________
+
+                              MAY 18, 2023
+                               __________
+
+                           Serial No. 118-04
+
+         Printed for the use of the Special Committee on Aging
+         
+         
+                  [GRAPHIC NOT AVAILABLE IN TIFF FORMAT]         
+         
+
+        Available via the World Wide Web: http://www.govinfo.gov
+        
+        
+                               __________
+
+                    U.S. GOVERNMENT PUBLISHING OFFICE
+                    
+52-564 PDF                 WASHINGTON : 2023         
+        
+        
+        
+        
+                       SPECIAL COMMITTEE ON AGING
+
+              ROBERT P. CASEY, JR., Pennsylvania, Chairman
+
+KIRSTEN E. GILLIBRAND, New York      MIKE BRAUN, Indiana
+RICHARD BLUMENTHAL, Connecticut      TIM SCOTT, South Carolina
+ELIZABETH WARREN, Massachusetts      MARCO RUBIO, Florida
+MARK KELLY, Arizona                  RICK SCOTT, Florida
+RAPHAEL WARNOCK, Georgia             J.D. VANCE, Ohio
+JOHN FETTERMAN, Pennsylvania         PETE RICKETTS, Nebraska
+                              ----------                              
+               Elizabeth Letter, Majority Staff Director
+                Matthew Sommer, Minority Staff Director
+
+
+                         C  O  N  T  E  N  T  S
+
+                              ----------                              
+
+                                                                   Page
+
+Opening Statement of Senator Robert P. Casey, Jr., Chairman......     1
+Opening Statement of Senator Mike Braun, Ranking Member..........     2
+
+                           PANEL OF WITNESSES
+
+Erin Bliss, Assistant Inspector General for Evaluation and 
+  Inspections, Department of Health and Human Services, Office of 
+  Inspector General, Washington, D.C.............................     4
+Shelly Williamson, President of the Board of Directors for the 
+  Association of Health Facility Survey Agencies (AHFSA), 
+  Administrator for the Section for Long Term Care Regulation 
+  with the Missouri Department of Health and Senior Services, 
+  Jefferson City, Missouri.......................................     6
+Leah McMahon, M.A., Director, Colorado State Long-Term Care 
+  Ombudsman Program, Denver, Colorado............................     7
+Susan Feng Lu, Ph.D., M.A., Gerald Lyles Rising Star Professor of 
+  Management, Mitchell E. Daniels, Jr. School of Business, Purdue 
+  University, West Lafayette, Indiana............................     9
+
+                                APPENDIX
+                      Prepared Witness Statements
+
+Erin Bliss, Assistant Inspector General for Evaluation and 
+  Inspections, Department of Health and Human Services, Office of 
+  Inspector General, Washington, D.C.............................    31
+Shelly Williamson, President of the Board of Directors for the 
+  Association of Health Facility Survey Agencies (AHFSA), 
+  Administrator for the Section for Long Term Care Regulation 
+  with the Missouri Department of Health and Senior Services, 
+  Jefferson City, Missouri.......................................    45
+Leah McMahon, M.A., Director, Colorado State Long-Term Care 
+  Ombudsman Program, Denver, Colorado............................    50
+Susan Feng Lu, Ph.D., M.A., Gerald Lyles Rising Star Professor of 
+  Management, Mitchell E. Daniels, Jr. School of Business, Purdue 
+  University, West Lafayette, Indiana............................    55
+
+                        Questions for the Record
+
+Erin Bliss, Assistant Inspector General for Evaluation and 
+  Inspections, Department of Health and Human Services, Office of 
+  Inspector General, Washington, D.C.............................    63
+Shelly Williamson, President of the Board of Directors for the 
+  Association of Health Facility Survey Agencies (AHFSA), 
+  Administrator for the Section for Long Term Care Regulation 
+  with the Missouri Department of Health and Senior Services, 
+  Jefferson City, Missouri.......................................    67
+Leah McMahon, M.A., Director, Colorado State Long-Term Care 
+  Ombudsman Program, Denver, Colorado............................    73
+Susan Feng Lu, Ph.D., M.A., Gerald Lyles Rising Star Professor of 
+  Management, Mitchell E. Daniels, Jr. School of Business, Purdue 
+  University, West Lafayette, Indiana............................    78
+
+                       Statements for the Record
+
+AMDA Statement...................................................    83
+California Advocates for Nursing Home Reform Statement...........    85
+California Long-Term Care Ombudsman Program Statement............    87
+
+
+                         C  O  N  T  E  N  T  S
+
+                              ----------                              
+
+                   Statements for the Record (cont'd)
+
+Indiana Long-Term Ombudsman Program Statement....................    89
+LeadingAge Statement.............................................    92
+Michigan Long-Term Care Ombudsman Program Statement..............    96
+Minnesota Office of Ombudsman Program Statement..................    99
+Mississippi Long-Term Care Ombudsman Program Statement...........   102
+Tennessee Long-Term Care Ombudsman Program Statement.............   103
+Texas Long Term-Care Ombudsman Program Statement.................   105
+West Virginia Bureau of Senior Services Statement................   107
+
+ 
+                 RESIDENTS AT RISK: THE STRAINED NURSING HOME 
+             INSPECTION SYSTEM AND THE NEED TO IMPROVE OVERSIGHT, 
+                     TRANSPARENCY, AND ACCOUNTABILITY
+
+                              ----------                              
+
+
+                         Thursday, May 18, 2023
+
+                                        U.S. Senate
+                                 Special Committee on Aging
+                                                    Washington, DC.
+    The Committee met, pursuant to notice, at 9:32 a.m., Room 
+366, Dirksen Senate Office Building, Hon. Robert P. Casey, Jr., 
+Chairman of the Committee, presiding.
+    Present: Senator Casey, Gillibrand, Blumenthal, Warren, 
+Kelly, Braun, Rick Scott, Vance, and Ricketts.
+
+                 OPENING STATEMENT OF SENATOR 
+                 ROBERT P. CASEY, JR., CHAIRMAN
+
+    The Chairman. Good morning, everybody. The Senate Special 
+Committee on Aging will come to order.
+    Today, the Special Committee on Aging will examine 
+troubling problems, and that is an understatement, in the 
+Nation's nursing home inspection system and receive testimony 
+about the urgent need to invest in oversight to protect nursing 
+home residents, health and safety.
+    Last year, I directed my staff and the Committee to 
+investigate the capacity of State inspection agencies to 
+enforce health and safety standards in the Nation's 15,000 
+federally certified nursing homes.
+    Today, I am releasing the findings of that investigation in 
+a report entitled, I will hold it up just for illustrative 
+purposes "Uninspected and Neglected", and the subheading is, 
+"nursing home inspection agencies are severely understaffed, 
+putting residents at risk". This is based upon 2,000 pages of 
+documents and data provided by every State in the Nation.
+    The report paints a picture of a system in crisis. 
+Underfunded and understaffed State agencies have fallen behind 
+on the basic duties that they are charged with executing on. 
+For example, conducting annual nursing home inspections and 
+responding to resident complaints in a timely manner, as 
+nursing home residents and their families should have a right 
+to expect.
+    As we will hear from our witnesses, the result is that 
+nursing home residents are at risk because of this problem. 
+Just imagine the horror of an 84-year-old woman whose leg was 
+broken at a nursing home in Pennsylvania, but a full week 
+passed before she was taken to a hospital where she later died.
+    The county coroner cited negligence as a contributing 
+factor in this woman's preventable death that occurred one day 
+before her 85th birthday. Often such stories aren't the subject 
+of public attention due to inadequate oversight. Federal data 
+shows that one out of nine, one out of every nine nursing homes 
+in the Nation, has not received a comprehensive annual 
+inspection in two years.
+    Infrequent annual inspections have led more residents and 
+families to file complaints, which States are failing to 
+investigate in a timely manner. Time is of the essence when 
+State inspectors need evidence to prove serious deficiencies 
+like physical abuse, sexual assault, or inadequate medical care 
+in circumstances like we have all read about.
+    My fear is that the trail is going very cold for too many 
+residents before nursing home inspectors can arrive at the 
+scene. The findings of this investigation should serve as a 
+wakeup call to Congress, both the House and the Senate.
+    The investigation found that 32 States survey_State survey 
+agencies have vacancy rates of 20 percent or more, 20 percent 
+or more among nursing home inspectors, and nine of those 
+agencies have vacancy rates of 50 percent or higher.
+    States directly linked staffing shortages to inspection 
+delays and said flat lined Federal funding over the last decade 
+is making these problems much worse. Simply put, Federal 
+dollars are not keeping up with the growing workloads and the 
+need for States to offer comprehensive, I am sorry, the need to 
+offer competitive salaries to attract workers.
+    Today, the Federal Government is spending tens of billions 
+of dollars on nursing homes, but Congress appropriates less 
+than $0.80 per resident per day on nursing home oversight. Not 
+even enough to buy a cup of coffee. For too long, Congress has 
+failed to invest in strategies to protect the health and safety 
+of the Nation's 1.1 million nursing home residents.
+    If we as Americans claim that ours is the greatest country 
+in the world, we must insist upon, and invest in, and ensure 
+that we have the best long term care system in the world. That 
+should be our goal, and we are not fulfilling that goal right 
+now, and I will now turn to Ranking Member Braun for his 
+opening remarks.
+
+                 OPENING STATEMENT OF SENATOR 
+                   MIKE BRAUN, RANKING MEMBER
+
+    Senator Braun. Thank you, Mr. Chairman. For the first time 
+in U.S. history, older adults are expected to outnumber 
+children by 2034. As our population ages, we are facing growing 
+health care workforce shortages. I have dealt with that before 
+I came to the Senate in a different arena. Indiana has 4,300 
+job openings for nurses and is projected to need 5,000 more--
+5,000 more by 2031.
+    Nursing homes have not been spared from these shortages, 
+leading to issues with patient care and overall quality. My 
+home State has worked to address this issue. A law championed 
+by Ivy Tech Community College and the Indiana Hospital 
+Association removed limits on nursing school enrollment.
+    Ivy Tech partnered with nursing homes to offer paid 
+apprenticeships. Last month, I went to a rural high school, and 
+they have a program for students to earn a CNA. We need to do a 
+lot more of that in high school where the education is the best 
+value we get, and before they get outside of the system, we 
+need to have programs there, career and technical education 
+that leads you, into places that may not need more time and 
+more money.
+    I have also introduced a Prioritizing Evidence for 
+Workforce Development Act, which prioritizes funding for 
+evidence-based workforce programs. The Federal Government 
+should make it easier for people who are looking to work not 
+more complicated, especially in health care. Instead, excessive 
+Federal rules and regulations pose barriers.
+    We got to have regulation, some guardrails, but not to 
+where they become oppressive, and I have witnessed that in 
+running a business over the years, and being aligned with the 
+State Government that I think finds a little better balance.
+    President Biden is expected to propose an overtime rule, 
+for instance. In my own company, that was 35,000. At one point 
+I think it was adjusted up a little bit, but taking it up to 
+80,000, that will dislocate so many jobs and the people that 
+would want something at a lower level, but yet you got kind of 
+a crazy Federal recommendation there, and that is what goes 
+above and beyond.
+    This would make nursing home workers subject to overtime 
+regulations, reducing staff flexibility, and quality of care. 
+As an employer, I dealt with the Administration, the Obama 
+Administration's overtime rule myself, and know the obstacles 
+it created in my own business. As we work to buildup health 
+care workforce, we must do more to improve transparency and 
+accountability.
+    In 2021, we spent $181 billion on nursing home care. 
+However, nursing home cost data is not readily available. 
+Transparency is lacking in so many places in commerce 
+throughout our country, and a lot of it has to do with 
+Government regulations or at least their being for it. More 
+transparency is never bad.
+    I sent a letter to the National Center for Health 
+Statistics asking to improve an important long term care survey 
+that runs every two years. Currently, the survey does not ask 
+about nursing home costs.
+    I have asked to add new questions to that to bring that out 
+into the forefront. Federal Government is required to conduct 
+annual surveys of nursing homes, which is vital. It just needs 
+to be done, I think, more thoroughly and with full 
+transparency. CMS incorporates survey data and developing five-
+star quality ratings which are displayed on the website, Care 
+Compare. I am developing a Bill that would make Care Compare 
+more accessible. I would like to recognize the majority's 
+report. I think they are for that as well. Over the past two 
+years, nursing home inspection rates have been unacceptable.
+    COVID policies contributed to some of these delays. 
+Nevertheless, we have got to do better, so much of health care 
+comes at that stage in life. I agree with some of the 
+recommendations in the majority report. We need to improve Care 
+Compare and expand the health care workforce. I look forward to 
+working with the chairman to accomplish these goals.
+    The Chairman. Thank you, Ranking Member Braun. Now, we will 
+turn to our witness introductions. I want to start with Erin 
+Bliss. Ms. Bliss is the Assistant Inspector General for 
+Evaluation and Inspections at the Department of Health and 
+Human Services Office of Inspector General. She has been with 
+the OIG's office since 2000.
+    Our second witness is Shelly Williamson. Shelly Williamson 
+is the President of the Board of Directors for the Association 
+of Health Facility Survey Agencies, which represents State 
+survey agencies across the country. She is also the 
+Administrator for the Section for Long Term Care Regulation 
+with the Missouri Department of Health and Senior Services.
+    Our third witness is Leah McMahon. Leah McMahon is the 
+Director of the Colorado State Long Term Care Ombudsman 
+Program. Ombudsmen work to resolve problems related to the 
+health, safety, welfare, and rights of individuals in long term 
+care facilities. Now, I will turn to Ranking Member Braun to 
+introduce our fourth witness.
+    Senator Braun. Dr. Susan Lu is the Gerald Lyles, rising 
+star, Professor of Management at Purdue University's Mitch 
+Daniels School of Business. She is also affiliated with the 
+Regenstrief Center for Health Care Engineering at Purdue 
+University.
+    Her research centers on health care operations and 
+analytics, with an emphasis on nursing home operations.
+    She received her Ph.D in managerial economics and strategy 
+from the Kellogg School of Management at Northwestern. Dr. Lu's 
+work has been widely recognized by a number of popular media 
+outlets, including Nature News, Vox, Freakonomics, and 
+Barron's, and we are delighted to have you here today.
+    The Chairman. Thank you, Ranking Member Braun. Now we will 
+turn to Ms. Bliss for her opening remarks.
+
+      STATEMENT OF ERIN BLISS, ASSISTANT INSPECTOR GENERAL
+
+         FOR EVALUATION AND INSPECTIONS, DEPARTMENT OF
+
+              HEALTH AND HUMAN SERVICES, OFFICE OF
+
+              INSPECTOR GENERAL, WASHINGTON, D.C.
+
+    Ms. Bliss. Good morning, Chair Casey, Ranking Member Braun. 
+Thank you for the opportunity to discuss the strains to the 
+nursing home inspection system and the impacts on nursing home 
+residents.
+    Decades of OIG work has found that alarming numbers of 
+nursing home residents are subject to low quality care or 
+unsafe conditions. The bottom line is this, people in nursing 
+homes need a robust and effective inspection system to protect 
+their health and safety. In some cases, their lives depend on 
+it.
+    OIG has identified lapses in that system that put residents 
+at risk. State survey agencies' responsibilities are vast and 
+consequential. They are on the front lines, conducting 
+inspection surveys for more than 15,000 nursing homes. State 
+agencies assess nursing home quality and safety, investigate 
+complaints, identify deficiencies, and verify that nursing 
+homes correct those deficiencies.
+    However, State agencies too often fall short in fulfilling 
+those responsibilities. A predominant issue is that many States 
+fail to conduct timely surveys. This is a decades old problem 
+worsened by the COVID-19 pandemic. States are required to do 
+comprehensive surveys for each nursing home at least every 15 
+months, but nationally, about a quarter of nursing homes are 
+overdue for these vital surveys. States must also do surveys to 
+investigate the most serious complaints about nursing homes 
+within a certain number of days, but many States have 
+repeatedly missed those deadlines to. Backlogs in routine and 
+complaint surveys can have real consequences for residents.
+    On average, States cite almost nine deficiencies in health 
+standards per survey, so delays in surveys mean delays in 
+identifying and fixing risks to resident and even actual 
+resident harm. This is very concerning, as serious complaints 
+commonly involve allegations of poor care. In one example, a 
+complaint alleged that a resident with known high blood sugar 
+did not have glucose testing strips available and then died.
+    Other serious complaints involve allegations of patient 
+abuse and neglect, poor conditions at the facility, and 
+infringements of residents' rights, but States face some real 
+challenges. States have pointed to staffing shortages as a 
+driving cause for survey delays. Similar to the chairman's 
+report findings, we have heard going back for years that States 
+struggle to attract and retain surveyors who are typically 
+nurses.
+    For example, in 2018, Colorado cited its vacancy rate of 32 
+percent as a cause for its late surveys. States have pointed to 
+long hours and not being able to offer high enough salaries to 
+compete for nurses. State agencies have also faced increasing 
+numbers of complaints requiring onsite investigations.
+    The persistence of State agency performance problems raises 
+questions about the Centers for Medicare and Medicaid Services, 
+known as CMS, which oversees State survey agencies. How 
+effectively is CMS able to drive improvements? They have relied 
+primarily on corrective action plans and training to try to 
+improve State agency performance, but these efforts often did 
+not resolve the problems.
+    CMS's processes for validating survey results reported on 
+the public Care Compare website are also inadequate. Last 
+month, OIG reported on inaccuracies in State survey results 
+showing on Care Compare for an estimated two-thirds of nursing 
+homes. In conclusion, an effective survey process and 
+transparency into its results is crucial for protecting nursing 
+home residents.
+    OIG is committed to driving improvements in this safety 
+system, as well as other aspects of nursing home performance, 
+resident well-being, and oversight. We have recommended ways 
+for CMS to strengthen nursing home oversight and are engaging 
+with them to drive positive change.
+    Thank you for the Committee's support of OIG's work, and 
+the resources that we need to protect people in nursing homes 
+and other HHS programs. Thank you and I will welcome your 
+questions.
+    The Chairman. Thank you, Ms. Bliss. Ms. Williamson, you may 
+begin your statement.
+
+        STATEMENT OF SHELLY WILLIAMSON, PRESIDENT OF THE
+
+           BOARD OF DIRECTORS FOR THE ASSOCIATION OF
+
+            HEALTH FACILITY SURVEY AGENCIES (AHFSA),
+
+          ADMINISTRATOR FOR THE SECTION FOR LONG TERM
+
+          CARE REGULATION WITH THE MISSOURI DEPARTMENT
+
+                 OF HEALTH AND SENIOR SERVICES,
+
+                    JEFFERSON CITY, MISSOURI
+
+    Ms. Williamson. Good morning, Chairman Casey, Ranking 
+Member Braun. I am here today representing the Association of 
+Health Facilities Survey Agencies, or AHFSA, the organization 
+that represents survey agencies across the country. I am also 
+the Administrator of the Section for Long Term Care Regulation 
+in Missouri, which oversees 511 certified nursing homes in the 
+State. Like many survey agency managers and directors, I have 
+spent most of my working life dedicated to protecting our 
+country's most vulnerable citizens.
+    For me, my grandparents were a driving force, from the day 
+I decided to pursue a graduate degree in social gerontology to 
+becoming a nursing home surveyor, a manager, and to my role 
+today. Four of my grandparents have relied on nursing home 
+care. This work is personal to me. I understand firsthand why 
+the work of a surveyor is so important to residents and 
+families.
+    Protecting health and safety is the cornerstone of survey 
+agency work. Our work is important and rewarding, and our work 
+is hard. Our surveyors are the face of our work. They talk to 
+families upset with care, to facilities concerned with the 
+citations they receive, and they see the joy on resident and 
+family faces when our work creates real, meaningful change. An 
+example of this dedication is a recent survey at a nursing home 
+in Missouri.
+    Our surveyor started their day early one morning and 
+identified deficiencies that could have likely resulted in 
+serious injury or death, if we had not intervened, what Federal 
+regulations call immediate jeopardy.
+    The surveyors remained in the facility until midnight that 
+night, ensuring they had an acceptable plan from the facility 
+to remove the immediate jeopardy. Surveyors were back onsite to 
+continue the survey the very next morning. Our work is not 9:00 
+a.m. to 5:00 p.m., Monday through Friday.
+    Surveyors spend many nights, weekends, and holidays away 
+from their families and loved ones. Across the Nation, this is 
+the type of protection survey agencies provide every single 
+day. With workload increases, including a 102 percent increase 
+in the number of immediate jeopardy complaints since 2015, and 
+increases in the severity of deficiency cited, survey agencies 
+are reacting to alleged noncompliance rather than being 
+proactive by conducting recertification surveys.
+    Vacancies in nearly all survey agencies are having an 
+impact on the ability to respond timely to complaints and to 
+complete recertification surveys. Nearly 70 percent of survey 
+agencies have surveyor vacancy rates over 10 percent, with many 
+reporting closer to 20 or 30 percent. Registered nurse salaries 
+in over 80 percent of survey agencies are not competitive with 
+the health care market.
+    An increase in the Federal budget is necessary for survey 
+agencies to rebalance, to improve retention of existing 
+surveyors, and to recruit new surveyors, and with a growing 
+number of Americans expected to need nursing home care in the 
+coming years, it is imperative to increase the Federal budget 
+now and to sustain that increase.
+    Nursing home residents are our parents and grandparents, 
+aunts and uncles, brothers and sisters, friends and loved ones. 
+They are the generation that molded many of us today. They 
+deserve our respect, our compassion, our dedication, and our 
+protection.
+    Thank you for the opportunity to provide this testimony and 
+for your support in ensuring nursing home residents receive the 
+care they deserve. I welcome any questions you may have.
+    The Chairman. Thank you, Ms. Williamson, and thanks for 
+sharing your own story about starting as a surveyor. Ms. 
+McMahon.
+
+           STATEMENT OF LEAH McMAHON, M.A., DIRECTOR,
+
+            COLORADO STATE LONG-TERM CARE OMBUDSMAN
+
+                   PROGRAM, DENVER, COLORADO
+
+    Ms. McMahon. Good morning, Chairman Casey. Ranking Member 
+Braun. I am the Colorado State Long Term Care Ombudsman and 
+thank you for the opportunity to appear before you today. Last 
+year, my office received a call from a family member who 
+reported concerns about their loved one living in a nursing 
+home.
+    The Ombudsman met with the resident and the resident 
+reported regularly waiting hours to receive assistance after 
+requesting help from the nursing home staff. The Ombudsman 
+observed the resident crying while they reported that the 
+nursing home staff yelled at the resident often, refused to let 
+them out of their room, and physically shoved their wheelchair 
+while forcing them back into their room and then slamming the 
+door shut.
+    The resident also reported an instance of a staff person 
+who pulled their hair, took away their phone, physically shook 
+them, and left the resident in the bathroom after assisting 
+them to the toilet. The resident requested the Ombudsman to 
+file a complaint to the State survey agency.
+    A year later, the Ombudsman received a call from the 
+surveyors stating they were investigating the complaint. The 
+Ombudsman informed the surveyor that the resident moved out due 
+to abuse and neglect. It was too late. The family later 
+informed the Ombudsman the resident suffered from night terrors 
+due to post-traumatic stress disorder.
+    This is unconscionable and one example of many my office 
+has received over the past couple of years. This person lives 
+with a disability and suffered abuse at the most vulnerable 
+time in their life, with the greatest need at this time in 
+their life. Imagine if this was your family member, your 
+sibling, or you. It takes courage for residents and family 
+members to file a complaint.
+    The fear and real threat of retaliation by nursing home 
+staff is a concern on the minds of residents. Therefore, when a 
+resident or family member finds that courage to file a 
+complaint, it is critical that there is timely followup. The 
+nursing homes have their equity firms, their trade 
+associations, their lobbyists, their attorneys. The residents, 
+the lucky ones, have family, and the rest of them have us.
+    As the Colorado State Long Term Care Ombudsman, I represent 
+the interests of approximately 45,000 vulnerable adults and 
+people with disabilities who reside in licensed assisted living 
+homes and licensed nursing homes in Colorado. My role is to 
+coordinate and oversee the Ombudsman Program and provide 
+systemic advocacy for residents.
+    The nationwide Long Term Care Ombudsman Program authorized 
+by the Older Americans Act is an independent health oversight 
+agency that advocates for the interests of long-term care 
+residents.
+    We are in nursing homes at residents bedsides every day, 
+listening to the concerns of residents and their families, and 
+advocating on their behalf. I would like to highlight to the 
+Committee my concern about the impact of the staffing shortages 
+among long term care surveyors.
+    The State agency is responsible for licensing, surveying, 
+and regulatory oversight of long-term care facilities. In 
+Colorado, nursing home surveyors have incredibly challenging 
+jobs, which are made more demanding by agency staffing 
+shortages. I have great appreciation and respect for surveyors 
+and the survey process. I know from speaking with the Colorado 
+State Survey Agency, there are difficulties in maintaining 
+adequate survey staffing levels.
+    The State agency needs to offer competitive wages to hire 
+surveyors, and training new surveyors is time intensive and can 
+take up to a year. I see firsthand the impact these shortages 
+have upon nursing home residents and their families. Residents 
+and family members have complained to my office about waiting 
+long periods of time for a response after filing a complaint, 
+and at times have not received a response.
+    Additionally, the Ombudsman Program has filed complaints 
+with similar experiences. In March 2021, a local ombudsman was 
+in a long-term memory care nursing home and observed several 
+instances of abuse and neglect. This included a staff member 
+yelling at a frail elderly resident, and residents laying in 
+their own urine and feces.
+    This is a clear violation of residents' rights. The 
+ombudsman called the State agency's complaint line, and they 
+did not report back for one year after the complaint was filed. 
+This delay can have a negative impact to the health, safety, 
+not for just one resident, but all residents.
+    I know surveyors are working as hard as they can to be 
+responsive to resident complaints and concerns, but it appears 
+there is just not enough survey staff. These shortages place 
+residents at a significant risk of harm and even death. The 
+survey agency is the only entity with the authority to enforce 
+standards that facilities meet regarding the quality of care 
+and services residents receive.
+    Thus, it is important for CMS and State survey agencies to 
+have the necessary staff and resources to conduct annual 
+surveys and to respond to complaints in a timely manner. The 
+Colorado Office of the State Long Term Care Ombudsman Program 
+recommends increasing funds to assist State survey agencies to 
+hire and retain nursing home surveyors to meet the workload.
+    Offer competitive salaries for required nursing surveyor 
+positions, which could be the most difficult positions to fill 
+and maintain within the regulatory agency. Create dedicated 
+recruitment and training positions to hire and train new 
+surveyors.
+    I appreciate the opportunity to appear before the Committee 
+and for your time and attention regarding vulnerable adults who 
+live in long term care nursing homes. I look forward to 
+answering your questions.
+    The Chairman. Ms. McMahon, thanks very much. Dr. Lu, you 
+may begin.
+
+     STATEMENT OF SUSAN FENG LU, PH.D., M.A., GERALD LYLES
+
+         RISING STAR PROFESSOR OF MANAGEMENT, MITCHELL
+
+           E. DANIELS, JR. SCHOOL OF BUSINESS, PURDUE
+
+              UNIVERSITY, WEST LAFAYETTE, INDIANA
+
+    Dr. Lu. Thank you, Chairman Casey and Ranking Member Braun, 
+for granting me this invaluable opportunity to testify on the 
+regulations and operations of nursing homes. My name is Susan 
+Lu from Purdue University. As the only child in my family, I 
+have always pondered, how can I provide the best care to my 
+aging parents?
+    In my quest, I recorded the--an older saying from my 
+cultural background that emphasizes treating the elderly with 
+the same respect and care as if they were my own parents, so 
+hence this motivated me to focus my dissertation on nursing 
+homes, dedicating nearly two decades of research of this 
+industry, and over time, helping the elderly to receive high 
+quality health care became the very mission of my life.
+    My expertise lies in the fields of economics and operations 
+management, where I was trained to maximize social welfare, 
+minimize cost, and optimize resource allocation by 
+understanding the impact of policies and of technological 
+advancements on nursing home behavior. I am pleased to provide 
+my expertise in three key areas, quality disclosure, staffing, 
+and ownership.
+    First, publicly disclosing quality information of 
+individual nursing homes is crucial for the elderly to find a 
+home where they would love to stay. The Center for Medicare and 
+Medicaid Services have made commendable efforts in making 
+quality information transparent, and that these actions have 
+proven to be effective. Going forward, we aim to increase 
+public awareness of those disclosed quality information, and to 
+find an efficient way of communicating those valuable data to 
+consumers, helping them to make informed decisions.
+    Second, the ongoing challenge of staffing shortages 
+significantly affect nursing homes' operations. To effectively 
+tackle the shortage, it is important to explore innovative 
+ideas and have access to comprehensive data on individual 
+nurses.
+    Third, there has been increasing concern about the 
+potential downsides of ownership change, including the 
+acquisition by private equity firms. However, rigorous research 
+in this area is limited. It is critical for us to recognize the 
+potential risks associated with ownership changes and implement 
+targeted oversight to protect the well-being of nursing home 
+residents.
+    Today, I stand before you as an expert in nursing homes, 
+ready to offer insights into potential strategies that could 
+incentivize nursing homes to improve the quality of care they 
+provided. I would like to extend my sincere appreciation for 
+your leadership and unwavering commitment to address the needs 
+of older adults.
+    In conclusion, I express my utmost gratitude for the 
+opportunity to be here, and I hope that we can work together to 
+create an environment where nursing homes not only provide 
+excellent care, but also serve as compassionate and reliable 
+sources of support for our aging population. Thank you.
+    The Chairman. Dr. Lu, thanks very much. I think our panel 
+set a record for time used in their opening statements. Well 
+below the time you had, and I appreciate your efficiency. I 
+would start my questions for--I have a question_I will go right 
+down the panel. The Committee's investigation found that 
+severely understaffed survey agencies are falling behind on 
+nursing home inspections and complaint investigations.
+    Ombudsman provided examples of serious complaints involving 
+abuse, neglect, and poor health care going months or longer 
+without being investigated. I will start with Erin Bliss and go 
+down the panel, and this is kind of a basic yes or no question. 
+Are you concerned that understaffed survey agencies and delayed 
+inspections negatively affect both health and safety of nursing 
+home residents?
+    Ms. Bliss. Yes, very concerned.
+    Ms. Williamson. Yes, absolutely.
+    Ms. McMahon. I agree. Absolutely.
+    The Chairman. Doctor--thanks very much. I will next turn to 
+Ms. McMahon. Your testimony highlighted examples of nursing 
+home residents suffering when complaints went unanswered by 
+strained survey agency staff, and our report shows that 
+ombudsmen across the country similarly identified how 
+residents, the care of residents, I should say, suffered as 
+State surveyors were unable to respond to complaints in a 
+timely way.
+    How do nursing home residents benefit from improved survey 
+agency staffing, as well as more regular annual inspections, 
+and third, faster response to complaints?
+    Ms. McMahon. More oversight. More regulatory eyes on the 
+conditions of the nursing home and the residents' care.
+    The Chairman. What do you think is the best way to 
+effectuate that?
+    Ms. McMahon. To make sure that the survey agencies have 
+enough surveyors to do the work. It is a heavy workload. It is 
+long, exhausting days, and they need help so that they have 
+competent surveyors who are trained and skilled to do this 
+exhaustive work.
+    The Chairman. Thanks very much. Ms. Williamson, I wanted to 
+turn to you. According to the report that we have released this 
+morning, more than 30 States expressed concern to the Committee 
+about Federal funding levels for nursing home oversight.
+    Three Presidential Administrations, the Obama 
+Administration, Trump Administration, and Biden Administration 
+have proposed increasing funding for these survey agencies in 
+their budgets.
+    However, Congress has not kept--has not had enough of a 
+focus on this funding, effectively freezing much of the funding 
+for the last decade. How would more funding help survey 
+agencies better protect both health and safety of nursing home 
+residents?
+    Ms. Williamson. Thank you for that question, Chairman 
+Casey. An increase in funding would allow survey agencies to 
+recruit new staff, retain existing surveyors to be able to 
+respond to both complaints that we receive, and to conduct 
+recertification surveys. State agencies are finding themselves 
+now utilizing many of their resources to respond to complaints 
+that we received.
+    Overall, since 2015, complaints have increased by 45 
+percent, and as I highlighted in my testimony earlier, the most 
+serious complaints have increased by 102 percent, so we are 
+spending a lot of resources responding to complaints. The 
+recertification surveys are very, very important.
+    Those are a comprehensive look at all of the regulatory 
+requirements, and that often creates or results in identified 
+issues before they become so severe that they harm residents, 
+so more funding would allow us to both respond to complaints 
+and to conduct those recertification surveys in a timely 
+manner.
+    The Chairman. I wanted to highlight that number that you 
+made a reference to in both your opening and then just a moment 
+ago, the 102 percent increase in immediate jeopardy complaint, 
+and that is just since 2015, correct?
+    Ms. Williamson. That is correct. Yes.
+    The Chairman. That is very alarming, and in order to keep 
+the streak going--of going within our term, I will turn now to 
+Ranking Member Braun.
+    Senator Braun. Thank you, Mr. Chairman. I want to start 
+with Dr. Lu, and it has to do with the overtime rule.
+    I would like Ms. Bliss to weigh in on it as well, so that 
+is a tricky way, in terms of compensation for anyone, yet it is 
+generally an agreement between an employer and employee that 
+seems to be the best working model. Under the Obama 
+Administration, it was $23,000, and simply, if you had any type 
+of arrangement that was over, or not at least there, you had to 
+take in overtime into consideration.
+    Their idea was taking it up closer to $50,000. During the 
+Trump Administration, it actually moved to $35,568. Biden 
+Administration, and a lot of the stuff coming out of the Labor 
+Department, is actually proposing that it is $80,000, so across 
+almost all disciplines that would disrupt tons of relationships 
+between employers and employees where they both mutually agree 
+that's okay on whatever that amount is, as long as it meets 
+that minimum threshold.
+    What do you think would happen in the nursing home business 
+if for those that are on salary, all of a sudden you had to 
+take that up to $80,000 from $35,000, how many jobs would be 
+lost? I think that would cut both ways.
+    Employers may not be able to afford it. Employees may not 
+even demand it, so give me your take on how it would apply to 
+nursing homes.
+    Dr. Lu. Thank you, Senator Braun. Regarding the payment on 
+the overtime issue, actually, it is beyond my study--the scope 
+of my study, but I do have a paper to investigate the impact of 
+mandatory overtime loss on nursing home quality, so initially I 
+actually really liked this policy. Hence we want to do--
+evaluate this policy.
+    However, to our surprise, we find it that this well-
+intentioned policy leads to quality decline in nursing homes, 
+and it took us more than half a year to figure out why, and 
+eventually we find out that such type of overtime regulation 
+leads to undesirable staffing changes, and a nursing home 
+substitute the full-time nurse's overtime hours with those 
+hours from temporary nurses, from outsiders.
+    Those contract workers actually are not very familiar with 
+the nursing homes they are going to work for. They even don't 
+know the names of the elderly, so hence it caused the problem, 
+so that is the research finding in my work. Yes, thank you.
+    Senator Braun. Thank you. Ms. Bliss.
+    Ms. Bliss. Thank you. Unlike Dr. Lu, we have not directly 
+studied the impacts of overtime policies, so I don't have a 
+basis to comment on that directly, but what I can say is that 
+understaffing in nursing homes is a dire concern.
+    We have seen some nursing homes not even meeting the barest 
+minimum of requirements of having eight hours of registered 
+nurse staffing in a day, and that is extremely alarming, so 
+certainly, any policies that support getting sufficient numbers 
+of staff, sufficient quality of staff into nursing homes.
+    We have heard some concerns from nursing homes that Dr. Lu 
+referred to regarding challenges around contracted nursing and 
+will have forthcoming reports speaking to those.
+    Senator Braun. I think that this is probably something you 
+need to all have on your radar because every particular 
+component of our economy has some degree of it, and remember 
+that if it is too low, you are not going to get people there. 
+If you take it too high, you are going to shed jobs, so as 
+tough as it is to get people to work in the arena, your concern 
+with, just be aware of that.
+    Ms. Bliss, I will stick with you on this. When it comes to 
+training, I am a big advocate that we are wasting time in high 
+school to direct parents and kids into career and technical 
+education avenues. Indiana, 135,000 jobs, double what it was 
+pre-COVID. Need no further training.
+    They need better life skills. What is the best way to get 
+more people interested in working at a nursing home? Does it 
+have to have something postsecondary, or can we do better? It 
+may be doing some things when they are crafting what they want 
+to do after they get out of high school.
+    Ms. Bliss. Thank you for that question. The pipeline of 
+nurses and other clinical support staff going into the field to 
+be able to even staff these jobs is a huge issue that comes up, 
+so there are questions of low pay, long hours, longevity, but 
+there is also questions of, are there even enough people to 
+hire if we can offer those things.
+    The pipeline is really important to keep building. We have 
+heard from nursing homes that challenges involve both staffing 
+of nurses, registered nurses themselves, as well as nursing 
+aides, which may require, you know, lower degrees of----
+    Senator Braun. What I was asking, though--that is a symptom 
+of the system. Would it be better, and do you think there is 
+adequate attention to the place, where as a CEO in a play and a 
+company, where I never had any issue hiring four year degree 
+slots to fill--in fact, we have gotten rid of most of those 
+requirements--the place I found most lacking would be life 
+skills taught in high school that would apply to a broad array 
+of jobs.
+    Apprenticeships, part time jobs, summer jobs, even where 
+you might need a little additional training--so I think we are 
+out of time here. We may come back to that, and I can expound 
+on that in the next--okay.
+    You want to look at it from that point of view. What about 
+using those years where you are wondering, are you going to go 
+AP, are going to go into something that maybe needs a little 
+bit of training? When I went to school, you had all those 
+skills being built and we have pretty well gotten away from 
+that, so do you want to come back and offer any more on it?
+    Ms. Bliss. Sure. Certainly, starting early, you know, 
+reaching out to people in high school and even before--you 
+know, or in that early education, seems like it could be very 
+important to building that pipeline, attracting them to go into 
+the health professions, nursing and otherwise, providing 
+opportunities for those skills.
+    It is not something that we at the HHS, OIG have directly 
+studied, but I think, you know, all options need to be on the 
+table to deal with the workforce crisis.
+    Senator Braun. I can tell you that in a State like Indiana 
+with one of the lowest unemployment rates in the country, 
+biggest manufacturing State per capita, how we are dealing with 
+this is not necessarily from here.
+    It is through our States and getting the industry, these 
+sectors that are struggling with people coming into whatever 
+they need, they are starting in middle school, trying to have 
+stuff in high school so that you are not so dependent 
+postsecondary on how you get employees. Thank you.
+    The Chairman. Thank you, Senator Braun. As many of you 
+know, you have heard me say this before, that with Thursday 
+mornings is a busy morning around here, lots of competing 
+hearings and that command the time of Senators.
+    I just wanted to mention Senators have been here and then 
+some who have been here and then returned. Senator Blumenthal 
+was here. Senator Warren was here and is back. Senator Kelly, 
+Senator Rick Scott, and Senator Vance, and I think in terms of 
+just going back and forth, I will turn to Senator Warren, and 
+then Senator Vance.
+    Senator Warren. Thank you very much, Mr. Chairman, and 
+thank you both for holding this hearing today. It is a very 
+important hearing. Nursing homes are where the most vulnerable 
+members of our communities live.
+    It is our duty to ensure that they are safe, but some of 
+these facilities are in horrendous condition due to the greed 
+of their corporate owners, and it is families that end up 
+paying the price. Private equity firms have targeted nursing 
+homes for decades, and now new investment vehicles, real estate 
+investment trusts, or REITs, are in the game, too, snapping up 
+nursing homes as lucrative investments.
+    For these profiteers, their interest in nursing homes has 
+less to do with providing care to those in need and a lot more 
+to do with money. Now, research shows that private equity and 
+REIT owned nursing homes are associated with higher Medicare 
+costs, increased emergency department visits and 
+hospitalizations, fewer registered nurses, and 40 percent 
+higher COVID mortality rates.
+    Regulators need to be able to hold nursing homes 
+accountable for patient safety, but corporate owners use all 
+kinds of tricks to avoid identity. Ms. Bliss, it is the job of 
+the Inspector General's Office to investigate waste, fraud, and 
+abuse in nursing homes to make sure that residents are safe and 
+taxpayer money is being used wisely.
+    How easy or hard is it for your investigators to identify 
+the owner of a private equity or REIT owned nursing home?
+    Ms. Bliss. Thank you for that important question. It can be 
+very difficult to identify nursing homeowners and management, 
+and really uncover who are the responsible parties to be held 
+accountable when something goes wrong. That is something that 
+comes up in our oversight and our enforcement cases.
+    Senator Warren. Okay, so hard to enforce the law if you 
+can't figure out who is on the other end of this, so the way 
+this gets so tangled up is that private equity and REIT owners 
+set up these complex legal arrangements to avoid transparency 
+and to try to evade responsibility when something goes wrong.
+    Also, by the way, to make money. One trick is that when the 
+company that owns the nursing home also has a stake in another 
+company that sells supplies and services to the nursing home.
+    Now, Miss Bliss, the Inspector General's Office is looking 
+into this issue, which is known in Government language's as 
+related party payments. If a nursing homeowner is making money 
+on both sides of a transaction like this, do you have concerns 
+about whether or not taxpayer money is being used wisely?
+    Ms. Bliss. We do. We have concerns about the use of 
+taxpayer funds, and we have concerns about the impact on the 
+residents in those nursing homes. As you noted, we do have 
+ongoing audit work that is looking into these arrangements and 
+payments.
+    They are often called related party transactions, where 
+that nursing home is making payments to contractors with whom 
+it may have some financial stake, and we are looking at whether 
+those payments may be inappropriately inflated and potentially 
+diverting funds away from patient care.
+    Senator Warren. Okay, so it is really important that 
+taxpayer funds be protected. I appreciate your work on that, 
+but of course, the main thing, too, is we want to make sure 
+that patients have a safe, healthy place to live.
+    Ms. McMahon, you are a State Ombudsman, which means you are 
+on the front lines when it comes to identifying and preventing 
+problems in nursing homes, so can you tell us what trends you 
+have noticed when a for profit company, such as a private 
+equity firm or a REIT, purchases a nursing home?
+    Ms. McMahon. Thank you, Senator Warren. I have observed 
+firsthand over the years, and typically what we see is staffing 
+cuts, in particular nursing staff, which are critical to the 
+health, safety, and welfare of residents.
+    The Ombudsman Program will see an increase in complaints 
+from families who report the inadequacies of care and their 
+concerns when they visit their loved ones in nursing homes. 
+Residents who are bedridden and develop open wounds because 
+staff are not changing protective undergarments.
+    They are languishing. They are not receiving their 
+medications timely or as prescribed. They are not getting basic 
+needs such as food or water. Due to these types of concerns, 
+residents become dehydrated, they lose weight, endure painful 
+bedsores, oftentimes the size of your hand that can happen.
+    This can lead to hospitalization and in worst cases, death. 
+We see a fast deterioration and systematic stripping down of 
+the operations of the facility to the bare bones to make a 
+profit at the expense of residents' lives. Residents go from 
+thriving to just surviving.
+    Senator Warren. That is a terrible list, and I just want to 
+say to both of you, to all of you, I appreciate the work you 
+are doing in trying to keep nursing home residents safe.
+    The Affordable Care Act requires facilities to disclose 
+ownership and related party information, but the nursing home 
+industry lobbied furiously to make sure that these provisions 
+were never implemented.
+    In February, the Biden Administration took a step to change 
+that. I urge CMS to finalize its proposed rule on ownership 
+disclosure to ensure that consumers can make informed choices 
+and so that regulators have the information they need to hold 
+these owners accountable and to keep patients safe. Thank you, 
+Mr. Chairman.
+    The Chairman. Thank you, Senator Warren. Senator Vance.
+    Senator Vance. Thank you, Mr. Chairman. Thanks to you and 
+the ranking member for holding this Committee hearing. 
+Elizabeth, or Senator Warren said it is a very important 
+hearing, and any of us who have known or love someone in a 
+nursing home knows that while the care that they get when it is 
+good can be quite exceptional, that when things do suffer, it 
+really, really affects the quality of life for those who are 
+sometimes languishing in our nursing homes.
+    To your point, Ms. McMahon, surviving instead of thriving, 
+and that is not what we should want for any of our elderly 
+folks, so I would--sort of two lines of questioning I would 
+direct at Ms. Williamson here. One, just on, my understanding 
+here is that staffing shortages play a major role in what is 
+driving the lack of inspections, and probably driving a lot of 
+other issues in our nursing homes as well.
+    We sort of understand the basic qualifications here, so 
+when we talk about the people doing these inspections, what 
+qualifications do they need to have before applying to a job 
+with your particular agency?
+    Ms. Williamson. Thanks for that question, Senator Vance, so 
+there are several different disciplines of surveyors, but the 
+primary thing I would like to talk about is that when we do a 
+recertification survey, and many of our complaint 
+investigations are recertification surveys, and those require a 
+registered nurse.
+    Every survey team has to have a registered nurse as part of 
+that team, and then if the complaints are about quality of 
+care, where a nursing assessment needs to be conducted, a 
+registered nurse has to conduct those investigations as well. 
+We do utilize other disciplines. Part of our survey process is 
+also a life safety code survey or a fire safety survey.
+    We have to have surveyors who are trained and have that 
+background in order to assess compliance with those 
+regulations. Many other disciplines are social workers or 
+physical therapists, and other disciplines outside of that 
+registered nurse, but the primary struggle States are having is 
+in the registered nurse.
+    Senator Vance. I see, and how big are the survey teams 
+normally? You mention that each one needs to have at least one 
+registered nurse. I mean, are these teams of ten, or five, of 
+less or more?
+    Ms. Williamson. The team size depends on several factors. 
+How large the home is, how many residents are in care at the 
+home. The numbers of complaints that we may have to investigate 
+during that survey, and then, you know, how much travel we have 
+to do, how many resources we have to take. Normally a team of 
+three or four over a work week is average for a recertification 
+survey.
+    Senator Vance. Got it, so moving on from there, I just want 
+to ask about maybe possible COVID hangover effect. I am right 
+that a lot of the backlog here is because we effectively 
+stopped doing inspections for a few months during the COVID 
+pandemic, is that correct?
+    Ms. Williamson. That is certainly a contributing factor.
+    Senator Vance. Okay. You seeing any evidence of sort of a 
+potential COVID hangover effect? What I mean, of course, is 
+that, you know, we just declared an end to the emergency, I 
+think far too late, but at least the declaration happened a 
+week or two ago.
+    Is there any sense that the people who would be doing the 
+inspections were maybe a little exhausted, a little 
+overwhelmed, certainly by the pandemic, but also even well 
+after the pandemic, had it reached its emergency phase end, or 
+affected by a lot of the requirements and a lot of the 
+regulations that existed on caretakers and inspectors related 
+to the pandemic rules?
+    Ms. Williamson. While the pause certainly was a 
+contributing factor, we have also seen a significant increase 
+in number of complaints that have been reported to us. I 
+mentioned earlier the number of immediate jeopardy complaints 
+since 2015 has increased by 102 percent.
+    Those are the complaints where residents and allegations of 
+residents are being harmed, severely harmed, so investigating 
+those complaints day after day does lead to exhaustion and burn 
+out, and stress on surveyors.
+    Senator Vance. Sure. I suspect, just to close here, that 
+the caregivers themselves are probably exhausted, and as you 
+lose the best caregivers, it probably increases the complaints 
+you are going to get because the underlying quality of care 
+deteriorates.
+    The final point I would make here, and I appreciate, Ms. 
+Williamson, your answers, and I appreciate the four of you for 
+being here with us is, look, COVID was obviously a very 
+terrible pandemic. I don't mean to make light of it or make 
+light of the fact that it killed a lot of people.
+    I also think that we have to balance the public health 
+response with the incredible stresses that we place on a lot of 
+our public health and hospital and nursing home caregivers, 
+because a consistent theme that I get is that COVID was 
+miserable, but also all of the surrounding things that were 
+placed on us because of COVID, or at least allegedly because of 
+COVID, were also miserable.
+    I think we lost a lot of good people in our health care 
+industry, so we are going to have a pandemic, God forbid, but 
+we will eventually, hopefully, it is many, many years from now. 
+I hope we learn the lessons and don't overstress our health 
+care system again, because I think you all, and certainly other 
+parts of our health care system, are dealing with the 
+consequences. Thank you.
+    Senator Braun. Senator Ricketts.
+    Senator Ricketts. Great. Thank you very much. I want to 
+thank our witnesses for being here today.
+    Obviously, we have got a lot of people across the country 
+that are in skilled nursing facilities, and we have got to be 
+able to make sure that we protect them. Everybody probably has 
+a family member that is going to be impacted by this, if not 
+currently, at some point in the future.
+    In my home State of Nebraska, I know that one of the issues 
+we have had has been with regard to staffing and making sure 
+that our nursing facilities are staffed appropriately.
+    There is a lot of different issues, especially in rural 
+areas, that can impact that. As Governor, we actually provided 
+a 15 percent increase in funding for nursing facilities to be 
+able to, which was like the most significant increase they had 
+in probably a decade, to be able to help fight that.
+    We also put a tax credit in place for caregiving expenses 
+designed to improve the financial and workplace security of 
+family caregivers, but this continues to be an issue we have 
+had, and as we have skilled nursing facilities and assisted 
+living facilities close, one of the issues they relate to is 
+the staffing.
+    Dr. Lu, you know, could you--I know you have got a lot of 
+data and research that you have done with regard to staffing on 
+this. What sorts of conclusions and recommendations can you 
+give us around effectively be proactively combating nursing 
+shortage?
+    What are some of the things that States can do, or are 
+there models that you would suggest, or is somebody who is 
+really getting it right that we could look at and say, here is 
+a good model, something we should be replicating?
+    Dr. Lu. Thank you for reading this staffing question to me. 
+I firmly believe that we needed to rely on technology 
+advancement, so we have the staffing shortage issue. I know, I 
+understand to say raising salary, increasing the working 
+environment, they are good ideas, but they have other 
+consequences.
+    I am aware of two types of technology advancements that may 
+help, according to my research. The first one is the adoption 
+of healthcare information technology, so according to the 
+research, we find that in a 12 shift--in a 12-hour shift, the 
+hours are not spent at the bedside, patient at bedside--only 
+two and half hours. The remaining huge amount of hours are 
+wasted in walking on the hallway and something else, but health 
+care information technology could help to improve the 
+utilization of nurse hours.
+    The second the technology I am aware is kind of nurse 
+sharing platform, which is something like Uber car sharing, so 
+our team now is working with those type of platforms. They try 
+to match nurses with those healthcare facilities and improve 
+the efficiency of using the idle time of the nurses.
+    I hope that in the near future, we could rely on the 
+technology to help to solve the staffing shortage.
+    Senator Ricketts. Are there any regulations or red tape 
+that the Federal Government puts in place that would enable CMS 
+to dedicate more attention and resources to oversight of 
+nursing homes?
+    Dr. Lu. Of course, more resources are better. I, as a 
+person training in economics, I care more about how to optimize 
+the allocation of resources. In other words, how we can use the 
+resources efficiently and effectively. That is a more important 
+issue in my mind.
+    Senator Ricketts. Yes. I have got just about a minute left, 
+but I am going to ask every one of you just if you have got 
+something that--to talk about this. One of the things I am 
+concerned, it gets back to what Senator Vance was talking about 
+with the pandemic, is one of the things we saw in Nebraska was 
+having the residents be isolated.
+    That, you know, there was a lot during COVID wearing masks. 
+You couldn't see people's faces. They were--they used to have, 
+you know, meals together, and then that got discouraged because 
+we didn't want to--and then I am not sure we have gone back to 
+getting people back together again. I am really concerned about 
+the loneliness of our residents of skilled nursing facilities.
+    I mean, the other thing, Ms. McMahon you were talking about 
+are obviously very important, too, but here is one I think is 
+maybe not getting enough attention, which is our residents in 
+skilled nursing facilities getting enough social interaction.
+    It is not just about taking care of their physical well-
+being, but also, you know, their mental well-being, and, you 
+know, having a life where they actually have interaction with 
+other people. Just--these are just real quickly--Ms. Bliss, we 
+are going to start with you.
+    Just give me a comment real quick on what do you think 
+about what I am talking about here in regards the loneliness 
+and personal interaction, and what we can do, and just how we 
+might address it.
+    Ms. Bliss. Sure. Yes. Wellbeing of residents in all 
+dimensions, including social and mental health, is critically 
+important. I think that is a challenge worth focusing on.
+    Ms. Williamson. Thank you for the question. You know, 
+during the pandemic, one of the things that I didn't say in my 
+response to Senator Vance was our staff went into nursing homes 
+with outbreaks going on to do focused infection control 
+surveys.
+    We did see the isolation that was there and just the 
+struggles that the residents and their families, because they 
+couldn't visit, were experiencing. I think things are slowly 
+getting back to what our new normal is.
+    There are still some areas where people need to be mindful, 
+but communal dining and activities and those things are 
+starting. Visitation is much more open now. Those are all very 
+good things that are happening. Did the isolation and 
+loneliness take a toll? Yes, it did.
+    Senator Ricketts. Are there things that we can be doing to 
+encourage the facilities getting back to more normal, to 
+encourage that--those activities, the meals, all that?
+    Ms. Williamson. I think the ending of the public health 
+emergency and some of the restrictions that were in place being 
+relaxed is a good first step, and I think more groups meeting 
+and talking about the importance of those social and 
+interpersonal relationships.
+    Yes, care is very important, the physical care, but those 
+other things are just as important. I think the more we can 
+highlight that, and talk about that, and encourage that, that 
+will only improve.
+    Senator Ricketts. Okay.
+    Ms. McMahon. Thank you, Senator Ricketts. Residents 
+suffered helplessness and loneliness to the highest degree 
+during the pandemic, and folks were locked in their rooms all 
+alone, and it is time for us to get back to having social 
+opportunities for residents, in particular around meals.
+    That is where they come together every day to see their 
+friends and to visit and talk over a meal, and I think one of 
+the things that we continually need to address are the nursing 
+home staffing shortages so that we can get back to those 
+activities and facilitating that for the residents. The 
+Ombudsman have seen firsthand that the activities are still 
+lacking and are not quite what they should be. Thank you.
+    Senator Ricketts. Dr. Lu, do you have any comment?
+    Dr. Lu. I do not have comment on this issue. Thank you.
+    Senator Ricketts. Thank you.
+    Senator Braun. Thank you, Senator Ricketts. We are going to 
+have some other Senators roll in here, I think, soon. I will 
+fill the gap. Got a question for Ms. Williamson. I ran a 
+business for 37 years in a place like Indiana. Senator Ricketts 
+was in charge of a State.
+    There is this constant dialog about where do we craft the 
+best solutions for issues like this, and who pays for them? 
+Since I have been here, this place is going the wrong direction 
+in terms of running its own kind of finances in a way that 
+would be sustainable, for all the places that look to it.
+    You know, we are running $2 trillion deficits currently, up 
+from $1 trillion, and it has been on both sides of the aisle 
+that have not managed the Federal Government in a way that puts 
+so much in peril. With these issues, and I am pretty certain on 
+staff shortages, that is probably something better addressed by 
+States because they are going to know what they can do. It 
+doesn't necessarily mean they would be the only ones, but where 
+do we craft the solutions best in your mind, and how do we pay 
+for them best over the long run? And should we be looking at a 
+difference in, you know where the relative emphasis has come 
+from to date?
+    That is a kind of a broad question, but I think it is 
+really relevant because we are dealing with that same question 
+on so many issues in the country.
+    Ms. Williamson. Thank you for that question, and yes, 
+nursing home residents are our most vulnerable citizens, so I 
+think they deserve adequate protection, and that is what survey 
+agencies do. Survey agencies do receive a combination of 
+Federal and State funds, so it is a combination, so I think it 
+is imperative that both----
+    Senator Braun. Which form of Government, though--from here 
+down to the grassroots are States and not all of them 
+necessarily get it right. Where do you think the relative 
+emphasis ought to be shifted to if we are going to actually 
+solve these problems and pay for them in a way that is going to 
+be sustainable?
+    Ms. Williamson. I think it is a combination. Federal has to 
+allocate resources and States have to allocate resources.
+    Senator Braun. Do you think it should move one direction or 
+the other, or just stay the way it is?
+    Ms. Williamson. I think it is both, because when survey 
+agencies go do an inspection, it is for certification purposes, 
+Medicare and Medicaid certification purposes, and it is also 
+for State licensure purposes, so there is that share there. 
+States recently have increased their budgets to fund survey or 
+salary increases because of the shortage, so that is falling on 
+States now because we don't have that increase in Federal 
+funds.
+    Senator Braun. Dr. Lu, would you want to weigh in?
+    Dr. Lu. Yes. First of all, I like the idea to increase the 
+annual income for surveyors because they provided the 
+fundamental information for quality disclosure. However, I 
+think there are lots of ways to increase their income, in 
+addition to raising pace, so here I proposed to one potential 
+idea from my own perspective.
+    I think we can collaborate with those colleges with nursing 
+education programs and give the money to them and let them to 
+hire some State surveyors to train or mentor those 
+undergraduate students or graduate students as a part time 
+surveyor or provide exponential learning on those survey 
+courses, and the students can be allocated with those tasks 
+which do not require specified, or say, high skills. For 
+example, they can check whether the floor is cleaned, whether 
+nurses wash their hands between care. These are the dimensions 
+in those data, surveyor programs, so by doing so, students 
+could get a greater learning experience and open the new door 
+to them. Let them get interested in the health care system.
+    Maybe potential surveyors will be there in the future, and 
+also, surveyors can get more pay by teaching. They can earn the 
+extra money by helping those students doing mentoring services, 
+and those education programs also can benefit from it, at least 
+so they can increase the quality of their program by providing 
+such kind of exponential learning, and our Federal Government 
+and a State Government could also benefit from it. It can help 
+to solve the severe shortage issue and also, I would say, 
+efficiently allocate the resources so each party can be better 
+off. That is my idea. Thank you.
+    Senator Braun. Thank you.
+    The Chairman. Ranking Member Braun, thank you for filling 
+in as I was running between committees. Appreciate that work 
+and thank our witnesses. We will now turn to Senator 
+Blumenthal.
+    Senator Blumenthal. Thank you. Thank you so much, Mr. 
+Chairman, and thank you to the Ranking Member, Senator Braun, 
+as well, and thank you for all of the input that you are 
+providing today. I am very, very grateful to the Chairman and 
+Ranking Member, and also the staff of this Committee, for the 
+work that it is doing on this really critically important 
+topic.
+    With all of the issues that are facing us today that are in 
+the headlines, sometimes the most important work doesn't get 
+the attention that it deserves, and this work is among our most 
+important.
+    Uncovering the need and the consequences of oversight and 
+scrutiny in this area is very important, and I look forward to 
+reading the investigative report that uncovers staffing 
+shortages, high turnover rates, and flat Federal funding for 
+the last decade that has resulted in insufficient oversight of 
+the Nation's nursing homes and threatened the health and safety 
+of their residents.
+    Yesterday, the Permanent subcommittee, the subcommittee 
+on--Permanent Subcommittee on Investigations, held a hearing on 
+Medicare Advantage, another area of health care where there is 
+a need for greater scrutiny, and I think that some of the facts 
+that have been uncovered by this investigation will be relevant 
+to the work done there, and again, the Office of Inspector 
+General, Ms. Bliss, has been very, very instrumental in that 
+area as well. I would like to ask Ms. McMahon, beyond health 
+care, beyond Care Compare, what do you advise families 
+searching for a nursing home to do to ensure that they have all 
+the relevant information they need to make an informed decision 
+on what nursing home is best for them?
+    Ms. McMahon. Thank you, Senator. I would say call my 
+office. We certainly can direct folks to other resources as to 
+where--as to what they should look into. We oftentimes will 
+tell folks to go to the survey agency and look at the most 
+recent survey, and we will talk about the things that, as the 
+Ombudsman Program, the things that they can ask of specific 
+facilities as they are looking to provide the best quality of 
+care and life for their loved one.
+    Senator Blumenthal. Let me ask you, just for you and maybe 
+for the other witnesses, when families regret what has happened 
+to a loved one, what do they wish they knew before choosing a 
+facility? In other words, you know, regret is probably one of 
+the most important emotions that we have with respect to loved 
+ones when it comes to health care. What do they wish they had 
+known?
+    Ms. McMahon. Thank you, Senator, and we are talking about 
+transparency. We are talking about potentially wanting to know 
+staffing levels, how many nurses are in the building at any 
+given time, who is the medical director that is overseeing and 
+coordinating the overall care? Maybe any instances of abuse and 
+neglect that have happened prior to. I think those are really 
+important things to know.
+    Senator Blumenthal. Ms. Williamson--and thank you for that 
+answer. Ms. Williamson, your testimony touched on the issue of 
+contractors, and I wonder if you can tell us, first of all, 
+maybe elaborate a little bit on which States do well with 
+contractors, which do not, and what lessons State, and 
+particularly State officials ought to learn from the experience 
+you have had.
+    Ms. Williamson. Thanks for that question. I did touch on 
+contractors because more and more States are relying on them to 
+complete, particularly recertification surveys and some focused 
+infection control surveys.
+    Each state's contracts are a little bit different, and the 
+work that they have contractors do can vary. I can speak on 
+behalf of Missouri. We do have contracts for contract surveys. 
+Primarily for us, those are the recertification surveys, the 
+health care portion of the recertification survey.
+    We have used them not as extensively as other States. They 
+have done about 15 or so surveys for Missouri. We have had 
+pretty good luck with the surveys that they have done. We have 
+ongoing communication with the contractors when they are doing 
+the survey, particularly if they are finding issues that are 
+serious, just to make sure that they are thoroughly 
+investigated, that the State agency agrees with the citations 
+that they are issuing. We also do a review on the back end of 
+their survey to make sure that they are applying the regulatory 
+requirements consistently with what we would do.
+    Each state's experience is a little different. I can't 
+speak to other States and their experience. I know the report 
+highlights some different experiences. I don't have firsthand 
+knowledge of that. I can just speak from Missouri, but I do 
+know more and more States are relying on contract surveyors 
+just because of the staffing shortages.
+    Senator Blumenthal. I think more than half the States now 
+rely on private contractors to do this kind of oversight and 
+certification.
+    Ms. Williamson. That is correct.
+    Senator Blumenthal. Connecticut actually is considering 
+hiring a contractor because we have been unable to fill our 
+vacant positions that were created during the pandemic, but it 
+is a critical job, and it is kind of going to be garbage in, 
+garbage out if we don't kind of oversee the quality of the 
+contractors who do the certification--we don't certify the 
+certifiers, so to speak.
+    That is a vastly over simplistic way of looking at it, but 
+I think it is a very important area, and thanks for your input. 
+Thanks, Mr. Chairman, for letting me run over my time a little 
+bit.
+    The Chairman. Don't worry about it. Senator Blumenthal, 
+thanks very much, and we will turn next to Senator Gillibrand.
+    Senator Gillibrand. Thank you, Mr. Chairman and Ranking 
+Member. This is an excellent hearing and one very needed for my 
+State of New York. The Centers for Medicare and Medicaid 
+Services require every nursing home to designate a medical 
+director as responsible for resident care coordination of 
+medical care.
+    CMS does not have a compliance mechanism for this legal 
+requirement, however, and nursing homes are not required to 
+submit the identities of their medical directors to CMS. Ms. 
+McMahon, if nursing homes were required to report their medical 
+directors to CMS and State survey agencies, would this be a 
+helpful tool for ombudsmen to hold nursing homes accountable 
+and effectively advocate for residents?
+    Ms. McMahon. Thank you, Senator Gillibrand. I do believe 
+that requiring nursing homes to report their medical directors 
+to CMS and State survey agencies could increase quality of care 
+in nursing homes.
+    As you noted, the regulations place great emphasis on the 
+role of the medical director and requiring them to implement 
+resident care policies and coordinate care. Often, medical 
+directors are absent from the nursing home for long periods of 
+time. It is rare that you will see a medical director 
+physically in a nursing home.
+    This is sometimes due to the medical director overseeing 
+several nursing homes in the chain. By increasing 
+accountability for medical directors, it could ensure they are 
+fulfilling their critical obligations under the regulations, 
+and when that doesn't happen, ombudsmen have another tool to 
+take to the survey agency as a concern, and again, this ties 
+back to increasing the surveyors for the State Survey Agency.
+    Senator Gillibrand. Well, it doesn't sound right, though, 
+that a medical director would have to oversee eight facilities. 
+Don't you think they should have to limit how many facilities 
+they have under their care?
+    Ms. McMahon. I absolutely agree with you.
+    Senator Gillibrand. What limit would you put on it?
+    Ms. McMahon. I think it would be hard to pick a number 
+because you have to take into consideration how many residents 
+are in a specific facility in each building----
+    Senator Gillibrand. Maybe no more than a hundred residents 
+for a medical director. Like, would you do it by that basis?
+    Ms. McMahon. I think that is a good way to approach it.
+    Senator Gillibrand. Well, we--you know, to the extent any 
+of you have a recommendation on that, please submit it by 
+letter to the Committee, if you have some thought about it, 
+because I think some individual responsible for eight 
+facilities obviously is not doing a good job. It is impossible 
+to have that level of oversight if you are spread that thin.
+    I would like your recommendations there, and are there any 
+ways that medical directors can increase transparency and 
+accountability within nursing homes? Off to anyone. Go ahead, 
+Dr. McMahon--or Ms. McMahon.
+    Ms. McMahon. Yes. Thank you, Senator Gillibrand. In my 
+experience, again, this is a rare situation where residents 
+even know the medical director who the--of the nursing home, 
+and further what the role is of the medical director that they 
+play actually in the nursing home.
+    By increasing transparency, residents will be able to 
+interact better with the people who are responsible for 
+implementing the policies and care. Increasing the 
+participation of the medical directors in the facility 
+operations would add additional safeguards and protections for 
+nursing home residents.
+    Senator Gillibrand. Thank you. In 2021, New York Attorney 
+General reported that the number of nursing home residents who 
+died from COVID-19 was undercounted by as much as 50 percent 
+compared to data from the New York Department of Health. The 
+investigations reveal that facilities that had lower pre-
+pandemic staffing ratings had higher COVID-19 fatality rates.
+    Ms. Williamson, the New York State Attorney General report 
+revealed a lack of compliance with infection protocols led to 
+increased risk of harm for nursing home residents. How could 
+better compliance with standard surveys improve outcomes in 
+nursing homes? How can increased staffing standards improve 
+compliance with surveys?
+    Ms. Williamson. Thanks for that question, Senator. As far 
+as increased compliance and infection control, infection 
+control is one of the most frequently cited deficiencies that 
+survey agencies cite, pre-COVID and since COVID.
+    That regulatory requirement has a lot of different elements 
+to it, but it is one of the most frequently cited deficiencies. 
+During the pandemic, our staff focused on conducting focused 
+infection control surveys to assess compliance with infection 
+control standards, and we continue those today.
+    I think increasing our ability to do recertification 
+surveys will catch some of those lapses in infection control 
+before they harm residents, so that is very important to us, 
+and one of the things that we are struggling doing with the 
+increased volume in the surveyor vacancies that we have. That 
+is a very important aspect of our work, that we hope to be able 
+to do more of with an increase in resources to do so.
+    Senator Gillibrand. Thank you very much. Thank you, Mr. 
+Chairman. I have a question for the record based on investments 
+at home and community-based services, I will submit.
+    The Chairman. Senator Gillibrand, thanks very much. I just 
+have one more question, and then I think we will close, and I 
+appreciate our witnesses' testimony today.
+    Ms. Bliss, I wanted to go back to kind of the basic 
+function of the office you are a part of--the independent 
+watchdog function, which is so vital in Government as it is and 
+any other endeavor. That work has never been more important or 
+under--frankly, under more pressure in recent years.
+    Last week, I met with the Nation's Inspectors General to 
+discuss how oversight can improve accessibility for people with 
+disabilities under Federal information and services. Today, you 
+have highlighted how your office's critical work on nursing 
+homes is so essential for us to examine, and it is an issue I 
+know that Inspector General Grimm considers a top priority.
+    How can Congress best help your efforts on a number of 
+fronts, but in particular to help improve nursing home care, as 
+well as to tackle other pressing issues?
+    Ms. Bliss. I really appreciate that question, and in fact, 
+improving nursing home care and safety is the number one 
+priority for Inspector General Grimm. We are investing heavily 
+into this area, but our resources are really strained.
+    We have about $0.02 for every $100 spent by the Department 
+of Health and Human Services, so we have a vast and incredibly 
+complex mission that is-incredibly important to the people that 
+the programs serve.
+    We make difficult decisions every day about what oversight 
+work we can and can't get to, what enforcement cases we can and 
+can't investigate, and the President's budget request for 
+Fiscal Year 2024 includes an increase of $52 million, 
+specifically for our Medicare and Medicaid oversight.
+    Certainly an increase like that would expand our ability to 
+better protect nursing home residents, and to expand our work 
+looking at care for residents of nursing homes with 
+disabilities, and people with disabilities outside of nursing 
+homes and across other HHS programs.
+    The Chairman. Well, thanks very much, and in the interest 
+of time, we will move to our close. I just have a closing 
+statement, then I will turn to ranking member Braun. 37 years 
+ago this week, the Aging Committee held a hearing to examine 
+the State of nursing home oversight, which was chaired by a 
+Pennsylvania Senator, John Haynes, who was then the chair and a 
+leader on this issue.
+    At that hearing in May 1986, the Committee heard about the 
+critical need to adequately fund nursing home inspection 
+agencies and how not doing so would have, ``grave 
+consequences'' for quality care. We heard similar warnings 
+today, and these warnings must not be ignored.
+    Here is just four steps the Committee should work on going 
+forward, and I would argue not just this Committee, but 
+multiple committees in both houses of Congress. First is, of 
+course, funding. Congress must prioritize the Nation's 1.1 
+million nursing home residents by investing in oversight, as I 
+will say it again, the last three Presidential Administrations 
+have proposed. Second is transparency.
+    The investigation makes clear that CMS needs to track and 
+report survey agency staffing, given that staffing is a leading 
+indicator of a state's performance. Third, protecting 
+taxpayers. States, CMS, and independent watchdogs need to 
+closely examine the use of contract inspectors and make sure 
+that proper guardrails are in place, and finally, fourth, 
+workforce.
+    The investigation shows that expanding the health care 
+workforce will help health care providers deliver better care 
+and ensure that States conduct better oversight. The Aging 
+Committee's oversight in the 1980's paved the way for landmark 
+nursing home reforms that President Reagan signed into law.
+    Today's hearing and the Committee's investigation provide 
+another opportunity to find common ground to make sure nursing 
+home residents are kept safe and receive the care that they and 
+their families deserve and have a right to expect. I would like 
+to thank the witnesses for their thoughtful and expert 
+testimony today.
+    You have helped us to diagnose the problem and to set forth 
+those problems, as well as solutions that we will examine going 
+forward. I will now turn to Ranking Member Braun for his 
+closing remarks.
+    Senator Braun. Thank you, Mr. Chairman, and again, we have 
+had a good discussion. You can't legislate through this 
+Committee, but a lot of discussions happen here that then do 
+get legislated through other committees.
+    I think it is clear, from what I have heard, we need to 
+improve transparency and accountability. I look forward to 
+working with Chairman Casey to do this. Both of our officers 
+have had a knack for, I think, finding common sense solutions 
+and putting them into law. I stressed earlier, don't make 
+things worse by Federal rules and regulations. Overtime rule 
+was one.
+    We had a discussion on it. I can tell you that in almost 
+all other arenas, you have got to be careful there because it 
+went from just $27,000, which was too low during the Obama 
+Administration, they wanted to change it. It went to a level 
+where it was an uproar in terms of the number of jobs that 
+would have been lost or places just couldn't probably afford to 
+do it, and now the current Administration is talking about 
+going up nearly to $80,000, and it would be great, I guess, if 
+you could afford to do it, but it would completely disrupt 
+employer, employee relations across the country. How we sort 
+that out remains to be seen. On other extreme Federal 
+overreach, we have had to weigh in as a freshman Senate office.
+    When we do, it was generally on an issue that made sense 
+because something was fixed on account of it. We had a lot of 
+discussion earlier too. Do these solutions get crafted here in 
+a place that has not evidently ever taken finance 101? Many 
+places depend on it, and we increasingly borrow more and more 
+money to support the programs that so many people look to. It 
+is not a good long term business plan.
+    Something has got to change, and I think until we actually 
+start doing budgets and doing things that would give more 
+confidence to the American public that we are going to craft 
+solutions and pay for them sustainably, maybe look to the rest 
+of the Government marketplace, which would be States that 
+actually have to live within the regimen of not borrowing from 
+future generations, and have an equal responsibility and might 
+be in better place to actually affect them and do it in a 
+sustainably long run basis.
+    The one thing I think we can agree on is this is a big 
+issue. I am going to be here as a partner with Chairman Casey 
+to see what we can do, and again, thank you all for weighing in 
+today. Much appreciated.
+    The Chairman. Thank you, Ranking Member Braun. I wanted to 
+note for the record the scale of a report like this, as you can 
+imagine, takes many, many months of work. Peter Gartrell right 
+behind me, over my left shoulder, and his team put untold 
+numbers of hours into this report. It gets to page 89, the 
+footnotes, Peter goes over 440, something like that, so it is a 
+pretty big report.
+    We had a stack of documents here which I won't lift up to 
+show you, but it requires a maximum effort by our staff, and we 
+are grateful for that, and grateful that Ranking Member Braun 
+and his team are here with us today to talk about this.
+    I want to once again reiterate our gratitude to each of the 
+witnesses for bringing not just your testimony and the answers 
+to questions, but in many of your--in each of your cases, a 
+lifelong, or more significant period of your life's commitment 
+to these important issues. Nothing could be more important. No 
+work could be more important than making sure that we are 
+providing the best care to seniors.
+    If any Senators have additional questions for the witnesses 
+or statements to be added to the record, the hearing record 
+will be kept open for seven days until next Thursday, May 25th. 
+Thank you all for participating today. We are adjourned.
+    [Whereupon, at 11:04 a.m., the hearing was adjourned.]
+
+      
+=======================================================================
+
+
+                                APPENDIX
+
+=======================================================================
+      
+      
+      
+=======================================================================
+
+
+                      Prepared Witness Statements
+
+=======================================================================
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+      
+=======================================================================
+
+
+                        Questions for the Record
+
+=======================================================================
+
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+      
+      
+=======================================================================
+
+
+                       Statements for the Record
+
+=======================================================================
+
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+

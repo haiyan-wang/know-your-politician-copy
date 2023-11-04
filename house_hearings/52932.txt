@@ -1,0 +1,2390 @@
+
+ - FEDERAL RESPONSES TO RECENT BANK FAILURES
+
+[House Hearing, 118 Congress]
+[From the U.S. Government Publishing Office]
+
+
+                          FEDERAL RESPONSES TO
+                          RECENT BANK FAILURES
+
+=======================================================================
+
+                                HEARING
+
+                               BEFORE THE
+
+                 SUBCOMMITTEE ON FINANCIAL INSTITUTIONS
+                          AND MONETARY POLICY
+
+                                 OF THE
+
+                    COMMITTEE ON FINANCIAL SERVICES
+
+                     U.S. HOUSE OF REPRESENTATIVES
+
+                    ONE HUNDRED EIGHTEENTH CONGRESS
+
+                             FIRST SESSION
+
+                               __________
+
+                              MAY 10, 2023
+
+                               __________
+
+       Printed for the use of the Committee on Financial Services
+
+                           Serial No. 118-20
+                           
+[GRAPHIC NOT AVAILABLE IN TIFF FORMAT]
+
+                               __________
+
+                                
+                    U.S. GOVERNMENT PUBLISHING OFFICE                    
+52-932 PDF                  WASHINGTON : 2023                    
+          
+-----------------------------------------------------------------------------------     
+
+                 HOUSE COMMITTEE ON FINANCIAL SERVICES
+
+               PATRICK McHENRY, North Carolina, Chairman
+
+FRANK D. LUCAS, Oklahoma             MAXINE WATERS, California, Ranking 
+PETE SESSIONS, Texas                     Member
+BILL POSEY, Florida                  NYDIA M. VELAZQUEZ, New York
+BLAINE LUETKEMEYER, Missouri         BRAD SHERMAN, California
+BILL HUIZENGA, Michigan              GREGORY W. MEEKS, New York
+ANN WAGNER, Missouri                 DAVID SCOTT, Georgia
+ANDY BARR, Kentucky                  STEPHEN F. LYNCH, Massachusetts
+ROGER WILLIAMS, Texas                AL GREEN, Texas
+FRENCH HILL, Arkansas                EMANUEL CLEAVER, Missouri
+TOM EMMER, Minnesota                 JIM A. HIMES, Connecticut
+BARRY LOUDERMILK, Georgia            BILL FOSTER, Illinois
+ALEXANDER X. MOONEY, West Virginia   JOYCE BEATTY, Ohio
+WARREN DAVIDSON, Ohio                JUAN VARGAS, California
+JOHN ROSE, Tennessee                 JOSH GOTTHEIMER, New Jersey
+BRYAN STEIL, Wisconsin               VICENTE GONZALEZ, Texas
+WILLIAM TIMMONS, South Carolina      SEAN CASTEN, Illinois
+RALPH NORMAN, South Carolina         AYANNA PRESSLEY, Massachusetts
+DAN MEUSER, Pennsylvania             STEVEN HORSFORD, Nevada
+SCOTT FITZGERALD, Wisconsin          RASHIDA TLAIB, Michigan
+ANDREW GARBARINO, New York           RITCHIE TORRES, New York
+YOUNG KIM, California                SYLVIA GARCIA, Texas
+BYRON DONALDS, Florida               NIKEMA WILLIAMS, Georgia
+MIKE FLOOD, Nebraska                 WILEY NICKEL, North Carolina
+MIKE LAWLER, New York                BRITTANY PETTERSEN, Colorado
+ZACH NUNN, Iowa
+MONICA DE LA CRUZ, Texas
+ERIN HOUCHIN, Indiana
+ANDY OGLES, Tennessee
+
+                     Matt Hoffmann, Staff Director
+       Subcommittee on Financial Institutions and Monetary Policy
+
+                     ANDY BARR, Kentucky, Chairman
+
+BILL POSEY, Florida                  BILL FOSTER, Illinois, Ranking 
+BLAINE LUETKEMEYER, Missouri             Member
+ROGER WILLIAMS, Texas                NYDIA M. VELAZQUEZ, New York
+BARRY LOUDERMILK, Georgia            BRAD SHERMAN, California
+JOHN ROSE, Tennessee                 GREGORY W. MEEKS, New York
+WILLIAM TIMMONS, South Carolina      DAVID SCOTT, Georgia
+RALPH NORMAN, South Carolina         AL GREEN, Texas
+SCOTT FITZGERALD, Wisconsin          JOYCE BEATTY, Ohio
+YOUNG KIM, California                JUAN VARGAS, California
+BYRON DONALDS, Florida               SEAN CASTEN, Illinois
+MONICA DE LA CRUZ, Texas             AYANNA PRESSLEY, Massachusetts
+ANDY OGLES, Tennessee
+                            
+                            C O N T E N T S
+
+                              ----------                              
+                                                                   Page
+Hearing held on:
+    May 10, 2023.................................................     1
+Appendix:
+    May 10, 2023.................................................    41
+
+                               WITNESSES
+                        Wednesday, May 10, 2023
+
+Gould, Jonathan V., Partner, Jones Day...........................     6
+Judge, Kathryn, Harvey J. Goldschmidt Professor of Law and Vice 
+  Dean for Intellectual Life, Columbia Law School................     9
+Michaud, Thomas, President and Chief Executive Officer, Keefe, 
+  Bruyette & Woods (KBW), a Stifel company.......................     7
+Tahyar, Margaret E., Partner, Davis Polk & Wardwell LLP..........     4
+
+                                APPENDIX
+
+Prepared statements:
+    Gould, Jonathan V............................................    42
+    Judge, Kathryn...............................................    47
+    Michaud, Thomas..............................................    55
+    Tahyar, Margaret E...........................................    64
+
+              Additional Material Submitted for the Record
+
+Sherman, Hon. Brad:
+    Chart, ``Unrealized Gains (Losses) on Investment Securities''    70
+Waters, Hon. Maxine:
+    Written responses to questions for the record submitted to 
+      Jonathan V. Gould..........................................    71
+    Written responses to questions for the record submitted to 
+      Thomas Michaud.............................................    72
+    Written responses to questions for the record submitted to 
+      Kathryn Judge..............................................    73
+
+ 
+                          FEDERAL RESPONSES TO
+                          RECENT BANK FAILURES
+
+                              ----------                              
+
+
+                        Wednesday, May 10, 2023
+
+             U.S. House of Representatives,
+             Subcommittee on Financial Institutions
+                               and Monetary Policy,
+                           Committee on Financial Services,
+                                                   Washington, D.C.
+    The subcommittee met, pursuant to notice, at 2:04 p.m., in 
+room 2128, Rayburn House Office Building, Hon. Andy Barr 
+[chairman of the subcommittee] presiding.
+    Members present: Representatives Barr, Posey, Luetkemeyer, 
+Williams of Texas, Loudermilk, Rose, Timmons, Norman, 
+Fitzgerald, Kim, De La Cruz, Ogles; Foster, Velazquez, Sherman, 
+Beatty, Vargas, and Casten.
+    Ex officio present: Representative Waters.
+    Also present: Representative Emmer.
+    Chairman Barr. The Subcommittee on Financial Institutions 
+and Monetary Policy will come to order.
+    Without objection, the Chair is authorized to declare a 
+recess of the subcommittee at any time.
+    Today's hearing is entitled, ``Federal Responses to Recent 
+Bank Failures.''
+    I now recognize myself for 5 minutes to give an opening 
+statement.
+    Thank you to our witnesses for appearing before us today. 
+Because of economic mismanagement under the Biden 
+Administration, and failures of bank supervision, we now face 
+increased odds of recession. Following the bipartisan CARES 
+Act, a partisan, reckless, nearly-$2 trillion American Rescue 
+Plan Act was enacted by the President, which fueled runaway 
+inflation. While the Administration and the Federal Reserve 
+tried to convince the American people that inflation was 
+transitory, it definitively was not.
+    Inflation skyrocketed and persisted, and Americans were 
+hammered by rising costs in grocery aisles and at the pump and 
+saw their wages rapidly eroding in real terms. Despite warnings 
+from my Republican colleagues and myself, the Federal Reserve 
+was late to the game in responding to inflation, and therefore 
+had to raise interest rates at one of the fastest paces in 
+modern history. The precipitous interest rate increases put 
+heightened interest rate risks into the system, and regulators 
+and supervisors at the Fed were, again, late to react. All of 
+the context in which these bank failures occurred has to be 
+looked at in the context of this historical set of facts.
+    These risks were not attended to by Federal or State 
+regulators and supervisors, but were recognized by depositors. 
+This led to bank runs and systemic stress. We now face 
+increasing odds of a credit crunch, as banks of all sizes 
+anticipate more-onerous regulations and market scrutiny. If 
+recent events are not dealt with productively, we also run a 
+risk of ending up with a banking system with a small number of 
+too-big-to-fail banks and a scattering of very small banks. 
+Such a barbell banking system is not good for communities 
+across the country.
+    The Vice Chair for Supervision at the Federal Reserve has 
+signaled his desire to go beyond reviewing supervisory failures 
+that contributed to the recent bank runs. He continues to 
+signal his desire to increase capital charges and impose more-
+stringent regulations on already well-capitalized banks that 
+are not to blame for recent stresses in the system.
+    Following the failures of Silicon Valley Bank and Signature 
+Bank, which were caused by bank runs, key regulators decided to 
+issue their own self-referential, self-assessment reports on 
+those failures to set a narrative. The Chair of the FDIC 
+ordered a review of Signature Bank's failure, taking some blame 
+for inadequate supervision, but the review mostly blamed the 
+banks and internal FDIC vacancy issues. The full Board of the 
+FDIC did not adequately participate in the review. The FDIC 
+also issued a term paper on deposit insurance and what it 
+believes Congress should focus on before responding to multiple 
+inquiries from this committee for information, so Congress 
+could arrive at our own conclusions.
+    The Federal Reserve Vice Chair for Supervision, Michael 
+Barr, led his own self-serving politicized review of the 
+failure of Silicon Valley Bank and made regulatory 
+recommendations. The full Board of the Fed did not participate 
+in the review. The review, by the way, said nothing about the 
+monetary policy errors and the late-to-the-game of monetary 
+normalization that contributed mightily to the problem. In the 
+face of a need to inform Congress and respond to multiple 
+requests from this committee for timely information, the Fed 
+and the FDIC decided to devote resources to a hasty, self-
+serving review of their own supervisory failures to set a 
+narrative.
+    To be clear, the Board of the Federal Reserve System and 
+the Board of the FDIC should not view their recent narratives 
+about the failures of Silicon Valley Bank and Signature Bank as 
+precedents for how Congress is informed in the future. Rather 
+than being responsive to Congress so that we may consider 
+potential legislative needs, Federal agencies and officials 
+have slow-walked us. Instead, they have spent their time 
+writing their own narratives to cover their mistakes and 
+injecting politicized calls for more regulation into the public 
+sphere. That is simply unacceptable. And it clearly shows why 
+we need to change emergency authorities for the Fed and the 
+FDIC, and Treasury to at least obtain accountability and 
+transparency.
+    We need to ensure that the full Boards at the Fed and the 
+FDIC are adequately consulted in important decision-making and 
+that a single regulatory actor cannot act unilaterally to 
+inject their political preferences into regulations. The bills 
+noticed today get at the heart of increasing accountability and 
+transparency at our Federal financial regulators and emergency 
+actions. The bills are not intended to be partisan, and their 
+provisions would apply independent of what party is in power. 
+They are simply about accountability to the American people and 
+Congress of financial regulatory actors who take actions that 
+affect trillions of dollars of resource flows. I look forward 
+to discussing these issues today.
+    The Chair now recognizes the ranking member of the 
+subcommittee, the gentleman from Illinois, Dr. Foster, for 5 
+minutes for an opening statement.
+    Mr. Foster. Thank you, Mr. Chairman, and I will not use my 
+whole 5 minutes, as I think this is the time where Congress is 
+best served by and the people are best served by listening 
+instead of speaking.
+    There are a couple of new factors and old factors that we 
+see in this. The new factor is the internet-driven runs that, 
+when we had our first emergency Zoom meeting with the FDIC, 
+caused them to look kind of shell-shocked at the speed at which 
+these runs occurred. And that is a risk that everyone 
+recognizes, and we are going to have to understand what kind of 
+emergency liquidity support will be needed to defend against 
+those. And for anyone providing that emergency liquidity, they 
+will have to be able to tell at a glance that the entity they 
+are providing that liquidity to will ultimately become solvent. 
+And that is the difficulty with what we are going to be facing 
+here.
+    I see the value of both internal and external reviews, and 
+I think they were valuable. The reports produced were, in fact, 
+valuable as starting points to this. I also think we have much 
+to learn with a comparison of the Credit Suisse failure and the 
+recent effects of the bank failures of banks of the order of 1 
+percent of U.S. GDP, which were not in and of themselves 
+systemically crucial and they wouldn't have brought down the 
+economy if they, by themselves, failed.
+    In contrast, the Credit Suisse was over 100 percent of 
+Swiss GDP. It was truly too-big-to-fail. And when it failed, it 
+failed gracefully without really a whiff of contagion and 
+without leaving the Swiss taxpayer so far on the hook. I think 
+the difference there is contingent capital, the contingent 
+capital that was insisted upon by the Swiss banking regulators. 
+As Credit Suisse failed, they allowed a mechanism to have a 
+mandatory capital injection into the carcass of Credit Suisse 
+that made it something worth buying, and took the value of 
+Credit Suisse from roughly negative-$14 billion to plus-$3 
+billion and allowed a white knight to step in and take it over. 
+So, I think we should look hard at that as a model. And I know 
+I share with Chairman McHenry an enthusiasm for this general 
+approach on a contingent capitalism market-based approach to 
+have another set of eyes on the books of these banks, and at 
+the risk posture.
+    Anyway, I am eager to get on with this hearing, and with 
+that, I will yield back the rest of my time.
+    Chairman Barr. The gentleman yields back. We will now hear 
+from our witnesses.
+    First, Ms. Margaret Tahyar. Ms. Tahyar is a partner at 
+Davis Polk & Wardwell and a member of their fintech practice. 
+Her practice focuses on providing strategic bank and financial 
+regulatory advice. In addition to her full-time practice, she 
+teaches financial regulation as an adjunct lecturer in law at 
+Harvard Law School.
+    Second, Mr. Jonathan Gould. Mr. Gould is a partner at Jones 
+Day in Washington, D.C., where he provides bank and financial 
+regulatory and strategic advice to financial services providers 
+of all types. Previously, Mr. Gould served as the Senior Deputy 
+Comptroller and Chief Counsel of the Office of the Comptroller 
+of the Currency.
+    Third, Mr. Thomas Michaud. Mr. Michaud is president and CEO 
+of Keefe, Bruyette & Woods, an investment bank specializing in 
+the financial services sector, where he began his career in 
+1986. He was named chief executive officer in October of 2011 
+and is responsible for directing all of the firm's business 
+lines in both the United States and Europe.
+    And finally, Professor Kathryn Judge. Professor Judge is 
+the Harvey J. Goldschmidt Professor of Law and vice dean for 
+intellectual life at Columbia Law School. Ms. Judge currently 
+serves as an editor of the Journal of Financial Regulation and 
+a research member of the European Corporate Governance 
+Institute. She previously served on the Financial Stability 
+Task Force and the Financial Research Advisory Committee to the 
+Office of Financial Regulation.
+    We thank each of you for taking the time to be here. Each 
+of you will be recognized for 5 minutes to give an oral 
+presentation of your testimony. And without objection, each of 
+your written statements will be made a part of the record.
+    Ms. Tahyar, you are now recognized for 5 minutes for your 
+oral remarks.
+
+STATEMENT OF MARGARET E. TAHYAR, PARTNER, DAVIS POLK & WARDWELL 
+                              LLP
+
+    Ms. Tahyar. Thank you, Chairman Barr, and Ranking Member 
+Foster. The banking crisis is like a burning house. Just 
+watching it, we know that mistakes were made, there are lessons 
+to be learned, and changes are coming. Think of it as three 
+stages. In the emergency stage, heroic firefighters are rushing 
+to the flames to save the house and the people. Dedicated 
+agency staff have been working around the clock. I have 
+personally received a message at 2:45 a.m., asking if I am 
+available to talk right then.
+    The reliance on firefighting is not a path to a better way. 
+Once the flames died down, it is the what-happened stage, the 
+time to think about the very different people who were living 
+in the house when it caught fire. That was management and the 
+supervisors, what did they do or not do to let this fire 
+happen? The final stage we need to ask is, did something in the 
+construction of the house cause the fire? If the problem was 
+the electricity, let's not focus on how people felt about the 
+plumbing.
+    For each stage, we need fact-based lessons learned and 
+policy changes that encourage a strong, multi-tiered banking 
+sector. So far, there are many suggestions based on political 
+priors, which assume regulatory changes without proof of any 
+links to the burning house. We also need much more 
+transparency. It is not possible for the firefighters to be 
+transparent in real time when the house is burning. But 
+afterwards, there needs to be a full accounting.
+    Here are some preliminary thoughts. There should be 
+independent reports by professional investigators. There are 
+many good elements in the report you have before you, but they 
+are drastically incomplete. They are only a first step in any 
+fact-based exercise. There should be a structurally-independent 
+investigation by trained professional investigators done on a 
+bipartisan basis.
+    There is a deep red flag in the reports that Congress 
+should not ignore. They point to severe resource challenges for 
+examiners, lacunae in the skill sets, weakness in the job 
+candidates, as well as heightened turnover. It is concerning 
+that new examiners resigned before completing their training 
+and that fully-funded posts cannot be filled. And there are 
+press reports of culture problems and low morale causing 
+experienced examiners to leave. The consequence is that at 
+critical times, examiners were slow to react, did not have 
+internal deadlines, and became distracted by process and 
+consensus.
+    The many media leaks from the supervisors complaining about 
+the culture or attempting to absolve themselves are also clues 
+that something is amiss. The Barr report hints at confusion 
+around internal governance, escalation roles and 
+responsibilities, and deadlines and accountability. It raises 
+the question of whether the supervisors were well-managed. It 
+is deeply unfair to blame overworked line examiners who were 
+not given fully-updated training and were suffering from poor 
+direction and management.
+    These red flags might be a more plausible cause, at least 
+in part, for the supervisory failures rather than an 
+unexplained shift in tone from the previous leadership, the 
+tailoring or the guidance on guidance. All of the agencies need 
+to engage in a holistic review of how the supervisory staff is 
+hired, trained, and managed. Virtually all of banking 
+supervision takes place in secret. The lack of transparency 
+sits uncomfortably with the securities laws and with 
+accountability to Congress in the public. It is impossible for 
+Congress, academics, and the public to judge the effectiveness 
+of the regulatory framework, supervision, or emergency actions 
+when what the public sees is only a very small tip of a very 
+large iceberg. We really need to ask, who is watching the 
+watchmen?
+    Finally, let's be careful out there. There is one big thing 
+where Congressional action as opposed to oversight is 
+necessary, a hard look at reforms to the deposit insurance 
+program. We have never seen a deposit run of such scale and 
+speed happening overnight and on a weekend. In a world with 
+social media, mobile banking, and when many companies and 
+consumers are multi-banked, uninsured deposits can flee with a 
+click. And the multi-banking is the point that hasn't gotten a 
+lot of attention. If you are going to flee with a click, you 
+have to have two bank accounts. And if you think about the 
+difference, there was a reference to a barbell banking system, 
+which we don't want. Many of the customers of regional banks 
+are sticky; they are not necessarily multi-banked. That is 
+something to look into.
+    Anyway, with instant payments, open banking, data 
+portability, or central bank digital currency, it is going to 
+make it worse or better. Absent deposit insurance reform and 
+solving the red flags, the regulatory changes being suggested 
+will be window dressing. It matters, because an impact on 
+banking is an impact on the economy and credit, which is 
+already fragile. For those of you who remember Hill Street 
+Blues, ``Let's be careful out there.'' Thank you.
+    [The prepared statement of Ms. Tahyar can be found on page 
+64 of the appendix.]
+    Chairman Barr. Thank you for your testimony.
+    Mr. Gould, you are now recognized for 5 minutes.
+
+       STATEMENT OF JONATHAN V. GOULD, PARTNER, JONES DAY
+
+    Mr. Gould. Chairman Barr, Ranking Member Foster, and 
+members of the subcommittee, thank you for the opportunity to 
+discuss the Federal responses to recent bank failures. My 
+testimony will focus on the recently-issued reports from the 
+Fed and the FDIC on their supervision of Silicon Valley Bank 
+and Signature Bank. My testimony is my own. I am speaking today 
+solely in my personal capacity. I am not speaking on behalf of 
+any clients or my law firm.
+    According to the Federal Reserve's Office of Inspector 
+General (OIG), ``Examiners identified key safety and soundness 
+risks, but did not take sufficient supervisory action in a 
+timely manner to compel the boards of directors and management 
+to mitigate those risks. In many instances, examiners 
+eventually concluded that a supervisory action was necessary, 
+but that conclusion came too late to reverse the bank's 
+deteriorating condition.'' This statement might well summarize 
+the report from the Fed and the FDIC, but it was actually 
+issued in 2011 in connection with the OIG's review of Fed 
+supervision of the 35 State member banks that failed in the 
+aftermath of the 2008 financial crisis.
+    In the years following this assessment, Congress has 
+enacted major banking reforms and the banking agencies have 
+promulgated a host of new regulations and revised their 
+supervisory approaches. And yet, we seem to have made little 
+progress in improving supervisory outcomes without recourse to 
+extraordinary interventions, like guaranteeing uninsured 
+deposits. Agency self-reflection is appropriate, but 
+supervisory transparency and Congressional accountability are 
+critical.
+    The Fed and FDIC reports offer a starting point for further 
+fundamental review by Congress. Supervision and regulation are 
+complementary, but worth distinguishing. Regulation is broadly 
+applicable and implements statutory imperatives. Supervision is 
+the practical art of applying that regulatory framework to 
+individual banks through the exercise of examiner judgment.
+    In the case of SVB, the Fed acknowledges that its 
+supervision failed to identify, much less address, some of the 
+most-basic safety and soundness risks applicable to a bank. It 
+is particularly hard to explain the Fed's failure to supervise 
+for interest rate risks when it created that risk through its 
+own monetary policy actions. Neither report explains the many 
+failures of supervision, and significant portions of the 
+reports are distractions. An independent review and disclosure 
+of internal agency communications about SVB and Signature Bank 
+about supervision would seem to be an obvious next step in any 
+credible investigation. Both reports raise questions about the 
+adequacy and allocation of resources at these agencies, but the 
+reports give us little information as to how the agencies 
+prioritize their resources.
+    Congress should request and review budgetary detail and 
+supervisory staffing models, including those for the San 
+Francisco Fed, to determine whether the agencies are giving 
+short shrift to their supervisory functions or if it disagrees 
+with their priorities. The Fed report does address changes in 
+regulation in May following the Economic Growth Act. Others 
+have addressed the lack of causal connection between that law 
+and the bank failures.
+    I will merely add that: one, the Federal Reserve did not 
+enforce regulations that did apply to SVB; two, the 
+proliferation of regulations since the 2008 crisis may have 
+reduced risk management and supervision to mirror compliance 
+exercises, damaging both in the process; and three, 
+overreliance on preferred regulatory tools may have blinded 
+supervisors to risks that do not appear when viewed through 
+that tools particular lens.
+    The Fed has an unique governance and structure that differ 
+from other bank supervisors. Congress should consider whether 
+and to what extent the Fed structure and governance is a 
+contributing factor to its supervisory failures. A clear 
+presentation from the Fed of roles and responsibilities within 
+this System and between the Board and Reserve Banks is a 
+prerequisite for basic accountability. The Fed report 
+identifies some potential conflicts of interest between the 
+Reserve Banks and the Board, and of even greater concern is the 
+inherent conflict of interest between the Fed's monetary policy 
+and bank supervision functions.
+    The Fed's rapid interest rate hikes are a source of 
+systemic risk to the banks it supervises and were a cause of 
+SVB's failure. Congress should explore how the Fed's monetary 
+policy decisions, including its macroeconomic outlook, affect 
+its supervisory strategies in general, and its supervision of 
+SVB in particular.
+    The business of banking is built on trust and confidence, 
+but that trust and confidence is currently in doubt. Competent 
+bank supervision is a prerequisite to restoring it. 
+Transparency into the supervisory strategies and priorities of 
+the Fed and the FDIC, particularly as they were applied to 
+these failed banks, is a critical first step in understanding 
+what went wrong. Given past failures at self-reform, Congress 
+can and should exercise its full oversight authorities to 
+ensure a different outcome this time.
+    Thank you again for the opportunity to testify. I look 
+forward to your questions.
+    [The prepared statement of Mr. Gould can be found on page 
+42 of the appendix.]
+    Chairman Barr. Thank you, Mr. Gould.
+    Mr. Michaud, you are now recognized for 5 minutes.
+
+  STATEMENT OF THOMAS MICHAUD, PRESIDENT AND CHIEF EXECUTIVE 
+    OFFICER, KEEFE, BRUYETTE & WOODS (KBW), A STIFEL COMPANY
+
+    Mr. Michaud. Good afternoon, Chairman Barr, and Ranking 
+Member Foster. Thank you for having me here today, and thank 
+you to the rest of the members as well.
+    By way of background, my name is Tom Michaud, and I am 
+president and CEO of Keefe, Bruyette & Woods (KBW), a Stifel 
+Company. I have been with KBW for 36 years, and I have focused 
+my career on being part of a team that delivers high-quality 
+banking and financial services research advice, particularly to 
+mid-sized and regional banks. We also produce the Keefe Bank 
+Index and the Keefe Regional Bank Index, both of which are 
+standards upon which bank performance is rated.
+    The current banking crisis has been driven by fear. 
+Although each bank crisis is unique, they all have one thing in 
+common: depositors lose confidence that their money is safe and 
+they seek a safer haven. That is why the FDIC was created 90 
+years ago, and no insured deposit has ever lost value since. 
+FDIC insurance has allowed the U.S. to have a diverse banking 
+system of all sizes: global banks, regional banks, mid-sized 
+banks, and community banks.
+    The recent bank failures have illustrated two developments 
+since Congress last modified deposit insurance 13 years ago. 
+First, money now moves faster than ever before. The speed of 
+the run at Silicon Valley and Signature Banks was staggering. 
+Second, the market has embraced that the biggest banks are 
+likely too-big-to-fail, and that there is an implicit 
+government guarantee that stands behind them.
+    Those are the two key factors that have changed since 
+Congress last changed the rules. Left unaddressed, I believe 
+that there will be strong forces that will restructure the 
+banking industry, and current Fed data suggest that it is 
+underway right now.
+    Having banks of all sizes is critical to the success of our 
+economy. America's largest banks are global leaders and 
+standout amongst their international peers. While the biggest 
+banks have most of the deposits, they don't make most of the 
+small business loans in America. For America's economy to 
+prosper and benefit all Americans, not just in large financial 
+centers, regional banks are essential. That was demonstrated 
+when they provided 60 percent of the Paycheck Protection 
+Program (PPP) loans during the recent pandemic.
+    But there is an opportunity to level the playing field 
+since the deposit limits were last changed. I believe that the 
+big banks can continue to operate the way they do, but that the 
+mid-sized and smaller banks need more deposit insurance to 
+neutralize that too-big-to-fail guarantee. The modifications I 
+propose are on the belief that deposit insurance will continue 
+to be an industry expense, and in no way encompass taxpayer 
+support.
+    Therefore, I believe that Congress should address the 
+problem with three actions: one, raise the debt limits for 
+operating accounts so that small businesses and nonprofits can 
+keep their funds in a local bank and not worry; two, allow 
+banks to buy additional insurance directly from the debt; and 
+three, further tailor premiums for the systemic banks to 
+account for the too-big-to-fail implicit guarantee.
+    I would also encourage that, first, healthy bank mergers 
+and acquisitions (M&A) be allowed and accepted so that banks 
+can seek the same scale benefits that their larger competitors 
+have. Also, we need healthy bank M&As so that healthy banks can 
+acquire underperforming banks and save an ultimate loss 
+possibly to the Deposit Insurance Fund.
+    Second, regulators should modify held-to-maturity 
+accounting treatment, as well as modify treatment of other 
+comprehensive income (OCI) into other regulatory ratios. And 
+third, as a comment that was made recently during the 
+introduction, a review should be done to ensure that government 
+agencies have the proper systems in place to support the 
+financial system as real-time payments become a reality, 
+especially with the rollout of FedNow in July.
+    I believe that these steps would be sufficient in 
+addressing the current instability in banking. The stocks, 
+again, were very weak today. I also believe that the lack of 
+complexity of these changes reduces the risk of unintended 
+consequences and that this approach avoids the possibility of 
+additional regulations that could prove to be 
+counterproductive.
+    Thank you for the opportunity to be in front of you today, 
+and I look forward to hearing your questions.
+    [The prepared statement of Mr. Michaud can be found on page 
+55 of the appendix.]
+    Chairman Barr. Thank you, Mr. Michaud.
+    Professor Judge, you are now recognized for 5 minutes.
+
+STATEMENT OF KATHRYN JUDGE, HARVEY J. GOLDSCHMIDT PROFESSOR OF 
+  LAW AND VICE DEAN FOR INTELLECTUAL LIFE, COLUMBIA LAW SCHOOL
+
+    Ms. Judge. Thank you, Chairman Barr, Ranking Member Foster, 
+and members of the subcommittee. It is a pleasure to be here 
+today, and I appreciate the opportunity to discuss the recent 
+bank failures and the lessons that we can learn from those 
+failures.
+    I want to spend my time just setting the stage with two 
+broad points that hopefully cut across the range of different 
+issues at stake in today's deliberations. And I want to spend a 
+few moments just building on and responding to some of the 
+comments from my fellow witnesses.
+    First, the recent bank failures reveal fundamental 
+shortcomings in the regulation and supervision of large 
+regional banks. Since the beginning of March, four regional 
+banks have failed, and three of those banks failed in ways that 
+impose significant costs on the Deposit Insurance Fund. The 
+FDIC currently estimates the Deposit Insurance Fund will lose 
+$20 billion in connection with the failure of SVB, it will lose 
+$2.5 billion in connection with the failure of Signature Bank, 
+and it will lose $13 billion in connection with the failure of 
+First Republic.
+    Moreover, two of those banks failed in ways that pose such 
+a risk to systemic stability that all of the regulators 
+involved voted to approve the use of the systemic risk 
+exception (SRE) to the requirement that the FDIC otherwise 
+resolve the bank in a way that imposes the least cost on the 
+Deposit Insurance Fund. This was not a political decision. Both 
+the Board of Governors of the Federal Reserve and the FDIC 
+Board, [inaudible] bodies, and there was unanimity among these 
+bodies, that this was the correct course of action under the 
+circumstances. The imposition of such significant costs to the 
+Deposit Insurance Fund and the existence of such a widely-
+recognized threat to the stability of the financial system 
+clearly demonstrate that the regulations currently governing 
+large financial institutions, large regional banks are not 
+adequate, and more needs to be done.
+    This episode is a powerful reminder of the ways that the 
+digitization of finance has and will continue to change the 
+nature of banking, the pressures that banks face, and the 
+structure of the financial system. It is a critical time for 
+regulators and for Congress to stay on top of recent 
+developments and to look broadly to identify emerging risks.
+    Although it might not seem directly relevant to today's 
+hearing, the new guidance proposed by the Financial Stability 
+Oversight Council (FSOC) for designating non-bank financial 
+institutions is systemically significant, and a proposed 
+analytical framework for systemic risks is a prime example of 
+the way regulators should be using the available tools to 
+address emerging risks before they pose a threat to the 
+financial system.
+    More work could also be done to consider how best to 
+protect the financial intermediaries and financial 
+infrastructure that provide critical credit and financial 
+services needed to promote a healthy and balanced economy. This 
+could include more efforts to promote the vitality of community 
+financial institutions, including community banks, Minority 
+Depository Institutions (MDIs), and Community Development 
+Financial Institutions (CDFIs), and helping to ensure that they 
+remain focused on serving the small businesses and the wide 
+array of families and individuals who need access to the 
+services that they can provide.
+    Finally, I want to comment quickly that I agree with my 
+fellow witnesses on the importance of supervision in the coming 
+era. Again, digitization means that a lot of things are moving 
+and they are moving quickly. It is often during periods of 
+higher inflation and higher interest rates that we end up with 
+more disruptive changes to the structure of the financial 
+system. So, it has never been so critical to have really 
+qualified supervisors on the ground who are willing to ask the 
+hard questions and are willing to think creatively about what 
+are the tail risks, what are the low-probability events that 
+could result in things happening that we haven't seen in the 
+past but could be incredibly destructive to the safety and 
+soundness of an individual bank, or to the health of the 
+broader financial system.
+    And I would encourage you, in trying to think about how we 
+create the right culture and environment to attract the type of 
+supervisors that we are going to need, that going forward, you 
+take time to consider what is the type of environment that is 
+going to allow those supervisors to ask hard questions and to 
+respond in a way that is appropriately responsive and at times, 
+when needed, aggressive in making sure the banks are attuned to 
+the ways their actions could undermine their own safety and 
+soundness, and even more disconcertingly, potentially undermine 
+the health of the broader financial system.
+    Thank you again for the opportunity to be here, and I look 
+forward to your questions.
+    [The prepared statement of Professor Judge can be found on 
+page 47 of the appendix.]
+    Chairman Barr. Thank you for your testimony, and the Chair 
+now recognizes himself for 5 minutes for questions.
+    Let me start with Ms. Tahyar. As I mentioned in my opening 
+statement, the Vice Chair for Supervision at the Fed and the 
+Chairman of the FDIC led self-assessments, self-referential 
+reviews. In your view, do these reports provide the impartial 
+accountability for the Fed and the FDIC to Congress?
+    Ms. Tahyar. No.
+    Chairman Barr. And I also alluded to the fact that we have 
+made multiple requests for more information, supervisory 
+information, information about the weekend of March 10th and 
+about the events leading up to the decisions to seize the 
+banks, and about FSOC meetings. We have nothing from the 
+regulators in terms of visibility into those deliberations. 
+What are the consequences of having opaque bank regulators that 
+block the information flow to Congress?
+    Ms. Tahyar. I guess I would start by having a little bit of 
+sympathy for the firefighters, who have been working virtually 
+24/7, which is why I am in three stages. But I think over time, 
+Congress, on both sides of the aisle, needs to get a lot more 
+information and a lot more transparency. And the consequences 
+are the consequences that we have seen here, which is we have 
+had a failure of supervision, a failure of management, and a 
+banking panic. There will always be banking panics, we can't 
+prevent them, but we can mitigate them.
+    Chairman Barr. Mr. Gould, let me talk about that 
+supervision piece. In the Fed's review that it just recently 
+published, it talks about the fact--I am drawing on memory 
+here, but I believe that Silicon Valley Bank surpassed the 
+$100-billion asset mark sometime in early 2021. The failure, of 
+course, was in March of 2023. There was some effort made to put 
+a new supervisory team in place, but am I correct in saying 
+that the bank was subject to enhanced prudential standards all 
+the way back to February, March of 2021?
+    Mr. Gould. Yes. That is correct. The bank was subject to 
+certain enhanced prudential standards.
+    Chairman Barr. And this is, by the way, the Dodd-Frank Act, 
+as amended by the bipartisan Regulatory Relief Act. So, it is 
+not as if Silicon Valley Bank wasn't subject to enhanced 
+standards under those regulatory regimes. Am I correct about 
+that?
+    Mr. Gould. That is correct. And some of the standards to 
+which they were subject such as the internal liquidity and 
+stress testing requirements, the Federal Reserve was not even 
+actually enforcing.
+    Chairman Barr. Yes. This excuse for supervisors, that 
+somehow they were psychologically impacted by the regulatory 
+relief law, doesn't really hold water when you consider they 
+had a charge under existing regulation, existing laws to apply 
+those enhanced supervisory standards to this institution for 
+well over a year before it failed.
+    Mr. Gould. They did, and beyond the regulatory framework to 
+which they were subject, the failings were so basic, so 
+fundamental to kind of risk management one-on-one as to be 
+glaringly obvious under any regulatory framework.
+    Chairman Barr. Yes. Let me just say, interest rate risk is 
+something that bank examiners have looked at long before Dodd-
+Frank was ever enacted, right? You don't need Dodd-Frank to 
+supervise interest rate risk.
+    Mr. Gould. That is fundamental to the business of banking. 
+That is how banks make money.
+    Chairman Barr. Yes. So, this attempt to blame regulatory 
+tailoring or even an insufficiently-robust Dodd-Frank regime is 
+really missing the point here. This was a classic supervisory 
+failure; interest rate risk is the business of banking and the 
+supervision was a failure.
+    Mr. Gould, if Vice Chair Barr used Silicon Valley Bank and 
+Signature Bank failures as leverage to impose higher capital 
+charges on banks, even though SVB and Signature were 
+capitalized before the bank runs they experienced, would that 
+be good for the economy and for Americans who rely on bank 
+credit?
+    Mr. Gould. I think there are others who are better-equipped 
+to answer that question, but I don't think anyone has a 
+monopoly on common sense. So, I would merely add that there are 
+clear tradeoffs when you raise capital in terms of reduced 
+availability of credit.
+    Chairman Barr. Mr. Michaud, for the small regional to mid-
+sized banks, if we were to eliminate regulatory tailoring, and 
+to the extent there are some stresses related to deposit 
+migration out of these mid-sized banks, should we be imposing a 
+one-size-fits-all regulatory capital liquidity requirement on 
+those smaller banks right now?
+    Mr. Michaud. I think it would permanently change the face 
+of the dynamics of banking forever if that happened. I think 
+that you would see the mid-sized banks be absorbed into the 
+bigger banks. You need to have that tremendous bar-belling that 
+we talked about, where there would be banks which only had 
+clients that were smaller than $250,000, and then all of the 
+other clients would end up in the bigger banks.
+    Chairman Barr. My time has expired. I wanted to get to 
+deposit insurance, but I am sure my colleagues will. I will now 
+recognize the ranking member of the subcommittee, Dr. Foster, 
+for 5 minutes.
+    Mr. Foster. Thank you. Mr. Michaud, you brought up 
+something that has been brought up by many people, which is the 
+idea of fully insuring transaction accounts, operating 
+accounts. Could you speak on what are the pros and cons of 
+that? Why isn't it a good idea at this point?
+    Mr. Michaud. Let me give you an illustration, because many 
+of us have been talking about this bar-belling of the industry. 
+I am just going to say, for instance, assume you are the CFO or 
+a treasurer, an employee, or a volunteer of a nonprofit in one 
+of your communities, and you have over $250,000 in your 
+operating account to run your nonprofit. The way things stand 
+now with the current limits, you have to do your own credit 
+analysis of your bank or go towards moving your money to a too-
+big-to-fail bank, because you need this--
+    Mr. Foster. Correct. This is, I think, well understood by 
+many, but not all potential customers.
+    Mr. Michaud. But my view is that you need that support. I 
+don't know if it needs to be unlimited, but I do think it needs 
+to be raised considerably. I think it needs to be targeted, 
+because I think it is those small businesses that will choose 
+to be in a too-big-to-fail bank, regardless of the price of the 
+service or the relationship they have with their smaller bank. 
+And that trend will happen over time if deposit insurance isn't 
+changed, in my opinion.
+    Mr. Foster. Okay. Professor Judge, on your end?
+    Ms. Judge. I would agree that when it comes to the small 
+businesses, it is important that they have the peace of mind to 
+know that their transaction accounts at least are safe. And I 
+think the FDIC did a nice job laying out the different options 
+and showing how segmentation, a way of you saying that there is 
+something different for individual accounts and what the 
+appropriate cap is relative to the small and mid-sized 
+businesses that might need meaningfully more deposit insurance 
+in order to make things like payroll. So, trying to think about 
+how we responsibly institute a system of segmentation could be 
+incredibly helpful in promoting the health of community and 
+other small banks, and also helping to promote the stability of 
+the clients that they serve.
+    Mr. Foster. Mr. Michaud, you also mentioned using 
+differential FDIC insurance premiums as a way to sort of level 
+out the barbell. This strikes me as having a lot of elements of 
+a sort of a big banks tax and a redistribution of wealth, if 
+they are not based on actuarial risks. I was just wondering 
+what you think of that, which I am not necessarily opposed to, 
+but we have to sort of treat it for what it is.
+    Mr. Michaud. There is an implicit guarantee in this too-
+big-to-fail position that these banks are in. They get the 
+benefit of paying less for deposits because of the tradeoff for 
+safety, so they are actually getting value in that aspect for 
+being too-big-to-fail. And the question is, can we have them 
+pay more for deposit insurance for some of that value they are 
+getting for being too-big-to-fail? That is the thinking.
+    Mr. Foster. One of the reasons that I think Chairman 
+McHenry and I are fans of contingent capital, is a mechanism 
+for making the big banks pay for the tail risk of their 
+continued existence in troubled times. Are there any lessons to 
+be learned about the market-to-market of losses due to interest 
+rate shifts, because that is something that we struggled with 
+during the Dodd-Frank time, with the market of mortgage-backed 
+security losses, whether you should immediately recognize those 
+or allow the fiction that these will be carried to maturity, 
+which may or may not turn out to be true. Are there lessons 
+learned there from any of the witnesses?
+    Mr. Michaud. I think there are, and actually, in my 
+proposal to you all, I did say that there should be some 
+adjustments and that you can put in place targets where there 
+could be limits to a degree of how those ratios come to bear. 
+But the market was very focused on these mark-to-market losses 
+of Silicon Valley Bank, for example, even though it wasn't 
+necessarily counted in certain regulatory ratios. And I think 
+there is an opportunity to amend some of that approach that 
+could build a safer and sounder system. Also, remember we have 
+had a 5 basis point move in 14 months, which is extraordinary, 
+but that is what the rules should be built for.
+    Mr. Foster. It was clear to all market participants that 
+there was an interest rate shift coming, that was telegraphed 
+in advance, and that it would be big, and many banks hedged 
+appropriately and some decided that they wanted to be more 
+profitable this quarter and not pay for the hedge. So, I 
+personally have sort of limited sympathy because I appreciate 
+the moral hazard effect of this. A lot of the customers who 
+went to Silicon Valley Bank went there because they were paying 
+higher interest rates than their competitors, and part of that 
+was that they had lots of uninsured deposits. So, we have to 
+think this through carefully so that we don't inadvertently 
+just start subsidizing the tail risk and allow those costs on 
+smaller and smaller banks.
+    My time is now up, and I yield back.
+    Chairman Barr. The gentleman's time has expired. The 
+gentleman from Florida, Mr. Posey, is now recognized for 5 
+minutes.
+    Mr. Posey. Thank you very much, Mr. Chairman. As I recall, 
+this committee was told there wouldn't be any bank failures 
+like this if we created the Consumer Financial Protection 
+Bureau (CFPB). I am kind of shocked we are here if the CFPB was 
+doing its job.
+    First, Ms. Tahyar, rates go up, capital values go down. 
+Barron estimated that the undeclared loss on Silicon Valley 
+Bank's bonds due to the rapid run up in interest rates, 
+starting in March 2022, would have wiped out nearly all of the 
+banks $16-billion equity capital base at year end 2022. Would 
+it be fair to say that capital was not the real problem here?
+    Ms. Tahyar. It was not. Capital was a lagging indicator and 
+the banks that failed were well-capitalized upon failure. We 
+saw the same thing with adequate capitalization during the 
+financial crisis.
+    Mr. Posey. Very good. Thank you.
+    Mr. Gould, is there any reasonable capital standard or 
+level that would have protected against the interest risks of 
+Silicon Valley Bank's asset base in the period after Fed rate 
+hikes began in March 2022?
+    Mr. Gould. No.
+    Mr. Posey. Thank you.
+    Mr. Michaud, wasn't the rapid and massive increase that the 
+Fed began in March 2022, to curtail our 40-year record 
+inflation, a contributing factor in Silicon Valley Bank's lack 
+of liquidity, given that its asset base was heavily invested in 
+fixed-rate mortgage-backed securities?
+    Mr. Michaud. That move was significant. Correct.
+    Mr. Posey. Thank you.
+    Professor Judge, to what extent did the Federal Open Market 
+Committee (FOMC) anticipate the kinds of interest rate impacts 
+we saw with Silicon Valley and prepare an alert or strategy for 
+regulators to prepare for such impacts?
+    Ms. Judge. The overarching aim of the FOMC is to fulfill a 
+dual mandate focusing on both employment and price stability in 
+a period where inflation was rising rapidly, not just in the 
+United States, but in countries around the world, and their 
+primary focus for the health of the economy, I believe, was 
+probably trying to make sure that we managed to promote price 
+stability, and get that inflation under control.
+    And precisely because of these environments, it has never 
+been more important to have sufficiently-robust regulatory 
+structures in place and to make sure going forward, that we 
+have supervisory structures that are responsive to a rapidly-
+changing environment. And when there are not procedural hurdles 
+or perceptions of procedural hurdles that allow people to 
+respond quickly and appropriately in the face of such a 
+rapidly-changing environment.
+    Mr. Posey. My questions are answered, Mr. Chairman. I yield 
+back. Thank you.
+    Chairman Barr. The gentleman yields back. The gentlewoman 
+from New York, Ms. Velazquez, is now recognized.
+    Ms. Velazquez. Thank you, Mr. Chairman. Professor, Judge, 
+the rescue of depositors at Silicon Valley Bank and the 
+invocation of the systemic risk exception by Federal regulators 
+demonstrates that regulators think regional banks can pose a 
+systemic risk to the system. Do you think that these banks 
+should face the same rules as the gypsy banks?
+    Ms. Judge. There continues to be some differences between 
+large regional banks and the global systemically important 
+banks (G-SIBs). I think all of the proposals on the table 
+recognize some differences, but the question is the extent of 
+the magnitude of what those differences should look like.
+    And one of the things that we have learned over the course 
+of this episode is regardless of what might have seemed 
+reasonable at an earlier point in time, these banks are so 
+systemic that everybody involved, who was operating in real 
+time, felt like they posed a meaningful threat to the stability 
+of the financial system. The risks at Signature looked somewhat 
+different than the risk at Silicon Valley Bank. So, this was 
+not just one single bank or a whole variety of different bank 
+models that were under strain. And what we have further learned 
+is that the resolution of these banks is far from easy to do.
+    Even with respect to First Republic, where we did not 
+actually have to invoke the systemic risk exception, we saw a 
+$13-billion hit to the Deposit Insurance Fund, which suggests 
+that we have a long way to go to make sure that they are 
+regulated in a manner commensurate with the risk they pose.
+    Ms. Velazquez. Thank you. You note in your testimony that 
+bank leaders can seek to game the rules and take on additional 
+risks in order to seek higher profits. I recently wrote a 
+letter, with Senator Van Hollen, to Federal regulators 
+encouraging them to finalize their rulemaking under Section 956 
+of Dodd-Frank, which is supposed to prohibit incentive-based 
+compensation structures that encourage excessive risk-taking. 
+Wouldn't you agree that it is well past time for regulators to 
+finalize this important rule?
+    Ms. Judge. It is clearly past time for that rule to be 
+finalized. I think the letter is exactly what we need to create 
+the pressure to try to make sure the regulators are fully using 
+the suite of tools currently available to them, that Congress 
+has given them to address the incentive issues that continue to 
+arise. And that encourage bank management at times to take 
+risks from which they could profit, but where others bear the 
+loss.
+    Ms. Velazquez. Thank you. And you also note that the tools 
+that regulators have to penalize and remove bank officers and 
+hold them accountable remain inadequate. What additional 
+measures should we consider to hold bad actors accountable?
+    Ms. Judge. A more robust set of callback tools will also be 
+appropriate as the situation well demonstrates. Clawback tools 
+are a mechanism of responding when an executive has received 
+compensation because they appeared to be earning it, but where 
+we know with the benefit of hindsight that they were actually 
+making decisions that undermined the safety and soundness of 
+the institutions they were overseeing and imposing costs that 
+ultimately hit the Deposit Insurance Fund. We want to make sure 
+the bank executives, first of all, don't have the incentive to 
+take the types of risks that would undermine the health of 
+their institutions because they know they are going to have to 
+pay the money back, and where there is a greater sense of 
+fairness, that they are not profiting at the expense of others.
+    Ms. Velazquez. Thank you. In your testimony, you state that 
+in 2019, the Federal Reserve made a choice to implement the 
+Economic Growth, Regulatory Relief, and Consumer Protection Act 
+in a manner that was meaningfully more deregulatory than the 
+revised statutory scheme required. Can you further explain this 
+statement, and how do you think Congress, not regulators, can 
+address this issue?
+    Ms. Judge. Two points there, the first thing to note is 
+that Congress potentially appropriately at the time gave the 
+Fed discretion over what to do with banks of certain thresholds 
+with the idea that the Fed was closer to the ground, so they 
+might have better information over how risky banks, for 
+example, in the $100-billion to $250-billion range, actually 
+were and the appropriate suite of enhanced prudential 
+requirements to apply in light of that. And we saw that they 
+did not actually use that discretion in a manner that was 
+commensurate with the risk we now know that those banks were 
+assuming. For me, that suggests going forward, we have been 
+back on that discretion, understanding that there might be a 
+tendency towards excessive deregulation, because the costs are 
+only felt in the future, and really trying to potentially 
+hardwire standards that are more commensurate with what we have 
+learned recently is the nature of the threat that these banks 
+have the potential to pose.
+    Ms. Velazquez. In conclusion, Congress needs to act. Thank 
+you. I yield back.
+    Chairman Barr. The gentlelady yields back. The gentleman 
+from Missouri, Mr. Luetkemeyer, is now recognized.
+    Mr. Luetkemeyer. Thank you, Mr. Chairman, and I thank our 
+witnesses for being here today.
+    I want to start out by going to Ms. Tahyar. You mentioned 
+in your initial remarks that the social media phenomenon of 
+being able to get out there and get a message out there that 
+caused, I think, in somebody's words here, a ``banking panic,'' 
+is very concerning, not necessarily from a bank by bank basis, 
+but from a systemic situation. This is where I want to go with 
+my questions here, because some individual banks are going to 
+be well-run, and some not well-run. And in the situation we 
+have here, I think we have a lack of regulatory oversight 
+embankments management on the two, three banks we are talking 
+about, but the system is what I am concerned about.
+    The overall system can be played with. I sit on the House 
+China Select Committee as well, and it scares the dickens out 
+of me when I can see that we are playing games with our own 
+financial system now while the tweets are going on and their 
+social media is going on. And I just know the Chinese are 
+sitting there watching what is going on.
+    So, we have another tool in our toolbox to play around with 
+the United States economy, their banking system, and we are 
+doing nothing about it. And it is very concerning to me because 
+from a system standpoint, we have to be thinking in terms of 
+what the bad guys are going to be doing to us, and to be able 
+to prevent that from happening, or put a tool in toolbox for 
+the regulators to be able to manage the crisis.
+    Mr. Gould, I think you said that the system is built on 
+trust and confidence, and Mr. Michaud said it is driven by 
+fear, that people lose time or lose confidence in the system, 
+and things happen. My concern is also that we have real-time 
+payments coming around the corner here shortly. And we saw $42 
+billion went off the books of Silicon Valley in less than 48 
+hours. And real-time payments will take 48 minutes to do $42 
+billion if we are not careful, and we don't understand how the 
+system works and put some things in place to stop it.
+    I have a couple of ideas I want to run by you this 
+afternoon. One is to put in place the ability for the FDIC to 
+put--and they did this back in 2010--in place a 60-day ability 
+to protect the transactional accounts and deposits at these 
+institutions across the country. And now, they can do it on a 
+bank by bank basis, but if the risk is systemic enough that we 
+could have the whole system be under attack, I think it would 
+be worthwhile to be able to have them go at least on a 60-day 
+basis with just transactional accounts. What do you think about 
+that, Ms. Tahyar?
+    Ms. Tahyar. Thank you very much for those thoughts. I agree 
+with all of them, and they terrify me as well, and I think we 
+should all be terrified. Social media and bad state actors in 
+this panic is a new thing and we have to grapple with it.
+    My own view is that providing the FDIC the power with the 
+three keys of the systemic risk exception to temporarily 
+guarantee deposits up to whatever level the FDIC chooses, is an 
+important tool. Congress limited it, and Dodd-Frank was a 
+different time, and the house was burning for a different 
+reason. It feels to me like what Congress said is, thank you 
+very much for the firefighting, now we are going to defund the 
+firehouse. So, I hope that Congress really thinks about putting 
+that back in place.
+    Mr. Luetkemeyer. Mr. Michaud?
+    Mr. Michaud. I would agree. I think orderliness is 
+important, and I think that tool could create a more-orderly 
+moment to address the bigger picture and make important 
+corrections.
+    Mr. Luetkemeyer. I think it makes them calm, and the system 
+gives you 60 days to settle down to figure out if you really 
+have a threat or not.
+    Mr. Michaud. One hundred percent.
+    Mr. Luetkemeyer. Can you come to Congress to do something, 
+but you don't have a threat ticket off and off you go?
+    Mr. Michaud. What you will see is there is a lot of churn 
+in equity and fixed-income markets and bank securities, which 
+is a reinforcement for concern.
+    Mr. Luetkemeyer. Mr. Gould, what do you think of that?
+    Mr. Gould. I think you should just make sure you understand 
+the cost and the incentive of such a mechanism with the SEC 
+going forward. And I think as a prerequisite to informing 
+yourself as to whether that is appropriate, I think you need to 
+get more transparency from the Fed and the FDIC as to actually 
+what happened during that 3-day time period, which I think, as 
+yet, we still haven't seen. So in order for you all to make an 
+informed decision, I think you first and foremost need to get 
+more information from them.
+    Mr. Luetkemeyer. Very good. We had SEC Chairman Gensler 
+here a couple of weeks ago, and we asked him whether he had the 
+authority to stop the short-selling on an industry-wide basis. 
+In fact, today in The Wall Street, there is another article 
+with regards to short-selling banks.
+    Ms. Tahyar, do you think that he has the authority right 
+now to do it across-the-board? He kind of waffled on that.
+    Ms. Tahyar. Well, the Chair of the SEC did it in September 
+2008 and nobody questioned the authority at that time.
+    Mr. Luetkemeyer. Okay.
+    Ms. Tahyar. So, he clearly has it.
+    Mr. Luetkemeyer. Okay. Thank you very much. I yield back.
+    Chairman Barr. The gentleman's time has expired. The 
+gentleman from California, Mr. Sherman, is recognized for 5 
+minutes.
+    Mr. Sherman. Thank you. I don't think we can tell the bank 
+regulators that it is not their fault because we had different 
+monetary policies or fiscal policies over the last few years. I 
+am very old, and we have some other old people here. We have 
+some young people too, some younger than myself. But as old 
+people remember, we have had zero-percent interest rates, and 
+we have had 16-percent interest rates. Interest rates go up, 
+and interest rates go down. We have had fiscal budgetary 
+surpluses under Clinton, and we had enormous fiscal budgetary 
+deficits under Trump and others. Fiscal policy goes up, and 
+fiscal policy goes down. We need a banking system where banks 
+can survive not only the existing fiscal and monetary policy, 
+but changes as they may occur.
+    Mr. Gould, you are wise to have pointed out the governance 
+structure of the Fed and the whole system. First, we have forum 
+shopping. We don't allow that and you can't say, well, I don't 
+like this IRS; I want to go to the other IRS to audit my 
+returns. And we have a governance structure in which the banks 
+elect the people on their regional boards, who are then in 
+charge of auditing them. And if we had a system where only 
+billionaires subject to audits would determine who is running 
+the IRS, we would have a very different tax system.
+    Mr. Michaud, you bring up an interesting proposal on FDIC 
+insurance. We kind of have two proposals. One is for expanding 
+coverage of operating accounts. When you say operating 
+accounts, are you limiting that to non-interest bearing 
+checking accounts?
+    Mr. Michaud. Pretty much operating transaction accounts as 
+defined.
+    Mr. Sherman. Yes. How would you define that?
+    Mr. Michaud. Typically, I think it would be the operating 
+accounts that businesses and nonprofits and others use for 
+their daily business. And it could be--
+    Mr. Sherman. It is very hard to determine am I a business, 
+or am I just an individual? Do they have a definition?
+    Mr. Michaud. In their report, the FDIC laid it out and gave 
+you the bookends for what you could use for a definition.
+    Mr. Sherman. Okay. I would think that we would want to 
+limit that to non- or low-interest rate accounts if people have 
+more than a quarter million dollars to invest earned interest. 
+That is a different circumstance.
+    The other policy idea is having, on occasion, temporary, 
+system-wide unlimited insurance. And I am concerned that if we 
+did that, people would pull their money out during that 
+temporary period or we make it permanent and just have total 
+FDIC insurance, which comes very close to a bailout.
+    Mr. Michaud and Mr. Gould, do you see unlimited insurance 
+of all FDIC accounts either temporary or permanent as a way to 
+go?
+    Mr. Michaud. I have been a fan of the targeted approach, 
+which is you can pick certain types of accounts, but not 
+necessarily insuring all accounts.
+    Mr. Sherman. I want to put up this chart here. What we see 
+here is huge, unprecedented, unrealized losses on marketable 
+securities. We saw our 2018 law allow the Fed to not be tough 
+on these issues with regard to mid-sized banks.
+    Ms. Judge or Mr. Gould, is it standard practice as part of 
+regulating a bank to calculate how much the bank has lost 
+because of interest rate risk? You can do that, obviously, on 
+marketable securities, but on portfolio loans, you say, ah, 
+that is a 5-year loan, at the time the loan was extended rates 
+were at 2 percent for 5-year loans. Now, they are at 6 percent 
+for 5-year loans, so it's pretty easy to calculate back and 
+determine how much the bank has lost. And then, compare those 
+losses, unrealized losses, on loans and bonds to the bank's 
+capital. Is that a standard part of regulating a bank?
+    Ms. Judge. Clearly, it is for the largest banks.
+    Mr. Sherman. But we couldn't do it with all the banks, 
+could we?
+    Ms. Judge. As a regulatory matter going forward, we should 
+be clear--
+    Mr. Sherman. So, you are saying that preparing a schedule, 
+showing losses due to interest rate risk, is something we 
+didn't bother to do on mid-sized banks, not because it is hard, 
+but because we didn't want to know the answer?
+    Ms. Judge. I don't know what they were looking at, at the 
+time. I believe if I am going to provide any defense that there 
+was an expectation that you would have some type of offset, the 
+regional banks--
+    Mr. Sherman. What you do is you blind yourself to how much 
+money you have lost by believing your customers are willing to 
+subsidize you by leaving the money in. If you believe that, you 
+would probably run up a $35-billion cost to our system.
+    Ms. Judge. Which is exactly why, going forward, regardless 
+of what was true in the past, depositors have woken up and it 
+is very clear we need to--
+    Chairman Barr. The gentleman's time has expired. The 
+gentleman from Texas, Mr. Williams, is now recognized.
+    Mr. Williams of Texas. Thank you, Mr. Chairman, and thank 
+you all for being here today. Americans are struggling under 
+the weight of crippling inflation and families are being forced 
+to decide whether to put food on the table or pay the rent. The 
+Biden Administration's massive spending spree of Executive 
+Orders has fueled this crisis. The Democrats' partisan American 
+Rescue Plan injected $1.9 trillion into the economy, ignoring 
+the warnings that this plan would cause skyrocketing inflation. 
+And as a result, the Federal Reserve has continued to increase 
+interest rates to their highest levels since 2007.
+    Mr. Gould, in your testimony, you stated that the Federal 
+Reserve's rapid interest rate hikes are a source of systemic 
+risks to the banks. They supervise and were a cause of Silicon 
+Valley Bank's failure. So, can you elaborate on how interest 
+rate hikes caused these bank failures and how do you think the 
+Fed failed to supervise the banks they oversee for this risk?
+    Mr. Gould. Yes, sir. The rising interest rate risks caused 
+the bond portfolio, the investment portfolio of banks like SVB 
+to decrease and accrue all of these unrealized losses, which 
+investors began to pick up on and see that there were 
+significant unrealized losses on the bank's assets on their 
+balance sheet.
+    This is a phenomenon that was well-understood, and well-
+known. In fact, as recently as a month before Silicon Valley 
+Bank's failure, the Fed Board made a statement on the impact of 
+rising interest rate risks, on banks, on their balance sheets 
+and their investment portfolios. And literally, the case study 
+was Silicon Valley Bank a month before it failed.
+    Mr. Williams of Texas. The Federal Reserve's report 
+reviewed the supervision of Silicon Valley Bank. Key findings 
+determined that Silicon Valley Bank's board of directors--you 
+just touched on that--failed to manage the risks. On top of 
+that, the key findings go on to say Fed supervisors did not 
+appreciate the extent of the bank's vulnerabilities. In 2022 
+alone, the Federal supervisor issued three findings on SVB's 
+ineffective board oversight, their weakness in risk management, 
+and the bank's flaws in their internal audit function.
+    So, it should raise major concerns that the Federal 
+Reserve, which is tasked with regulating and overseeing banks' 
+risky practices, identified vulnerabilities for more than a 
+year but failed to take corrective actions to ensure that SVB 
+fixed those problems. So despite there being two main causes of 
+the SVB failure, the Fed report stated this experience 
+emphasized why strong bank capital matters and goes on to 
+discuss the need for stronger bank capital.
+    So again, Mr. Gould, in your opinion, would you think about 
+requiring more regulatory capital above the current levels? 
+Would that have prevented the failures of Silicon Valley Bank 
+and Signature Bank, which were well-capitalized banks? Would 
+high capital levels have prevented SVB mismanagement or the Fed 
+supervisory failures?
+    Mr. Gould. Sir, even under higher capital standards, it 
+would seem that according the Fed report, Silicon Valley Bank 
+would have remained adequately capitalized. I think there are 
+questions around whether or how to treat unrealized losses in 
+certain investment portfolios, and whether or not that 
+volatility should flow through to regulatory capital. I think 
+those are questions that should be examined. But at least as I 
+understand it, regulatory capital levels at SVB, even had they 
+been higher, would have still been met.
+    Mr. Williams of Texas. Okay. As a result of the failures of 
+banks in California and New York, taxpayers in Texas, which is 
+where I am from, and across the United States could be left 
+footing the bill for these banks' mistakes and mismanagement. 
+And now, Texas banks face possible FDIC insurance assessments 
+for something they had no part in creating. The FDIC has an 
+obligation to get the best pricing at failed bank auctions and 
+to avoid having to use taxpayer funds to bail out these banks. 
+During the auctions of SVB and Signature, the FDIC did not move 
+fast enough to find a viable buyer, letting multiple days pass. 
+Well, there were reports of several offerings to these banks 
+before a bid was approved.
+    So finally, Mr. Gould again, could taxpayers have been 
+spared from paying for the failures of these banks if the 
+bidding process had moved more forcefully and swiftly, and did 
+the FDIC leave value on the table?
+    Mr. Gould. Congressman, it is certainly the case. A failed 
+bank is often likened to a melting ice cube in that you want to 
+move quickly to sell it, to preserve as much franchise value as 
+possible. I think the situation is simply that we don't have 
+all of the facts, or at least as I sit here, I don't have all 
+of the facts about what actually occurred over these weekends. 
+But you are not similarly limited. You can obtain from the FDIC 
+the facts since you are their overseer.
+    Mr. Williams of Texas. I am in the car business, and 
+sometimes we say, your first deal is the best deal. You want to 
+react and sell it. So with that in mind, Mr. Chairman, I yield 
+back. Thank you.
+    Chairman Barr. The gentleman yields back. The gentleman 
+from California, Mr. Vargas, is now recognized.
+    Mr. Vargas. First of all, thank you, Mr. Chairman. I 
+appreciate the opportunity to have this hearing. I want to also 
+thank the ranking member, of course, and the witnesses here 
+today.
+    I do have to say I want to challenge the premise that 
+somehow President Biden has created all this inflation in the 
+United States. In fact, it is interesting because it has been a 
+worldwide phenomenon. If we look at our peers across the ocean, 
+our European peers, they have been running harder than we are. 
+The U.K. inflation rate is over 10 percent. The EU is still at 
+8.8 percent or so. Some notion that somehow miraculously or 
+infamously, the Biden Administration created it--no, obviously 
+it was the pandemic, and a whole bunch of other problems that 
+we have had globally, and we have had international inflation. 
+It has been everywhere.
+    Anyway, I just had to get that off my chest because every 
+time I hear my colleagues say, I just don't think it is true. 
+Dodd-Frank, what is a good loan? Was it the right thing to do 
+at the right time, Dodd-Frank? Let me start with you, Professor 
+Judge.
+    Ms. Judge. I think it seemed like a reasonable move at the 
+time. And I think over time we are learning we probably should 
+have gone further when we had the opportunity. Clearly, that is 
+proven by the fact that we are sitting here, not that much 
+later, and we are facing the magnitude of the bank failures 
+that we are now facing and of the losses to the insurance fund 
+that we are now facing. Again, some of that was changes in 
+Dodd-Frank and regulatory changes that went even further than 
+the statutory changes. But I think Dodd-Frank brought about 
+much-needed changes. And I think there is always more work to 
+be done. It is the nature of financial regulation.
+    Mr. Vargas. Thank you.
+    Mr. Gould, I think that you said something like, we have 
+passed a bunch of laws, but they haven't done much, or 
+something of that sort. Would that include Dodd-Frank?
+    Mr. Gould. Sir, I think that expectations of what Dodd-
+Frank could accomplish and what some of its proponents said it 
+would accomplish were overstated. As far as I can tell, it did 
+not end the era of boom and bust. At least based on the actions 
+of the regulators just a couple of months ago, it would seem 
+that at least under certain circumstances, there are banks that 
+can fail in ways that would have systemic impact. So at least 
+in two major areas, I think it came up short.
+    Mr. Vargas. Do you think it was a good law in general or do 
+you think we shouldn't have had a law?
+    Mr. Gould. No, sir, I do not think it was a good law in 
+general.
+    Mr. Vargas. Okay. Thank you.
+    Ms. Tahyar?
+    Ms. Tahyar. Dodd-Frank was what, 800 pages, with a dozen 
+titles? There are good parts of it. And there are parts of it 
+that, as Jonathan has said, were overstated. I think the 
+paradigm shift in macroprudential regulation was a good one. I 
+think time goes on and things change, and there is a need for 
+adjustments in some places.
+    Mr. Vargas. Okay. It would be unfair, Mr. Michaud, if I 
+didn't ask you. Go ahead, sir.
+    Mr. Michaud. Terrific. Thank you. I think that Dodd-Frank 
+succeeded in bringing more capital and liquidity regulation to 
+the industry, which has been well-served. But I think that 
+there are parts of it that might have gone a little bit too 
+far, and still might need adjusting, but I think the 
+preponderance of it was supported from capital and liquidity. 
+And I don't think the banks that failed, failed because of 
+capital or liquidity. I think they were overwhelmed by a bank 
+run at a moment in time.
+    Mr. Vargas. Let's get to that. In fact, that was one of the 
+points that I wanted to talk about. I do believe we should have 
+very large banks. I think that is good for the United States 
+and good internationally. I also think that regional banks are 
+very, very important. And of course, the smaller community 
+banks are important, but they always seem that they would be 
+susceptible, both the regional and the community banks to a 
+run, especially with the digitized ability to move money so 
+quickly, so won't they always strategically be vulnerable? Yes, 
+go ahead?
+    Mr. Michaud. And just to finish saying, I didn't want to 
+also not say that there were mistakes made about interest rate 
+management to that prior question. I am not absolving those big 
+banks that have failed.
+    Mr. Vargas. Right. Let's speak about this one.
+    Mr. Michaud. I think these companies are trying to build 
+themselves in a more diversified manner. As long as they manage 
+their concentrations and their capital well, look, there are 
+4,700 other banks that are doing it successfully right now. I 
+know that these three failures were spectacular and 
+unfortunate, but there are over 4,700 that are doing a really 
+good job, I believe.
+    Mr. Vargas. Yes. Thank you. My time has almost expired. But 
+I want to say it just seems that structurally, when you can 
+move $42 billion within a few days, it is always going to be 
+structurally problematic. Thank you.
+    Chairman Barr. The gentleman's time has expired. The 
+gentleman from Georgia, the Vice Chair of the Subcommittee, Mr. 
+Loudermilk, is recognized for 5 minutes.
+    Mr. Loudermilk. Thank you Mr. Chairman, and thank you for 
+holding hearings on this issue, hearings that are extremely 
+important with the things that are going on. So, it is great 
+that we are actually able to address these types of issues now.
+    Mr. Gould, in hindsight, the interest rate problem should 
+have been clear, not the least to the Federal Reserve in the 
+case of Silicon Valley. And in Vice Chairman Michael Barr's 
+report, he attributes the lack of concrete supervisory action 
+in the lead-up to SVB's failure to a myriad of causes including 
+supervisory culture under the previous Vice Chair for 
+Supervision. Do you think this is an accurate self-assessment 
+from the Fed or could this just be simply shifting the blame?
+    Mr. Gould. Sir, it is impossible to tell, since, for 
+example, we don't have the interview notes on which those kinds 
+of allegations are based. So for me sitting here, it is 
+impossible to tell, but it can certainly be the latter.
+    Mr. Loudermilk. Okay. Considering the Federal Reserve 
+supervisors failed to anticipate obvious systemic risks 
+directly related to their own response to rapid inflation, do 
+you believe it is appropriate that they continue pursuing other 
+major supervisory initiatives such as Basel Endgame or Vice 
+Chairman Barr's holistic capital review?
+    Mr. Gould. I think they should focus on their supervisory 
+failures and enforcing the regulations that are on the books 
+rather than pursuing additional regulations.
+    Mr. Loudermilk. Basically, do the job that you already have 
+appropriately before you start taking on more responsibilities 
+or you are just going to fail on those?
+    Mr. Gould. That is correct.
+    Mr. Loudermilk. I agree with you on that. Thank you. One of 
+the recommendations in Mr. Barr's report is that we work to 
+change supervisory behavior and promote faster, more decisive 
+supervisory action. My concern with this is that many of the 
+supervisory recommendations made in relation to SVB were 
+unrelated to the risks that caused the collapse. How would we 
+guarantee that unbridled supervision wouldn't create an 
+environment where supervisors dictate management decisions 
+unrelated to safety and soundness?
+    Mr. Gould. I think that is an excellent question, and one 
+which I think supervisors grapple with all the time. I think 
+internally, you obviously need to have a strong management 
+culture. Unlike regulation, if you are an examiner, your 
+training is on the ground, it is based on judgment acquired 
+over years of experience. All of the regulators will say that 
+they apply kind of a risk-based focus to how they think about 
+supervision and making sure that they are in fact, focused on 
+the risks that really matter versus kind of check-the-box 
+exercises on extraneous risks that don't actually matter, it is 
+really tough.
+    And frankly, there is also always a cost from the bank 
+management perspective, if you have several dozen MRAs, they 
+might be distracted, rather than focusing on the MRAs that 
+really matter. Understanding that, I think is really a function 
+of having good leadership and good training.
+    Mr. Loudermilk. But one thing just brought up is culture. 
+And one of the issues that I have seen with the culture of 
+regulators, as we have seen this transition from the idea that 
+originated in agencies is to work in partnership with industry 
+to come up with regulations that ensure safety and soundness. 
+But in many cases, we see a culture that is adversarial-based, 
+where regulators are the adversaries, or at least are viewed as 
+adversaries by the banks or financial institutions or the 
+businesses. Is that what we are seeing in a lot of these 
+financial regulators? Is it an adversarial relationship.
+    In other words, we see that a lot in management 
+supervision, which changes depending on who is in the White 
+House at the time. But when it comes to the regulators on the 
+ground, is that culture an issue? Is it is more of a, 
+``gotcha,'' environment, instead of, let's ensure the soundness 
+and safety of your bank.
+    Mr. Gould. I think that is a risk. The banking agencies' 
+prudential regulation is very different from say, the SEC and 
+the CFTC, which are market regulators and viewed more as 
+enforcement agencies. I think there is a potentially worrisome 
+trend of the banking agencies looking more and more like 
+enforcement agencies over time. I don't know if that serves the 
+larger policy interest of maintaining systemwide safety and 
+soundness, if they adopt kind of a more, ``gotcha,'' attitude.
+    Here though, at least, based on what the Fed report says 
+about Silicon Valley Bank, I don't think the issue was a 
+failure to be adversarial. I think there was just a lack of 
+follow-through and allowing these issues to linger and get 
+bigger and bigger and not be addressed.
+    Mr. Loudermilk. Thank you. That was part of the point is, 
+in some areas it is adversarial, and in some areas it is like, 
+let's turn our eye to this one. So thank you, Mr. Chairman, and 
+I yield back.
+    Chairman Barr. The gentleman yields back. The gentleman 
+from Illinois, Mr. Casten, is now recognized for 5 minutes.
+    Mr. Casten. Thank you to the gentleman from Kentucky and 
+all of our witnesses. I appreciate you being here on these 
+important issues. I also feel a little bit like that scene in 
+Planes, Trains, and Automobiles, where you know they are you 
+are going the wrong way, even know where we are going. Like 
+Neal and Del, there is a lot of bad stuff in the rearview 
+mirror, but what is coming down the pike is a lot worse right 
+now.
+    Professor Judge, I want to start with you. Treasury 
+Secretary Yellen has said that we are going to be unable to pay 
+our bills by June 1st, if we don't come to some agreement on 
+the debt ceiling. Do you have any sense of what is going to 
+happen to Treasury yields if we miss a payment?
+    Ms. Judge. Clearly, resolving the debt ceiling has to be a 
+top priority. The Biden Administration is making it a top 
+priority. They are looking for cooperation. We clearly are 
+going to see adverse consequences on the ability of the U.S. 
+Government.
+    Mr. Casten. I am asking just numerically, because I don't 
+have a Bloomberg terminal in front of me. When I looked 2 weeks 
+ago, there was about a 300 basis points spread between 
+Treasuries coming through before and after the default date. I 
+don't know if you all have seen--
+    Ms. Judge. I don't have a number off the top of my head. 
+There are various estimates that have been out there, none of 
+which look pretty.
+    Mr. Casten. Okay. We are talking about rapid interest rate 
+spikes that created mark-to-market problems where it was that 
+volume of an increase over 9 months. Do you have some sense of 
+how many banks are about to get, ``SVB'd,'' from a mark-to-
+market perspective if all of a sudden there is a roughly 300-
+percent increase in interest costs on Treasuries?
+    Ms. Judge. I expect a number of banks will face challenges 
+if there is a significant change in the Treasury rate. Again, I 
+think a lot of what banks hold are longer-term instruments that 
+are also keyed off of the risk-free rate. So it is interesting 
+and challenging to know, which is precisely why going back to 
+where you started, it is never been more important for 
+regulators and for supervisors to be engaging in these forward-
+looking analyses and trying to understand, what are the tail 
+risks?
+    Mr. Casten. Second question. My colleague was talking about 
+Dodd-Frank. We don't require banks to hold capital for risk-
+free assets. If Treasuries are about to not get risk-free, 
+there is something like an 8-percent capital charge. How much 
+capital do the nation's banks have to raise if the Treasuries 
+are suddenly deemed to be not risk-free assets?
+    Ms. Judge. It is a great question. I don't have the number 
+for you off the top of my head.
+    Mr. Casten. Does anybody on the panel know that? The 
+numbers I have heard are at the low end of that as $160 billion 
+overnight? I see heads nodding directionally. Okay.
+    Mr. Gould. It depends on the risk weight to which they 
+would be subjected.
+    Mr. Casten. Sure. But if you just look at like 8 percent of 
+what is out there right now, it is a big number.
+    Mr. Gould. Correct. It is a big number. I don't know the 
+number, but it is a big number.
+    Mr. Casten. Are you concerned about any banks that might 
+not be able to raise that volume of capital overnight?
+    Ms. Tahyar. I don't see how banks can raise capital in the 
+middle of a debt default.
+    Mr. Casten. Me, neither. What happens to repo markets, if 
+the Treasuries that are used as the swap on the risk-free 
+premium are no longer risk-free?
+    Mr. Michaud. This would be a new moment for the markets. 
+And I think there would be a lot of big concerns in a variety 
+of areas to deal with, if that happens.
+    Mr. Casten. Okay. If we allow the United States economy and 
+the global economy to go into freefall, what happens to long-
+term U.S. structural deficits, as the American people are 
+looking for us to provide social services that the banks can no 
+longer lend money to provide up or down? Do tax revenues go up? 
+Can they go up?
+    Ms. Judge. A range of bad things can happen, which is why 
+it is all the more important that we are having this hearing 
+and really trying to figure out, how do we make sure the banks, 
+but also non-bank financial institutions, are prepared for the 
+range of risks that might hit at any point in time?
+    Mr. Casten. Okay. Last question. Moody's did an analysis of 
+the proposal that my colleagues across the aisle have put 
+forward, in exchange for not committing suicide, we would thank 
+the economy. Moody's analysis is that it would increase the 
+likelihood of recession and result in 780,000 fewer jobs. If we 
+go into recession and spike the unemployment rate, do long-term 
+structural deficits go up or go down? It is not a trick 
+question.
+    Ms. Tahyar. They go up.
+    Mr. Casten. Thank you. Like I said, we are going the wrong 
+way. And my colleagues across the aisle would have us believe 
+that the only choice before us is, how we would like to die? 
+There are more choices that we have. And I hope we can take 
+this issue seriously and move forward and not kill the entire 
+U.S. economy over some pettiness because somebody doesn't like 
+a prior tax vote or a prior spending vote.
+    I yield back.
+    Chairman Barr. The gentleman yields back. The gentleman 
+from Tennessee, Mr. Rose, is now recognized.
+    Mr. Rose. Thank you, Chairman Barr, and thank you Ranking 
+Member Foster, for holding the hearing, and thank you to our 
+witnesses for being here.
+    At the start, I want to respond quickly to Mr. Vargas' 
+opening comments about inflation and what I would call the 
+Biden inflation. Years ago, my professors at Tennessee taught 
+me that inflation is caused when you have too many dollars 
+chasing too few goods and services. So, I reflect back to a 
+couple of years ago when many of us in this room were sounding 
+the alarm, as the Biden Administration was kind of doubling 
+down on the COVID relief funds at a point when even people like 
+former Treasury Secretary Larry Summers was saying, ``This is 
+going to be inflationary.''
+    The fact that other countries made the same mistake does 
+not excuse the bad policy choices that the Administration put 
+in place, of not only putting too many dollars in the economy, 
+but also, at the same time, restricting production, which dealt 
+with the other side of that equation so that we ended up with 
+that classic situation that causes inflation. And we got it in 
+just as former Treasury Secretary Summers predicted. And 
+unfortunately, we oftentimes have to repeat the mistakes of the 
+past. I just wanted to answer that.
+    So, the Administration's own policies, I think, got us to 
+where we are today. I think that is important because then the 
+response, the policy response to that from the Fed has been to 
+dramatically raise interest rates in such a short period of 
+time as part of what has created the stresses that we see that 
+are leading to the bank failures that we have seen in recent 
+weeks.
+    Mr. Michaud, First Citizens Bank's stock has nearly doubled 
+since acquiring Silicon Valley Bank, but the FDIC kept its 
+potential gain, our gain on First Citizens stock at $500 
+million. In your opinion, do you think the FDIC got a raw deal?
+    Mr. Michaud. It is very hard for me to know all the 
+features that went into the bid that First Citizens made. And I 
+think typically what happens in these whole bank acquisitions, 
+is there a variety of tradeoffs in terms of what a bank may pay 
+to acquire a failed bank. So I don't know what tradeoff they 
+may or may not have gotten as part of that stock appreciation.
+    Mr. Rose. Why not allow the Federal Government to recoup or 
+the FDIC, in this case, to recoup more of its losses and share 
+in those gains?
+    Mr. Michaud. I think that question would be best for the 
+FDIC to know exactly what the alternatives were at the time, 
+which unfortunately is not something that I know.
+    Mr. Rose. Sure. Thanks for your insights there. Last year, 
+Senator Elizabeth Warren sent a letter urging Comptroller of 
+the Currency Hsu to block the TD Bank-First Horizon deal. And 
+the deal fell apart just last week, because they were not given 
+a timetable for regulatory approvals. And First Horizon stock 
+was down nearly 40 percent last week.
+    So Mr. Gould, do you believe the OCC's actions of being 
+influenced by members of the Democratic Party, like Senator 
+Warren, specifically as it relates to bank mergers, do you 
+believe that their actions are being influenced?
+    Mr. Gould. I would certainly hope not.
+    Mr. Rose. Do you think it is appropriate for regulators, 
+like Comptroller Hsu, to give weight to any one Member of 
+Congress?
+    Mr. Gould. I think it is appropriate for independent 
+regulators to look to the statutory factors that Congress as a 
+whole as a body has required them to do so. And that is where 
+their analysis should begin and end.
+    Mr. Rose. Mr. Gould, we have seen this not only at the OCC, 
+but at the SEC, the FDIC, the FTC, and the CFPB. The list goes 
+on and on. So my question is, is it important for regulators to 
+be apolitical and to make judgments based on objective 
+criteria? I think you have already answered that, but in his 
+report, the Fed Vice Chair for Supervision, Michael Barr, 
+touched broadly on the type of regulations that the Fed may 
+consider in their review of the recent bank failures. According 
+to Barr, actions might include increasing capital requirements 
+and adding early triggers to required stress testing when a 
+bank crosses the threshold from one category to the next. The 
+bottom line is that the incremental costs to the banking 
+industry are likely to fall upon that tier of banks below the 
+G-SIBs.
+    Mr. Gould, my question is, won't these actions just further 
+entrench the G-SIBs and make it harder for the regionals to 
+compete?
+    Mr. Gould. Sir, I think that the imposition of additional 
+kind of regulations on regional banks will have an impact on 
+the specific markets that they serve, including the 
+availability of credit. The comparative analysis, as between 
+one type of bank and another, I think is a little hard to tell. 
+And I would hope that the Fed is thinking that through before 
+they put forward any proposals.
+    Mr. Rose. Thank you. Mr. Chairman, I yield back.
+    Chairman Barr. The time has expired. The gentlewoman from 
+Ohio, Mrs. Beatty, is now recognized for 5 minutes.
+    Mrs. Beatty. Thank you, Chairman Barr, and Ranking Member 
+Foster, and to all of our witnesses, thank you for being here 
+today. I am sorry my colleague, Congressman Vargas, has left 
+for another hearing, but let me say that I want to be on the 
+record as associating myself with his opening statements on 
+inflation.
+    And certainly, if we look back, and I think a report that 
+the President gave just a month or so ago in March talked about 
+looking over the last 12 months at how inflation had actually 
+reduced. And certainly, we know gas and food had contributed to 
+it. Gas prices also came down. My colleague mentioned COVID. 
+Certainly, there were a lot of dollars and things put in place. 
+Over a million people had died because of COVID. Small 
+businesses and the economy was affected. So for those things 
+that he did in that space, I support Mr. Vargas and his opening 
+statements.
+    Now, let me start with Professor Judge. In the resolution 
+of Silicon Valley Bank and Signature Bank, do you think that 
+the Federal Government took the appropriate steps to intervene 
+and prevent contagion by invoking the systemic risk exception 
+and insuring all deposits of both banks?
+    Ms. Judge. Yes, I defer to the policymakers who had the 
+information. But what we see is policymakers of both parties 
+were unanimous in their perception that this posed a threat to 
+the stability of the financial system. And we have seen that 
+actually, no such disruption subsequently materialized, and 
+instead, we managed to maintain a relatively resilient banking 
+system despite major losses.
+    Mrs. Beatty. Some of my colleagues on the other side of the 
+aisle are proposing legislation that would place additional 
+requirements on the President, Treasury, and Federal banking 
+agencies before they can take action to respond to the bank 
+failure.
+    Would those additional requirements, in your opinion, slow 
+down the ability of those agencies to respond to a bank 
+failure?
+    Ms. Judge. Yes. I am very concerned about the way that they 
+might impede the ability for them to respond appropriately. I 
+think that Ms. Tahyar did a great job in her comments earlier 
+comparing the situation to a house on fire, and the first rule 
+is for the firefighters to put out the fire. And I think 
+anything that impedes their ability to make sure the fire is 
+contained, could have adverse consequences on the health of the 
+economy.
+    Mrs. Beatty. Okay. Thank you. We have already spent a lot 
+of time talking about the FDIC and the change to the $250,000 
+limit on deposit insurance. But let me go back to our hearing, 
+I believe it was on March 1st, when I asked Chair Gruenberg 
+about this. And he didn't make a comment on it or declined to 
+make a comment on any particular proposal until the whole 
+review was completed.
+    But earlier this month, I think it was in the FDIC report 
+that they released, they outlined three options for reforming 
+the deposit insurance: it was unlimited; it could be targeted; 
+or it could be limited coverage. And stated that the FDIC 
+believes that targeted coverage will be the most promising 
+option to improve financial stability. Do any of these options 
+resonate with you? And I will ask each one of you.
+    Ms. Judge. Yes, I thought the report was exceptionally 
+well-done. And the notion that we might want more targeted 
+approaches to deposit insurance that allow small business 
+owners to have the additional protection they need and to also 
+maintain that close relationship that they so value with their 
+local community bank, makes a lot of sense.
+    Mrs. Beatty. That prompts me to ask the other Members, do 
+you think Congress should focus on expanding coverage to small-
+business payment accounts?
+    Mr. Michaud. I, 100 percent agree. I think the targeted 
+approach is the right approach. And I think that is the right 
+cohort to focus on.
+    Mrs. Beatty. Mr. Gould?
+    Mr. Gould. I was a Congressional staffer here in 2005, when 
+Congress raised the deposit insurance limits from $100,000 to 
+$250,000 for examiner accounts, and I have seen them go up 
+since then. One thing that I think Congress should really look 
+at is historically, what have the levels been? What problem are 
+you trying to solve? And make sure whatever you do in deposit 
+insurance reform, if you do anything, that it addresses 
+specific problems. And then, you also understand that it is not 
+just deposit insurance reform; you also have other mechanisms 
+to reduce the risk of runs, including from incompetent 
+supervision.
+    Mrs. Beatty. Thank you for reminding all of us or many of 
+us that we raised it recently. And I will end with you, Ms. 
+Tahyar.
+    Ms. Tahyar. I thought the FDIC report was very well-done. I 
+think deposit insurance reform is something Congress has to 
+look at. I have nothing to add except to say that unlimited 
+insurance--we would be the only country in the world to do 
+that, so I would have--
+    Mrs. Beatty. Thank you.
+    Chairman Barr. The gentlelady's time has expired. The 
+gentleman from South Carolina, Mr. Timmons, is now recognized.
+    Mr. Timmons. Thank you, Mr. Chairman. I just want to begin 
+by saying it is shocking to me that some of my colleagues 
+across the aisle are still living in a fantasy land, where they 
+believe that the $7 trillion of extraordinary spending did not 
+cause the highest inflation environment in my life. I just 
+don't understand. I guess, let's just start here. I just want 
+to say that pandemic spending needed to happen. But I would say 
+that number was between $1 trillion and $2 trillion, and that 
+was bipartisan. There was $5 trillion on top of that, that was 
+largely partisan. So I guess just as a show of hands, well, 
+let's just do yes-or-no questions each.
+    Ms. Tahyar, do you believe that the $7 trillion of spending 
+done in the last 3\1/2\ years caused inflation? Just yes or no?
+    Ms. Tahyar. Yes.
+    Mr. Timmons. Mr. Gould?
+    Mr. Gould. Yes.
+    Mr. Timmons. Mr. Michaud?
+    Mr. Michaud. Yes.
+    Mr. Timmons. Professor Judge?
+    Ms. Judge. I look across the Atlantic, and I see the U.K. 
+sitting there, and they engage in--
+    Mr. Timmons. We are going to that next year. You can say 
+no; it is fine.
+    Ms. Judge. It does not seem like it was the perfect--
+    Mr. Timmons. Okay. So, I guess this is the next thing. The 
+dollar is still the global reserve currency until this 
+President undoes that, and he just nominated somebody to lead 
+his Economic Council who believes that we should actively go 
+off the dollar as the reserve currency, which is insane.
+    Mr. Gould, I will start with you. Do you see a relationship 
+between the inflationary environment that we experience in the 
+United States, the reserve currency, and that impacting other 
+countries' inflation and causing hyperinflation in certain 
+countries; is there a relationship there?
+    Mr. Gould. I assume if the value of the dollar is not 
+stable over time, it will lose its appeal as a global reserve 
+currency.
+    Mr. Timmons. And many believe that the inflation being 
+experienced in other countries can be partially blamed on the 
+United States.
+    But let's just go to the issue at hand, SVB. Mr. Michaud, 
+do you think it is best practice to have a chief risk officer 
+for a bank?
+    Mr. Michaud. Yes, I do.
+    Mr. Timmons. Okay. So the fact that SVB didn't have a chief 
+risk officer from April of 2022 until January 2023, that is a 
+problem.
+    Mr. Michaud. I don't know the specifics. But it's something 
+I would look into, given those facts.
+    Mr. Timmons. What do you think is the appropriate ratio of 
+diversity officers to risk officers? Is it at least one-to-one? 
+Fair enough? You don't have to answer that.
+    So, 11 of the 12 branches of the Federal Reserve System 
+were warning banks about stress testing higher interest rate 
+environments, while the San Francisco Fed was beating the ESG 
+drum. They were not communicating in the same way that the 
+other 11 were.
+    Ms. Tahyar, is that a problem? Do you think that the San 
+Francisco Fed should have been telling the banks to stress test 
+higher interest rate environments? Would that be best practice?
+    Ms. Tahyar. I don't know what was going on at the San 
+Francisco banks because we don't have the facts. In theory, in 
+a vacuum, all of the Reserve Bank's should have been focusing 
+on interest rate risks.
+    Mr. Timmons. I have spoken to a number of people who are 
+aware of what they were doing and they were not encouraging 
+that.
+    Let's go to Congress's role in all this. We delegated our 
+authority to bail out future banks because of the Troubled 
+Assets Relief Program (TARP). If Treasury and the FDIC did not 
+have the authority to invoke the systemic risk exception, do 
+you think Congress would have done it? Mr. Gould, what are your 
+thoughts?
+    Mr. Gould. I'm sorry, sir. Do I think--
+    Mr. Timmons. Do you think Congress would have bailed out 
+SVB and Signature, if not for Treasury and the FDIC having the 
+statutory authority to invoke the systemic risk exception?
+    Mr. Gould. That is tough to predict. I recall back in 2008, 
+the first time TARP was up for a vote, it did fail. My guess is 
+it would be tough.
+    Mr. Timmons. Probably not. And the President and the 
+Treasury Secretary said that this was not a bailout. It did not 
+impact citizens all over the country. But unfortunately, with 
+them ignoring the quarter-million-dollar FDIC max and just 
+saying, well, we are just going to insure everybody, that 
+creates risk, which results in initial premiums, which my 
+constituents are going to pay, so that was a lie. It was just a 
+lie.
+    The President focused on this concern about payroll, which 
+would have been met, and the President and the Treasury 
+Secretary focused on the fact that it wasn't a bailout and it 
+wouldn't affect anybody. I don't think that the Federal 
+Government should have bailed out banks which made poor 
+decisions. I think that those banks should have made their 
+customers 90 percent whole, and the shareholders should have 
+lost everything. I think that is what needs to happen when you 
+lose. The free market has corrections. And when Congress gets 
+involved and bails people out, the free market ceases to exist. 
+I do not believe they should have been bailed out, and I am 
+sick and tired of my constituents being stuck with the bill for 
+failed Democrat policies. With that, Mr. Chairman, I yield 
+back.
+    Chairman Barr. The gentleman yields back, and just a 
+reminder to Members not to engage in personalities. With that, 
+the ranking member of the Full Committee, the gentlewoman from 
+California, Ms. Waters, is now recognized.
+    Ms. Waters. Let me thank our witnesses for being here today 
+and sharing the information that you have shared. I have been 
+looking at some of the reports that have been coming out, not 
+only from GAO, but from the Fed, et cetera. And based on what I 
+am seeing, everybody is to blame.
+    You have management at the banks that was not taking care 
+to do what they should be doing, particularly when we look at 
+Silicon Valley Bank. And I don't know who was examining their 
+balance sheets, but they didn't seem to know or understand that 
+many of the securities that they were holding had much less 
+value than when they were acquired, which is one of the 
+problems. I don't know whether, because they were the go-to 
+bank for the young creative business people or the startups, 
+they cared whether or not they had insurance. I don't know a 
+lot about some of the issues that we are beginning to hear 
+something about.
+    But evidently, there were management problems. They grew 
+too fast to begin with, and perhaps they were too lenient in 
+the way that they made loans, too many uninsured depositors and 
+all of that, but the regulators also had problems. Now, some of 
+those problems were created by S.2155, which certainly did, as 
+I remember, reduce the prudential oversight, particularly as it 
+related to stress testing, for example. Now, those who said, we 
+will say that the regulators had options, they could have 
+exercised some of the regulation that was created by S.2155, 
+they didn't have to.
+    But I want to direct this question to Ms. Tahyar. I 
+appreciate that you are knowledgeable in your testimony that 
+the White House and Fed Vice Chair Barr raised constructive 
+ideas to strengthen the regulatory framework for regional 
+banks, some of which you agree with and some you may not 
+specifically. Which prudential standards did they highlight 
+that you think should be improved?
+    Ms. Tahyar. I think the long transition period moving from 
+one category to another is something that ought to be looked 
+at. I also think that the not passing through OCI in capital, 
+which is something that has been on the books since 2013, 
+should be revisited, and I think Vice Chair Barr's statement 
+that size alone is not what makes an institution risky is, in 
+fact, a good one.
+    Ms. Waters. Thank you. Let me just touch on something that 
+is always controversial as we deal with this oversight. Should 
+regulators look to strengthen the stress testing and liquidity 
+requirements, among other prudential standards? When we talk 
+about additional capital, everybody goes crazy. What do you 
+think?
+    Ms. Tahyar. I think there are likely some improvements that 
+could be made there, but I would be reluctant to put the same 
+amount of Liquidity Coverage Ratio (LCR) or high-quality liquid 
+assets (HQLA) requirements on regionals as we have on the G-
+SIBs. I really hope that the regulators will look at that 
+carefully, and be fact-based in the policy changes they make.
+    Ms. Waters. Well, since you are going there, let me just 
+ask you, as I look at our regionals now, I am a bit concerned, 
+and I want to make sure that we can do everything to ensure 
+that they are functioning and that they are safe. But why is it 
+that I keep hearing so much about protection for regionals 
+when, in fact, we know that we would be better off keeping a 
+close eye on them now?
+    Ms. Tahyar. I think I am influenced here, Congresswoman, by 
+the fact that I am from a small town in Michigan, so I know 
+what it is like for small and mid-sized businesses that aren't 
+in major coastal cities. I think our regional banks are the 
+banks that are providing small and mid-sized enterprises with 
+the most credit they can get. When I teach classes, I talk a 
+lot about Joe's Auto Body Shop. He has 25 auto body shops in 
+the Tri-County region. Joe isn't somebody who changes his bank 
+at a click.
+    Ms. Waters. Thank you very much. I yield back.
+    Chairman Barr. The gentlewoman's time has expired. The 
+gentlewoman from California, Mrs. Kim, is now recognized.
+    Mrs. Kim. Thank you, Chairman Barr and Ranking Member 
+Foster, for organizing this timely hearing to discuss the 
+recent bank failures. And I would like to say on the record 
+that I believe the Biden Administration's American Rescue 
+Plan's $1.9-trillion injection into the economy helped spur 
+inflation to 9.1 percent in 2022, an inflation rate that we 
+haven't seen in 40 years. And to tame that inflation, the Fed 
+was forced to act swiftly by raising interest rates at a pace 
+also not seen in decades.
+    Unfortunately, in the State of California, where I am from, 
+we have seen firsthand how partisan economic policies can lead 
+to the failure of two of its biggest banks, wiping out nearly 
+half a trillion dollars in assets in just a matter of days. So, 
+this is why we are having this hearing to get to the bottom of 
+those bank failures, and we are trying to strengthen our 
+financial system and protect the backbone of our economy. Those 
+are the small and mid-sized financial institutions, because 
+they are the ones who provide much-needed capital for our small 
+businesses.
+    Let me ask the first question to Mr. Gould. A lot has been 
+discussed regarding the FDIC's actions to resolve and sell SVB. 
+Do you think it was a mistake by the California Department of 
+Financial Protection and Innovation to close SVB by midday on 
+March 10th?
+    Mr. Gould. Congresswoman, based on what I know from the 
+reports, SVB lost something on the order of over $40 billion in 
+deposits on Thursday. And I think at least based on, again, 
+what I read in reports, regulators anticipated another $100 
+billion was going to flow out the next day. That is, as I 
+understand it, a deposit run of huge magnitude. So, I think the 
+decision to close them was really all that was left to do. They 
+had no other options. I think there are good questions that can 
+be asked about what led up to those events. I think the time 
+Thursday, Friday, looking at those kinds of deposit offloads, I 
+think that gave them great falls.
+    Mrs. Kim. Do you think there could have been other things 
+the California regulator and the FDIC could have done 
+differently in the resolution of SVB?
+    Mr. Gould. Again, I think it is a little hard for us to 
+judge simply because we don't have all of the information of 
+what went on in the period immediately preceding the closures 
+by California. But also, over that weekend, and then in the 
+kind of week or so that elapsed until the FDIC found a buyer or 
+at least a partial buyer.
+    Mrs. Kim. Let me follow up, and then I will ask another 
+question. I know this has already been discussed by previous 
+Members who asked the question, and my understanding is that 
+the regulators have the tools, like S.2155, to prevent bank 
+failures. Can you elaborate on that, because I wasn't here when 
+that conversation took place. Can you elaborate on your 
+thinking on the argument that S.2155 caused the bank failures?
+    Mr. Gould. Sure. The discretion that S.2155 afforded the 
+Fed in particular, but the regulators in general gave the 
+ability to tailor enhanced prudential standards based on the 
+asset size of the banks. They did so over the course of 2018, 
+2019, and 2020. Had SVB been subject to the enhanced prudential 
+standards that would have existed, but for S.2155, with the 
+exception of the LCR, which they would have failed, they would 
+have passed every single other test.
+    And even failing the LCR, it is important to note they were 
+already failing the more important internal liquidity stress 
+testing, and the Fed was not enforcing the existing regulations 
+on the book. And if they had in order to pass the LCR or to 
+pass an internal liquidity stress testing, they would have had 
+to bulk up on even more high-quality liquid assets, which are 
+themselves ironically subject to interest rate risk. So, they 
+would have bought more government obligations, thus increasing 
+their exposure to interest rate risk. That is a perverse and 
+ironic impact of regulation in this particular case.
+    Mrs. Kim. Okay. I only have 9 seconds, so maybe I will just 
+ask that, and hopefully you can follow up with that last 
+question that I was going to ask. I will yield back. Thank you.
+    Chairman Barr. The gentlelady yields back. The gentlewoman 
+from Texas, Ms. De La Cruz, is now recognized.
+    Ms. De La Cruz. Thank you, Chairman Barr, for holding this 
+hearing today, as this committee seeks to continue to uncover 
+facts around the recent bank failures at Silicon Valley Bank 
+and Signature Bank, and most recently, First Republic Bank. It 
+is critical that this body continues to investigate the 
+circumstances around these bank failures and how the Biden 
+Administration and the financial regulators responded to these 
+events. I am the Congresswoman in South Texas, and most of my 
+community is rural. And a lot of my constituents rely very 
+heavily on smaller institutions or regional banks. So, this is 
+an area of particular focus to me.
+    When the bank failures occurred, I got on the phone and I 
+spoke with those smaller banks, those community banks, and 
+regional banks to ask, how are you all doing? And they said, 
+``Congresswoman, we have adequate capital, we are fine, we will 
+be able to get through this period. But what we are most 
+worried about is that because of the lack of good management in 
+these banks, and the failure of the regulators, that we are 
+going to bear the consequences as small community banks and 
+regional banks.''
+    So, my question really goes to all of you. Should the 
+Federal Reserve call for stronger regulatory tools, as appears 
+to be implied by the Vice Chair for Supervision? And what 
+consequences could this have on our small community and 
+regional financial institutions in districts like mine, that by 
+the way, serve a large population of Hispanics? In fact, we are 
+one of the largest Hispanic communities in the entire nation. 
+Yes, sir?
+    Mr. Michaud. Maybe, I will take the first shot at that. My 
+view is that the regulators do already have the tools they need 
+to adequately supervise. And what you speak about, I think 
+speaks to tailoring, which is the approach that has been done 
+very recently. So, I believe that the tools are in place and it 
+is a matter of how it is supervised, rather than needing new 
+rules or laws for the Federal Reserve at this moment.
+    Ms. Tahyar. I agree with that, and I think we have a multi-
+tiered banking system because we are a large and complex 
+country. And we need to continue to have different sizes of 
+banks serving different communities. I think that the agencies 
+need to focus on supervision, and they need to clean house more 
+than they need to focus on regulatory change.
+    Ms. De La Cruz. Thank you. Yes, Professor?
+    Ms. Judge. For me, there is a need to do both. There is 
+clearly a need to ramp up supervision. At the same time, I 
+loved your framing and the attention that you are paying to the 
+community banks, and the important roles that they are playing 
+in your district and in local communities across the country. I 
+actually believe that appropriately regulating very large 
+regional banks, banks with over $100 billion in assets that we 
+have learned cannot be resolved in an orderly fashion, would 
+actually help to encourage people to focus on those true 
+community banks and the smaller regional banks that really are 
+focused on serving their community.
+    Ms. De La Cruz. Let me ask you a question, ma'am. Where do 
+you live?
+    Ms. Judge. I live in New York City, but I actually grew up 
+in Ann Arbor. The community bank that I worked with most is the 
+State Bank of Graymont, which is based in Pontiac, Illinois. We 
+have some farmland exposure to Illinois and they are actually 
+doing an amazing job with agriculture lending.
+    Ms. De La Cruz. You live in New York. How many years have 
+you lived there?
+    Ms. Judge. I have lived there about 11 years.
+    Ms. De La Cruz. Eleven years now. So, when was the last 
+time you went to rural America and spoke with community and 
+regional banks about what you are proposing?
+    Ms. Judge. The last time I went to rural? I spent a lot of 
+time all around the country. I gave the inaugural--
+    Ms. De La Cruz. In the last 3 months?
+    Ms. Judge. Yes, I gave the inaugural family and small 
+business lecture at the University of South Carolina, because I 
+could not be more dedicated or supportive of small businesses. 
+And I went to South Carolina and I traveled at lot--
+    Ms. De La Cruz. I yield back. In the last 3 months speaking 
+after this failure, I think that being among community and 
+regional banks, we will hear the same thing over and over 
+again, which is exactly this, and I think it has been repeated 
+several times. The Fed was not enforcing current regulation on 
+the books, and if they did just that, we would not be in this 
+situation, and community and regional banks would not have the 
+fear that they have now.
+    Chairman Barr. The gentlelady's time has expired. The 
+gentleman from Tennessee, Mr. Ogles, is now recognized.
+    Mr. Ogles. Thank you, Mr. Chairman, and witnesses. I know 
+it has been a long afternoon, but thank you, and thank you for 
+indulging us. Mr. Chairman, I reject the premise that small to 
+mid-sized banks are somehow a problem in our economy. Mr. 
+Michaud, you said that roughly 4,700 of the small to mid-sized 
+banks are getting it right. So, the three banks that failed 
+were poorly run, they were poorly managed, and they were poorly 
+supervised.
+    This is an either/or question for--we can go down the line. 
+We will start with you, Ms. Tahyar. What is more important: for 
+banks to examine their liquidity risk or their climate risk?
+    Ms. Tahyar. Sorry. Was that liquidity risk?
+    Mr. Ogles. Liquidity versus climate?
+    Ms. Tahyar. Liquidity.
+    Mr. Gould. Liquidity.
+    Ms. Judge. Liquidity and both.
+    Mr. Ogles. Okay. Same premise, interest rate risk or 
+climate risk?
+    Ms. Tahyar. Interest rate risk.
+    Mr. Gould. Interest rate.
+    Mr. Michaud. Interest rate.
+    Ms. Judge. Interest rate doesn't have to be a choice.
+    Mr. Ogles. We are stating the obvious, right? But when we 
+look at these banks, when we look at SVB in particular, which 
+was so focused on climate risk versus their deposit structure--
+you want to think of actuarial tables. When I think of 
+liquidity risk and I think of interest rate risk, I think of 
+dollars and cents. I think of numbers.
+    But the problem was, these banks were putting polar bears 
+and penguins above their fiscal responsibility. So, any effort 
+to target or impede or to increase the cost structures of our 
+small to mid-sized banks will face a strong headwind from this 
+committee, in particular from me, because I represent rural 
+areas, and it is the small businesses in the communities that 
+are the backbone of my communities. And it is the small to mid-
+sized banks that are lending to those small businesses.
+    Mr. Chairman, I will also reject the premise that Biden's 
+policies are not to blame here. Econ 101, when the government 
+puts more money into the economy than the economy can produce 
+itself, the back side risk of that is always going to be 
+inflation. So, when you force an omnibus bill on the American 
+people that is an additional $2 trillion that doesn't need to 
+be had, at a time when retail prices are going up, and when 
+underlying commodities are screaming, stop the madness, and we 
+did nothing other than spend more money.
+    Biden's policies were reckless, they were feckless. And I 
+am appalled at the idea that he is not to blame. At the same 
+time, he is creating choke points in production, choke points 
+in energy production. So with that, according to the FDIC 
+report, unlimited coverage of deposits, Mr. Gould, would 
+increase the size of the Deposit Insurance fund just to retain 
+basic ratios of insured deposits to the Fund itself. And the 
+estimates could be increased 70 percent more, which is going to 
+lead to increased assessments on the banks. Is that a good or a 
+bad thing?
+    Mr. Gould. That, in and of itself, is a bad thing, whether 
+or not it is justified by whatever benefit it provides.
+    Mr. Ogles. Again, when I think of the increased assessments 
+and the impact that is going to have on my small to mid-sized 
+banks in my district and all of the rural districts across the 
+country, isn't that an argument against unlimited deposit 
+coverage?
+    Mr. Gould. That is certainly an argument. Yes.
+    Mr. Ogles. When I think about where we are and how we got 
+here, it is easy to armchair-quarterback. It is easy, quite 
+frankly, to lay blame. I have said this before, and I will say 
+it again, Ronald Reagan says the scariest phrase in the 
+American language is, ``I am from the government and I am here 
+to help,'' So, what should we not do as we move forward? Ms. 
+Tahyar?
+    Ms. Tahyar. We should look at fact-based evidence and then 
+make policies. We shouldn't just be with our political priors.
+    Mr. Ogles. That is right.
+    Mr. Gould. We should examine the efficacy of the 
+regulations on the books and see whether they are out there 
+performing as promised, including resolution or recovery 
+planning,
+    Mr. Michaud. We should make sure the solution is targeted 
+for the need, but also something we haven't spoken about yet, 
+which is, there has been a real headwind to healthy bank M&A 
+and that has been the message that has been sent to the 
+industry. I think ultimately, the industry would be healthier, 
+the mid-sized banks would be healthier, and the industry would 
+be able to resolve weaker banks in that manner without the 
+defund if there was a more efficient way to consolidate than 
+there is right now.
+    Mr. Ogles. Right.
+    Ms. Judge. I completely agree that we should look at the 
+facts and we should look at the efficacy of the current 
+regulatory scheme. And in light of recent events, we had three 
+major bank failures imposing massive losses, so I think we have 
+to see that the current scheme is coming up wanting.
+    Mr. Ogles. Mr. Chairman, I have just a few seconds left to 
+give you the last word.
+    Chairman Barr. I appreciate the gentleman yielding. I think 
+we are running out of time. We may do just another quick round. 
+And so, I will take that time the gentleman yielded and I 
+appreciate him yielding.
+    And with that, without objection, we are going to go to 
+just one additional round with the indulgence of the witnesses 
+and the ranking member. And we have agreed that each one of us 
+will ask one more round of questions.
+    Let me just follow up the question about M&A to Mr. 
+Michaud. On resolutions, if there is a need for additional 
+resolutions, is it important to avoid more industry 
+consolidation for regulators if there are additional failures 
+to give regional banks as opposed to G-SIBs the opportunity to 
+acquire or merge with failing institutions to preserve that 
+diversity within our financial ecosystem that you talk about?
+    Mr. Michaud. I very much support the Congressional limits 
+where banks with more than 10 percent of the deposits in the 
+country should not be acquiring other banks. And I think the 
+industry needs to build competitors for the 4 banks that have 
+40-percent market share. I think the economy would be better 
+off if we had other banks that were able to compete with them 
+more.
+    Chairman Barr. So, an FDIC reluctance to approve mergers, 
+particularly among regional banks or small banks, can actually 
+be quite anticompetitive?
+    Mr. Michaud. Right now, it is not the FDIC as much as the 
+Fed. The amount of time it takes to complete a merger in the 
+United States has doubled in the last 2 years. Not only that, 
+but there is uncertainty as to the process and the outcome, 
+should you look to undertake consolidation. The consolidation 
+that has been happening is regional banks have been trying to 
+combine to create these regional champions to serve their 
+regions and compete with the bigger banks.
+    Also, I believe, even as we sit here today, there are banks 
+that are willing to take on other banks that may be 
+underperforming. But the banks would be unwilling to take that 
+action because they don't know if the regulatory response would 
+allow them to do it and they can't afford that risk.
+    Chairman Barr. Mr. Gould, your testimony was interesting 
+when you said the proliferation of regulation since the 2008 
+crisis may have reduced risk management and supervision to mere 
+compliance exercises, damaging both in the process. Can you 
+elaborate?
+    Mr. Gould. Yes, sir. I think sometimes regulation, 
+particularly in the absence of competent supervision, provides 
+the illusion that we are addressing risks. And I think that is 
+a problem. I think we should not be overly reliant on mere 
+regulation. I think supervision is what matters. And I think 
+supervisors have all of the tools, most fundamentally of which 
+is just examiner judgment, to ensure the safety and soundness 
+of banks.
+    Chairman Barr. Yes. An overreliance on regulatory tools 
+such as some stress testing may have blinded supervisors to 
+risks that are hiding in plain sight, like basic interest rate 
+risk. I also thought it was very interesting that you pointed 
+out that the one regulation that Silicon Valley Bank was not 
+subject to as a result of S.2155 and regulatory tailing was a 
+requirement that hadn't been imposed on them, that would have 
+actually increased their interest rate sensitivity. The 
+requirements, had the Fed enforced it on the liquidity coverage 
+ratio and shifting holdings to high quality liquid assets.
+    Final question to Ms. Tahyar, thank you. Professor Judge 
+claimed a regulator transparency legislation would impede 
+supervisory responsibilities. I would note that nothing in 
+these bills takes away any regulatory supervisory or emergency 
+powers. They are only transparency and reporting requirements. 
+Would that in any way impede the firefighting that you talked 
+about in your analogy?
+    Ms. Tahyar. Mr. Chairman, I haven't had a chance to look at 
+the specifics of the legislation. I would be happy to put 
+something in the record. But in general, we are living in an 
+environment where there is not enough transparency from the 
+banking agencies, and that makes it more difficult for Congress 
+and others to do their oversight.
+    Chairman Barr. Let me just stipulate that nothing in this 
+collection of bills takes away any emergency powers of the 
+regulators. And let me just stipulate for the record, that the 
+goal of these bills is to give the American people, through 
+their Representatives in Congress, greater visibility into 
+decision-making at the time of the house fire, and after the 
+house fire. In that scenario, does that in any way impede the 
+ability of regulators to do their job?
+    Ms. Tahyar. No, it doesn't, Mr. Chairman.
+    Chairman Barr. And with that, I yield 5 minutes to the 
+ranking member, Dr. Foster.
+    Mr. Foster. Thank you. I was wondering if any of you have 
+at this point any general after-thoughts about the systemic 
+risk exception? Did it function as designed? Was this an 
+appropriate use of it? Are there any changes that we might kind 
+of play on that? Obviously, it is a big issue with a lot of the 
+Members here as to how the special assessment is going to land. 
+If you have any advice on if you were to craft the special 
+assessment, what would it look like?
+    And if I remember correctly, only the first two banks had 
+the systemic risk exception and the third did not. So, most of 
+the hit actually will come through the special assessment. Does 
+anyone want to venture any thoughts on how that--
+    Mr. Michaud. I will start with the systemic exception. I 
+think it was a good decision to do that. Because if I think it 
+hadn't happened, I think more banks would have failed. And it 
+was due to the sudden nature of the bank runs. I think in that 
+moment, it was important to do.
+    The other thing is that closing a bank in the middle of the 
+day is highly unusual. It makes things disorderly. I know that 
+Mr. Gould spoke earlier about how it would be interesting just 
+to learn what we can do better in the future as to what 
+happened in those hours. I think the impact after that was 
+dramatic. So, I think it is best if this resolution happens 
+when the markets are not open.
+    Mr. Foster. Any other thoughts, Ms. Tahyar?
+    Ms. Tahyar. The systemic risk exception should be rare, but 
+it is there for a reason, and this time, it was used wisely. I 
+think the three keys do provide some political checks and 
+balances, but, again, I think we still need to have after-
+action reports with transparency and accountability around what 
+happened, when, and how.
+    Mr. Foster. Are there any aspects that give you heartburn? 
+For example, there is a lot of freedom in the special 
+assessment. And there is a lot of danger that it will be very 
+politicized and unavoidable?
+    Ms. Tahyar. Yes. Thank you, Ranking Member Foster. The 
+special assessment is we already have the White House Fact 
+Sheet, which is saying that it shouldn't fall on community 
+banks. I think that is appropriate, given the need to protect 
+community banks. But other than that, I think there needs to be 
+a fairness about how that special assessment is allocated among 
+the bigger banks and among the regional banks.
+    Mr. Foster. And what sort of factors, if you were to write 
+it, would be considered the fraction of uninsured deposits? In 
+terms of fairness, what you would want is banks, which had a 
+similar business profile as Silicon Valley Bank or Signature 
+and so should be preferentially hit with the assessment. Are 
+there reasonable ways to do that?
+    Ms. Tahyar. You are thinking if you have a higher 
+proportion of uninsured deposits.
+    Mr. Foster. Whatever the risk factors? You want to punish 
+banks that had similar risk factors, in some sense?
+    Ms. Tahyar. That particular point makes sense to me. I have 
+to say that I feel like there is still a lot to learn on how 
+that special assessment should happen. So, I would prefer to 
+wait and see what the FDIC proposes and then react to that.
+    Mr. Michaud. And Ranking Member Foster, I would just do 
+what we talked about earlier, I think there is a lot of value 
+in being too-big-to-fail, that these banks just because of 
+their size, are receiving more deposits as we speak. And so I 
+believe that those banks should bear a higher proportion of 
+this assessment. Not all, but should bear a higher proportion 
+than they do today.
+    Mr. Foster. And any thoughts on the extraordinary support 
+that was provided to banks holding Treasuries, and using them 
+as collateral, I guess, for loans at par, which seemed like 
+maybe a significant intervention?
+    Mr. Michaud. My view on that is that they are the lender of 
+last resort and the market needed that moment, and it brought 
+stability. We can figure out all of these things if the market 
+is stable and orderly. It wasn't, and I think that facility 
+helped bring stability so we could have this conversation.
+    Ms. Judge. I would just note that Dodd-Frank did make very 
+significant changes to the systemic risk exception and to 
+Section 13(3). I think those changes helped, but I think this 
+was an episode of actually both instruments being used very 
+prudently by regulators to help maintain a stable and healthy 
+financial system in the face of significant bank failures.
+    Mr. Foster. Okay. Any further thoughts you have, we are 
+going to have to be pondering this for a while, and I really 
+appreciate your thoughtful comments. Thank you. I yield back.
+    Chairman Barr. The gentleman yields back. And I would like 
+to thank our witnesses for your testimony today on this very 
+illuminating and timely topic.
+    The Chair notes that some Members may have additional 
+questions for this panel, which they may wish to submit in 
+writing. Without objection, the hearing record will remain open 
+for 5 legislative days for Members to submit written questions 
+to these witnesses and to place their responses in the record. 
+Also, without objection, Members will have 5 legislative days 
+to submit extraneous materials to the Chair for inclusion in 
+the record.
+    This hearing is now adjourned.
+    [Whereupon, at 4:10 p.m., the hearing was adjourned.]
+
+                            A P P E N D I X
+
+                              May 10, 2023
+
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+                              [all]
+

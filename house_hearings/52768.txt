@@ -1,0 +1,2809 @@
+
+ - A REVIEW OF USDA ANIMAL DISEASE PREVENTION AND RESPONSE EFFORTS
+
+[House Hearing, 118 Congress]
+[From the U.S. Government Publishing Office]
+
+
+    A REVIEW OF USDA ANIMAL DISEASE PREVENTION AND RESPONSE EFFORTS
+
+=======================================================================
+
+                                HEARING
+
+                               BEFORE THE
+
+             SUBCOMMITTEE ON LIVESTOCK, DAIRY, AND POULTRY
+
+                                 OF THE
+
+                        COMMITTEE ON AGRICULTURE
+                        HOUSE OF REPRESENTATIVES
+
+                    ONE HUNDRED EIGHTEENTH CONGRESS
+
+                             FIRST SESSION
+                               __________
+
+                             APRIL 18, 2023
+                               __________
+
+                            Serial No. 118-6
+                            
+                            
+                  [GRAPHIC NOT AVAILABLE IN TIFF FORMAT]                            
+
+
+          Printed for the use of the Committee on Agriculture
+                         agriculture.house.gov
+
+                               __________
+
+                    U.S. GOVERNMENT PUBLISHING OFFICE
+                    
+52-768 PDF                WASHINGTON : 2023   
+
+
+
+
+                        COMMITTEE ON AGRICULTURE
+
+                 GLENN THOMPSON, Pennsylvania, Chairman
+
+FRANK D. LUCAS, Oklahoma             DAVID SCOTT, Georgia, Ranking 
+AUSTIN SCOTT, Georgia, Vice          Minority Member
+Chairman                             JIM COSTA, California
+ERIC A. ``RICK'' CRAWFORD, Arkansas  JAMES P. McGOVERN, Massachusetts
+SCOTT DesJARLAIS, Tennessee          ALMA S. ADAMS, North Carolina
+DOUG LaMALFA, California             ABIGAIL DAVIS SPANBERGER, Virginia
+DAVID ROUZER, North Carolina         JAHANA HAYES, Connecticut
+TRENT KELLY, Mississippi             SHONTEL M. BROWN, Ohio
+DON BACON, Nebraska                  SHARICE DAVIDS, Kansas
+MIKE BOST, Illinois                  ELISSA SLOTKIN, Michigan
+DUSTY JOHNSON, South Dakota          YADIRA CARAVEO, Colorado
+JAMES R. BAIRD, Indiana              ANDREA SALINAS, Oregon
+TRACEY MANN, Kansas                  MARIE GLUESENKAMP PEREZ, 
+RANDY FEENSTRA, Iowa                 Washington
+MARY E. MILLER, Illinois             DONALD G. DAVIS, North Carolina, 
+BARRY MOORE, Alabama                 Vice Ranking Minority Member
+KAT CAMMACK, Florida                 JILL N. TOKUDA, Hawaii
+BRAD FINSTAD, Minnesota              NIKKI BUDZINSKI, Illinois
+JOHN W. ROSE, Tennessee              ERIC SORENSEN, Illinois
+RONNY JACKSON, Texas                 GABE VASQUEZ, New Mexico
+MARCUS J. MOLINARO, New York         JASMINE CROCKETT, Texas
+MONICA De La CRUZ, Texas             JONATHAN L. JACKSON, Illinois
+NICHOLAS A. LANGWORTHY, New York     GREG CASAR, Texas
+JOHN S. DUARTE, California           CHELLIE PINGREE, Maine
+ZACHARY NUNN, Iowa                   SALUD O. CARBAJAL, California
+MARK ALFORD, Missouri                ANGIE CRAIG, Minnesota
+DERRICK VAN ORDEN, Wisconsin         DARREN SOTO, Florida
+LORI CHAVEZ-DeREMER, Oregon          SANFORD D. BISHOP, Jr., Georgia
+MAX L. MILLER, Ohio
+
+                                 ______
+
+                     Parish Braden, Staff Director
+
+                 Anne Simmons, Minority Staff Director
+
+                                 ______
+
+             Subcommittee on Livestock, Dairy, and Poultry
+
+                     TRACEY MANN, Kansas, Chairman
+
+SCOTT DesJARLAIS, Tennessee          JIM COSTA, California, Ranking 
+TRENT KELLY, Mississippi             Minority Member
+DON BACON, Nebraska                  ABIGAIL DAVIS SPANBERGER, Virginia
+JAMES R. BAIRD, Indiana              JAHANA HAYES, Connecticut
+RANDY FEENSTRA, Iowa                 YADIRA CARAVEO, Colorado
+BARRY MOORE, Alabama                 JILL N. TOKUDA, Hawaii
+RONNY JACKSON, Texas                 CHELLIE PINGREE, Maine
+MARCUS J. MOLINARO, New York         DARREN SOTO, Florida
+MARK ALFORD, Missouri                DONALD G. DAVIS, North Carolina
+DERRICK VAN ORDEN, Wisconsin         ------
+                                     ------
+
+                                  (ii)
+
+                             C O N T E N T S
+
+                              ----------                              
+                                                                   Page
+Costa, Hon. Jim, a Representative in Congress from California, 
+  opening statement..............................................     3
+Mann, Hon. Tracey, a Representative in Congress from Kansas, 
+  opening statement..............................................     1
+    Prepared statement...........................................     2
+    Supplementary material.......................................    41
+Miller, Hon. Max L., a Representative in Congress from Ohio, 
+  prepared statement.............................................     6
+Thompson, Hon. Glenn, a Representative in Congress from 
+  Pennsylvania, opening statement................................     4
+    Prepared statement...........................................     5
+
+                                Witness
+
+Moffitt, Hon. Jenny Lester, Under Secretary for Marketing and 
+  Regulatory Programs, U.S. Department of Agriculture, 
+  Washington, D.C.; accompanied by Alecia L. Naugle, D.V.M., 
+  Ph.D., Associate Deputy Administrator, Veterinary Services, 
+  Animal and Plant Health Inspection Service, USDA...............     7
+    Prepared statement...........................................     9
+    Supplementary material.......................................    41
+    Submitted questions..........................................    42
+
+ 
+    A REVIEW OF USDA ANIMAL DISEASE PREVENTION AND RESPONSE EFFORTS
+
+                              ----------                              
+
+
+                        TUESDAY, APRIL 18, 2023
+
+                  House of Representatives,
+             Subcommittee on Livestock, Dairy, and Poultry,
+                                  Committee on Agriculture,
+                                                   Washington, D.C.
+    The Subcommittee met, pursuant to call, at 10:01 a.m., in 
+Room 1300 of the Longworth House Office Building, Hon. Tracey 
+Mann [Chairman of the Subcommittee] presiding.
+    Members present: Mann, DesJarlais, Bacon, Baird, Feenstra, 
+Moore, Jackson of Texas, Molinaro, Alford, Van Orden, Thompson 
+(ex officio), Costa, Spanberger, Caraveo, Pingree, and Davis of 
+North Carolina.
+    Staff present: Caleb Crosswhite, Justina Graff, Patricia 
+Straughn, Erin Wilson, John Konya, Daniel Feingold, Josh 
+Lobert, Michael Stein, and Dana Sandman.
+
+  OPENING STATEMENT OF HON. TRACEY MANN, A REPRESENTATIVE IN 
+                      CONGRESS FROM KANSAS
+
+    The Chairman. The Committee will come to order. Welcome, 
+and thank you for joining us at today's hearing entitled, A 
+Review of USDA Animal Disease Prevention and Response Efforts. 
+After brief opening remarks, Members will receive testimony 
+from our witness today, and then the hearing will be open to 
+questions.
+    It is an honor to chair this first hearing of the House 
+Agriculture Committee's Subcommittee on Livestock, Dairy, and 
+Poultry in the 118th Congress. As a fifth-generation Kansan, 
+having grown up on our family's farming operation, I rode pens 
+and doctored thousands of sick cattle at our preconditioning 
+feedyard. I understand the grit, tenacity, and courage that it 
+takes to make a living in agriculture and the burden and 
+responsibility for feeding the world that comes along with it.
+    Chairing this Subcommittee is a privilege for me, as I 
+represent the big 1st District of Kansas, which produces more 
+than $10 billion worth of livestock, dairy, poultry, and 
+products like beef, milk, and eggs every year. That does not 
+happen in a vacuum. It takes the entire animal agriculture 
+chain to make that happen, and we see it all in the big 1st. 
+From the producer to the feedlot and from the harvest facility 
+to the distributor, every role is important in delivering 
+protein to the market and to the consumer.
+    Back in 1915--and I have a button here from the convention 
+that year.* The Kansas Livestock Association was here on 
+Capitol Hill advocating for producers around the exact same 
+issues that we are looking at today: packers, stockyards, and 
+animal health. Foot-and-mouth disease was wreaking havoc at the 
+time, and Kansas producers stepped up to the plate to make a 
+difference and to fix problems. And here we are today more than 
+100 years later holding a hearing to review USDA animal disease 
+prevention and response efforts.
+---------------------------------------------------------------------------
+    * Editor's note: an image of this pen is located on p. 41.
+---------------------------------------------------------------------------
+    Today's hearing is particularly timely as we are in the 
+middle of the most devastating high-path avian influenza 
+outbreak on record, and African swine fever in the Dominican 
+Republic and Haiti is dangerously close to our shores.
+    Animal health issues don't always get the attention that 
+they deserve, but, as we have seen with past animal disease 
+outbreaks, there are enormous economic consequences that extend 
+well beyond the animal industry. The new farm bill must 
+continue to address these risks to animal health while 
+bolstering the long-term ability of U.S. animal agriculture to 
+be competitive in the global marketplace and provide consumers 
+around the world safe, wholesome, affordable food produced in a 
+sustainable manner.
+    Industry stakeholders and Congressional leaders had the 
+foresight to establish a three-tiered animal disease program 
+with mandatory funding to ensure the sufficient development and 
+the timely deployment of all measures necessary to prevent, 
+identify, and mitigate the catastrophic impacts that an animal 
+disease outbreak would have on our country's food security, 
+export markets, and overall economic stability.
+    As we work to craft this next farm bill, we must have a 
+comprehensive understanding of how these programs have been 
+implemented. We look forward to feedback on the lessons 
+learned, what is working, what should be reconsidered, and 
+where additional investment may be required.
+    [The prepared statement of Mr. Mann follows:]
+
+ Prepared Statement of Hon. Tracey Mann, a Representative in Congress 
+                              from Kansas
+    It is an honor to chair this first hearing of the House Agriculture 
+Committee's Subcommittee on Livestock, Dairy, and Poultry in the 118th 
+Congress. As a fifth generation Kansan having grown up on my family 
+farm, I rode pens and doctored thousands of sick cattle at our 
+preconditioning feedlot. I understand the grit, tenacity, and courage 
+that it takes to make a living in agriculture, and the burden of 
+responsibility for feeding the world that comes along with it.
+    Chairing this Subcommittee is a unique honor for me as I represent 
+the Big First, where producers sell $10 billion worth of livestock, 
+dairy, poultry, and products like beef, milk, and eggs every year--more 
+than any other Congressional district.
+    That does not happen in a vacuum. It takes the entire animal 
+agriculture chain to make that happen--and we see it all in the Big 
+First. From the producer to the feedlot and from the harvest facility 
+to the distributor, every role is important in delivering protein to 
+the market and to the consumer.
+    Back in 1915--and I have a button from their convention that year--
+the Kansas Livestock Association was here on Capitol Hill advocating 
+for producers around the exact same issues that we're looking at 
+today--packers, stockyards, and animal health. Foot-and-mouth disease 
+was wreaking havoc at the time, and Kansas producers stepped up to the 
+plate to make a difference and fix problems.
+    And here we are today--more than 100 years later--holding a 
+hearing, to review USDA animal disease prevention and response efforts. 
+Today's hearing is particularly timely as we are in the middle of the 
+most devastating high-path avian influenza outbreak on record, and 
+African Swine Fever in the Dominican Republic and Haiti is getting 
+dangerously close to our shores. Animal health issues don't always get 
+the attention they deserve, but as we have seen with past animal 
+disease outbreaks, their enormous economic consequences extend well 
+beyond the animal industry.
+    The new farm bill must continue to address these risks to animal 
+health while bolstering the long-term ability of U.S. animal 
+agriculture to be competitive in the global marketplace and provide 
+consumers around the world safe, wholesome, affordable food produced in 
+a sustainable manner.
+    Industry stakeholders and Congressional leaders had the foresight 
+to establish a three-tiered animal disease program with mandatory 
+funding to ensure the sufficient development and timely deployment of 
+all measures necessary to prevent, identify, and mitigate the 
+catastrophic impacts that an animal disease outbreak would have on our 
+country's food security, export markets, and overall economic 
+stability. As we work to craft the next farm bill, we must have a 
+comprehensive understanding of how these programs have been 
+implemented. We look forward to feedback on the lessons learned--what's 
+working, what should be reconsidered, and where additional investment 
+may be required.
+
+    The Chairman. With that, I would now like to welcome the 
+distinguished Ranking Member and the gentleman from California, 
+Mr. Costa, for any opening remarks that he would like to give.
+
+   OPENING STATEMENT OF HON. JIM COSTA, A REPRESENTATIVE IN 
+                    CONGRESS FROM CALIFORNIA
+
+    Mr. Costa. Thank you very much, Mr. Chairman. It is great 
+to be here with our Subcommittee, and we thank you for your 
+leadership, and obviously, as you noted your own personal 
+family history with American agriculture from the part of the 
+country that you represent. I have a similar experience, third 
+generation farmer in California, and I am honored to represent 
+folks throughout the great San Joaquin Valley. We have had the 
+Chairman out there and part of the Committee in February, and 
+we thank him for coming out there, but he has been there many 
+times.
+    I happen to represent the most productive dairy county in 
+the country, believe it or not, Tulare County, and the highest 
+citrus county in the nation, and we do a lot of good things out 
+there. But this morning's hearing is important for the 
+Subcommittee's purpose because our witness is Under Secretary 
+Moffitt, who also is from California originally, and our good 
+doctor has a good understanding of the challenges we face with 
+livestock, poultry, and the other topics that are of this 
+Subcommittee's jurisdiction.
+    And while the livestock policy is typically addressed 
+outside the farm bill, there are crucial gains certainly in the 
+last farm bill that we created that ensure our food system is 
+secure. I am interested to hear the witness' testimony on those 
+programs because, as I say always, food is national security. 
+Food is national security, and I think all of my colleagues 
+here agree with that and the importance of maintaining American 
+agriculture's productivity, and its certainty to continue to 
+lead the world is so critical.
+    No issue embodies the message to a greater extent than 
+animal health programs. The inherent biosecurity measures in 
+this world that we live in that is interconnected is critical, 
+and therefore, protecting livestock operations in our country 
+and having the tools in place to address outbreaks is critical. 
+And therefore, our supply chain, which has been challenged here 
+in recent years as a result of the pandemic and other factors 
+both internally throughout the country, as well as externally 
+in terms of our exports is something that I think the entire 
+Agriculture Committee is focused on.
+    We have all seen firsthand how high-pathogenic avian flu 
+has devastated domestic poultry populations where depopulations 
+have had to take place. It certainly has increased, as we know, 
+the price of eggs. People say how could eggs increase so much? 
+Well, avian flu, I am told, is a result of about 70 percent of 
+the increase in egg prices.
+    So we have to continue to refine and improve our approach 
+to address animal disease. The USDA needs all the tools to 
+guarantee a robust response. We want to thank them for their 
+good work during this outbreak and previous outbreaks and their 
+containment efforts. Obviously, it is critical and is the 
+subject matter for today's hearing.
+    There are certain aspects of animal disease that are 
+difficult to contain, and the example as a primary driver of 
+our current outbreak has been migrating wild bird species that 
+interact between animal agriculture. It is just kind of the way 
+things are, and it is inevitable. But it is something that we 
+have to do and be challenged to prepare for. So I am looking 
+forward to talking to our witnesses and finding how these three 
+programs, the vaccine bank, the National Animal Preparedness 
+and Response Program, and the National Animal Health Laboratory 
+Network have been able to provide the foundation for preventing 
+and preparing for outbreaks. So I look forward to the testimony 
+of the witness. Thank you very much, Mr. Chairman and Members 
+of this Subcommittee, as we address the important issues that 
+this Subcommittee faces. Thank you.
+    The Chairman. Thank you, Ranking Member Costa. And thank 
+you for your partnership as we look at these important issues.
+    Next, I would like to recognize Chairman Thompson for any 
+opening remarks that he would like to make.
+
+ OPENING STATEMENT OF HON. GLENN THOMPSON, A REPRESENTATIVE IN 
+                   CONGRESS FROM PENNSYLVANIA
+
+    Mr. Thompson. Well, thank you so much. And good morning, 
+everyone. Thank you for all taking part in this hearing. Under 
+Secretary Moffitt and Dr. Naugle, thank you both for being here 
+today. I want to thank Chairman Mann, Ranking Member Costa for 
+holding this very timely and very important hearing.
+    From real-time disease response efforts to controlling 
+potential disease vectors like the feral hog population, to 
+monitoring a growing number of imported dogs from ASF-affected 
+countries, and stopping illegal entry of meat and fruit 
+products and byproducts, APHIS has a tremendous task in 
+protecting the health of the U.S. animal population.
+    I also want to say I have had some opportunities in my 
+travels around the country to spend some individual time with 
+your frontline APHIS folks, and they are great people. They are 
+dedicated to what they do. Whether it was preventing rabies 
+from coming from Mexico or the fever tick from crossing the 
+border and coming into our cattle, or, quite frankly, the feral 
+hog program that is so important because of the damage that 
+they do, their work and your work is much appreciated.
+    So I was proud of Congress' work in the last farm bill to 
+provide a historic investment in a suite of animal disease 
+preparedness and response programs. And as we draft the next 
+farm bill, it is imperative that we understand how these 
+existing authorities and resources have been utilized, 
+especially in the wake of high-path avian influenza and the 
+incoming threat of the African swine fever. We must ensure 
+these and related programs are having the greatest possible 
+impact. And those are at the top. Obviously, those get more 
+attention, but what you do each and every day, as I have 
+mentioned, the rabies threat coming across the border, the 
+fever tick, there is just so much that most people are not 
+familiar with, and we very much appreciate you being on the 
+frontlines.
+    Now, I hear all too often from folks back home and across 
+the country about their ongoing struggles with the high-path 
+outbreak, which has only reinforced my commitment to treating 
+food security as national security. As we learned the hard way 
+in 2014, 2015, biosecurity plays an enormous role in mitigating 
+the spread of the disease, and we want to ensure strong 
+measures are in place across all production methods.
+    That said, we also have to ensure these measures don't 
+unduly burden the day-to-day operations of our dedicated 
+producers. So I appreciate the Department's continued 
+collaboration with state officials and industry stakeholders 
+towards an efficient yet pragmatic response based on the latest 
+available science.
+    I would also be remiss if I didn't highlight CWD, chronic 
+wasting disease, which has been a big problem in many states 
+for deer populations, including my home State of Pennsylvania, 
+for quite some time. In total, it has spread to 29 other states 
+across the country. Last Congress, I was proud to work with 
+Congressman Kind and my House and Senate colleagues to enact 
+the Chronic Wasting Disease Research and Management Act (Pub. 
+L. 117-328). And I look forward to working with you and my 
+colleagues on the Appropriations Committee to ensure that those 
+programs continue to receive the attention and the resources 
+that they deserve.
+    And with that, I again want to thank our distinguished 
+witnesses not only for being here today but for their important 
+work day-to-day, working to protect the health of our animal 
+populations.
+    And with that, I look forward to your testimony, and I 
+yield back, Mr. Chairman.
+    [The prepared statement of Mr. Thompson follows:]
+
+Prepared Statement of Hon. Glenn Thompson, a Representative in Congress 
+                           from Pennsylvania
+    Under Secretary Moffitt and Dr. Naugle, thank you both for being 
+here today. I also want to thank Chairman Mann and Ranking Member Costa 
+for holding this very timely hearing.
+    From real-time disease response efforts, to controlling potential 
+disease vectors like the feral hog population, to monitoring a growing 
+number of imported dogs from ASF-affected countries, and stopping the 
+illegal entry of meat and fruit products and byproducts--APHIS has a 
+tremendous task in protecting the health of the U.S. animal population.
+    So I was proud of Congress' work in the last farm bill to provide a 
+historic investment in a suite of animal disease preparedness and 
+response programs.
+    As we draft the next farm bill, it is imperative that we understand 
+how these existing authorities and resources have been utilized.
+    Especially in the wake of high-path avian influenza, and with the 
+looming threat of African Swine Fever, we must ensure these, and 
+related programs are having the greatest possible impact.
+    I hear all-to-often from folks back home and across the country 
+about their ongoing struggles with the high-path outbreak, which has 
+only reinforced my commitment to treating food security as national 
+security.
+    As we learned the hard way in 2014 and 2015, biosecurity plays an 
+enormous role in mitigating the spread of the disease, and we want to 
+ensure strong measures are in place across all production methods.
+    That said, we also have to ensure these measures don't unduly 
+burden the day-to-day operation of our dedicated producers.
+    So I appreciate the Department's continued collaboration with state 
+officials and industry stakeholders towards an efficient, yet pragmatic 
+response based on the latest available science.
+    I'd also be remiss if I didn't highlight CWD, which has been a big 
+problem for the deer populations in Pennsylvania for quite some time 
+and has spread to 29 other states across the country.
+    Last Congress, I was proud to work with Congressman Kind and my 
+House and Senate colleagues to enact the Chronic Wasting Disease 
+Research and Management Act, and I look forward to working with you and 
+my colleagues on the Appropriations Committee to ensure those programs 
+continue to receive the attention and resources they deserve.
+    With that, I again want to thank our distinguished witnesses, not 
+only for being here today, but for their important day-to-day work in 
+protecting the health of our animal populations.
+    I look forward to your testimony, and I yield back.
+
+    The Chairman. Great. And thank you, Chairman Thompson.
+    The chair would request that other Members submit their 
+opening statements for the record so the witness may begin her 
+testimony and to ensure that there is ample time for questions.
+    [The prepared statement of Mr. Miller of Ohio follows:]
+
+Prepared Statement of Hon. Max L. Miller, a Representative in Congress 
+                               from Ohio
+    Ohio is one of the top leading producers for livestock, 
+representing about \1/2\ of all Ohio agriculture production.
+
+   Ohio's cattle farmers raise approximately 296,000 cows
+
+   There are about 2,200 dairy farms in Ohio
+
+   Ohio raises more than 2.95 million hogs each year
+
+    As such, the U.S. Department of Agriculture's (USDA) Animal and 
+Plant Health Inspection Service's ``APHIS'' efforts working with state 
+and local partners toward detection, prevention and rapid response 
+tools remain critical to address any potential animal disease outbreak.
+    Ohio ranks seventh in the nation in pork production and with 25 
+percent of pork goods exported, threats relating to foreign animal 
+diseases are a constant concern. Pork producers continue to face 
+increasing threats from foreign animal disease including African Swine 
+Fever. If a foreign animal disease outbreak were to occur, U.S. farmers 
+would immediately turn to APHIS, state animal health officials, and 
+other stakeholders for:
+
+   early detection, prevention and rapid response tools;
+
+   robust laboratory capacity for surveillance;
+
+   and a viable stockpile of vaccines to rapidly respond to the 
+        introduction of a high-consequence diseases.
+
+    A foreign animal disease outbreak would immediately impact the 
+entire agricultural sector, and stifle needed foods supplies.
+          * * * * *
+    We look forward to the 2023 Farm Bill to review and strengthen 
+programs that safeguard the nation's food supply against threats posed 
+by foreign animal diseases, including veterinary diagnostic 
+laboratories to test for new or emerging animal diseases, as well as 
+funding to support animal disease surveillance.
+
+    The Chairman. Our witness for today's hearing is USDA's 
+Under Secretary for Marketing and Regulatory Programs, Jenny 
+Lester Moffitt. She is accompanied today by Dr. Alecia Naugle, 
+who is the Associate Deputy Administrator for Veterinary 
+Services at USDA's Animal and Plant Health Inspection Services.
+    Under Secretary Lester Moffitt, thank you for joining us 
+today. We will now proceed to your testimony. You will have 5 
+minutes. The timer in front of you will count down to 0, at 
+which point your time has expired. Under Secretary Lester 
+Moffitt, please begin when you are ready.
+
+         STATEMENT OF HON. JENNY LESTER MOFFITT, UNDER 
+            SECRETARY FOR MARKETING AND REGULATORY 
+           PROGRAMS, U.S. DEPARTMENT OF AGRICULTURE, 
+  WASHINGTON, D.C.; ACCOMPANIED BY ALECIA L. NAUGLE, D.V.M., 
+            Ph.D., ASSOCIATE DEPUTY ADMINISTRATOR, 
+         VETERINARY SERVICES, ANIMAL AND PLANT HEALTH 
+                    INSPECTION SERVICE, USDA
+
+    Ms. Moffitt. Thank you, Chairman Mann, Ranking Member 
+Costa, Chairman Thompson, and Members of the Subcommittee. 
+Thank you for the opportunity to be here to testify today.
+    As you mentioned, Chairman Mann, I am joined by Dr. Alecia 
+Naugle, Associate Deputy Administrator for the Animal and Plant 
+Health Inspection Services Veterinary Services Program. She 
+works closely with Dr. Rosemary Sifford, the U.S. Chief 
+Veterinary Officer. Together, they lead a workforce of 
+veterinarians and other personnel dedicated to protecting the 
+health and marketability of American livestock.
+    As Chairman Thompson mentioned, every day, APHIS employees 
+are out on the field, on farms, at the borders inspecting and 
+conducting surveillance of animal diseases. They are working 
+directly with individual farmers, ranchers, veterinarians, 
+states, and Tribal officials. They share best practices about 
+biosecurity and preparedness. They oversee imports and exports 
+of animals and animal products to ensure continued safe trade, 
+protecting existing and opening new markets for agricultural 
+products here and abroad.
+    Their efforts to protect these markets has been greatly 
+enhanced by the new animal health programs Congress provided in 
+the last farm bill. The new authorities and additional funding 
+are working. We are better prepared today because of those 
+programs. The 2018 Farm Bill gave us three interlocking 
+programs. They work incredibly well together and allow us to 
+form stronger partnerships with producers, states, 
+veterinarians, and others. These programs, coupled with 
+appropriations and the Secretary's ability to transfer funds 
+from the Commodity Credit Corporation, help us respond and be 
+prepared. All of us have a stake in keeping foreign animal 
+diseases out of the country, and these tools help us work 
+together.
+    The National Animal Disease Preparedness and Response 
+Program, or NADPRP as we call it, has allowed us to fund 180 
+different projects with our partners. We have funded projects 
+that have increased our surveillance for significant animal 
+diseases and that have enhanced our ability to standardize 
+sample collection. NADPRP has let us fund training exercises 
+and new methods for recovering from disease outbreaks. Key is 
+that it is not just us doing this important work but also our 
+partners and cooperators who bring their expertise in U.S. 
+animal health as well.
+    These projects fill important needs. They identify and 
+close small gaps in our overall preparedness and response 
+programs. We regularly say that an ounce of prevention is worth 
+a pound in cure. By that standard, this program is worth its 
+weight in gold.
+    The other two programs that the farm bill authorizes are 
+also critically important. We have funded over $20 million 
+worth of projects for the National Animal Health Laboratory 
+Network. We know that speed is important with animal health 
+emergencies, and having a broad network of laboratories to 
+identify where disease is lets us quickly eradicate it and 
+reduce the spread.
+    The third program, the National Animal Vaccine and 
+Veterinary Countermeasures Bank, we know that we have kept 
+foot-and-mouth disease out of the country for nearly a century, 
+and we are confident that the system of overlapping safeguards 
+that we have in place will continue to work. However, given the 
+massive cost that an outbreak of foot-and-mouth disease would 
+cause, having vaccine at the ready is a very prudent measure, 
+an insurance policy should the worst occur.
+    These programs have better prepared us for foreign animal 
+diseases, but they are also building off of existing expertise 
+that APHIS has in preparing for and responding to disease such 
+as the outbreak of highly-pathogenic avian influenza. We know 
+that our methods in stamping out high-path AI are working. In 
+March 2023, we had just five cases in commercial facilities 
+when in March last year, we saw ten times that amount. We know 
+how and where to look for high-path AI. We know how to respond 
+quickly so producers can get back to producing food, how 
+important biosecurity is, and how to keep trade markets open as 
+well. We also know from our partners at the Centers for Disease 
+Control and Prevention that the currently circulating virus 
+strain poses a low human health risk to the public. And if 
+high-path AI cases surge again, with continued partnership with 
+states and producers, we know what to do, and we are ready.
+    With respect to African swine fever, our efforts continue 
+to keep this deadly virus offshore. We have enhanced 
+inspections, increased our surveillance capabilities, and 
+educated producers and veterinarians about the signs and risks 
+of the virus. I remain confident that we can keep this disease 
+away, but we are all prepared to respond to any incursion, and 
+the farm bill programs have helped us improve our readiness.
+    Mr. Chairman, we always want to keep these foreign animal 
+diseases out of our country, and these new tools that Congress 
+has given us have enhanced our efforts. We are better prepared 
+to detect, to respond, and to eliminate foreign animal diseases 
+because of them.
+    I look forward to your questions. Thank you.
+    [The prepared statement of Ms. Moffitt follows:]
+
+ Prepared Statement of Hon. Jenny Lester Moffitt, Under Secretary for 
+  Marketing and Regulatory Programs, U.S. Department of Agriculture, 
+                            Washington, D.C.
+    Chairman Mann, Ranking Member Costa, and Members of the 
+Subcommittee, thank you for the opportunity to testify today on this 
+important topic. As Under Secretary for the U.S. Department of 
+Agriculture's Marketing and Regulatory Programs, I see up close every 
+day how the hard-working employees of the Animal and Plant Health 
+Inspection Service (APHIS) are protecting and enhancing the health of 
+our nation's livestock and poultry.
+    I am joined by Dr. Alecia Naugle, Associate Deputy Administrator of 
+APHIS' Veterinary Services program. She works closely with Dr. Rosemary 
+Sifford, the Chief Veterinary Officer of the United States. Together 
+they guide a workforce of veterinarians and other personnel dedicated 
+to protecting the health and marketability of American livestock.
+    Their work is essential because too many farmers are in a 
+precarious position--an outbreak of an animal disease on their farm 
+would be disastrous. While the last couple of years have seen record 
+national farm income, we know that nearly 50% of American farmers have 
+had negative farm income. Our data shows that 40% of farms are small 
+and midsize farms where the primary occupation of the household is 
+farming, but the majority of their income to support their families is 
+from off-farm sources. Only 11% of American farmers are mid-sized or 
+larger--representing over 80% of the value of U.S. agricultural 
+production, which drove the record-level farm income at a time when so 
+many were struggling. And lest we not forget that 2% of those farms 
+that did exceedingly well were actually owned by investment banks and 
+institutional investors. Our farmers and ranchers deserve the 
+opportunity to compete in a marketplace where they have a shot at being 
+profitable.
+    Farmers and ranchers also face a changing climate which is causing 
+animal and pest populations to shift into new or expanded habitats. 
+This movement can result in increased spread of pests and diseases. 
+Under the leadership of the Biden-Harris Administration and Secretary 
+Vilsack, USDA has been working hard to make our food supply chain more 
+resilient and provide rural communities with the tools they need to 
+thrive through investments in developing more, new, and better markets 
+for farmers, ranchers, and forest landowners.
+    USDA's efforts to protect animal health are fundamental to 
+achieving this goal. Every day, APHIS employees are out in the field, 
+on farms, and at the borders, inspecting and conducting surveillance 
+for animal diseases. They are working directly with individual farmers 
+and ranchers, veterinarians, states, and Tribal officials. They share 
+information and best practices about biosecurity and preparedness. They 
+oversee imports and exports of animals and animal products to ensure 
+continued safe trade, protecting and opening markets for agricultural 
+products here and abroad.
+The 2022-2023 Outbreak of Highly-Pathogenic Avian Influenza
+    Since the first commercial detection of highly-pathogenic avian 
+influenza (HPAI) in Indiana in February of last year, APHIS and its 
+state partners have responded aggressively, relying on long-established 
+and well-practiced disease response plans that are proven to eradicate 
+this virus from commercial facilities. And we have been successful. 
+Compared to this time last year, we have a small fraction of the number 
+of positive premises in commercial flocks: five in March of 2023 
+compared to 51 in March of 2022. We know the virus load remains 
+prevalent in our wild bird population and APHIS, in partnership with 
+states and industry, remains vigilant.
+    Our colleagues at the Centers for Disease Control and Prevention 
+(CDC) continue to assess that the circulating virus poses a low risk to 
+human health, so we remain focused on limited impacts to animal health.
+    The 2014-2015 outbreak of HPAI taught us the value of biosecurity. 
+Since then, USDA has emphasized its importance at every opportunity and 
+our efforts have had meaningful results. Producers have made 
+significant improvements in biosecurity, detection, and monitoring on 
+their farms, which has resulted in very little lateral, farm-to-farm 
+spread during this latest outbreak. In the 2014-2015 outbreak, 
+approximately 70% of the cases were due to lateral spread. In this 
+outbreak, lateral spread accounts for just 16% of the cases, a 
+remarkable improvement. But that number could be even smaller. Our 
+efforts show that even minor biosecurity measures have a massive impact 
+on whether the virus impacts a farm. We continue to stress more than 
+anything else, the importance of strong biosecurity to every producer--
+from the largest commercial-scale farms to smallest backyard flocks. 
+And we ask for your continued partnership in sharing the important 
+message of biosecurity with poultry producers in your districts. Our 
+Defend the Flock campaign outlines resources and steps that every 
+producer can take to safeguard the health of their birds.
+    Our counterparts at the Agricultural Research Service are hard at 
+work developing a vaccine to counter the strains of the virus currently 
+circulating so that we are prepared in the unlikely event if we should 
+ever need to turn to vaccination to complement our eradication efforts. 
+This work is ongoing, and it will still be a while before a vaccine 
+could be commercially available and easily applied. Even then, there 
+would be many factors we would weigh before authorizing its use, 
+especially with respect to the likely trade impacts of a vaccination 
+campaign. We will continue to discuss these issues with stakeholders 
+and our trading partners and weigh all these perspectives before making 
+any decisions on policy.
+    At this stage of the outbreak, continuing our current strategy of 
+eradication or ``stamping out'' HPAI is our best and most effective 
+option. We can rapidly contain and eliminate the virus in commercial 
+poultry; in fact, the majority of cases in recent months have been 
+backyard flocks. APHIS and our state and industry partners and 
+producers respond quickly and aggressively to reduce viral spread among 
+poultry operations through rapid depopulation and disposal, and 
+surveillance testing for the virus in high-risk geographic areas.
+    On top of the field veterinarians and support staff who have been 
+leading the emergency response, I would like to highlight the excellent 
+work the APHIS trade staff has done in keeping as many export markets 
+open as possible. While some of these negotiations are done after we 
+experience an outbreak, APHIS has also made great strides in securing 
+regionalization agreements to prevent market disruptions. APHIS' 
+efforts on regionalization have ensured a science- and risk-based 
+approach that is consistent with APHIS obligations under international 
+trade agreements and the continued free flow of agricultural trade. 
+Instead of limiting U.S. exports from the entire country, these 
+negotiated agreements are often at the state or county level and are 
+consistent with approaches to address HPAI in a science-based and trade 
+facilitative manner. As a result, a contained outbreak in one part of a 
+state may have little bearing on the export possibilities of producers 
+in other parts of a state. This has been a huge benefit to producers 
+across the country and these efforts have greatly helped producers stay 
+afloat during these challenging times.
+    I thank every APHIS employee who has been deployed around the 
+country, often for weeks at a time, away from family and friends, to 
+respond to this outbreak and I thank our state partners for also 
+responding aggressively. This outbreak has highlighted the critical 
+need for public sector animal health professionals, specifically 
+veterinarians. We need a robust state and Federal workforce ready to 
+respond to any outbreak. We are continually evaluating opportunities to 
+recruit and retain talented professionals as well as encourage more 
+students to consider careers in animal science. Unfortunately, 
+veterinary student loan debt and other limitations may make public 
+sector positions less attractive to new graduates. We look forward to 
+working with Members of the Subcommittee and both chambers to identify 
+solutions to workforce challenges, especially in retaining highly 
+qualified, skilled professionals for the benefit of livestock and 
+poultry producers.
+2018 Farm Bill Section 12101: Animal Disease Prevention and Management
+    We know that responding to animal health emergencies is difficult 
+and incredibly costly. The Secretary has used his emergency authority 
+to transfer nearly $800 million from the Commodity Credit Corporation 
+to combat the HPAI outbreak. The 2014-2015 outbreak cost taxpayers 
+around $1 billion. An outbreak of foot-and-mouth disease or African 
+swine fever would have even more devastating economic consequences for 
+the country, producers, and consumers, with costs to the government and 
+producers into the tens of billions. Prevention and preparedness are 
+essential if we are to protect U.S. agriculture, our export markets, 
+and the stability of the U.S. food supply.
+    That is why we are so appreciative of the tools that Congress gave 
+us in the 2018 Farm Bill. The bill created a three-tiered program to 
+support animal disease prevention and preparedness. It included the new 
+National Animal Disease Preparedness and Response Program (NADPRP), the 
+new National Animal Vaccine and Veterinary Countermeasures Bank 
+(NAVVCB), and additional funding for the National Animal Health 
+Laboratory Network (NAHLN). We are incredibly thankful for your 
+leadership in establishing these new tools and we have worked 
+diligently to fully implement these programs.
+    NADPRP gives APHIS additional resources to work with its partners 
+to expand the reach of its animal health programs and to identify and 
+fill in gaps in our existing preparedness and response capabilities. 
+Under NADPRP, APHIS provides funds to states, universities, industry 
+organizations, Tribal partners, and other eligible entities to support 
+projects that help prevent and prepare for the most serious animal 
+diseases that threaten U.S. livestock, poultry, and related industries. 
+Collectively, NADPRP projects boost the nation's capacity and 
+capability to detect, respond to, and recover from animal disease 
+outbreaks that may impact all livestock and poultry sectors and all 
+livestock and poultry operation types and sizes.
+    NADPRP projects develop programs and provide resources to:
+
+   increase producer's use of effective and practical 
+        biosecurity measures;
+
+   training and exercises for animal agriculture emergency 
+        responders and producers;
+
+   educate livestock and poultry owners on disease prevention 
+        and build awareness of what happens in an outbreak;
+
+   develop and implement carcass disposal and decontamination 
+        techniques;
+
+   create and test animal movement plans for outbreak 
+        scenarios; and,
+
+   help states develop and exercise animal disease response 
+        plans to enhance their readiness to quickly control high-
+        consequence animal disease outbreaks.
+
+    One major NADPRP success story is the Certified Swine Sample 
+Collector Training Program, a cooperative agreement with Iowa State 
+University, which has become a cornerstone of our African swine fever 
+prevention efforts. Iowa State worked cooperatively with major swine 
+industry organizations to develop, evaluate, and improve this highly 
+regarded and frequently used training program. NADPRP funded online 
+training videos and other materials to educate sample collectors, and 
+the swine industry has been instrumental in sharing this program with 
+producers and encouraging participation. This program is part of a 
+national diagnostic sample collection training program designed to 
+assure state and Federal animal health officials that producers, 
+caretakers, and other pork industry personnel have been trained through 
+a standardized process by accredited veterinarians to correctly 
+collect, handle, and submit samples. This would be invaluable in the 
+unlikely event of an outbreak.
+    Overall, about 24 percent of NADPRP projects have been focused on 
+improving biosecurity, the importance of which we now see with the HPAI 
+outbreak. About \1/3\ have been focused on improvements for 
+depopulation and disposal, which would be critical in the event of an 
+outbreak. The program has greatly improved the reach of our animal 
+health efforts and improved our preparedness and ability to respond to 
+foreign animal pests and diseases.
+    Last month, APHIS announced the FY 2023 list of projects funded 
+under this section of the farm bill. We awarded $15.8 million to 60 
+projects led by 38 states, land-grant universities, and industry 
+organizations to enhance our nation's ability to rapidly respond to and 
+control animal disease outbreaks. This year's projects focused on 
+enhancing prevention, preparedness, early detection, and rapid response 
+to the most damaging diseases that threaten U.S. livestock. Projects 
+will help states develop and practice plans to quickly control disease 
+outbreaks, train responders and producers to perform critical animal 
+disease outbreak response activities, increase producer use of 
+effective and practical biosecurity measures, educate livestock owners 
+on preventing disease and what happens in an outbreak, and support 
+animal movement decisions in animal disease outbreaks, among others. 
+APHIS also intends to fund additional projects that will be led by 
+Tribal partners and will announce those projects this spring.
+    The 2018 Farm Bill provided additional funding for NAHLN. NAHLN is 
+a nationally coordinated network and partnership of 60 Federal, state, 
+and university-associated animal health laboratories, which provides 
+animal health diagnostic testing to detect biological threats to the 
+nation's food animals, thus protecting animal health, public health, 
+and the nation's food supply. We are thankful to Congress for their 
+ongoing support for NAHLN through annual appropriations bills, which 
+provides most of the Federal funding for the network. Funding provided 
+by the farm bill supplements the existing yearly appropriation and 
+allows the laboratories to take on new and important projects that 
+enhance coordination and animal health diagnostics. As we saw with the 
+HPAI outbreak, the labs that are part of NAHLN are the backbone of our 
+disease surveillance and response, rapidly detecting disease and 
+providing insight into where to focus our eradication efforts.
+    APHIS has awarded $21 million in funding from the farm bill to the 
+NAHLN laboratories over the past 3 years, including a few projects 
+funded jointly with NADPRP. We plan to award an additional $7.5 million 
+this year. It is also worth noting that many NAHLN labs served as surge 
+capacity for human COVID-19 testing during the height of the pandemic, 
+demonstrating their value to our overall national healthcare 
+infrastructure beyond their critical role for animal health.
+    The third component to the farm bill's animal health program is the 
+National Animal Vaccine and Veterinary Countermeasures Bank. While our 
+ultimate goal is to keep foreign animal pests and diseases out of the 
+country entirely, the vaccine and countermeasures bank will allow us to 
+respond quickly should a high consequence disease strike the United 
+States. Per the direction from Congress, the bank is primarily focused 
+on vaccines and countermeasures that would target an outbreak of foot-
+and-mouth disease (FMD). APHIS has kept FMD out of the country for 
+nearly a century and we are confident that the system of overlapping 
+safeguards we have in place--including the exclusion of imports from 
+affected countries and at-the-border inspections of animals and animal 
+products--will continue to keep the disease out. However, given the 
+massive costs an outbreak of FMD would cause, having a vaccine at the 
+ready is a prudent measure which would work with our existing 
+inspection and eradication measures, and is an insurance policy should 
+the worst occur.
+    The vaccine bank is focused on providing coverage for the highest 
+priority strains of the FMD virus. APHIS, on the advice of the 
+technical committee that provides scientific recommendations and 
+oversees and guides the vaccine bank, has provided more than $56 
+million for the purchase of vaccine antigen concentrate and will invest 
+an additional $15 million this year.
+    Although much of the focus has been on acquiring vaccine antigen 
+concentrate, we also invested $520,000 in other countermeasures, such 
+as diagnostic test kits for foot-and-mouth disease and African swine 
+fever for the first time in 2022. We have a sources--sought notice open 
+to gather worldwide information regarding available test kits for those 
+two diseases and classical swine fever. We will make future purchases 
+after reviewing the responses, with the intent to purchase from more 
+than one source to ensure an adequate supply in case of an outbreak.
+Response to the Threat of African Swine Fever
+    I mentioned previously how important it is to keep foreign animal 
+diseases out of the country. That is why APHIS took immediate steps to 
+strengthen our defenses when, for the first time in several decades, we 
+detected African swine fever (ASF) in the Western Hemisphere. ASF is a 
+devastating, deadly disease of swine that would have a significant 
+impact on U.S. pork producers and the economy if it were to be detected 
+in the United States. There is no treatment or vaccine available for 
+this disease approved for use in the United States, although we are 
+hopeful that the work of our colleagues in the Agricultural Research 
+Service will soon yield a vaccine that is fully tested and ready for 
+commercial production. The only way to stop ASF is to temporarily halt 
+the movement of all pigs and depopulate all affected or exposed swine 
+herds. A detection here would immediately close overseas export 
+markets, which are critical to the profitability of the swine industry, 
+and it would take many months or years to fully restore those markets.
+    When an existing cooperative disease surveillance program 
+identified the virus in pigs in the Dominican Republic in July 2021 and 
+later in Haiti, APHIS took swift action to augment and enhance its many 
+existing defenses. We already have a strong system of overlapping 
+safeguards in place, including restrictions against imports of animals 
+or pork products from ASF-affected countries. We looked closely at 
+potential pathways the virus could enter and worked with our partners 
+to close them. For example, our U.S. Customs and Border Protection 
+colleagues enhanced inspections of passengers coming from the region 
+and are closely monitoring the handling of regulated garbage from 
+airplanes. We worked with the Coast Guard to identify boats traveling 
+to Puerto Rico whose passengers could unintentionally carry the virus 
+and have conducted appropriate disease surveillance where the boats 
+were detected.
+    Most notably, we established a protection zone around Puerto Rico 
+and the U.S. Virgin Islands. Since those are U.S. Territories, any 
+incursion of ASF onto those islands could trigger trading partners to 
+cut off trade from the mainland. The World Organisation for Animal 
+Health permits the establishment of a protection zone within an area 
+free of disease, as a temporary measure in response to an increased 
+risk from a neighboring country or zone of different animal health 
+status. The protection zone we created allows the continental U.S. to 
+retain its disease-free status and continue our international trade, 
+even if there is an ASF detection in Puerto Rico or the U.S. Virgin 
+Islands. It also allows APHIS to enhance surveillance and create 
+additional rules for movement restrictions of live swine and products 
+out of the protection zone, protecting the islands from the virus and 
+enhancing protections for the U.S. livestock industry.
+    Beyond establishing the protection zone, we are focusing additional 
+resources on Puerto Rico and the U.S. Virgin Islands. We have removed 
+feral swine in Puerto Rico and the U.S. Virgin Islands because feral 
+swine are a natural reservoir for the disease and could help the virus 
+spread quickly if it moved to those territories. We have also made 
+improvements to the diagnostic laboratory in Puerto Rico, providing 
+resources and technical assistance to increase that lab's capabilities 
+to run important diagnostic tests. We have enhanced inspections of 
+passengers traveling to and through the territories. We have run a 
+bilingual public education campaign in those territories and the region 
+to educate the public, veterinarians, and producers about the risks of 
+ASF and how they can help stop the spread of the virus.
+    The Secretary, using his emergency transfer authority under the 
+Animal Health Protection Act, transferred $500 million from the 
+Commodity Credit Corporation for these and other enhanced ASF 
+prevention and response activities. APHIS has used that funding to 
+strengthen its response activities and has placed teams of 
+veterinarians and animal health officials in the region. APHIS 
+officials are working closely with the Dominican Republic, providing 
+technical and financial assistance for a plan to control the disease in 
+the country, thereby strengthening the animal health security of our 
+domestic producers. APHIS is also working closely with the Dominican 
+Republic to modernize and support their animal health laboratory 
+capabilities, ensuring effective and proactive surveillance testing is 
+available in the region. In Haiti, APHIS is focused on providing 
+supplies and remote technical laboratory support to agricultural 
+officials and is working with them on long-range plans, although the 
+political instability of that country presents an ongoing challenge. We 
+will continue to work with animal health officials in the region in 
+further developing those plans and do everything we can to keep this 
+high consequence disease out of the country.
+    Domestically, we have built upon our existing system of safeguards 
+to strengthen our defenses here. We have trained 65 additional detector 
+dog teams who work with U.S. Customs and Border Protection at key 
+commercial seaports and airports. We have ramped up testing capacity at 
+our National Animal Health Laboratory Network. We also developed an 
+extensive public outreach campaign, including advertising and signage 
+at the largest international airports and digital advertising related 
+to searches and other requests for information about international 
+travel. We have also specifically geared information campaigns towards 
+veterinarians and producers, educating them about ASF and what the 
+signs of it are so that they can enhance our surveillance for the 
+disease.
+Animal Disease Traceability
+    Earlier this year, we issued a proposed rule that would update our 
+animal disease traceability regulations. The rule would require 
+electronic identification for interstate movement of certain cattle and 
+bison, which would strengthen the nation's ability to quickly respond 
+to significant animal disease outbreaks. Major animal disease outbreaks 
+hurt our ranchers and farmers and all those who support them along the 
+supply chain, threaten our food security, and impact our ability to 
+trade America's high-quality food products around the world. Rapid 
+traceability in a disease outbreak could help ranchers and farmers get 
+back to selling their products more quickly; limit how long farms are 
+quarantined; and keep more animals from getting sick.
+    We recently extended the comment period for that proposed rule and 
+are accepting comments through April 19. We have received over 1,000 
+comments already, and I can assure you that we will carefully review 
+those and use that information to determine our next steps on this 
+important initiative.
+The Agricultural Quarantine Inspection Program
+    Before I conclude, I'd be remiss if I didn't note our appreciation 
+for what this Committee and the Appropriations Committees have done to 
+help shore up funding for the Agricultural Quarantine Inspection (AQI) 
+program over the last few years. AQI is the backbone of our efforts to 
+protect plant and animal health. With our frontline partners at U.S. 
+Customs and Border Protection (CBP), the program provides the series of 
+overlapping safeguards that ensure commodities, cargo, and passengers 
+entering the country do not harbor harmful pests or diseases. Whether 
+from the APHIS scientific, technical, and regulatory officials deciding 
+what can be imported safely under what conditions and from where, CBP's 
+inspectors looking through cargo, or the APHIS-trained beagle brigade 
+sniffing out passenger baggage and cargo for meat and other 
+agricultural products, the systems we have in place protect U.S. 
+agricultural resources.
+    During the pandemic, owing to changes in travel patterns, the user-
+fee funded program faced shortfalls that could have led to widespread 
+furloughs curtailing our ability to conduct these inspections and 
+scientific and technical work. Thankfully, Congress stepped in, giving 
+the program necessary funding to fill the gap, and we are back on 
+strong footing.
+    Nevertheless, it has been many years since those user fees were 
+last adjusted and changes in transportation and conveyance methods and 
+sizes have rendered those fees outdated. We are in the process of 
+developing an updated fee schedule, which is going through the 
+rulemaking process. While we are still early in this process, we will 
+certainly keep this Subcommittee informed of our progress.
+Conclusion
+    Again, I appreciate the opportunity to highlight these important 
+programs for you today. I know we are in the midst of another farm bill 
+cycle. The enhanced tools that Congress gave us in the 2018 Farm Bill 
+have had very positive outcomes for our animal health programs and we 
+are certain that the Subcommittee's work on the next farm bill will 
+continue the critical work of safeguarding animal health. We stand 
+ready to support you as you develop this important legislation and 
+appreciate your understanding that ``An ounce of prevention is worth a 
+pound of cure.''
+    Thank you for inviting me to join you today. I'm happy to answer 
+your questions.
+
+    The Chairman. Thank you for your important testimony this 
+morning.
+    At this time, Members will be recognized for questions in 
+order of seniority, alternating between Majority and Minority 
+Members and in order of arrival for those who joined us after 
+this hearing convened. You will be recognized for 5 minutes 
+each in order to allow us to get as many questions in as 
+possible.
+    First, I will recognize myself for 5 minutes.
+    Under Secretary Moffitt, as I mentioned in my opening 
+statement, the last farm bill included historic investments in 
+animal health programs, including the National Animal Health 
+Laboratory Network, the National Animal Disease Preparedness 
+and Response Program, and the National Animal Vaccine and 
+Veterinary Countermeasures Bank, not to mention the work to 
+solidify the National Bio and Agro-Defense Facility that is 
+currently being constructed and is almost completed in the big 
+1st District of Kansas.
+    Can you talk about how these farm bill programs are used to 
+complement other programs and funding streams to bolster APHIS' 
+ability to carry out one of its core missions, protecting the 
+health of the U.S. animal population?
+    Ms. Moffitt. Chairman Mann, thank you so much for that 
+question. As I outlined in the testimony and as you just talked 
+about, the three different programs interlocking together are 
+very important. I come from production agriculture myself, and 
+the importance of a farmer to be able to have many different 
+tools is similar to our own APHIS animal disease preparedness 
+response, as well, to be able to have funding, to be able to do 
+tabletop exercises, other exercises so that we are ready and 
+prepared to be able to respond to animal disease outbreaks, as 
+well as, of course, the lab network--the extensive lab network 
+throughout the country, and then of course the insurance policy 
+through the vaccine bank. All of these things are important.
+    And your question about how we supplement that with the 
+existing resources, annual appropriations that APHIS and USDA 
+received, writ large, is a very important part of that. We have 
+an incredible team at APHIS that Chairman Thompson mentioned, 
+and a lot of that funding comes through annual appropriations. 
+The lab network in fact is also funded through annual 
+appropriations as well.
+    And then finally, I will just emphasize when and should we 
+have an animal disease outbreak like high-path AI, the 
+importance of being able to use CCC funding to be able to 
+manage that outbreak is important as well.
+    The Chairman. Thank you. As we work to reauthorize these 
+programs through the next farm bill, is there anything in 
+particular that you would advise that this Committee consider?
+    Ms. Moffitt. I think one thing that is really important 
+about the funding and the authority that was provided through 
+those three different programs in the 2018 Farm Bill is the 
+flexibility that is allowed there so that our staff and our 
+team of animal health responders have that flexibility. I think 
+that is such an important part.
+    Of course, we will continue to work through the lab 
+network. We will continue to work in all of the different 
+pieces of that. We also know that we have over 800 APHIS staff 
+who have been deployed at least once in a 6 week period many 
+multiple times, so building up our workforce is a very 
+important part of that as well.
+    The Chairman. Yes, I agree. Thank you. On January 19, 2023, 
+APHIS proposed a rule that would require electronic 
+identification, or EID, ear tags for purposes of animal disease 
+traceability and as a requisite for official interstate 
+movement of certain cattle and bison. While I understand the 
+goals here will obviously come with added cost to producers in 
+my district in Kansas and across the country, in the past, 
+APHIS has provided free EID tags and financial assistance for 
+related infrastructure to prepare for compliance efforts with 
+such a regulation. So I am curious, what are the Department's 
+plans for mitigating the cost to producers and other entities 
+like sale barns for compliance with this rule, should it become 
+final?
+    Ms. Moffitt. Yes, thank you, Mr. Chairman, for recognizing 
+the work that APHIS has done in the past in providing animal 
+ear tags. Over 19 million ear tags have been distributed 
+already by APHIS. This rule right now is in draft form. I think 
+we have received over 1,000 public comments so far, and the 
+rule closes tomorrow, and so we are still accepting public 
+comments. We will take those public comments as we will look 
+at, as the team at APHIS looks at drafting the final rule and 
+taking into consideration impacts and opportunities for small 
+producers, large producers, and everyone in between.
+    Should there be funding allowed and funding available, we 
+can continue to look at ways that we can distribute additional 
+ear tags. We are also working with sale barns and auction barns 
+and distributing and handing out readers as well so that when 
+animals come to auction, there is an ability to be able to 
+identify them as well.
+    The Chairman. Yes, thank you. We ought to remember what 
+these regulations mean to producers, so I appreciate your 
+comment.
+    One last question, I am also closely monitoring the Food 
+and Drug Administration's proposed changes to long-standing 
+labeling requirements for re-implanting of shorter-acting 
+growth implants for cattle. While I understand this is not a 
+USDA issue, I do want to mention that USDA should be at the 
+table when FDA is making decisions like these that would 
+abruptly stop a common practice that could adversely impact the 
+industry. How is USDA working with FDA on these proposed 
+changes?
+    Ms. Moffitt. Well, thank you for that question. USDA 
+continuously works with FDA on a myriad of different issues 
+where we share common ground, we share common work, and we 
+would be happy to work with FDA on working through this issue 
+as well so that the voices of agriculture and the perspective 
+that USDA can bring are a part of the decision for FDA.
+    The Chairman. Thank you. Yes, please do as this regulation 
+will certainly negatively impact our cattle producers and, at 
+the end, will increase the cost of our food supply at a time of 
+rising inflation, so thank you.
+    With that, I now recognize the Ranking Member, the 
+gentleman from California, for 5 minutes.
+    Mr. Costa. Thank you very much, Mr. Chairman.
+    Before I get into my questions, I want to make a couple of 
+observations. We talked about the three programs that we 
+initiated in the last farm bill, the vaccine bank, the National 
+Animal Preparedness Response Program, and the Animal Health 
+Laboratory Network. But I want to note that, frankly, these 
+programs are only as effective as the people that enact them. 
+An effective response is dependent upon a highly trained 
+veterinarian and support staff who can work with stakeholders 
+to contain the certain outbreaks. We have a shortage of 
+veterinarians across the country. We need to do and take into 
+consideration I think in the farm bill a strong pipeline of the 
+veterinarian professionals so that we can continue to support 
+the efforts of APHIS, which is so important that we have and 
+maintain a trained staff to address outbreaks.
+    And so the farm bill of course does a host of things to 
+ensure, as I said earlier, maintaining food security and that 
+food security is a national issue. We just need to remember, I 
+believe, that the past year, the cost of an outbreak will far 
+exceed the cost of supporting disease prevention programs. 
+Remember that. The cost of an outbreak far exceeds the cost of 
+these prevention programs.
+    With that said, Secretary Moffitt, looking at the current 
+response, you partially answered that question in answer to the 
+Chairman's question in terms of what improvements you think 
+need to be made to optimize future outbreaks. And is there the 
+authority with APHIS that would provide a more effective 
+response? And because of your previous experience not just as a 
+farmer, producer in California's Department of Food and 
+Agriculture, how do you think we can more closely coordinate 
+the efforts between state and Federal efforts to manage these 
+diseases?
+    Ms. Moffitt. Well, thank you for that question. And, I 
+think there are a few things. So, first, as you recognize, 
+coming from the California Department of Food and Agriculture, 
+in fact in I think early 2020 before the pandemic, thanks to 
+funding from NADPRP and through the partnership that the state 
+and Federal Government really strongly have in collaboration, 
+we did a tabletop exercise should there be a foot-and-mouth 
+disease outbreak in the dairy industry in California. So that 
+funding, I know firsthand how important it can be for states in 
+readiness and preparedness, as well as of course with industry 
+partners and university and land-grant partners as well.
+    Mr. Costa. That partnership is critical.
+    Ms. Moffitt. Yes, it is.
+    Mr. Costa. And we need to build on it. Our trading partners 
+often use non-tariff barriers to deal with their internal 
+politics in terms of our ability to trade. And I am wondering 
+if you have developed a strategy toward maintaining our trade 
+efforts when we have efforts to vaccinate, especially in light 
+of the high-path impacts and the potential and concerns about 
+them. And of course, we have dealt with depopulation, as you 
+well know.
+    Ms. Moffitt. Yes, so your question relates as we are 
+looking at all different tools in the tool chest, they are very 
+important. And you asked about the different mechanisms that we 
+have. And Dr. Naugle can talk a little bit about some of the 
+lessons that we are learning in the current outbreak and how we 
+are applying that.
+    But I will just quickly answer the vaccine question. It is 
+very important as we consider vaccine, first off, we are many, 
+many, many months, in fact, 18 to 24 months down the road. ARS 
+is not really doing research trials at this point. But, it is 
+important that as we look at and evaluate a potential for a 
+vaccine, we are looking at things like human health, animal 
+health, trade impacts, and also implementation of the vaccine 
+strategy. So there are many things that we would be factoring 
+and weighing----
+    Mr. Costa. Yes, my time is expiring here. Doctor, quickly, 
+how do our trading partners look at our ability to maintain 
+high standards to contain any health impacts? Could you comment 
+quickly?
+    Dr. Naugle. Yes, I mean, our trade partners, we are working 
+actively with many different trade partners around the world on 
+a regionalization approach so that we have in place--and this 
+is something we developed since the 2015 outbreak--strong 
+regionalization approach for both high-path AI, as well as we 
+are developing it for African swine fever.
+    Mr. Costa. And our efforts to improve diagnostic and 
+surveillance technology comes hand-in-hand with it, right?
+    Dr. Naugle. Absolutely. Absolutely. If we know where the 
+disease is----
+    Mr. Costa. How are we doing there?
+    Dr. Naugle.--we can keep it--sir?
+    Mr. Costa. Well, my time has expired. I was asking how are 
+we doing there to improve diagnostic and surveillance 
+technology.
+    Dr. Naugle. How will we improve it? We will constantly 
+improve it. We are working with our labs network around the 
+country. Rapid detection and diagnostic technology is really 
+important, and some of the funding for the lab network has also 
+been for rapid diagnostic testing as well.
+    Mr. Costa. Thank you.
+    The Chairman. Great. The chair recognizes the gentleman 
+from Alabama and my good friend, Congressman Moore, for 5 
+minutes.
+    Mr. Moore. Thank you, Mr. Chairman.
+    Over the Easter break I had some hearings with our ag--we 
+call them listening sessions in Alabama. And one of the things 
+that I noticed, is that feral hogs are starting to be an issue. 
+And I can remember growing up we had a military base, Fort 
+Rucker, they were getting kind of in the farmers' land now, but 
+it seemed like all over the district, in the 2nd Congressional 
+District, we have these questions about feral hogs. And I was 
+really glad we had the pilot program in 2018 before I got here 
+that my colleagues put in. But if you don't mind, Under 
+Secretary or Dr. Naugle, if you all could kind of elaborate on 
+some of the things that are going on for the feral swine, the 
+control process and what the outlook is, if we have any 
+optimistic predictions for the future.
+    Ms. Moffitt. Yes, thank you for recognizing the pilot 
+program. That is a partnership with NRCS and APHIS together, 
+which I think is a really unique opportunity in a pilot to 
+really come together and take a whole-of-USDA approach, 
+improved access to landowners. We have worked with over 6,000 
+landowners in the country through this pilot program and 
+partnered on over 8 million acres of land to work on removing 
+and eradicating feral hogs. This is complementary to annual 
+appropriations that APHIS continues to receive and has received 
+since 2014. We have been successful today in successfully 
+eradicating feral hogs from seven states, and we are close to 
+four more additional states.
+    Mr. Moore. I hope Alabama is on one of those lists.
+    What are you guys seeing that you feel good about in the 
+program as far as eradication? I understand there are some 
+medications, there are some treatments they are finding that 
+seem to be working. Is that the case, Dr. Naugle? Is that what 
+you are seeing?
+    Ms. Moffitt. Yes, Dr. Naugle?
+    Dr. Naugle. Yes, our Wildlife Services Unit uses a variety 
+of complementary tools to be able to eradicate those hogs.
+    Mr. Moore. Thank you. Now, onto the next question I got a 
+lot of concern about last week was chronic wasting disease, and 
+how it's wreaked havoc on deer populations across the country. 
+I was happy for the passage of the Chronic Wasting Disease 
+Research and Management Act last Congress, which authorized 
+additional annual funding to be divided equally between CWD 
+research and state and Tribal CWD management efforts. Under 
+Secretary Moffitt and Dr. Naugle, can you talk about APHIS' 
+ongoing work to manage CWD and the promising developments on 
+that front as well?
+    Ms. Moffitt. Yes, I will kick it off and pass it on to Dr. 
+Naugle. Yes, as you mentioned, chronic wasting disease is 
+absolutely devastating in so many states. Chairman Thompson 
+also mentioned that as well. We were pleased that we were able 
+to, thanks again to funding that we have received through 
+Congress, be able to allocate another $12 million toward that 
+combination of research and state partnerships because that is 
+such an important thing, the mix of both understanding, as well 
+as applying our work together.
+    And I will pass it to Dr. Naugle.
+    Dr. Naugle. Yes, I will extend a little bit on Under 
+Secretary Moffitt's comment about the funding we have provided 
+to states, Tribes, and universities. In 2022, we provided $9.5 
+million to those states, Tribes, universities for these 
+cooperative agreements that help them control CWD not only in 
+farm-cervid populations but wild-cervid populations as well, 
+and we just announced last week the additional $12 million. I 
+am very excited about that.
+    Within APHIS, we really have two approaches. On the 
+wildlife side, our Wildlife Services, again, conducts research 
+and supports wildlife management activities with regard to CWD, 
+and on the Farm Service side we do have our voluntary herd 
+certification program, of which 28 states participate in.
+    Mr. Moore. Thank you, Dr. Naugle.
+    With that, Mr. Chairman, I will yield back.
+    The Chairman. Thank you.
+    Next, I now recognize the gentlewoman from Connecticut for 
+5 minutes.
+    Mrs. Hayes. Thank you. Animal diseases can be devastating 
+to any farm but especially to the small family farms that 
+represent the majority of operations in the United States. 
+Under Secretary Moffitt, in your testimony you highlight the 
+gap between the minority of large, wealthy farms and the 
+majority of small, struggling farms. The farms in Connecticut's 
+5th District represent this fact. You have been there, so you 
+know what it looks like. Ninety-four percent of them are family 
+farms, and 92 percent have less than $100,000 in sales value. 
+For example, producers in my district may rely on fewer than 
+two dozen dairy cows for their livelihood, and any diseases 
+could do irreparable damage to their way of life.
+    Under Secretary Moffitt, can you describe how the Animal 
+and Plant Health Inspection Services disseminates information 
+to the smallest and most vulnerable producers? And 
+additionally, to what extent does your agency work directly 
+with farmers to improve biosecurity and develop best practices?
+    Ms. Moffitt. Congresswoman Hayes, thank you so much for 
+that question. And working with and making sure that we are 
+prioritizing farmers of all sizes, of all backgrounds who are 
+working in different fields and different value-add is very 
+important and is a priority. As you probably have heard in the 
+Secretary's testimony as well, making sure that we are 
+supporting the many and all of the farmers, so thank you for 
+asking that question.
+    As far as outreach and how are we reaching out through our 
+different APHIS programs, we have a couple different programs, 
+actually, several different programs but a couple that I will 
+highlight, and Dr. Naugle can add some more as well. So we have 
+things like the Defend the Flock Program, which is really about 
+partnering and disseminating information about signs, symptoms 
+of highly-pathogenic avian influenza, and then also our 
+partnership with states as we work on stamping out the disease 
+and making sure that producers have access to indemnity 
+payments and that all producers know of the available resources 
+that we have.
+    On African swine fever, it is the same thing. We have a 
+Protect Our Pigs Campaign. These campaigns are very much in 
+partnership with industry, with states, with Cooperative 
+Extension, who I know are such important tools and partners for 
+particularly small producers but producers of all sizes. So 
+these are very important as we get information out and 
+disseminated and so that everyone, even backyard farmers to 
+small farmers to larger farmers, have access to this really 
+critical, important information.
+    Dr. Naugle?
+    Dr. Naugle. And I would just echo some of Under Secretary 
+Moffitt's comments. We have a nationally distributed workforce 
+in APHIS veterinary services, and you will often see our 
+employees at local meetings with livestock producers, on the 
+farm with producers, small families, whether they are helping 
+them to work through a regulatory problem, just doing a check-
+in and providing education, that is key.
+    I would also add that, again, the work through NADPRP, the 
+National Animal Disease Preparedness and Response Program, many 
+of the projects that we have funded have worked and focused on 
+outreach with some of the particular producer groups that you 
+described, right, because we recognize that we need to reach 
+out to those producers maybe in a different way than some of 
+our big national communication programs like Defend the Flock 
+or Protect Our Pigs.
+    Mrs. Hayes. Thank you. I think we have to be intentional 
+about making sure this information reaches the smallest of 
+farmers so that our work can really be done well.
+    You also mentioned, Under Secretary, the need for public-
+sector animal health professionals and veterinarians. 
+Connecticut is home to 20 agricultural science and technology 
+education programs such as the one at Shepaug Valley School in 
+Washington, Connecticut. Give me 2 minutes and I am going to 
+get to education somehow. These programs provide high school 
+students with diverse science case working career exposure in 
+agricultural management, mechanics, biotechnology, animal 
+science, and more.
+    Under Secretary Moffitt, very quickly, can education 
+programs targeted at high schoolers help alleviate workforce 
+shortages in the animal health sector? And are you aware of any 
+strategies that APHIS and USDA will use to support agricultural 
+science and technology education programs?
+    Ms. Moffitt. Thank you so much for that question, and 
+absolutely, those programs that you described are such an 
+important part of building our workforce, bringing in students 
+in this talent pipeline I think is so important. At APHIS we 
+have the AgDiscovery Program that is actively working with high 
+schoolers, middle schoolers to build that pipeline and for 
+youth who are interested in sciences, interested in agriculture 
+to discover through this AgDiscovery Program different possible 
+careers so that hopefully they come and want to work at USDA or 
+in agriculture, writ large.
+    Mrs. Hayes. Thank you. I will just close by saying I am so 
+incredibly proud of Shepaug Valley High School and their 
+agriscience program in my district, and I am going to put my 
+neck out there and extend an invitation to you to visit at any 
+time.
+    My time has expired. I feel bad, but I do apologize in 
+advance. I have to go to another hearing. Thank you for your 
+time today.
+    The Chairman. Thank you. Next, I now recognize the 
+gentleman from Wisconsin for 5 minutes.
+    Mr. Van Orden. Thank you very much for coming. I just have 
+a few questions for you, Madam Under Secretary.
+    I am particularly concerned about diseases being introduced 
+to our herds and flocks around the country. It has a 
+devastating economic impact on agriculture. One of the things I 
+would like to ask about is African swine flu. Are we importing 
+hogs from Africa?
+    Ms. Moffitt. I can have Dr. Naugle talk a little bit more 
+about some of the interlocking and the things that we are doing 
+to make sure that we keep African swine fever out of the 
+country. African swine fever is unfortunately in many countries 
+and particularly close to us is in the Dominican Republic and 
+Haiti as well.
+    Mr. Van Orden. In Puerto Rico, right.
+    Ms. Moffitt. I will pass it to Dr. Naugle to talk about the 
+different things, but important is the import controls that we 
+have that Dr. Naugle can talk about.
+    Mr. Van Orden. Right. So I am just going to cut you off 
+here. I know the answer. I am asking this. Are we importing 
+pork into this country from anywhere? That is just an example 
+because the African swine fever--are we importing pork into the 
+United States?
+    Ms. Moffitt. Yes, we import pork and pork products into the 
+United States.
+    Mr. Van Orden. Okay. Are we importing poultry into the 
+United States?
+    Ms. Moffitt. Yes.
+    Mr. Van Orden. Okay.
+    Ms. Moffitt. We import poultry and poultry products into 
+the United States.
+    Mr. Van Orden. All right. So I understand this. So can you 
+maybe explain to me why we are importing pork into the United 
+States and poultry into the United States when the American 
+farmer is capable of producing these in nearly unlimited 
+capacity if they have the appropriate types of regulatory 
+controls established by the Government?
+    Ms. Moffitt. Yes, so international trade that we enjoy goes 
+two-ways, and so there are some types of product that are 
+important that we can import here for consumer preferences.
+    Mr. Van Orden. Yes.
+    Ms. Moffitt. But what is very important, as we are 
+importing and as we have protocols in place for importing 
+product is that we are making sure that the product that is 
+coming in is free from disease and not introducing a foreign 
+animal disease or a food safety risk to any of our industry and 
+people in the country.
+    Mr. Van Orden. I understand. So I am asking you, do you 
+think that potentially some of the policies that have been put 
+in place are restricting our ability to produce pork and 
+poultry here, including exporting them? Because I am having a 
+really hard time understanding why we are importing--pretty 
+soon, we are going to be a net importer for agriculture, and 
+from my perspective, a lot of that is due to some very 
+restrictive policies that I would like to see us open them up a 
+little bit so we could produce pork and poultry and serve it 
+around the world as opposed to potentially importing these 
+animals into the country that introduce these horrible diseases 
+into our flocks and our herds?
+    Ms. Moffitt. Yes, I think what is really important is that 
+we are working and actively working on supporting and 
+protecting our own industry so our own industry can continue to 
+grow and thrive to produce food for our domestic consumers, as 
+well as abroad.
+    Mr. Van Orden. Yes.
+    Ms. Moffitt. And I would like Dr. Naugle to talk about just 
+some of the things that we have in place so that when product 
+is becoming imported, that we aren't introducing or we are 
+reducing the risk of introducing any foreign animal diseases.
+    Mr. Van Orden. Please do, Doctor.
+    Dr. Naugle. Yes, thank you. My pleasure. So within APHIS, 
+we have a group that just focuses on regionalization services, 
+and so whenever a country requests to import any kind of animal 
+or animal product into the United States, we begin an extensive 
+and a quite long process of evaluating their veterinary 
+infrastructure, the disease status of various different 
+diseases in their country, as well as what mitigations they 
+have in place to prevent future outbreaks or respond should 
+those outbreaks occur. After that process occurs, we do 
+multiple site visits. We do formal risk assessments, all of 
+that prior to publishing a proposed rule that would allow for 
+public comment for people to let us know what they think about 
+whether we would recognize certain countries to allow for trade 
+or not.
+    Mr. Van Orden. Great. Thank you, Doctor. I am sorry, but my 
+time is going to expire here real quick.
+    Dr. Naugle. I understand.
+    Mr. Van Orden. Madam Under Secretary, I would like to put 
+on your marketing hat real quick. We go to the store, we can 
+buy skim milk, we can buy one percent milk, and we can buy two 
+percent milk. Do you know what the fat content of whole milk 
+is?
+    Ms. Moffitt. I don't. I want to say it is somewhere around 
+six percent.
+    Mr. Van Orden. It is not. It is 3\1/2\ percent. That is the 
+problem.
+    Ms. Moffitt. Three and a half.
+    Mr. Van Orden. So people think they get skim milk, one 
+percent, two percent, and they think they are drinking butter 
+when they have whole milk. So I am going to ask you, I would 
+like to get with your staff, we have to be able to change this 
+because we are prohibited from marketing whole milk as 3\1/2\ 
+percent milk, so people think they are getting six percent or 
+ten percent or 15 percent, and they believe that it is 
+unhealthy when in fact it is the most healthy form of milk. So 
+I am going to ask you to commit to getting with me and my staff 
+to see if we can--you put your marketing hat on and we can get 
+this changed so that the American consumer understands exactly 
+what they are consuming.
+    Ms. Moffitt. I will absolutely be happy to have our staff 
+and your staff connect.
+    Mr. Van Orden. Well, thank you, Madam Under Secretary and 
+Doctor. I appreciate it. With that, I yield back.
+    The Chairman. I now recognize the gentlewoman from Colorado 
+for 5 minutes.
+    Ms. Caraveo. Thank you, Chairman Mann, and to Ranking 
+Member Costa, and thank you for hosting the hearing this 
+morning.
+    Under Secretary Moffitt and Dr. Naugle, thank you for 
+taking the time to be here to provide your testimony. These 
+issues are all very important to me. One of the counties that I 
+represent is Weld County, Colorado, which is a leading producer 
+of beef, cattle, and dairy, and I am glad that animal health is 
+the focus of our first Subcommittee hearing. I do want to 
+reiterate the comments that Chairman Mann said about the ear 
+tag program and trying to make that cost as small to the 
+producers. I know that that is something that has been brought 
+up on my ag listening tours.
+    But speaking about diseases and wildlife and feral animals, 
+they increasingly pose risks to humans and agricultural health 
+and our economy, as evidenced by the recent outbreaks that have 
+been spoken about with highly-pathogenic avian influenza in the 
+U.S. and African swine fever in the Caribbean. Generally, what 
+is the USDA currently doing to assess disease spillover from 
+wildlife, enhance wildlife disease surveillance, and develop 
+cost-effective mitigation efforts that can be deployed at scale 
+in the event of an outbreak?
+    Ms. Moffitt. Thank you so much for that question. And I 
+will pass it on to Dr. Naugle to answer more fully, but I just 
+want to highlight, of course, as you well know from Colorado, 
+the National Wildlife Research Center in Fort Collins, 
+Colorado, and the importance of that program is a key part of 
+our wildlife research program. That program is doing important 
+surveillance on 31 different diseases in wildlife. And the work 
+on monitoring wild birds particularly was a key early indicator 
+for us in our highly-pathogenic avian influenza response.
+    So I will pass it to Dr. Naugle for further answer.
+    Dr. Naugle. Great. Thanks for this question. This is an 
+area that I think all of us in animal agriculture really 
+understand the risk at that wildlife-livestock interface. And I 
+think if you look at historically some of the diseases that we 
+have had control programs for in the United States like 
+tuberculosis, brucellosis, we know that both of those have a 
+wildlife component in them, right?
+    So to specifically answer your question, with many of our 
+disease programs, we do conduct surveillance in different 
+wildlife species surrounding herds that might be infected with 
+diseases that we know can affect wildlife like TB. We know we 
+have the greater Yellowstone area with brucellosis, and we work 
+very hard to implement mitigations there so we don't get 
+brucellosis in cattle in the greater Yellowstone area. 
+Additionally, the feral swine program that we talked about 
+earlier, surveillance is conducted on those swine to help us 
+look at things like swine brucellosis, pseudo-rabies, as well 
+as monitor for the potential for ASF or CSF. So we really look 
+at our disease control comprehensively and consider both 
+wildlife and livestock.
+    Ms. Caraveo. Are there resources needed to replace the 
+existing funds that came from the American Rescue Plan Act of 
+2021 (Pub. L. 117-2) that were dedicated to addressing some of 
+these concerns and efforts?
+    Ms. Moffitt. Thank you for highlighting the funding that 
+was received through the American Rescue Plan. We are working 
+actively on implementing that funding. At this point, the 
+funding has been able to identify different research projects 
+and implementation for the interface of COVID-19 and animals 
+and between animals and then also between animals and human 
+health. So that funding has been important, and we have 
+additional funds through that that we are working on developing 
+and ensuring that funding is put to good use as well.
+    Ms. Caraveo. Perfect. Thank you both so much, and I yield 
+back my time.
+    The Chairman. The chair recognizes the gentleman from 
+Tennessee for 5 minutes.
+    Mr. DesJarlais. Thank you, Mr. Chairman.
+    I think you both have been working around this question 
+that I am going to ask you just now, but just for further 
+clarifications, I will ask it maybe a little different way. 
+What steps is the USDA taking to work with outside stakeholders 
+such as State Departments of Ag, animal health officials, 
+wildlife experts, to inform the public, especially those with 
+backyard flocks, about biosecurity and resources on what 
+symptoms to look for to help mitigate the spread of avian 
+influenza?
+    Ms. Moffitt. Yes, there are a lot of resources that APHIS 
+has been putting into play, and Dr. Naugle can talk about some 
+of them specifically. I mentioned the defend the flock program. 
+That is an important one. The partnerships you identified with 
+states, with industry, with cooperative extension, with other 
+nonprofits and Tribal organizations. All of those different 
+layers of partnerships are very important so that we are 
+reaching different constituents who are getting information 
+from different information sources.
+    But I will pass it to Dr. Naugle.
+    Dr. Naugle. Yes, thank you. It is really a whole-of-
+industry response with regard to outreach and education, right? 
+In addition to some of the things previously mentioned, we do 
+provide cooperative agreement funding directly to states that 
+are impacted by HPAI to assist with their response, as well as 
+education and outreach with those local producers.
+    Mr. DesJarlais. Okay.
+    Ms. Moffitt. I will just add on, my daughter, until we 
+moved to D.C., was a 4-H member, and we would get information 
+through the 4-H network, so there are lots of different avenues 
+and wonderful avenues to get that information.
+    Mr. DesJarlais. Okay. Thank you. Under Secretary, is there 
+an end in sight to the current high-path outbreak? And if the 
+disease is here to stay, how does that alter APHIS' approach to 
+dealing with the disease moving forward?
+    Ms. Moffitt. Thank you so much for that question, 
+Representative. That is an important question, one that I don't 
+have an answer to. I wish I had a crystal ball to really know. 
+But I think what is very important--and I will pass it to Dr. 
+Naugle to talk about this because she so clearly identified it 
+last week in a meeting that we had with industry--is as we are 
+working--just like we took lessons learned from the 2015 
+outbreak, we are already incorporating lessons learned in this 
+2022-2023 outbreak, and that includes things like looking at 
+and evaluating biosecurity and what more can we do on 
+biosecurity because we know that is the one most effective 
+things in reducing lateral spread, but also how we are looking 
+at and reducing the attractiveness of wild birds because we 
+know the virus load is very strong in the wild bird population, 
+and we want to reduce the introduction from wild birds.
+    Dr. Naugle. Thank you. Additionally, I will add that we 
+also really are working at the farm level to help do 
+biosecurity assessments so producers can go through their 
+facilities and identify if there is opportunity for wild birds 
+to get in there and potentially infect their flocks. So I think 
+that is a really important step for us.
+    I think you are leading toward the vaccination question, 
+and so to that regard, we are currently behind the scenes 
+having conversations with international trading partners. Dr. 
+Sifford goes to the World Organisation for Animal Health in 
+May, and HPAI will be a major topic at that meeting, and she 
+will discuss with her counterparts across the world if we need 
+to look at vaccination differently. Right now, our partners at 
+Agricultural Research Service are investigating different 
+strains of potential vaccine for possible licensure, and 
+internally, we are determining plans for how we might implement 
+a vaccine strategy.
+    However, right now, today, we believe strongly that our 
+response has been effective. Whenever we have identified HPAI 
+in a case in domestic poultry, we have effectively stamped it 
+out. And due to the trade consequences of vaccine at this 
+point, we are planning for the future but continuing on the 
+current path. Thank you.
+    Mr. DesJarlais. Okay. And by reading my mind and answering 
+my last question, I can yield back 47 seconds.
+    The Chairman. Thank you. I now recognize the gentlewoman 
+from Maine for 5 minutes.
+    Ms. Pingree. Thank you very much, Mr. Chairman, and thank 
+you for holding this hearing. Nice to see you, Under Secretary. 
+Thank you for being with us. And thank you, Dr. Naugle, for 
+participating as well.
+    I am going to take a slightly different turn and talk about 
+aquaculture. Maine aquaculture is about an $85-$100 million a 
+year business, represents about 25 different species of 
+finfish, shellfish, sea vegetables, and is about 700 jobs in 
+our state. So aquatic animal health is very important to us.
+    APHIS has a National Aquaculture Health Plan and Standards, 
+which was released in 2021, which supports aquatic livestock 
+health. Could you give me a little bit of an update about the 
+work you are doing to protect aquatic animal health, and what 
+should we be doing in the farm bill to future your efforts?
+    Ms. Moffitt. Thank you, Representative Pingree, for that 
+question. I am going to pass it to Dr. Naugle to talk about it 
+but just wanted to highlight that the standards are out there. 
+We are working with industry and states on implementing it. And 
+Dr. Naugle can talk more about that.
+    Dr. Naugle. Yes, thank you. The aquaculture industry is 
+really an exciting industry, right? It is really growing, and 
+we are really happy to be supporting producers at the 
+forefront.
+    First, we did receive additional funding in the omnibus for 
+Fiscal Year 2023, and we are using that to further develop we 
+are calling the CAHPS, which is the Comprehensive Aquaculture 
+Health Program Standards, and what that allows us to do is it 
+develops an approach where aquaculture producers address things 
+like biosecurity, surveillance, other types of management 
+practices that support aquatic health and allow them to be 
+competitive both interstate trade, as well as potentially 
+international trade. We are very excited about that.
+    With that money, we also plan to provide about $1 million 
+in cooperative agreements with laboratories to help us further 
+with the laboratory capacity with regard to aquatic diseases, 
+which is something we haven't really focused on much in the 
+past.
+    And then finally, we continue to do risk assessments and 
+pathway assessments to look at certain high-consequence 
+diseases of aquatic species to determine if any additional 
+actions need to be taken with regard to movement of animals.
+    Ms. Pingree. Great. Well, thank you for that work, and I am 
+glad to see you are putting the new funding to work, and we 
+will look forward to working with you on that.
+    Back to the avian influenza, which I know is on everyone's 
+mind, I mean, even though we were once a huge poultry-producing 
+state, we are now much more like of a small-, medium-size, 
+backyard flocks. And unfortunately, in a backyard flock you 
+have more opportunities for making that connection with 
+wildlife. And I know you have been talking quite a bit about 
+that. Well, birds of course, but also in Maine we had avian 
+influenza detected in our harbor seals, and so because we have 
+a lot of saltwater farming, a lot of coastal farming, that is 
+something we are concerned about, too.
+    So can you just talk a little bit about the interfacing you 
+are doing with backyard flocks? And I know you have talked a 
+little bit about how you try to control it in wildlife, but 
+just some of those issues, how you are educating farmers about 
+how to watch for it to make sure we are not spreading it. I 
+know we have had some outbreaks in Maine with backyard flocks.
+    Ms. Moffitt. Yes, certainly, how to watch for it and the 
+education and the work that we are doing with farmers, backyard 
+farmers, with household farmers, with industry at large I think 
+it is such an important part. Actually--and I just learned last 
+week--the first case that we found that was detected in Indiana 
+was because of education campaigns that APHIS had done on how 
+to understand and detect symptoms that birds might be 
+exhibiting when having high-path avian influenza.
+    So it just shows the success of the program, and I think 
+that that is important, and making sure, as I mentioned before, 
+that we are working with multiple different partners who are 
+reaching different audiences I think is a very important part. 
+I know the information that I used to get on my farm is 
+different even from the information that a neighboring farmer 
+would get, and so that is an important part.
+    Identifying and then also knowing what to do when you do 
+identify that there are symptoms, calling a local vet, calling 
+cooperative extension, calling the state animal health 
+official, and how to be able to respond to that. And then of 
+course also bringing in the state officials who might also 
+invite APHIS to join as well, I think all of those interlocking 
+efforts are very important.
+    Dr. Naugle, anything additional?
+    Ms. Pingree. Great. Well, I yield back, but thank you very 
+much for being with us today and the work you are doing.
+    Ms. Moffitt. Thank you, Representative.
+    The Chairman. I now recognize the gentleman from Nebraska 
+for 5 minutes.
+    Mr. Bacon. Thank you, Mr. Chairman. Thank you, Under 
+Secretary Moffitt and Dr. Naugle, for being here.
+    One of the things I am very proud of in the last farm bill, 
+we were able to put in the foot-and-mouth disease vaccine bank. 
+If you already talked about this, I apologize. I have multiple 
+hearings going on simultaneously right now. Could you give us 
+the status of the foot-and-mouth disease vaccine bank? Is it 
+fully operational in your mind, or what else do we need to be 
+doing?
+    Ms. Moffitt. I will kick it off, and Dr. Naugle can talk 
+more fully about this. The foot-and-mouth vaccine bank, thanks 
+to the 2018 Farm Bill, we have been able to invest $52 million 
+in the vaccine bank as a whole, and that has been very 
+important. And Dr. Naugle can talk about some of the practices 
+that we have employed so that we make sure that we have--as we 
+talk about the vaccine bank, it is an important insurance 
+policy. First and foremost is biosecurity, and our work, 
+together with industry in stamping out the disease, but to have 
+that vaccine bank as an insurance policy is such an important 
+part.
+    Dr. Naugle?
+    Dr. Naugle. Yes, thanks. I will share some additional 
+detail there. So right now, within the National Animal Vaccine 
+and Veterinary Countermeasures Bank, we have access to vaccine 
+antigen concentrate for foot-and-mouth disease. We have access 
+to finished vaccine for classical swine fever, and we also 
+recently purchased diagnostic test kits for both FMD and ASF, 
+right? So the countermeasures in the vaccine bank is more than 
+just FMD, right?
+    Mr. Bacon. Okay.
+    Dr. Naugle. It is much more comprehensive.
+    As far as the number of doses that we have in the bank, our 
+goal is to be able to have somewhere between ten to 25 million 
+doses per each strain of FMD that we bank, and we have, I 
+believe, ten strains that we are currently banking antigen 
+against. That goal of 25 million doses per year is a minimum 
+goal, right? It wouldn't necessarily cover everything in the 
+event of an FMD outbreak, but it would allow us to use the 
+vaccine initially should it be needed.
+    The last thing I will say is the determination of what 
+vaccines we use, the strains that we bank against are made by a 
+subject matter expert panel that kind of help us decide based 
+on the epidemiology and the geography of those diseases which 
+are the highest risk.
+    Mr. Bacon. So would you consider yourselves fully 
+operational with the vaccine bank, or is there more work to do 
+to get----
+    Dr. Naugle. There is always more work to do, sir, always 
+more work to do.
+    Mr. Bacon. Okay. So there is always more work to do, but 
+would you consider yourself fully operational at this point?
+    Dr. Naugle. Yes. If we needed to deploy vaccine tomorrow, 
+we would----
+    Mr. Bacon. Okay. Not----
+    Dr. Naugle.--have access to FMD and CSF vaccine tomorrow.
+    Mr. Bacon. The reason I ask that question, a couple years 
+ago they said, well, we are minimally operational. We have more 
+work to do, so I think we are probably at a--now you are just 
+at a sustainment----
+    Dr. Naugle. Oh, for sure.
+    Mr. Bacon. Yes, you are at sustainment level.
+    Dr. Naugle. Absolutely. Yes.
+    Mr. Bacon. Okay.
+    Dr. Naugle. I am sorry. I misunderstood that.
+    Mr. Bacon. That is all right. Well, I probably didn't ask 
+the question quite right either.
+    Well, first of all, I want to thank the Nebraska cattlemen 
+and also the Nebraska pork industry because they came to me 
+back in 2017, said this was a top priority, and we were able to 
+work hard--initially, I was told it was too early, and that we 
+needed more research to get there, but I am so proud that we 
+have been able to achieve this huge milestone.
+    Secretary Vilsack said you are making pretty good progress 
+on the African swine fever vaccine. Can you just give our 
+citizens some update where we are at?
+    Ms. Moffitt. Yes, I had the opportunity to travel to 
+Vietnam where ARS, in partnership with the Vietnamese 
+Government, is working on field trials as we speak on African 
+swine fever vaccine trials for a handful of different vaccine 
+strains, and I think that is making very good progress. Just 
+like with the high-path avian influenza vaccine that Dr. Naugle 
+talked about, as we look toward and work on what that looks 
+like and once it gets developed and we have a plan in place on 
+how it would be able to be implemented, there are many other 
+factors that we would be considering. And Dr. Naugle can expand 
+on this more, but certainly the human factors, animal health 
+factors, what is the efficacy of the vaccine, and how would we 
+maintain and look at and evaluate trade in all of those as well 
+as we distribute.
+    Mr. Bacon. When you see what it did to the Chinese pork 
+industry, it just devastated it, so I am glad we are ahead of 
+the game here on some preventative measures and some 
+reactionary measures if it happens.
+    One last question, is your level of research dollars or 
+appropriations adequate to do what you need to do?
+    Ms. Moffitt. That is a very good question, Representative, 
+and I think, across the board we do what we can with the 
+research funds that we have, and I know Dr. Jacobs-Young has 
+been before the Senate to talk about the level of research 
+dollars we have and the advancement that we are doing in 
+research. I think what is really important is the partnership 
+that we have with industry, the partnership that we have with 
+the universities and land-grant universities to be able to 
+maximize the dollars that we have. But, as always, in 
+everything that we do, we can always do more with more funding.
+    Mr. Bacon. With that, I yield back. Thank you.
+    The Chairman. Thank you. The chair recognizes the gentleman 
+from North Carolina, Congressman Davis, for 5 minutes.
+    Mr. Davis of North Carolina. Thanks so much, Mr. Chairman. 
+Good morning, and thank you so much for being here to ensure 
+our producers have consistent, predictable USDA guidelines on 
+animal disease and prevention.
+    The hog and poultry industries are powerful economic 
+drivers in agriculture, particularly in eastern North Carolina. 
+The Animal and Plant Health Inspection Service just announced 
+more than $15 million for 60 projects, including one at North 
+Carolina State University, designed to extend a between-farm 
+African swine fever transmission model to estimate the 
+necessary number of sample collectors in the highly swine-dense 
+region.
+    My question, Under Secretary, can you give me a timeline 
+based on previously awarded funding for the rollout of the 
+National Animal Disease Preparedness and Response Program 
+grants?
+    Ms. Moffitt. Thank you for that question, and thank you, 
+Congressman Davis, for highlighting one of the projects that 
+just recently received funding. It is exciting as I look at the 
+funding that we do have and that we are able to invest in 
+projects, just the breadth and diversity of the projects that 
+are funded, how those projects--the determination of projects 
+is funded through. Similar to the vaccine bank, we bring in a 
+group of experts to really identify the top priority in funding 
+for each year. That money is distributed each year, so when you 
+ask about the timing--and I can pass to Dr. Naugle about 
+specifics for this recent round of funding--but we do announce 
+the funding every year so that there is an annual cycle of new 
+funding available.
+    And as far as the existing projects and what they are 
+looking like, Dr. Naugle?
+    Dr. Naugle. Yes. So, correct. Every year, we provide 
+funding for these projects on both the NADPRP side, which you 
+talked about, as well as the NAHLN side, right, which goes to 
+the different laboratories. The prior announcement that we just 
+did was probably the largest that we have had. It was for the 
+$15.8 million for the 60 projects. And that is because we know 
+that the last year we went to a steady state of $18 million for 
+the NADPRP program.
+    So beyond that, I would say that these agreements tend to 
+be for a year, renewable up to a second year, so the projects 
+that were initiated very early on in the course of the farm 
+bill funding are in the final stages of being completed at this 
+time.
+    Mr. Davis of North Carolina. Okay. Thank you so much. 
+Eastern North Carolina has a very robust agricultural workforce 
+and a large presence of poultry producers. And I have heard 
+from several in the industry and labor leaders. Given the 
+recent outbreak of the highly-pathogenic avian influenza, how 
+do you assess product safety and workplace safety, which go 
+hand-in-hand at large poultry processing facilities?
+    Ms. Moffitt. Thank you, Representative Davis, for that 
+question. And Dr. Naugle can talk specifically about some of 
+the safety procedures. I will just say that we take safety very 
+seriously. We want to make sure that as the team is coming in 
+and working in these poultry houses or different facilities 
+that have contagious diseases, that we are making sure that we 
+are protecting everyone, our workforce, as well as all of the 
+workforce that is there.
+    We are also making sure that we have a rapid response 
+corps, that it has the flex capacities so that we are not 
+overextending our workforce as well, and we had a rapid 
+response team to be able to handle that.
+    Dr. Naugle?
+    Dr. Naugle. Yes, I would just add from the worker safety 
+perspective in the event of a response, anyone who is working 
+on that response wears the appropriate personal protective 
+equipment. We also have a safety officer onsite at all 
+responses to ensure worker safety. We also collaborate with 
+local state departments and the CDC to ensure post-response 
+monitoring for signs of flu.
+    Mr. Davis of North Carolina. Okay. Thank you for the 
+response.
+    Over the past several years, Congress has shown tremendous 
+support for the Agriculture Quarantine Inspection Program, most 
+recently with the reintroduction of the Beagle Brigade Act 
+(H.R. 1480/S. 759). How important is this program for keeping 
+foreign animal and plant diseases and pests out of the United 
+States? And how does your agency work with Customs and Border 
+Protection to ensure its success?
+    Ms. Moffitt. Thank you, Representative Davis, for that 
+question. And that is such an important part. It is really an 
+important factor in keeping foreign animal diseases out of the 
+country is APHIS' partnership with CBP that you identified. The 
+AQI funding is the funding source for that partnership. It 
+allows us to be able to fund our partners at CBP. Any of us who 
+have come into the country from foreign travel have been 
+interviewed and asked whether we are bringing in animal 
+products, and that is a really important piece of our defense 
+mechanism to prevent foreign animal diseases from coming in.
+    We also, through that funding, are funding things like the 
+detector dog teams that are used at many airports and also 
+parcel facilities so that product that is coming in via person 
+or also parcel is inspected. These are all funded through the 
+AQI fees.
+    And we want to just recognize Congress for being able to 
+supplement the AQI fees. AQI fees, for those who might not be 
+familiar, receive various funding sources, but part of it is 
+through international air travel. And when international air 
+travel mostly screeched to a halt at the beginning of the 
+pandemic, the funding source also dropped significantly. But 
+thanks to supplemental funding from Congress, we have received 
+close to $1 billion in additional funds to continue to make 
+sure that we have our safeguards in place at all of our points 
+of entry so that we don't introduce foreign animal diseases 
+into the country.
+    Mr. Davis of North Carolina. Thank you, Mr. Chairman. I 
+would yield back.
+    The Chairman. And I recognize the gentleman from Iowa, 
+Congressman Feenstra, for 5 minutes.
+    Mr. Feenstra. Thank you, Chairman Mann, for holding this 
+hearing. You look good in that chairmanship. Thank you for 
+doing this.
+    I also want to thank Under Secretary Moffitt and Dr. Naugle 
+for being here.
+    In Iowa, obviously, the avian influenza outbreak has been 
+very extreme. I think \1/4\ of the birds that were depopulated 
+came from Iowa. Fifty-eight million birds were affected in 47 
+states, and we had 16 million turkeys, chickens, and birds 
+destroyed in Iowa, so this is significant.
+    I have lived through it. I have lived through the 2015 
+outbreak and since. I have seen a lot of changes, which is 
+great, working with APHIS and then also our Secretary of Ag 
+Mike Naig in Iowa, the depopulation time has decreased from 
+15.5 days in 2015 to about 4 days in 2022, so this is very, 
+very significant.
+    Either one of you, or Under Secretary, is there anything 
+the agency can do to start looking at minimizing the risk, or 
+can we look at predictive modeling, anything that can help our 
+producers to try to minimize this from happening each year, and 
+again, trying to curb the effects?
+    Ms. Moffitt. Thank you for that question. And, I want to 
+just acknowledge just the deep impact that highly-pathogenic 
+avian influenza has had on producers, has had on consumers as 
+well. We in this hearing really talk about and highlight the 
+success that we have seen from the farm bill programs. They are 
+working in our current outbreak, as you talked about, a big 
+difference from 2015. And that has been great in many ways, but 
+it certainly has deeply impacted the producers.
+    You asked about what additional measures that we are taking 
+and predictive tools, and there are a lot of different things 
+that we are doing. First off, I want to highlight biosecurity. 
+We have worked with producers, and industry has also worked 
+with producers on developing more robust biosecurity plans and 
+training for those biosecurity plans so that they are 
+implemented by producers. We have seen a reduction in lateral 
+spread, which is spread between house-to-house from 70 percent 
+in the 2015 outbreak to around 15, 16 percent in this current 
+outbreak, so a big, significant reduction there.
+    We have more to do. We know, as you mentioned, the virus is 
+prevalent in the wild bird population, so how do we reduce the 
+attractiveness of the farms from wild bird populations is 
+another avenue that we are working at. Predictive modeling and 
+our partners at Wildlife Services and our partners with fish 
+and wildlife agencies across the country at states is a very 
+important part of what we are doing as well. We talked about 
+the lab network through NAHLN.
+    Mr. Feenstra. Yes.
+    Ms. Moffitt. We have tested over two million birds so that 
+we understand and know where the birds are traveling so our 
+industry can be prepared.
+    Mr. Feenstra. Yes, awesome. When you talk about NAHLN, 
+obviously, that is born out of Iowa, too. Iowa State University 
+is home to the world-renowned vet diagnostic lab and they are 
+doing a lot. I am concerned. Is there anything that we can do 
+to help undertake the current workload and be more prepared 
+from the lab and NAHLN, anything that we can do in the farm 
+bill that you look at and say, hey, this might be a good idea?
+    Ms. Moffitt. For the lab networks, the variety of funding 
+sources that the NAHLN network receives is very important, 
+certainly through state funding, through land-grant funding, 
+through appropriations, as well as farm bill, and that I think 
+the variety of funding sources, I believe, has been very 
+important for those lab networks.
+    Dr. Naugle, is there anything additional?
+    Dr. Naugle. I would just add that, earlier today, we talked 
+about some of the gaps in the veterinary workforce----
+    Mr. Feenstra. Yes.
+    Dr. Naugle.--and I think when you talk about the workforce 
+of the laboratory, it is an even more specialized group of 
+people, right, because they have these additional----
+    Mr. Feenstra. Yes.
+    Dr. Naugle.--skills and capabilities, so I think workforce 
+development for laboratories is critical.
+    Mr. Feenstra. Awesome. So I am just going to pivot here, 
+and it has the same theme. African swine fever. The 
+depopulation of birds is one thing. When you have to euthanize 
+hogs is another thing. And we saw this with COVID when we had 
+to do it with COVID. Are you really taking serious measures of 
+what this is going to look like when you have to depopulate 
+large animals and where are they going to go? And I know China 
+is having this issue, right? I mean, you can't really just bury 
+them because the disease stays. I mean, have these things been 
+thought through?
+    Ms. Moffitt. Representative Feenstra, thank you for the 
+really important question. As we have been, we have been 
+absolutely preparing for the, I hope, unlikely event of African 
+swine fever in the country. With that said, we know that we 
+need to be ready, and we have been investing through funding 
+through NADPRP, as well as through the CCC funding that the 
+Secretary has authorized for African swine fever, different 
+mechanisms and rapid response so that we understand how to do 
+disposal.
+    Dr. Naugle, perhaps you can talk a little bit--oh, we are 
+out of time.
+    Mr. Feenstra. Yes. Yes. Thank you. I would like a response 
+to that in writing at some point, okay? Thank you. I yield 
+back.
+    [The information referred to is located on p. 41.]
+    The Chairman. Thank you. I now recognize the gentlewoman 
+from Virginia, Congresswoman Spanberger, for 5 minutes.
+    Ms. Spanberger. Thank you so very much, Mr. Chairman.
+    Thank you, under Secretary Moffitt, for joining us today. 
+Dr. Naugle, thank you for being here as well. It is great to 
+see you both here, and I appreciate the opportunity to speak to 
+the importance of animal health in American agriculture.
+    While livestock producers have certainly long known the 
+threat that animal disease poses to our food supply, more 
+Americans in recent times have really come to understand this 
+reality as we have seen the price of eggs continue to go up in 
+part due to the avian flu. As a mother of three children, I 
+certainly know how important this nutritious food staple can be 
+to families. Egg burritos are a fan favorite in my home.
+    And importantly, I have heard from Virginia poultry 
+producers that APHIS has been helpful as a partner in 
+responding to outbreaks in the Commonwealth, so I do want to 
+thank you for that work. But can you please share what USDA is 
+doing to help poultry producers impacted by the avian flu 
+beyond indemnity payments really to ensure the producers don't 
+go out of business after an outbreak? And I know that you have 
+touched on this periodically throughout your testimony today, 
+but I am really concerned about the long-term effects on our 
+nation's egg supply and the increase and impact on families and 
+of course the producers I represent.
+    Ms. Moffitt. Thank you, Representative Spanberger, for that 
+question. And certainly as recognized with Representative 
+Feenstra as well, the impact of what this has done for 
+producers, particularly small producers. You mentioned 
+indemnity. That is a very important part of the resources and 
+the tools that have come from the Commodity Credit Corporation 
+so that producers are able to capture some of the loss.
+    Looking further at markets and expanding and broadening 
+more and new and better markets that we often are working on at 
+the Department as well, we are looking at how do we advance 
+more local and regional markets, how do we advance more 
+processing capacity, more processing capacity, writ large?
+    Ms. Spanberger. Okay.
+    Ms. Moffitt. I know we are also looking at, and Farm 
+Service Agency is evaluating, what programs that they have to 
+support users who have been hit in this distressed time as 
+well.
+    Ms. Spanberger. Thank you. I am glad you are thinking about 
+it across the board as, of course, I knew you would be, but I 
+look forward to any updates into the future.
+    Switching from poultry to cattle, I have recently heard 
+from Virginia cattle producers that they are seeing a rise in 
+theileriosis cases within their herds, which I know you know 
+has a very high mortality rate. Unfortunately, the only way to 
+prevent this disease is through tick control, which can be very 
+costly. I have also recently learned that ELAP, the Emergency 
+Assistance for Livestock, which provides financial assistance 
+to eligible livestock producers for losses due to this disease, 
+does not cover losses due to theileriosis. Can you discuss why 
+that is and what options exist for livestock producers to help 
+with the cost of tick mitigation and losses associated with 
+this disease?
+    Ms. Moffitt. Thank you for that question, Representative 
+Spanberger. We can look into and I can connect with FSA on ELAP 
+and what is and isn't allowed to be funded, but I pass it to 
+Dr. Naugle on more things that we are doing.
+    Ms. Spanberger. Thank you.
+    Dr. Naugle. Yes. So APHIS has been kind of on the forefront 
+since the Asian longhorn tick, which is the carrier for 
+theileriosis in the Virginia area since it was first detected 
+several years ago. We work with a number of partners, including 
+the National Cattlemen's Beef Association, on educational 
+outreach. And while we don't have a vaccine, we do have 
+treatment available for that particular disease.
+    Ms. Spanberger. Thank you very much. We recently hosted a 
+farm summit in my district, and this was an area of significant 
+concern and frankly heated discussion because so many of 
+Virginia's cattle producers are deeply concerned about the 
+impact. So I would love to get additional information. We will 
+follow up in writing to request that because I do want to make 
+sure that that is available to the producers across my 
+district, so thank you very much.
+    And with that, Mr. Chairman, I yield back.
+    The Chairman. Great. The chair now recognizes the gentleman 
+from Missouri, Congressman Alford, for 5 minutes.
+    Mr. Alford. Thank you, Mr. Chairman, and thank you to our 
+witness for being here today.
+    Under Secretary Moffitt, I want to talk about workforce a 
+little bit more. I think it is so important. We all know the 
+importance of having a great APHIS staff in place to help with 
+our preparedness and response. It is my understanding that 13 
+percent of the total USDA workforce right now is eligible for 
+retirement. Is that correct to your understanding?
+    Ms. Moffitt. I don't know the exact number, but certainly--
+--
+    Mr. Alford. All right. We have done a little research on 
+this. Our top-notch staff has. In the next 4 years, another 13 
+percent is going to be eligible for retirement. That is a big 
+number. What are we doing to make sure that we have the workers 
+in place to create safety?
+    Ms. Moffitt. Thank you for that question. And I think that 
+we are very focused on how do we build our workforce across the 
+board at USDA and specifically at APHIS. As you have mentioned, 
+our APHIS workforce I would say--I call them our unsung heroes. 
+They are working behind the scenes on making sure our food 
+supply chain is safe, making sure that we have a safe and 
+secure food supply chain in there, so important. And a critical 
+part, as I think Ranking Member Costa said, in our national 
+food security. So making sure we have a workforce that is ready 
+when we do have retirements and that we are constantly flowing 
+in new employees is important.
+    As far as our workforce for emergency response, we are 
+developing a rapid response corps so that we can flex our 
+workforce and handle response capability----
+    Mr. Alford. How big will that be?
+    Ms. Moffitt. What?
+    Mr. Alford. How big will this corps be for rapid response?
+    Ms. Moffitt. It is starting out right now with 12 
+positions, so it is building up. It is just beginning. But at 
+the same time, we also are working on emergency hiring 
+authorities, so we have hired, through emergency hiring 
+authorities, 65 additional staff this year, as well as 25 term-
+limited positions.
+    That said, getting to the core of your question, how do we 
+look long-term, we have many programs that are available for 
+high school students who are interested in getting involved in 
+agriculture, becoming veterinarians, or other fields in 
+agriculture, as well as for college students. And we have 
+different things like an internship program. Dr. Naugle can 
+talk a little bit more about some of the different programs 
+that we have so that we build and keep the pipeline coming into 
+APHIS and to USDA across the board.
+    Mr. Alford. I would like to hear about that because I know 
+this is a big concern all over America, workforce.
+    Ms. Moffitt. Yes.
+    Mr. Alford. How are you getting young people interested in 
+this, really which is a national security issue?
+    Dr. Naugle. Well, sir, I think that is it. That is the 
+challenge that we all have, right, and we need to start young. 
+We need to start with students that are in 4-H, FFA, perhaps 
+targeting in areas where we know there are major livestock 
+industries to get some of those students interested in animal 
+health jobs. We do have numerous internships within APHIS for 
+really all ages of students, whether high school, all the way 
+up through college, and we do have the premier Saul T. Wilson 
+Scholarship Program and internship that provides some funding 
+for students to attend veterinary school, and upon completion, 
+they return and work for us for a certain period of years. But 
+I think it is really going to take effort from all of us. I 
+don't think it is something that APHIS can do alone. And I 
+think we really need to leverage groups like 4-H and FFA.
+    Mr. Alford. Madam Under Secretary, what can we do in 
+Congress to help you in this effort?
+    Ms. Moffitt. Well, that is a very good question. I can take 
+that back with our team to look more at what types of things 
+that we could ask for from Congress for this and get back to 
+you.
+    [The information referred to is located on p. 42.]
+    Mr. Alford. That would be great. We would love to hear 
+that. We love to help out.
+    As you know, BSE or mad cow disease exists in two forms, 
+classical and atypical. Can you talk us through the big-picture 
+differences in the forms of the disease and explain why we do 
+not restrict imports based on atypical cases of BSE?
+    Ms. Moffitt. Thank you for that question, Representative. I 
+am going to pass it to Dr. Naugle who can get into the science 
+on that.
+    Dr. Naugle. Great. So I would really describe it, this is 
+the difference. What we call classical BSE, it is a malforming 
+of the proteins in the brain, right? And it is infectious. 
+Atypical BSE is kind of like that malformation that occurs due 
+to old age. When we typically see atypical BSE, even atypical 
+scrapie in sheep, which are in the same family, it tends to be 
+in older animals. And even the World Organisation for Animal 
+Health has said atypical scrapie and atypical BSE are not 
+transmissible. When we have gone back and done the 
+investigation with those cattle or with those sheep that have 
+atypical, we can't find any exposure. There was no known 
+exposure to other infected animals so that is the difference.
+    Mr. Alford. Thank you. I appreciate it. Thanks again for 
+being here. Mr. Chairman, I yield back.
+    The Chairman. Thank you. The chair now recognizes the 
+gentleman from Indiana, Congressman Baird, for 5 minutes.
+    Mr. Baird. Thank you, Mr. Chairman. And I really appreciate 
+this hearing, and I appreciate the witness being here. My 
+background is in research and animal science and so on, and so 
+I really appreciate having this discussion.
+    Under Secretary Moffitt, as you know, gene editing has been 
+a promising tool for meeting the sustainability, the animal 
+health and food security demands facing our food supply, so I 
+was pleased to see the USDA budget request acknowledge animal 
+biotechnology as one of the Secretary's top priorities. So my 
+question is can you or Dr. Naugle talk more about the potential 
+for gene editing to advance animal health, as well as the 
+potential role of USDA in regulating and approving products for 
+animal biotechnology?
+    Ms. Moffitt. Thank you for that question, Representative 
+Baird. And certainly, as you described your background, this 
+hearing is right up your alley for sure.
+    Animal biotech, as you asked about, is an important tool 
+just as we talk about our disease response mechanisms and the 
+different tools that we must have in the tool chest. As we look 
+forward, right, with climate change, with other things that 
+animals might need to have to be able to adapt to a changing or 
+hotter climate, animal biotech can be a tool that producers may 
+want to be able to tap into. And so the ability to get this 
+right and to advance a regulatory rulemaking process for animal 
+biotech is absolutely an important part of that.
+    At USDA, as you talked about, we have the resources. We are 
+part of the conversation. We have an incredible talented staff 
+pool that is working on biotech on the plant side. Of course, 
+we have a significant number of veterinarians at the 
+Department. We have, of course, our trade partners at Farm 
+Services Agency. So we are looking at all of the different 
+factors and really opening the aperture of what this looks like 
+as we regulate gene-edited animals. What is really important is 
+that there is a regulatory framework, that it supports 
+innovation and safety, and that it provides certainty for 
+developers because we want to make sure that developers, small, 
+medium, and large, are able to participate in a regulatory 
+framework, and that certainty is what we hear is a very 
+important part of that.
+    So at USDA we have a strong track record for developing or 
+for regulating genetic engineering; and, certainly, we want to 
+make sure that we have the best possible regulatory system at 
+play.
+    Mr. Baird. Thank you. And, Dr. Naugle, do you have any 
+thoughts, anything to add? I really appreciate the focus on 
+biotechnology. I want to say that again because I really feel 
+that it is going to be important as we move to try to find 
+plants and animals that can adapt to environmental change and 
+is also a way of improving our volume on plants and animals, so 
+I really appreciate the focus there.
+    My next question then deals with the animal vaccine 
+technologies. So, with the magnitude of challenges posed for 
+these disease outbreaks and the critical need to safeguard our 
+food supply, does USDA agree it should consider any and all 
+options for veterinary countermeasures? Doctor?
+    Ms. Moffitt. Thank you for that question, and for this one, 
+I will certainly pass it on to Dr. Naugle.
+    Dr. Naugle. Yes. So with regard to vaccines specifically as 
+a countermeasure, we rely on APHIS' Center for Veterinary 
+Biologics to evaluate any possible technology and determine 
+that it is safe, pure, efficacious, and potent. And so we would 
+consider new technologies as they are developed.
+    Mr. Baird. Thank you very much. And we are getting close on 
+time, so with that, Mr. Chairman, I am going to yield back.
+    The Chairman. Thank you, Congressman Baird.
+    As we wrap here, just some closing remarks. From high-path 
+avian influenza to African swine fever and from foot-and-mouth 
+disease to biosecurity measures, this Subcommittee will 
+continue to work to give animal health and livestock, dairy, 
+and poultry issues the attention that they deserve. These 
+issues, however, also deserve the attention of the House 
+Appropriations Committee, and they deserve the attention not 
+only of the USDA but also the Food and Drug Administration 
+where proposed changes to long-standing labeling requirements 
+for re-implanting of shorter acting growth implants for cattle 
+could abruptly stop a common practice that would adversely 
+impact the industry.
+    The issues deserve our attention during the reauthorization 
+of the farm bill and on the House floor. The livelihood of 
+farmers, ranchers, and agricultural producers, and the 
+consumers whom they often work for is at stake.
+    Under Secretary Moffitt, thank you for participating in 
+today's hearing.
+    Oh, you popped in. So Congressman Molinaro, the Member from 
+New York, is recognized for 5 minutes.
+    Mr. Molinaro. I apologize, Chairman, but I do thank you. I 
+just wanted to circle back to a couple I think somewhat 
+specific New York questions, so I will get to that. Obviously, 
+very timely. We know how dangerous an outbreak of disease can 
+be. And of course, over the past year, avian influenza has 
+decimated poultry farmers across the country. Now, 
+specifically, though, considering just how destructive disease 
+outbreaks can be for farmers and in fact the entire food 
+system, it is essential obviously that USDA and Congress work 
+together to ensure robust prevention.
+    New York farmers very specifically are fortunate to benefit 
+from Cornell University's Animal Health Diagnostic Center, 
+which happens to be in my district in upstate New York. This is 
+one of the most advanced diagnostic laboratories in the country 
+and of course helps livestock farms of all sizes throughout my 
+district manage the health of their herd and prevent the spread 
+of disease.
+    The Animal Health Diagnostic Center is part of the National 
+Animal Health Laboratory Network, and so very specifically, 
+Under Secretary, could you just speak to how the USDA is 
+working to improve access to facilities like the Animal Health 
+Diagnostic Center to prevent the spread of avian flu and other 
+like diseases?
+    Ms. Moffitt. Representative, thank you so much for that 
+question. And the National Animal Health Laboratory Network is 
+such an important part of our response mechanism so that we 
+have quick diagnostic across the country, as you identified. We 
+have labs in over 40 different states, 43 different states, and 
+that network of labs is a critical part of it.
+    You asked about the funding that we have. Thanks to the 
+2018 Farm Bill, we were able to receive additional funding for 
+the National Animal Health Lab Network, so additional $20 
+million that have been able to supplement annual 
+appropriations, as well as state funding and also land-grant 
+funding that the labs receive. This funding is an important 
+part. I have not been and visited the lab in Cornell but did 
+get to visit the lab in Minnesota, and I saw firsthand what 
+they were able to do with the NAHLN--that is the acronym--with 
+the NAHLN funding that they received to be able to invest in 
+equipment that could do rapid diagnostics so that when we do 
+have an outbreak--and I was able to see this before we had 
+high-path avian influenza to see how they were ready and the 
+proper equipment and materials to be able to be ready should an 
+outbreak occur so they can do mass diagnostic testing. The 
+quicker we know that we have a disease, the quicker that we 
+know we have a foreign animal disease, the better we can 
+respond quickly.
+    Mr. Molinaro. So I appreciate that. And I also want to 
+extend certainly an invitation--Chairman Thompson was just with 
+us in the 19th District, met with the folks at Cornell, 
+certainly would love to have USDA staff and yourself visit the 
+great work at Cornell.
+    Could you though--and I apologize if you did cover it. So 
+now in the development of the farm bill, I assume other than or 
+inclusive of dollars, what could Congress be focused on to 
+expand obviously access and that support?
+    Ms. Moffitt. Well, and Dr. Naugle can go into this more if 
+you are specifically talking about the lab or----
+    Mr. Molinaro. Yes.
+    Ms. Moffitt. I think the funding of course is very 
+important. We hear that from the labs themselves. The 
+flexibility that the funding allows for them to be able to 
+identify what needs they have and for us to be able to fund 
+those I think is important as well.
+    Dr. Naugle----
+    Mr. Molinaro. That would be great. Thank you.
+    Dr. Naugle. Yes. And I will say I had the pleasure of being 
+at the Cornell Lab last summer, so I had a very recent tour. It 
+was beautiful. The one thing that I would add--and we have 
+talked about it in a prior question--is workforce development 
+for our laboratories as well.
+    Mr. Molinaro. And what--and I apologize, what do you 
+recommend as a pipeline beyond funding to expand at least 
+access and development of the workforce?
+    Ms. Moffitt. Well, I have been in and around your district, 
+and there are incredible technical colleges that New York has. 
+That is an incredible opportunity if it already isn't as a 
+pipeline to develop high school students and college students 
+who are interested in different career options, making sure 
+that they know that working in a lab or working in an animal 
+health capacity in some way, shape, or form I think is a really 
+important part of building the pipeline. And the technical 
+colleges that New York has, as well as technical colleges that 
+we heard in Connecticut, are really a valuable tool there.
+    Mr. Molinaro. Yes. I think just to further that point, 
+expanding K-12 ag education, making the connectivity through 
+vocational applied and life science education, and of course 
+making the connectivity to community colleges and higher 
+education institutions as a means of not only creating the 
+pathway but also expanding and supporting agriculture in 
+upstate New York. So I just appreciate that and look forward 
+perhaps to hosting a visit at Cornell.
+    Mr. Chairman, thanks very much.
+    Ms. Moffitt. I will just add, we talked about this earlier, 
+but the pipeline in schools is important, pipeline through 4-H 
+and FFA and all those other programs are important as well.
+    The Chairman. Next, the chair recognizes the Congressman 
+from Texas, Congressman Jackson, for 5 minutes.
+    Mr. Jackson of Texas. Thank you, Mr. Chairman. I appreciate 
+you squeaking me in here right at the end. It looks like I got 
+here seconds before we are done, but thank you. I have four 
+committees, so it has been chaos today. But thank you to our 
+witnesses for being here today.
+    As you may or may not know, I represent the 13th 
+Congressional District of Texas. It is one of the largest 
+animal agriculture districts in the country. Texas 13 has more 
+fed cattle than anywhere else in the entire U.S., representing 
+over $16.5 billion in economic value. The work that you all do 
+in the Animal and Plant Health Inspection Service is critical 
+to the overall health of the animal agriculture industry in my 
+district and the rest of the country, and I appreciate it.
+    Under Secretary Moffitt, I wanted to ask you, foot-and-
+mouth disease is right off the coast of one of our major 
+trading partners right now, Australia, in Indonesia. African 
+swine fever has been found in the Dominican Republic, a mere 
+stone's throw away from Puerto Rico. Your testimony underlines 
+the catastrophic impacts these and other foreign animal 
+diseases would have in the U.S. if and when an outbreak were to 
+occur. Can you speak to the importance of continuing to bolster 
+the National Animal Vaccine and Veterinary Countermeasure Bank 
+in the next farm bill, including further funding to meet our 
+ever-growing need in protecting from foot-and-mouth disease and 
+other foreign animal diseases that we might encounter?
+    Ms. Moffitt. Thank you so much for that question. And I 
+will pass it to Dr. Naugle to talk about the vaccine bank. And 
+then of course as you recognize, the preparedness, the 
+response, making sure that we are keeping it out in the first 
+place, but the vaccine bank--but, important is biosecurity and 
+stamping out the disease, and that vaccine bank adds an 
+important insurance tool as well.
+    But I will pass it to Dr. Naugle to talk about the vaccine 
+bank.
+    Dr. Naugle. Sure. A couple of additional details here, so 
+we have purchased over $56 million in vaccine antigen 
+concentrate for FMD and finished vaccine for CSF, which is 
+classical swine fever. Also important in the bank is it is a 
+countermeasures bank in addition to a vaccine bank, so we 
+purchased diagnostic test kits for FMD and ASF, African swine 
+fever, so we can be ready to respond as quickly as we detect 
+those diseases. Currently, our goal is to have a minimum of 25 
+million doses available for each of the top ten strains for 
+FMD, and we are working toward that goal. So I do think that 
+the bank and having access to those vaccines is critically 
+important from a preparedness perspective.
+    Mr. Jackson of Texas. Thank you. I agree, and I think that 
+prevention obviously is way cheaper than trying to treat once 
+it gets here. I think we all understand that.
+    Madam Under Secretary, I was going to ask you one more 
+question. In your testimony, you mentioned how foreign disease 
+outbreaks highlight the critical need for public-sector animal 
+health professionals, especially veterinarians. I just want to 
+point out that in my district, the Texas Tech University School 
+of Veterinary Medicine is specialized in training the types of 
+large rural animal vets that we need so desperately right now 
+in the country, vets that the USDA needs to maintain the health 
+of America's animal agriculture industry. I am hopeful that the 
+USDA recognizes the potential of the Texas Tech University 
+School of Veterinary Medicine as a pipeline to the talent that 
+they so desperately need when staffing shortages at the agency. 
+Can you please expand on the opportunities that you are taking 
+to recruit and retain talented individuals like the ones I am 
+describing?
+    Ms. Moffitt. Representative, thank you so much for that 
+question and for highlighting, I think some of the important--
+part of our pipeline development is of course veterinary 
+schools across the country. These are important for us in many 
+ways. I had the opportunity not to visit Texas Tech but to 
+visit another university, another vet school, and to meet with 
+students and talk about the opportunities for working at APHIS, 
+at USDA as a whole. And I know our team at APHIS, our team at 
+USDA are constantly reaching out and recruiting students from 
+vet schools across the country, I would imagine including Texas 
+Tech.
+    And I can pass it to Dr. Naugle to talk about some of the 
+scholarship programs, some of the internship programs that we 
+have as well so that we are not just doing recruitment but we 
+are also really feeding that pipeline.
+    Dr. Naugle. Thank you. First, I would say there is a lot of 
+opportunity for students who are interested in working for us 
+in Texas, right? We have the Cattle Fever Tick Program. We also 
+have the southern border ports that we cover, so these could be 
+veterinarians, as well as animal health technicians, really 
+anyone interested in agriculture.
+    Within USDA APHIS, we have several internship programs for 
+students, college students, high school students. We also have 
+an internship program that is a scholarship program. It is 
+called the Saul T. Wilson Scholarship, and it allows us to 
+provide some funding to help students go to veterinary school 
+and return to us. And we are very well aware of the program at 
+Texas Tech, as well as programs at Texas A&M.
+    Mr. Jackson of Texas. Yes, and we have a component of Texas 
+A&M in my district as well that does the first couple of years 
+of that type of training. It is a phenomenal program as well. I 
+understand, as a physician, how the money that is out there 
+available to you based on what specialty you pick is going to 
+drive a lot of what you do. I also know my district director 
+and my treasurer in my district are large animal vets, and I 
+know that like a lot of people will choose to be small animal 
+vets because that is where the money is at, so anything I think 
+that you can do to foster people wanting to go into taking care 
+of our cattle and our large animals and stuff is going to be 
+very beneficial to us all in the long run.
+    Thank you. With that, I yield back, Mr. Chairman.
+    The Chairman. Thank you. Under the Rules of the Committee, 
+the record of today's hearing will remain open for 10 calendar 
+days to receive additional material and supplementary written 
+responses from the witnesses to any question posed by a Member.
+    This hearing of the Subcommittee on Livestock, Dairy, and 
+Poultry is adjourned.
+    [Whereupon, at 11:43 a.m., the Subcommittee was adjourned.]
+    [Material submitted for inclusion in the record follows:]
+ Submitted Material by Hon. Tracey Mann, a Representative in Congress 
+                              From Kansas
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+                                 ______
+                                 
+ Supplementary Material Submitted by Hon. Jenny Lester Moffitt, Under 
+  Secretary for Marketing and Regulatory Programs, U.S. Department of 
+                              Agriculture
+Insert 1
+          Mr. Feenstra. Awesome. So I am just going to pivot here, and 
+        it has the same theme. African swine fever. The depopulation of 
+        birds is one thing. When you have to euthanize hogs is another 
+        thing. And we saw this with COVID when we had to do it with 
+        COVID. Are you really taking serious measures of what this is 
+        going to look like when you have to depopulate large animals 
+        and where are they going to go? And I know China is having this 
+        issue, right? I mean, you can't really just bury them because 
+        the disease stays. I mean, have these things been thought 
+        through?
+          Ms. Moffitt. Representative Feenstra, thank you for the 
+        really important question. As we have been, we have been 
+        absolutely preparing for the, I hope, unlikely event of African 
+        swine fever in the country. With that said, we know that we 
+        need to be ready, and we have been investing through funding 
+        through NADPRP, as well as through the CCC funding that the 
+        Secretary has authorized for African swine fever, different 
+        mechanisms and rapid response so that we understand how to do 
+        disposal.
+          Dr. Naugle, perhaps you can talk a little bit--oh, we are out 
+        of time.
+          Mr. Feenstra. Yes. Yes. Thank you. I would like a response to 
+        that in writing at some point, okay? Thank you. I yield back.
+
+    We understand the importance of having plans in place for 
+depopulation of livestock and poultry, especially large animals. While 
+we hope to never have to use these tools and techniques, we have plans 
+in place for what APHIS and its state and industry partners would need 
+to do in event of an outbreak. USDA relies on livestock and poultry 
+depopulation guidelines set by the American Veterinary Medical 
+Association (AVMA), which has identified preferred, permitted, and non-
+recommended methods for each species. The USDA, state animal health 
+officials, and producers carefully weigh the different options to 
+determine the best option for humane depopulation and do not make such 
+decisions lightly.
+    The various tabletop exercises and trainings we have conducted, 
+some of which were funded through the farm bill's animal health 
+programs, help us work through various scenarios so that we are able to 
+make the best decisions using the lessons we learned from those 
+practice scenarios. I would also note, that aside from those exercises, 
+the farm bill's animal health programs have funded projects focused on 
+bettering our understanding of depopulation and disposal techniques. 
+Even if the project was focused on one state or one species of animal, 
+we have seen that those lessons and strategies developed through those 
+projects can be applicable widely.
+Insert 2
+          Ms. Moffitt. . . .
+          . . . And we have different things like an internship 
+        program. Dr. Naugle can talk a little bit more about some of 
+        the different programs that we have so that we build and keep 
+        the pipeline coming into APHIS and to USDA across the board.
+          Mr. Alford. I would like to hear about that because I know 
+        this is a big concern all over America, workforce.
+          Ms. Moffitt. Yes.
+          Mr. Alford. How are you getting young people interested in 
+        this, really which is a national security issue?
+          Dr. Naugle. Well, sir, I think that is it. That is the 
+        challenge that we all have, right, and we need to start young. 
+        We need to start with students that are in 4-H, FFA, perhaps 
+        targeting in areas where we know there are major livestock 
+        industries to get some of those students interested in animal 
+        health jobs. We do have numerous internships within APHIS for 
+        really all ages of students, whether high school, all the way 
+        up through college, and we do have the premier Saul T. Wilson 
+        Scholarship Program and internship that provides some funding 
+        for students to attend veterinary school, and upon completion, 
+        they return and work for us for a certain period of years. But 
+        I think it is really going to take effort from all of us. I 
+        don't think it is something that APHIS can do alone. And I 
+        think we really need to leverage groups like 4-H and FFA.
+          Mr. Alford. Madam Under Secretary, what can we do in Congress 
+        to help you in this effort?
+          Ms. Moffitt. Well, that is a very good question. I can take 
+        that back with our team to look more at what types of things 
+        that we could ask for from Congress for this and get back to 
+        you.
+
+    The outbreak of highly-pathogenic avian influenza again 
+demonstrated how important having a dedicated and skilled workforce is 
+to protecting agriculture. It also demonstrated our need to improve 
+recruitment and retention efforts, and we really appreciate this 
+question.
+    Staff are considering several options to address this need. Each 
+option will have a budgetary impact. USDA will consider each of the 
+options within the context of the annual budget process.
+                                 ______
+                                 
+                          Submitted Questions
+Response from Hon. Jenny Lester Moffitt, Under Secretary for Marketing 
+        and Regulatory Programs, U.S. Department of Agriculture
+Question Submitted by Hon. Trent Kelly, a Representative in Congress 
+        from Mississippi
+    Question. Madam Under Secretary, my home state of Mississippi is a 
+large poultry state, producing more than $3.8 billion of poultry 
+products, making it our number one commodity in terms of economic 
+value, a position it's held for 28 consecutive years over all other 
+commodities grown in the state. Among the poultry growing states, we 
+typically rank 5th in the nation in broiler production.
+    I first want to commend the agency for all their work on the highly 
+pathogenic avian influenza issue. Fortunately, to date, Mississippi has 
+only had one positive case of HPAI, found in a commercial broiler 
+operation this November.
+    Back in 2015, a group of stakeholders, including several from my 
+state, led an effort to make the APHIS indemnification process more 
+equitable for the contract grower, in the event that birds have to be 
+depopulated on-farm. It is my understanding that USDA did in fact make 
+those recommended adjustments and created a protocol to which the 
+contract grower is compensated for many of the costs that they have 
+invested in raising the bird to the point of depopulation. Will you 
+update the Committee on that change and tell the Committee if that 
+process is working well?
+    Answer. In 2018, APHIS published a final rule that allows for 
+contract growers to receive a portion of the indemnity compensation for 
+the work they had performed at the time when birds are depopulated 
+because of highly pathogenic avian influenza. By all accounts, this 
+process is working well, and producers are receiving the funding to 
+which they are entitled. Indemnity funding remains an important tool, 
+encouraging producers to quickly report illness in their birds, and 
+allowing APHIS and its partners to move rapidly to eliminate the 
+potential spread of the virus.
+Questions Submitted by Hon. Randy Feenstra, a Representative in 
+        Congress from Iowa
+    Question 1. Under Secretary Moffitt, I'm aware that EPA has three 
+ongoing risk assessments for formaldehyde, and it seems the EPA is on a 
+path to set unscientifically supported and extremely low exposure 
+limits that will in effect ban it's use in the U.S. Many of my 
+constituents are concerned about losing this important product for 
+agricultural applications. Formaldehyde and formaldehyde-based products 
+provide critical applications for crop production, veterinary medicine, 
+animal agriculture and aquaculture, from protecting against Salmonella 
+in hatching eggs or feed, to a disinfectant on-farm, fungal control in 
+aquaculture or to help increase crop yields. Research has also shown it 
+could be our most effective risk mitigation tool against African swine 
+fever if it ever came to the United States. What are you doing to 
+ensure agriculture's voice is heard and considered in this debate so my 
+constituents don't lose this important tool that can be and has been 
+used safely in agricultural applications for decades?
+    Answer. APHIS coordinates with EPA on the effectiveness of 
+disinfectants they approve for specific livestock and poultry 
+pathogens, particularly related to foreign animal diseases response. 
+APHIS also maintains lists of those EPA-approved products. With regards 
+to USDA's role in ensuring agriculture's voice is heard in discussions 
+around pesticide regulatory actions, USDA has an office specifically 
+dedicated to serving as the voice of the grower, the Office of Pest 
+Management Policy (OPMP). As part of OPMP's review process, OPMP will 
+reach out to affected growers and collaborate with APHIS following the 
+release of the risk assessments to raise awareness, and OPMP will 
+ensure grower concerns are reflected in feedback to EPA.
+
+    Question 2. Under Secretary Moffitt, the National Institute of 
+Antimicrobial Resistance Research and Education (NIAMRRE) led by Iowa 
+State University, and of which University of California Davis is a very 
+active member, has been working with USDA APHIS to understand the how 
+to best collect and share antimicrobial use and antimicrobial 
+resistance (AMR) data for livestock operations. A key outcome of that 
+work has identified that having statutory protections, similar to HIPAA 
+laws for human health, would allow for better collection of AMR data 
+and lead to more effective decision-making. How could these data 
+security protections be provided and implemented at the national level?
+    Answer. Protecting producer data is a priority for USDA. We have 
+heard concerns from producers and veterinarians about the 
+confidentiality of data, and it is possible that those concerns are 
+preventing some participation in these important programs. We have 
+experience, through some of our animal health surveys in protecting the 
+confidentiality of data and encouraging producer participation. We 
+would be happy to continue to work with NIAMRRE and Congress to 
+identify possible solutions for the issues they raise and identify 
+whether statutory changes would be needed.
+
+    Question 3. Under Secretary Moffitt, through federally appropriated 
+funds, NIAMRRE has also been actively working with APHIS to create an 
+AMR Dashboard to monitor AMR and antimicrobial use. Building off this 
+existing work, how do you plan to prioritize efforts to combat AMR and 
+how could you utilize this dashboard to carry out those plans?
+    Answer. The AMR dashboards are an important tool in our Agency's 
+broader One Health Strategy. APHIS and our partners will use AMR 
+dashboards to monitor trends in antimicrobial resistance patterns, 
+detect emerging resistance profiles, and better understand 
+relationships between antimicrobial use and health management practices 
+and antimicrobial resistance. In November 2022, APHIS announced a 
+competitive funding opportunity to develop dashboard tools to improve 
+access to information on AMR in domesticated animals through public 
+private partnerships. APHIS is thoroughly reviewing those proposals, 
+and we look forward to announcing the projects that will be funded 
+soon.
+
+    Question 4. Under Secretary Moffitt, are you aware that U.S. EPA 
+has proposed restricting the use of rodent control pesticides 
+rodenticides that will make it significantly harder and much more 
+costly for many poultry and livestock producers to control rats and 
+mice on their operations? Can you engage with your counterparts at EPA 
+to seek rodenticide policies that do not impose any unnecessary 
+restrictions and that EPA fully take into account animal health and 
+welfare in whatever they do?
+    Answer. APHIS and OPMP did provide technical input as EPA was 
+considering possible rodenticide actions, and OPMP provided formal 
+public comment during the comment period. In addition, OPMP conducted a 
+survey around the proposed actions using the authority granted by the 
+2018 Farm Bill to provide more information to EPA on the impacts of 
+their proposal. We will continue to inform EPA of the unique needs of 
+the agricultural community as they make decisions.
+Questions Submitted by Hon. Max L. Miller, a Representative in Congress 
+        from Ohio
+    Question 1. Please share how USDA is working with state, veterinary 
+and industry partners to ensure resources and processes are in place to 
+address foreign animal disease outbreaks, which have capacity to 
+cripple the agricultural sector if not prepared?
+    Answer. Partnerships are essential to ensuring we are prepared to 
+detect and respond to foreign animal diseases. As an example, during 
+the current outbreak of highly pathogenic avian influenza, we have 
+worked closely with our state partners in every state to rapidly detect 
+and respond to the virus. We have worked hand-in-hand with our industry 
+partners, sharing information about the outbreak and enlisting their 
+help in spreading the message of the importance of biosecurity. Those 
+efforts have helped us control the disease and led to the success we 
+have seen where we have very few cases of the virus in commercial 
+facilities, and those that we do see are eradicated quickly.
+
+    Question 2. Please let us know how programs such as the National 
+Animal Disease Preparedness and Response Program, the National Animal 
+Vaccine and Veterinary Countermeasures Bank, and the National Animal 
+Health Laboratory Network, which includes a partnership with the Ohio 
+Department of Agriculture's Animal Health Division, support this 
+mission?
+    Answer. The farm bill's animal health programs have been a critical 
+tool in our efforts to protect animal health and expand our 
+capabilities to detect and respond to foreign animal diseases. Key to 
+that success is that the programs have allowed us to strengthen 
+partnerships with states, such as the one you mention with Ohio 
+Department of Agriculture's Animal Health Division. The National Animal 
+Disease Preparedness and Response Program provides funding to states, 
+universities, industry organizations, Tribal partners, and other 
+eligible entities for projects to help identify and fill in gaps in our 
+existing preparedness and response capabilities and help prevent and 
+prepare for the most serious animal diseases. Of note, Ohio received 
+about $500,000 for a project on effective depopulation methods. As part 
+of the National Animal Vaccine and Veterinary Countermeasures Bank, 
+APHIS has invested more than $56 million to amass a stockpile of foot-
+and-mouth vaccine, with more than $15 million more planned for FY 2023. 
+We've also started accumulating foreign animal disease diagnostic test 
+kits and are planning for additional types of vaccines and 
+countermeasures to make sure the United States is well-prepared for 
+future emergencies. The additional support of the National Animal 
+Health Laboratory Network helps us partner with states and universities 
+in building diagnostic capacity and technical knowledge so that we can 
+rapidly detect foreign animal diseases, which is critical to stamping 
+out foreign animal diseases.
+
+                                  [all]
+

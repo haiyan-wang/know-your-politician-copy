@@ -1,0 +1,1939 @@
+
+ - STATE AND LOCAL PERSPECTIVES ON ELECTION ADMINISTRATION
+
+[Senate Hearing 118-007]
+[From the U.S. Government Publishing Office]
+
+
+                                                       S. Hrg. 118-007
+
+                      STATE AND LOCAL PERSPECTIVES
+                       ON ELECTION ADMINISTRATION
+
+=======================================================================
+
+                                HEARING
+
+                               BEFORE THE
+
+                 COMMITTEE ON RULES AND ADMINISTRATION
+                          UNITED STATES SENATE
+
+                    ONE HUNDRED EIGHTEENTH CONGRESS
+
+                             FIRST SESSION
+
+                               __________
+
+                             MARCH 28, 2023
+
+                               __________
+
+    Printed for the use of the Committee on Rules and Administration
+    
+[GRAPHIC NOT AVAILABLE IN TIFF FORMAT]    
+
+
+                  Available on http://www.govinfo.gov
+
+                               __________
+
+                                
+                    U.S. GOVERNMENT PUBLISHING OFFICE                    
+51-765                     WASHINGTON : 2023                    
+          
+-----------------------------------------------------------------------------------                   
+                  
+                 COMMITTEE ON RULES AND ADMINISTRATION
+
+                             FIRST SESSION
+
+                  AMY KLOBUCHAR, Minnesota, Chairwoman
+
+DIANNE FEINSTEIN, California         DEB FISCHER, Nebraska
+CHARLES E. SCHUMER, New York         MITCH McCONNELL, Kentucky
+MARK R. WARNER, Virginia             TED CRUZ, Texas
+JEFF MERKLEY, Oregon                 SHELLEY MOORE CAPITO, West 
+ALEX PADILLA, California                 Virginia
+JON OSSOFF, Georgia                  ROGER WICKER, Mississippi
+MICHAEL F. BENNET, Colorado          CINDY HYDE-SMITH, Mississippi
+PETER WELCH, Vermont                 BILL HAGERTY, Tennessee
+                                     KATIE BOYD BRITT, Alabama
+
+                    Elizabeth Farrar, Staff Director
+               Rachelle Graves, Republican Staff Director
+                        
+                        
+                        C  O  N  T  E  N  T  S
+
+                              ----------                              
+                                                                  Pages
+
+                         Opening Statement of:
+
+Hon. Amy Klobuchar, Chairwoman, a United States Senator from the 
+  State of Minnesota.............................................     1
+Hon. Deb Fischer, a United States Senator from the State of 
+  Nebraska.......................................................     3
+Hon. Maggie Toulouse Oliver, New Mexico Office of the Secretary 
+  of State, Santa Fe, New Mexico.................................     6
+Hon. Robert Evnen, Nebraska Office of the Secretary of State, 
+  Lincoln, Nebraska..............................................     8
+Howard Knapp, South Carolina State Election Commission, Columbia, 
+  South Carolina.................................................     9
+Derek Bowens, Durham County Board of Elections, Durham, North 
+  Carolina.......................................................    11
+Marcia Johnson, Lawyers' Committee for Civil Rights Under Law, 
+  Washington, DC.................................................    13
+
+                         Prepared Statement of:
+
+Hon. Maggie Toulouse Oliver, New Mexico Office of the Secretary 
+  of State, Santa Fe, New Mexico.................................    34
+Hon. Robert Evnen, Nebraska Office of the Secretary of State, 
+  Lincoln, Nebraska..............................................    39
+Howard Knapp, South Carolina State Election Commission, Columbia, 
+  South Carolina.................................................    44
+Derek Bowens, Durham County Board of Elections, Durham, North 
+  Carolina.......................................................    48
+Marcia Johnson, Lawyers' Committee for Civil Rights Under Law, 
+  Washington, DC.................................................    59
+
+                            For the Record:
+
+Report from Alliance for Securing Democracy at the German 
+  Marshall Fund..................................................    79
+Letter from the Southern Poverty Law Center Action Fund..........    92
+Testimony of Justin F. Roebuck, Clerk of Ottawa County, Michigan.    99
+Testimony of Brianna L. Lennon, County Clerk, Boone County, 
+  Missouri.......................................................   102
+Testimony of Adam Lioz, Senior Policy Counsel, NAACP Legal 
+  Defense and Educational Fund, Inc..............................   104
+
+                  Questions Submitted for the Record:
+
+Hon. Amy Klobuchar, Chairwoman, a United States Senator from the 
+  State of Minnesota to Honorable Maggie Toulouse Oliver, New 
+  Mexico Office of the Secretary of State, Santa Fe, New Mexico..   180
+Hon. Amy Klobuchar, Chairwoman, a United States Senator from the 
+  State of Minnesota to Howard Knapp, South Carolina State 
+  Election Commission, Columbia, South Carolina..................   181
+
+ 
+        STATE AND LOCAL PERSPECTIVES ON ELECTION ADMINISTRATION
+
+                              ----------                              
+
+
+                        TUESDAY, MARCH 28, 2023
+
+                               United States Senate
+                      Committee on Rules and Administration
+                                                     Washington, DC
+    The Committee met, pursuant to notice, at 3:05 p.m., in 
+Room 301, Russell Senate Office Building, Hon. Amy Klobuchar, 
+Chairwoman of the Committee, presiding.
+    Present: Senators Klobuchar, Fischer, Padilla, Bennet, 
+Cruz, and Britt.
+
+  OPENING STATEMENT OF HONORABLE AMY KLOBUCHAR, CHAIRWOMAN, A 
+       UNITED STATES SENATOR FROM THE STATE OF MINNESOTA
+
+    Chairwoman Klobuchar. Good afternoon. I call to order this 
+hearing of the Rules Committee on State and Local Perspectives 
+on Election Administration. I would like to thank Ranking 
+Member Fischer, and our colleagues, and our witnesses for being 
+here. The Rules Committee has a tradition of working together 
+in a bipartisan way, and Senator Fischer and I have been 
+continuing that tradition, including introducing a bill based 
+on the top legislative recommendation of all six members of the 
+Federal Election Commission.
+    Today we are holding this important hearing on the work of 
+state and local officials who run elections and ensure that 
+voters have access to the ballot. Our witnesses, who I will 
+introduce shortly, are New Mexico Secretary of State Maggie 
+Toulouse Oliver; Derrick Bowens, who is the Director of 
+Elections for Durham County, North Carolina; and Marcia 
+Johnson, who is Co-Director of the Voting Rights Project at the 
+Lawyers' Committee for Civil Rights Under the Law.
+    We are also going to hear from witnesses who are going to 
+be introduced by Senator Fischer. That is why I did them out of 
+order. Did not forget you. Nebraska Secretary of State Robert 
+Evnen, and Howard Knapp, who is the Executive Director of the 
+South Carolina State Election Commission.
+    I thank all of you for joining us today. State and local 
+election officials across the country worked tirelessly to 
+administer the 2022 midterm elections so that over 111 million 
+Americans could cast their ballots. The Department of Homeland 
+Security has confirmed the security of recent elections under 
+Republican and Democratic administrations alike. Those on the 
+front lines of our democracy did the hard work to ensure that 
+would happen.
+    Today, we will hear from state and local election officials 
+and an expert on voter protection about takeaways from the 2022 
+elections and key issues for election administration moving 
+forward.
+    With the 2024 primary elections less than a year away, this 
+is an important--I did that so everyone could take a deep 
+breath--this is an important discussion as effective election 
+administration takes dedicated planning and resources. One area 
+of particular urgency that we will hear about today is the need 
+to counter the barrage of threats and harassment targeting 
+election workers from those seeking to undermine our democracy.
+    According to a survey last year by the Brennan Center, 
+nearly one in three local election officials are concerned 
+about their safety because of their job, and nearly one in six 
+have received threats.
+    Adrian Fontes, the Arizona Secretary of State, told me that 
+when he served as Maricopa County Recorder in 2020, his family 
+had to leave their house for days because of death threats.
+    Former Philadelphia City Commissioner Al Schmidt, a 
+Republican who is now Pennsylvania's Chief Election Official, 
+told this Committee at a bipartisan hearing last Congress that 
+he received a message saying, ``tell the truth or your three 
+kids will be fatally shot'', with the names of his 7 year old 
+son and 11 and 14 year old daughters, their address, and photos 
+of their house.
+    State and local election officials from both parties 
+testified at that hearing, including the Kentucky Secretary of 
+State, about what is happening with election workers. We want 
+people who are full-time election workers, but we also want 
+volunteers. When this happens, you also lose volunteers.
+    These dedicated public servants should be able to do their 
+jobs without fear or intimidation, which is why I introduced 
+comprehensive legislation to take this issue head on with many 
+Senators, including Senators Feinstein, Warner, Merkley, 
+Padilla, and Bennet, on this Committee. I hope that Senator 
+Fischer and I will continue to work on a bipartisan basis when 
+it comes to this really important issue.
+    These threats are in part fueled by disinformation that 
+allows lies that undermine our elections to go viral. We must 
+tackle the root causes of disinformation that spreads online 
+and the impact it has on our democracy. I have introduced 
+legislation to do that with Senator Warner, and I think there 
+are other things we should be doing with regard to these social 
+media platforms and other things that have impacted the way 
+people feel about our democracy, the way they feel about each 
+other, the way the algorithms work, the way the competition 
+policy has not been changed.
+    I could go on and on, but I am going to stick to the matter 
+at hand. In the face of these challenges, it is as important as 
+ever that we continue to support election officials as they do 
+their jobs to uphold our democracy.
+    State and local governments need a steady and reliable 
+stream of yes, state and local support, but also federal 
+support to plan and keep pace and protect against foreign 
+interference as technology evolves, as well as to recruit and 
+train poll workers and protect election officials from threats.
+    The investments we have made since 2018 have been 
+important. Senator Blunt and I worked on this together. Senator 
+Lankford and I worked on bills regarding foreign interference. 
+All of this has helped ensure that recent elections were what 
+the Department of Homeland Security said were the most secure 
+in American history.
+    That is thanks to all of you. But it is also thanks to all 
+of our cyber experts who are looking out for issues. As we know 
+there have been threats in the past but more must be done. I 
+have introduced legislation, the Sustaining Our Democracy Act, 
+to deliver critical resources to state and local governments 
+for election administration, and the President's budget also 
+includes a commitment to prioritize significant funding for 
+elections to ensure their continued security and resilience.
+    Finally, I want to note that in many states, voters 
+continue to face laws that make it harder to vote. These laws 
+impose restrictions on things like voting by mail, cut days 
+from early voting, and getting rid of secure drop boxes for 
+people to return their ballots. That is why many leaders 
+support basic federal standards to make sure all Americans can 
+cast their ballots in the way that works best for them, 
+regardless of what zip code they live in.
+    That is why I support the John R. Lewis Voting Rights 
+Advancement Act to repair and restore the Voting Rights Act. I 
+note that the majority of the Senate supports the Freedom to 
+Vote Act, and while it is a Democratic bill, a number of 
+Republicans have spoken in support of certain reforms in the 
+bill, including one Republican witness we had in this very room 
+who testified in support of these measures, who was a former 
+Federal Election Commission Chairman.
+    I want to thank our witnesses for all the work that you do 
+every single day. I am so proud of our local election 
+officials. I am proud of the fact that Minnesota always ranks 
+number one, if not or at least near the top--I say just a 
+challenge to our Secretaries of State--for voter turnout. A lot 
+of it has to do with--actually, we have same day registration, 
+which is kind of, it may be an old fashioned concept, but in 
+states that are red or blue or purple, it has greatly increased 
+turnout.
+    We have good rules when it comes to mail-in balloting and 
+early voting and the like. We have had both Democratic and 
+Republican Governors and one very famous Independent that would 
+be Governor Jesse Ventura, all with these laws in place. I 
+think what it does is it makes people feel like they can 
+participate.
+    When they come up and say, I did not vote for you, but I 
+like what you did on this, at least they voted and at least 
+they care about our democracy, is what I always think. Maybe I 
+will convince them next time.
+    But I think having that kind of ease of voting is a big 
+deal, and faith in our democracy, and makes people feel like 
+they are part of the franchise, which is one of our--which 
+should be our focus as elected representatives. With that, I 
+will turn it over to my friend, Deb Fischer.
+
+  OPENING STATEMENT OF HONORABLE DEB FISCHER, A UNITED STATES 
+               SENATOR FROM THE SATE OF NEBRASKA
+
+    Senator Fischer. Good afternoon. Thank you, Chairwoman 
+Klobuchar, for holding this hearing, and thank you to our 
+witnesses for joining us.
+    Today, we gather to discuss one of the most fundamental 
+aspects of our democracy, the administration of free and fair 
+elections. Across the Nation, hardworking and dedicated state 
+and local officials regularly address election administration 
+challenges head on. Today's hearing provides an opportunity to 
+hear from some of them, highlight their important work, and 
+learn more about how they successfully administered the 2022 
+elections.
+    Under the Constitution, states have primary responsibility 
+for the administration of elections. This is what our founding 
+fathers intended. Our role in Congress is to support state and 
+local election officials in this important work rather than 
+burden them with a one size fits all Federalized takeover that 
+is ill suited to the needs and priorities of various 
+jurisdictions. In fact, the diversity of state run election 
+procedures is part of what makes disrupting a nationwide 
+election effectively impossible.
+    Upending that system increases the risk of error and 
+creates vulnerabilities. In recent years, new election 
+administration challenges have presented themselves 
+specifically regarding cyber-
+security and threats to election integrity. Foreign and 
+domestic adversaries have sought to disrupt our elections by 
+attacking cyber and physical infrastructure. These same 
+adversaries have sought to sow distrust in our elections and 
+call the integrity of the democratic process into question.
+    As these new issues arise, states are still tasked with the 
+important work of recruiting, training, and retaining poll 
+workers. This has become more difficult in recent years, as 
+many of the most dedicated election workers and volunteers have 
+retired.
+    But while it is important to acknowledge that there were 
+and are challenges to overcome, I believe that we should also 
+take the time to recognize and celebrate the many successes 
+that have been achieved in 2022. We saw marked improvements in 
+election security.
+    Many states took state steps to bolster their cybersecurity 
+defenses and ensure the integrity of the voting process. This 
+included everything from ensuring that voting machines provide 
+a paper trail for every vote cast to conducting thorough audits 
+and investigations to detect and prevent potential fraud.
+    Today, this Committee has the opportunity to come together 
+in a bipartisan manner and hear from witnesses regarding their 
+successes during the 2022 election cycle and their tireless 
+efforts to improve election integrity. I believe it is our duty 
+to approach this issue with an open mind and a commitment to 
+finding common ground.
+    We may not always agree on the specifics of how our 
+elections should be run, but I am confident that by working 
+together in good faith, we can ensure that every eligible 
+citizen can exercise his or her right to vote and that every 
+eligible vote is counted timely and accurately.
+    I am heartened by the progress states have made in recent 
+years, and it is my sincere hope that we can work together to 
+strengthen our election systems and foster public trust in the 
+democratic process.
+    I look forward to a productive and informative hearing, and 
+to hearing from our expert witnesses today. Thank you.
+    Chairwoman Klobuchar. Very good. Well, thank you very much, 
+Senator Fischer. I am going to introduce, as I noted, three of 
+our witnesses, and Senator Fischer will introduce the other 
+ones.
+    Our first witness is New Mexico Secretary of State Maggie 
+Toulouse Oliver, as she has served as New Mexico's chief 
+election official for six years and also has a decade of 
+experience in local election administration as a county clerk. 
+Previously, she served as President of the National Association 
+of Secretaries of State. That is how I got to know her. 
+Secretary Toulouse Oliver earned her bachelor's degree and 
+master's degree from the University of New Mexico.
+    After hearing from Secretary Evnen and Mr. Knapp, our next 
+witness will be Derek Bowens, Director of Elections for Durham 
+County, North Carolina since 2017.
+    Mr. Bowens has over a decade of experience in local 
+election administration, and he holds a bachelor's degree from 
+the University of North Carolina. Our final witness is Marcia 
+Johnson, Co-Director of the Voting Rights Project at the 
+Lawyers' Committee for Civil Rights Under Law, which is the 
+Nation's leading nonpartisan voter protection program.
+    She has worked on the Lawyers' Committee's human rights 
+initiatives and taught as an Adjunct Professor at the 
+Georgetown University Law Center. Something my husband also 
+does, by the way. She earned her bachelor's degree from 
+Georgetown and her law degree from Villanova University. 
+Senator Fischer will now introduce our other two witnesses and 
+I will swear witnesses in.
+    Senator Fischer. Again, I thank all of our witnesses for 
+joining us today. We have with us Secretary of State Bob Evnen 
+of the great State of Nebraska, and Mr. Howard Knapp, Executive 
+Director of the South Carolina State Election Commission. 
+Secretary Evnen has served as Nebraska's Secretary of State 
+since 2019, where he has worked tirelessly to ensure that 
+Nebraska's elections are safe and secure.
+    Mr. Knapp has served as the Executive Director of the South 
+Carolina State Election Commission since 2022, previously 
+serving as the state's Interim Executive Director and Director 
+of Voter Services. He also serves on the United States Election 
+Assistance Commission Standards Board and has been nationally 
+recognized and certified for his work in this space. Thank you 
+both. We look forward to your testimony.
+    Chairwoman Klobuchar. Okay, if the witnesses can now please 
+stand and raise your right hand. Do you swear that the 
+testimony you will give before the Committee shall be the 
+truth, the whole truth, and nothing but the truth, so help you 
+God?
+    Ms. Toulouse Oliver. I do.
+    Mr. Evnen. I do.
+    Mr. Knapp. I do.
+    Mr. Bowens. I do.
+    Ms. Johnson. I do.
+    Chairwoman Klobuchar. Thank you. We will now proceed to 
+your testimony and recognize you each for a five minute 
+statement, starting with Secretary Toulouse Oliver.
+
+  OPENING STATEMENT OF HONORABLE MAGGIE TOULOUSE OLIVER, NEW 
+ MEXICO OFFICE, OF THE SECRETARY OF STATE, SANTA FE, NEW MEXICO
+
+    Ms. Toulouse Oliver. Thank you very much, Chairwoman 
+Klobuchar, and Ranking Member Fischer, and Members, whoever 
+they may be, for having us here today.
+    I am very pleased to be here, along with my election 
+official colleagues. I also just want to say I appreciated both 
+of your opening remarks very much, and we appreciate the 
+support that Congress gives us in the election community. Thank 
+you for having me here today. My name is Maggie Toulouse 
+Oliver.
+    I am the New Mexico Secretary of State, and I appreciate 
+the opportunity to be a part of this hearing as you gather 
+state and local perspectives on election administration 
+throughout the United States. The health of our democracy 
+depends on informed discussions like this about the challenges 
+and opportunities faced by election administrators across our 
+country.
+    My goal today is to provide you with insight into how 
+election administrators are coping with the new voting and 
+elections landscape, and to highlight some of the initiatives 
+we are taking in my state to support the vital work of county 
+clerks and their staff, poll workers, and the myriad of other 
+election professionals who make our American democracy a model 
+for the world.
+    The rise of misinformation since 2020 has made the job of 
+nonpartisan election administration much harder. When many 
+members of the public are mistrustful about the integrity of 
+our elections, election administrators then bear the associated 
+burdens of frivolous lawsuits, excessively burdensome public 
+information requests, disruptive voters and poll workers, and 
+outright threats and harassment.
+    One of the most important tactics to defend against the 
+detrimental effects of election administration is simply 
+putting good policies in place that are informed by election 
+administrators themselves. Such policies can clarify existing 
+laws or create new procedures that assist administrators in the 
+execution of their duties. For example, during our latest 
+Legislative Session in New Mexico, we passed a comprehensive 
+election administration bill that provides needed policies for 
+election administrators to efficiently and uniformly administer 
+our elections.
+    The bill's provisions were drafted in concert with the 
+state's election administrators and stem from actual 
+experiences those administrators navigated either during the 
+last election cycle or are currently navigating in preparation 
+for elections. We actually have statewide elections every year 
+in our state.
+    For this year, many county clerks have had trouble 
+retaining or hiring poll workers because of the increased 
+stress associated with being involved in elections, so we 
+increased poll worker compensation. The bill mandates training 
+for poll watchers and challengers with a curriculum developed 
+by my office so these individuals and election administrators 
+can gain a better understanding of the proper role of conduct 
+of watchers and challengers at a polling place. One section 
+clarifies procedures on public information requests, to protect 
+the secrecy of the ballot, and information about our national 
+critical infrastructure, but making sure that everything else 
+remains public. This specific section was included after county 
+clerks were inundated with requests for data and other 
+information that clerks do not actually use for administrating 
+elections.
+    After an individual earlier this year, influenced by 
+election misinformation allegedly orchestrated drive by 
+shootings at the homes of six elected officials in New Mexico's 
+biggest city, a provision was included in the bill that shields 
+the home addresses of elected or appointed officials from 
+public disclosure at their discretion.
+    Election administrators need policy tools like some of the 
+ones I have just highlighted in order to maintain fair and 
+efficient elections that are above the fray of misinformation 
+and partisan meddling. Of course, every jurisdiction has their 
+own decisions to make about which policies best serve their 
+communities. But I believe our policies in New Mexico are a 
+great model for many election administrators to mirror.
+    In addition to tailoring specific state policies that 
+assist administrators as they conduct elections, funding for 
+elections is key. Sufficient funding for election 
+administration, however, remains an obstacle for many election 
+offices around the country. The Federal Government can help 
+states and their election administrators by providing 
+consistent funding streams.
+    These funds can be used to assist us in fulfilling our 
+duties under Federal law to supplement costs associated with 
+new trainings and, or physical security upgrades or strengthen 
+cybersecurity defenses.
+    Without more consistent Federal funding to states for 
+elections, administrators may have to contend with outdated 
+equipment and technology, persistent staffing issues, and other 
+circumstances that can inhibit the efficient conduct of 
+elections. More consistent Federal funding for elections allows 
+election administrators to better plan for short, medium, and 
+long term goals that benefit all voters.
+    The Federal Government has an important role to play in 
+assisting states with the conduct of elections. Though each 
+state is different with different needs, and states should 
+continue to be the ultimate authority on running their own 
+elections, but collaboration is key, and an entity like the 
+United States Election Assistance Commission, the EAC, provides 
+a great example of how the Federal Government can help states 
+with election related needs.
+    Additionally, congressional funding of entities like the 
+Cyber-
+security and Infrastructure Security Agency, CISA, is vital 
+because states and localities simply do not have the resources 
+to defend against the modern threat landscape solely on our 
+own.
+    Though the current political environment, coupled with the 
+recent rash of election administration, makes the likelihood of 
+enacting Federal minimum standards for voter access unlikely, I 
+want to say that I do support minimum guarantees of access to 
+early and absentee voting so that there is more equity across 
+the board for voters in Federal elections across the country.
+    Some Federal involvement in elections will always be 
+crucial for security and for the policy entrepreneurship that 
+comes from such collaboration. Thank you again for this 
+opportunity today to testify on these crucial matters on behalf 
+of both New Mexico and our states' election administrators.
+    [The prepared statement of Ms. Toulouse Oliver was 
+submitted for the record.]
+    Chairwoman Klobuchar. Very good. Thank you, Secretary. 
+Secretary Evnen.
+
+OPENING STATEMENT OF HONORABLE ROBERT EVNEN, NEBRASKA OFFICE OF 
+           THE SECRETARY OF STATE, LINCOLN, NEBRASKA
+
+    Mr. Evnen. Good afternoon, Chairwoman Klobuchar, Ranking 
+Member Fischer. My name is Bob Evnen, and I have the honor and 
+privilege of serving as Nebraska's 27th Secretary of State. 
+This afternoon, I would like to talk about takeaways, some nuts 
+and bolts, from Nebraska's 2022 elections. I would like to 
+discuss Nebraska's newly adopted state Constitutional voter ID 
+requirement and security issues, including cybersecurity.
+    I would like to conclude with a thought about Federal 
+versus state control of elections. Nebraska's 2022 elections 
+were conducted efficiently, accurately, securely, and in 
+accordance with law.
+    As we have done for some time, within approximately one 
+month before the primary and general elections, every single 
+ballot tabulation machine in the state was tested three times 
+for accuracy by running three separate test decks of ballots 
+through each machine. In addition to these three tests, two 
+mock elections were held to further check the accuracy of our 
+ballot tabulators and to check the accuracy of the computers 
+that compile the results and our Election night reporting 
+website.
+    Then, after each election, we hand count the results. We do 
+this after the election, we hand count the results of certain 
+races in 2 or 3 percent of our precincts statewide. After the 
+2022 general election, we expanded this audit to include 10 
+percent of our precincts statewide. We checked at least one 
+precinct in each of our 93 counties. In all our counties, we 
+hand counted a total of 48,292 ballots.
+    The counting was conducted by election boards in those 
+counties composed of representatives of both major national 
+parties. In total, out of the more than 48,000 ballots hand 
+counted, discrepancies were noted on 11 ballots. That is a 
+discrepancy rate of 23 thousandths of 1 percent. Of the 11 
+ballots where there were discrepancies, 5 were ballots that 
+were marked too lightly for the machine to read the ballot, and 
+the other 6 were ballots that were misfiled or misplaced. We 
+did another check after the election. We found that 682,745 
+voters across the state were shown on the voter rolls as having 
+cast a ballot.
+    Those records are kept by our county election officials. We 
+compared that with the number of ballots that were tabulated. 
+There was a net variance of 29 ballots. That is a variance rate 
+of 4 thousandths of 1 percent. To the best of my knowledge, 
+none of the variance was attributable to machine error. In 
+Nebraska, in my view, our election officials across the state 
+did an exemplary job of conducting an accurate and secure 
+election.
+    I would like to take this opportunity this afternoon to 
+express my thanks and gratitude to our friends and neighbors 
+across the State of Nebraska who are the election officials who 
+conducted an outstanding election for our citizens in 2022. Now 
+in that election, in November 2022, Nebraska voters 
+overwhelmingly enacted an amendment to our state Constitution 
+requiring the presentation of a photo ID before casting a 
+ballot.
+    I have supported voter ID for many years. Our state 
+legislature is now working on legislation to implement this new 
+voter ID requirement. My office estimates that between 97 and 
+98 percent of registered voters in our state already have state 
+issued photo IDs.
+    I am confident that effective legislation will be passed 
+that will carry out Nebraska's new voter ID Constitutional 
+requirement without disenfranchising any legitimate voter. I am 
+working closely with the legislature to ensure that we have 
+effective--an effective voter ID requirement that is consistent 
+with the rights of voters.
+    In terms of the elections process itself in my view, one of 
+the greatest challenges to election security grows out of the 
+increasing availability of early voting. The challenges that 
+come with early voting include the opportunity to pressure or 
+intimidate voters and the possibility of vote buying efforts.
+    The potential for this sort of fraud is intensifying as 
+these early voting methods become more ubiquitous. In my view, 
+we ought to focus our attention on these matters. Turning 
+briefly to cybersecurity, the elections division of the 
+Nebraska Secretary of State's Office was awarded the 2019 
+Election Innovation Award from the National Association of 
+State Elections Directors.
+    We received this award for our program of collaboration 
+between our office, our voter registration data base vendor, 
+the Department of Homeland Security, and EI-ISAC, which was 
+referenced by Secretary to Toulouse Oliver.
+    Through this collaboration organized by our office, we were 
+able to place an Albert networking monitor on the server of our 
+elections vendor to detect intrusion on our voter registration 
+system.
+    Finally, permit me to observe that under the United States 
+Constitution, elections have been left at the sound discretion 
+of the State Legislatures.
+    I am speaking from my perspective as the Secretary of State 
+of Nebraska. The states ought to remain responsible for the 
+conduct of elections. Issues affecting the conduct of elections 
+can be and ought to be resolved by the State Legislatures. 
+Thank you, Senators, for your time and attention this 
+afternoon.
+    [The prepared statement of Mr. Evnen was submitted for the 
+record.]
+    Chairwoman Klobuchar. Very good. Thank you very much. Next 
+up, Mr. Knapp.
+
+    OPENING STATEMENT OF HOWARD KNAPP, SOUTH CAROLINA STATE 
+         ELECTION COMMISSION, COLUMBIA, SOUTH CAROLINA
+
+    Mr. Knapp. Chairwoman Klobuchar, Ranking Member Fischer, 
+and Members of the Committee, I am honored to be here today to 
+present the South Carolina perspective on election 
+administration.
+    Elections play a vital role in a free and fair society and 
+are the cornerstone of our Republic. There is an important link 
+between the trust in our election process and the confidence 
+our citizens place in all Government functions. This is why 
+South Carolina has been keeping our elections accurate, secure, 
+and accessible, and that is one of our state's top priorities.
+    In January 2021, I was appointed Executive Director of the 
+South Carolina State Election Commission. The Commission is a 
+five member bipartisan committee appointed by the Governor to 
+oversee election operations. Since my appointment and 
+subsequent confirmation by the South Carolina Senate, I have 
+focused on improving and protecting the security and resilience 
+of our state's election infrastructure while implementing the 
+reforms needed to move South Carolina forward.
+    We have long been a national leader in elections. South 
+Carolina was the first state to have a statewide voter 
+registration system and the first to make our voter 
+registration application available on the internet.
+    Last year, we built upon that tradition with the 
+implementation of Act 150 of 2022, which was passed unanimously 
+by the South Carolina General Assembly. This legislation 
+established no excuse early voting, two weeks prior to an 
+election, amended absentee ballot processes, and increased 
+election crime penalties.
+    Any registered South Carolina voter can now visit early 
+voting locations and vote like they would at their polling 
+place on Election Day, replacing the need for in-person 
+absentee voting. While the process to implement early voting 
+has taken other states more than six months, we managed to do 
+it in only ten days, just in time for the statewide primaries 
+in June.
+    As a result, early voting was used for the first time in 
+the state's history, and more than 100,000 voters chose to vote 
+early throughout the state. Through our hard work, the general 
+election was even more successful than the primaries.
+    Over half of all registered voters voted, and almost half 
+of all votes cast were cast before the general election, either 
+via early voting or absentee. We credit this remarkable turnout 
+during early voting and on Election Day to robust education 
+campaign that informed the public of the new election laws and 
+changes through frequent statewide messaging to reach every 
+eligible voter.
+    In a statewide survey conducted after the passage of Act 
+150, 85 percent of South Carolina voters indicated they felt 
+confident in the accuracy of South Carolina elections, compared 
+with only 66 percent in those carried out nationally. Ninety-
+seven percent of South Carolina voters thought registering to 
+vote was easy and 93 percent felt their local polling place was 
+organized and well run.
+    The success of implementing Act 150 is even more astounding 
+when considering we were simultaneously implementing state and 
+local redistricting plans. In addition, to implementing Act 150 
+and redistricting, the Commission and county offices also had 
+to carry out their regular duties ahead of, during, and after 
+the election.
+    This process starts accurately--starts with accurately 
+maintaining our list of registered voters. When a person 
+registers to vote, the person remains registered until they are 
+disqualified or pass away.
+    Additionally, confirmation cards requesting voters to 
+confirm the registration status are mailed to voters who have 
+not voted or updated their information in the last two general 
+election cycles. Notices are sent to voters when they are made 
+inactive, giving voters a second chance to let us know if the 
+removal was an error.
+    This process not only removes disqualified voters, but also 
+protects qualified voters from wrongful removal. If there is 
+any question about a voter's qualifications to vote, the voter 
+can always cast a provisional ballot.
+    To keep our elections secure we have a--we have developed 
+an unprecedented partnership of state, federal, and private 
+cyber-
+security, law enforcement, and intelligence entities. Together, 
+we protect the security of our elections and investigate 
+misconduct.
+    After election night and before the certification of state 
+and federal elections, South Carolina requires hand count 
+audits to be conducted in every county. We also conduct 
+independent results verification audits, which digitally 
+tabulate every ballot cast in an election to ensure every vote 
+was counted as intended by the voter.
+    Recently, I established the agency's first audit division. 
+This division is tasked with conducting county compliance 
+audits in addition to overseeing the aforementioned post-
+election audits. These compliance audits will ensure that 
+county election offices follow Federal law, state law, and the 
+agency's statewide election policies and procedures to ensure 
+every voter and every candidate is treated the same.
+    South Carolina is set to hold the Nation's first 
+Presidential primary in 2024. It will continue to be a national 
+model and leader in election administration, and we remain 
+committed to being transparent with the public at every turn.
+    We stand ready to assist Congress as it contemplates 
+national reform efforts. South Carolina's election success can 
+serve as a framework for other states as they look to improve 
+upon the cornerstone of American democracy and instill greater 
+trust in the outcome of our elections. Thank you.
+    [The prepared statement of Mr. Knapp was submitted for the 
+record.]
+    Chairwoman Klobuchar. Thank you very much. Next up, Mr. 
+Bowens.
+
+   OPENING STATEMENT OF DEREK BOWENS, DURHAM COUNTY BOARD OF 
+               ELECTIONS, DURHAM, NORTH CAROLINA
+
+    Mr. Bowens. Thank you, Chairwoman Klobuchar, Ranking Member 
+Fischer, and distinguished Members of the Committee on Rules 
+and Administration of the United States Senate. I am honored to 
+appear before you to talk about the administration of elections 
+in Durham County, North Carolina, both in general and during 
+the 2022 midterm elections.
+    I currently serve as the nonpartisan Elections Director for 
+Durham County, North Carolina. In this position, I have 
+administered many local, state, and federal elections. I have 
+more than a decade of local election administration experience 
+and my teams have won multiple awards from the National 
+Association of Counties and the United States Election 
+Assistance Commission for innovation in election 
+administration.
+    I am privileged to have two of my dedicated team members 
+with me today, Deborah Hart and Rebecca Troedsson. I must also 
+speak to the hard work of my colleagues and the other 99 
+counties in North Carolina, many of which are participating in 
+a director's association conference to further advance their 
+knowledge in election administration and security.
+    The county that I serve, Durham County, has over 320,000 
+residents making us the sixth largest of North Carolina's 100 
+counties. We have approximately 230,000 of North Carolina's 7.2 
+million registered voters.
+    We are proud to have two nationally recognized institutions 
+of higher learning, Duke University and North Carolina Central 
+University, in addition to our wonderful technical and 
+community college system. Also, most of the Research Triangle 
+Park, a hub of global science and technology firms, Government 
+agencies, and academic institutions, is in Durham County. 
+County Commissioners fund the county boards of elections in 
+North Carolina.
+    However, these local election offices, under the general 
+supervision of the State Board of Elections, are responsible 
+for administering elections in their respective counties. My 
+position is nominated by the county boards of elections and 
+confirmed by the Executive Director of the State Board of 
+Elections.
+    Election Administration in Durham County is administrated 
+in a manner that promotes free, fair, transparent, and secure 
+elections. There are several processes and checks and balances 
+which work together throughout the election cycle that result 
+in trustworthy elections.
+    In my testimony today, I want to stress that I am a 
+nonpartisan public servant who believes strongly in the promise 
+of democracy and in the preservation of the core tenets of our 
+Democratic Republic. I take this responsibility very seriously 
+and carry out my duties impartially without regard to partisan 
+preferences or affiliations.
+    I am committed to developing and carrying out sound 
+processes according to state and federal law, to give our 
+citizens faith and confidence in the outcome of every Durham 
+County election. Every day I am mindful that less than 60 years 
+ago people who look like me could not execute a basic function 
+guaranteed under our Constitution without hardship and 
+restriction.
+    This became more real to me when I was verbally harassed by 
+being called the N-word during a virtual public meeting while I 
+was carrying out my duties as the Director of Elections during 
+the 2020 general election.
+    As such, it is an honor to equitably serve all citizens in 
+Durham County as the Director of Elections and ensure that 
+elections conducted under my purview are free, fair, and 
+secure. I look forward to sharing my experiences as an election 
+administrator in Durham County, North Carolina.
+    I hope I have the opportunity to highlight how we conduct 
+free, fair, and secure elections, discuss my experiences with 
+the 2022 midterm election, provide my thoughts on election 
+funding, and share the work of the Committee for Safe and 
+Secure Elections, a bipartisan organization of which I am a 
+member, and was established to address the recent threats, 
+harassment, violence, and intimidation directed at local and 
+state election officials in this country.
+    Again, thank you for the opportunity to speak with you 
+today, and I look forward to your questions.
+    [The prepared statement of Mr. Bowens was submitted for the 
+record.]
+    Chairwoman Klobuchar. Thank you very much, Mr. Bowens. Just 
+so you know, Senator Fischer, we have a vote. She is voting and 
+then I will go vote. She has left you, Secretary Evnen, with 
+me.
+    You know, I was showing her the--I was showing her the past 
+records of the Gophers versus the Cornhuskers. Just so you 
+know, the Gophers came out ahead in the deal. Marcia Johnson 
+and I apologize for saying your first name wrong, so I will try 
+to correct that throughout this hearing. Ms. Johnson, thank 
+you.
+
+  OPENING STATEMENT OF MARCIA JOHNSON, LAWYERS' COMMITTEE FOR 
+             CIVIL RIGHTS UNDER LAW, WASHINGTON, DC
+
+    Ms. Johnson. Chairwoman Klobuchar, Ranking Member Fischer, 
+and Members of the United States Senate Committee on Rules and 
+Administration, my name is Marcia Johnson, and I serve as the 
+Co-Director of the Voting Rights Project at the Lawyers' 
+Committee for Civil Rights under Law. Thank you for the 
+opportunity to testify today on state and local perspectives on 
+election administration.
+    The Lawyers' Committee was founded in 1963 by President 
+John F. Kennedy's request. We use legal advocacy to achieve 
+racial justice and make the promises of our democracy real for 
+black people and other people of color. As part of this vital 
+work, we convened the Election Protection Coalition, which is 
+made up of nearly 400 national, state, and local partners. We 
+also administer the 866-OUR-VOTE election protection Hotline, 
+which provides comprehensive nonpartisan assistance at all 
+stages of the voting process to any American who needs it.
+    I have been with the Lawyers' Committee for 19 years, since 
+2004, when I worked on the first election protection program 
+during a Presidential election.
+    In recent years, I have seen significant changes in the 
+ways that Americans vote. For example, in 2018, nearly 50 
+percent of the calls to the 866-OUR-VOTE hotline were placed on 
+Election Day. Yet in 2022, only around 20 percent of the calls 
+we received during the election period were placed on Election 
+Day.
+    The timing of these calls reflect the trend of more voters 
+choosing to vote before Election Day, either by mail or early 
+in-person. Election officials and administrators should be 
+aware of these trends so that their jurisdictions have the 
+resources to ensure access to the vote throughout the entire 
+voting cycle.
+    The types of calls to the election protection hotline 
+include: reports of intimidation and or aggressive 
+electioneering, problems with polling place access or ballots, 
+problems with voter ID and registration, problems with mail-in 
+and absentee ballots, and questions or information requests. 
+One of the disturbing trends we saw in 2022 was voter 
+intimidation around ballot drop boxes.
+    In Arizona a Federal judge had to stop a coordinated group 
+of men from openly carrying firearms and wearing body armor and 
+masks to hide their faces while following, yelling at, and 
+recording voters at ballot drop boxes. One voter wrote into the 
+Arizona Secretary of State's Office saying, ``I have never been 
+more intimidated in my life trying to vote, and I am very 
+worried for my safety.''
+    This disturbing and fairly new trend proves two things. 
+First, election myths and disinformation have significant 
+consequences. When election myths and disinformation about 
+election security are encouraged to flow freely on voters' 
+social media feeds, it can encourage bad actors to create new 
+and at times terrifying schemes to intimidate voters, 
+particularly voters of color.
+    Second, as the ways Americans vote evolve, so do the 
+methods of discrimination and intimidation. After the Supreme 
+Court's decision in Shelby County vs. Holder weakening the 
+Voting Rights Act, the late great Congressman John Lewis wrote, 
+I disagree that because the incidence of voter discrimination 
+is not as pervasive, widespread, or rampant as it was in 1965 
+that the contemporary problems are not a valid basis for 
+scrutiny.
+    In a democracy, one act of voter discrimination should be 
+too much. Following the record turnout in the 2020 Presidential 
+election, something that all Americans, no matter their 
+political affiliation, should applaud, too many states have 
+passed laws that unduly restrict the very voting methods that 
+contributed to that record turnout.
+    In order for this country to live up to its democratic 
+ideals of equality for all, this Congress needs to enact 
+baseline Federal voting standards. Congressional action is 
+necessary to prevent the backsliding of voting rights for many 
+Americans, especially black voters and voters of color. I look 
+forward to sharing more about what we found in 2022 elections. 
+Thank you.
+    [The prepared statement of Ms. Johnson was submitted for 
+the record.]
+    Chairwoman Klobuchar. Very good. I appreciate all of you. 
+We are going to have a number of our colleagues joining us 
+shortly that were at the vote. I am going to get started. As we 
+look back first at the 2022 election, I guess I will ask all of 
+you this, in your own state, which is what I believe you can 
+address. Secretary Toulouse Oliver, do you believe that it was 
+a secure election in 2022?
+    Ms. Toulouse Oliver. Madam Chair. Yes, absolutely it was.
+    Chairwoman Klobuchar. Okay, very good. Secretary Evnen.
+    Mr. Evnen. Yes, Madam Chairwoman. In Nebraska, we had a 
+secure and accurate election.
+    Chairwoman Klobuchar. I appreciated those numbers that you 
+put out there as well in your studies. Thank you. Mr. Knapp, 
+South Carolina. Been in your state a few times for some reason. 
+But please let me know if you believe it was a secure election.
+    Mr. Knapp. Yes.
+    Chairwoman Klobuchar. Okay. Very good. Mr. Bowens in North 
+Carolina.
+    Mr. Bowens. Yes.
+    Chairwoman Klobuchar. Okay. Very good. Ms. Johnson, just 
+what you saw across the country when it came to election 
+security?
+    Ms. Johnson. Yes.
+    Chairwoman Klobuchar. Okay. Very good. Thank you. Maybe I 
+will start with you, Secretary Toulouse Oliver. What major 
+issues did you see election officials in your state facing in 
+2022? Then get a little--dig deeper on some of the things you 
+identified.
+    You said you listened to everyone and then came up with 
+ideas for change. I know Secretary Simon in Minnesota--as I 
+know we have had a very good history of elections in our state 
+in terms of turnout--he still found things he could do to 
+improve things and has introduced legislation and the like. Why 
+don't you talk about--and already passed some things--what you 
+see went well, what you wanted to improve out of 2022.
+    Ms. Toulouse Oliver. Thank you, Madam Chair. I think, you 
+know, I do not think I would be remiss on speaking on behalf of 
+all of my colleagues here when I say that, you know, when it 
+comes to election administration, there is literally always 
+room for improvement, no matter how successful an election we 
+conduct, no matter how robust the participation, how well the 
+policies and procedures were implemented, there is always room 
+to make it better.
+    That is actually one of the beautiful things about the work 
+that we do, especially as our society and our democracy evolve 
+over time, looking at ways to improve the process, make it more 
+secure and more accessible, is really important.
+    In my state, a couple of the challenges that we really 
+sought to address in this most recent Legislative Session in 
+our state, in particular the, what really is effectively the 
+weaponization of public records request. As several of the 
+witnesses here today mentioned, you know, myths and 
+disinformation has generated a lot of threatening and harassing 
+activity. Some of them, you know, are outright threats of 
+violence, that I think probably all of us have had to deal with 
+in some form or fashion.
+    But some of them come in the form of--you know, we have in 
+my state, 33 counties, so not nearly as many as most of the 
+folks up here. Some of our election offices are as small as two 
+people, right. Two full-time employees.
+    When they are being bombarded with literally hundreds of 
+requests for thousands of documents, many of which are not 
+actually relevant to the conduct of elections or to kind of, 
+you know, getting to the place where the interested party wants 
+to go, that is really challenging.
+    We look to try to make sure how do we maintain documents, 
+access to public documents, but let's make sure we are 
+protecting the privacy of the voter or our critical national 
+infrastructure, things like that as well. Last but not least, I 
+will just mention that we did pass increased penalties for 
+threats of violence and harassment toward election officials in 
+particular.
+    That is a piece of legislation that I think is going to 
+really help us moving forward with the not only the sense of 
+safety and security of our election administrators, but also in 
+terms of that challenging issue that we are seeing with regard 
+to hiring, retaining, and training our poll officials.
+    Chairwoman Klobuchar. A good segue for you, Secretary 
+Evnen. With your experience, could you talk about retaining 
+election work force, as you know, you have officials choosing 
+to retire or leave.
+    There are issues as we--I know you surveyed and I mentioned 
+the Brennan Center, and in some states more than others, where 
+people are concerned about their safety because of threats or 
+they do not want to be on the front line like that. Could you 
+talk about the professional pathway to becoming an election 
+official and just what recommendations you have when it comes 
+to retaining election officials? Really both--we have the 
+professional ones, and then of course, we have volunteers.
+    Mr. Evnen. Attracting and retaining election officials. 
+There are county clerks in many of Nebraska's counties. It is 
+our county clerks who serve as our election commissioners as 
+well. Some of our larger counties have dedicated election 
+commissioners. There is certainly a heightened interest in 
+elections.
+    That heightened interest extends to the county level. There 
+are two things that I think are helpful in my state. One is 
+when I have the opportunity and when the chief deputy--when the 
+deputy of elections has the opportunity to go out and speak, we 
+find that when people become better informed about election 
+systems, the elections process, that they leave with greater 
+satisfaction.
+    We also try to involve people in it. That is, we encourage 
+people to become poll workers. We encourage people to become 
+observers on Election Day. What we find is that as they become 
+more familiar with the process itself, their confidence in the 
+integrity of the process grows.
+    The other observation I would make in response to your 
+question, Senator, is that we had very good elections in 
+Nebraska, and I am bragging on my state, Senator. But it is, I 
+am not bragging on myself, because it is the people in those 93 
+counties who made that happen.
+    I think it is very important, and I did so in my remarks, I 
+think it is very important that we recognize their work and 
+that we express appreciation and gratitude to them for it. That 
+is something that I have been doing and that others have been 
+doing as well that I believe is helpful to encourage our 
+election officials.
+    Chairwoman Klobuchar. Exactly. I think that kind of--some 
+of that is defending them. I would say if there is, you know, 
+attacks from people who are misinformed, some of it is just 
+lifting them up for what they are doing because it is such an 
+important part of our democracy. They are truly on the front 
+lines when people go and vote. In your absence, Senator 
+Fischer, I did bring up the Gophers, Cornhuskers record. Just I 
+wanted to have full disclosure.
+    Okay, I once called her from a Gophers game when the 
+Gophers beat Nebraska, which was a surprise. I said, I thought 
+it was funny because I know how important, and she said, it is 
+not funny at all. I was still at the stadium.
+    She said, we could talk about it later. Okay, on that note, 
+Mr. Knapp, if you want to talk a little bit just about, I 
+raised this issue I have worked with Senator Graham of your 
+state on disclosures on an election bill we did together, on 
+election ads on that came about because of some of the foreign 
+purchases of ads during one election.
+    We have worked on social media platforms and how we police 
+this--and I know this was not in your testimony. I was just 
+thinking of Senator Graham's willingness to work on some of 
+these issues.
+    Could you talk a bit about how you deal with that with 
+the--and I am not getting, I do not want to get into the 
+political realm about it, I am just talking about making sure 
+that your citizens are informed about what is going on with 
+elections when they are bombarded with things that sometimes 
+are not true, even for the administration of elections, and how 
+and when they vote. Mr. Knapp.
+    Mr. Knapp. That is a fantastic question because it gives me 
+an opportunity. As Secretary Evnen said, one of the weapons we 
+have is to combat the misinformation with true information 
+about what is going on with elections.
+    Shortly after the 2020 election, my agency published this 
+on our website, basically South Carolina's elections A to Z, 
+and it talks about everything about how we keep the voter lists 
+as accurate as possible, how our voting machines work, how we 
+do audits. This is for--it was written so it could be 
+understandable to just about anybody.
+    This is from us. We also just this year started publishing 
+an annual report to our General Assembly. I mean, that is the 
+audience for this, for anybody. It talks about what have we 
+done this last year as an agency to administer our elections in 
+our state. The reality is there is a segment of the population 
+that is not going to believe anything we say, no matter what we 
+say.
+    That is not who I am speaking to. I am speaking to the 
+other 90 percent of the population that all they hear is the 
+screaming and the misinformation. You know, I get it. 
+Questioning Government is an American pastime and has been 
+for--since the beginning. But at some point, Americans have to 
+decide, do you believe the election officials or not?
+    This is our best shot at trying to be as transparent as 
+possible. That is really something I have tried to hone in on 
+during my tenure is transparency.
+    Chairwoman Klobuchar. Okay. Thank you. I really want to ask 
+Mr. Bowens, Ms. Johnson a question. I am going to do that on my 
+second round here because my colleagues are waiting. Before I 
+go vote and turn this over briefly to Senator Fischer, I would 
+like to ask unanimous consent to enter the following documents 
+into the record.
+    A new report by two nonpartisan groups, Issue One and the 
+Alliance for Securing Democracy at the German Marshall Fund, 
+with 13 recommendations to improve election administration, 
+including the reforms in the Election Worker Protection Act 
+that I mentioned that I have introduced.
+    A letter from the Southern Poverty Law Center Action Fund 
+and statements for the record from a bipartisan pair of county 
+clerks about the challenges they face when running elections.
+    Justin Roebuck, the Clerk and Register of Deeds for Ottawa 
+County, Michigan, who is a Republican, and Brianna Lennon, 
+County Clerk for Boone County, Missouri, who is a Democrat. 
+Without objection, these documents will be entered into the 
+record. So entered.
+    [The information referred to was submitted for the record.]
+    Chairwoman Klobuchar. Senator Fischer.
+    Senator Fischer. Thank you, Chairwoman Klobuchar. Again, 
+thank you to our witnesses. I have a question to address to 
+Secretary Toulouse Oliver, Secretary Evnen, and Mr. Knapp. In 
+in recent years, election officials nationwide have faced an 
+increasing number of cybersecurity threats from sophisticated 
+and also very malicious actors.
+    Specifically, during the 2022 election cycle, both Illinois 
+and Mississippi experienced cyberattacks on their public 
+election websites, which provide voters with that important 
+information, such as precinct locations.
+    While these attacks did not compromise voting systems 
+themselves, this issue remains a serious and ongoing challenge. 
+If you could tell me, have your respective jurisdictions 
+experienced cybersecurity incidents or threats, and what have 
+your officers done that ensure that your state's voting systems 
+and your elections systems are secure? Secretary Toulouse 
+Oliver, please.
+    Ms. Toulouse Oliver. Thank you very much, Ranking Member, 
+for the question. I think it is unfortunately safe to say that 
+to one degree or another, every election jurisdictions in the 
+country, certainly every statewide jurisdiction, has received 
+or has been the target of attacks or potential attacks.
+    We know that there is constant, you know, scanning of 
+sites, attempts, phishing attempts. You know, I personally I 
+joked with my staff one time that I personally thwarted the 
+Russians because there was a phishing email that looked 
+suspicious and I reported it and it followed the path through, 
+through the ISAC and up to CISA, and it was, you know, 
+identified as a foreign source phishing attempt.
+    The reality is that this is a threat that we are all 
+dealing with all day, every day, and even the smallest 
+jurisdiction in the country has the potential to be vulnerable 
+to such threats. In my state, and I will be as brief as 
+possible, but of course, one of the first things we did was 
+create a robust partnership with in particular CISA to utilize 
+all the tools that they have available to us as a state 
+jurisdiction and to push down to our local jurisdictions, to 
+both look for any potential vulnerabilities, to get advice and 
+information about how to patch those up.
+    As Secretary Evnen mentioned, we also have Albert sensors 
+installed on our systems so that we are looking for odd 
+patterns of internet traffic behavior coming into our systems 
+so that we can be aware that maybe something is going on.
+    We have created a very robust cybersecurity and really 
+generally an election security program in my office that we 
+recently took from just being a program initiative that I 
+created to now being required by New Mexico State law moving 
+forward, that there is always going to be such a program in my 
+office.
+    The point is really to take that the resources and tools 
+that we receive from the Federal Government and from our 
+private partners and be able to make sure that those are all 
+available downward to every local election jurisdiction across 
+the state.
+    Senator Fischer. Thank you. Secretary Evnen.
+    Mr. Evnen. Thank you, Senator. We are fortunate in 
+Nebraska, we have not had any cybersecurity incidents in 
+Nebraska. Nebraska was the first state to place an Albert 
+monitor--this is a detection intrusion monitor system on the 
+services--on the servers of a private vendor for our statewide 
+voter registration system.
+    That, by the way, has now been replicated in seven other 
+states. In terms of our ballot tabulation machines, the 
+computers that compile the results, these are air gapped. They 
+are not connected to the internet, for any purpose at any time.
+    We have also placed additional Albert monitors in strategic 
+locations throughout our state. Since 2018, all of our state's 
+vendors that are part of our elections infrastructure have and 
+continue to work with the Department of Homeland Security, in 
+particular the offices of cyber hygiene and physical security 
+for best practices.
+    Those are not offices, those are our principles and 
+profiles, cyber hygiene and physical security, best practices. 
+All 93 counties in our state are members of the Elections, 
+Infrastructure, Information Sharing and Analysis Center. This 
+is EI-ISAC. All 93 counties are members, and that is also a 
+very valuable resource to keep up with the latest threats and 
+the best practices.
+    Senator Fischer. Mr. Knapp, if you could answer that. But 
+also, you had a lot of experience in dealing with that as 
+director of voter services. You are responsible for information 
+technology, cyber-
+security, in support of statewide voting systems. How did that 
+experience--I guess, did it shape your approach to 
+cybersecurity a little differently than the Secretaries, or do 
+you have the same concerns?
+    Mr. Knapp. I have the exact same concern. Secretary Evnen 
+and I have the exact same voting system, which is not connected 
+to the internet, so that is not a concern. But the I will say 
+South Carolina, the state, my agency, has not been a victim of 
+a cyber incident, luckily.
+    We have all the resources we could ever need with Homeland 
+Security, CISA, EI-SAC, the FBI, our state law enforcement, our 
+Department of Administration, which houses are networks. We 
+have Albert sensors. We have everything possible to protect our 
+statewide election system, which we house.
+    I would say the biggest vulnerability in South Carolina is 
+probably our locals. Although the State of South Carolina, I am 
+sure, is inundated every second with attacks from adversaries, 
+the biggest victims in my state of cybersecurity attacks are 
+small municipalities, municipal utilities, and we are what is 
+called a top-down state in that I supervise the county election 
+offices, but they are still counties are still autonomous.
+    If they do not want to accept help or spend their own 
+resources on cybersecurity, they do not have to. But that being 
+said, county election officials that have access to our 
+statewide election system, they all undergo cybersecurity 
+training.
+    We do phishing. We do phishing campaigns in my office to 
+ensure everybody is trained on that as well. We do lots of 
+training. I can say that my agency at the state level has every 
+resource I can think of. But I do worry about my smaller 
+counties and municipalities.
+    Senator Fischer. Thank you. Sec--I almost called you 
+Secretary.
+    Senator Padilla. I know why. As a former Secretary of State 
+for the great State of California, now serving in the Senate, I 
+am thrilled to welcome state and local elections officials to 
+testify before us today.
+    I think it is important for this body to hear from the 
+folks on the ground, the folks who do this day in and day out 
+to inform our positions in decision making and investments. It 
+is true here now more than ever before because we know the 
+impact that the Big Lie has had through the sowing of 
+disinformation throughout--about our elections in the minds of 
+a lot of the American people. It is that with abstract 
+consequences.
+    There are very real consequences, even in the State of 
+California, where Shasta County has chosen to stop using their 
+Dominion voting system, and I should underscore a state tested 
+and certified voting system, putting itself in a position with 
+no system or plan in place with elections less than a year 
+away, because it is not about next November, it is about the 
+primaries in 2024.
+    There are real dangers here to all of this. I know 
+Chairwoman Klobuchar mentioned earlier her concern about 
+election workers and the threats that they are under on an 
+increasing basis. Again, a consequence of the Big Lie.
+    When one in six election workers share that they have faced 
+threats and harassment since the 2020 election, resulting in 
+one in three election workers leaving their positions, it is 
+not just a matter of capacity that is being lost as a result, 
+but the tremendous talent and experience that is lost.
+    While threats and challenges to our elections are only on 
+the increase, my first question is for Secretary Toulouse 
+Oliver. Good to see you again. Can you just share what your 
+experience in New Mexico has been in this regard? Any aside 
+from stats, any tangible examples of the threats to harassment 
+from your office to the locals, and the loss of election 
+workers and what that means?
+    Ms. Toulouse Oliver. Thank you very much, Madam Chair, and 
+Senator from my native State of California. It is very good to 
+see you again. I did already allude to a little bit of this in 
+some earlier comments.
+    Forgive me for repeating myself a little bit, but so I 
+think the challenges are twofold in terms of the demands and 
+the challenges in retaining--you know, and I really want to 
+emphasize that because our poll, particularly down at the local 
+level, our poll workers, the ones who come year in and year 
+out, who have that breadth of experience and knowledge, but 
+also our local election officials, right.
+    In my state, county clerks, their staff, right, having 
+folks who know and understand the election process, who are 
+educated, efficient, good at their jobs, keeping those 
+professionals in place is really important. When they 
+experience harassment and threats and we do lose and we have in 
+my state, just as we have seen across the country, we have lost 
+a lot of these experienced folks as a result of this. It is a 
+challenge.
+    I think that the challenge is twofold. I think first and 
+foremost, there is sort of the obvious, you know, threats of 
+violence and just outright harassment. I mean, I have heard 
+reports from poll officials who say they were, you know, 
+followed home.
+    You know, folks who are kind of lingering outside of a 
+polling place and waiting for them to close down and kind of 
+you know, following them home to see where they live, you know, 
+ostensibly to--I do not know, see if they brought a ballot with 
+them or something like that from a polling place.
+    But also, one of the bigger challenges we are dealing with 
+is that the misinformation is creating sort of, you know, tens 
+of thousands of what I would call, you know, individual self-
+described detectives who are flooding even our smallest offices 
+with information requests.
+    They are so overwhelming that they cannot even--they do not 
+have the time they need to do their jobs, right. Those are some 
+of the challenges.
+    Senator Padilla. These are, you know, great examples, which 
+from what I hear, colleagues in other states were contentious 
+states, particularly the once every 4-year state, it gets even 
+more intense. I will try to make another couple of questions on 
+the shorter side with my time left.
+    But yes, one question for Mr. Evnen, do you believe your 
+team and the local leaders that you work with are prepared for 
+the challenges that the Big Lie is going to cause in next 
+year's election? Yes or no, or very brief answer.
+    Mr. Evnen. Well, our elections officials across the state 
+are county clerks. Our elections are conducted by county clerks 
+across all 93 counties and election commissioners in our larger 
+counties. They are prepared. We support them from the Secretary 
+of State's Office in our elections division. We support them 
+with information. We support them----
+    Senator Padilla. Are we going to be ready next year?
+    Mr. Evnen. We are ready.
+    Senator Padilla. Any concern about being ready next year or 
+not?
+    Mr. Evnen. We do not have concerns about being ready. We 
+have responded to questions and concerns. You can see on the 
+Secretary of State's website, the Nebraska Secretary of State's 
+website, we have a presentation called Fake versus Fact, and in 
+that we have responded to a number of the concerns that have 
+been raised. We lay out what we have found to be the case and 
+we let the voters decide for themselves what they think.
+    Senator Padilla. All right. Let me follow-up with some of 
+you on--after the hearing with some more specific questions.
+    The last one is more on the technical side, you know, for a 
+lot of people across the country, increasingly getting to the 
+polls on a single particular day between a certain time and a 
+certain time to cast your ballot is not always the most 
+convenient, particular changing rules.
+    We know that primarily in the West, from Utah, Colorado, 
+Oregon, California as well, we have expanded greatly the option 
+of voting by mail, which has proven to be very safe, very 
+secure, in addition to be very convenient.
+    Question for Mr. Bowens, do you think we would benefit from 
+a basic Federal standard that would allow all voters that are 
+eligible to vote, and we are talking about eligible voters 
+here, to be able to exercise a vote by mail option?
+    Mr. Bowens. Thank you, Senator. I can speak to Durham 
+County, North Carolina, and what works there. Over the past 
+three Federal general elections, approximately 63 percent of 
+our voters have participated early.
+    Over the same three Federal general elections, we have 
+received over 82,000 civilian, military and overseas, absentee 
+by mail requests, no excuse. In North Carolina, 72 percent of 
+those that were returned were accepted and counted.
+    I believe that North Carolina has established very good 
+standards with respect to voting in general, but certainly 
+early voting, which begins 17 days or the third Thursday prior 
+to each election, and I believe the first in the country to 
+distribute absentee by mail ballots beginning 60 days prior to 
+Federal general elections.
+    To the extent that standards would comply with what North 
+Carolina does, which I think is a very good model, I would 
+agree with that.
+    Senator Padilla. Thank you very much. I am a big believer, 
+just so you know, and again, proven to be safe, secure, and 
+very convenient for folks. Thank you, Madam Chair.
+    Senator Fischer. Thank you, Senator. Nebraska kind of eased 
+into voting by mail. We started in, I think it was 2005, a bill 
+passed in the legislature when I was there that in reaction to 
+the Help America Vote Act. The cost that would have had on some 
+very sparsely populated counties.
+    A bill was passed to allow those counties to vote by mail. 
+As Mr. Bowens said, you know, you--the state was able then to 
+work it out and set standards that worked for the state, and so 
+we enjoy voting by mail in Nebraska----
+    Senator Padilla. I get--I appreciate that every state is 
+different, every local jurisdiction is a little bit different. 
+I am not a fan of vote by mail exclusively, but as an option 
+because the general trend that we have seen is when voting by 
+mail is an option, more people exercise it, fewer people show 
+up in person, so that the cost of implementing vote by mail is 
+actually a lot less than the cost of maintaining polling places 
+and staff and equipment for days when fewer and fewer voters 
+are showing up. You still maintain an in-person option, but 
+that right balance of the two is the most efficient.
+    Senator Fischer. I think that is important that, you know, 
+as Mr. Bowens said, the states are able to figure out how to 
+make that work. Thank you.
+    Chairwoman Klobuchar. It is fun to come into a discussion 
+between my colleagues.
+    Senator Fischer. There are so few of us here----
+    Chairwoman Klobuchar. Exactly. We are pleased to see two 
+new Members of Committee here, Senator Britt, and then we will 
+go to Senator Bennet. Senator Britt.
+    Senator Britt. Thank you, Madam Chairwoman, and Ranking 
+Member. I am excited to be at my first hearing today. I 
+actually want to follow-up on the line of questioning from my 
+colleague here across the aisle.
+    As he discussed, recruiting poll workers has been a 
+constant challenge and it has actually become more challenging, 
+more difficult in recent years as we have had more and more 
+experienced volunteers choosing to retire.
+    I would like to do kind of a rapid fire very quick as we go 
+through and talk with each of you just about what are your 
+offices doing to encourage people to engage in this electoral 
+process, to be poll workers?
+    Any tips you have or anything that is working? Because I 
+think if we could hear what is working for you, that would help 
+us get the word out to other places about what they may do to 
+help remedy that problem. We will start with you. Yes, ma'am.
+    Ms. Johnson. I am not an election official, but I will say 
+as part of our work with the Election Protection Coalition, we 
+definitely push for people to sign up to be poll workers 
+because we see them as an essential part of the process and we 
+create guides to help voters know about the process.
+    Senator Britt. Right, absolutely. Okay. Thank you. Yes, 
+sir.
+    Mr. Bowens. I would say it is twofold. One is related to 
+compensation. In North Carolina, we pay our poll workers.
+    But I also understand that in many jurisdictions, very 
+fortunate in Durham County, and many North Carolina counties, 
+they cannot pay reasonable compensation outside of the 
+statutory baseline to engage workers wanting to participate.
+    This speaks to the need as suggested by the National 
+Association of Counties, for consistent, predictable Federal 
+funding to help in that regard.
+    Senator Britt. Thank you very much. Mr. Knapp.
+    Mr. Knapp. I would agree with that. More pay is always 
+good. Always I will say that in the last election we had two 
+counties that were struggling to find poll workers. Their 
+counties decided to supplement what we reimburse at the state 
+level and lo and behold, they had a surplus of poll volunteers.
+    I will say the biggest issue we have in South Carolina in 
+regards to poll workers is the harassments that they receive 
+during the primaries from observers and watchers. One thing 
+that my office did to kind of combat that because our state 
+statute is very vague on what watchers and observers are and 
+what they can do.
+    I just established a, here is what you can do. Here is what 
+you cannot do. Poll watchers, observers, you cannot scream at 
+election officials. Election officials, you cannot prohibit 
+these observers from seeing what is going on. I think everybody 
+on the same page----
+    Senator Britt. With clear guidelines.
+    Mr. Knapp. Yes, everybody is on the same page.
+    Senator Britt. Secretary.
+    Mr. Evnen. Thank you, Senator. Our recruitment efforts go 
+back to the primary in 2020, May 2020. We did not change our 
+primary date. You recall that we were very much closed down as 
+a result of COVID, as a result of the pandemic. But Nebraska 
+voters like to go to the polls and they want to go to the 
+polls, and we have a percentage of Nebraska voters who are 
+voting early.
+    But we also have Nebraska voters who like going to the 
+polls. We were committed to having every one of our polling 
+places open, on time, all day, and we did so. We were 
+successful in that. One of the things we did was run a step up 
+campaign. We did this on radio, television, social media.
+    What we said was this, Nebraskans take care of each other, 
+and they do. Nebraskans take care of each other. There are 
+older poll workers who are concerned about serving as poll 
+workers in the midst of the pandemic. It is time for the next 
+generation of poll workers to stand up, to step forward, and 
+they did, Senator, they did.
+    This was a difficult challenge, which turns out to have 
+been a generational opportunity for us. Now today, I encourage 
+people who have concerns about our election processes to go 
+serve as poll workers. Go be a poll worker, take a look at what 
+is going on and see what you think for yourself.
+    Senator Britt. We need more people--[technical problems]--
+to step up and do it. I am almost out of time. I am so sorry.
+    Mr. Evnen. Okay, I am sorry.
+    Senator Britt. Just quickly, because I have one question I 
+want to get----
+    Chairwoman Klobuchar. We are not that strict here on the 
+Rules Committee, even though we are called the Rules 
+Committee----
+    Senator Britt. Okay, great. I really appreciate that. 
+Senator Klobuchar. Thank you.
+    Ms. Toulouse Oliver. Thank you, Senator. I will echo all 
+the comments that have been made. This is a truly bipartisan 
+issue. I will just dovetail on Senator Evnen's campaign point. 
+In my--Secretary sorry, all the s all the titles. In my state 
+and many other states, we actually allow 16 and 17 year olds to 
+serve as poll officials even before they are ready to be actual 
+voters. They are getting in on the process----
+    Senator Britt. Getting the younger generation involved----
+    Ms. Toulouse Oliver. We are seeing a lot of success with 
+that as well.
+    Senator Britt [continuing]. Taking pride in the process. I 
+love it. We have got to get more people engaged and be able to, 
+the generation that is retiring and we have to have new people 
+step up. Thank you for those ideas. Quickly, if I may, just a 
+quick question actually for Secretary Evnen.
+    Am I saying that correctly? Excellent. Your testimony 
+referred to your longstanding support of voter ID and the 
+overwhelming decision of Nebraska voters this past November to 
+amend the state Constitution to require a presentation of photo 
+ID before casting a ballot. In Alabama, our voter ID law was 
+passed in 2011 and has been in effect since 2014.
+    Under our law, a voter that does not have one of the 
+approved forms of voter ID may receive a free Alabama voter ID 
+from various locations, including the local County Board of 
+Registrars, among others.
+    But in fact, actually, our Secretary of State's Office will 
+drive to your house and give you--do a voter ID right in your 
+driveway, if that is what it takes to make sure that you have 
+that. I obviously share your view that voter ID laws are 
+important way to help ensure the integrity of and enhance faith 
+in our elections.
+    Can you just say a little bit more about the importance of 
+that, and what do you believe have been some of the best 
+practices that you have seen?
+    Chairwoman Klobuchar. Secretary, I know Senator Bennet has 
+another commitment so quick answer on this one. I would really 
+appreciate it. Thank you.
+    Senator Britt. Thank you.
+    Mr. Evnen. We are looking into the implementation of it 
+with the legislature, and I am working with them. The 
+legislature is looking at can we make our state issued photo 
+IDs available at no charge. I think that that goes a long way. 
+Already 97 or 98 percent of all registered voters possess a 
+photo ID issued by the state. We are committed to make sure 
+make----
+    Senator Britt. Make sure everybody has one.
+    Mr. Evnen [continuing]. sure that everyone has an 
+opportunity.
+    Senator Britt. Thank you so much, Mr. Secretary. Thank you 
+all for being here.
+    Chairwoman Klobuchar. Thank you. Thank you very much. 
+Senator Bennet.
+    Senator Bennet. Madam Chair.
+    Chairwoman Klobuchar. You are well aware of our competition 
+over the years--who has the highest voter turnout----
+    Senator Bennet. I am going to talk about that today, and 
+Senator Britt, it is a pleasure to be here with you today. 
+Senator Fischer, thank you for letting me come to the Rules 
+Committee.
+    I would like to thank all of you for your patriotic service 
+to our country. This is--I never thought I would say that 
+necessarily about people that were administering our elections, 
+but you are at the heart of what this democracy is facing right 
+now, and I deeply appreciate that. Ms. Johnson, thank you as 
+well for your patriotic advocacy and service.
+    I am actually going to ask you maybe my first and only 
+question. Please let me just say, Chair Klobuchar, thanks for 
+letting me come to the Committee. I know it is not easy to get 
+on the Rules Committee, and I am one of the youngest or newest 
+Members--not the youngest.
+    I used to be one of the youngest, and I am grateful, 
+grateful to represent Colorado and to work alongside everybody 
+here to advance this Committee's important work. Through the 
+last few years, the Chair and I have had a friendly 
+competition.
+    It has been a losing competition for me about whose state 
+could produce the highest turnout of voters in the election. 
+Since I said in every single corner of Colorado this election, 
+while I was running for reelection, I will say in front of 
+everybody, that we lost again to Senator Klobuchar and to 
+Minnesota. I implored people to get to the vote--to get to the 
+polls so they could deprive the Chair of her talking point.
+    Even though Minnesota came out on top, both of our states 
+have a lot to be proud of because we are consistently 
+delivering higher voter turnout than the rest of the country. 
+The reason for that is that we have made it very easy for 
+everybody to vote without compromising security in any way. 
+Nobody in Colorado would accept compromised security, and we do 
+not.
+    Colorado's approach allows residents to register online not 
+only with a driver's license, but with Social Security numbers, 
+something only one other state in the Nation accepts. We have 
+automatic voter registration that meets Coloradans where they 
+are, so they do not have to take a day off work to find child 
+care to ensure their names are on the voter rolls. We have same 
+day voter registration. We have led the charge on vote by mail, 
+one of just seven other states to do so in 2022.
+    We were just having a discussion about vote by mail. In 
+2022, 95 percent of Coloradans voted by mail. Today, if 
+somebody tried to take away vote by mail in my state, they 
+would be run out of town for doing that.
+    One reason I wanted to join this Committee is because we 
+should make it easy for every American to vote the way people 
+in Colorado have the chance to vote. Instead of expanding vote 
+by mail, we have seen states move to restrict it, or at least 
+80 bills in 23 states introduced to limit vote by mail based on 
+the false belief that it is somehow more susceptible to fraud.
+    Then, as we know in Colorado, an American is more likely 
+literally to be struck by lightning than to commit fraud with a 
+mail-in ballot. Do not take it from me.
+    Take it from the Heritage Foundation, a very conservative 
+think tank here in Washington, who found that out of 250 
+million absentee votes cast over a 20 year period, the rate of 
+mail voting fraud was 0.00006 percent of all votes cast. That 
+is virtually zero. In fact, I do not know if you can get closer 
+to zero than that.
+    Ms. Johnson, vote by mail has been a huge benefit to rural 
+communities in my state that may live far from voter service 
+and polling centers. How do you think efforts to restrict vote 
+by mail affect voter turnout, in particular for communities 
+that might already have difficulty making it to the polls?
+    Ms. Johnson.
+    [Technical problems]--where we had a historic turnout. That 
+was because of increased opportunities to vote, including 
+increased access to vote by mail. We saw particularly voters of 
+color taking advantage of that opportunity to vote by mail.
+    I really hope that more states would be in competition with 
+Colorado and Minnesota about who would have the highest 
+turnout, because vote by mail really contributes to that. When 
+we see efforts in states that are making it harder for voters 
+to vote by mail, it is making it harder for voters to have a 
+voice because they are taking away that opportunity that voters 
+had.
+    When they have that opportunity, they turn out. It is 
+really important to have a standard of vote by mail as an 
+option so that we can make sure that we have high turnout 
+across the country and not some states having opportunity and 
+others not.
+    Senator Bennet. You know, one other thing I would just 
+mention to the Chair and the Ranking Member before I wrap up is 
+that the other benefit to vote by mail in our state is we have 
+ballot initiatives, you know, and people have to read those 
+ballot initiatives. It took me probably 45 minutes to fill out 
+my ballot.
+    The last time I voted took 2 seconds to actually cast the 
+vote, but it gave us the chance to be able to reflect on stuff, 
+look stuff up, think about things. That is another aspect of it 
+that I think if we gave it up, all it would mean is massive 
+lines of less informed people at the polls.
+    Anyway, I commend it to everybody and thanks again for 
+letting me be on the Committee, Madam Chair. I appreciate the 
+time.
+    Chairwoman Klobuchar. Okay. Very, very good. Well, we are 
+excited to have you join us. I wanted to ask you, Mr. Bowens 
+and Ms. Johnson, because I did not get to it, just some 
+remaining questions here. I think Senator Cruz is going to be 
+joining us, so I will do a bit of a Senate filibuster here.
+    But I also wanted to ask both of you questions. I wanted to 
+ask you about disinformation, misinformation, and how you think 
+that affects things. I am thinking back, I talked to Mr. Knapp 
+a little bit about it.
+    You know, thinking back to the worst of it, when Senator 
+Graham and I did the bill--actually it was originally Senator 
+McCain and I, and then Senator Graham took over the bill, the 
+Honest Ads Act that came out of incidences in 2016 when we 
+found out some ads were paid for by rubles.
+    We had situations where we had some African-American voters 
+that were targeted in certain areas in I think it was Illinois 
+and some other places with election information that said, why, 
+why come in to vote? You can text your vote, which of course 
+was not correct. At, you know, 8, 3, 4, 5, 6, 7. I mean, there 
+were actual--we actually had stuff on the internet that had 
+been sent to these voters.
+    Could you talk about that? What has been done recently to 
+make some improvements in your state? Ms. Johnson, you 
+certainly have a national perspective on that. Mr. Bowens.
+    Mr. Bowens. Thank you, Chairwoman. We have had similar 
+incidents in our county over time where individuals have 
+received text messages with disinformation, whether it be in 
+regard to polling place locations, or how to vote.
+    Our response in regards to this and misinformation has 
+really been focused at a statewide level. Our state has 
+implemented several campaigns to educate various members of our 
+community and the state as a whole on what is factual. A part 
+of that campaign is really focused on trust. Go to your local 
+county board of elections.
+    We found that pushing out that model has really helped get 
+the correct information out there and kind of quell issues when 
+they arise with disinformation.
+    Chairwoman Klobuchar. Okay. Ms. Johnson.
+    Ms. Johnson. Yes, Senator, we actually had a litigation 
+targeting those who had a scheme to have robocalls to 
+intimidate Black voters during the 2020 election cycle and very 
+successfully litigated that claim and including having a fine 
+from the FCC.
+    The reason we became aware of this was from a call to the 
+866-OUR-VOTE election protection hotline, because one of the 
+things that misinformation and disinformation feeds on is when 
+voters are not as informed about the election process, they can 
+fall really susceptible to those efforts.
+    I have been here doing election protection long enough when 
+it was a flier in the neighborhoods, and now it is on social 
+media and really harder to detect. Having a resource like the 
+hotline helps us to identify when this is happening and to be 
+able to address it. I will also note that there was discussion 
+about the challenges on local election officials when they have 
+to confront mis-and disinformation.
+    We saw in 2022 where tens of thousands of voters were 
+challenged and their voter registration was challenged and sent 
+to election officials in Georgia right before the election that 
+had to be processed based on mis-and disinformation.
+    It has an impact not just on the voter and their 
+confidence, but it also puts, as you have heard, an outside 
+pressure on election officials and their ability to administer 
+elections as well.
+    Chairwoman Klobuchar. Okay, Very, very good. Thank you. 
+Next up, Senator Cruz. You should know I filibustered some 
+Senator Cruz so that you would get here for our Committee 
+hearing.
+    Senator Cruz. I appreciate it very much. Having served with 
+you for a long time, I know that you are quite capable of a 
+wonderful filibuster.
+    Chairwoman Klobuchar. Thank you.
+    Senator Cruz. I am sure we heard the virtues of the great 
+State of Minnesota.
+    Chairwoman Klobuchar. Yes. Our highest voter turnout, which 
+is higher than Texas. The only thing you have on us is a bigger 
+state fair, but that is only because you are open for 30 days. 
+We actually have the bigger state fair. But continue on, 
+Senator Cruz.
+    Senator Cruz. I might disagree, but I will pick a different 
+forum for that discussion. Good afternoon. Welcome to everyone.
+    Every American wants election processes that they can trust 
+and that are neutrally applied. When Secretaries of State or 
+even State Supreme Courts contravene their own laws in order to 
+skew election rules toward preferred political outcomes, this 
+undermines the public faith in the democratic process.
+    One such area for this is voter ID. According to Forbes, 81 
+percent of Americans support voter ID, including 62 percent of 
+Democrats. Voter ID, I believe should be a basic minimum 
+requirement for a free and fair election. Yet voter ID right 
+now is opposed on a partisan basis by virtually every Democrat 
+in Congress and by a great many Democrat Secretaries of State.
+    Secretary Oliver, you have been vocal on this topic. You 
+told the Albuquerque Journal, ``I support policies that ensure 
+the integrity of our elections. New Mexico requires voters to 
+provide personal identifying information when voting in person 
+with increased ID requirements for absentee voting. Photo voter 
+ID laws, however, can make it harder for some communities to 
+vote. I do not support this policy.'' According to the numbers 
+I just cited from Forbes, 81 percent of Americans and 62 
+percent of Democrats support photo ID for voting, why is it 
+that the policy you embrace is different from the policy that a 
+majority of New Mexicans want to see?
+    Ms. Toulouse Oliver. Thank you for the question, Senator. 
+In my position as Secretary of State, first of all, I do not 
+make the laws in the State of New Mexico, but I do have a bully 
+pulpit in which to espouse my viewpoint as 16 years being an 
+election administrator in my state.
+    There are communities for which having some physical form 
+of ID--and of course, it looks different in every state, states 
+that do require physical photo ID in order to vote. In some 
+states there is a wide variety of such photos that can be used, 
+in some it is much more limited. Obviously, states that have a 
+wide variety of voter ID is available, that is, I think, 
+personally a better policy.
+    But in my state there are communities where even getting--
+even getting a tribal, for example, we have a lot of tribal 
+voters in my state. Twelve percent of my state is Native 
+American. Many tribal IDs do not contain a photo. They are not 
+necessarily issued in the same way that we understand photo ID 
+to be issued.
+    Senator Cruz. Madam Secretary, with respect, states can 
+address that. Many states, like the State of Texas, provide for 
+a zero cost photo ID for voting. I will say the polling also 
+shows over 60 percent of African-Americans support photo ID.
+    I will say the argument that minorities cannot get photo ID 
+I think is condescending. I am Hispanic, I know how to get a 
+driver's license. I have heard from many in minority 
+communities that getting a photo ID is not an onerous 
+requirement.
+    I will point out, that your website indicates, a physical 
+form of identification is only required for first time New 
+Mexico voters who registered by mail and did not include 
+identification with their voter registration application form. 
+Otherwise, the website continues, the only identification 
+needed to vote is, ``a verbal or written statement of 
+identification, including a name, year of birth, and registered 
+address.''
+    You do not even require a date of birth, just a birth year. 
+In about 30 seconds you can obtain enough information about 
+someone to allow you to steal their vote. Madam Secretary, do 
+you know the name Harris Hartz?
+    Ms. Toulouse Oliver. Senator, that name is vaguely familiar 
+to me. I do not remember.
+    Senator Cruz. Harris Hartz is a judge, a Federal judge on 
+the 10th Circuit who sits in Albuquerque. In 2017, Judge Hartz 
+went to vote and he was barred from voting when the Albuquerque 
+city clerk's record showed that somebody else had already voted 
+under his name.
+    This is a Federal Judge in New Mexico, but you just needed 
+his name and your birth, which is pretty easy to find. He ended 
+up ultimately having to vote--he was initially denied the right 
+to vote. Ultimately, he was given the ability to vote on a 
+provisional vote.
+    Before voting, he presented his driver's license to the 
+voting center staff, and after an investigation of the 
+fraudulent ballot, Judge Hartz said, ``the signature was 
+nowhere near mine and it did not even look like Harris Hartz.''
+    Does it concern you when Federal Judges are having their 
+votes stolen in New Mexico because there is not a photo ID 
+requirement?
+    Ms. Toulouse Oliver. Senator, I remember this issue now. 
+This was a mistake made by a poll worker. That is what 
+happened. That--mistakes can be made by poll workers even when 
+a physical ID is shown.
+    Senator Cruz. But what was the mistake?
+    Ms. Toulouse Oliver. The poll worker brought up the 
+incorrect record, not--they brought up Mr. Judge Hartz's record 
+as opposed to the individual who was casting the ballot. 
+Neither the poll worker nor the voter noticed the discrepancy 
+and a mistake was made.
+    When Judge Hartz came to vote, he--there was an 
+investigation into what exactly happened. It was not that the 
+individual was attempting to steal Judge Hartz's vote. It was 
+that there was a clerical error that was made. Clerical errors 
+do get made in elections. They are regrettable----
+    Senator Cruz. I think we should protect everyone's right to 
+vote. I agree with 81 percent of Americans that photo ID 
+requirements protect the integrity of our elections and protect 
+your right to vote, my right to vote, and even Federal Judges 
+right's to vote. Thank you.
+    Chairwoman Klobuchar. Okay. Just a few follow-ups here. I 
+was someone that enforced our election laws as the county 
+attorney for 8 years in the biggest county in Minnesota, and 
+the Secretary of State's Office would forward any questionable 
+things to my office, and I actually had an investigator because 
+I wanted to follow-up on every one.
+    We looked into every single one and the vast majority of 
+them, in fact, nearly all of them were father and son that had 
+the same name, but it came up on the records. I think we are 
+now at a more advanced stage of our computer systems that those 
+are not being reported, but we would investigate each one.
+    We had one couple there where the school board line went 
+through their house, and this is a county of over a million 
+people, and they decided to vote twice in a school board 
+election, which was wrong.
+    We had to deal with that. Then we had one guy who admitted 
+that he had voted twice on the phone and he was put on 
+probation. These are hundreds of cases that we actually pursued 
+and investigated.
+    That just was in one county, anecdotal, of course, but it 
+was my experience that this is very, very rare. You want to 
+answer that question, Ms. Toulouse Oliver, because I think that 
+is what Senator Cruz was trying to get at, because we know 
+there is--in my state they vouch with--you can--if you are a 
+voter who is doing same day registration and you are new in the 
+neighborhood, you can bring, not brand new, but you can bring 
+an electricity bill, gas bill with a neighbor who vouches for 
+you, and there are things you can do.
+    But that person is actually putting themselves on the line 
+and vouching that you live there. We just have not had this 
+rampant problem. We have had many close elections, everyone 
+knows that, including the Senate race with Senator Franken and 
+Senator Coleman. These ballots were very closely reviewed on 
+national TV.
+    Secretary Toulouse Oliver, do you want to talk about how 
+rare voter impersonation is? I note this stat from 2020 from 
+the Brennan Center, experts have found that voter impersonation 
+fraud is so rare that an American is more likely to be struck 
+by lightning than to commit voter impersonation fraud. This is 
+simply because they are not going to risk the legal outcome of 
+having, what was in Minnesota, the county prosecutor's office 
+investigate them. But please answer.
+    Ms. Toulouse Oliver. Sure, that is right, Madam Chair. 
+Voter fraud, especially in-person voter impersonation, is 
+extremely rare. It is extremely rare in my state as it is 
+everywhere else. The example that Senator Cruz just showed, you 
+know, these things do happen from time to time. When I was the 
+county clerk in Bernalillo County, a former Secretary of State 
+went to vote and the record had reflected that she had already 
+voted. Of course, she was deeply concerned about that.
+    I was deeply concerned about that. We immediately conducted 
+an investigation and what we found was that during her 
+administration as Secretary of State, she would issue voter ID 
+cards to every voter in the state through the mail with her 
+name at the top of them as Secretary of State, and a voter had 
+come to present themselves to vote.
+    Of course, because the former Secretary of State's name was 
+so big on the top of the card, the poll worker said, oh, it is 
+you. Let me flag your record, right. It is very rare. I 
+personally do not favor it for my state. To the extent that 
+these things happen, 99 percent of the time they are clerical 
+or administrative errors.
+    Chairwoman Klobuchar. Okay. Just maybe ending here with 
+you, Ms. Johnson. The New York Times editorial board noted 
+Oregon has sent out more than 100 million mail-in ballots--100 
+million since 2000. As you know, they are a big mail-in ballot 
+state.
+    I like the fact, by the way, that my state is kind of a mix 
+because it gives people--it is easier to do both with the same 
+day registration. I think that is one of the reasons we do so 
+well with turnout. But Oregon also has a high turnout, as does 
+Utah, and they are pure mail-in ballot, nearly pure mail-in 
+ballot.
+    Oregon has sent out more than 100 million mail-in ballots 
+since 2000, has documented only about a dozen cases of proven 
+fraud. Rounded to the seventh decimal that is 0.0000001 of all 
+votes cast. Does that surprise you at all?
+    Ms. Johnson. Not at all. I think what we saw in 2020, where 
+we had 100 million people voting before Election Day and more 
+people voting significantly before Election Day in 2022 as 
+well, is that voters welcome the opportunity to vote by mail.
+    We have seen that it is a very secure form of voting. As 
+you noted, the states who have vote by mail do not have any 
+election security risk. It is very important that, as you 
+mentioned, that voters have a range of opportunities to vote 
+because we see when they do so, we have historic turnouts in 
+the elections.
+    Chairwoman Klobuchar. I also note that former Attorney 
+General William Barr, when he looked at this--it is not just, 
+you know, Oregon looking at their numbers--stated that for the 
+2020 election that he found no evidence of widespread voter 
+fraud.
+    I just think in light of what all of you have been talking 
+about in a bipartisan basis, elevating the facts, that when 
+something bad happens we investigate it, we call it out no 
+matter how small, it is so important because that is part of 
+the integrity of the whole system.
+    But that our foremost focus is, as you Secretary Evnen 
+talked about, it is that credibility of the election and making 
+sure that people understand this, that these claims can be 
+made. But then you look at the fact that every one of you with 
+different voting laws said that you were confident in the 
+security of the elections in the last election. I want to thank 
+you. I do not know if you want to add anything, Senator 
+Fischer.
+    Senator Fischer. Thank you, Chairwoman. Thank you to our 
+panel today. I appreciated all your comments and all your 
+viewpoints, and I think it just reinforced how important it is 
+that every state be able to set up and monitor their own 
+elections, to be able to focus on things that work for them.
+    We heard a variety of differences between the states here, 
+and I thank you all for bringing those viewpoints forward to 
+us, because we know that it is the poll workers under your 
+guidance, as the election officials in your areas that make 
+this democracy work. Thank you very, very much.
+    Chairwoman Klobuchar. Well, thank you. I will just end by 
+saying we heard some good things about 2022 including we had 
+secure and safe elections. We also know that as we approach the 
+next election, some states coming sooner than others, Mr. 
+Knapp, as we approach the next election, we must continue to 
+work together to address these challenges by ensuring state and 
+local governments have consistent resources and then, of 
+course, federal help as well.
+    That comes in forms of protecting electing workers and also 
+technology, and then, of course, making sure that voters can 
+cast their ballot in whatever way works best for them. I look 
+forward to continuing to work with my colleagues on this 
+Committee to provide election officials and voters across the 
+country with the support they need.
+    The hearing record will remain open for one week. With no 
+other Senators waiting to answer questions, I know you want 
+them to arrive at the last minute and ask more, but we are 
+happy to announce this hearing is adjourned. Thank you all for 
+attending.
+    [Whereupon, at 4:45 p.m., the hearing was adjourned.]
+
+                      APPENDIX MATERIAL SUBMITTED
+
+                              ----------                              
+
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+  
+
+                                  [all]
+

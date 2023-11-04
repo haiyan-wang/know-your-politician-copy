@@ -1,0 +1,1982 @@
+
+ - CLIMATE-RELATED ECONOMIC RISKS AND THEIR COSTS TO THE FEDERAL BUDGET AND GLOBAL ECONOMY
+
+[Senate Hearing 118-008]
+[From the U.S. Government Publishing Office]
+
+
+                                                        S. Hrg. 118-008
+
+                   CLIMATE-RELATED ECONOMIC RISKS AND
+                   THEIR COSTS TO THE FEDERAL BUDGET
+                           AND GLOBAL ECONOMY
+
+=======================================================================
+
+                                HEARING
+
+                               BEFORE THE
+
+                        COMMITTEE ON THE BUDGET
+                          UNITED STATES SENATE
+
+                    ONE HUNDRED EIGHTEENTH CONGRESS
+
+                             FIRST SESSION
+
+                               __________
+
+                           February 15, 2023
+
+                               __________
+
+           Printed for the use of the Committee on the Budget
+           
+[GRAPHIC NOT AVAILABLE IN TIFF FORMAT]       
+
+                            www.govinfo.gov
+                            
+                                __________
+
+                                
+                    U.S. GOVERNMENT PUBLISHING OFFICE                    
+51-948                        WASHINGTON : 2023                    
+          
+-----------------------------------------------------------------------------------     
+                           
+                        COMMITTEE ON THE BUDGET
+
+               SHELDON WHITEHOUSE, Rhode Island, Chairman
+PATTY MURRAY, Washington             CHARLES E. GRASSLEY, Iowa
+RON WYDEN, Oregon                    MIKE CRAPO, Idaho
+DEBBIE STABENOW, Michigan            LINDSEY O. GRAHAM, South Carolina
+BERNARD SANDERS, Vermont             RON JOHNSON, Wisconsin
+MARK R. WARNER, Virginia             MITT ROMNEY, Utah
+JEFF MERKLEY, Oregon                 ROGER MARSHALL, Kansas
+TIM KAINE, Virginia                  MIKE BRAUN, Indiana
+CHRIS VAN HOLLEN, Maryland           JOHN KENNEDY, Louisiana
+BEN RAY LUJAN, New Mexico            RICK SCOTT, Florida
+ALEX PADILLA, California             MIKE LEE, Utah
+
+                   Dan Dudis, Majority Staff Director
+        Kolan Davis, Republican Staff Director and Chief Counsel
+                   Mallory B. Nersesian, Chief Clerk 
+                  Alexander C. Scioscia, Hearing Clerk
+
+                            C O N T E N T S
+
+
+                              ----------                              
+
+                      WEDNESDAY, FEBRUARY 15, 2023
+                      
+                OPENING STATEMENTS BY COMMITTEE MEMBERS
+
+                                                                   Page
+Senator Sheldon Whitehouse, Chairman.............................     1
+    Prepared Statement...........................................    34
+Senator Charles E. Grassley, Ranking Member......................     3
+    Prepared Statement...........................................    36
+
+                    STATEMENTS BY COMMITTEE MEMBERS
+
+Senator Alex Padilla.............................................    15
+Senator Roger Marshall...........................................    16
+Senator Chris Van Hollen.........................................    18
+Senator Mitt Romney..............................................    20
+Senator Tim Kaine................................................    22
+Senator Lindsey O. Graham........................................    23
+Senator John Kennedy.............................................    26
+Senator Mike Braun...............................................    28
+Senator Mike Lee.................................................    30
+
+                               WITNESSES
+
+Dr. Mark Carney, Former Governor, Banks of England and Canada....     6
+    Prepared Statement...........................................    38
+Dr. Robert Litterman, Founding Partner, Kepos Capital, and Chair, 
+  Climate-Related Market Risk Subcommittee, U.S. Commodity 
+  Futures Trading 
+  Commission.....................................................     7
+    Prepared Statement...........................................    46
+Dr. Douglas Holtz-Eakin, President, American Action Forum........     9
+    Prepared Statement...........................................    51
+
+                                APPENDIX
+
+Responses to post-hearing questions for the Record
+    Dr. Carney...................................................    56
+    Dr. Litterman................................................    59
+    Dr. Holtz-Eakin..............................................    63
+Charts submitted by Chairman Sheldon Whitehouse..................    64
+Charts submitted by Senator Charles E. Grassley..................    65
+
+ 
+                   CLIMATE-RELATED ECONOMIC RISKS AND
+                   THEIR COSTS TO THE FEDERAL BUDGET
+                           AND GLOBAL ECONOMY
+
+                              ----------                              
+
+
+                      WEDNESDAY, FEBRUARY 15, 2023
+
+                                           Committee on the Budget,
+                                                       U.S. Senate,
+                                                    Washington, DC.
+    The hearing was convened, pursuant to notice, at 10:00 
+a.m., via Webex and in Room SD-106, in the Dirksen Senate 
+Office Building, Hon. Sheldon Whitehouse, Chairman of the 
+Committee, presiding.
+    Present: Senators Whitehouse, Merkley, Kaine, Van Hollen, 
+Padilla, Grassley, Crapo, Graham, Johnson, Romney, Marshall, 
+Braun, Kennedy, R. Scott, and Lee.
+    Also present: Democratic staff: Dan Dudis, Majority Staff 
+Director; Joshua P. Smith, Budget Policy Director; Melissa 
+Kaplan-Pistiner, General Counsel.
+    Republican staff: Kolan Davis, Republican Staff Director 
+and Chief Counsel; Matthew Giroux, Deputy Staff Director; 
+Krisann Pearce, General Counsel; Erich Hartman, Economist; 
+Jordan Pakula, Professional Staff Member.
+    Witnesses:
+    Dr. Mark Carney, Former Governor, Banks of England and 
+Canada
+    Dr. Robert Litterman, Founding Partner, Kepos Capital, and 
+Chair, Climate-Related Market Risk Subcommittee, U.S. Commodity 
+Futures Trading Commission
+    Dr. Douglas Holtz-Eakin, President, American Action Forum
+
+          OPENING STATEMENT OF CHAIRMAN WHITEHOUSE \1\
+---------------------------------------------------------------------------
+
+    \1\ Prepared statement of Chairman Whitehouse appears in the 
+appendix on page 34.
+---------------------------------------------------------------------------
+    Chairman Whitehouse. I am delighted to kick off the first 
+Budget Committee hearing of this year by welcoming Ranking 
+Member Grassley, who I serve with also on the Finance and 
+Judiciary Committees, so we have a lot of experience together 
+and I'm very happy that he's the Ranking Member.
+    I want to welcome all the colleagues who will be in and out 
+of the hearing this morning. We have multiple hearings going on 
+and so you will be getting attendance sporadically from a 
+considerable number of our members. I want to particularly 
+welcome our new members to what I hope will be a busy, revived, 
+impactful, and lively Budget Committee.
+    I want this to be your surprise favorite committee. We have 
+important work to do on bipartisan healthcare reforms, on 
+reforming this Committee's process to fit the basic arithmetic 
+of the budget and on issues important to each of you as 
+members.
+    We're going to begin with a series of hearings on the 
+looming costs and economic risks of climate upheaval. Almost 
+exactly five years ago, I sent around this binder to all of my 
+Senate colleagues in which I complied some of the compelling 
+warnings about the economic risks associated with climate 
+change.
+    Last week I sent your staffs an updated version of the 
+binder. Here it is. As you can see, the warnings keep piling 
+up. Have fun with the light reading. These warnings come from 
+central bankers, economists, assets managers, insurance 
+companies, investment banks, credit rating agencies, and 
+leading management consultations. Folks with a lot of 
+credibility when it comes to economics, finance, corporate 
+risks and their effects on government spending and revenues. 
+These will be our witnesses, economists, scientists, business 
+leaders, and other financial and risk experts, many of whose 
+work in this binder.
+    I've said that science provides the headlights for society. 
+That it's scientists who illuminate the way for us to navigate 
+into the future. Think of the economists and scientists we'll 
+hear from as the headlights for the United States Congress as 
+this Committee helps navigate our long-term budget and fiscal 
+priorities.
+    Look at our national debt. One thing that stands is how 
+much of it was incurred as a result of exogenous shots to the 
+economy. Consider the 2008 financial crisis which blew up the 
+financial security of families and businesses across the 
+country and reduced government revenues for a decade. Two years 
+after the recession, CBO found that projected revenues fell by 
+$4.4 trillion and projected spending rose by $800 billion to 
+spur that recovery.
+    Consider the pandemic. The Committee for a Responsible 
+Federal Budget estimates that the federal response to the 
+pandemic which brought COVID under control, protected families, 
+and jumpstarted our economy recovery will add $5.5 trillion to 
+our deficits. That doesn't factor in lost revenue or lost 
+economic activity, so the total economic cost is actually 
+higher.
+    We came through both. But together those two exogenous 
+shocks contributed $10 trillion to the federal debt, more than 
+40 percent of the total, proof of how catastrophic events can 
+and do effect the federal budget and the economy and how life 
+has a way of upsetting best laid plans and 10-year budget 
+baselines.
+    Headlights and better attention to what they illuminated 
+could've help. Plenty of financial experts saw the 2008 
+mortgage mess coming. Plenty of epidemiologist warned that the 
+country was woefully unprepared for a pandemic.
+    Now, we have all these warnings. Warnings of crashes in 
+coastal property values as rising seas and more powerful storms 
+hit the 30-year mortgage horizon. Warnings of insurance 
+collapse from more frequent, intense, and unpredictable 
+wildfires. A dangers interplay between the insurance and 
+mortgage markets hitting real estate markets across the 
+country.
+    Inflation from decreased agricultural yields, massive 
+infrastructure demand, trouble in municipal bond markets, 
+stranded assets, and a carbon bubble. The most dangerous risks 
+are called systemic. We mean that they will cascade out into 
+the broader economy as the mortgage problem did in 2008, and 
+it's big. It predicts the differential between being 
+responsible and reckless about climate could come to more $220 
+trillion, globally, between now and 2070.
+    Some of these warn of risks are already upon us. Already 
+climate-related national disasters increase federal spending on 
+disaster assistance, flood insurance, crop insurance, and other 
+programs we fund. But this is just the beginning. It will 
+certainly get worse, much worse particularly if warming exceeds 
+1.5 degrees. We are on a bad trajectory. It's time for us all 
+to wake up and face the problem before coastal cities flood 
+with water or southwest cities can't get water. I hope we can 
+finish that off with action if we snap into focus on the 
+danger.
+    We're all familiar with the tragedy of the Commons. In 
+2015, our opening witness, Dr. Carney, gave a speech entitled 
+The Tragedy of the Horizon because some of the gravest dangers 
+of climate change, which we could head off today, come to past 
+years or decades out. Ryan's coastline will be gone, reshaped 
+into an Acapulco by 2100.
+    You say, ah, who cares? What's that? It's an eternity. 
+Well, almost exactly a year ago I became a grandfather for the 
+first time. Baby Vera, God willing, will be alive in 2100. When 
+I look at her, I'm looking at that future. Walk by any 
+elementary school, the faces you see on the playground, God 
+willing, will be alive in 2100. How will those little ones 
+remember our less than greatest generation? We owe it to kids 
+on playgrounds all across America to pay attention to get this 
+right.
+    By the end of this series of hearings, if we hear these 
+expert witnesses, if we treat their testimony as our 
+headlights, then our path, I hope, will be clear. Thank you and 
+let's get to work.
+    Chairman Whitehouse. I turn to my Ranking Member, Senator 
+Grassley.
+
+           OPENING STATEMENT OF SENATOR GRASSLEY \2\
+---------------------------------------------------------------------------
+
+    \2\ Prepared statement of Senator Grassley appears in the appendix 
+on page 36.
+---------------------------------------------------------------------------
+    Senator Grassley. Senator Whitehouse, I compliment you on 
+your leadership on this Committee and look forward to the two 
+years ahead. I'm pleased to be here with all of you as Ranking 
+Member. Despite our political differences, and they aren't as 
+great as the public believes between Republicans and the 
+Democrats, and particularly between Grassley and Whitehouse. I 
+know that we can find common areas of agreement to work on 
+together.
+    One area of agreement must be that our budget and 
+appropriation process is broken. This sentiment isn't new at 
+all nor is it particularly partisan. No person could look at 
+last year's process and say that things are working. For Fiscal 
+Year 2023, Congress didn't adopt a budget. The Senate 
+Appropriations Committee didn't mark up a single bill and not 
+one of the 12 individual appropriation bills was debated in the 
+Senate floor.
+    Instead, we were presented with a $1.7 trillion omnibus 
+just a few days before Congress. Things need to change. Now, 
+maybe we shouldn't be surprised because when the Senate goes 
+into session at 3 o'clock on Monday and has one vote, hardly 
+any business, and then you work all day Tuesday and all day 
+Wednesday and adjourn at 1:45 on Thursday, you can't get a lot 
+of session work done when you are just in session two and a 
+half weeks compared to when I came to the United States Senate 
+started no later than noon on Monday, debated on Monday, 
+Tuesday, Wednesday, Thursday, went home Friday at 4:00. So, I 
+think there needs to be some reanalysis of the work that we're 
+putting--I mean not the work because there's plenty of work for 
+senators, but the amount of time that we're in session.
+    I want to applaud two leaders in this process, Senator 
+Murray and Collins, for publicly announcing their commitment to 
+regular order, including debating appropriation bills on the 
+Senate floor. We need to do our part to make that happen. We 
+should also agree that our nation's fiscal outlook is dire.
+    The Congressional Budget Office will release an updated 
+budget projection this afternoon. Every indication is that 
+their new projections will be as bad as or worse than last 
+summer's projection. This is what they told us last summer. 
+Within 10 years, public debt, as a share of our economy, will 
+exceed World War II record highs. However, unlike after World 
+War II, when spending and debt subsided, our public debt is 
+projected to climb even higher.
+    Our public debt will reach 110 percent of our economy in 
+2032 and grow to 185 percent by 2052. Trillion-dollar annual 
+deficits will be replaced by two trillion deficits within a few 
+years. Simply serving the debt will lead record-breaking annual 
+costs of more than $1 trillion within 10 years.
+    So, Mr. Chairman, your immediate predecessor refused to 
+bring in CBO to discuss the overall budget outlook. This was a 
+mistake. So, I urge under your leadership to hold a hearing 
+with CBO on the latest outlook. Nobody benefits from just 
+burying our heads in the sand. I acknowledge that a changing 
+climate is a historic and scientific fact. I also recognize 
+that most scientists agree man-made emissions contribute to 
+climate change.
+    Throughout my career, I've advocated for renewable and 
+alternative energy solutions. Being the father of the Wind 
+Energy Tax Credit in 1992, I think maybe I was doing that 10 
+years before climate change was much of an issue. And so, today 
+in Iowa we get 60 percent of our electricity from wind and in 
+four years American Energy, Des Moines, Iowa, will be getting 
+80 percent, 85 percent maybe more accurately, of their energy 
+from wind.
+    This being said, even if the entire U.S. stopped emitting 
+greenhouse gas tomorrow, projected temperatures would only be 
+three-tenths degrees Fahrenheit lower come 2100. Even in this 
+unrealistic scenario, the U.S. would still need major polluters 
+like China and India to pull their weight. As we look to 
+address climate and energy issues, the nation must also address 
+our fiscal health.
+    There's plenty of blame to go around for how we got into 
+our current situation. Republican or Democrats have to share 
+this blame. For decades, Congress turned a blind eye as our 
+nation walked toward a fiscal cliff, but Democrats turned that 
+walk into a sprint. In March 2021, Democrats to advantage an 
+emergency situation to pass a $2 trillion partisan spending 
+bill, even as our economy showed strong signs of recovery. Then 
+as inflation started to a 40-year high, they doubled down 
+spending trillions more on their liberal wish list.
+    They pushed through omnibus appropriation bills with take 
+it or leave mantra for two years. Each time growing the size of 
+the government when not using fast-track procedures or 
+government shutdown as leverage, the Administration drove 
+deficits through unilateral action like long giveaways that 
+could cost taxpayers a trillion dollars.
+    Congress needs then, it's very obvious, a fiscal reality 
+check. And I know our Chairman is trying to bring that fiscal 
+reality check by bringing up all of the issues that climate 
+change is going to add to the budget and that's the correct 
+thing to do. But this reality check has to start with this 
+Committee getting back to performing core functions.
+    This includes holding hearings on federal fiscal matters, 
+examining programs and authorizations that have been on 
+autopilot for decades and performing robust oversight of agency 
+spending. No government entity should be exempt.
+    Now finally, I welcome the opportunity to work with you, 
+Senator Whitehouse, on budget process reform. You are a well-
+established leader on this issue. I appreciate your stated 
+interest in working with the rest of us on this issue starting, 
+and I'll be ready to join you anytime, from where we left off 
+with Senator Enzi in 2019. It was bipartisan process then and I 
+think we can build to get it over the finish line with this 
+Congress.
+    Needless to say, we have our work cut out for us to get our 
+fiscal house in order. To paraphrase former fed chairman Paul 
+Volcker, cutting spending may be painful, but the pain for all 
+of us will be much greater if it isn't accomplished. So, I look 
+forward to our work over the next two years.
+    Thank you and let's get to work.
+    Chairman Whitehouse. Thank you, Senator Grassley, so do I. 
+And I mentioned the budget process reform in my opening remarks 
+for a reason. I look forward to working on that and think 
+there's plenty of blame to go around for where we are in terms 
+of the deficit, but having a Budget Committee that actually 
+looks at the elements of that in an arthritically correct way 
+is a very, very good start.
+    I am pleased to have three very distinguished witnesses 
+here to testify before us today. Joining us remotely is Dr. 
+Mark Carney, the former Governor of the Bank of Canada and the 
+Bank of England. For those not familiar with that role, that's 
+effectively the CEO. Dr. Carney is a world renown central 
+banker and has long been sounding the alarm about the economic 
+risks posed by climate change.
+    Following Dr. Carey's testimony we'll hear from Dr. Bob 
+Litterman, who chaired the Commodity Futures Trading 
+Commission's Climate-Related Market Risk Subcommittee, which in 
+2020 issued an authoritative report on this subject.
+    Following Dr. Litterman, we will hear from Dr. Douglas 
+Holtz-Eakin, former Director of the Congressional Budget Office 
+and President of the American Action Forum. I note that back in 
+2003 CBO prepared a report on the economics of climate change 
+under Dr. Holtz-Eakin's leadership.
+    Dr. Carney, if we have you here remotely, please take five 
+minutes to deliver your remarks. Your prepared remarks are in 
+the record of the proceeding.
+
+STATEMENT OF DR. MARK CARNEY, FORMER GOVERNOR, BANKS OF ENGLAND 
+                         AND CANADA \3\
+---------------------------------------------------------------------------
+
+    \3\ Prepared statement of Dr. Carney appears in the appendix on 
+page 38.
+---------------------------------------------------------------------------
+    Dr. Carney. Thank you very much, Chairman Whitehouse, 
+Ranking Member Grassley, members of the Committee for the honor 
+of this invitation to address the risks and economic costs of 
+climate change.
+    During my terms as Governor of the Bank of England and as 
+Chair of the Financial Stability Board, I headed committees 
+with responsibility for understanding and addressing the 
+principal risk to financial stability. Risks such as the Chair 
+referred to in his opening comments.
+    About a decade ago, these bodies became increasing 
+concerned about the rising economic risk from climate change 
+and the fact that the financial system lacked the information, 
+the tools, and the markets to manage them. So, over the 
+following years a wide range of regulatory authorities and 
+private financial institutions had worked to develop the 
+building blocks of a financial system that can manage these 
+risks on behalf of their depositors, pensioners, clients, and 
+shareholders.
+    But while the pace of change has picked up, it's not yet 
+equal to the scale of the challenge. Due to the undiversifiable 
+nature of climate risks, governments will bear many of the 
+costs of extreme weather and of adaptation. And moreover, the 
+longer adjustment is delayed the greater the impact will be on 
+financial stability, inflation, jobs, and growth.
+    Diversely, transitioning to a low-carbon economy will 
+reduce the impact of climate change, create jobs of the future, 
+and promote a resilient financial system. I won't read it into 
+the record the fact that the fiscal impacts of climate change 
+are rising. I've reference in my testimony of the data 
+collected by the EPA, the NRAA, NASA, amongst others, that 
+provides a snapshot of how it's already impacting the United 
+States.
+    Climate change is having an increased impact on Americans. 
+Adjusted for inflation, the number of billion dollar disasters 
+has risen sixfold from the first half of the 1980s to an 
+average of 18 per year over the past five years. Annual 
+inflation adjusted cost of these disasters has risen seven 
+times from $18 billion to $120 billion.
+    Increased flooding and coastal erosion are causing 
+significant damage already. Increases in weather-related 
+disasters have lead to insurance becoming less available, more 
+expensive for American families and businesses. Extreme weather 
+is reducing incomes for farmers and raising food costs for 
+families and the increased frequency and intensity of flooding 
+and disasters disrupts and damages critical infrastructure, and 
+in turn, supply chains hurting American businesses and raising 
+costs again for American families.
+    There is ample scientific evidence that these trends are 
+expected to worsen as each additional fraction of degree 
+warming means more frequent and intense hurricanes, coastal 
+floodings, heatwaves, and wildfires. Estimates suggest that 
+over the balance of this century climate change could reduce 
+the level of global GDP per capita by between 10 to 20 percent 
+without further efforts to limit warming. Similar estimates 
+have been found for the United States.
+    As economically significant as these estimates are, it's 
+instructive to examine what's not included in them, both assets 
+outside of the market economy, such as biodiversity and human 
+health, as well as critical economic channels, including 
+disrupted supply chains, risk to monitoring and financial 
+stability, and economic impacts of rising risks to the national 
+security.
+    As temperatures increase and extreme weather events worsen, 
+the cost to governments will increase further. Ultimately, 
+governments--state, local and federal--will better cost the 
+private households and businesses and markets are unable to 
+shoulder, including meeting emergency needs, financing disaster 
+recovery, and building resilience to future extreme weather.
+    To conclude, the costs to property, agriculture, and 
+livelihoods are already high and expected to grow materially. 
+The hit to GDP growth from unmitigated climate change is 
+expected to be significant and many of the most severe impacts 
+to human health, to livelihoods, to natural heritage, are not 
+included in these calculations.
+    But there's one final risk from climate change, a negative 
+risk, better known as an opportunity. Increased recognition of 
+the risks of climate change is no galvanizing efforts to 
+address the issue. Last year over a trillion dollars was 
+invested in the energy transition, representing over 1 percent 
+of global GDP and those investments are expected to rise 
+significantly, creating more jobs and higher incomes.
+    In short, while ignoring climate change will lead to 
+significant costs, climate solutions are becoming one of the 
+greatest commercial opportunities of our time. Thank you for 
+your attention. I'll be pleased to answer your questions.
+    Chairman Whitehouse. Thanks, Dr. Carney. We turn now to Dr. 
+Litterman.
+
+  STATEMENT OF DR. ROBERT LITTERMAN, FOUNDING PARTNER, KEPOS 
+ CAPITAL, AND CHAIR, CLIMATE-RELATED MARKET RISK SUBCOMMITTEE, 
+         U.S. COMMODITY FUTURES TRADING COMMISSION \4\
+---------------------------------------------------------------------------
+
+    \4\ Prepared statement of Dr. Litterman appears in the appendix on 
+page 46.
+---------------------------------------------------------------------------
+    Dr. Litterman. Thank you, Chairman Whitehouse, Ranking 
+Member Grassley, and members of the Committee. Thank you for 
+inviting me to address the economic risks associated with 
+climate change and the tremendous cost they may impose on 
+Americans.
+    This summer I visited Greenland to study the melting of the 
+ice sheet. The icebergs calving from the glaciers are 
+beautiful, but they represent the very beginning of what sadly, 
+will be an inevitable acceleration of sea level rise, the 
+timing of which, however, is both highly uncertain and depends 
+critically on the actions that we take today.
+    I want to focus your attention on time because time is a 
+scarce resource in managing risks. Climate change is a long-
+term global risk management failure, but it must be addressed 
+immediately because we don't know how much time we have. The 
+United States has an urgent responsibility to do much more than 
+it has to date. Our grandchildren face grave danger.
+    Global sea level rise in this century, for example, is 
+estimated to be between 2 and up to 10 feet, depending 
+primarily on how quickly we reduce our emissions.
+    Before I go any further, I'd like to tell you a little bit 
+about my background as much of my work is highly relevant to 
+today's subject. I am an economist by training and have spent 
+my career managing financial risks. I worked at Goldman Sachs 
+for 23 years. I was a partner and head of the firm Wide Risk 
+Department.
+    I now sit on several boards for groups that study and 
+propose responses to climate risks, including the Climate 
+Leadership Council and the Niskanen Center. No doubt, the 
+reason I am here today is because in 2020 I chaired the CFTC 
+Climate-Related Market Risk Subcommittee, which published a 
+unanimous and widely cited report, Managing Climate Risk in the 
+U.S. Financial System. We had environmental organizations, such 
+as the Nature Conservancy and the Environmental Defense Fund, 
+but also Agri business companies like Cargill and Bunge. Oil 
+and gas companies like Conoco Phillips and BP, and banks like 
+Morgan Stanley, J.P. Morgan Chase, and Citi.
+    There was no collection of wide-eyed environmental 
+activists nor were politics involved. This was a rigorous 
+report with dozens of recommendations from hard-headed experts 
+and we came to the unanimous conclusion that climate change 
+poses significant risks to the American economy that must be 
+addressed urgently.
+    In the Agricultural sector, for example, we found that 
+climate change is likely to significantly reduce crop yields, 
+decrease labor productivity, degrade soil and water quality, 
+increase the range and virulence of pests and disrupt supply 
+chains. Climate change will also impose large costs on 
+companies and governments.
+    One example, the CFTC Report, highlighted with the case of 
+Pacific Gas and Electric in California which entered bankruptcy 
+because of $30 billion in liabilities associated with its 
+infrastructure, sparking record wildfires. Extreme weather 
+impacts are already here and are growing rapidly, including 
+heatwaves, floods, hurricanes, drought, and wildfires.
+    Meanwhile, the effects of climate change loom every larger 
+in the future. Losses from billion-dollar extreme weather 
+events totaled $165 billion last year. And while it varies from 
+year to year, the costs from climate change are clearly growing 
+rapidly. Extreme weather events are becoming more common as the 
+atmosphere warms. Terms such as the 100-Year Flood are used to 
+describe the magnitude of an event that has happened 
+historically on average once every hundred years. That happens 
+to be an important frequency.
+    We build infrastructure to withstand events that happen on 
+a regular basis and so the damage created by weather that 
+happens regularly is small. But when a 100-year event occurs, 
+the magnitude is so large that we're not prepared and it 
+typically leads to complete destruction of property. The 
+problem is that while such a term continues to describe the 
+magnitude of extreme weather events the frequency of occurrence 
+today tends to be much higher.
+    Declining real estate values driven by climate-related 
+impacts or the expectation of such impacts in the future could 
+substantially depress regional economic activity in exposed 
+areas. Climate change will also likely inflict large costs on 
+human health and its impacts will fall hardest on those with 
+fewer resources, increasing inequity.
+    There are also a number of risks related to crossing a 
+tipping point. A tipping point is a nonlinearity in the 
+response of a system and there are a number of warning 
+potential tipping points in the climatic system. More worrying 
+still, recent scientific research suggests that we may cross 
+several of these tipping points with even only at 1.5 degree of 
+warming it may cross several additional ones with 2 degrees of 
+warming.
+    While the subject of this hearing is the economic risks and 
+costs associated with climate change, I would be remiss if I 
+did not mention one last thing. All of the research and 
+analysis on this subject agrees that the sooner we act to 
+reduce emissions the lower will be the expected costs and risks 
+we incur.
+    In addition, a rapid transition to a low-carbon economy 
+will, by removing policy uncertainty, likely actually result in 
+substantial investment and increased economic growth.
+    I have lots of ideas on this subject, but the bottom line 
+is that with global average temperatures already having risen 
+over 1 degree C and with potentially catastrophic tipping 
+points on the horizon, risk management demands an immediate 
+response leading to globally harmonized incentives to reduce 
+emissions.
+    There are immediate steps that this Congress can take to 
+move this process forward and I would welcome the opportunity 
+to discuss the policies you might pursue to help the risk to 
+the economy and ensure that prices reflect the actual costs 
+associated with production of goods, including the damages 
+created by carbon emissions. Thank you.
+    Chairman Whitehouse. We look forward to taking you up on 
+that offer, Dr. Litterman and turn to Dr. Holtz-Eakin.
+
+   STATEMENT OF DR. DOUGLAS HOLTZ-EAKIN, PRESIDENT, AMERICAN 
+                        ACTION FORUM \5\
+---------------------------------------------------------------------------
+
+    \5\ Prepared statement of Dr. Holtz-Eakin appears in the appendix 
+on page 51.
+---------------------------------------------------------------------------
+    Dr. Holtz-Eaken. Chairman Whitehouse, Ranking Member 
+Grassley, and members of the Committee, thank you for the 
+privilege of being here today. Let me make three points quickly 
+and then I look forward to the chance to answer your questions.
+    The first point is that climate change will have real 
+impacts on the U.S. economy and these will worsen the federal 
+budget outlook. Unquestionably, there will be additional 
+outlays from the national flood insurance programs and other 
+disaster crop risks kinds of programs and mandatory outlays. 
+The Congress will probably chose to make some discretionary 
+outlays in the future in response to the needs for mitigation 
+and/or adaptation and these will worsen the budget picture, but 
+the biggest impact is going to be lower revenue from an economy 
+that grows more slowly over the long term and that the loss of 
+some capital assets, diminished labor productivity, diminished 
+productivity in agricultural lands will cumulatively reduce 
+inflows to the federal budget.
+    The Congressional Budget Office recently took a look at 
+this issue and concluded that the center point of set of 
+estimates for the impact would be about a percentage point 
+lower in GDP by 2051. And I would just point out that while 
+that's a significant impact it's tantamount to under a tenth of 
+a percentage point slower growth each and every year.
+    In contrast, and this point number two, the federal budget 
+presents an immediate and much larger economic threat. We 
+already have debt to GEP in the range of 100 percent and 
+there's a large literature that stems from the work of Ken 
+Rogoff and Carmen Reinhart indicates that countries in that 
+range experience slower growth on the order of a percentage 
+point per year because of their debt burdens. And the U.S. not 
+only has entered that range it has a budget outlook which is 
+unsustainable.
+    The CBO will put out a revised Economic and Budget Outlook 
+this afternoon at 2 o'clock. It will doubtlessly look like the 
+one they put out last year that shows spending expending 
+revenues as far as the eye can see, driven by very rapid growth 
+in the outlays in Medicare at 7 percent a year, Social Security 
+at 6 percent a year, faster than any revenue source could 
+possibly grow and as a result it will show debt relative to GDP 
+rising as far as the eye can see. The interest costs of 
+carrying that debt rising as far as can see and that is a 
+mechanism which is a guarantee for slower growth in the future.
+    The point of the borrowing is not just the debt. The point 
+is that that brings resources from the private sector into the 
+government sector. And for every dollar you take from private 
+investment and put into the best of federal infrastructure 
+investments, you lose about 50 percent of the rate of return, 
+so you're losing on every one of those borrowing activities, 
+diminishing the productivity in the economy, lowering the 
+standard of living for future workers in the next generations.
+    We really don't spend a lot of money on investments in this 
+program and more than likely we're going to take that money 
+from a private investment and put it into a consumption 
+expenditure. That's the point of Social Security and Medicare 
+is to raise the standard of living in retirement for seniors. 
+There's no rate of return to consumption investment, so the 
+federal budget is the biggest headwind to economic growth 
+because it is stacked against investing in the future and needs 
+to be brought into some sort sustainable alignment in order to 
+stop these headwinds to growth.
+    The other point that's going on in the federal budget is 
+that the mandatory expenditures are crowding out discretionary 
+spending. Discretionary spending is where we do national 
+security, basic research, infrastructure, education, all the 
+places where you can invest in the future of the country and 
+those opportunities are getting squeezed out by the growth of 
+these mandatory programs.
+    So, point number three, not only would getting the budget 
+on a sustainable trajectory improve the economic outlook, it 
+would free up the budget resources through investments, 
+especially investments in the climate mitigation and adaptation 
+that are so important to this Committee and to this hearing.
+    And so, I can't think of a single bigger accomplishment 
+than for this Committee and the U.S. Congress to finally come 
+to grips with the federal budget outlook and its 
+unsustainability. It lies at the crossroads of all the threats 
+to our future and needs to be addressed as quickly as possible.
+    I thank you for the chance to be here today. I look forward 
+to your questions.
+    Chairman Whitehouse. Thank you, Dr. Holtz-Eakin. I'll lead 
+and then Senator Romney is next in line.
+    Dr. Carney, you've held two of the most significant and 
+powerful positions global in the banking sector. Climate change 
+was not customarily a part of the banking sector's interest. 
+Why is it that you took such an interest I addressing climate 
+change?
+    Dr. Carney. Thank you, Chair. It goes back, in part, to 
+your opening comments, some of the points you made in your 
+opening comments, which is that under-investing in resilience 
+upfront leads to much greater costs down the road. And it was 
+particular when I became Governor at the Bank of England and 
+it's not commonly known, but one of the responsibilities of the 
+Bank of England is to oversee the insurance industry and it's 
+the fourth largest insurance industry in the world. It includes 
+one of the largest, if not the largest, re-insurance market, 
+the famous Lords of London, and so therefore that's a property 
+in casualty and re-insurance industry that's directly affected 
+by climate change.
+    And one of the lessons that the brokers and the risk 
+managers in Lord of London had determined was that the tail 
+risk of the past were becoming the central scenario of the 
+future. I'll refer to Dr. Litterman's comments about one in a 
+hundred risk events becoming that much more frequent. So, of 
+course they're adjusting pricing. They're adjusting coverage 
+which as real implications for economies and it's apparent to 
+us, as risk managers, that this will affect the economy more 
+broadly and the financial system potentially more broadly if 
+there is not adequate information to assess the potential 
+degree of those risks. And if risk managers don't at least have 
+the opportunity to determine whether or not they will take 
+steps----
+    Chairman Whitehouse. Dr. Carney, you were in charge of the 
+Bank of Canada after the 2008 financial crisis. Can you compare 
+what you foresee with respect to climate with what you 
+experienced in the 2008 mortgage crisis?
+    Dr. Carney. Well, there's two things that I would say. The 
+first is that one of the experiences of that crisis, and many 
+of the members, of course, lived through it and helped managed 
+through it, is what's called a Minsky moment, a realization 
+that basic assumptions were no longer true. For example, that 
+health prices would never fall in the United States, that 
+capital was money good, that assets off balance sheets would 
+stay off balance sheets, all of those proved false and lead to 
+the collapse or virtual collapse of the core, much of the core 
+of the financial system with huge economic costs that 
+ultimately have added to the debt burden of the United States, 
+amongst other countries.
+    Now, in Canada, we were more fortunate for a variety of 
+reasons, but one of the reasons was we had put more resilience 
+into our financial institutions upfront.
+    Chairman Whitehouse. I'm not getting into Canada 
+specifically. I'm looking between what you project potentially 
+happening with the climate crisis. What's the scale comparison, 
+in your mind, between what we experienced with the 2008 
+financial crisis and what climate portends for our systems?
+    Dr. Carney. Okay, so I'll just lead from that point. The 
+first point is what we want to avoid is a rapid and sudden 
+adjustment to the climate crisis, both adaptation, the impact 
+of fiscal damage or belated investments to address the issue. 
+The orders of magnitude are potentially similar in those cases 
+if we delay adjustment.
+    If we adjust upfront, actually, I'm of the view that we can 
+actually grow economies through the investments which would 
+improve competitiveness. But if we delay it until it's evident, 
+and this is the tragedy of the horizon supremely evident to 
+everybody, then the orders of magnitude approaches the 
+financial crisis.
+    Chairman Whitehouse. And just to be clear, your testimony 
+is that climate change could reduce the level of global GDP per 
+capita by 10 to 20 percent and in that calculation you leave 
+out critical economic channels that have not been modeled, 
+including disrupted supply chains, challenges to monetary and 
+financial stability that increasing climate change will 
+present, and potential economic impact of rising risks to 
+national security; is that a fair summary?
+    Dr. Carney. That is a fair summary. And one of the lessons 
+of large shocks is they get amplified as they come through the 
+financial sector. Yes.
+    Chairman Whitehouse. Dr. Litterman, the papers we have in 
+front of us are littered with the ``systemic risk.'' It seems 
+like a mild little term. Could you give us a sense of what its 
+impact is?
+    Dr. Litterman. The system risk that's incorporated in 
+climate change comes from the uncertainty about how the economy 
+is going to be responding to the various different hazards that 
+are increasing. So, we have whole areas of the country that may 
+be impacted by extreme weather, Florida, for instance, that 
+could lead to significant financial stress in terms of the 
+ability to raise funds for capital. So, you can have 
+significant systemic impacts on the economy. It's ones of those 
+things we just don't know.
+    Chairman Whitehouse. You said cascade through the economy.
+    Dr. Litterman. Excuse me?
+    Chairman Whitehouse. Systemic meaning it cascades through 
+the economy and the sectors.
+    Dr. Litterman. Exactly. It will affect every aspect of the 
+economy, including government budgets.
+    Chairman Whitehouse. And last question, you said you were 
+hard-headed about your report. Explain?
+    Dr. Litterman. Yes, this is a report that was created by a 
+bunch of scientists, academics, business people, investor, and 
+we came to unanimous agreement. It wasn't about, I don't know, 
+gut feeling. It was about facts. And the problem is we don't 
+know what the future is going to bring, so we have to be 
+prepared. It's very simple.
+    Chairman Whitehouse. Good word to end on. I think my clock 
+started a little bit late, so if the Ranking Member would like 
+to go a little bit beyond that would be--all's fair. And I turn 
+to Senator Grassley, Senator Padilla next, Senator Romney next, 
+unless Senator Marshall returns.
+    Senator Grassley. Dr. Holtz-Eakin, our rising deficits are 
+cast by a lot of people as long-term challenge, ``long-term 
+challenge.'' Something we will have to deal with in the future, 
+but not immediate problem today. Is that really the case or are 
+we already living with the consequences of reckless spending 
+and borrowing?
+    Dr. Holtz-Eakin. Well, I certainly believe the impacts are 
+immediate and shouldn't be put off. Most people characterize 
+the threat as something that looks like, you know, a Greece, 
+Portugal sovereign meltdown that would happen somewhere in the 
+future if we just did nothing, but the reality is that the 
+mechanism I described in my opening remarks, the diminished 
+productivity, the headwinds to raising the standard of living 
+are going on in small amounts every single year.
+    It might be too tiny to notice in the moment, but 
+cumulatively there are an enormous impact on our progress and 
+so I think it's something that needs to be rectified 
+immediately, both in and of itself, but also because it would 
+allow the Congress more flexibility in pursuing other policy 
+objectives.
+    Senator Grassley. Also to you, in last week's State of the 
+Union address, the President once again tried to portray 
+himself as deficit reducer. He pointed to last year's $1.4 
+trillion deficit, which was lower than the 2002 deficits due to 
+cessation by bipartisan pandemic relief. So, to you how would 
+you rate the President's budgetary performance so far?
+    Dr. Holtz-Eakin. I think the Administration has done 
+nothing to improve the budgetary outlook. Certainly, if you 
+look back at 2021, the American Rescue Plan was an enormous 
+policy error. Something I said at the time, so it's not 20/20 
+hindsight. It was a two trillion dollar stimulus in an economy 
+that was growing at 6 percent. I was too big, was unnecessary, 
+was poorly designed, lead to a lot of inflation, and this has 
+been followed by several proposals called Build Back Better, 
+but did not add up in any meaningful way and would have added 
+to the core structural deficit in the United States.
+    He's taken administrative actions for hundreds of billions 
+of dollars in student loan relief that are difficult for me to 
+defend, so I don't see any activities being taken by the 
+Administration that are recognizing the problems that federal 
+budget faces and we need some leadership on that front.
+    Senator Grassley. Dr. Carney, in last week's State of the 
+Union address, President Biden admitted that the U.S. will need 
+oil and gas ``for a while.'' Your firm, Brookfield Asset 
+Management, has invested in oil and gas infrastructure around 
+the world. Do you believe that the U.S. Government should 
+mandate private institutions divest from their fossil fuel 
+interests, and if so, what immediate impact would this have on 
+the average American?
+    Dr. Carney. The first thing, I agree with the President and 
+the timeline in continued need for fossil fuel. Secondly, I'll 
+just note Brookfield is one of the largest investors in 
+renewables and operators of renewables in the world. Thirdly, 
+no, I don't believe and I've never advocated mandatory 
+divestment of fossil fuels assets. In fact, to address the 
+climate challenge what is necessary to get capital financing to 
+where the emissions are and ensure that businesses can invest 
+to get those emissions down and that's been a consistent 
+position I've had for more than a decade.
+    Senator Grassley. Yes. I don't have a question, but you 
+said--even though I have 1 and 12 seconds left, I'd like to 
+just make a statement, but it's kind of a question for 
+information from Dr. Litterman and Dr. Carney and it deals with 
+the ESG movements within finance, within banking. And I know 
+you don't have to invest where you don't want to invest, but as 
+a family farmer in Iowa and my son, Robin, runs the family 
+farm, but we're corn/soybean farmers.
+    So, let's just assume that the FDIC or some other regulator 
+or bank say to the community bank in Parkersburg, Iowa that 
+you've got to make sure that you know what the carbon footprint 
+is of the farmer and in 60 years of arming I don't know where 
+to start to answer that question. And then I think--so what is 
+obligation that banker is under an obligation to get that 
+information from me, but if the farmer can't give the 
+information how does it get out? So this is what I'm thinking 
+as a historic farming. When I started farming in 1960, we'd 
+make 10 trips across the field and produce maybe 60 bushel of 
+corn to the acre.
+    Today with minimum tillage or no tillage, we make about 
+three or four trips across and we produce--in Iowa, I think the 
+average farmer produced 204 bushels of corn to acre. So, you 
+can see that farmers are already producing unit of food with a 
+lot less units of energy than they used to and do we get any 
+credit for that? I mean we've already been helping the global 
+warming issue with more efficient farming and all that. But 
+that banker in Parkersburg can say to Chuck Grassley you tell 
+us what your carbon footprint is.
+    Dr. Litterman. Senator, it's not an issue of reporting what 
+your carbon footprint is. We don't have to be aware of what the 
+carbon flux out of the atmosphere into the ground is and 
+there's tremendous opportunity for farmers to actually address 
+this problem, to sequester carbon into their soil so they can 
+change the way they farm. But we do have to address the 
+problem. We have to measure the carbon. We have to understand 
+the science. There's a tremendous opportunity in farming, in 
+ranching, and in timberlands to address this problem and I hope 
+we do.
+    Senator Grassley. Well, what'd you think we been doing? We 
+have been using midland tillage for 25 years, no till for 
+probably about that long.
+    Dr. Litterman. Well, sadly, the farmers have not been 
+compensated for the things that they have done to sequester 
+carbon into the soil. They are compensated for being more 
+efficient, but we haven't recognized carbon. Carbon movement 
+into and out of the atmosphere is something that we need to be 
+aware of. We need to measure it and we need to create 
+incentives. We all understand this. We need to creative 
+incentives to reduce emissions. Let's just do it.
+    Chairman Whitehouse. The Growing Climate Solutions Act is 
+an example to help farmers do that, which passed with big 
+bipartisan numbers. Senator Padilla, and then I had the order 
+wrong. Next is Senator Marshall.
+
+                  STATEMENT OF SENATOR PADILLA
+
+    Senator Padilla. Thank you, Mr. Chairman. Communities of 
+Color, Indigenous Communities, Low-Income Communities, and 
+Immigrant Communities are more likely to be located in climate-
+risk prone areas and areas with degraded infrastructure, making 
+them even more vulnerable to the impacts of climate change.
+    It was one of the many reasons I was proud to support the 
+Inflation Reduction Act and the bipartisan infrastructure law 
+last Congress which are making critical investments to combat 
+the climate crisis. And notably, these laws direct resources 
+towards many of the underserved and frontline communities that 
+I just referenced, which far too often bear the brunt of the 
+crisis and other natural disasters.
+    First question is for Dr. Carney. Can you talk about how 
+the climate crisis disproportionately impacts these already 
+marginalized communities and the importance of equity in our 
+financial response and investments?
+    Dr. Carney. Thank you, Senator, for the question. Yes, it 
+is an unfortunate reality that climate change has these 
+impacts, in part, through--well, through the direct areas in 
+which many disadvantaged communities live, proximity, for 
+example, to our coasts and of course this Committee will know 
+that 40 percent of Americans are living within \1/8\ of a mile 
+of coasts and coasts which potentially are subject to, on some 
+estimates, half a trillion of property damage over the balance 
+of this century.
+    Secondly, to the extent to which more extreme weather 
+conditions leads to great volatility in food prices, energy 
+costs, that will also be a direct impact to these disadvantaged 
+groups. And then, thirdly, one of the issues that we all are 
+going to be facing around the world, but certainly in America 
+as well, businesses and families feasibility to get insurance 
+coverage. As these impacts become more prominent, the ability 
+to afford it, if it is available, and of course, so for 
+families, and I'll finish with this, that are already 
+vulnerable to not have the protection the insurance industry 
+can provide because of just the risk, the greater risks that 
+have become central scenarios, if you will, that adds to the 
+vulnerability.
+    Senator Padilla. Thank you, Dr. Carney. Appreciate you 
+raising the issue of insurance coverage. We're working with the 
+White House on an initiative in that regard, so I look forward 
+to following up with you. But on the same broad theme, for far 
+too long it's the disadvantaged communities that I'm talking 
+about that have also been underserved or face barriers when it 
+comes to accessing financial services.
+    Unfortunately, as Dr. Litterman wrote in his testimony, 
+certain sectors of our economy are more susceptible to the sub-
+systemic risks of climate change. This includes community and 
+regional financial institutions, given they typically serve 
+geographically concentrated areas and can suffer potentially 
+significant losses due to natural disasters and extreme weather 
+events.
+    So, given that these institutions serve a vital function in 
+providing financial access to low-income individuals and 
+marginalized communities, the risk is even more concerning. Dr. 
+Litterman, can you discuss the risk of these climate-fueled 
+sub-systemic shocks to local and regional economies and 
+describe how they could disproportionally impact these 
+communities?
+    Dr. Litterman. Sure. Well, wealthy communities will be able 
+to build their infrastructure, harden their infrastructure and 
+be prepared. I live in California and we see smoke more often 
+now. Well, if I put a HEPA filter in and I can filter my air 
+I'm better off, but not everyone can afford that.
+    People who can't afford to address some of these risks that 
+are coming, whether it's drought, smoke, heatwaves, and so on, 
+if they can't air condition their homes, they're going to be 
+suffering. And we see that around the world when exposed people 
+are impacted by these hazards it's the poor that suffer the 
+most. So, it's absolutely just one more example of where we 
+have inequity and we're not paying attention to it.
+    Senator Padilla. Thank you very much. Thank you, Mr. Chair.
+    Chairman Whitehouse. Senator Marshall, followed by Senator 
+Van Hollen, and then Senator Romney.
+
+                 STATEMENT OF SENATOR MARSHALL
+
+    Senator Marshall. Well, thank you, Mr. Chairman. And I'm 
+honored to be here on the Budget Committee with you. I just 
+want to commit to you and my friends across the aisle is that 
+I'm as committed as anybody is to leaving this world cleaner, 
+healthier, and safer than we found it. That as a fifth-
+generation farm kid that means that my family has been 
+stewarding the land for five generations. That the soil at our 
+farm is in better shape today than it was five generations ago.
+    But we've done things like no-till farming like Senator 
+Grassley mentioned since 1991. That we planted 20,000 trees. 
+That we have fenced off creeks, we call them creeks in Rhode 
+Island, Chairman, but whatever it is, creeks back home that 
+flow into wildlife refuges. We've created wetland habitat.
+    Precision agriculture is exploding in Kansas, that we're 
+growing more with less, that we're reusing water, that we're 
+taking the fat from the packing plants and turning into 
+renewable diesel. My point is that American innovation is 
+working and that's why the carbon footprint of American is 14 
+percent less today than it was a decade ago.
+    So, my first question is for Dr. Holtz-Eakin. And I want to 
+say thank you for your Daily Dish newsletter, which I still 
+read daily and appreciate your thoughts on the economy. You 
+kind of mentioned this in your testimony. As we try to solve 
+the problem here, which we all believe that the environment is 
+a challenge for us right now, do you think that American 
+innovation will have a bigger impact going forward or do you 
+think that a federal government heavy hand approach will have 
+better results. And my question is, is the cure worse than the 
+disease that the federal government keeps prescribing all these 
+expensive propositions, is the cure worse than the disease?
+    Dr. Holtz-Eakin. Thank you for the questions and the 
+compliments. I'm not sure that the latter is deserved, but 
+thank you.
+    There's a real issue in having the climate strategy and the 
+economic growth strategy work hand-in-hand. And one of the 
+points I tried to make in my opening remarks is that at the 
+moment the federal budget is an enormous headwind to economic 
+growth and if we have a climate strategy that exacerbates the 
+budget problems it is going to make even worse the challenges 
+on raising the standard of living for future generations. And 
+so, I worry a lot about that.
+    I also worry about the fact that we are not guaranteed to 
+get anything out of something like the Inflation Reduction Act 
+because it has no sort of global coordination and this is 
+ultimately a global problem. And so, when I think about 
+climate, I come to the conclusion that the global challenge 
+will not be solved without great U.S. leadership. I simply do 
+not believe it is possible for the U.S. to be a laggard in this 
+regard and have there be any real progress.
+    It will not be the case that we can make great progress and 
+then provide that leadership if we are crippled by the budget 
+outlook that we have. And if we don't undertake a strategy that 
+features innovation--and I have for a long time been an 
+advocate of using carbon pricing, carbon taxes, in particular. 
+Well-designed carbon taxes are huge incentives for 
+efficiencies, innovation that are completely decentralized.
+    On the ground people decide how they want to respond to 
+price incentives. That's what made the U.S. economy the single 
+greatest economy in the history of the world, using the same 
+techniques to address this problem would be exactly the right 
+way to go. And so, I think the strategy that the Administration 
+has adopted is not the best strategy. I think it will yield 
+little, quite frankly, in time and benefits.
+    Senator Marshall. Thank you. My next question is for Dr. 
+Carney. Two questions, Dr. Carney, as you make your assessment 
+of climate, you talk a lot about carbon footprints. How do you 
+assess the cradle to grave impacts of what you're looking at? 
+How do you calculate the cost of implementing your policies? 
+And I'm going to give you a ``for instance.''
+    So, like Iowa, Kansas, over 50 percent of our electricity 
+is generated from wind. Unfortunately, wind energy is seven 
+times more per kilowatt to produce than from natural gas. Solar 
+is probably 70 times per kilowatt more than from natural gas. 
+And then when we transport that electricity, transporting 
+electricity is 10 times more expensive than transporting 
+natural gas. So, we're exporting a lot of that wind generator 
+electricity and the cost of generating it and transporting is--
+you know, do the math, 70, 100 times more expensive.
+    So, my question, going back to you, Dr. Carney, is how do 
+you address the entire cradle to grave impact of your policies, 
+not just the carbon footprint and how do you calculate the cost 
+of implementing your plans?
+    Dr. Carney. Thank you. Chair just cut me off when I used up 
+too much time. Very quickly, I might refrain cradle to grave, 
+Senator, as well wheeled. So, the all-in cost of delivered 
+energy. I would point out that the levelized cost of wind and 
+solar, new wind and solar is now comparable, if not through, in 
+many jurisdictions. It is less expensive than natural gas is 
+the first point.
+    The second point, and of course, subject to fewer price 
+fluctuations in local and world markets. And then a quick 
+point, if I may, just to pick up on the fiscal point, I'll just 
+read into the record that one of the most effective mechanisms, 
+and the Chair referenced this at the start, is credible climate 
+policy that would include regulation. And when you combine that 
+with the financial sector and businesses having the right 
+information, you get the investment in technologies that are 
+efficient today, cost effective, and in the types of 
+innovations that will be necessary tomorrow. And I'll just 
+refer to a detailed analysis that Secretary Yellen and I did 
+prior to her----
+    Senator Marshall. Well, we'll have to agree to disagree on 
+your cost analysis of wind and solar power. I wish. I could 
+only wish that they were efficient. Thank you so much. I yield 
+back.
+    Dr. Carney. One of the largest investors in energy, so 
+that's what we based it off.
+    Chairman Whitehouse. Senator Van Hollen.
+
+                STATEMENT OF SENATOR VAN HOLLEN
+
+    Senator Van Hollen. Thank you, Mr. Chairman. Thank all of 
+you for your testimony today.
+    Dr. Holtz-Eakin, I agree with your comments on carbon 
+pricing. Many of us pushed for that for many years with 
+appropriate safeguards like border adjustments to protect U.S. 
+domestic industry. This is not a puritan statement. It's a 
+statement of fact. We weren't able to get any support here in 
+Congress from the other side of the aisle on that and that's 
+why I strongly support the approach that we took in the 
+Inflation Reduction Act because we have to do something and I 
+think if you look at it we will achieve significant reductions 
+in greenhouse gas emissions, not as much as I would like, and 
+that brings me to a couple of points.
+    Number one, first of all, I think there are huge economic 
+opportunities and job opportunities in going forward with the 
+clean energy transition. In my state of Maryland, we have two 
+offshore wind facilities that are being built, 10,000 good 
+paying jobs projected from those two facilities.
+    We also know that the cost of doing nothing is huge and 
+that's part of the purpose of this, today's hearing. And those 
+costs are being borne as we speak in terms of taxpayer dollars 
+for more climate resilience at the local level, at the state 
+level, at the federal level and the cost that insurers or 
+individual citizens are paying through insurance and through 
+non-insurance and just the impact on them and their property 
+and their lives.
+    Mr. Litterman, you testified, and I'm quoting here that 
+``insurance markets are critical to diversify these risks and 
+to create appropriate incentives for individuals, companies, 
+and communities to prepare for extreme weather by building 
+harden infrastructure in buildings.'' You go onto say ``but the 
+insurance markets are not working properly because historical 
+loss experience is no longer relevant for predicting future 
+losses.''
+    I noted that in Florida and Louisiana and California, at 
+least one of those three states if not all of them you're 
+seeing just last year a number of insurance companies go 
+insolvent because they just couldn't pay the bill for extreme 
+weather events. Can you expand on the comment you made about us 
+being unprepared when it comes to insurance to capture this 
+risk.
+    Dr. Litterman. Sure. Insurance companies base their pricing 
+on historical experience. That historical experience is no 
+longer relevant. We are in a new weather environment now and so 
+we see these tail events happening much more frequently than 
+they have historically. We have to base insurance on what's 
+actually going to happen or insurance companies are going to 
+pull back. Look at California and wildfires. The probability of 
+getting wildfires is now much higher than it was historically. 
+Everyone knows that, including insurance companies. And so, if 
+you want to buy insurance, insurance companies they're going to 
+raise the premium, but the insurance regulators won't allow 
+them to raise the premium because based on what they say. Show 
+me the data. Well, the data is changing every day. These things 
+are becoming more and more likely and so the insurance markets 
+are not working. Reinsurers understand this. They see the risks 
+and they say we won't underwrite these losses because we see 
+them coming and so these markets are just not working.
+    And then you get Florida, the federal government says we'll 
+provide the flood insurance. California says taxpayers will 
+underwrite the costs of fire insurance. This leads to incorrect 
+incentives. What people should be doing is recognizing that we 
+need hardened infrastructure. We shouldn't be living in risky 
+places and we certainly don't want the federal government to be 
+subsidizing people to live in areas where it's more expensive. 
+That's just going to increase the total cost in the long run.
+    So, we have to face the reality. I love what Professor 
+Holtz-Eakin said. We need to put a price on it. We need to 
+create incentives. People respond to incentives. That's all 
+there is to it. And so, we get the right incentives, we'll get 
+the right behaviors. If we have the wrong incentives, and the 
+insurance industry right now we have the wrong incentives, and 
+so we get the wrong behavior.
+    Senator Van Hollen. Can you speak a little more to the 
+secondary market of insurers? Because as you said they get it, 
+right? Costs are going up as I look at these facts in Florida 
+after six insurance companies went insolvent in 2022 alone, you 
+now see premiums averaging more than $4,200 per year, almost 
+three times the national average.
+    So, as you say, at the end of the day, you're going to pick 
+up the tab, right? I mean you're gong to pick up the tab, 
+either the taxpayer or you're going to have to pick up the tab 
+through much higher home insurance rates and other insurance 
+rates, which is why obviously the best course of action is to 
+try to address the issue at its root and reduce the impact to 
+climate change. But obviously, we're in this already so we have 
+to provide the resilience.
+    I can tell you in my state of Maryland, just over the last 
+four years if you look at it, in the last few years we've seen 
+a dramatic increase in extreme weather events, costing the 
+State of Maryland billions and billions of dollars. So, we're 
+going to pay one way or another if we don't figure out how to 
+address this. And as I said, there's huge opportunities, 
+economically and job-wise in addressing them. Thank you, Mr. 
+Chairman.
+    Chairman Whitehouse. Thank you Senator Van Hollen. Do you 
+care to respond?
+    Dr. Litterman. I would just say that we can do better.
+    There are models that we can run. We can get better 
+estimates of what the risks are, whether it's flooding or heat 
+or smoke and so on, and we should. So, basically what the 
+insurance market is going to have to do is start relying on 
+climate models to project into the future what these risks are.
+    Chairman Whitehouse. Senator Romney. Thank you for your 
+patience.
+    Senator Romney. Pardon?
+    Chairman Whitehouse. Thank you for your patience.
+
+                  STATEMENT OF SENATOR ROMNEY
+
+    Senator Romney. Thank you, Mr. Chairman. I have no question 
+about the impact of climate change. It's going to be 
+significant, devastating in some areas more than others. The 
+question is whether we're doing things that will actually make 
+a difference and will lead to a different result.
+    What I'm concerned about is that most of what we do here in 
+the United States is--well, I'll call it virtual signaling. 
+That term has been used recently. But we do a lot of things 
+that make us feel good about ourselves, but will have almost 
+impact on global emissions. If we want to do something serious 
+about global emissions, we need to put a price on carbon.
+    And our Democrat friends had the chance to do that during 
+reconciliation. They didn't. And so, we can talk about all 
+these other things we're doing and getting more batteries for 
+cars and so forth, but the reason these things don't make a big 
+difference is because the U.S. is not the big contributor to 
+emissions in the world. China is and Brazil and India and 
+Indonesia and all of the growth is going to come from them.
+    China's emissions are greater than the U.S., the EU, and 
+Japan combined. So, when we do things here that are very 
+expensive and disruptive to our economy, they don't change 
+what's happening globally. We have to do things that have 
+global impacts. So, research and technology and a price on 
+carbon are the things that would make a difference.
+    So, it's frustrating to talk about this as a huge challenge 
+to our budget and to our economy when it's out of control, 
+unless we deal with them the way I've just described. And yet, 
+there is something that is in our control that both parties are 
+saying we won't touch that. And what is in our control is the 
+level of debt we have. I just heard Professor Holtz-Eakin just 
+indicate that the impact on the economy of the amount of debt 
+we're adding up is 10 times the impact of climate change, 10 
+times. And yet, we're not willing to look at our entitlement 
+programs to see if we can balance them somehow.
+    I'm not talking about cutting them or taxing them. I just 
+saying let's at least come together and work on it. But the 
+parties are afraid to even come together and have a discussion 
+about how could we balance these things. It strikes me as one 
+of the most outrageous things my generation has done to the 
+coming generations is to say we're going to spend on this money 
+on ourselves. We're not going to tax ourselves to compensate 
+for all that we're giving to ourselves. We're going to take all 
+this money and then we're going to pass onto you for all of 
+your lives slower growth so a more challenged economy and 
+higher interest payments. It's unbelievable. It's almost 
+immoral.
+    So, I look at this challenge, Professor Holtz-Eakin, am I 
+reading this right that the challenge of the debt and our 
+unwillingness to balance what we spend with what we tax that 
+that unwillingness is having a huge impact on economic growth 
+over the future and on the lives of our grandchildren and 
+theirs?
+    Dr. Holtz-Eakin. I think it's well said. I'd just amended 
+it in two ways. I would take out almost in front of immoral and 
+I would say that it's a disservice to the beneficiaries in 
+Social Security and Medicare to pretend that somehow they can 
+survive in their current form. They cannot. Trust funds will 
+exhaust in under a decade, Social Security trust fund in a 
+decade.
+    It is an enormous irony that something like the Social 
+Security program, which was meant to eliminate income 
+uncertainty in retirement and in old age is now the greatest 
+source of income uncertainty in retirement and old age because 
+we have no idea what that program will look like as the years 
+roll forward.
+    So, I personally I'm enormously disappointed at a public 
+debate that suggest we can't touch Social Security and 
+Medicaid. They are the only things we should touch. They are 
+the most important things to touch and I would encourage this 
+Committee to put that on their list.
+    Senator Romney. Thank you. Dr. Litterman, I described what 
+I thought were the major levers that would have an impact on 
+emissions and climate and that came from a model that was 
+presented by a professor at MIT. They built this huge model 
+there that shows all the things you could do and the impact 
+they have. What was shocking was almost everything we talk 
+about or we are excited about has no real impact globally, 
+except a price on carbon and of course investments in new 
+technology and innovation.
+    Some of that is on the table, but the price on carbon never 
+have; am I wrong on that or is that a fair assessment?
+    Dr. Litterman. No, you're absolutely right. In fact, I 
+would go further because when we talk about the budget deficit, 
+as Professor Holtz-Eakin knows, a carbon tax is a great way to 
+raise revenues. Polluters pay and that reduces the deficit, so 
+of course that's the right way to do it.
+    And another thing I would say is that you're absolutely 
+right about the global perspective. This is not a U.S. problem. 
+This is a global problem and the U.S. has to join the global 
+community in creating harmonized incentives to reduce emissions 
+globally. And right now those incentives vary across the board. 
+The U.S. is kind of in the middle with very little incentives, 
+but you know what our strongest incentive to reduce emissions 
+comes from a gasoline tax. If I drive an electric vehicle, I 
+don't pay it, but that's not a strong incentive, okay?
+    In Europe, the incentives to reduce emissions are over a 
+hundred dollars a ton. In many Middle East countries, Russia, 
+Venezuela, there are strong subsidies to increase pollution 
+because they have fixed prices on fossil fuels, which are below 
+the market. So, we've got to move diplomatically, and I would 
+say what we have to do in the U.S. is provide our State 
+Department with the tools that they can go and negotiate 
+globally to get these harmonized incentives to reduce 
+emissions.
+    Senator Romney. Thank you. Mr. Chairman.
+    Chairman Whitehouse. Thanks Senator Romney. Senator Kaine.
+
+                   STATEMENT OF SENATOR KAINE
+
+    Senator Kaine. Thank you, Mr. Chairman and thanks for 
+kicking off our 118th Congress meetings of the Budget Committee 
+with this important topic and thank you to the witnesses.
+    So, I represent Virginia and it's a coastal state. Our 
+shoreline stretches more than 5,000 miles if you include all 
+the snaking waterways around the Chesapeake Bay and the 
+Atlantic. And it's home to assets like the world's largest Navy 
+base, one of the largest cargo ports in the United States, 
+tourism destinations like Virginia Beach and historic 
+Jamestown, as well as commercial and residential districts, the 
+second largest metropolitan area in Virginia is the Hampton 
+Road area. It's about 1.7 million people.
+    Hampton Roads is listed behind New Orleans as the most 
+vulnerable community in the country to sea level rise and this 
+is not the only part of Virginia that's affected by climate 
+change. We see intense rainstorms and flooding in the 
+Appalachian region of Virginia that cause much more severe 
+damage than they have in the past. Even though the annual 
+rainfall hasn't changed much, it tends to come in much more 
+violent episodes than it has in the past because of climate 
+change, so obviously very interested in this topic.
+    One of the things that I've been troubled by, and I want to 
+pick up a little bit, Senator Romney was talking about debt and 
+spending and wanting to spend the right way, not the wrong way. 
+One of the things I've been troubled by 10 years here in the 
+Senate is it seems like we are willing to spend a lot of money 
+on climate change, but only in this sense, we spend in response 
+to emergencies.
+    So, we'll do a superstorm Sandy emergency relief package in 
+the aftermath of some significant climate event and you can 
+pretty much count on bipartisanship. We'll try to find ways to 
+help our communities out when they've been hurt or we'll 
+rewrite the Federal Flood Insurance Program to provide more and 
+more financial support for those whose residences and 
+businesses are getting more severe flood damage than they have 
+in the past.
+    So, we'll come to respond on the backend, but what has been 
+harder to do is find smart resilience funding or even, more 
+importantly, smart prevention funding. I do think, as Senator 
+Romney said, we are on the prevention side, some of the 
+research investments either in the Chips and Research bill and 
+in the Infrastructure bill or maybe frontloading some of these 
+expenses in the prevention side.
+    But if either of you would just have thoughts about in 
+spending and investing how should we be balancing between 
+prevention, resilience, and response and is there a way we 
+should adjust that dial to make it more likely effective?
+    Dr. Litterman. Well, I think the most important thing we 
+can do is create the incentive now to prevent this problem from 
+getting bigger and bigger into the future, so that's what we 
+have to do immediately. The costs themselves are primarily in 
+the future and so, among other things, we have to be prepared.
+    I think in terms of what we really need to do to address 
+this problem, as one of the senators mentioned, we have to 
+create the innovation to create the new types of energy--the 
+energy, the infrastructure, the housing, and so on that will be 
+resilient to the future that's coming. And in order to do that, 
+in order to generate the innovation and the capital and so on, 
+what we need is to create the expectation among investors that 
+there will be incentives that will pay--you know, if you have a 
+low carbon approach that it'll be more profitable.
+    Senator Kaine. Can I just say what about innovation and 
+then I did want to have the Professor respond as well. One the 
+things I like as sort of a little virtuous competition in the 
+innovation space. I know some of what we did in the IRA has 
+made European nations kind of mad, like what you're trying to 
+do things that will make it harder for industries. But then 
+they've decided, well, maybe we'd better up or investments as 
+well and that kind of virtuous competition it can lead to some 
+tough words between otherwise allied nations, but it may not be 
+bad in terms of the overall goal. Dr. Holtz-Eakin, I know you 
+wanted to say something.
+    Dr. Holtz-Eakin. Just briefly, I mean if you take the flood 
+insurance program as an example, for long periods we didn't 
+update the web maps and delivery didn't update the flood maps, 
+so that's a terrible idea. You have to know the risks you face 
+and then once you have those risks they have to be priced 
+effectively. And that means in some cases premiums that are 
+much higher than have been historically. That becomes 
+uncomfortable. Let's be honest about that. But it provides 
+exactly the right innovation and other incentives.
+    Don't build a house where it doesn't belong, right, then, 
+you will not have to pay out of the flood program when it gets 
+hit. New businesses to places are more secure for the future. 
+All of that is the best kind of signal to send and it comes 
+from really doing mundane structural things in a lot of federal 
+programs, but we're not doing that.
+    Senator Kaine. Thank you, Mr. Chair.
+    Chairman Whitehouse. Thank you very much, Senator Kaine. 
+Senator Graham, followed by Senator Kennedy and then Senator 
+Braun, unless we have Democrats that are mediating. Go ahead, 
+Senator Graham.
+
+                  STATEMENT OF SENATOR GRAHAM
+
+    Senator Graham. Thanks, Mr. Chairman. This is a hearing 
+worth having, for sure. So, we all sort of agree on the 
+problem. Climate change is real. It's affecting quality life on 
+the planet over time. We all agree with that. What to do about 
+it is problematic, but let's talk about pricing carbon. Your 
+price on carbon what would that translate to, Doug, in terms of 
+increasing gas prices?
+    Dr. Holtz-Eakin. I don't have a specific price for carbon 
+that I would translate into gas prices, but the literature says 
+very clearly that the right way to do this is to have----
+    Senator Graham. No, I got it. I got it.
+    Dr. Holtz-Eakin. Let me finish. Let me finish. It's a 
+revenue neutral carbon tax so that you use the revenues to get 
+rid of other taxes that people who make gasoline will have to 
+pay. So, the net impact on the pump prices is not always from 
+that. Again, something is going down, not just up.
+    Senator Graham. So, revenue neutral gas tax. You take the 
+money you collect from gas taxes and you offset obligations in 
+other areas, right?
+    Dr. Holtz-Eakin. Revenue neutral carbon tax economy-wide so 
+that you can use the revenues to diminish taxes on capital and 
+labor. Those are corporate income taxes, income taxes, payroll 
+taxes.
+    Senator Graham. Now, I'm making $20 an hour in South 
+Carolina. How do I get my money back for an increase gas tax?
+    Dr. Holtz-Eakin. Payroll tax reduction.
+    Senator Graham. Okay. And how does that affect Social 
+Security?
+    Dr. Holtz-Eakin. Sadly, in reality, it doesn't affect 
+Social Security very much because it's already not going to 
+have enough money, so you better figure that out.
+    Senator Graham. Okay. What would you do?
+    Dr. Holtz-Eakin. Well, Senator, I really like Senator 
+Wyden's plan that didn't get into the Build Back Better, but he 
+suggested that we have a low carbon tax to begin with, exclude 
+gasoline, and then allow the incentive to rise quickly and so, 
+there are various ways to address this. I would say that the 
+gasoline is very inelastic and so you really don't impact very 
+much the amount of pollution by putting on a gasoline tax. I 
+think there's much better ways to address it.
+    Senator Graham. How would it affect utility bills, this 
+approach?
+    Dr. Holtz-Eakin. How would----
+    Senator Graham. Yes. I mean somebody's got to pay. Carbon's 
+generated through transportation and production of energy 
+itself.
+    Dr. Holtz-Eakin. Well, Senator, I'm not an expert on 
+utility, but I believe that utilities around the country have 
+very different carbon footprints. So, in an area where you have 
+clean electricity it wouldn't be much of an impact.
+    Senator Graham. I'm generally supportive, but the problem 
+with this is we talk in circles. I'm asking you if we go down 
+this road how much will your utility bill go up, how much gas 
+prices will go up, we need to actually talk more honestly about 
+that. How about something maybe we can agree on, that if we 
+don't get China and India and other big emitters to do better 
+it doesn't really matter a whole lot what we do here; do you 
+agree with that, Doug?
+    Dr. Holtz-Eakin. I do agree with that.
+    Senator Graham. Does everybody on the panel agree with 
+that? Is one way to do that a border adjusted carbon fee?
+    Dr. Holtz-Eakin. Certainly, if we had a global regime with 
+people already doing something, right, then we should have a 
+border adjustment.
+    Senator Graham. Mr. Litterman.
+    Dr. Litterman. Absolutely. Absolutely. I think it's a great 
+way to go and I think it's something that both parties can 
+agree on, so let's move forward.
+    Senator Graham. So, if you're looking to make big polluters 
+like China and India to change their behavior, we do all the 
+things here at home may drive up prices. When they send 
+products into the country, they're going to pay a pollution 
+fee, for lack of a better term. You agree with that?
+    Dr. Litterman. Oh, yeah, absolutely. We need to measure the 
+incentives globally to reduce the emissions, we need to 
+harmonize them, and we need to get them to the appropriate 
+level, so let's work together to do that.
+    Senator Graham. If we do electrification of the vehicle 
+fleet along the lines that car companies are talking about by 
+2035, 2040, how much demand in power production will that 
+create in America?
+    Dr. Litterman. I don't know, Senator.
+    Senator Graham. Do you know, Doug?
+    Dr. Holtz-Eakin. I don't know the number off the top of my 
+head. I'd be happy to get it to you. But in my written 
+testimony----
+    Senator Graham. Like a lot.
+    Dr. Holtz-Eakin. But in my written testimony.
+    Senator Graham. It's like a lot.
+    Dr. Holtz-Eakin. It's like a lot.
+    Senator Graham. It's like a lot. Where does that ``a lot'' 
+come from? Can you do it without natural gas?
+    Dr. Holtz-Eakin. I don't think so.
+    Senator Graham. Can you do it without natural gas, Mr. 
+Litterman?
+    Dr. Litterman. Oh, yeah, absolutely.
+    Senator Graham. Okay.
+    Dr. Litterman. What you need to do is you need to create 
+the right incentives and let the market work.
+    Senator Graham. Time out. How much increase in demand for 
+power or power will come from electrifying the vehicle fleet? 
+How much, 100 percent, 50 percent, 10 percent, 200 percent? Do 
+you have a clue?
+    Dr. Litterman. How much of the electricity demand will be 
+increased by electrifying----
+    Senator Graham. To cars or plugging into something.
+    Dr. Litterman. Yes, I don't know.
+    Senator Graham. How can you say if you don't know there's 
+no need for gas? This is the problem. Thanks.
+    Dr. Litterman. Who said there was no need for gas, Senator?
+    Chairman Whitehouse. Senator Kennedy is up next, followed 
+by Senator Braun. And for the record, for people who came late, 
+we actually have a third witness, who happens to not be visible 
+because he's with us electronically, but it's Mark Carney, who 
+was the former Chief of the Bank of Canada and the Bank of 
+England.
+
+                  STATEMENT OF SENATOR KENNEDY
+
+    Senator Kennedy. Thank you, Mr. Chairman. Dr. Litterman, 
+how long have you been studying climate change and possible 
+solutions?
+    Dr. Litterman. Studying? Well, I was the head of Risk 
+Management at Goldman Sachs. I didn't worry too much about 
+climate change at that.
+    Senator Kennedy. Tell me the number of years, if you would, 
+Doc?
+    Dr. Litterman. How many years?
+    Senator Kennedy. Yes.
+    Dr. Litterman. Let's say 15.
+    Senator Kennedy. And how about you, Dr. Holtz-Eakin?
+    Dr. Holtz-Eakin. About 25.
+    Senator Kennedy. Okay. Dr. Litterman, how much will it cost 
+to make the United States of America carbon neutral by 2050?
+    Dr. Litterman. I don't know, sir.
+    Senator Kennedy. So, you're advocating we do these things, 
+but you don't know the ultimate cost?
+    Dr. Litterman. Yes, absolutely. I certainly don't know the 
+ultimate cost and it's very uncertain. It depends on 
+innovations. It depends on----
+    Senator Kennedy. I understand. I'm just trying to lay a 
+foundation here to understand your expert testimony. Dr. Holtz-
+Eakin, do you know how much it will cost to make the United 
+States of America carbon neutral by 2050?
+    Dr. Holtz-Eakin. Depends how you do it. If we do all on the 
+federal budget----
+    Senator Kennedy. Public and private dollars.
+    Dr. Holtz-Eakin. Sorry?
+    Senator Kennedy. Public and private dollars. It's 
+ultimately private dollars anyway.
+    Dr. Holtz-Eakin. Yes, I agree.
+    Senator Kennedy. So, how much?
+    Dr. Holtz-Eakin. You're going to look at $50 trillion.
+    Senator Kennedy. $50 trillion.
+    Dr. Holtz-Eakin. Yes.
+    Senator Kennedy. Okay. Thank you. If we make the United 
+States of America carbon neutral by 2050 by spending $50 
+trillion, what you're advocating I gather? No? Okay, then 
+strike that last part. I'm wrong. You're not advocating. You're 
+advocating something.
+    Dr. Holtz-Eakin. If you're going to do something, do 
+something smart. That's what I advocated.
+    Senator Kennedy. Okay. If we spend $50 trillion to make the 
+United States of America carbon neutral by 2050, how much will 
+that lower world temperatures?
+    Dr. Holtz-Eakin. I can't speculate what China and India and 
+the rest of the world has done.
+    Senator Kennedy. Okay. Have you heard anybody from the 
+Biden Administration say how much it would lower world 
+temperatures?
+    Dr. Holtz-Eakin. No.
+    Senator Kennedy. Does anybody know how much it would lower 
+world temperatures? No?
+    Dr. Holtz-Eakin. No one can know for sure.
+    Senator Kennedy. Dr. Litterman.
+    Dr. Litterman. Yes.
+    Senator Kennedy. If we spend $50 trillion or however much 
+it takes to make the United States carbon neutral by 2050, how 
+much will it lower world temperatures?
+    Dr. Litterman. Senator, that depends on the rest of the 
+world. We have to work with the rest of the world. We're in 
+this together.
+    Senator Kennedy. Well, what if----
+    Dr. Litterman. We can't build a wall around the United 
+States and say----
+    Senator Kennedy. What if we spend $50 trillion, Europe 
+cooperates, most western democracies cooperate, but India and 
+China don't, how much will our $50 trillion lower world 
+temperature?
+    Dr. Litterman. We're in this together. We have to get the 
+world to work together.
+    Senator Kennedy. I get that.
+    Dr. Litterman. Okay.
+    Senator Kennedy. How much would it lower world 
+temperatures?
+    Dr. Litterman. If China and India do not help?
+    Senator Kennedy. Yes.
+    Dr. Litterman. I don't know.
+    Senator Kennedy. Okay. Dr. Litterman, do you believe, based 
+on your observations--you seem to be a very intelligent, well-
+informed man. Based on your observation of Mr. Xi Jinping that 
+Mr. Xi Jinping will ever do anything that is inconsistent with 
+China's best interests in the name of global climate change?
+    Dr. Litterman. I understand that China has a federal carbon 
+tax.
+    Senator Kennedy. Yes, but face with a policy, okay, where 
+China does something that's not in its best interest, but it 
+does it because it's in the global best interest, do you think 
+President Xi would do that?
+    Dr. Litterman. I think that President Xi understands that 
+we have to work together to address this global problem. Yes, I 
+do, and it will be in the best interest of China to work with 
+the United States to address this problem.
+    Senator Kennedy. So, you think the answer is yes?
+    Dr. Litterman. I think the answer is it's in China's best 
+interest to work with the rest of the world to address this 
+problem, as it is in the United States best interest to work 
+with the rest of the world to address this problem.
+    Senator Kennedy. Do you believe----
+    Dr. Litterman. We need harmonized incentives to reduce the 
+issue.
+    Senator Kennedy. Do you believe in the Tooth Fairy?
+    Dr. Litterman. No, sir.
+    Senator Kennedy. Do you believe in the Easter Bunny?
+    Dr. Litterman. No, sir.
+    Senator Kennedy. Do you believe that Jimmy Hoffa died of 
+natural causes?
+    Dr. Litterman. No, sir.
+    Senator Kennedy. Okay. Thank you, Mr. Chairman.
+    Chairman Whitehouse. Senator Braun.
+
+                   STATEMENT OF SENATOR BRAUN
+
+    Senator Braun. Thank you, Mr. Chairman. I've been four 
+years on the Budget Committee each year and the last two years 
+prior to this we did 16 hearings and we didn't do one hearing 
+on the mechanics of actually doing a budget. This is the Budget 
+Committee and we haven't put one together fully budgeted and 
+appropriate on time in 25 years.
+    I've got four kids that now run my business, three of my 
+four kids, and I was on a school board 10 years, state 
+legislator for three years. No other place works like that and 
+has a business plan that works into the future. I also come to 
+the Senate and believe, as Republicans and conservatives, that 
+if we don't weigh in on big issues of the day shame on us. Then 
+we're going to be at the expense of whatever the other idea is.
+    Started the Climate Caucus back six months after I got 
+here. Got six other Republicans to join and we've been an 
+engaging caucus, a real caucus that's met over time. So, the 
+issues are there, but I think until we--unless we want to 
+change the name of this Committee to the General Issues of 
+Concern Committee, we owe it to the American public that we're 
+not going to base it upon doing no budgeting, no appropriating, 
+doing it behind closed doors, and dropping 4100 page bills in 
+our lap that none of us can read through and then having the 
+gall to borrow the money from our kids and our grandkids. That 
+is shameful.
+    We should be fleshing out the climate issues probably in 
+EPW. I've been the loudest senator on the Republic side that 
+says we have a broken healthcare system. Fixed it in my own 
+business 15 years ago, made it consumer driven, but skin in the 
+game from my own employees to be real healthcare consumers, cut 
+costs by 50 percent, have not had premium increases in 15 
+years. That sounds like it'd be unbelievable, but it's true. 
+When you do things that make sense and that are sustainable. 
+You know I've got healthier employees for that now.
+    So, healthcare, it's breaking the bank in terms of 
+mentioned earlier Medicare until you reform the healthcare 
+industry and embrace competition, transparency, don't get 
+hospitals all the rules and regs they need to become an 
+unregulated utility like a monopoly in the sense of how they 
+work, probably going to see costs going up.
+    So, I'm not going to weigh in on the climate issue, other 
+than we've doing it. The experts there, the leaders and 
+captains of industry I think are accepting it as an issue. It's 
+going to be solved in that area through technology, not here. 
+And it does beg the question when China's building a coal-fired 
+plant weekly how does that hold thing fit into the equation?
+    So, I want to cite a few more statistics and then I'm going 
+to ask Mr. Carney, who is out there in the cyber world and Dr. 
+Holtz-Eakin, what you think about the trajectory we're on. The 
+only budget out there that anybody's had the nerve to be I did 
+it last year, privilege motion. We should discharge a budget 
+resolution by April 1st. There'll be some of us that do that 
+again, but just cutting to what we do do, which is no 
+budgeting, no appropriating, and then whether you believe in 
+reforming things on a climate basis and healthcare. What about 
+the idea that we're adding trillions to our national debt, 18 
+trillion when I got here, now 31 trillion. Start back in 2000 
+when we put a couple wars on the credit card. That took us from 
+5 trillion in debt to 10 trillion.
+    Next Administration said, well, we're not going to be 
+outdone, added another 6 trillion. I get here it's 18 trillion. 
+It's been off the rails ever since. Let's start with Mr. 
+Carney. You come from the banking industry. I debated Bernie 
+Sanders for 25 minutes on the Senate floor about the modern 
+monetary theory. Can we keep borrowing and borrowing without 
+having the consequences of crowding out all the issues that are 
+going to come into play, is that a viable long-term business 
+plan? And I'd like Dr. Holtz-Eakin to weigh in as well.
+    Dr. Carney. Thank you, Senator. I'll make a couple quick 
+comments. The first is that crowding out is an issue. I think 
+Professor Holtz-Eakin has made this point in this forum and 
+other fora. And secondly, it is a relevant issue for climate 
+change because of the cost of adaptation, resilience, and 
+delayed action is going to lead to much greater crowding out 
+and bigger economic impacts as well. So, the fiscal situation 
+you described, and I won't' comment on obviously on U.S. 
+situation, but this underscores the importance of revenue 
+neutral use of regulation and effective policies that other 
+senators have been referencing.
+    Last point I'll make before handing it over to the other 
+witness is I would just refer, given the earlier discussion, to 
+the carbon tax in Canada, which is revenue neutral, is returned 
+to Canadians and insures about 70 percent of Canadian 
+households. I'm going to net ahead.
+    Senator Braun. What about the modern monetary theory, 
+climate aside?
+    Dr. Litterman. I don't want to----
+    Senator Braun. I figured you may not weigh in on that. Go 
+ahead.
+    Dr. Litterman. No, that's a theory to which I do not 
+subscribe.
+    Senator Braun. Well, I can tell you it's a bad theory. 
+Anywhere else you borrow from future generations it does not 
+work out. Dr. Holtz-Eakin.
+    Dr. Holtz-Eakin. Well, one, the federal budget is on an 
+unsustainable structure and its getting worse. Two, it is 
+imposing costs on the economy today and will increasingly 
+impose those costs. The carving out is real. And three, there 
+is nothing about modern monetary theory that coincides with the 
+real-world experience. It's just incorrect.
+    Senator Braun. Yes. And thank you for that. And I think we 
+should try to discharge a budget resolution by April 15th, if 
+not, I will take one to the floor again because it's our 
+responsibility to our kids and grandkids not to run this place 
+like we currently run it.
+    Chairman Whitehouse. Senator Lee.
+
+                    STATEMENT OF SENATOR LEE
+
+    Senator Lee. Thank you, Mr. Chairman. I want to take a 
+brief moment to say that I appreciate the opportunity to serve 
+on the Budget Committee as a new member and especially to do so 
+at a time when the state of our federal budget is in such 
+profound disrepair, perhaps more so than at any other time in 
+our nation's history.
+    Fifteen years ago, our public debt measured as a percentage 
+of the American economy, was at just 35 percent. Today it 
+stands at 100 percent and according to fairly rosy projections 
+within the next few decades it'll get up to 200 percent. And 
+whether it's decades or just a few years away, we will reach a 
+point where our interest on the national debt becomes the 
+largest line item we have, bigger than Social Security or 
+Medicare or Defense.
+    This fiscally irresponsible path that our federal budget is 
+on is something that increases significantly the odds of a debt 
+crisis and the associated economic pain that will inevitably be 
+borne by the American public, if and when that crisis arrives 
+in its full force.
+    Just last year the Congressional Budget Office noted that 
+the very tangible consequences of our federal debt needed to be 
+kept in mind or the high and rising federal debt that CBO 
+projects over the next three decades would have serious 
+consequences for the economy and federal budgeting, including 
+the crowding out of private investment, higher interest costs, 
+and increased risk of a fiscal crisis.
+    So, let's not fool ourselves. And most importantly, let's 
+not fool those we represent, the American people. Blooming 
+deficits and surging debt have been driven by and will continue 
+to be driven by runaway profligate spending by the federal 
+government, not because of any effects of climate change. That 
+is a different thing. That's not what has caused our ballooning 
+debt and deficit.
+    There has become an all to prevalent quality in American 
+political discourse and specifically among many in the United 
+States Senate and on the left who seek to climate alarmism to 
+justify a widespread federal government takeover of our economy 
+and a radical, unrealistic and damaging transition of our 
+energy sector with all of its abruptness and all of its 
+disregarding of things that have worked and helped elevate 
+people out of poverty. And yes, even helped, in many instances, 
+clean up the environment.
+    Dating back to at least the 1970s, a group of left-wing 
+academics and media allies began making apocalyptic claims 
+about climate change, stipulating that climate-related 
+apocalyptic events would wipe out hundreds of millions if not 
+billions of the Earth's human inhabitants over the next few 
+decades. What's more concerning than the kooky theories of Paul 
+Ehrlich or Thomas Malthus that a growing number of Democratic 
+members of Congress, bureaucrats, and private sector business 
+people are now making similarly outlandish and inflammatory 
+alarmist claims about a looming climate apocalypse or at least 
+throw support behind green new deal style legislative proposals 
+and regulatory mandates.
+    Not only is this supremely misguided and shortsighted, but 
+it's not remotely necessary. It certainly isn't desirable. The 
+reality is that U.S. energy-related carbon emissions have been 
+steadily declining over the last 15 years without any green new 
+deal styled takeover of the federal budget and the American 
+economy. And the same time China's carbon emissions have nearly 
+doubled over that same time period.
+    Democrats in Congress and in the Biden Administration need 
+to work with Republicans to promote American energy 
+independence rather than promoting less efficient forms of 
+energy, especially at a time of significant energy inflation. 
+And it's been financially debilitating to low- and middle-
+income American households. And those energy costs translate 
+also to higher food costs and higher costs for everything we 
+buy and everything we do.
+    These costs don't fall on the wealthy like they fall on the 
+poor and middle class. But brazen regulatory overreach 
+currently being carried out by unelected and unaccountable 
+bureaucrats must come to an end as those decisions of making 
+law are expressly reserved for Congress under Article I, 
+Sections 1 and 7 of the U.S. Constitution.
+    Lastly, it's my hope that this Committee will spend more of 
+its time and effort this Congress deliberating ways to reduce 
+our budget deficits so that we can stabilize our debt while 
+putting our budget on a pathway to balance. Thank you, Mr. 
+Chairman.
+    Chairman Whitehouse. Thank you, Senator Lee. To be clear, 
+the reason we're having this hearing and the reason that we're 
+going to continue to have hearings on this subject is that $10 
+trillion of our federal debt can be ascribed to exogenous 
+shocks to our economy with which we had to cope. It wasn't 
+cheap, but we had to do it.
+    The biggest exogenous shock on the horizon out there is 
+climate upheaval. That's not just me. That's bankers, corporate 
+CEOs, scientists, economists, people who will look at this 
+problem all around the world. And it matters because we have 
+the chance to head it off now if we take appropriate steps, 
+many of which, as we've heard in this hearing, have support on 
+both sides of the aisle.
+    I'll also add that I mentioned at the beginning of the 
+hearing the prospect of healthcare reforms that can lower 
+costs. Accountable care organizations were a perfect example of 
+that and I look forward to working with members on both sides 
+of the aisle and with CBO to drill into the cost bases for that 
+and try to figure out we can do to do more of what looks like 
+already trillions of dollars in healthcare savings that are 
+projected from these changes.
+    But I'll close with a round of questioning. I didn't have 
+the chance to ask Dr. Holtz-Eakin questions, so I'm going to 
+yield myself a second round. And let me ask you, Dr. Holtz-
+Eakin, in preparing your testimony today did you familiarize 
+yourself with the Bank of International Settlements so-called 
+Green Swan Report, which warns of, and I quote, ``catastrophic 
+and irreversible impacts from climate so large that''--and 
+quoted them again--``it would make quantifying financial 
+damages impossible?''
+    Dr. Holtz-Eakin. No, I did not read that report.
+    Chairman Whitehouse. Did you familiarize yourself with the 
+report put out in April of 2019 by dozens of central banks that 
+says, ``Estimates of losses are large and range up to $20 
+trillion when looking at the economy more broadly.''
+    Dr. Holtz-Eakin. I don't know that report.
+    Chairman Whitehouse. Did you familiarize yourself with the 
+Deloitte Global Turning Point Report, which concluded that in 
+2070 alone global GDP could be 7.6 percent lower compared to a 
+baseline that does not account for climate change.
+    Dr. Holtz-Eakin. I read that report--scanned that report 
+when it first came out.
+    Chairman Whitehouse. Did you familiarize yourself with the 
+report from economists largely centralized in Cambridge, but 
+from around the world that said that the effect on the U.S. 
+economy would be more than $3 trillion in losses and GDP could 
+shrink by more than 5 percent due to the collapse of stranded 
+assets?
+    Dr. Holtz-Eakin. I scanned that one as well when it came 
+out.
+    Chairman Whitehouse. Did you familiarize yourself with the 
+report from Freddie Mac, the American mortgage giant that said, 
+and I'm quoting here, that the economic losses and social 
+disruption related to coastal property losses ``are likely to 
+be greater in total than those experienced in the housing 
+crisis and the Great Recession.''
+    Dr. Holtz-Eakin. No.
+    Chairman Whitehouse. I gather you did familiarize yourself 
+with the CSTC Report that Litterman wrote. Correct?
+    Dr. Holtz-Eakin. When it was released. Yes.
+    Chairman Whitehouse. And when it was released, its opening 
+sentence was ``Climate change poses a major risk to the 
+stability of the U.S. financial system and to its ability to 
+sustain the American economy,'' is that correct?
+    Dr. Holtz-Eakin. Yes.
+    Chairman Whitehouse. And the second paragraph after its 
+header says, ``Risks include disorderly price adjustments in 
+various assets classes with possible spillovers into different 
+parts of the financial system as well as potential disruption 
+of the proper functioning of financial markets.'' Not a good 
+outcome, right?
+    Dr. Holtz-Eakin. Not desirable.
+    Chairman Whitehouse. Not desirable indeed. And then it also 
+said, ``A central finding of this report is that climate change 
+could pose systemic risks to the U.S. financial system across 
+multiple sectors, geographies, and assets in the United States, 
+sometimes simultaneously, and within a relatively short 
+timeframe.'' Do you recall it saying that?
+    Dr. Holtz-Eakin. Not specifically, but I believe that.
+    Chairman Whitehouse. And you wrote a little report on it in 
+September of 2020 which noted that climate induced risks will 
+cause dramatic financial fluctuations and the stability of the 
+system will be at risk. And then on the backside of your one-
+pager, you said that the potential risks to financial markets 
+posed by climate change represent a pervasive policy challenge. 
+Have I quoted you correctly?
+    Dr. Holtz-Eakin. Yes.
+    Chairman Whitehouse. Thank you. Closing words to Dr. 
+Litterman.
+    Dr. Litterman. Yes. I would just say I am surprised, 
+pleasantly surprised by the amount of agreement by certainly 
+the witnesses here and the senators as well, and so I hope we 
+can move forward. That's all.
+    Chairman Whitehouse. Yes. I hope so too when I think that 
+there are things that we can do. I think the key points coming 
+out of this are that we've got to move forward globally. We 
+can't pretend that we can build a fence around the United 
+States, soft climate here and not be affected by what's going 
+on in China and India and other places, Russia.
+    That we do have the tools to effect the behavior of China 
+and India and other countries through carbon border tariffs, 
+that they're already underway in the European Union. And that 
+if we can pull together and be sensible about this we can take 
+advantage of--I forget whether it was you, Dr. Litterman or Dr. 
+Carney, who said negative risks, opportunities. That there is a 
+huge upside to getting this right.
+    I'll close with the Deloitte number, which was that if we 
+don't get this right it's $180 trillion in costs to the global 
+economy. If we do get it right, it's $40 trillion in added 
+value. The upside, the negative risks, the opportunities. Let's 
+go for that.
+    I want to thank the witnesses for appearing in the 
+Committee today. Their full statements will be included in the 
+record of our proceedings. As information for all senators, 
+questions for the record, are due by noon tomorrow with signed 
+hard copies delivered to the Committee Clerk in Dirksen 624. 
+Emailed copies are also fine. We will ask the witnesses to 
+respond to those questions within seven days of receipt of 
+them.
+    And with no further business before the Committee, the 
+hearing is adjourned.
+    [Whereupon, at 11:43 a.m., Wednesday, February 15, 2023, 
+the hearing was adjourned.]
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+                                     [all]
+

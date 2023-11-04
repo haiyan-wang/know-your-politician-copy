@@ -1,0 +1,1739 @@
+
+ - FDA OVERSIGHT PART I: THE INFANT FORMULA SHORTAGE
+
+[House Hearing, 118 Congress]
+[From the U.S. Government Publishing Office]
+
+
+
+
+
+
+                                 
+
+
+
+ 
+                         FDA OVERSIGHT PART I:
+
+
+                      THE INFANT FORMULA SHORTAGE
+
+=======================================================================
+
+                                HEARING
+
+                               before the
+
+                      SUBCOMMITTEE ON HEALTH CARE
+                         AND FINANCIAL SERVICES
+
+                                 of the
+
+                         COMMITTEE ON OVERSIGHT
+                           AND ACCOUNTABILITY
+
+                        HOUSE OF REPRESENTATIVES
+
+                    ONE HUNDRED EIGHTEENTH CONGRESS
+
+                             FIRST SESSION
+
+                               __________
+
+                             MARCH 28, 2023
+
+                               __________
+
+                           Serial No. 118-13
+
+                               __________
+
+  Printed for the use of the Committee on Oversight and Accountability
+  
+  
+  [GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+  
+  
+  
+
+
+                    Available on: govinfo.gov
+                     oversight.house.gov or
+                       docs.house.gov
+                             
+                             
+                          ______
+
+             U.S. GOVERNMENT PUBLISHING OFFICE 
+ 51-718          WASHINGTON : 2023
+                            
+                             
+                             
+                             
+                             
+                             
+                             
+               COMMITTEE ON OVERSIGHT AND ACCOUNTABILITY
+
+                    JAMES COMER, Kentucky, Chairman
+
+Jim Jordan, Ohio                     Jamie Raskin, Maryland, Ranking 
+Mike Turner, Ohio                        Minority Member
+Paul Gosar, Arizona                  Eleanor Holmes Norton, District of 
+Virginia Foxx, North Carolina            Columbia
+Glenn Grothman, Wisconsin            Stephen F. Lynch, Massachusetts
+Gary Palmer, Alabama                 Gerald E. Connolly, Virginia
+Clay Higgins, Louisiana              Raja Krishnamoorthi, Illinois
+Pete Sessions, Texas                 Ro Khanna, California
+Andy Biggs, Arizona                  Kweisi Mfume, Maryland
+Nancy Mace, South Carolina           Alexandria Ocasio-Cortez, New York
+Jake LaTurner, Kansas                Katie Porter, California
+Pat Fallon, Texas                    Cori Bush, Missouri
+Byron Donalds, Florida               Shontel Brown, Ohio
+Kelly Armstrong, North Dakota        Jimmy Gomez, California
+Scott Perry, Pennsylvania            Melanie Stansbury, New Mexico
+William Timmons, South Carolina      Robert Garcia, California
+Tim Burchett, Tennessee              Maxwell Frost, Florida
+Marjorie Taylor Greene, Georgia      Becca Balint, Vermont
+Lisa McClain, Michigan               Summer Lee, Pennsylvania
+Lauren Boebert, Colorado             Greg Casar, Texas
+Russell Fry, South Carolina          Jasmine Crockett, Texas
+Anna Paulina Luna, Florida           Dan Goldman, New York
+Chuck Edwards, North Carolina        Jared Moskowitz, Florida
+Nick Langworthy, New York
+Eric Burlison, Missouri
+
+                       Mark Marin, Staff Director
+       Jessica Donlon, Deputy Staff Director and General Counsel
+                 Reagan Dye, Professional Staff Member
+      Mallory Cogar, Deputy Director of Operations and Chief Clerk
+
+                      Contact Number: 202-225-5074
+
+                  Julie Tagen, Minority Staff Director
+                      Contact Number: 202-225-5051
+                                 ------                                
+
+           Subcommittee on Health Care and Financial Services
+
+                   Lisa McClain, Michigan, Chairwoman
+Paul Gosar, Arizona                  Katie Porter, California Ranking 
+Virginia Foxx, North Carolina            Minority Member
+Glenn Grothman, Wisconsin            Alexandria Ocasio-Cortez, New York
+Russell Fry, South Carolina          Jimmy Gomez, California
+Anna Paulina Luna, Florida           Greg Casar, Texas
+Nick Langworthy, New York            Becca Balint, Vermont
+Eric Burlison, Missouri              Summer Lee, Pennsylvania
+                                     Jasmine Crockett, Texas
+                         C  O  N  T  E  N  T  S
+
+                              ----------                              
+                                                                   Page
+Hearing held on March 28, 2023...................................     1
+
+                               Witnesses
+
+Mr. Frank Yiannas, M.P.H., Former Deputy Commissioner, Office of 
+  Food Policy & Response, U.S. Food & Drug Administration
+Oral Statement...................................................     4
+Dr. Peter Lurie, M.D., M.P.H. (Minority Witness), President & 
+  Executive Director, Center for Science in the Public Interest
+Oral Statement...................................................     6
+
+Written opening statements and statements for the witnesses are 
+  available on the U.S. House of Representatives Document 
+  Repository at: docs.house.gov.
+
+                           Index of Documents
+
+  * Statement for the Record, Consumer Brands Association; 
+    submitted by Rep. McClain.
+
+  * Statement for the Record, Consumer Reports; submitted by Rep. 
+    McClain.
+
+  * Statement for the Record, Dr. Ostroff, Dr. Acheson, Mr. 
+    Taylor; submitted by Rep. McClain.
+
+  * Statement for the Record, North American Society for 
+    Pediatric Gastroenterology, Hepatology and Nutrition; 
+    submitted by Rep. McClain.
+
+  * Questions for the Record: to Mr. Yiannas; submitted by Rep. 
+    McClain.
+
+  * Questions for the Record: to Mr. Yiannas; submitted by Rep. 
+    Porter.
+
+  * Questions for the Record: to Dr. Lurie; submitted by Rep. 
+    Porter.
+
+Documents are available at: docs.house.gov.
+
+
+                         FDA OVERSIGHT PART I:
+
+
+
+                      THE INFANT FORMULA SHORTAGE
+
+                              ----------                              
+
+
+                    Tuesday, March 28, 2023
+
+                        House of Representatives
+
+               Committee on Oversight and Accountability
+
+           Subcommittee on Health Care And Financial Services
+
+                                           Washington, D.C.
+
+    The Subcommittee met, pursuant to notice, at 10:03 a.m., in 
+room 2247, Rayburn House Office Building, Hon. Lisa McClain 
+[Chairwoman of the Subcommittee] presiding.
+    Present: Representatives McClain, Gosar, Grothman, Luna, 
+Langworthy, Porter, Ocasio-Cortez, Gomez, Balint, Lee, and 
+Crockett.
+    Mrs. McClain. The Subcommittee on Health Care and Financial 
+Services will come to order. Welcome everyone.
+    And without objection, the Chair may declare a recess at 
+any time.
+    I recognize myself for the purpose of making an opening 
+statement.
+    Welcome to the Subcommittee on Health Care and Financial 
+Services. To the witnesses, thank you very much for your 
+attendance and participation today in today's oversight hearing 
+of the FDA's response to the infant formula shortage. Today, we 
+will hear from food safety experts to better understand how 
+this crisis happened, how it could have been handled better, 
+and determine whether the FDA is able to prevent a future 
+crisis from occurring.
+    As many of you know, I have been outspoken in my 
+frustration with the FDA's response to the infant formula 
+shortage. The infant formula crisis underscores a major problem 
+with the FDA. The FDA is responsible for 78 percent of the U.S. 
+food supply, but the FDA is not prioritizing food safety. 
+Instead of owning its failures, the FDA has used COVID-19 as an 
+excuse to neglect inspections and justify poor performance. 
+While states like Michigan were shut down, preventing 
+Michiganders from making a living, the Federal Government was 
+100 percent open and was paying too many of its employees to 
+stay home and not do their jobs adequately. How did this 
+critical shortage happen? Well, let us go back to the 
+beginning.
+    In the summer of 2021, the FDA was aware of significant 
+supply chain disruptions resulting in potential shortages of 
+several types of infant formula. By September 2021, the Abbott 
+nutritional infant formula plant in Sturgis, Michigan, had not 
+been inspected in two years. This plant produces 20 percent of 
+the Nation's supply of baby formula. Then in October, an Abbott 
+whistleblower submitted a 34-page complaint to the FDA 
+outlining the concerns at the Sturgis facility.
+    Despite this whistleblower and several reports of babies 
+becoming sick, it took until January 31 of 2022 for the FDA to 
+begin inspecting the Sturgis plant. A couple weeks later, 
+Abbott voluntarily recalled its product and voluntarily shut 
+down its Sturgis plant. Had the FDA or the Administration done 
+anything to prepare for the closure or ensure the availability 
+of infant formula across the country? No, they had not. The 
+health of vulnerable infants that rely on formula is a single 
+food source that was not a priority.
+    Today, we have more information that we didn't have before. 
+We know that the FDA ignored the Abbott's employee's 34-page 
+disclosure, detailing concerns about the Abbott facility in 
+Sturgis. We know that the FDA's telework policy and lax 
+approach to oversight left it unprepared to address the 
+shortages when the Sturgis facility was shut down. Americans 
+are tired of excuses, like blaming COVID-19 or claiming there 
+isn't enough money in the budget while inspectors telework and 
+fail to do their job. FDA regulators were paid to do a job, but 
+chose not to use its remote inspection authority, which was 
+specifically intended by Congress to ensure FDA could prevent 
+this type of crisis. They did not do their job and collected a 
+paycheck on the backs of hardworking Americans. Americans want 
+accountability, especially as it pertains to their children.
+    Today, we are going to conduct a long-overdue oversight of 
+the FDA's response to the infant shortage formula. We are going 
+to determine the extent of the internal failures within the FDA 
+that led to the crisis, and we are going to discuss ways that 
+the FDA can actually improve its internal controls to prevent a 
+supply chain crisis of this magnitude from happening again.
+    We are also going to examine whether the FDA's proposed 
+restructuring will improve its ability to keep food safe. We 
+owe it to parents, caregivers, and infants to get to the bottom 
+of what happened and, most importantly, prevent it from 
+happening again because nothing has changed. We owe it to the 
+families of the babies that died as a result of this 
+contaminated formula. So, thank you to our witnesses, and we 
+look forward to hearing your testimony. And I now yield to 
+Ranking Member, Ms. Porter, for her opening statement.
+    Ms. Porter. Thank you very much, Madam Chairwoman. Today, I 
+want to focus on answering this question. If a big infant 
+formula company like Abbott had a bacterial contamination 
+today, would the whole formula market be at risk again? And to 
+answer that question, we need to know exactly how equipped the 
+FDA is to be in the prevention business now that we have 
+weathered the 2022 crisis. Today, if the FDA received a 
+whistleblower complaint about contamination, would it take four 
+months, as it did then, to get to the Deputy Commissioner's 
+desk, and over the last year, have we done enough to give the 
+FDA the authorities and resources it truly needs to be 
+proactive about preventing supply shocks in critical food 
+markets?
+    I know that some of my colleagues today, probably on both 
+sides of the aisle, will be chomping at the bit to bash a 
+Federal agency. That is not where I am. Discrediting an agency 
+without figuring out what went wrong and how to fix it is 
+simply malpractice, but I am not afraid to say that the FDA has 
+a lot of work to do, no matter who that offends. At the same 
+time, I am also not afraid to say that Congress is part of the 
+problem. We have to empower the FDA for it to succeed. That 
+means that when there is a crisis, we need to give the FDA 
+resources.
+    Last year, 12 Republicans joined Democrats to pass the 
+Infant Formula Supplemental Appropriations Act to give the FDA 
+funding to address and prevent formula shortages. For the other 
+192 lawmakers who voted no and are wondering why the FDA 
+couldn't do more, you should put your money where your mouth 
+is. But empowerment goes beyond money. A strong FDA must have 
+the authority to know what is going on in production between 
+inspections, and a strong FDA must be able to review present 
+and past testing data to help it make decisions. Even with the 
+best structure, leadership, and resources, the FDA is only as 
+well equipped as its legal authorities allow it to be. An 
+improved FDA is going to take some work, and it is not on any 
+one person that we can fire or blame. This is a complex issue 
+that is going to take real work to solve.
+    Now, as much as I am dedicated to solving the FDA part of 
+the puzzle, we wouldn't be doing our job if we said that that 
+is the only issue in the formula crisis. Ultimately, formula 
+manufacturers are responsible for producing safe products. They 
+have very few incentives to self-regulate when they are so 
+powerful, but that doesn't mean we can let Abbott off the hook 
+for its negligent behavior. Last year, Committee Democrats 
+launched an investigation into Abbott's negligence that 
+Republicans, sadly for me, declined to join. This needs to 
+change. This is partially an FDA problem, but it is also 
+partially a Big Business problem, and Republicans and Democrats 
+can't pick and choose who to hold accountable.
+    What is more, we have to stop turning a blind eye to 
+consolidation in our food markets. Abbott is 1 of 3 companies 
+that control 90 percent of the formula market. If something 
+goes wrong in one factory, there aren't many other options to 
+turn to. That doesn't make for resilient markets. By 
+diversifying supply, competitive markets could cure many of the 
+formula shortage risks even with the other mistakes that were 
+made.
+    Today, let us not give anyone or anything a pass, but at 
+the same time, let us not make this hearing an attack. There 
+are many commonsense moves we can regulate to diversify and 
+strengthen the infant formula market. Let us learn those 
+lessons today, and let us be successful by setting aside 
+politics, to listen and learn, and take proactive approaches. 
+That is what I intend to do, and I am grateful to the 
+Chairwoman for convening this important hearing. I yield back.
+    Mrs. McClain. Thank you, Ms. Porter, and I am pleased to 
+introduce our witnesses today who are here to discuss the FDA's 
+response to the 2022 infant formula shortage. Mr. Frank Yiannas 
+was the Deputy Commissioner of Food Policy Response at the Food 
+and Drug Administration from December 2018 to February 2023. 
+Previously, he was Vice President of Food Safety at Walmart and 
+Director of Safety and Health for the Walt Disney Company. He 
+received his B.S., Bachelor of Science, in microbiology from 
+the University of Central Florida and his Masters of Public 
+Health from the University of South Florida.
+    Mr. Peter Lurie is President and Executive Director for the 
+Center of Science in the Public Interest. Previously, Dr. Lurie 
+was an Associate Commissioner for Public Health Strategy and 
+Analysis at the Food and Drug Administration. He received his 
+Bachelor of Science in chemistry from Cornell University, M.D. 
+from Albert Einstein College of Medicine, and M.P.H. from the 
+University of California, Berkeley.
+    Pursuant to Committee Rule 9, the witnesses will please 
+stand and raise their right hands.
+    Do you solemnly swear or affirm that the testimony that you 
+are about to give is the truth, the whole truth, and nothing 
+but the truth, so help you God?
+    [A chorus of ayes.]
+    Mrs. McClain. Let the record show that the witnesses all 
+answered in the affirmative.
+    We appreciate all of you being here, and we sincerely look 
+forward to your testimony, to get to the bottom of how this 
+happened, and, more importantly, what do we do to make sure 
+this doesn't happen again.
+    So, let me remind the witnesses that we have read your 
+written statements, and they will appear in full in the hearing 
+record. Please limit your oral statements to five minutes. As a 
+reminder, please press the button on the microphone in front of 
+you so that it is on, and the Members can hear you. When you 
+begin to speak, the light in front of you will turn green. 
+After four minutes, the light in front of you will turn yellow. 
+When the red light comes up, your five minutes has expired, and 
+we would ask you to please wrap up.
+    So, with that said, I recognize Mr. Yiannas to please begin 
+with your opening statement.
+
+                       STATEMENT OF FRANK YIANNAS
+
+                       FORMER DEPUTY COMMISSIONER
+
+                    OFFICE OF FOOD POLICY & RESPONSE
+
+                    U.S. FOOD & DRUG ADMINISTRATION
+
+    Mr. Yiannas. Chair McClain, Ranking Member Porter, and 
+Members of the Subcommittee, thank you for inviting me here 
+today to testify before you and, more importantly, for your 
+interest in better understanding what happened, so we can 
+prevent an infant formula of this nature from ever happening 
+again. Our bosses, the American people, and especially the most 
+vulnerable among them, infants, deserve that from us.
+    In February of last year, already amid unprecedented supply 
+chain challenges brought upon by the pandemic, our Nation's 
+parents learned of several confirmed illnesses among infants of 
+a rare and potentially fatal bacterium called Cronobacter 
+Sakazakii. Those illnesses, linked to a single manufacturing 
+plant in Sturgis, Michigan, along with the findings of very 
+egregious conditions at the facility, led Abbott to execute the 
+largest recall of powdered infant formula in our Nation's 
+history. It has been over a year since that recall took place 
+and subsequent widespread infant formula shortage is that it 
+caused. There has already been a congressional hearing on this 
+matter. The FDA issued its own version of an investigation 
+report titled, ``Evaluation of The Infant Formula Response,'' 
+and there has been, as you know, extensive media coverage.
+    Yet despite these actions, a clear and transparent 
+understanding of what took place and the contributing factors 
+that allowed it to occur have remained elusive. While we stand 
+here today, more than a year since the recall, it is my view 
+that the state of the infant formula industry today is not much 
+different than it was then. The public health surveillance 
+system for this pathogen remains insufficient. The necessary 
+safeguards have not been advanced at an inadequate pace to 
+prevent future illnesses, and the infant formula supply chain 
+continues to lack serious resiliency. In other words, the 
+Nation remains one outbreak, one tornado, flood, or cyberattack 
+away from finding itself in a similar place to that of February 
+17, 2022.
+    As we all now know, FDA's response to a series of reports 
+of multiple infants infected with Cronobacter, along with the 
+letter received from a whistleblower, spanned a period of 
+several months, beginning in September 2021. It wasn't until 
+January 31 of the following year, four months later, that the 
+FDA began an official inspection of the Abbott Sturgis 
+facility. Had the Agency responded quicker to some of the 
+earlier signals, I believe this crisis could have been averted 
+or at least the magnitude lessened.
+    As Deputy Commissioner for Food Policy and Response at that 
+time, I was not made aware of the series of illnesses nor of a 
+whistleblower complaint until February 10 of 2022. From the 
+time I first learned of the incident, on that date of February 
+10, to the time it took Abbott to conduct a voluntary recall to 
+protect infants, it was seven days, seven days contrasted to 
+four months of time in which the series of events unfolded. 
+Clearly, I really wish, and I should have been, notified sooner 
+so I could have initiated containment steps earlier. Had that 
+happened, I believe we might not be here today.
+    There is no question that FDA's siloed and decentralized 
+foods program structure and culture contributed to and 
+exacerbated these delays. However, after the series of events 
+that allowed these issues to escalate and build one upon 
+another, by the time February 2022 rolled along, the 
+containment of this incident became my charter. Clearly, I 
+agree Abbott Nutrition bears the primary responsibility for 
+this crisis. However, there are numerous other lessons learned, 
+too, and there is more that the industry and regulators can and 
+must do. In my written testimony, I have included a list of 11 
+specific recommendations that I hope you have had a chance to 
+review.
+    In closing, the infant illnesses and deaths due to 
+Cronobacter, the Abbott recall, and the cascading and 
+devastating effects it had on infant formula availability and 
+families in our country was all a preventable--let me 
+emphasize--a preventable tragedy. It is my hope that we seek 
+lessons learned and take the necessary actions to prevent such 
+a crisis from ever happening again. I thank the Subcommittee 
+for your interest, and I look forward to answering your 
+questions.
+    Mrs. McClain. Thank you very much, Mr. Yiannas, and I 
+recognize the next witness, Mr. Lurie, to please begin with 
+your opening statement.
+
+                        STATEMENT OF PETER LURIE
+
+                     PRESIDENT & EXECUTIVE DIRECTOR
+
+               CENTER FOR SCIENCE IN THE PUBLIC INTEREST
+
+    Dr. Lurie. Good morning. I want to thank Chairman McClain, 
+Ranking Member Porter, other Committee Members for inviting me 
+as a witness on behalf of the Center for Science in the Public 
+Interest. I am its President and Executive Director and a 
+former Associate Commissioner at the FDA.
+    If we are to apportion blame for the now resolved powdered 
+infant formula crisis, the best place to start is at the Abbott 
+nutrition plant in Sturgis, Michigan, that produced the formula 
+associated with the outbreak because it was there that infant 
+formula, contaminated with Cronobacter, was destroyed years 
+before the outbreak, without FDA being notified. It was there, 
+according to a whistleblower, that there were lax cleaning 
+practices, falsified records, and relevant information hidden 
+from FDA inspectors. And it was there, that repeated FDA 
+inspections revealed standing water, decaying dryers, failure 
+to follow sanitary practices, and eventually multiple 
+environmental samples testing positive for Cronobacter.
+    My testimony touches on the consolidation in the industry, 
+but I am not going to address that further. You can read that 
+in my written testimony, but we want to focus here on what the 
+FDA did. Much of the FDA's response was entirely appropriate. 
+The Agency convened an Agency-wide incident management group, 
+sought to identify alternative suppliers, exercised enforcement 
+discretion on a case-by-case basis to allow product to reach 
+market, facilitated the importation of products from abroad, 
+and used a risk benefit approach to release the most critical 
+products.
+    In other respects, however, FDA's performance failed to 
+live up to the high standards that American consumers expect 
+and deserve. The whistleblower report went undelivered to 
+senior Agency staff for months, and the Agency took too long to 
+schedule a repeat inspection of the Sturgis facility, thus 
+delaying the ultimate recall, the Agency audit, and internal 
+review of its own response. But that report, while offering 
+many strong recommendations, failed to provide a clear account 
+of the events surrounding the recall or the mistakes made by 
+Agency officials.
+    Better prevention and management of future crises requires 
+at least three elements: authority, funding, and an effective 
+organizational structure. On funding, the Food and Drug Omnibus 
+Reform Act of 2022 required formula and medical food 
+manufacturers to develop a supply redundancy risk management 
+plan, mandated the creation of an office of critical foods at 
+FDA, and it also required critical food manufacturers to notify 
+FDA of interruptions in manufacturing likely to lead to 
+meaningful disruptions in supply. But the Agency needs 
+additional authorities and should have the authority to require 
+manufacturers to notify the Agency of all positive test results 
+and to require more frequent environmental testing in 
+production facilities. It should also be able to compel 
+manufacturers to submit supply chain data, and although not an 
+FDA issue, Cronobacter should be made a notifiable illness.
+    Second, the food program requires more funding. Rising 
+costs have left the program with a number of FTEs, similar to 
+what it had in 1978. But since then, FDA has been given 
+increasing responsibilities, including broad new mandates over 
+infant formula, dietary supplements, food labeling, and food 
+safety. The President's FY 2024 budget calls for $152 million 
+in necessary new funding for the foods program, and this 
+includes $64 million for health and safe food for all, which 
+includes support for improved oversight of infant formula. 
+There is also $12 million to establish a Center for Nutrition 
+that will house its Office of Critical Foods.
+    We at CSPI believe that number should be closer to $24 
+million because of the importance of nutrition programs. But 
+together, these programs would support increased review 
+capacity for infant formula premarket notifications, improved 
+surveillance of formula related adverse events, and the 
+development of better laboratory methods for Cronobacter, as 
+well as a more rapid review of inspection findings.
+    Finally, Americans deserve a food program with a structure 
+that is transparent, effective, and accountable. The formula 
+crisis laid bare the high level of dysfunction, breakdowns in 
+communication, and lack of clear lines of authority that 
+characterized the FDA's response. The reorganization announced 
+by FDA Commissioner Califf in January is an important step on a 
+path toward addressing these issues. It captures the spirit of 
+the Reagan-Udall Foundation report that the Agency had 
+requested, and it does so in a manner that minimizes internal 
+disruption.
+    First, it elevates the food program to the Deputy 
+Commissioner level, which is higher than any other FDA food 
+product center. Second, it dissolves a dysfunctional structure 
+whereby three senior officials, with authority over the human 
+foods program, all reported to the Commissioner, and none had 
+clear authority over the program. Third, it clarifies the 
+relationship between the Human Foods Program and the Office of 
+Regulatory Affairs which inspects facilities, and, as noted, it 
+establishes a new Center for Excellence in Nutrition and an 
+Office of Critical Foods. While more detail is still necessary 
+on this proposal, it is a significant step forward and lays the 
+groundwork for a foods program led by a leader who is more 
+empowered and accountable than any FDA food program leader in 
+recent history.
+    No mother, no father should ever again face a desperate 
+store-by-store search for a product simply to nourish their 
+infants. Thank you.
+    Mrs. McClain. Thank you, Dr. Lurie. I recognize Ranking 
+Member Porter for five minutes.
+    Ms. Porter. Thank you, Madam Chairwoman, for your patience 
+with my schedule today. The goal of this hearing is to stop the 
+entire baby formula market from being at risk when there is 
+bacterial contamination in a factory. So, I want to figure out 
+how much progress we have made toward that goal by looking at 
+what would happen if the Abbott contamination were to repeat 
+itself.
+    So, Mr. Yiannas, let's say that a major formula 
+manufacturer, and there are only a handful as you know, finds 
+bacteria in their supply today. Does the law say the factory 
+has to tell the FDA?
+    Mr. Yiannas. The answer to that is no, other than the 
+Abbott Sturgis facility, which, as you know, is under consent 
+decree.
+    Ms. Porter. So, I think this is really important that 
+everyone hear this. So, I am going to ask you one more time. 
+Let's say that a major formula manufacturer or factory found 
+bacteria in their supply today. Does the law require them to 
+tell the FDA?
+    Mr. Yiannas. The answer is no. They should, but they are 
+not required by law.
+    Ms. Porter. But surely the FDA is now keeping a close eye 
+on supply, so that they are ready for any disruption. What 
+resources and authorities are now in place for the FDA, even 
+though they have no requirement that anyone tell them, but 
+should the FDA learn, what are the resources available for the 
+FDA to do supply monitoring?
+    Mr. Yiannas. That is an area of the program that needs 
+further development. Historically, the FDA has been focused on 
+food safety and nutrition, not supply chain availability. But 
+after the pandemic, which I describe as the biggest test on the 
+U.S. food system in a 100 years, we all realized that as an 
+Agency, we needed more intelligence and data on how companies 
+and supply chains actually worked. There were attempts to try 
+to build those capabilities internally. They were met with a 
+lot of resistance because it wasn't part of the core mission. 
+But I am grateful that Congress, through the omnibus, has asked 
+FDA to set up an Office of Critical Foods and to develop those 
+type of capabilities.
+    Ms. Porter. Do you think the Office of Critical Foods, as 
+structured in the omnibus, will go far enough in supply chain 
+monitoring, and are we making fast enough progress in getting 
+it going?
+    Mr. Yiannas. We started making progress before the infant 
+formula crisis. Early during the pandemic, we knew that while 
+the virus didn't cause transmission or illnesses through food, 
+we knew it would wreak havoc to the food supply chain because 
+ill workers, if not available, would affect supply chain 
+continuity. And, so, we started to build those capabilities on 
+what I describe as a shoestring budget without authorities, but 
+it hasn't gone far enough. Although requests for additional 
+fundings have been made to the commissioners and acting 
+commissioners, like I said, it has been met with resistance. I 
+think after the recall of 2022, now there is a greater 
+appetite. Progress is being made, but it is not being made fast 
+enough.
+    Ms. Porter. Mr. Yiannas, since the law doesn't require, as 
+we just learned, factories to report contamination, what 
+incentives do monopolistic or a small number of suppliers, 
+monopolistic companies have to self-regulate when the market 
+isn't forcing the level of competition on quality and the FDA 
+is still building out its monitoring apparatus?
+    Mr. Yiannas. I think there is one critical component that 
+was mentioned in the opening comments, is public health 
+surveillance. Our ability to detect illnesses in society and 
+learn about why they occur, what are the food vehicles that 
+cause them, what are the contributing factors is critical to 
+informing future prevention.
+    Today, Cronobacter Sakazakii is not a reportable disease 
+other than in two states. And so, that is a real disincentive 
+for the industry to know what is really happening and for them 
+to take corrective action. So, I would say the time is now for 
+us as a Nation to make Cronobacter Sakazakii a nationally 
+notifiable disease and reportable in all 50 states.
+    Ms. Porter. And I really appreciate it, in your testimony, 
+that you came to us with concrete actions that we can take to 
+actually address and better prevent this. So, I noticed that 
+was your No. 1 recommendation in your list of 11. Dr. Lurie, 
+with my remaining time, can I ask for your thoughts on how far 
+you think reorganizing the Human Foods Program will go toward 
+creating the proactive FDA that we all need to be safe?
+    Dr. Lurie. Yes. Well, I don't think one should overstate 
+what can be accomplished through a reorganization. But I do 
+think that what Commissioner Califf has come up with is a very 
+reasonable attempt to, on the one hand, strengthen the food 
+program, giving it the kind of prominence within the Agency 
+that it has for a long time lacked, and yet at the same time to 
+do so in a way that acknowledges the way that the Agency is 
+currently structured such that any new situation is not unduly 
+disruptive, and I think that they have done a pretty good 
+balance of that. We have never had a Deputy Commissioner over 
+the entire foods program before. Even when Mr. Yiannis was 
+there, I am sure he will be the first to say that he never had 
+that kind of authority. But the vision, currently, is to do 
+exactly that and to elevate foods within the program in a way 
+that has never been the case before.
+    Ms. Porter. Thank you very much. I yield back.
+    Mrs. McClain. Thank you, Ms. Porter. The Chair now 
+recognizes Mr. Grothman.
+    Mr. Grothman. Yes, I will ask Mr. Yiannas a few questions 
+again. Currently, what is the structure of the FDA and its food 
+programs?
+    Mr. Yiannas. Currently, the foods program is what I call a 
+very distributed in a decentralized organization. You have the 
+Office of Food Policy and Response within the Commissioner's 
+office, an office that I lead, of about 40 people. You have the 
+largest office involving food, the Center for Food Safety and 
+Nutrition, which to this day is led by Dr. Susan Mayne, who has 
+recently announced her retirement. You have the field force----
+    Mr. Grothman. OK. I hate to cut you out, but they only give 
+us five minutes. Would you, therefore, describe the current 
+structure as decentralized?
+    Mr. Yiannas. Absolutely.
+    Mr. Grothman. OK. Do you think that is a problem where it 
+is also decentralized if you have a crisis like we had last 
+year?
+    Mr. Yiannas. I do. I think the decentralized and 
+distributed nature of the organization caused information 
+silos, not allowing critical data and information to flow to 
+those that needed it quickly and that needed it most.
+    Mr. Grothman. Did you elevate your concern before this 
+crisis?
+    Mr. Yiannas. Yes, sir.
+    Mr. Grothman. OK. But nothing was done about your concern 
+or----
+    Mr. Yiannas. In the time that I was at FDA, which was a 
+little bit over four years, I have had six different bosses, 
+whether permanent or acting commissioners. It has been a 
+rotating seat, and every single person that I have reported to 
+has known my concerns.
+    Mr. Grothman. OK. FDA Commissioner Califf released a 
+restructuring plan for the program. In your opinion, does the 
+Commissioner's restructuring plan do enough to resolve the 
+Human Foods Program's organizational issues?
+    Mr. Yiannas. Well, I believe Dr. Califf's plan is well 
+intentioned. I do not think it will completely solve the issues 
+at hand. No. 1, and I know we are limited in time, quickly is 
+it has been referred to as a new foods program vision. A vision 
+and strategy are very different than an organizational 
+structure. It is a reorg. You need a strategy first, and you 
+need a structure to support that strategy. That is No. 1.
+    No. 2, I will disagree with my colleague here. The proposal 
+does not even go as far as previous deputy commissioners once 
+had. At one time, previous deputy commissioners had oversight 
+over CFSAN, over their offices in the Commissioner's office, 
+over CVM, but not ORA. This new reorg does not even go as far 
+as to what previous deputy commissioners had.
+    Mr. Grothman. That is kind of shocking. In your opinion, 
+because I think when I think of the FDA, I think of drugs and 
+medical devices. Do you think the current culture at the FDA is 
+such that by focusing on drugs and medical devices, they do 
+that to the detriment of the food and food safety programs?
+    Mr. Yiannas. I think the drug program being as big as it 
+is, the fact that it is supported by user fees does hinder the 
+foods program, and the overall Agency's focus on the foods 
+program. As I mentioned, it is a very decentralized 
+organization, something I had not experienced in the private 
+sector. And as such, there are many multiple or microcultures 
+within the broader organization, and it hinders our ability to 
+create a one FDA culture.
+    Mr. Grothman. OK. And do you feel, therefore, just as far 
+as the head of the FDA, they kind of, again, because they are 
+focusing on the drugs and all the money that flows there, do 
+they kind of consider food--maybe it is an exaggeration to call 
+it an afterthought--but a little bit of an afterthought.
+    Mr. Yiannas. My experience and decisions that have been 
+made, including financial ones on supply chain monitoring, food 
+has taken a backseat to drugs.
+    Mr. Grothman. OK. Is it appropriate for the FDA to inspect 
+foods in the same way the FDA inspects drugs and medical 
+devices, do you think?
+    Mr. Yiannas. The approach would be slightly different. It 
+is a different food with different risk factors, but we should 
+be inspecting food facilities for sure.
+    Mr. Grothman. OK. In December, the Reagan-Udall Foundation 
+for the FDA conducted an operational evaluation of the FDA's 
+Human Foods Program. Are you familiar with that report?
+    Mr. Yiannas. I am.
+    Mr. Grothman. OK. Could you go into it a little bit?
+    Mr. Yiannas. Sure. The Commissioner and the Principal 
+Deputy Commissioner selected Reagan-Udall because of the close 
+associations with them. I do think they attempted to create a 
+fairly independent report. They provided a series of options 
+for restructuring with the Commissioner having the latitude to 
+choose those different options. One of the things I really 
+liked in their report is that they emphasized culture. You 
+cannot fix FDA or strengthen FDA by just doing a reorg. You 
+also have to address cultural issues.
+    Mr. Grothman. OK. And do you think to a certain extent that 
+it would be addressed if we separated the human foods and drugs 
+division that forces maybe a stronger culture?
+    Mr. Yiannas. I think that could be a factor that could 
+contribute to a stronger one food program structure. There are 
+other ways to do it as well.
+    Mr. Grothman. OK. Thank you.
+    Mr. Gosar. [Presiding]. I thank the gentleman. The 
+gentlelady from New York, Ms. Ocasio-Cortez, is recognized.
+    Ms. Ocasio-Cortez. Thank you, Mr. Chair. Mr. Yiannas, 
+Abbott Nutrition, Mead, and Perrigo control 90 percent of the 
+infant formula market, correct?
+    Mr. Yiannas. Yes.
+    Ms. Ocasio-Cortez. And at the time of the infant formula 
+recall last year, Abbott manufactured 43 percent of the 
+powdered infant formula produced in the U.S. Is that correct?
+    Mr. Yiannas. That sounds approximately correct.
+    Ms. Ocasio-Cortez. And so, I think it is fair to say that 
+any impact in supply from any one of these companies would 
+profoundly impact the supply of formula for all Americans. And 
+I wanted to dig into a little bit more of what happened at 
+Abbott last year. Now, you, of course, were at the FDA during 
+the Abbott recall last year, correct?
+    Mr. Yiannas. I was.
+    Ms. Ocasio-Cortez. And at that time, in October 2021, the 
+FDA received a whistleblower complaint regarding the sanitation 
+conditions of Abbott facilities in Sturgis, Michigan. Could you 
+recall some of the details of what that whistleblower complaint 
+alleged?
+    Mr. Yiannas. I can. It was a lengthy letter, 34 pages, I 
+believe. There were allegations of falsification of records, of 
+trying to keep information away from Federal inspectors. There 
+were very serious allegations, I thought, in that whistleblower 
+complaint.
+    Ms. Ocasio-Cortez. And after that complaint, the FDA did 
+launch an investigation in January 2022, correct?
+    Mr. Yiannas. Prior to that, they interviewed the informant, 
+but they did go and inspect that facility in January 2022.
+    Ms. Ocasio-Cortez. And, in fact, it seems that the 
+conditions were so horrible in this facility that the DOJ 
+initiated a criminal investigation into the unsanitary 
+workplace conditions in the Sturgis facility. Is that correct?
+    Mr. Yiannas. That has been documented in the public 
+literature, but I would say that is a conversation you should 
+have with the DOJ.
+    Ms. Ocasio-Cortez. We also know that Abbott faced a number 
+of lawsuits alleging tainted baby formula long before the 
+recall happened. Following a seven-year legal battle for one 
+family whose infant suffered debilitating brain damage, Abbott 
+successfully sought a court order sealing trial testimony and 
+evidence regarding Abbott's testing and food safety protocols 
+in that same plant. And that was seven years before the 
+consumption of unsafe formulas resulted in the deaths of 
+several more infants that led to the shortage.
+    We also see a pattern here that the Abbott company, which 
+produces Similac and other major formulas, used ruthless 
+tactics during their legal team to bury a lot of this 
+information that its baby formula was causing brain damage or 
+death in children for years before the recall happened. But I 
+wanted to look a little bit and dig into the FDA's authorities 
+that you were speaking into and what we need to do to prevent 
+something like this from happening again?
+    Mr. Yiannas, to kind of repeat the point earlier, does the 
+FDA currently have the authority to require firms to notify the 
+FDA of positive results even when it does not leave the 
+facility?
+    Mr. Yiannas. It does not.
+    Ms. Ocasio-Cortez. It does not. And is the FDA, in your 
+view, adequately funded and resourced to launch more aggressive 
+inspections in these types of facilities?
+    Mr. Yiannas. I believe we can do more with the existing 
+resources. Clearly, with more resources, there is even more you 
+can do, but I think with the current, existing resources, we 
+can do a good job within baby formula.
+    Ms. Ocasio-Cortez. And does the FDA currently have a clear 
+congressional authority to issue a mandatory recall, instead of 
+just relying on these corporations to voluntarily issue a 
+recall?
+    Mr. Yiannas. We do through something called the Food Safety 
+Modernization Act for foods under FSMA. Infant formula has its 
+own rule. My experience has been if you present a firm with the 
+evidence, you can execute a recall much faster than relying on 
+a mandatory recall. If needed, the Agency won't hesitate to use 
+it, but that takes longer, and usually the quickest path to 
+action is to present the evidence so that the company will do 
+so, and they usually do.
+    Ms. Ocasio-Cortez. And so, going back through this timeline 
+here, Abbott did issue that voluntary recall after the FDA 
+presented its evidence, correct?
+    Mr. Yiannas. They did.
+    Ms. Ocasio-Cortez. And so, in your assessment, kind of 
+looking through these things, it would be helpful, and one of 
+the things that we should probably move on this Committee is to 
+empower the FDA to require those firms to notify you. And, I 
+know you had mentioned earlier about perhaps some additional 
+measures, but for the purpose of the Committee and the 
+proceedings, are there any other additional provisions that you 
+would emphasize as well for us to consider?
+    Mr. Yiannas. I would. Thank you for that very good question 
+because I think we are all trying to prevent things like this 
+from happening in the first place. And I agree 100 percent, the 
+primary responsibility resides on Abbott. Abbott bears this 
+because they ran an operation that was under a lack of control, 
+insanitary, and producing products that were prone to 
+contamination. We need to make Cronobacter a nationally 
+notifiable disease, we need to strengthen infant formula 
+manufacturing standards, and we need to use state-of-the-art 
+modern manufacturing approaches.
+    Some of these plants, as you know, are very old. I refer to 
+them as legacy facilities, built in the 1940's. In the Abbott 
+Sturgis facility alone, there was a spray dryer that had 
+multiple cracks that was purchased and installed in 1960's. 
+That piece of equipment is older than I am. There is a lot that 
+has changed. We know a lot more now. We should require that 
+they strengthen their preventative controls.
+    Another thing we should do, is we should ask them to do 
+more robust verification that their procedures are working. One 
+of the Achilles' heel that has allowed the Agency to become 
+complacent is that our rule currently says infant formula must 
+be tested at a N equals 30 sampling plan. That means that 30 
+samples are taken, 10 grams of sample per each, 300 grams are 
+tested for Cronobacter Sakazakii. Some of these manufacturing 
+runs can be huge, 50,000, 60,000 pounds. Three hundred grams is 
+insignificant, and the probability of them finding 
+contamination is virtually zero. It has been a free pass for 
+them to say it is tested negative, we can sell this product.
+    Mrs. McClain. [Presiding.] Thank you, Mr. Yiannas. Thank 
+you. The Chair now recognizes, Mrs. Luna.
+    Mrs. Luna. Thank you guys for being here today. The 
+bacteria outbreak in Abbott's nutrition manufacturing facility 
+in Michigan is, in my opinion, just one of the many examples of 
+the FDA's lack of oversight regarding not just food standards, 
+but I would also argue, too, sometimes in the pharmaceutical 
+industries. The FDA, as I am sure you all know, is intended to 
+be the people's last line of defense, and although Abbott was 
+responsible for not reporting this earlier, I do believe that 
+there was a combination of issues that led to unfortunately 
+this happening.
+    In fact, the FDA's failure to adequately inspect Abbott and 
+listening to whistleblower's concern contributed greatly to the 
+formula shortage as a whole, and it took months for the FDA to 
+respond. Had they responded, infants could have been saved. And 
+I would like to note that it stated in the briefing that we got 
+that 40 percent of infants infected will die if they have this 
+bacteria, which means that of the 15 Members who sit on this 
+Committee, if 40 percent were infected as infants, six of these 
+Members would not be here, so that is incredibly alarming.
+    But it is clear that FDA is not doing their job and does 
+not prioritize food safety as well as many of the food 
+additives, including hazardous food dyes like Red 40, Yellow 
+Number 5 and Number 6, are banned in other countries around the 
+world because of their harmful side effects, yet permissible in 
+the United States.
+    The FDA continued to launch an ad campaign, lecturing 
+parents about how alternative infant food formulas may lack 
+nutrients vital to an infant's growth, yet has also, at the 
+same time, approved drugs such as mifepristone for pregnant 
+women that starves an unborn child of nutrients until they die, 
+or what about the 1960's debacle with FDA approving thalidomide 
+and actually covering up some of the investigations, according 
+to an article by The New York Times, in an effort to keep this 
+knowingly dangerous pharmaceutical on the market to the 
+American people. So, needless to say, as a Member of Congress, 
+I do not really trust the FDA.
+    It seems though that the FDA is for sale and will work with 
+corporations to keep harmful products on the market, knowing 
+the outcomes. We need to remove food additives that are 
+detrimental to our health, and pharmaceuticals, and improve our 
+inspections for foods across the board. Consumers buying food 
+should be able to buy food and be able to trust it, not 
+chemicals and additives that are toxic and known to carry 
+risks. I guess my main concern, because I have heard your 
+opening statement, and I appreciate your solutions to this, but 
+why is it that Abbott is still an FDA-approved manufacturing 
+facility for infant formula if they have knowingly covered this 
+up because that is what it seems like.
+    Mr. Yiannas. The facility did voluntarily shut down. Abbott 
+has several manufacturing facilities. This occurred at the 
+Sturgis facility. The facility did voluntarily shut down and, 
+through the consent decree, there were a series of processes 
+that they had to undergo to give us confidence that they could 
+produce safe product. And they met those requirements per the 
+consent decree, and so, now they are back in operation.
+    Mrs. Luna. Has the FDA made any changes because I 
+anticipate that due to COVID, you guys were not able to get 
+into some of these facilities, but to only go to three of the, 
+I believe, it was 23 facilities? It seems like, God forbid, 
+something like this happens in the future, that needs to be 
+changed. Frankly, if I was one of these parents, I would be 
+completely ticked off at the FDA for not listening to those 
+whistleblower complaints earlier.
+    Mr. Yiannas. I think that is a fair criticism. Thank you. 
+The FDA developed an internal policy that it would monitor 
+COVID transmission around the country, and if it was above a 
+certain level, they would not do inspections, even though they 
+were deemed critical. If you look at other segments of the food 
+safety profession, USDA inspectors continue to show up. They 
+were considered critical infrastructure. If you look at many of 
+the states, state inspectors considered to show up, so I think 
+that is a fair conversation to have. Heaven forbid there is a 
+future pandemic? If our FDA inspectors, critical 
+infrastructure, critical personnel in critical structure, and 
+is there a role for them to play?
+    Mrs. Luna. But also, to something outside of COVID because 
+it is very possible. I mean, I hate to say it, but I do not 
+trust China, and biochemical is a very real threat in this 
+country. So, obviously something outside of COVID would be 
+important to keep you guys able to do your jobs.
+    Mr. Yiannas. We also need to fully explore other means to 
+gather intelligence, whether it is remote access of data and 
+records.
+    Mrs. Luna. OK. Thank you very much. Chairwoman, I yield my 
+time.
+    Mrs. McClain. Thank you, Mrs. Luna. The Chair now 
+recognizes Ms. Balint.
+    Ms. Balint. Thank you, Madam Chair. Before I begin, I just 
+want to say a colleague earlier mentioned mifepristone. I just 
+want to say it is a safe and effective medication. We have to 
+focus on infant formula today and not get distracted by 
+essential medications that we know are safe and women should 
+have access to them. I want to get that on the record.
+    Next thing, you know, I can really empathize with parents 
+who had to deal with the shortage. Breastfeeding was very 
+challenging for me and my son, and I can certainly understand 
+the intense fear and stress that comes when you are a parent 
+and you do not know how you are going to take care of your kid. 
+I mean, there is nothing more stressful as a parent than that. 
+And one Vermont mom described bone-deep anxiety during the 
+crisis--bone-deep anxiety, wondering whether she would be able 
+to find formula for her child, and that really resonates with 
+me.
+    We absolutely owe it to parents and, of course, children to 
+make sure that we do not face another crisis, and I want to 
+thank you for being here today so that we can ensure that this 
+does not happen again. I represent Vermont, which is a rural 
+state, and I am very concerned about how the crisis impacted 
+low-income folks and rural Americans in particular. According 
+to the Kaiser Family Foundation, infants born into lower-income 
+and rural households are much more likely to rely on infant 
+formula than other babies. Formula shortages hit these 
+communities harder. More than 50 percent of infant formula 
+across the country is purchased through the WIC Program, an 
+excellent program which helps us to take care of children in 
+this country. Far too many parents were forced to drive and 
+drive and drive to try to find formula, to try to find food for 
+their kids, and this is especially challenging in rural 
+communities.
+    So, Dr. Lurie, how can we help ensure that going forward, 
+low-income and rural families are a focus of our national 
+strategy and response for preventing future shortages?
+    Mr. Lurie. Well, I think, as you probably know, the 
+government has an enormous role to play when it comes to the 
+provision of infant formula in this country since more than 
+half of all infant formula is actually paid for by the WIC 
+Program.
+    Ms. Balint. Yes.
+    Mr. Lurie. So, that is absolutely critical. I think that, 
+from what I can tell from the outside, the FDA did a pretty 
+good job once the rubber really hit the road in this problem, 
+to communicate with USDA, which runs the WIC Program, and to 
+try to communicate with them in ways that kept the supply going 
+best they could. But in the end, with the concentration in the 
+market, there was just no way to keep up. And parents, 
+understandably, began to hang on to product for fear that they 
+would not be able to find it in the future, and that ended up 
+with the kinds of empty shelves that we wound up seeing.
+    Ms. Balint. And the other thing that I think we are all 
+still reeling from, is there was the crisis of needing to drive 
+from store to store trying to get ahead of the run on infant 
+formula. But there is also a deep concern that I have about 
+price gouging, and I have talked about that in this Committee 
+before. And, so, you know, as you saw desperate parents 
+realizing they could not find it in their local area and 
+driving to the next town and the next town and the next town, 
+they would then turn to the internet to find the formula that 
+they could not find in the stores. And we began to hear stories 
+of price gougers, getting up to 300 percent more for a can of 
+infant formula. And I know that the Biden-Harris Administration 
+worked to crack down on the price gougers, but I do think 
+Congress can do more to ensure that these scammers, individual 
+scammers, and also greedy companies do not prey on the 
+vulnerable families in these situations when all they are 
+really thinking about is how do I feed my kid, right? How do I 
+feed my kids?
+    So, Dr. Yiannas, why is a whole-of-government approach to 
+this, a better response to this crisis? How do we need to look 
+across government to have a response that really is meeting all 
+of these individual issues?
+    Mr. Yiannas. Thank you. That is an excellent question, 
+especially as it relates to infant formula supply and 
+resiliency because FDA is limited in what it can do. Clearly, 
+FDA sets safety and nutrition standards, and we have spent an 
+amount of time talking about that. FDA plays a role in market 
+availability by accelerating approvals, and there is more that 
+we can do, but there is only so much the FDA can do.
+    And a lot of the factors that drive the structure of the 
+infant formula supply chain, its availability and resiliency, 
+rely on other parts of government, for example, USDA and the 
+WIC Program, as you mentioned. American taxpayers through the 
+WIC Program buy over 50 percent of that infant formula, and 
+there is something called sole-source state contracts, really 
+creating an artificial market incentive for certain players to 
+dominate in particular states.
+    If you have a crisis, with certain players dominating 
+market share in a state, it is hard to be nimble and recover, 
+and so, we have to look at the WIC contract process. The 
+executive office of the Biden Administration was very helpful 
+with the DPA and allowing us to make priority purchases to make 
+sure critical ingredients that were in short supply went to 
+these infant formula manufacturers. So, I found that this 
+response requires an all-of-government effort, and we should 
+continue to look at ways to strengthen how an all-of-government 
+response occurs for shortages of critical foods.
+    Ms. Balint. Thank you.
+    Mrs. McClain. Thank you. The Chair now recognizes Mr. 
+Langworthy.
+    Mr. Langworthy. Thank you so much, Madam Chairwoman, and 
+thank you to the witnesses that have joined us here today. I 
+mean, this is a topic, as my colleague from Vermont just 
+outlined, I mean, that has really tackled families. I have 
+staff members that have newborns that are still struggling with 
+supply. I am a parent of a young son, five months old, myself. 
+I mean, while this has not affected our family, it has affected 
+so many of our constituents, and that helpless feeling of a 
+parent that does not know how they are going to be able to feed 
+their child is one that I think it is incumbent on this body to 
+make sure it never happens again in this great country that we 
+live in.
+    Mr. Yiannas, when was the FDA made aware of the Cronobacter 
+outbreak at Abbott Sturgis plant?
+    Mr. Yiannas. Well, the very first report of a Cronobacter 
+illness linked to that plant was September 20.
+    Mr. Langworthy. OK. Of 2021?
+    Mr. Yiannas. 2021.
+    Mr. Langworthy. And, Mr. Yiannas, is it true that soon 
+after, in October 2021, the FDA received a whistleblower 
+disclosure message regarding Abbott Nutrition's plant?
+    Mr. Yiannas. That is true.
+    Mr. Langworthy. OK. Now, to your knowledge, when was the 
+earliest date that you received the notice of the whistleblower 
+disclosure?
+    Mr. Yiannas. I personally was not made aware of it until 
+February 10 of the following year.
+    Mr. Langworthy. OK. Now, Mr. Yiannas, that is four months 
+after it was initially reported. What did the FDA blame this 
+delay on?
+    Mr. Yiannas. Several things. Initially, as you heard in the 
+original congressional hearing, there was a lot of focus and 
+discussion about mail rooms and that the mail rooms lost it. 
+That whistleblower complaint was sent by FedEx, hard copies to 
+multiple individuals and multiple offices, so that means it 
+would have been lost at multiple office: at the White Oak 
+Campus, at the CFSAN Campus in College Park, also a field 
+office located in the north. So, allegedly, it was lost in the 
+mailroom.
+    We do know that some individuals received copies by emails, 
+and in hindsight, those should have been escalated to my office 
+very rapidly, but those are some of the reasons that were 
+reported. And then finally, in the report that the FDA put out, 
+they said that we lacked the systems to actually detect these 
+signals and escalate them.
+    Mr. Langworthy. So again, it is the decentralization of the 
+FDA that may be an issue here. I mean, it is 2023. The White 
+House has declared the pandemic is over. It is almost two years 
+since the first infant formula shortage, and our country is on 
+the verge of perhaps another. In your opinion, how can this 
+still be happening?
+    Mr. Yiannas. I think that we have not taken enough urgent 
+action. I think there are some things that we need to do. The 
+long-term resiliency of the infant formula market is not 
+something that can be solved overnight, so we are going to have 
+to be intentional, and I hope Congress will request it. I am 
+grateful that through the omnibus, you have asked that there be 
+a resiliency report conducted, analysis of the infant formula 
+supply chain resilience, and reported back to Congress. That is 
+a good step, and we have to look at what are the market 
+incentives and what are the contracts that WIC uses. For 
+example, I think WIC contracts actually contributed to this 
+crisis. But WIC might very well be part of the solution to the 
+crisis, and so, but there is more we can do on the prevention 
+that we can do faster. The resiliency and market consolidation 
+is going to take a little bit longer to resolve.
+    Mr. Langworthy. Now, I am aware that our infant formula 
+supply is not even back at full capacity yet. Now, why is that 
+taking so long? Is there not enough urgency delivered through 
+the court of public opinion to these companies to wake up and 
+ramp this up?
+    Mr. Yiannas. One of the things we did--it is a great 
+question--very rapidly building on this data analytic platform 
+that I have described that we call 21 FORWARD to monitor food 
+supply chains. We started adding additional functionality very 
+quickly to deal with the current crisis. And one of the things 
+the FDA has today is really impressive, that they did not have 
+before, we have manufacturers in this country of infant formula 
+reporting production volumes to the FDA on a weekly basis, not 
+required by law, but they are doing it.
+    FDA knows how much infant formula is being produced. We 
+have good quantitative data and what is the national need to 
+feed all infants in this country. So, we know production and 
+consumption. We are tracking sales data. We are tracking how 
+much infant formula is on shelves and where it is located 
+through in stock improvement rates. And I can tell you that the 
+call to action has been met. All the private sector companies 
+that I have talked to have ramped up production. There has been 
+what we call SKU consolidation. They limited the types of 
+products they produce, so they can get more product out, so 
+store shelves still will look scarce because there are less 
+SKUs, stock keeping units, available, there is less variety. 
+But I think in short order, we should find ourselves in a very 
+much better situation.
+    Mr. Langworthy. Thank you, Mr. Yiannas. I yield back.
+    Mrs. McClain. Thank you. The Chair now recognizes, Ms. 
+Crockett.
+    Ms. Crockett. Thank you, Madam Chair, and thank you so much 
+for being here today. Mr. Yiannas, I want to give you a little 
+bit of an opportunity to flesh out some of the things that you 
+have been talking about. But obviously, we have these 
+constraints, because I think that you are offering us a really 
+good glimpse into solutions, which sometimes in this building, 
+as a freshman, I feel like we don't really get to solutions. 
+And I think, I know at least in my district, they do not want 
+us just kind of jumping on the bandwagon of rhetoric. They 
+actually want us to solve problems.
+    And so, one of the things that you have mentioned that I 
+think is interesting, as someone who also serves on the Ag 
+Committee, and it is technically in Ag right now, is you talk 
+about WIC, and you say that WIC was part of the problem as well 
+as it could be part of the solution. Now, the way that my ears 
+interpret that is that we have an opportunity in WIC because 
+these are Federal contracts, right? And so, with that, we can 
+then put certain constraints, regulations, things like that on 
+our baby formula, and honestly, kind of like what we saw in the 
+last session.
+    There was a vote that said that we would not be charging 
+over $35 for insulin. And next thing you know, guess what? The 
+private sector, Eli Lilly followed suit because there are so 
+many government contracts that, honestly, where are you going 
+to compete, right? And so, if we have got 50 percent--I think 
+that was the number that you gave us--of the folk that are 
+actually getting this formula, they are getting it through WIC. 
+So, can you just expand a little bit or expound a little bit 
+upon how you think we can also be a solution?
+    Mr. Yiannas. Sure. I think USDA is very open to this, and I 
+would encourage you to have this conversation with them. They 
+are reimagining the WIC Program, but if you think of the infant 
+formula supply chain, the fact that it is very in-elastic, and 
+very fragile and consolidated, generally supply chains form 
+this way through market incentives, its resources, its dollars. 
+The WIC contract of sole-source contracting, picking winners 
+for certain states, there have been studies that show, if you 
+get a contract, if a manufacturer gets a contract in a state, 
+they dominate in that state. Even for the infant formulas that 
+are purchased outside of WIC, they just dominate.
+    So, we have created an artificial intelligence on picking 
+winners and losers for who is going to have the majority of 
+infant formula share in a particular state. But we can use this 
+artificial market incentive, the fact that the government buys 
+about half of all infant formula, to create a more diversified 
+contract system, so you don't have sole ownership or sole 
+dominance in particular states. When a crisis like this 
+happens, if you are in, let us say, an Abbott-run state, all 
+the grocery stores had SKUs and supply chains that were 
+dependent on Abbott. And that is not very easy to change very 
+quickly, and so, I think diversifying the contract process is a 
+key to the solution.
+    The other thing I was very sensitive was to parents that 
+could not get WIC products online. And many of you know this, 
+WIC availability wasn't available online, and people had to 
+travel many miles to find products. It would have been nice 
+that even if you were a WIC customer, you could have gone 
+online and searched for the infant formula that you needed.
+    And so, I would encourage this Subcommittee, Congress, and 
+all relevant regulatory agencies to really work hard on how do 
+we create the types of flexibilities and market incentives to 
+create a more resilient infant formula supply chain in this 
+country. It can be done. I don't think it is going to be that 
+difficult, but we need to make sure that the groups are working 
+together, that they are held accountable, and they are given 
+timelines to make it happen because in my sense, the past year, 
+things have moved along too slow.
+    Ms. Crockett. Thank you so much for that. And finally, I 
+just want to talk for a second, you mentioned that the FDA 
+can't, essentially,--I am paraphrasing--that the FDA can't just 
+do whatever they want to do. I mean, they have to have the 
+authority to do various things. And so, you know, the FDA gets 
+its guidance from our Administration as well as from the 
+Congress, and it seems like you are suggesting fixes that would 
+implicate more regulations. What I hear you talking about is, 
+maybe, listing this particular bacteria as one of those things 
+that has to be reported because we can't rely on those that 
+have a financial incentive to always do what is right. That is 
+what regulations are for. So, it sounds like you are suggesting 
+that we implement a few more regulations. Am I understanding 
+you correctly?
+    Mr. Yiannas. There are additional regulations needed to 
+strengthen protections, no doubt. I would also say the entire 
+infant formula industry needs to wake up and say what they are 
+doing is not adequate enough. I am a strong believer for 
+regulations, but I am also a strong believer for the free 
+market to set the right type of conditions and standards 
+because they are responsible and not being held accountable.
+    Ms. Crockett. Thank you so much.
+    Mrs. McClain. Thank you, and, Mr. Yiannas, I do agree with 
+you, accountability is a wonderful tool, and I appreciate when 
+the accountability is there for all parties, so thank you for 
+that. The Chair now recognizes Mr. Gosar for five minutes.
+    Mr. Gosar. Thank you. Today's testimony only highlights the 
+FDA's negligence in the response to the compromised baby 
+formula. A lag time of four months from the time the FDA first 
+received the news of food safety violations in the Michigan 
+plant to inspection, is obviously unacceptable. Instead of 
+ensuring safe food consumption, the FDA focused on approving 
+COVID-19 vaccines that have led to devastating consequences for 
+Americans.
+    As of January of this year, over 22,000 deaths and over 1 
+million adverse events caused by COVID-19 vaccines have been 
+voluntarily reported to the CDC and the FDA. These numbers make 
+COVID-19 vaccine 226 times as deadly as the flu vaccine, but 
+these scary numbers may be on a low estimate. A 2010 study from 
+the Agency of Health Research and Quality, found that the CDC 
+Vaccine Adverse Event Reporting System undercounted vaccine 
+deaths by a factor of 100. It is high time the FDA returned to 
+its focus on protecting people's health rather than pushing 
+experimental dangerous vaccines.
+    Mr. Yiannas, when did you first learn of the food safety 
+violations occurring in the Michigan plant?
+    Mr. Yiannas. February 10.
+    Mr. Gosar. Now, the whistleblower relayed violations in FDA 
+in October 2021. If you had known about these violations, what 
+immediate actions would you have taken?
+    Mr. Yiannas. Yes, I would have demanded that an inspection 
+be done sooner. As you know, the inspection didn't occur until 
+late January 2022. I would have demanded that the informant be 
+interviewed sooner. As you know, there was a two-month gap 
+between which the informant was interviewed. I would have 
+questioned the termination or outcome of that interview, which 
+concluded by the investigators that conducted it, that it was 
+too vague for follow up or action. If you read that 34-page 
+report and the allegations in there, I don't think you would 
+say it is too vague. So, there would have been, I believe, with 
+certainty quicker action, quicker inspection, follow up, 
+additional testing. And, I believe that had we responded 
+sooner, we could have curtailed or minimized this from reaching 
+such a catastrophic level.
+    Mr. Gosar. So, why do you believe the FDA officials ignored 
+the emails containing these allegations of food safety 
+violations from the whistleblower?
+    Mr. Yiannas. I can't speak for the individuals that saw and 
+why they didn't act on it more seriously, but I----
+    Mr. Gosar. I mean, in other details where we have 
+whistleblowers, I mean, we respond very quickly to them, so, I 
+mean----
+    Mr. Yiannas. We should have.
+    Mr. Gosar [continuing]. it seems very odd.
+    Mr. Yiannas. We should have.
+    Mr. Gosar. Could you please explain the extent of the food 
+safety violations occurring in the Michigan plant and what 
+exactly were the violations?
+    Mr. Yiannas. Well, I will tell you the conditions. I don't 
+have a copy of the inspection report in front of me, but a lot 
+of people have questioned how egregious were the conditions at 
+Sturgis? And I would say they were very egregious. First of 
+all, we had four reported cases of Cronobacter Sakazakii, all 
+linked to products produced in Sturgis. Sturgis is one of 21 
+plants servicing the U.S. market. While they had a large market 
+share, the fact that all four illnesses consumed products 
+produced in Sturgis was significant.
+    Upon our inspection, we found very egregious conditions. We 
+found critical equipment, such as spray dryers, that had major 
+cracks and disrepair. I mentioned this and I wrote them in my 
+testimony. We found water leaks and water. Standing water in a 
+dried infant formula plant is not a good mix. Our own 
+inspectors found abundant samples positive for Cronobacter 
+Sakazakii itself. We found up to five different genetic strains 
+of Cronobacter Sakazakii, and we found evidence that Abbott 
+itself had found Cronobacter in finished product, not just the 
+environment, in finished product and never reported to it to 
+us.
+    I have already explained that it is unlikely to test it in 
+finished product. So, I think the abundance of evidence 
+suggests that Abbott was operating under very unsanitary 
+conditions and likely was sporadically contaminating infant 
+formula. And it evaded final product testing because of 
+probabilities and served to infants across the----
+    Mr. Gosar. So, I'm going to fast track these. You made 
+mention of monopolistic contracts, and I would like to explore 
+that a little bit with you in regards to maybe how we could do 
+this, maybe a fast track mechanism where you have more upfront 
+dictations and then predicated follow-throughs. But, you know, 
+I have a substantial ag community, and their response is very, 
+very quick. With E. coli on lettuce, it is very, very timely. 
+So, could you explain that? Because these contracts are very 
+similar to what DOD has as their problem in sole sourcing.
+    Mr. Yiannas. Yes, those contracts are run through USDA. So, 
+I am not an expert on it and I won't be able to articulate it 
+fully, so I highly recommend you talk to them, but I do think 
+where there is a will there is a way, and we can accelerate 
+action on WIC contracts.
+    Mr. Gosar. Thank you, Mr. Yiannas.
+    Mrs. McClain. Thank you, Mr. Gosar. The Chair now 
+recognizes Ms. Lee.
+    Ms. Lee. Thank you, Madam Chair. So, we spent the morning 
+listening to people attack a formula supply chain they 
+described as premature and inefficient recalls that worsen the 
+issue, but when we are talking about sick babies, can we be too 
+cautious? The reporting mechanisms did not work. We must do 
+more to make sure this doesn't happen again. It is beyond 
+regulation. This is a need to protect our most vulnerable 
+population--infants--so we cannot allow weak regulations to 
+allow children to die. Dr. Lurie, how should infant formula 
+manufacturers have notified us of suspected contamination?
+    Mr. Lurie. Well, as you know, there is no requirement at 
+present for them to do so. And so, you know, if I were an 
+infant formula manufacturer, at the moment I have a sample that 
+tests positive, my response is not to destroy product and tell 
+nobody. My response is to test more widely. My response is to 
+tell the regulatory agency involved, but that is not what they 
+did.
+    Ms. Lee. Thank you. So, changing gears, as has been 
+mentioned, infant formula manufacturers played a critical role 
+in keeping babies fed and safe from foodborne illnesses. But 
+when 90 percent of our supply is provided by three 
+manufacturers like Abbott, American consumers lose. It took 
+just one Abbott factory closure to throw this market into 
+disarray. This industry is lacking the competition to maintain 
+a robust market and protect our most vulnerable populations, 
+infants who are being put at risk.
+    Dr. Lurie, how can Congress foster competition within the 
+infant formula market to promote safety and accessibility?
+    Mr. Lurie. Well, I will just say first that, you know, I 
+worked on drug shortages when I was at FDA, and it was quite 
+the same problem when it came to generic injectables. It was a 
+concentrated market, and you had a supply chain that was very 
+friable that could break at any moment and there would be very 
+few people who could step in, and that is very much what we saw 
+on infant formula.
+    I do want to say one thing, though, about the WIC Program, 
+which I think, you know, it is not a sole-source program. It is 
+a single contractor in each state program. That is different. 
+But, as important as it is to look at the WIC Program and 
+whatever role it might have played in the concentration of the 
+market, it is also important to remember that the way the 
+contracts are currently constructed is saving this government 
+about $1.6 billion a year. And if we have to pay, somehow, you 
+know, either this Congress is going to have to come up with 
+$1.6 billion or there is going to be a $1.6 billion smaller 
+amount of infant formula produced.
+    So, we need a solution. I think the Federal Trade 
+Commission should be taking a close look at this, but we should 
+be careful, you know, when we talk about reform at WIC, that we 
+make sure that access to the infant formula is part of the 
+formulation as well.
+    Ms. Lee. Thank you. You know, if our Congress is serious 
+about this, we also want to investigate Abbott to get at the 
+heart of what prompted the recalls and shortages, so we must 
+continue to work to diversify our domestic suppliers and 
+increase the resiliency of the infant formula market. Americans 
+can't afford to keep relying on three manufacturers to prop up 
+such a vital industry. I yield back.
+    Mrs. McClain. Thank you. The Chair now recognizes Mr. Gomez 
+for five minutes.
+    Mr. Gomez. Thank you, Chair. First, let me just thank the 
+Chair for having this important hearing and focusing on the 
+issue, although she can't control all her Members. You know, 
+bringing in COVID and vaccines, I think is not an appropriate 
+place here, especially when it comes to this issue, because the 
+American people have a profound interest in this.
+    And I have a profound interest in this. I became a new dad 
+for the first time last August, and as we were approaching the 
+due date, I was watching the issue with a very, very interested 
+eye, because it was like, OK, of course, we can try to 
+breastfeed, but sometimes you got to make up the difference. 
+And that was something that scared me, and something that 
+concerned me, so I was watching it very, very, very carefully.
+    One thing I want to kind of really focus on is even if we 
+had the ideal--your FDA with appropriate staffing, reporting--
+can that make up for the fact that there is market 
+concentration? And I am also on the Ways and Means Committee 
+that deals with trade issues. Can we really make up for the 
+market concentration of 90 percent of the formula with these 
+three companies even if we had an ideal, perfect, pristine FDA 
+working in an exquisite form, Mr. Yiannas? And then I will ask 
+Mr. Lurie.
+    Mr. Yiannas. And the answer to that question is no. As I 
+stated earlier, there are limited authorities and limited 
+levers that FDA can pull to affect the market concentration and 
+diversity. Again, the FDA approves these products. They set the 
+safety standards and the nutrition standards, and the only way 
+they can accelerate this is by making approvals go a little bit 
+faster. The true levers on how you affect market resilience and 
+market diversification reside outside of FDA.
+    Mr. Gomez. Mr. Lurie, you mentioned you had some comments 
+in your written testimony.
+    Mr. Lurie. No, I think I have had the opportunity to make 
+them, but I agree with what Mr. Yiannas is saying. This is not, 
+in that sense, primarily an FDA problem. It is a trade problem. 
+It is a market problem. And, FDA has very few levers when it 
+comes to that. But, you know, the President's budget does have 
+some funding that would allow faster approval of new infant 
+formula entrants, and the Agency has done a lot in the current 
+crisis to permit the entry of foreign products into the market. 
+And so, that has diversified, at least for a short while, the 
+available products, but it won't sustain us in the long term.
+    Mr. Gomez. And is that temporary, or is that a permanent--
+--
+    Mr. Lurie. That is temporary.
+    Mr. Gomez. What needs to occur in order to make it 
+permanent? Would you tell----
+    Mr. Lurie. Yes. My understanding is that it is an authority 
+that has elapsed. Isn't that correct?
+    Mr. Yiannas. Yes, they are looking at trying to create 
+permanent pathways. Anybody right now could apply for a new 
+infant formula product to hit the U.S. market. Having stated 
+that, despite the heroic efforts, and they were heroic by the 
+Administration, Operation Fly Formula and the enforcement 
+discretion. And, if you looked at the total quantity of infant 
+formula that was brought into the country in that manner, it 
+was just like icing on the cake. It didn't make a significant 
+material difference, and so, domestic manufacturing is 
+something that we really need to focus on.
+    Mr. Gomez. So, after my son was born, I actually did face a 
+situation where I had to go store to store, and the shelves 
+were empty. You know, I can't remember--those first few months 
+are kind of blurry--I can't remember if it was September, 
+October. And even today, they still seem bare, the shelves. Are 
+we still facing a supply problem, or are we facing a 
+psychological shortage problem, like people are stocking up 
+because they think that there could be another disruption?
+    Mr. Yiannas. I will take a shot at that because I was so 
+involved in actually creating the systems to track this. And 
+this is an excellent question, and it provides us an 
+opportunity to explain to the American public what was 
+happening.
+    There is something called an in-stock rate. The different 
+infant formulas that you might have, what percentage of them 
+are in-stock at your favorite grocery store or drug chain. 
+Before the pandemic, in-stock rates were in the mid-90's. That 
+is good. That is considered good. 95 percent of the types of 
+infant formulas you desired would be present when you went to 
+the grocery store. The pandemic caused supply chain 
+disruptions, and those in-stock rates started to drop to the 
+low 90's, maybe even 89, even before the recall. That massive 
+recall, with Abbott's Sturgis facility being so big, caused 
+that to drop even further, and it dropped well into the 60's at 
+one point.
+    The worst it probably got was in the month of May, when a 
+lot of news reports started being published, and we had a run 
+with people buying more than their normal amount. Instead of 
+buying 1 unit for the week, you were worried there wouldn't be 
+enough, and you do what we call pantry loading. We do not 
+criticize parents for doing that. It is a totally rational 
+behavior, but thereafter, we started to improve, and before I 
+left the Agency about a month ago, we were at those 90 percent 
+in-stock rates.
+    Now having stated that, I told you that the shelves will 
+not look the same because the assortment has been reduced. 
+Manufacturers are producing less high volume in certain types. 
+As a Nation, we are producing more infant formula than ever 
+before, but variety has been reduced. I hope that explains it.
+    Mr. Gomez. Thank you so much.
+    Mrs. McClain. Thank you, and I now recognize myself for 
+five minutes.
+    I think you made a very excellent point on the domestic 
+manufacturing of this, not only for mothers, and fathers, and 
+babies themselves. To be able to control the domestic 
+manufacturing, I think, is critical for obvious reasons as well 
+as, you know, national security as well. It is good to invest 
+in business, and it is good to invest in business domestically. 
+If the pandemic taught us anything, it was that.
+    But, I am going to shift gears a little bit. On May 25, 
+2020, Commissioner Califf testified before Congress that there 
+were nine staff working on infant formula at the FDA. Is that 
+an accurate statement? Yes, sir, Mr. Yiannas?
+    Mr. Yiannas. I think that statement deserves clarification. 
+There was nine individuals at that time working in the Office 
+of Nutrition and Labeling. These individuals are specifically 
+involved with approving new infant formula submissions. But the 
+reality--I led the IMG. There were dozens and dozens of people 
+working on infant formula at FDA: the field staff that does the 
+inspections, the laboratory staff that does the testing, the 
+administrative staff that responds in a crisis. And so, I feel 
+that that statement could have been misleading, and it deserves 
+clarification. There are more than nine people working on 
+infant formula at FDA.
+    Mrs. McClain. Were they working on the right things?
+    Mr. Yiannas. You know, in hindsight, I wish they would have 
+been working on some additional things. I mean, if you are 
+responsible for approving new infant formulas, one of the 
+things we saw in the crisis is that that team knew very little 
+about the market. They didn't have data, which is readily 
+available, on who owns what share, very quickly, where is it 
+produced, how is the market performing. This data is readily 
+available--what is the in-stock rate? And we found ourselves, 
+in the midst of a crisis, having to scramble to collect data 
+and build systems that I think should have been there before 
+the crisis.
+    Mrs. McClain. Did they approve any new?
+    Mr. Yiannas. That is a great question to ask, is how many 
+new products have been approved and how long does it take them 
+to do. It is a good question. I don't know the answer to that 
+question.
+    Mrs. McClain. OK. In your opinion, does the Solomon report 
+objectively evaluate the FDA's response to the infant formula 
+shortage?
+    Mr. Yiannas. The way I will answer that, is that I felt it 
+was a very controlled report. A couple of things that I will 
+say. One, it was not independent, correct? It was created 
+internally by FDA. Whenever a crisis of this magnitude happens, 
+it is good to have some independence. No. 2, I think you have 
+already heard comments, it was presented at a very high level 
+and doesn't get to really the root issues for you understand 
+what really happened. I would just ask you to compare my 
+written testimony, compare it to the Solomon report, and say 
+did you learn new things that were a little bit more detailed. 
+So, I don't think it went far enough, deep enough, and that it 
+offered the appropriate solutions.
+    Mrs. McClain. Why do you think that was? I mean, we had a 
+major crisis in our country that affected the most vulnerable, 
+infants, and it seems like we just kind of glossed over some 
+things. Why?
+    Mr. Yiannas. I think because it lacked independence. It was 
+conducted internally, and, you know, clearly, there was a very, 
+what I would call, rose-covered lens approach to writing that 
+report.
+    Mrs. McClain. So, were you permitted to contribute to the 
+report?
+    Mr. Yiannas. You know, when the crisis first happened, 
+since the fact that I wasn't notified on February 10 and my 
+office was the Office of Food Policy Response, I immediately 
+wanted to know how could something like this happen and what 
+could we do to prevent it from ever happening again. And so, I 
+asked all program components to start developing a timeline, 
+but shortly thereafter, the Principal Deputy Commissioner and 
+the Chief of Staff told me that they would develop the 
+timeline. And shortly thereafter, we learned that the Principal 
+Deputy Commissioner would write the report or create the 
+report.
+    I specifically recall mentioning to the Commissioner that I 
+get it, since I am in the food program, if you want 
+independence. But the Principal Deputy Commissioner that was 
+leading the report was the Acting Commissioner on whose watch 
+all of this happened, and I didn't think that was a good idea. 
+So, in the May hearing, I learned for the first time that it 
+would be Steve Solomon writing it. So, I wish I would have had 
+the opportunity to conduct that investigation, but I was not 
+offered. I was not interviewed by Steve Solomon. I was 
+interviewed by direct reports to the Principal Deputy 
+Commissioner. I did have a meeting with Steve Solomon after the 
+report was written, but had I written it, I would have written 
+it quite differently.
+    Mrs. McClain. Thank you, Mr. Yiannas. We are going to 
+switch gears. In closing, I want to thank our panelists once 
+again for their important and insightful testimony today, and I 
+really commend you both on doing something that does not really 
+happen a lot here, and that is you came with some solutions on 
+how to correct the problem. I mean, we all know that there is a 
+problem. I mean, anybody who has had a child or known somebody 
+who has a child--I mean, there is a problem.
+    So, I often say we cannot fix a problem that we first do 
+not admit exists. We all admit that it exists, and I applaud 
+and commend your efforts on some ideas on how do we work to 
+make sure that this problem does not help again. So, with that, 
+I commend you both for that.
+    I yield to the Ranking Member now for her closing remarks. 
+Thank you.
+    Ms. Porter. Thank you, Madam Chairwoman. I agree, and want 
+to echo what she said about the professionalism that you both 
+brought to this hearing and really helping Members focus not on 
+the partisan nature of this, but on the solutions. And, anyone 
+who has seen how I do hearings know that I will call out wrong 
+where I see wrong, and no matter who is in charge or who it may 
+offend, and the truth is, nobody gets a pass today.
+    Yes, the FDA must do better. It could have been faster. It 
+could have been more adept in anticipating the formula crisis. 
+It could have been more thorough in its after-action review and 
+learning from the mistakes. So, there is no pass for the FDA 
+here. Lawmakers, though, also have to do better by providing 
+the FDA with the resources and authorities that they are 
+telling us they need in order to get the results the American 
+people deserve, so no pass for government.
+    What is more, big businesses can do better regardless of 
+who is looking over their shoulder. It is their job to produce 
+safe, quality products. That is the cost of doing business in 
+food. Abbott engaged in negligent behavior, full stop. It 
+prompted a formula recall. It put Americans at risk, and it 
+undermined the stability of the formula market, so no pass for 
+big businesses.
+    And, finally, even with shortcomings from the government 
+and from industry, we wouldn't be here today talking about 
+supply shortages if baby formula were sold in the strong, 
+competitive marketplace. For too long, Washington has allowed 
+markets to consolidate, domestic manufacturers to offshore, and 
+critical infrastructure, including regulators, to crumble. 
+Luckily, the Biden Administration has done a great deal in the 
+last year to respond to disruptions and invest in our supply 
+chains and to enforce competition policy. They are thinking 
+toward the future.
+    That is what our Committee is doing here today. And I think 
+that is the mindset that Washington-at-large needs to have, so 
+that we never have to wonder if infant formula will be 
+available for anyone or what other critical food may face a 
+shortage from contamination or other health risks, so no pass 
+today for Washington. No pass today for manufacturers. No pass 
+here for anyone except, I think, the professional and helpful 
+suggestions from both of our witnesses.
+    So, I am eager to take what we have learned at the hearing 
+today, strengthen the FDA, hold big business accountable, and 
+focus on policy solutions. I yield back and, again, thank the 
+Chairwoman for this hearing.
+    Mrs. McClain. Thank you, Ms. Porter, and I thank you for 
+your help as well.
+    I ask unanimous consent to enter three statements into the 
+record. The first one is a Statement by the former FDA 
+officials; Statement by Consumer Reports; and No. 3, a 
+Statement by Consumer Brands Associated.
+    So, ordered.
+    Mrs. McClain. I now recognize myself for closing statement.
+    Republicans and Democrats agree that Abbott is responsible 
+for the Cronobacter outbreak at the Sturgis facility. I don't 
+think there is any getting around it. They own it. But what I 
+want to make sure that we are doing, is we hold government to 
+the same standards, at least the same standards, as we hold 
+private businesses too. That is our job. There is no question 
+about that.
+    Abbott is facing SEC, FTC, and DOJ investigations. Abbott 
+is also facing lawsuits, as they should, from grieving families 
+who have lost a child. They are, and will be, held accountable 
+for any negligence, but the FDA is just as guilty. The FDA is 
+guilty of neglecting its inspection duties. The FDA is guilty 
+of neglecting its duty to fully understand the fragile infants 
+formula supply chain. The FDA is guilty for failing to prepare 
+for the potential shutdown of the Sturgis facility, but, unlike 
+Abbott, the FDA has not been held accountable. Clearly, there 
+is a double standard.
+    And now, the FDA wants Congress to reward its negligence 
+with more money to the tune of $372 million for not doing their 
+job. When Congress appropriates funding to the FDA for food 
+safety and inspection efforts, it has a duty to conduct those 
+efforts. We would not be here today talking about this if the 
+FDA had done what it is supposed to do. Today's hearing has 
+illustrated just how ineffective the FDA's food safety efforts 
+are, and I want to put the emphasis on food safety, right? I 
+said earlier 70 some percent of their job is food safety. Yet, 
+they are not really doing a real good job of that, and I think 
+you both agreed with me in your testimony on that.
+    The FDA Commissioner is turning a blind eye to the reality 
+that its Agency is in turmoil. American families deserve to 
+trust that their baby formula is safe. Instead, Americans are 
+facing the uncertainty of continued recalls of baby formula. 
+Just last week, several lots of Gerber formula were recalled 
+for potential Cronobacter contamination, just last week. What 
+has been shared by the witnesses today has been extremely 
+remarkable. The FDA needs to be held accountable for its lack 
+of transparency to the Congress and the American people, just 
+as we are holding Abbott accountable as well.
+    FDA officials discounted and ignored the whistleblower 
+report. That is concerning to me. They failed to react quickly 
+to reports of the Cronobacter infections. They failed to 
+conduct an objective internal review, and they failed to take 
+ownership of their actions. Now, they are trying to hide behind 
+a weak proposed restructuring plan to distract from their 
+failing and deflect blame, of which I commend you two for 
+actually coming up with some solutions that I think we actually 
+can work with. We will not allow them to avoid accountability 
+for their failure to do their job. We have invited FDA 
+officials to appear in a follow up on April 19, and we will 
+hold them accountable.
+    So again, I thank you both for your time. I thank you both 
+for your insight. I thank my Ranking Member, Ms. Porter, for 
+her help on this Committee hearing. And I hope we can make the 
+necessary changes to instill faith in the American people, and 
+especially with parents out there with newborn babies.
+    So, without objection, the Members will have five 
+legislative days to submit materials and to submit additional 
+written questions for the witnesses, which will be forwarded to 
+the witnesses for their response.
+    Mrs. McClain. If there is no further business, without 
+objection, the Subcommittee is adjourned. Thank you again.
+    [Whereupon, at 11:33 a.m., the Subcommittee was adjourned.]
+
+                                 
+

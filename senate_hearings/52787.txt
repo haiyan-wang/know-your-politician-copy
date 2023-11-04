@@ -1,0 +1,1063 @@
+
+ - EXAMINING THE FINDINGS AND RECOMMENDATIONS OF GAO'S 2023 REPORT ON OPPORTUNITIES TO REDUCE FRAGMENTATION, OVERLAP, AND DUPLICATION AND ACHIEVE FINANCIAL BENEFITS
+
+[Senate Hearing 118-131]
+[From the U.S. Government Publishing Office]
+
+
+                                                        S. Hrg. 118-131
+
+                       EXAMINING THE FINDINGS AND
+                RECOMMENDATIONS OF GAO'S 2023 REPORT ON
+                 OPPORTUNITIES TO REDUCE FRAGMENTATION,
+        OVERLAP, AND DUPLICATION AND ACHIEVE FINANCIAL BENEFITS
+
+=======================================================================
+
+                                HEARING
+
+                               BEFORE THE
+
+                            SUBCOMMITTEE ON
+                EMERGING THREATS AND SPENDING OVERSIGHT
+
+                                 OF THE
+
+                              COMMITTEE ON
+               HOMELAND SECURITY AND GOVERNMENTAL AFFAIRS
+                          UNITED STATES SENATE
+
+                    ONE HUNDRED EIGHTEENTH CONGRESS
+
+
+                             FIRST SESSION
+                               __________
+
+                             JUNE 14, 2023
+                               __________
+
+        Available via the World Wide Web: http://www.govinfo.gov
+
+                       Printed for the use of the
+        Committee on Homeland Security and Governmental Affairs
+        
+                  [GRAPHIC NOT AVAILABLE IN TIFF FORMAT]        
+        
+                    U.S. GOVERNMENT PUBLISHING OFFICE
+                    
+52-787 PDF                 WASHINGTON : 2023          
+
+
+
+        COMMITTEE ON HOMELAND SECURITY AND GOVERNMENTAL AFFAIRS
+
+                   GARY C. PETERS, Michigan, Chairman
+THOMAS R. CARPER, Delaware           RAND PAUL, Kentucky
+MAGGIE HASSAN, New Hampshire         RON JOHNSON, Wisconsin
+KYRSTEN SINEMA, Arizona              JAMES LANKFORD, Oklahoma
+JACKY ROSEN, Nevada                  MITT ROMNEY, Utah
+ALEX PADILLA, California             RICK SCOTT, Florida
+JON OSSOFF, Georgia                  JOSH HAWLEY, Missouri
+RICHARD BLUMENTHAL, Connecticut      ROGER MARSHALL, Kansas
+
+                   David M. Weinberg, Staff Director
+                    Zachary I. Schram, Chief Counsel
+           William E. Henderson III, Minority Staff Director
+                     Laura W. Kilbride, Chief Clerk
+                   Ashley A. Gonzalez, Hearing Clerk
+
+
+        SUBCOMMITTEE ON EMERGING THREATS AND SPENDING OVERSIGHT
+
+                 MAGGIE HASSAN, New Hampshire, Chairman
+KYRSTEN SINEMA, Arizona              MITT ROMNEY, Utah
+JACKY ROSEN, Nevada                  JAMES LANKFORD, Oklahoma
+JON OSSOFF, Georgia                  RICK SCOTT, Florida
+
+                    Jason M. Yanussi, Staff Director
+                     Allison Tinsey, Senior Counsel
+           Scott Maclean Richardson, Minority Staff Director
+        Margaret E. Frankel, Minority Professional Staff Member
+                      Kate Kielceski, Chief Clerk
+
+                            C O N T E N T S
+
+                                 ------                                
+Opening statements:
+                                                                   Page
+    Senator Hassan...............................................     1
+    Senator Romney...............................................     2
+Prepared statements:
+    Senator Hassan...............................................    19
+    Senator Romney...............................................    20
+
+                                WITNESS
+                        Wednesday, June 14, 2023
+
+Hon. Eugene L. Dodaro, Comptroller General of the United States, 
+  U.S. Government Accountability Office
+    Testimony....................................................     3
+    Prepared statement...........................................    21
+
+                                APPENDIX
+
+GAO Staff Report.................................................    32
+Response to Senator Romney's questions regarding penalties for 
+  defrauding the government......................................   157
+Report of open matters for congressional consideration, GAO-23-
+  106837.........................................................   160
+
+ 
+                       EXAMINING THE FINDINGS AND
+                  RECOMMENDATIONS OF GAO'S 2023 REPORT
+                       ON OPPORTUNITIES TO REDUCE
+ FRAGMENTATION, OVERLAP, AND DUPLICATION AND ACHIEVE FINANCIAL BENEFITS
+
+                              ----------                              
+
+
+                        WEDNESDAY, JUNE 14, 2023
+
+                                     U.S. Senate,  
+                       Subcommittee on Emerging Threats and
+                                        Spending Oversight,
+                    of the Committee on Homeland Security  
+                                  and Governmental Affairs,
+                                                    Washington, DC.
+    The Subcommittee met, pursuant to notice, at 2:30 p.m., in 
+room SD-562, Dirksen Senate Office Building, Hon. Maggie 
+Hassan, Chairwoman of the Subcommittee, presiding.
+    Present: Senators Hassan [presiding], Sinema, Romney, and 
+Scott.
+
+             OPENING STATEMENT OF SENATOR HASSAN\1\
+
+    Senator Hassan. Good afternoon.
+---------------------------------------------------------------------------
+    \1\ The prepared statement of Senator Hassan appears in the 
+Appendix on page 19.
+---------------------------------------------------------------------------
+    Today the Subcommittee on Emerging Threats and Spending 
+Oversight (ETSO) continues its longstanding work to save 
+taxpayer dollars and improve government services for the 
+American people.
+    Our hearing this afternoon focuses on the Government 
+Accountability Office's (GAO) annual report on duplication, 
+fragmentation, and overlap in Federal programs. We are joined 
+by Comptroller General Gene Dodaro and several GAO subject 
+matter experts who contributed to this year's report. Their 
+testimony will provide the Subcommittee with a better 
+understanding of the challenges described in the report\2\ and 
+GAO's recommendations to address these challenges.
+---------------------------------------------------------------------------
+    \2\ The GAO Staff Report appears in the Appendix on page 32.
+---------------------------------------------------------------------------
+    Since 2011, legislative and executive action to address 
+recommendations made in GAO's annual report have led to roughly 
+$600 billion in cost savings and other financial benefits, 
+including nearly $70 billion in the past year alone. This 
+includes $2.5 billion taxpayer dollars saved as a result of 
+this Subcommittee's work to address issues identified in 
+previous duplication reports.
+    I remain firmly committed to ensuring that Congress does 
+its part to eliminate duplication, overlap, and fragmentation 
+to achieve cost savings and improve program outcomes. That is 
+why I have led bipartisan efforts to respond to GAO's 
+recommendations for congressional action for the past 4 years, 
+and I look forward to continuing to work with my colleagues to 
+pass these common-sense proposals.
+    Thank you, Mr. Dodaro and your team, for testifying today. 
+I look forward to today's discussion on how Congress and 
+Federal agencies can work to be better stewards of taxpayer 
+dollars.
+    With that I will recognize Ranking Member Romney for his 
+opening remarks.
+
+             OPENING STATEMENT OF SENATOR ROMNEY\1\
+
+    Senator Romney. Thank you very much, Chair. I appreciate 
+your leadership of this Subcommittee and I appreciate the 
+chance to speak with you, Mr. Dodaro.
+---------------------------------------------------------------------------
+    \1\ The prepared statement of Senator Romney appears in the 
+Appendix on page 20.
+---------------------------------------------------------------------------
+    I want to thank you and GAO for the extensive work that you 
+do in, if you will, accounting for what is happening in our 
+government, those things that are measured, or those things you 
+can control. If they are not measured, you cannot control them, 
+and I appreciate the work that you are doing, particularly that 
+which identifies waste and duplication in government, of which 
+there is plenty.
+    This annual duplication report, I understand, was first 
+created as part of a debt ceiling deal. It has become essential 
+reading, and I appreciate what you have uncovered and the 
+improvements you have brought to government already.
+    I think like many that serve with me, we are discouraged by 
+the high levels of waste, fraud, and abuse that were associated 
+with our Coronavirus Disease 2019 (COVID-19) relief efforts. I 
+understand, by some reports in the media, as much as $400 
+billion may have been wasted. I hope that is not accurate, but 
+it is obviously of great concern.
+    Back in March, I led a letter with some 30 of my colleagues 
+to President Biden, requesting more information on this 
+extraordinary waste of taxpayer funds.
+    I am also interested in discussing how the government could 
+be fumbling taxpayer money in other ways, like through Federal 
+work-at-home policies, and wonder to what extent we are less 
+effective, less efficient by virtue of allowing those to 
+continue. I am also curious about the duplicative lines of 
+effort that go on in government, particularly as they relate to 
+one area in particular, disaster prevention and mitigation. I 
+have worked with a number of folks to help put in place a 
+Wildland Fire Mitigation and Management Commission. We have 
+seen great success from that group so far, and hopefully we 
+will be able to do a better job in fighting wildfires in the 
+American West, and apparently in eastern Canada as well.
+    We obviously rely on you to help us spend our money more 
+wisely. I look forward to hearing your report today, and thank 
+you and your entire team for the dedicated service you provide 
+for our country.
+    Senator Hassan. Thank you, Ranking Member Romney.
+    It is the practice of the Homeland Security and 
+Governmental Affairs Committee (HSGAC) to swear in witnesses, 
+so if you will please stand and raise your right hands.
+    Do you swear that the testimony you give before this 
+Subcommittee will be the truth, the whole truth, and nothing 
+but the truth, so help you, God?
+    [Chorus of I dos.]
+    Thank you all. Please be seated.
+    The Subcommittee is pleased to welcome back Comptroller 
+General Gene Dodaro. Mr. Dodaro's career at GAO began more than 
+45 years ago, and he has spent the last 12 years leading this 
+agency. In this position, he oversees GAO's important work that 
+leads to hundreds of reports, testimonies, and recommendations 
+issued each year. Mr. Dodaro is widely considered one of the 
+foremost experts on government administration, efficiency, and 
+effectiveness, and he is assisted today by Cathleen Berrick, 
+Tim DiNapoli, Charles Johnson, Jessica Lucas-Judy, and Marisol 
+Cruz Cain.
+    Welcome to you all and thank you all for your work.
+    I am going to start with a series of questions and then 
+turn it over to the Ranking Member, and if and when others join 
+us we will recognize them for their questions too.
+    Oh, you are right. You need to give your opening statement 
+before I ask questions.
+    Senator Romney. What a way to move the hearing.
+    Senator Hassan. Thank God for the people on my right here.
+    Mr. Dodaro, you are recognized for your opening statement.
+
+TESTIMONY OF HON. EUGENE DODARO,\1\ COMPTROLLER GENERAL OF THE 
+      UNITED STATES, U.S. GOVERNMENT ACCOUNTABILITY OFFICE
+
+    Mr. Dodaro. Thank you very much, Chair Hassan, Senator 
+Romney. Good to see both of you today.
+---------------------------------------------------------------------------
+    \1\ The prepared statement of Mr. Dodaro appears in the Appendix on 
+page 21.
+---------------------------------------------------------------------------
+    I first want to say how appreciative we are at the GAO for 
+this Subcommittee's continued interest in our work. It is very 
+important. What we have seen is that persistence over time will 
+pay off and that a number of these recommendations have been 
+implemented.
+    I have been very pleased, with the impact of this work. We 
+have made over 1,800 recommendations, and 73 percent have been 
+fully or partially implemented. It has resulted in financial 
+benefits of, as you noted in your opening statement, about $600 
+billion so far.
+    When we started this work with Senator Coburn years ago, he 
+predicted $300 billion. He would not be surprised, though, at 
+where we are right now. There is much more to do, though, and 
+tens of billions of additional dollars that could be saved.
+    In this year's report we recommend 100 new actions. For 
+example, there are over 130 programs administered by 15 
+different agencies for expanding broadband throughout the 
+country. These are worthwhile efforts, but they could be better 
+coordinated. We have recommended a national strategy, where you 
+could actually better measure, whether there is good 
+coordination.
+    Senator Romney, you mentioned disaster assistance. This 
+year we outlined 30 different Federal departments and agencies 
+that are involved in disaster recovery and response, and this 
+has been developed incrementally over a 40-year period of time. 
+With the advent of more frequent and severe events, the Federal 
+Emergency Management Agency (FEMA) is stretched very thin. 
+There needs to be a comprehensive look again at better ways to 
+be able to deal with people who are affected by disasters. We 
+have recommended that FEMA take a fresh look at this issue.
+    We have also made recommendations, in an area about 
+providing support to Tribes and their members. There are 22 
+programs that try to provide economic development and 
+assistance, at 7 different agencies. There is supposed to be an 
+Office of Native American Business Development in Commerce, but 
+it has not had a director and it has not been staffed since 
+2011. As a result, you do not really have good leadership and 
+coordination in that area.
+    There is also the First Responder Network Authority that 
+was set up to put in place an interoperable system for police 
+and firefighters and all our first responders. They have made 
+some good progress in that area, but the authority needs to be 
+reauthorized in order to make sure that this network continues 
+and that they can collect billions of dollars in revenue to 
+support the operation, maintenance, and improvement of this 
+network going forward. Otherwise the investment that has been 
+made so far will be for naught. We recommend that Congress 
+reauthorize this authority.
+    We also recommended that The Office of Personnel Management 
+(OPM) do a better job identifying and removing ineligible 
+family members in the Federal Employee Health Benefit (FEHB) 
+Program, which is the largest employer-sponsored health care 
+program in the country. They estimate that there is anywhere 
+from $360 million to almost $1 billion in improper payments 
+because they have not done this effort.
+    Senator Romney, you are right. The government has a payment 
+problem. It has a fraud problem. I would be happy to talk more 
+about that in the questions and answers (Q&A).
+    We also made recommendations in a number of areas in the 
+Department of Defense (DOD), including artificial intelligence 
+(AI) strategies; how to dispose of unneeded military equipment; 
+how to purchase commercial satellite imagery and analysis; and 
+how to do predictive maintenance to lower the maintenance costs 
+at DOD. DOD could do a much better job in managing 
+fragmentation, overlap, and duplication throughout the 
+department.
+    Also there are a number of open recommendations we still 
+have from prior work. One I would mention in particular that 
+the Congressional Budget Office (CBO) has already scored as 
+saving over $140 billion over a 10-year period of time is 
+Medicare's payments by place of service. We have recommended 
+that Congress equalize the Medicare payment rates for 
+evaluation and management and other services between doctor's 
+offices and hospital outpatient departments. Right now, we pay 
+more for the affiliation with the hospital. If we equalize 
+these payments, it would save beneficiaries money, too, on co-
+pays. This is a win for the government and beneficiaries. I am 
+very concerned, and I know both of you are, with the fact that 
+the Medicare Hospital Trust Fund is close to being depleted. We 
+have to look for ways to save money, and we have other 
+suggestions as well.
+    Again, thank you for the opportunity to be here today, and 
+I am happy to respond to questions.
+    Senator Hassan. Thank you very much, and I will note that I 
+think it is Senator Braun and I have a bill in onsite 
+neutrality on this very issue of the location of where you get 
+a certain service determining how much you pay for it as 
+opposed to what the service is, so I would look forward to 
+continuing to get more feedback from all of you.
+    Let me start with this question. Many of the programs 
+identified in this year's report have problems with 
+fragmentation rather than overlap or duplication. Fragmentation 
+occurs when more than one agency is involved in the same broad 
+area, and these fail to adequately coordinate with each other, 
+leading to inefficiencies and ineffectiveness.
+    One example highlighted in this year's report is the 
+Federal Government's fragmented approach to providing 
+cybersecurity resources to K-12 schools. Could you describe the 
+consequences of fragmentation or a lack of coordination for K-
+12 schools that need access to cybersecurity resources?
+    Mr. Dodaro. They basically have told us they need training 
+and incident response support when something happens--such as--
+ransomware attack. There are different agencies involved, but 
+it is basically Education and the Department of Homeland 
+Security (DHS), which has their Cybersecurity and 
+Infrastructure Security Agency (CISA). Bottom line, there is 
+not enough coordination going on.
+    According to the National Incident Response Plan, agencies 
+that are dealing with different sectors--there are 16 different 
+sectors in our economy--Education is responsible for the 
+education sector, and they are supposed to have a coordinating 
+council and they do not. We recommended they have a 
+coordinating council so they can understand more what the needs 
+are in the K-12 area, and they can then provide better support 
+to the schools.
+    Senator Hassan. Thank you, because fragmentation is such a 
+major problem across programs highlighted in this year's 
+report. What is your general advice? What can agencies do to 
+proactively coordinate and collaborate to avoid fragmentation?
+    Mr. Dodaro. They have to formalize their procedures. In a 
+lot of cases, this is basically an anecdotal kind of 
+experience, where the individual departments and agencies have 
+individuals within the department who coordinate with one 
+another. If they change positions or retire, the coordination 
+is lost because it is not institutionalized. We have many 
+recommendations to the Congress to require agencies to put in 
+place an interagency coordination council. It is very rare 
+these days that there is a problem that does not need 
+coordination across the Federal Government, and it has become 
+increasingly so. Many of the areas we have added to our High 
+Risk List are where there is lack of coordination across the 
+government.
+    I would like to get the lack of coordination among agencies 
+solved. In the meantime, it is like the GAO Full Employment 
+Act, but it is a problem, and there is not a good institutional 
+commitment. Without that, you have episodic success, but mostly 
+unsuccessful efforts.
+    Senator Hassan. Senator Romney's point, maybe measuring the 
+effort and measuring the degree to which these efforts are 
+institutionalized and prioritized would be a step forward 
+there, because I agree with you. People say you should 
+coordinate, but unless people really make an effort and 
+formalize it, it may not get done.
+    Mr. Dodaro. Yes. We have developed a set of criteria of 
+eight factors that ensure successful collaboration including: 
+clear roles and responsibilities, what kind of resources are 
+needed, how do you measure outcomes, and how do you deal with 
+conflict in the issues.
+    We evaluate against those criteria. But if Congress could 
+also legislate that these coordinating bodies meet these 
+collaboration criteria, which we have seen produce success. You 
+will see a lot of examples in this year's report where they 
+meet one of the eight criteria. Even if there is a coordinating 
+body, it may not be effective.
+    We know how to produce success. It is a matter of people 
+following the right practices and principles.
+    Senator Hassan. Good. Thank you.
+    I want to turn to the issue that Senator Romney raised, 
+which is Federal disaster relief. Federal disaster relief 
+programs span across more than 30 agencies, as you noted. GAO 
+found that this fragmented and overlapping approach to disaster 
+recovery diminishes service delivery to disaster survivors and 
+communities, exposes agencies to waste, fraud, and abuse of 
+taxpayer dollars, and reduces the effectiveness of the recovery 
+efforts.
+    GAO recommends that Congress set up an independent 
+commission to address these disaster recovery challenges. What 
+benefit could an independent commission provide compared to 
+effort to simply require agencies to better coordinate?
+    Mr. Dodaro. In this case I think there needs to be a 
+thorough reevaluation of the situation. As I mentioned in my 
+opening comments, you are having more frequent, more intense 
+events. They are becoming broader than just floods--there are--
+wildfires, earthquakes, tsunamis, et cetera. The circumstances 
+for disasters, the panoply of potential disasters has 
+broadened.
+    Second, we consistently raise issues with FEMA staffing. 
+FEMA, right now, is still monitoring close to 500 different 
+disasters that have occurred since 2004. While we have become 
+much better, as a government, in the initial response, we are 
+not very good on the recovery process. It drags on for years 
+and years.
+    The agencies all have unique statutory authorities and 
+regulations, and some of that cannot be changed without 
+statutory changes in the Congress. There are 32 different 
+congressional committees that have responsibility for oversight 
+of these agencies. So you need someone who is independent in 
+the commission.
+    Now what we did is we got a group of experts together, and 
+they came up with 11 different policy options that Congress 
+could consider. The White House is looking at those policy 
+options now and trying to figure out what to do. The Office of 
+Management and Budget (OMB) is trying to look at it from a 
+consumer standpoint, or somebody who is a disaster victim, and 
+how difficult it is to deal with all these different agencies 
+and understand even what is available. The process is difficult 
+for applicants. You have to apply to different agencies. They 
+are trying to simplify it into one application form. I know 
+there is some legislation introduced in the Senate to require a 
+uniform disaster application form. I think that would move this 
+issue in the right direction, but I think this is a broader 
+issue. The agencies themselves have vested interests in the 
+status quo. We have lots of experts in the country that could 
+give this a good, thorough reexamination, which I believe is 
+needed.
+    Senator Hassan. Great. Thank you.
+    I will recognize Senator Romney for his questions.
+    Senator Romney. Thank you. I thought that I had an eye-
+popping statistic when some years ago I noted that there were 
+some 49 different Federal job training programs and thought the 
+duplication was outrageous. But you have blown that away with, 
+what did you say, about 140 different broadband expansion 
+programs. I am trying to understand why that happens.
+    I presume part of it is that all of us who want to get 
+elected, and that is the people up here, want to show that we 
+are doing something about something our voters care about, so 
+we fashion a bill, we get it passed, we do not really spend a 
+lot of time asking whether there is already something that 
+deals with that. We get that passed, and the Executive Branch 
+dutifully sets up an agency or department or whatever to take 
+it on, and there is never a cleaning up. I do not know what 
+potential there is for actually cleaning it up. These 140 out 
+there, whatever the number was--was it 140?
+    Mr. Dodaro. It was over 130 programs.
+    Senator Romney. Over 130.
+    Mr. Dodaro. It is close to 140.
+    Senator Romney. What is the process? Because to say that 
+Congress should deal with it, the challenge we have, of course, 
+is that we do not have a person in charge of Congress. But the 
+White House has a President, and then a chief of staff, and so 
+forth, so they are more like a corporation that can carry out 
+action. Congress is, just in the Senate side, 100 people all 
+pulling in different directions, or in the same direction but 
+all pulling.
+    How do we actually consolidate and eliminate and put 
+together efforts so that it is easier for us to be able to 
+address the issue that we are talking about without having tons 
+of people and departments and wheels spinning and money being 
+wasted? How do you get from here to there? When has that 
+worked? When have we been able to consolidate?
+    Mr. Dodaro. This happened in the science, technology, 
+engineering, and math (STEM) area. They had over 160 programs 
+in that area. We were able to work with Congress to reduce it 
+by having the White House and others develop a strategy to look 
+at the programs and make proposals to the Congress. We are 
+suggesting, in the broadband area, that the Administration come 
+up with a national strategy. I mean, what is the plan here? 
+There are a number of these programs to build infrastructure; a 
+number of them to provide devices to people; and another one to 
+help people afford broadband services. None of them are really 
+coordinated over a period of time. Some of them have different 
+minimum eligible broadband speeds.
+    This is an issue that is not going to be static, that if we 
+do it one time you are going to have it all fixed. About 13 
+percent of the population right now, about 42 million people, 
+do not have any broadband access, and everybody is always 
+trying to chase that. Then there is the question of once you 
+have 4G, now you need 5G, and that is going to continue in that 
+path.
+    We need a strategy to say, What are our goals? How are we 
+going to measure them? You do not really have that now at the 
+national level. We are committing $65 billion in the 
+Infrastructure Investment Act, on top of about $44 billion that 
+has already been spent. If you date back to the Recovery Act 
+days in 2009, we were spending money then on broadband 
+authority as well.
+    It is going to be an endless Federal investment, and who 
+would make an investment long term, over time, without a 
+strategy and a way to check the strategy? That is what we are 
+calling for in this case, and I think Congress can require the 
+Administration to do it. The Administration balked at our 
+recommendation. They are still mulling it over. They did not 
+agree or disagree to do it. But I think Congress can require 
+them to do it, and then you can have a debate on the plan right 
+now, rather than all these individual programs going forward.
+    Senator Romney. It sounds like it is something that has to 
+be executed by the Executive Branch. If they are not moving on 
+that front you are looking to Congress to insist that they do 
+move on that front.
+    Mr. Dodaro. Absolutely.
+    Senator Romney. I must admit, I am a little frustrated 
+sometimes. We will call for the Administration to do something, 
+on the Executive Branch to do something, and we ask them to do 
+so much stuff that it does not happen. This might be a big 
+enough topic, particularly with $60 billion in the 
+Infrastructure Bill that might motivate an effort to really 
+make sure that develop a strategy.
+    Mr. Dodaro. Absolutely. I think they are on the precipice 
+of potentially agreeing, but it is not an easy thing to do. 
+There are also potentially some statutory limitations to 
+coordinating the programs. You need somebody to be able to 
+advise and say, here is our strategy, here is what we need to 
+implement it, but we need some legislative changes in order to 
+make it more efficient and effective to be able to coordinate 
+over time.
+    I think it is a big enough investment, and it is not going 
+to go away. If this was a one-time thing I would say, the money 
+is gone, and you are going to get what you are going to get. 
+But in this case I do not think this is the last investment we 
+are going to make in this area.
+    Senator Romney. The vulnerability of our various 
+governmental systems for fraud is substantial, obviously, but 
+my impression is that relative to the private sector, the fraud 
+that is perpetrated against the government is much greater. I 
+do not know why that is, precisely, but my expectation is it is 
+going to get a lot worse with AI, that the capacity of bad 
+actors to hack into our systems will be greater.
+    I certainly do not want to reveal private information, but 
+I was approached by a colleague, not a government colleague, 
+whose Social Security number (SSN) was stolen, address and name 
+was taken, and this person who stole that information filled 
+out a two-page tax form, sent it in, and received almost $1 
+million in a tax refund, totally fraudulent. That is almost 
+never going to happen in the private sector. American Express 
+is not going to send you a million dollars.
+    I do not understand how this can go on and how bad our 
+systems are, and given the advent of AI is it going to get a 
+lot worse, and do we need to dramatically up our game to 
+prevent fraud?
+    Mr. Dodaro. Absolutely. The fraud that occurred during the 
+pandemic programs was epic in my experience. In 2 weeks, I will 
+have been at GAO 50 years. I have never seen it as bad. Now, we 
+have thrown a lot of money at the issue, but we harmed 
+ourselves by allowing self-certification in the beginning, in 
+the Paycheck Protection Program (PPP), COVID-19 Economic Injury 
+Disaster Loan (EIDL) program, and unemployment insurance 
+program. I think it was well-intended, we were trying to get 
+the money out, but in these types of emergencies, the best in 
+human nature comes out and the worst in human nature comes out.
+    In this case you had organized fraud. It was not just 
+national. It was international. We have estimated that at a 
+minimum the unemployment insurance fraud is $60 billion. We are 
+developing the higher end estimate now. Then we are going to 
+make a governmentwide estimate by the end of the year on fraud 
+across the Federal Government.
+    We worked with the Congress back in 2015 and 2016 to pass 
+the Fraud Reduction and Data Analytics Act, which has best 
+practices for preventing fraud. Too many people in the Federal 
+Government, program managers, think it is the responsibilities 
+of the inspectors general (IGs) or GAO to combat fraud. It is 
+their responsibility to prevent it in the first place, and they 
+need more guidance and assistance to do this. If that act had 
+been implemented properly, the Small Business Administration 
+(SBA) and the Department of Labor (DOL) would have been much 
+better prepared to deal with the fraud issues during the 
+pandemic.
+    That is still on the to-do list--that is, to get the 
+agencies to be better prepared on fraud. We need better 
+identity verification approaches, more careful approaches. We 
+need better data sharing. Now part of the problem in the 
+government is that there is a tension between sharing of 
+information to catch the fraudsters and the protection of 
+privacy on a number of people, on a number of programs, and not 
+wanting to share the information under the guise of privacy. 
+There are legitimate privacy issues, but they could be dealt 
+with.
+    On the Internal Revenue Service (IRS) identity theft fraud 
+we suggested to the Congress years ago that they expedite the 
+W-2 data coming from employers. Previously employers had to 
+give it to the employees by January, and then they did not have 
+to give it to the government until February or March. The 
+government did not have the form to compare against the 
+submission of the information in the tax return. We got 
+Congress to change that. That has helped a lot, but there are 
+still some gaps in that area, and we have some open 
+recommendations.
+    Senator Romney. Thank you.
+    Senator Hassan. Thank you, Senator Romney, and I want to 
+follow up on the line of questioning that Senator Romney and 
+you were talking about which is how we prevent fraud in Federal 
+programs. But I want to drill down a little bit when we are 
+talking about fraud in relief programs in particular. As we 
+were just talking about the COVID-19 relief packages and the 
+fraud there, what are your recommendations? We know it is 
+important to prevent fraud. There are lessons learned here. But 
+we also, at a time like COVID, need to balance preventing fraud 
+and being vigilant, but we also need to be able to deliver aid 
+quickly during emergencies.
+    How do we strike that balance? Your recommendations call 
+for improving transparency in data sharing and oversight, but I 
+would like you to give us a little bit more of a feel of how we 
+can accomplish these two things together.
+    Mr. Dodaro. Absolutely, and they are not mutually 
+exclusive.
+    Senator Hassan. Right.
+    Mr. Dodaro. I think you can have a much better balance than 
+what we had before, in these COVID-19 areas.
+    No. 1 is you need to get the regular payment process right. 
+Right now, the latest governmentwide improper payment estimate, 
+adding up all the agency estimates, was about over $247 billion 
+in 2021. Now this has been a problem well before the pandemic. 
+Between 2003 and up to the most recent time, there has been 
+over $2.4 trillion in estimated improper payments made by the 
+Federal Government in regular program activities. You have to 
+fix the underlying payment problem that the Federal Government 
+has in the first place, before we add additional money, as we 
+did during the pandemic.
+    Second, you have to have the agencies implement these best 
+practices for fraud prevention. They were supposed to designate 
+an entity full-time to focus on this. The SBA did not do it 
+until after all the money was distributed. It was supposed to 
+be done in 2016-2017, and it was not done until 2022. Labor 
+still has not done it to our satisfaction. There needs to be 
+more attention to hold the agencies accountable for 
+implementing these best practices, doing risk assessments, and 
+making sure they can come up with the different suggestions.
+    Now we have a special report coming out to deal exactly 
+with the issue that you talked about, which is how to build 
+internal controls in before the emergency programs come up and 
+how you can balance that so you do not sacrifice speed in 
+getting the information out. That will be out next month.
+    I have also recommended that the Congress require OMB to 
+require the agencies to have an internal control plan in place 
+for emergency spending before emergencies happen. We know what 
+the problems are, and I have been trying to do this for years, 
+and the agencies have balked, and OMB said, our normal controls 
+are satisfactory. Well, no, they are not, and that has been 
+proven time and again and was proven very vividly during the 
+COVID pandemic. It happens in almost every disaster that we 
+have, so you need to have that in place.
+    Third, every new program over $100 million, in my opinion--
+and I have recommended this to the Congress--ought to be 
+designated susceptible to significant improper payments. Right 
+now, under the guidance, you do not have to make an estimate, 
+if you are an agency with a new program, of what improper 
+payments might be until 2 or 3 years after the program has 
+started. That is way too late. With some of the emergency 
+spending, the program is over before you make your estimate. By 
+designating programs over $100 million susceptible to 
+significant improper payments you will get this estimate much 
+sooner.
+    The last suggestion I had is during the Recovery Act days, 
+in the American Recovery and Rescue Act (ARRA), Congress 
+created a Recovery Accountability and Transparency Board (RATB) 
+of the Inspectors General. Congress gave it about $80 million, 
+and they were able to help prevent fraud in the agencies. They 
+would identify where contracts were considered to be let or had 
+just been let to somebody who should not have been on the list 
+or had some other kind of problem or looked like a fake 
+address, and that was very successful. It was extended when we 
+had Superstorm Sandy, but it expired in 2015.
+    Now Treasury had the ability to pick up that 
+responsibility. They demurred. I encouraged them to do it. They 
+said, ``No, we do not get into that business.'' Then I went to 
+Congress, and I said you ought to make this analytics center of 
+excellence a permanent feature of the inspector general 
+community to deal with this improper payment problem, and then 
+it is already there when emergencies develop. But no action was 
+taken.
+    Then the CARES Act comes out in 2020, authorizing trillions 
+of dollars. That IG function was not resurrected even then. It 
+was not until the American Rescue Plan Act of 2021 (ARP), but 
+after that the government already spent trillions of dollars 
+that Congress authorized the Pandemic Response Accountability 
+Committee. It then took some time to get the Pandemic Response 
+Accountability Committee up and running again before it was 
+effective.
+    Because a lot of the fraudsters go across government, the 
+IGs need to coordinate. They can share information and pool 
+their resources. Some of the smaller IGs do not have the 
+capacity for this type of work. The IG community is supportive 
+of establishing a permanent analytics center and I have 
+recommended it to Congress. It would be a minor investment of a 
+few million dollars a year, but it would pay huge dividends.
+    Senator Hassan. Got it. OK. Thank you. I look forward to 
+working on a lot of those suggestions with you.
+    I want to ask one more question and then I will turn it 
+back to Senator Romney. The American people expect agencies to 
+use taxpayer dollars responsibly, but GAO identified an area 
+where agencies are failing to use goods they already have, 
+called excess property, and they are purchasing new goods 
+instead. These include goods that agencies use every day, from 
+printer ink and desk chairs to large research equipment and 
+heavy machinery.
+    What can agencies do to make sure that they are considering 
+available property before buying new items?
+    Mr. Dodaro. The General Services Administration (GSA) needs 
+to ensure there is better guidance. We looked at five different 
+agencies, and for a lot of them it was not clear in their 
+policies they were required to look to excess property first 
+before making a purchase, how to evaluate the pros and cons of 
+doing that, and then having some transparency over that 
+process.
+    We made recommendations to each of the five agencies to 
+strengthen their guidance to make sure that they check on this 
+beforehand. There are tens of billions of dollars available in 
+excess property. Some of it is not in the greatest shape, or 
+might not match their needs, but I think about 12 percent of 
+what we looked at was actually used by the agencies to then not 
+have to make those purchases. GSA needs to clarify their 
+guidance across the Federal Government and work with the 
+agencies to make them aware of the excess property and how to 
+be able to access it.
+    Senator Hassan. Thank you. Senator Romney.
+    Senator Romney. Thank you. Are penalties too small for 
+defrauding the government? I must admit, when I heard some of 
+the stories on the PPP program and the entities, law firms, and 
+others that were taking this money--and I understand if you 
+might have thought that your business was going to be affected, 
+but if it is not affected, and it was not affected, you ought 
+to return the money. If you do not, it did not seem like the 
+penalties were substantial. I wonder, should we substantially 
+increase the penalties for defrauding the government of the 
+United States such that people really think twice about doing 
+what so many did?
+    Now I recognize a lot of it is organized crime. They do not 
+care what the penalties are because they are hard to find and 
+hard to convict, and particularly if they are outside the 
+country. But are we not showing tough enough penalty?
+    Mr. Dodaro. The people who are being convicted are getting 
+substantial jail time. I will provide the details for the 
+record.\1\ But I would like to think about the penalty issue 
+and come back to you with a more thoughtful answer than I can 
+give you off the top of my head.
+---------------------------------------------------------------------------
+    \1\ The response to Senator Romney's questions regarding penalties 
+for defrauding the government appears in the Appendix on page 157.
+---------------------------------------------------------------------------
+    The one thing I would suggest is, in the PPP program, 
+Congress extended the statute of limitations to 10 years from 5 
+years. The Administration and the inspectors general have 
+recommended that the same thing be done for Labor Department 
+and the Unemployment Insurance Program. I would encourage 
+Congress to extend the statute of limitations for those 
+programs.
+    I will look at the penalties issue and see if we have any 
+recommendations in that area. The one thing is, you are not 
+going to get a lot of this money back, but you can enforce the 
+law and make people pay the penalties for defrauding the 
+government. Unless you do that, you are exactly right. If the 
+consequences are not there and it is easy, we have a recipe for 
+problems.
+    Senator Romney. Yes, too easy. Going back to AI for a 
+moment, and is this something that you would do, do we need to 
+upgrade our capacity to defend against fraud in a much more 
+substantial way as a result of the advent of AI, and are you 
+recommending that? Are you talking to various agencies, saying, 
+``OK, look? You guys have to dramatically increase the kind of 
+protective measures that are employed or the consequences could 
+be quite substantial?''
+    Mr. Dodaro. We definitely need to upgrade as a government 
+in order to prepare for artificial intelligence, and ultimately 
+quantum computing as well. We have not done as much on this as 
+your question implies. We have come up with a framework for how 
+to audit artificial intelligence algorithms to make sure that 
+they are done properly.
+    We will take more of a look at that issue, Senator, going 
+forward. We are looking at a lot of artificial intelligence, 
+for example, in the Defense Department. We have not looked at 
+it specifically is as it relates to the fraud area, but we 
+should.
+    Senator Romney. Yes. One concern of substance is the fact 
+that you come out with recommendations every year that you lay 
+out things that you think we ought to do to become more 
+effective. Many of those things are implemented, but many are 
+not. How do we prioritize your recommendations, and do you do 
+that, and do you publicize that, meaning do you have a Top Ten 
+List--all right, Congress, these are the top ten things, or 
+President Biden, these are the top ten things you really ought 
+to focus on?
+    I appreciate the report, but I think it has to be far more 
+in the public mind than it is. We tend to respond to what the 
+public is talking about and concerned about, and what is on the 
+news, whether it is cable or broadcast, or social media. Do you 
+need to increase your publicity capacity to get the message out 
+there and to create the fire that is needed to actually improve 
+some of the challenges we have and fulfill the recommendations 
+that you make?
+    Mr. Dodaro. Every year I send a letter to the head of each 
+major department and agency in the Federal Government, saying 
+how many open recommendations still exist for your department 
+and here is our priority list at GAO of the top priorities. In 
+some agencies it is 5 priority recommendations, for another may 
+be 12. DOD has almost 90, but they are a big agency. That 
+information is made public and it is on our website. We send it 
+to all the congressional committees.
+    We are also working on one report that details all our open 
+recommendations for the Congress.
+    Each year we track how many recommendations have been 
+implemented by the Executive Branch and how many by the 
+Congress. Executive Branch is ahead----
+    Senator Romney. I am not surprised.
+    Mr. Dodaro [continuing]. In the game. But the big money 
+comes from Congress' actions.
+    Senator Romney. Wow.
+    Mr. Dodaro. We will submit that report to your office.\1\ 
+Also, we have an appendix in this report that we are talking 
+about today that lists all the open matters for Congress 
+including those that have over $1 billion in potential savings. 
+We prioritize by that avenue as well. Senator Lankford asked me 
+this question years ago. So I call it the Lankford Appendix. 
+But it is in there every year.
+---------------------------------------------------------------------------
+    \1\ The report on open matters for congressional consideration, 
+GAO-23-106837 appears in the Appendix on page 160.
+---------------------------------------------------------------------------
+    Senator Romney. Let the record show that the Democratic 
+Party is in the majority in Congress now, so they take full 
+responsibility. [Laughter.]
+    Let me also ask a question that is maybe smaller bore, but 
+that is with regard to at-home employment by our Federal 
+employees. Did that result in a reduction in services and 
+inefficiencies of a substantial amount, and if so, were you 
+able to audit that or evaluate that? Does that continue to 
+plague our government agencies?
+    Mr. Dodaro. It definitely caught a number of agencies off-
+guard because a number of them were moving in the other 
+direction, where they were not allowing telework. When the 
+pandemic hit they were not well prepared with technology as 
+much as they should, or policies, or whatever.
+    It definitely had an effect for agencies that deal directly 
+with the public--Social Security, IRS, et cetera. While 
+technologies enabled them to do some things electronically, a 
+number of people do not have access--broadband or do not have 
+devices--so they need to walk into an office.
+    We are looking now at agencies, post-pandemic, asking them 
+questions like: What are your plans? How is it going to affect 
+service delivery? We are also looking more broadly at the 
+private sector--what the experience has been in the private 
+sector of telework and remote work. That report will be out 
+soon.
+    We are studying the issue. It definitely had an effect, but 
+the extent is unknown and there are questions about what the 
+posture should be going forward. Because on one side there is 
+the customer service to the public that has to be dealt with 
+effectively. On the other side it is recruiting and retaining 
+the workforce necessary to be able to deliver that service in a 
+quality manner. You have to find the right kind of balance 
+there, I think. The balance is different, depending upon the 
+different missions that the agencies have. We are looking at it 
+and giving it a great deal of thought.
+    Then there is the question, also, related to Chair Hassan's 
+question about--you asked about personal property but there is 
+the real property aspect of the government too--if they need 
+all these facilities. We have said for years, before the 
+pandemic, you have more facilities than you need and you ought 
+to get rid of them, and agencies have not been doing such a 
+good job at the government level to do it.
+    Congress passed a law in 2016, trying to create a board, 
+and the board would recommend properties that should be sold. 
+There are three rounds. So far we have been through two. The 
+first round, we sold 10 properties so far, for $194 million. 
+The proceeds were supposed to fund additional rounds. Then some 
+of the board members quit and some of the sales strategies 
+changed. One of our recommendations is that the GSA do a 
+lessons learned and try to figure out what went wrong and what 
+could be done to improve it.
+    Now there is one more round left in 2024, so we will be 
+back with an update on that area. Federal real property is on 
+our High Risk List. GSA made some progress in getting out of 
+costly leases, which is good, but this whole question about 
+where the employees are going to work and how much office space 
+they need, I think has those implications too.
+    The main thing has to be effectively accomplishing your 
+mission. That has to be the primary goal. The question is how 
+best to do that and what kind of policies you need to have your 
+employees where and doing what you need, and measuring 
+outcomes. Too much time in the government we spend looking at 
+process issues. Are they in the office? They could be in the 
+office full-time and have been doing a lousy job, as opposed to 
+being somewhere else and doing a better job.
+    You have to focus on what are the outcomes. Are citizens 
+being served? Are they being served well? How do they feel they 
+are being served, et cetera, and focus on the outcomes.
+    Senator Hassan. Thank you, Senator Romney, and I appreciate 
+that nuanced and balanced look at this, because I do think we 
+need more information about the issue of remote work. I also 
+think sometimes you have healthier, more energetic employees if 
+they have not had to deal with a 2-hour commute each way, and 
+they get more exercise. It is hard to know without looking at 
+those outcomes and looking at the mission, so I am very 
+appreciative of that work.
+    I only really had kind of one wrap-up question that really 
+follows on the discussion that we were all having about how do 
+you make sure that as you all do this important work and come 
+up with these recommendations that we really make progress on 
+them.
+    We were talking about the fact that you do an annual 
+duplication report and that we are seeing some agencies take 
+action on some of the recommendations. But my question really 
+is, are you satisfied with agency progress on the 
+recommendations made in these duplication reports since GAO 
+began issuing them 12 years ago? Just tell us how you think the 
+agencies are doing overall. Obviously, we know it is not 
+perfect.
+    Mr. Dodaro. Not really. We could be doing so much more. 
+There is still too much resistance to change that I think it is 
+disappointing. I think there needs to be more leadership.
+    The Executive Branch is not set up to deal with these 
+multi-agency issues that we have. OMB is a very small agency. 
+OMB has not had a confirmed Controller in 7 years, which is one 
+of the primary people we would deal with. OMB has ``small P'' 
+political issues they deal with, trying to mediate between the 
+agencies. Furthermore, there is a lot of turnover in government 
+and a lot of vacancies and open positions. Then you have the 
+policy debate and issues about things as well.
+    GAO, has more continuity than anybody else in the 
+government. The Comptroller General has a 15-year term, and we 
+look across the government. We have a lot of institutional 
+knowledge and memory, and a lot of agencies do not have that.
+    But so much more could be done. If I was satisfied, I am in 
+the wrong job.
+    Senator Hassan. Right, and I understand that, and it is 
+always hard to achieve change, especially in large 
+organizations, especially sometimes mission-driven ones where 
+their focus is on the customer service aspect. But to the point 
+we both are making, the effective and frugal use of taxpayer 
+dollars is part of customer service.
+    One of the things I heard you really talk about that I 
+think is something we might want to pursue is how do we make 
+sure that our agencies have somebody who is accountable for 
+pursuing these recommendations and really taking on their 
+agency's fiscal responsibility in a way that might bring it to 
+the forefront and let them drive some of this change from 
+within. That really struck me as you were testifying.
+    Mr. Dodaro. I think that is a good issue. We have another 
+report coming out at the end of this month. There are actually 
+19 programs in the Federal Government that have reduced their 
+estimated improper payment rates when comparing fiscal year 
+2022 to 2017, and we are trying to glean, what are common 
+factors that cause that. Key factors include that they made 
+somebody responsible for that action and they shared data, and 
+upgraded their technology. We are trying to then take that and 
+extrapolate it.
+    But in the context of what we need, though, in terms of 
+dealing with our long-term deficit and debt problems, I have 
+seen more action on our recommendations on overlap, 
+duplication, and fragmentation the more Congress focuses on, 
+like when there were caps in place for the Budget Enforcement 
+Act of 2011. The first few reports we published received a lot 
+of attention, and several of the big-dollar savings came during 
+that period of time.
+    I think with the current discussion about trying to 
+restrain Federal spending in some of these areas that Congress 
+should look more at our recommendations. Because our 
+recommendations will not hurt beneficiaries or diminish 
+services; we focus on where you are wasting money. There are 
+smart ways to save money, and I think they deserve a lot of 
+attention. That is why we keep repeating these ones from the 
+past.
+    Senator Hassan. Senator Romney, you had another question?
+    Senator Romney. I did. This is perhaps personal curiosity, 
+but is there better technology for identifying whether someone 
+is who they say they are? My impression is that my credit card 
+company is pretty good at that, but the government is not 
+terribly good. We are still using Social Security numbers. Is 
+there better technology? I think, again, with AI and technology 
+that misidentification of people approaching government is 
+going to be an even greater problem.
+    Do we need to find a better way to authenticate if it is a 
+real human and who it is and where they live? Is there a 
+technology and an opportunity there?
+    Mr. Dodaro. The answer is yes. We need to have better 
+technology. Exactly what it is, I am not prepared to say at 
+this point, but we need to be better, not only for individuals 
+but also for companies. We have the same kind of issue there. 
+Yes, there are better ways, but we have to be willing to deal 
+with some of the potential privacy issues associated with it, 
+and so far that has been a little bit of a problem.
+    But it is the key. If we can get better technology to 
+better verify people, it is the key to making payments quickly, 
+without sacrificing the integrity of the programs. If you can 
+verify their identity early on in the process, it can help 
+prevent problems. That is why I was saying before, programs 
+should not have self-certification. You cannot have that. There 
+was no checking, none. And identities, could have been checked 
+easily in a lot of cases.
+    But there are better ways to do it. I have had discussions 
+with the Executive Branch about that. They are supposed to be 
+working on an Executive Order (EO) about how to improve 
+identity verification, but it is not yet out.
+    Senator Romney. At the airport, when I go to Clear, they 
+take a picture of my eye or my thumbprint, and yet when I apply 
+for a refund from the IRS I just give a Social Security number. 
+It just does not make sense to me.
+    Mr. Dodaro. Yes.
+    Senator Hassan. Or if we could have a system that could 
+read the----
+    Mr. Dodaro. Yes. There are agencies using facial 
+recognition technology, but they are facing a lot of blowback 
+to it. It is mostly in law enforcement areas right now, but IRS 
+tried to do it and they got a lot of pushback on that issue. It 
+is always a tension there that we face as a country on those 
+issues.
+    Senator Hassan. Thank you. Thank you, Senator Romney. I am 
+going to close again with thanking you, Mr. Dodaro, and all of 
+the GAO subject matter experts who are here today. Thank you 
+for your time, for your testimony, for the work that you do 
+every day to improve government services for the American 
+people. I look forward to continuing to work to address your 
+recommendations to save taxpayer dollars and deliver government 
+services more efficiently and effectively.
+    The hearing record will stay open for 15 days, until 5 p.m. 
+on June 29th, for submissions of statements and questions for 
+the record. This hearing is now adjourned.
+    [Whereupon, at 3:36 p.m., the hearing was adjourned.]
+
+                            A P P E N D I X
+
+                              ----------                              
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+                                 [all]
+

@@ -1,0 +1,2233 @@
+
+ - FROM THEORY TO REALITY: THE LIMITLESS POTENTIAL OF FUSION ENERGY
+
+[House Hearing, 118 Congress]
+[From the U.S. Government Publishing Office]
+
+
+
+
+ 
+                        FROM THEORY TO REALITY:
+                        THE LIMITLESS POTENTIAL
+                            OF FUSION ENERGY
+
+=======================================================================
+
+                                     
+                                     
+
+                                HEARING
+
+                               BEFORE THE
+
+                         SUBCOMMITTEE ON ENERGY
+
+                                 OF THE
+
+                      COMMITTEE ON SCIENCE, SPACE,
+                             AND TECHNOLOGY
+
+                                 OF THE
+
+                        HOUSE OF REPRESENTATIVES
+
+                    ONE HUNDRED EIGHTEENTH CONGRESS
+
+                             FIRST SESSION
+
+                               __________
+
+                             JUNE 13, 2023
+
+                               __________
+
+                           Serial No. 118-17
+
+                               __________
+
+ Printed for the use of the Committee on Science, Space, and Technology
+ 
+ 
+ 
+ [GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+                                     
+                                     
+                                     
+                                     
+                                     
+
+       Available via the World Wide Web: http://science.house.gov
+       
+       
+                         ______
+
+             U.S. GOVERNMENT PUBLISHING OFFICE 
+ 52-450          WASHINGTON : 2023
+     
+       
+       
+       
+
+              COMMITTEE ON SCIENCE, SPACE, AND TECHNOLOGY
+
+                  HON. FRANK LUCAS, Oklahoma, Chairman
+BILL POSEY, Florida                  ZOE LOFGREN, California, Ranking 
+RANDY WEBER, Texas                       Member
+BRIAN BABIN, Texas                   SUZANNE BONAMICI, Oregon
+JIM BAIRD, Indiana                   HALEY STEVENS, Michigan
+DANIEL WEBSTER, Florida              JAMAAL BOWMAN, New York
+MIKE GARCIA, California              DEBORAH ROSS, North Carolina
+STEPHANIE BICE, Oklahoma             ERIC SORENSEN, Illinois
+JAY OBERNOLTE, California            ANDREA SALINAS, Oregon
+CHUCK FLEISCHMANN, Tennessee         VALERIE FOUSHEE, North Carolina
+DARRELL ISSA, California             KEVIN MULLIN, California
+RICK CRAWFORD, Arkansas              JEFF JACKSON, North Carolina
+CLAUDIA TENNEY, New York             EMILIA SYKES, Ohio
+RYAN ZINKE, Montana                  MAXWELL FROST, Florida
+SCOTT FRANKLIN, Florida              YADIRA CARAVEO, Colorado
+DALE STRONG, Alabama                 SUMMER LEE, Pennsylvania
+MAX MILLER, Ohio                     JENNIFER McCLELLAN, Virginia
+RICH McCORMICK, Georgia              TED LIEU, California
+MIKE COLLINS, Georgia                SEAN CASTEN, Illinois,
+BRANDON WILLIAMS, New York             Vice Ranking Member
+TOM KEAN, New Jersey                 PAUL TONKO, New York
+VACANCY
+                                 ------                                
+
+                         Subcommittee on Energy
+
+               HON. BRANDON WILLIAMS, New York, Chairman
+RANDY WEBER, Texas                   JAMAAL BOWMAN, New York 
+JIM BAIRD, Indiana                       Ranking Member
+STEPHANIE BICE, Oklahoma             SUMMER LEE, Pennsylvania
+CHUCK FLEISCHMANN, Tennessee         DEBORAH ROSS, North Carolina
+CLAUDIA TENNEY, New York             ERIC SORENSEN, Illinois
+MAX MILLER, Ohio                     ANDREA SALINAS, Oregon
+TOM KEAN, New Jersey                 VALERIE FOUSHEE, North Carolina
+                         C  O  N  T  E  N  T  S
+
+                             June 13, 2023
+
+                                                                   Page
+
+Hearing Charter..................................................     2
+
+                           Opening Statements
+
+Statement by Representative Brandon Williams, Chairman, 
+  Subcommittee on Energy, Committee on Science, Space, and 
+  Technology, U.S. House of Representatives......................     9
+    Written Statement............................................    10
+
+Statement by Representative Jamaal Bowman, Ranking Member, 
+  Subcommittee on Energy, Committee on Science, Space, and 
+  Technology, U.S. House of Representatives......................    11
+    Written Statement............................................    12
+
+Statement by Representative Frank Lucas, Chairman, Committee on 
+  Science, Space, and Technology, U.S. House of Representatives..    13
+    Written Statement............................................    14
+
+Statement by Representative Zoe Lofgren, Ranking Member, 
+  Committee on Science, Space, and Technology, U.S. House of 
+  Representatives................................................    15
+    Written Statement............................................    16
+
+                               Witnesses:
+
+Dr. Kathryn McCarthy, Director, U.S. ITER Project Office
+    Oral Statement...............................................    17
+    Written Statement............................................    19
+
+Dr. David Kirtley, CEO, Helion Energy
+    Oral Statement...............................................    26
+    Written Statement............................................    28
+
+Dr. Wayne Solomon, Vice President, Magnetic Fusion Energy, 
+  General Atomics
+    Oral Statement...............................................    41
+    Written Statement............................................    43
+
+Mr. Andrew Holland, CEO, Fusion Industry Association
+    Oral Statement...............................................    54
+    Written Statement............................................    56
+
+Dr. Scott Hsu, Senior Advisor and Lead Fusion Coordinator, U.S. 
+  Department of Energy
+    Oral Statement...............................................    63
+    Written Statement............................................    65
+
+Discussion.......................................................    74
+
+             Appendix I: Answers to Post-Hearing Questions
+
+Dr. Kathryn McCarthy, Director, U.S. ITER Project Office.........    90
+
+Dr. David Kirtley, CEO, Helion Energy............................    91
+
+Dr. Wayne Solomon, Vice President, Magnetic Fusion Energy, 
+  General Atomics................................................    96
+
+Mr. Andrew Holland, CEO, Fusion Industry Association.............   103
+
+Dr. Scott Hsu, Senior Advisor and Lead Fusion Coordinator, U.S. 
+  Department of Energy...........................................   107
+
+            Appendix II: Additional Material for the Record
+
+Letters submitted by Dr. Wayne Solomon, Vice President, Magnetic 
+  Fusion Energy, General Atomics
+
+    Distinguished Professor William W. Heidbrink, Department of 
+      Physics and Astronomy, UC Irvine...........................   114
+
+    Professor Mark E. Koepke, Department of Physics, West 
+      Virginia University........................................   116
+
+    Professors Michael E. Mauel, Gerald A. Navratil, and Carlos 
+      Paz-Soldan, Department of Applied Physics and Applied 
+      Mathematics, Columbia University...........................   118
+
+    Dr. Miklos Porkolab, Professor Post Tenure, MIT..............   119
+
+    Professor William M. Tang, Plasma Physics Laboratory, 
+      Princeton University.......................................   121
+
+    Distinguished Professor George R. Tynan, Department of 
+      Mechanical and Aerospace Engineering, UC San Diego.........   123
+
+Studies submitted by Mr. Andrew Holland, CEO, Fusion Industry 
+  Association
+
+    ``The Global Fusion Industry in 2022,'' Fusion Industry 
+      Association................................................   125
+
+    ``The Fusion Industry Supply Chain: Opportunities and 
+      Challenges,'' Fusion Industry Association..................   156
+
+
+                        FROM THEORY TO REALITY:
+
+
+
+                        THE LIMITLESS POTENTIAL
+
+
+
+                            OF FUSION ENERGY
+
+                              ----------                              
+
+
+                         TUESDAY, JUNE 13, 2023
+
+                  House of Representatives,
+                            Subcommittee on Energy,
+               Committee on Science, Space, and Technology,
+                                                   Washington, D.C.
+
+    The Subcommittee met, pursuant to notice, at 2:34 p.m., in 
+room 2318 of the Rayburn House Office Building, Hon. Brandon 
+Williams [Chairman of the Subcommittee] presiding.
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+ 
+    Chairman Williams. All right. The Subcommittee on Energy 
+will come to order. Without objection, the Chair is authorized 
+to declare recess of the Subcommittee at any time.
+    Per agreement between the Chairman and Ranking Member of 
+the Full Committee, I ask unanimous consent that Mr. Beyer of 
+Virginia be allowed to participate in today's hearing. Without 
+objection, welcome, Mr. Beyer.
+    Welcome to today's hearing entitled ``From Theory to 
+Reality: The Limitless Potential of Fusion Energy.'' Move to 
+opening statements, I recognize myself for five minutes.
+    Good afternoon. Today, the Energy Subcommittee will be 
+examining the development of fusion energy as it progresses 
+from scientific experiment to commercial reality. Our 
+conversation will cover the Department of Energy's (DOE's) 
+Fusion Energy Sciences program, as well as the Federal 
+Government's public-private partnerships with the commercial 
+fusion industry. Fusion is the energy of our Sun and the energy 
+of every star in the universe. It has long been the dream of 
+mankind to capture this unlimited clean source of energy to 
+power our world. Given its potential, the Department of Energy 
+has invested billions of taxpayer dollars in fundamental 
+research and development (R&D) through the Fusion Energy 
+Sciences Program.
+    Today, fusion is more than just a science experiment. 
+Commercial fusion is an engineering challenge similar to 
+putting a man on the Moon. It's an economic opportunity even 
+greater than the California gold rush of 1849. And it's a 
+legislative opportunity more consequential to our Nation, as 
+was the Louisiana Purchase or the Marshall Plan.
+    I would like to introduce the topic and focus of today's 
+hearing in a very personal way. I want to tell you of my own 
+journey from being a fusion skeptic just a few months ago to a 
+fusion optimist today. Many of humankind's greatest inventions 
+are inspired by what we observe in creation. The Sun tells us 
+that fusion is real, for example. Birds testify to the 
+possibility of flight. Lightning reveals the power and 
+potential of electricity. But consider this: In none of these 
+instances do our modern solutions mimic the exact same 
+mechanics of nature. Modern aircraft do not flap their wings. 
+Lightning does not power our cities. It was up to the Wright 
+brothers, Michael Faraday, Thomas Edison, Marie Curie, and many 
+others to bridge the scientific discovery into the 
+extraordinary modern world we live in today.
+    Fusion research funded by our Federal Government, and much 
+of it through this Subcommittee, has focused on understanding 
+and recreating the fusion environment of the Sun. What if 
+humankind's harnessing of fusion power did not require 
+recreating the Sun here on Earth? What if commercial fusion was 
+achieved through rapid iterative innovation and the 
+entrepreneurial spirit like the Wright brothers in their 
+bicycle shop? The large-scale government-funded fusion 
+experiments like ITER (International Thermonuclear Experimental 
+Reactor) or the National Ignition Lab have unlocked invaluable 
+secrets about the nature of fusion, plasma physics, 
+superconducting materials, and much else. But the 
+commercialization of fusion energy into reliable, affordable, 
+and responsible electricity on the grid will be an 
+entrepreneurial solution, aligning scientific engineering, 
+environmental, and economic interests.
+    As I have met with and evaluated the technology of private 
+fusion companies over the last several months, I have become 
+much more hopeful that fusion on the grid may be possible 
+before the end of the decade. The incredible American spirit of 
+commercial innovation is making progress at far greater speed 
+and with far fewer resources than government projects, and I'm 
+convinced that this Nation must dramatically increase our 
+public investment in these private efforts to ensure that we 
+are the first to harness the history-changing energy source.
+    Over the last five years, Congress has prioritized funding 
+for fusion energy science and has enacted comprehensive 
+reauthorizations of DOE's programs, including the 2018 
+Department of Energy Research and Innovation Act, the Energy 
+Act of 2020, and, most recently, the CHIPS and Science Act. 
+These strategic investments, along with the development of new 
+public-private partnerships, has helped foster a growing 
+commercial fusion industry in the United States. Private 
+investment has grown to $2.8 billion last year, with 23 of the 
+37 private fusion companies located here in the United States 
+according to the Fusion Industry Association (FIA).
+    In 2015, ARPA--E (Advanced Research Projects Agency--
+Energy) launched the ALPHA (Accelerating Low-Cost Plasma 
+Heating and Assembly) program to help find low-cost pathways to 
+fusion with alternative approaches and has funded over $120 
+million in fusion projects, including partnering with one of 
+our witnesses today, Dr. David Kirtley.
+    Just last month, the Department of Energy selected eight 
+companies to participate in its new $46 million fusion 
+Milestone-based development program. This program is modelled 
+on the highly successful NASA program Commercial Orbital 
+Transportation Services (COTS), which spurred the development 
+of our space sector. This program is exactly what Congress can 
+do and must do to ensure that the nascent fusion industry 
+continues to flourish. It is critical for Congress to continue 
+to provide robust funding for fundamental research in fusion 
+and to fund essential public-private partnerships.
+    As the Energy Subcommittee Chairman, I wanted to share with 
+you my own journey from skepticism to optimism, and I will work 
+tirelessly with my colleagues on both sides of the aisle to 
+bring U.S. fusion forward from fundamental research to fusion 
+on the grid.
+    I want to thank our witnesses for their testimony today, 
+and I look forward to our conversation.
+    [The prepared statement of Chairman Williams follows:]
+
+    Good afternoon. Today, the Energy Subcommittee will be 
+examining the development of fusion energy as it progresses 
+from scientific experiment to commercial reality. Our 
+conversation will cover the Department of Energy's Fusion 
+Energy Sciences program as well as the Federal Government's 
+public-private partnerships with the commercial fusion 
+industry.
+    Fusion is the energy of our sun and the energy of every 
+star in the universe. It has long been the dream of mankind to 
+capture this unlimited, clean source of energy to power our 
+world. Given its potential, the Department of Energy has 
+invested billions of taxpayer dollars in fundamental research 
+and development through the Fusion Energy Sciences program.
+    Today, fusion is more than just a science experiment- 
+commercial fusion is an engineering challenge similar to 
+putting a man on the moon; it is an economic opportunity even 
+greater than the California gold rush of 1849, and it is a 
+legislative opportunity more consequential to our nation as was 
+the Louisiana Purchase or the Marshall Plan.
+    I would like to introduce the topic and focus of today's 
+hearing in a very personal way. I want to tell you of my own 
+journey from being a fusion-skeptic just a few months ago, to a 
+fusion-optimist today.
+    Many of humankind's greatest inventions are inspired by 
+what we observe in creation-the sun tells us that of fusion is 
+real for example. Birds testify to the possibility of flight. 
+Lightning reveals the power and potential of electricity. But 
+consider this: in none of these instances do our modern 
+solutions mimic the exact same mechanics of nature. Modern 
+aircraft do not flap their wings. Lightning does not power our 
+cities. It was up to the Wright Brothers, Michael Faraday, 
+Thomas Edison, Marie Curie, and many others to bridge the 
+scientific discovery into the extraordinary modern world we 
+live in today.
+    Fusion research, funded by our Federal Government and much 
+of it through this Subcommittee, has focused on understanding 
+and recreating the fusion environment of the sun. What if 
+humankind's harnessing of fusion power did not require 
+recreating the sun, here on earth? What if commercial fusion 
+was achieved through rapid, iterative innovation and the 
+entrepreneurial spirit like the Wright Brothers in their 
+bicycle shop?
+    The large-scale, government-funded fusion experiments, like 
+ITER or the National Ignition Lab have unlocked invaluable 
+secrets about the nature of fusion, plasma physics, 
+superconducting materials, and much else. But the 
+commercialization of fusion energy into reliable, affordable, 
+and responsible electricity on the grid will be an 
+entrepreneurial solution-aligning scientific, engineering, 
+environmental, and economic interests. As I have met with and 
+evaluated the technology of private fusion companies over the 
+last several months, I have become much more hopeful that 
+``fusion on the grid'' may be possible before the end of the 
+decade. The incredible American spirit of commercial innovation 
+is making progress at far greater speed, and with far fewer 
+resources, than government projects. And I am convinced that 
+this nation must dramatically increase our public investment in 
+these private efforts to ensure that we are the first to 
+harness this history-changing energy source.
+    Over the last five years, Congress has prioritized funding 
+for fusion energy sciences and has enacted comprehensive 
+reauthorizations of DOE's programs, including the 2018 
+Department of Energy Research and Innovation Act, the Energy 
+Act of 2020, and the CHIPS and Science Act.
+    These strategic investments, along with the development of 
+new public-private partnerships, has helped foster a growing 
+commercial fusion industry in the United States. Private 
+investment has grown to $2.8 billion last year, with 23 of the 
+37 private fusion companies located here in the U.S., according 
+to the Fusion Industry Association.
+    In 2015 ARPA--E launched the ALPHA program to help find 
+low-cost pathways to fusion with alternative approaches, and 
+has funded over $120 million in fusion projects, including 
+partnering with one of our witnesses today, Dr. David Kirtley.
+    Just last month, the Department of Energy selected eight 
+companies to participate in its new $46 million fusion 
+milestone-based development program. This program is modeled on 
+the highly successful NASA program, Commercial Orbital 
+Transportation Services, which spurred the development of our 
+space sector. This program is exactly what Congress can do and 
+must do to ensure that the nascent fusion industry continues to 
+flourish.
+    It is critical for Congress to continue to provide robust 
+funding for fundamental fusion research and development, AND to 
+fund essential public-private partnerships programs. As the 
+Energy Subcommittee Chairman, I wanted to share with you my own 
+journey from skepticism to optimism. And I will work tirelessly 
+with my colleagues on both sides of the aisle to bring U.S. 
+fusion forward from fundamental research to ``fusion on the 
+grid.''
+    I want to thank our witnesses for their testimony, and I 
+look forward to our conversation.
+
+    Chairman Williams. I now recognize the Ranking Member, the 
+gentleman from New York, for his opening statement, sir.
+    Mr. Bowman. Thank you, Mr. Chairman, for convening this 
+hearing here today, and thank you to our panel for--of 
+distinguished witnesses for appearing before the Committee to 
+talk about a subject that is not only fascinating, but also 
+hopefully very significant for our clean energy future.
+    Fusion energy is a topic that I personally have loved 
+delving into since joining the Science Committee, and I know 
+that many of my colleagues on both sides of the aisle share my 
+enthusiasm. It is no surprise why this clean energy source is 
+attractive. The material used as fuel is practically infinitely 
+abundant, it is safe, and it is clean. It does not produce 
+greenhouse gas emissions or other forms of pollution, so fusion 
+energy would be a real gamechanger for humanity.
+    While we still have a lot of catching up to do in other 
+aspects of climate action, the Federal Government has 
+recognized the great potential fusion energy holds. Congress, 
+through the acts of this Committee, has authorized sweeping 
+Federal policy for fusion energy research and development in 
+the handful of historic climate and energy bills passed into 
+law over the past few years. And a few of those bills, along 
+with annual appropriations, have provided significant funding 
+for these activities. I am pleased to see that President 
+Biden's budget request for Fiscal Year 2024 asked for funding 
+very close to the authorization of appropriations providing in 
+one of these bills, the Science Committee's landmark CHIPS and 
+Science Act. All of these actions display broad support for 
+fusion energy from the Federal Government.
+    And we are seeing the fruits of our labor. There have been 
+huge developments in the field over the past few years, which 
+are bringing us closer to realizing the full potential of 
+fusion energy. There have been advances in engineering and 
+system performance, as well as the achievement of a burning 
+plasma and fusion ignition. There has also been a flurry of 
+private investment in fusion energy technology, and I know some 
+of our witnesses here today can attest to that.
+    But as we all know all too well, the impacts of climate 
+change are devastating, and we must continue ramping up our 
+ambition levels. Those of us from districts in the Northeast 
+such as mine, and even those of us here in D.C. all experienced 
+the smoke from the Canadian wildfires just last week. Everyone 
+felt the effects from workers who had no choice but to continue 
+working outside to commuters to children who could not play 
+outside for recess. And this incident is not unique or 
+isolated. The climate crisis is far-reaching, and it is an 
+existential matter for all of us. So I will continue to 
+advocate for robust funding for fusion energy and for the many 
+other clean energy solutions that can be deployed today in 
+order to protect our health, safety, and future. I urge my 
+colleagues to do the same.
+    I look forward to this discussion, and I yield back.
+    [The prepared statement of Mr. Bowman follows:]
+
+    Thank you, Chairman Williams, for convening this hearing 
+today, and thank you to our panel of distinguished witnesses 
+for appearing before the Committee to talk about a subject that 
+is not only fascinating but also, hopefully, very significant 
+for our clean energy future. Fusion energy is a topic that I 
+personally have loved delving into since joining the Science 
+Committee, and I know that many of my colleagues on both sides 
+of the aisle share my enthusiasm. It is no surprise why this 
+clean energy source is attractive; the material used as fuel is 
+practically infinitely abundant, it is safe, and it is clean--
+it does not produce greenhouse gas emissions or other forms of 
+pollution. So fusion energy would be a real game changer for 
+humanity.
+    While we still have a lot of catching up to do in other 
+aspects of climate action, the federal government has 
+recognized the great potential fusion energy holds. Congress, 
+through the acts of this Committee, has authorized sweeping 
+federal policy for fusion energy research and development in 
+the handful of historic climate and energy bills passed into 
+law over the past few years. And a few of those bills, along 
+with annual appropriations, have provided significant funding 
+for these activities. I am pleased to see that President 
+Biden's budget request for Fiscal Year 2024 asks for funding 
+very close to the authorization of appropriations provided in 
+one of these bills--the Science Committee's landmark CHIPS and 
+Science Act. All of these actions display broad support for 
+fusion energy from the federal government.
+    And we are seeing the fruits of our labor. There have been 
+huge developments in the field over the past few years which 
+are bringing us closer to realizing the full potential of 
+fusion energy. There have been advances in engineering and 
+system performance as well as the achievement of a burning 
+plasma and fusion ignition. There has also been a flurry of 
+private investment in fusion energy technology, and I know some 
+of our witnesses here today can attest to that.
+    But as we all know all too well, the impacts of climate 
+change are devastating, and we must continue ramping up our 
+ambition levels. Those of us from districts in the Northeast, 
+such as mine, and even those of us here in DC all experienced 
+the smoke from the Canadian wildfires last week. Everyone felt 
+the effects, from workers who had no choice but to continue 
+working outside, to commuters, to children who could not play 
+outside for recess. And this incident is not unique or 
+isolated; the climate crisis is far reaching, and it is an 
+existential matter for all of us. So I will continue to 
+advocate for robust funding for fusion energy, and for the many 
+other clean energy solutions that can be deployed today, in 
+order to protect our health, safety, and future. I urge my 
+colleagues to do the same.
+    I look forward to this discussion, and I yield back.
+
+    Chairman Williams. Thank you, Mr. Bowman.
+    We're pleased to be joined by the Chairman of the Full 
+Committee, Mr. Lucas. Sir, I now recognize you for your opening 
+statement.
+    Chairman Lucas. Thank you, Chairman Williams.
+    Today, we have an opportunity to explore the current status 
+of U.S. research and development in fusion energy sciences, a 
+cutting-edge technology that holds great promise for our energy 
+independence, global competitiveness, and environmental 
+stewardship. As many of today's panelists know, fusion R&D has 
+long enjoyed bipartisan support on this Committee, and for good 
+reason. It is exactly the type of high-risk, high-reward 
+research that expands our fundamental knowledge of science and 
+technology and pushes the limits of what's possible. The 
+potential benefits of this fundamental research are tremendous, 
+which is why it's so critical for DOE to prioritize it.
+    That's why Chairman Williams and I, along with majority 
+Members of this Subcommittee, sent a letter to the Secretary 
+recently to ensure the Office of Science funds programs like 
+fusion energy sciences are appropriately supported. Fusion is 
+the ultimate clean and abundant energy source. If we are 
+serious about our energy future, there is no technology that 
+meets our needs better than fusion. Today, I look forward to 
+hearing more about how the Science Committee can continue our 
+support for these high-priority research activities both 
+internationally and here at home.
+    Since our last meeting on this subject in 2021, the U.S. 
+fusion community has been hard at work. You've been busy. As a 
+result of that work, we've seen several landmark 
+accomplishments, like the achievement of fusion ignition at the 
+Lawrence Livermore National Lab. There has been a surge of 
+innovation in the U.S. fusion industry, including a first-of-
+its-kind fusion power purchase agreement, and a favorable 
+Nuclear Regulatory Commission (NRC) ruling on the regulation of 
+U.S. fusion reactors, just to name a few.
+    Last summer, Congress passed the CHIPS and Science Act of 
+2022, which, thanks to years of bipartisan Science Committee 
+work, provides robust funding, essential policy direction, and 
+strategic guidance for the U.S. fusion energy R&D. This 
+legislation gives the DOE Office of Science, our national labs, 
+and their industry research partners the resources they need to 
+continue to excel. This is important because, despite many 
+recent advances in the field, fusion energy science remains one 
+of the greatest challenges in experimental physics today.
+    We know there's much more work to be done to realize the 
+promise of this emerging technology, and we cannot afford to 
+lose the momentum that has been generated so far. To do this, 
+we need to continue to take an all-of-the-above approach to 
+advancing our shared fusion energy goals. We must support full 
+funding for U.S. participation in ITER, the leading 
+international research project for fusion energy. We must make 
+major investments in U.S. fusion research programs and 
+infrastructure. And we must continue to support productive 
+partnerships with a rapidly growing U.S. fusion industry.
+    In the immediate future, we'll be continuing our oversight 
+of DOE's implementation of Science Committee direction in CHIPS 
+and Science and the Energy Act of 2020. While I was pleased to 
+see the President's budget request includes funding levels for 
+some fusion energy science activities consistent with CHIPS and 
+Science authorizations, I look forward to hearing DOE's plans 
+to fully implement this legislation.
+    And I want to thank our witnesses for their testimony today 
+and for outlining their plans to make fusion energy a reality 
+for the next generation. I look forward to a productive 
+discussion.
+    I thank you, Chairman Williams, and I yield back the 
+balance of my time.
+    [The prepared statement of Chairman Lucas follows:]
+
+    Today, we have an opportunity to explore the current status 
+of U.S. research and development in fusion energy sciences, a 
+cutting-edge technology area that holds great promise for our 
+energy independence, global competitiveness, and environmental 
+stewardship.
+    As many of today's panelists know, Fusion R&D has long 
+enjoyed bipartisan support on this committee--and for good 
+reason. It is exactly the type of high-risk, high-reward 
+research that expands our fundamental knowledge of science and 
+technology and pushes the limits of what's possible.
+    The potential benefits from this fundamental research are 
+tremendous, which is why it's so critical for DOE prioritize 
+it. That's why Chairman Williams and I, alongside majority 
+members of this subcommittee, sent a letter to the Secretary 
+recently to ensure Office of Science programs like Fusion 
+Energy Sciences (FES) are appropriately supported.
+    Fusion is the ultimate clean and abundant energy source--if 
+we are serious about our energy future, there is no technology 
+that meets our needs better than fusion.
+    Today, I look forward to hearing more about how the Science 
+Committee can continue our support for these high-priority 
+research activities both internationally and here at home.
+    Since our last hearing on this subject in 2021, the U.S. 
+fusion community has been hard at work--you've been busy! As a 
+result of that work, we've seen several landmark 
+accomplishments, like the achievement of fusion ignition at 
+Lawrence Livermore National Laboratory.
+    There has been a surge of innovation in the U.S. fusion 
+industry, including a first-of-its kind fusion power purchase 
+agreement, and a favorable Nuclear Regulatory Commission ruling 
+on the regulation of U.S. fusion reactors--just to name a few.
+    Last summer, Congress passed the CHIPS and Science Act of 
+2022, which--thanks to years of bipartisan Science Committee 
+work--provides robust funding, essential policy direction, and 
+strategic guidance for U.S. fusion energy R&D.
+    This legislation gives the DOE Office of Science, our 
+National Labs, and their industry research partners the 
+resources they need to continue to excel. This is important 
+because, despite many recent advances in the field, fusion 
+energy science remains one of the greatest challenges in 
+experimental physics today.
+    We know there is much more work to be done to realize the 
+promise of this emerging technology, and we cannot afford to 
+lose the momentum that has been generated so far.
+    To do this, we need to continue to take an all-of-the-above 
+approach to advancing our shared fusion energy goals.
+    We must support full funding for U.S. participation in 
+ITER--the leading international research project for fusion 
+energy. We must make major investments in U.S. fusion research 
+programs and infrastructure. And we must continue to support 
+productive partnerships with the rapidly growing U.S. fusion 
+energy industry.
+    In the immediate future, we will be continuing our 
+oversight of DOE's implementation of Science Committee 
+direction in CHIPS and Science and the Energy Act of 2020.
+    While I was pleased to see the President's budget request 
+includes funding levels for some Fusion Energy Sciences 
+activities consistent with CHIPS and Science authorizations, I 
+look forward to hearing DOE's plans to fully implement this 
+legislation.
+    I want to thank our witnesses for their testimony today, 
+and for outlining their plans to make fusion energy a reality 
+for the next generation. I look forward to a productive 
+discussion. Thank you, Chairman Williams, I yield back the 
+balance of my time.
+
+    Chairman Williams. Thank you, Mr. Chairman.
+    I now recognize Ms. Lofgren, the Ranking Member of the Full 
+Committee, for an opening statement.
+    Ms. Lofgren. Well, thank you, Mr. Chairman, and to the 
+Ranking Member for this very important hearing and to each of 
+the witnesses. This is an impressive panel, and I thank you for 
+being here with us today.
+    You know, this Committee, as has been mentioned, has played 
+a leading role in building support and shaping national policy 
+for fusion energy development, especially over the last several 
+years. Now, the need to significantly improve support for U.S. 
+fusion research is actually one of the reasons why I ran for 
+Congress in 1994, and it's one of the major reasons why I 
+decided to seek the Ranking Member position on this Committee 
+after the retirement of Chairwoman Johnson last year.
+    The support for fusion is strongly bipartisan, and it's 
+also bicameral. Now, the substantial direction for modern 
+fusion energy programs was provided in the bipartisan 
+Department of Energy Research and Innovation Act of 2018 and 
+expanded upon in the bipartisan Energy Act of 2020, and, as has 
+been mentioned, in the CHIPS and Science Act that we were able 
+to pass in the last Congress. I'm excited about the 
+breakthroughs that we have seen in the last two years, 
+including the achievement of ignition at the National Ignition 
+Facility right in my backyard in December. And it's worth 
+noting that Congress always stood up for the National Ignition 
+Facility and saved it from the brink of extinction several 
+times, so we were especially pleased to see that achievement.
+    I'm glad that President Biden has recognized the progress 
+we've made in his budget request for 2024, which includes over 
+$1 billion for the Department of Energy's Fusion Energy 
+Research Program. That's a 32 percent increase. Now, the 
+request isn't perfect. I advocated for more. For example, it 
+still does not include any specific funds to establish an 
+alternative fusion energy concepts program that was authorized 
+in 2018, and no President has asked for the funds yet. But 
+taken as a whole, this budget request is a huge improvement 
+over previous budget requests made by any President, whatever 
+their party.
+    We're now seeing in the race to commercial fusion 
+mindboggling advances. So, as stated so clearly in the recent 
+long-range plan developed by DOE's Fusion Energy Science 
+Advisory Committee, now is the time to move aggressively toward 
+the deployment of fusion energy, or to put it another way, if 
+not now, when?
+    So I want to give my apologies in advance because our 
+hearing was disrupted by votes. It wasn't our fault. First, 
+thank you for your patience in waiting for us to return, not 
+only the witnesses but the audience. But I also have a speaking 
+engagement a little after 3, so I'm going to have to leave, but 
+I read the testimony of each one of you last night, and it's 
+excellent. So I look forward to hearing the questions. The 
+staff will fill me in. And thank you, thank you for all you've 
+done, but even more, what you're going to do with your 
+investors, with your scientists, and with the support of this 
+Committee.
+    And with that, Mr. Chairman, I yield back.
+    [The prepared statement of Ms. Lofgren follows:]
+
+    Good afternoon and thank you to the Chairman and Ranking 
+Member for holding this very important hearing today. And thank 
+you to this quite impressive panel of witnesses for being here. 
+The Science, Space, and Technology Committee has played a 
+leading role in building support and shaping our national 
+policy for fusion energy development, especially over the last 
+several years.
+    The need to significantly improve support for our U.S. 
+fusion research enterprise is actually one of the major reasons 
+that I first ran for Congress in 1994, and one of the top 
+reasons that I decided to seek the Ranking Member position of 
+this Committee after Chairwoman Johnson retired last year. As 
+you've all heard in the statements from Chairman Lucas, Ranking 
+Member Bowman, and Chairman Williams, this support is now 
+strongly bipartisan, and it is also bicameral.
+    Substantial direction for the modern fusion energy program 
+was provided in the bipartisan Department of Energy Research 
+and Innovation Act of 2018, and significantly expanded upon in 
+the bipartisan Energy Act of 2020. More recently, additional 
+guidance and extensions of current authorizations were provided 
+in the landmark CHIPS and Science Act, which the President 
+signed into law in August.
+    I am excited about the real breakthroughs we've seen in 
+fusion over the last 2 years alone, including the monumental 
+achievement of ignition at the National Ignition Facility in 
+December. I'm also encouraged by the rapid growth we are now 
+seeing in the private sector for fusion, and the major 
+technical achievements that they are now bringing to our 
+overall national effort. And I am especially encouraged that 
+President Biden recognized this progress in his Budget Request 
+for 2024, which includes over $1 billion for the Department of 
+Energy's fusion energy research program, a 32% increase. Now, 
+this request is not perfect. For example, it still does not 
+include any specific funds to establish an alternative fusion 
+energy concepts program as authorized in statute since 2018, 
+and I plan to continue to press to address this critical gap. 
+But taken as a whole, this proposal for fusion is a vast 
+improvement over any previous budget request that I can recall 
+in my time in Congress.
+    All that said, let us be clear. There is still a lot more 
+work to do. This Committee has built a solid legislative 
+framework that would ensure that the U.S. is the world leader 
+in this potentially transformational emerging industry through 
+the bipartisan laws that I mentioned. And this Administration 
+is now clearly ready to follow through on this direction. But 
+if we don't translate this sizeable leap in support into actual 
+appropriated funds this year, then our nation will have missed 
+a major opportunity to meet this pivotal moment. And given the 
+growing global competition that we're now seeing in the race to 
+commercial fusion, I believe that we would all deeply regret 
+that.
+    As stated so clearly in the most recent Long Range Plan 
+developed by DOE's Fusion Energy Sciences Advisory Committee, 
+``Now is the time to move aggressively toward the deployment of 
+fusion energy.'' Or to put this another way: If not now, then 
+when?
+    So we should not take anything for granted. I am doing 
+everything I can to make sure that going forward, our annual 
+federal funding reflects this immense progress and the promise 
+of fusion energy, and I invite you all to join me in this 
+effort.
+    Thank you and I yield back.
+
+    Chairman Williams. Thank you. So let me introduce our 
+witnesses. Our first witness today is Dr. Kathryn McCarthy, the 
+Director of the U.S. ITER Project Office. Our next witness is 
+Dr. David Kirtley, the CEO (Chief Executive Officer) of Helion 
+Energy. Third is Dr. Wayne Solomon, Vice President of the 
+Magnetic Fusion Energy at General Atomics (GA). Our next 
+witness is Mr. Andrew Holland, CEO of the Fusion Industry 
+Association. And our last witness is Dr. Scott Hsu, Senior 
+Advisor and Lead Fusion Coordinator at the U.S. Department of 
+Energy.
+    I now recognize Dr. McCarthy for five minutes to present 
+her testimony.
+
+               TESTIMONY OF DR. KATHRYN McCARTHY,
+
+               DIRECTOR, U.S. ITER PROJECT OFFICE
+
+    Dr. McCarthy. Thank you very much. Chairman Williams, 
+Chairman Lucas, Ranking Member Bowman, and Ranking Member 
+Lofgren, and Members of the Committee, I want to thank you for 
+this opportunity to discuss fusion and the ITER project. I'm 
+Dr. Kathy McCarthy, Director of the U.S. ITER project at Oak 
+Ridge National Laboratory. I'm a nuclear engineer and National 
+Academy of Engineering member with over 30 years in the fields 
+of fusion and fission, nuclear science, and engineering.
+    The path to fusion energy has benefited from several recent 
+record-breaking achievements, both here in the United States at 
+the National Ignition Facility, as well as at the JET (Joint 
+European Torus) tokamak in the United Kingdom. However, there 
+remain major challenges that must be resolved to develop 
+practical fusion energy. ITER is positioned to play a central 
+role in addressing these challenges.
+    For a practical fusion energy system, we must be able to 
+produce and sustain a fusion power source in a safe and 
+economical manner. At full power operation, ITER will produce a 
+self-sustaining what we call burning plasma and demonstrate 
+commercial-scale power over a long pulse lasting several 
+minutes. The data, experience, and lessons learned from ITER 
+will be valuable to a broad range of fusion approaches.
+    As a research facility, ITER will offer tools and expertise 
+at the scale of a specialized Department of Energy laboratory 
+and will be a valuable test facility. For a path to fusion 
+energy, not just fusion science, it will be essential to master 
+both the science and technology required. ITER offers that 
+opportunity, plus access to ITER intellectual property, and to 
+a one-of-a-kind scientific facility for research on high-power 
+plasmas.
+    ITER's already providing us with practical experience 
+designing, fabricating, and assembling a licensed fusion 
+facility. ITER's developing fusion supply chains and working 
+with industry to deliver to fusion's exacting requirements. 
+ITER is building a diverse fusion workforce and is one of the 
+largest training grounds for fusion in the world. ITER is 
+providing information and experience to member nations. 
+Information of particular interest to U.S. fusion industry 
+includes plasma heating systems, plasma fueling, vacuum 
+systems, superconducting magnet technology, and manufacturing 
+qualification approaches. DOE is leading a process to 
+facilitate U.S. fusion access to project information and 
+intellectual property.
+    ITER is a major contributor to U.S. competitiveness in 
+fusion now and in the future. The United States has the 
+advantage of participation in ITER, plus a strong public 
+program in fusion science and engineering and an expanding 
+fusion industry.
+    The start of ITER tokamak assembly in 2020 and continued 
+project progress shows us that it's possible to achieve 
+engineering precision at the millimeter scale on large fusion 
+components. Today, the international site is more than 85 
+percent complete for civil construction, and hardware 
+components are being delivered for assembly from all of the 
+ITER partners.
+    There have been changes and challenges at the international 
+ITER project. After the passing of Bernard Bigot, Pietro 
+Barabaschi assumed the Director General role in October 2022. 
+Barabaschi is now leading organizational adjustments to the 
+project to support success with tokamak assembly and to ensure 
+appropriate integration with ITER partners.
+    There have also been technical challenges. The project 
+identified nonconformances in some vacuum vessel sectors that 
+will require repair before assembly. The project also 
+determined that manufacturing methods resulted in defects on 
+thermal shield components. Both of these issues are being 
+addressed.
+    The ITER organization is working closely with the French 
+nuclear regulator to determine an appropriate path for 
+regulation. The project is a strong advocate of a stepwise 
+approach since while ITER poses fewer hazards than a typical 
+fission reactor, it is a new technology.
+    Finally, the ITER organization is also engaged in 
+preparation of an updated baseline and schedule to address 
+delays from COVID and first-of-a-kind manufacturing and 
+assembly. U.S. ITER is also engaged in updating its baseline 
+and schedule. Recent U.S. ITER achievements include the 
+delivery of two central solenoid modules with a third on the 
+way for what's called the heart of ITER, a 60-foot-tall 
+superconducting magnet at the center of the tokamak.
+    Since its original baseline in 2017, U.S. ITER has 
+completed over 100 deliveries to the ITER site. Overall, 60 
+percent of all U.S. assigned in-kind hardware contributions 
+have been credited by ITER. We're at an exciting moment in the 
+path to practical fusion energy. The ITER project is 
+complementary to other government fusion investments into 
+efforts in private industry. We appreciate the support of the 
+House and this Committee and all that they've provided to ITER 
+and fusion.
+    Thank you for this opportunity to share my thoughts with 
+the Subcommittee, and I request that my written testimony be 
+made part of the public record. And I welcome any questions 
+that you may have. Thank you.
+    [The prepared statement of Dr. McCarthy follows:]
+    [GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+ 
+    
+    Chairman Williams. Thank you, Dr. McCarthy.
+    I now recognize Dr. Kirtley for 5 minutes to present his 
+testimony.
+
+       TESTIMONY OF DR. DAVID KIRTLEY, CEO, HELION ENERGY
+
+    Dr. Kirtley. Thank you. Mr. Chairman, Mr. Ranking Member, 
+honorable Members of the Committee, my name is Dr. David 
+Kirtley. I'm a co-founder and the CEO of Helion Energy. I'm 
+honored to be here today to speak on behalf of Helion to 
+provide evidence for the accelerating progress of the 
+commercial fusion energy sector. Moreover, I'm humbled to be 
+here along my esteemed peers for whom I respect and for their 
+contributions they have and have continued to bring to the 
+fusion community.
+    Candidly, 20 years ago, I would not have imagined to be 
+here to speak on the viability of commercializing fusion 
+technology. I was, like many, a fusion skeptic. In fact, after 
+many years of studying fusion I actually left the field for a 
+while. I went to work in the aerospace sector building plasma 
+thrusters because I did not see a clear path forward for 
+commercializing fusion energy technology in my lifetime. The 
+last time I was in this building was actually on behalf of 
+plasma thruster technologies.
+    But I am now here 10 years since Helion's funding with a 
+commitment to deploy megawatts of fusion power on the grid by 
+the end of this decade. We partnered with industry giants, 
+Microsoft in consultation and a now growing team of over 165 
+employees who are deeply inspired by our mission to enable a 
+future of humanity with clean, widespread electricity.
+    It's fair to say that I see the outlook for commercial 
+fusion and the entire planet much more optimistically than I 
+once did. Now, I believe fusion will be on the grid within a 
+decade, and we have the potential to build a fusion power plant 
+per day if we plan our policies right. Today, I hope to leave 
+you with that same belief.
+    In the last two decades, several things have happened to 
+change not only my outlook, but the outlook of many in the 
+fusion community. Scientists have been studying fusion since 
+the 1950's, but it's not until the last two decades that many 
+of our theories have been made possible by progress in outside 
+industries such as power electronics, fiber optics, and 
+computer simulation. This, paired with a growing swell of 
+physicists and engineers and companies approaching the fusion 
+challenge from varying perspectives, has helped the tens of 
+private fusion companies in the United States and even more 
+globally achieve remarkable results. In the last five years 
+alone, my industry peers have increased the fusion output of 
+their machines, demonstrated new magnetic technologies, and 
+advanced--developed advanced computational models that bring us 
+all closer to realizing the commercial fusion vision.
+    I'm extremely proud that Helion has also been a part of 
+that progress. Today, we've built six working fusion 
+prototypes, each building on the successes and the failures of 
+its predecessor. Our earliest prototypes were supported by 
+research grants and SBIR (Small Business Innovation Research) 
+grants from the Department of Energy Office of Science, setting 
+private--setting records for temperature of private fusion 
+systems. Also notably, the ARPA--E program, ARPA--E ALPHA 
+program specifically, supported our fifth fusion prototype, 
+which clearly demonstrated thermonuclear fusion.
+    In 2022, our sixth generation fusion prototype--we call 
+that one Trenta--was the first private fusion system to reach 
+100 million degree fusion plasma temperatures, demonstrating 
+there's a path to bring Helion's approach to fusion to the 
+grid. Now, we're building our seventh generation system. We 
+switched naming topologies and call that one Polaris, which we 
+expect to demonstrate the production--the demonstration of 
+electricity from fusion for the first time. Following Polaris, 
+Helion will then work to build our first fusion power plant. If 
+everything is successful, we'll be slated to deliver 
+electricity to Microsoft as soon as 2028.
+    So while I'm incredibly proud of the progress my team has 
+made over the last 10 years, I know we still have a tremendous 
+amount of work to do, as I'm sure it's true across the fusion 
+industry. I believe in the power of human ingenuity, and I 
+believe that we are now at a point where we can meet the 
+physics and engineering challenges our field has worked so long 
+and so hard to overcome. And I am convinced that this will 
+happen this decade.
+    But the fusion community cannot do it alone. We need the 
+bold leadership and continued support from the U.S. Government 
+while evolving our thinking around fusion deployment and 
+policy. I call on this Committee to help realize a vision 
+beyond the construction of a single power plant but an entire 
+American fusion manufacturing industry that can get to 
+constructing a power plant per day in the 2030's.
+    To do that, we need to begin considering the next step for 
+fusion and not just ask how can we further the fusion science 
+but also ask how can America accelerate fusion's development 
+and lead the world in its mass deployment? A great example of 
+this thinking came from the NRC, which recently--with its 
+recent determination to find a clear path for fusion regulation 
+in the United States. Next, I see an opportunity for Congress 
+to implement a three-part policy to support manufacturing, 
+licensing, and then deployment of fusion at scale, which I look 
+forward to discuss more with you over the course of this 
+hearing today.
+    In front of us is an enormous opportunity to change the 
+world for the better. We are finally at an inflection point 
+where the science and engineering can deliver on fusion's long-
+held promise before the end of the decade. I hope the 
+government will continue to offer its support for the industry 
+as we scale up mass manufacturing and deployment.
+    I want to thank all of you today for allowing me to be here 
+and provide input on how I believe we can do that. Thank you 
+very much.
+    [The prepared statement of Dr. Kirtley follows:]
+    [GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+ 
+    
+    Chairman Williams. Thank you, Dr. Kirtley.
+    I now recognize Dr. Solomon for five minutes, sir, for your 
+opening statement.
+
+        TESTIMONY OF DR. WAYNE SOLOMON, VICE PRESIDENT,
+
+            MAGNETIC FUSION ENERGY, GENERAL ATOMICS
+
+    Dr. Solomon. Thank you, Chairman Williams, Ranking Member 
+Bowman, Chairman Lucas, Ranking Member Lofgren, and Members of 
+the Subcommittee. Thank you for inviting me here today to speak 
+before you. My name is Wayne Solomon, and I'm the Vice 
+President of the Magnetic Fusion Energy Division at General 
+Atomics, and I'm excited to join you today to share with you my 
+optimism and excitement about fusion energy.
+    GA, as you may know, has a rich fusion legacy dating back 
+to 1955 when we began our pioneering innovations in atomic 
+energy research. Now with over 12,500 employees and extensive 
+global facilities, we're committed to driving fusion forward. 
+Our expertise is evident in several key programs. We proudly 
+operate the DIII-D National Fusion Facility, the largest 
+tokamak in the United States, on behalf of the Department of 
+Energy's Office of Science. This facility is a vital resource 
+for the entire fusion community, serving over 650 researchers 
+from nearly 100 institutes from the United States and around 
+the world. It has been continuously upgraded to stay at the 
+forefront of fusion research and provides hands-on experience 
+for over 200 students and postdoctoral scholars.
+    GA also has a dedicated team exploring fusion theory and 
+computational science. They use powerful supercomputers like 
+the Frontier system at Oak Ridge National Laboratory to gain 
+insights into complex fusion dynamics. GA also plays a major 
+role in the U.S. ITER project, responsible for building the 
+ITER central solenoid, the world's most powerful pulsed 
+superconducting magnet. This magnet can generate enough force 
+to lift an aircraft carrier out of the water. As you heard from 
+Dr. McCarthy a few moments ago, we have already shipped the 
+first three of those completed modules from our facility, with 
+the remaining four of them well underway and undergoing final 
+fabrication and testing at our San Diego facility.
+    GA is also an important contributor of other ITER systems, 
+including control systems and measurement systems, that will be 
+critical to support ITER's operation.
+    In addition, GA supports research in inertial confinement 
+fusion (ICF), which, as you heard earlier, achieved the first 
+controlled ignition at the National Ignition Facility last year 
+funded through the Weapons Stockpile Stewardship Program of the 
+NNSA (National Nuclear Security Administration). GA's 
+innovative technologies were key in this achievement, including 
+the production of the tiny target capsules and the fuel tubes 
+used to fill the capsules with fuel.
+    Through a 25-year collaboration with the ICF program, GA 
+actually supplies more than 12,000 components annually. 
+Internally, GA has invested over $100 million in magnetic 
+fusion research and development, focusing on advancements in 
+magnets, materials, detectors, and control systems and other 
+supporting technologies for fusion. We have introduced our 
+vision for a pilot plant based on the advanced tokamak concept, 
+enabling continuous steady state operation, which we continue 
+to pursue.
+    Our collaborations with national labs like Oak Ridge, 
+Princeton, and Lawrence Livermore have been crucial to our 
+progress. From the nanoscale to the macroscale, GA recognizes 
+the importance of public-private partnerships and fully 
+supports the DOE Milestone program and funding for startup 
+companies to pursue commercial fusion.
+    We also recognize the crucial role of the public program in 
+getting fusion to where it is now and believe it will be even 
+more essential to robustly fund public programs and facilities 
+into the future.
+    I want to express my gratitude to the Committee for its 
+leadership in advancing fusion. The President's Fiscal Year 
+2024 budget request of over $1 billion reflects your hard work 
+and insight. However, achieving the goals of the bold decadal 
+vision will require even greater and sustained investments.
+    In conclusion, I would like to emphasize three key points. 
+First, GA brings a unique combination of public and private 
+sector experience in both magnetic fusion energy and inertial 
+fusion energy. Second, private sector efforts can significantly 
+accelerate progress toward the success of commercial fusion and 
+the decadal vision. And third, the public programs supporting 
+national labs, academia, and existing established facilities 
+like DIII-D are vital for the future success of fusion.
+    I thank you for the opportunity to testify. Mr. Chairman, I 
+also have six letters from prominent fusion researchers that I 
+would appreciate you inserting into the record of this hearing.
+    I commend this Committee for its leadership in advancing 
+fusion and look forward to your questions. Thank you.
+    [The prepared statement of Dr. Solomon follows:]
+    [GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+ 
+    
+    Chairman Williams. Thank you. Your letters will be entered 
+into the record.
+    I now recognize Mr. Holland for five minutes to present his 
+testimony.
+
+                TESTIMONY OF MR. ANDREW HOLLAND,
+
+                CEO, FUSION INDUSTRY ASSOCIATION
+
+    Mr. Holland. Thank you, Chairman Williams, Ranking Member 
+Bowman, Chairman Lucas, Ranking Member Lofgren, Members of the 
+Committee. Thank you all for the invitation to testify on 
+fusion energy's limitless potential. I'm Andrew Holland, the 
+CEO of the Fusion Industry Association. Our 37 member companies 
+are dedicated to building the energy system of tomorrow on a 
+timescale that's relevant to today's energy challenges. I'll 
+refer you to my full statement in the record for all the 
+details, but I'd like to give you an overview on why I'm so 
+excited that business is getting serious about fusion.
+    Unlike my colleagues on this panel, I'm not a scientist. 
+Instead, my background is in public policy. I actually started 
+my career answering phones for a Member of Congress about 100 
+yards away down that way. I turned my career toward supporting 
+fusion energy because it's a clean energy solution that can 
+scale. When fusion power plants are widely available, we'll be 
+able to bring clean, safe, sustainable energy to areas of the 
+country and the world that have been left behind. And the link 
+between energy and national security has never been clearer, 
+especially after Russia's illegal invasion of Ukraine. Fusion 
+energy will mean that geography no longer matters for energy 
+security.
+    So it's clear why there's bipartisan interest in fusion 
+energy. The Biden Administration's bold decadal vision builds 
+on the groundwork laid by the Trump Administration's Department 
+of Energy and the bipartisan leadership of this Committee. So 
+let me say thank you for working together over many years to 
+support fusion research and development.
+    The FIA's members include a wide variety of approaches to 
+fusion power, magnets, lasers, pistons, or more that could 
+drive fusion. That diversity manages risk. Thirty-seven shots 
+on goal give us more chances of scoring than concentrated--
+concentrating resources on just one approach.
+    Our members include Helion Energy, whose CEO is testifying 
+here with me, and 22 other American companies of the 37 
+companies in total. They range in size from hundreds of 
+employees and billions of dollars in capital to startups with a 
+few people, seed funding, and a good idea. And I want to give 
+you some idea about our affiliate members, our 72 affiliate 
+members who include many of the companies who will be involved 
+in the broader fusion energy economy. These range from small, 
+specialized manufacturers like Keller Technology company in 
+upstate New York or MetOx in Houston, to utilities like the 
+Tennessee Valley Authority or Southern Company, who will be 
+delivering energy from fusion power plants; Google, who needs a 
+firm, secure, zero-carbon source of power for their vast energy 
+demand; or firms like Westinghouse, Fluor, and Bechtel, who 
+want to use their experience from other energy sources to 
+support building a fusion-powered future. I could easily list 
+other affiliate members ranging from NGOs (non-governmental 
+organizations) to law firms to multinational oil companies.
+    Because where fusion once was only a matter for publicly 
+funded universities or national labs, it is rapidly becoming a 
+part of key decisions and businesses around the world. Even in 
+the 18 months since this Committee last held a fusion hearing, 
+investment has more than doubled to nearly $6 billion.
+    So everyone in fusion knows the one question we always get 
+next. When? Technological breakthroughs are a function of both 
+time and resources. Today, the addition of private funding, 
+commercial innovation, and new public-private partnerships put 
+fusion on an accelerated pathway. FIA members agree that the 
+timeline of a decadal vision can be achieved. And I know this 
+is extremely ambitious, but we need ambition. While American 
+firms have an early advantage in the private fusion landscape, 
+other countries are moving forward their plans for commercial 
+fusion with Japan, South Korea, Germany, and especially the 
+U.K. putting forward ambitious plans.
+    As American allies and partners race toward fusion, China 
+is also making key investments and hitting important 
+milestones. China could win the race to fusion energy if the 
+United States does not invest. So maybe the question is not 
+when, but where.
+    So what is to be done? A new Milestone-based public-private 
+partnership will accelerate fusion by using public dollars to 
+drive private investment in a pay-for-performance program, 
+leading to fusion pilot plants. The announcement two weeks ago 
+of eight new Milestone-based awards to fusion energy companies 
+is the latest step in a process this Committee has long led 
+toward. And this year, for the first time, the President's 
+budget requested over $1 billion for fusion energy research, 
+including new R&D centers and funding for the Milestone 
+program. This funding is an important start. We urge you to 
+support the budget request.
+    Let me close by saying that this is exactly how the United 
+States works best, public leadership on science and 
+infrastructure paired with private capital and business 
+innovation. In the decades to come when they write the book on 
+how fusion was commercialized, what role will Congress have 
+played? The opportunity is there for us to seize it.
+    Thank you, and I look forward to your questions. Great to 
+be with you all today.
+    [The prepared statement of Mr. Holland follows:]
+    [GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+ 
+    
+    Chairman Williams. Thank you, Mr. Holland.
+    I now recognize Dr. Hsu for five minutes to present his 
+testimony.
+
+                  TESTIMONY OF DR. SCOTT HSU,
+
+          SENIOR ADVISOR AND LEAD FUSION COORDINATOR,
+
+                   U.S. DEPARTMENT OF ENERGY
+
+    Dr. Hsu. Thank you, Chairman Williams, Ranking Member 
+Bowman, Chairman Lucas, Ranking Member Lofgren, and 
+distinguished Members of the Committee. It is an honor to 
+appear before you today.
+    The Department of Energy is grateful for your unwavering 
+bipartisan support of fusion energy sciences R&D. As the DOE's 
+Lead Fusion Coordinator, I will speak to DOE's recent efforts 
+to advance a bold decadal vision for commercial fusion energy, 
+which was first unveiled at a White House summit in March 2022. 
+This bold vision leverages both the decades of public 
+investments that brought fusion science to breathtaking 
+heights, such as the achievement of fusion ignition last 
+December, and the significant private capital being invested 
+into U.S. fusion companies.
+    Our key objective is to partner with the private sector to 
+resolve the largest remaining scientific and technological 
+challenges this decade with the ambition to realize an 
+operating fusion pilot plant early in the next decade. If we 
+are successful, fusion could contribute to achieving net zero 
+carbon emissions by 2050 while enabling energy security, energy 
+abundance, and strengthened U.S. technological leadership.
+    Simultaneously, we will prepare the path to fusion 
+commercialization by addressing a range of needs, including 
+supporting the development of regulatory frameworks, building 
+out supply chains, engaging the public to ensure energy and 
+environmental justice, development of a skilled and diverse 
+workforce, and much more.
+    The many recent fusion scientific and technological 
+advances suggest that practical fusion energy may now be less a 
+matter of time than that of collective societal will. In the 
+remainder of my statement, I highlight key DOE efforts over the 
+past year to advance the bold decadal vision. First, just two 
+weeks ago, DOE announced eight selectees under the Milestone-
+Based Fusion Development Program, which was first authorized in 
+the Energy Act of 2020 and reauthorized in the CHIPS and 
+Science Act of 2022. This program is the primary mechanism by 
+which DOE will partner with the private sector to accelerate 
+fusion energy R&D.
+    Modeled after the NASA program that enabled the commercial 
+space launch industry and guided by recommendations from the 
+National Academies report, ``Bringing Fusion to the U.S. 
+Grid,'' the Milestone program is an innovative public-private 
+partnership that allows for industry-friendly terms and 
+conditions, while simultaneously reducing risk to the taxpayer 
+because companies will provide more than half the total project 
+costs via non-Federal sources and will receive Federal payments 
+only upon verified milestone completion. The eight recipients 
+represent a diversified portfolio of fusion concepts and 
+commercialization approaches, building on the full range of 
+longstanding investments that the DOE has made, including from 
+the Office of Science, the NNSA, and more recently ARPA--E. The 
+selectees will work with multiple DOE national labs, 
+universities, and other stakeholders on the R&D toward 
+realizing a preliminary engineering design for a fusion pilot 
+plant.
+    Second, the DOE formed a new fusion crosscut team to 
+coordinate fusion-relevant equities across DOE program offices. 
+Highlights of these activities include: the Office of Science 
+Isotope R&D Production Program led an assessment of fusion fuel 
+isotope needs for fusion demonstration and deployment. The 
+NNSA's Defense Nuclear Nonproliferation Office sponsored a 
+workshop at Princeton University to start a discussion on how 
+best to support fusion commercialization in a manner that 
+addresses nuclear proliferation concerns. And the DOE Office of 
+Economic Impact and Diversity helped implement the requirement 
+of community benefit plans into the Milestone program.
+    Third, I'd like to mention elements that directly advanced 
+the bold decadal vision in the President's Fiscal Year 2024 
+budget request: $130 million to grow the Milestone program, 
+$120 million for new fusion R&D centers to support and align 
+national lab and university efforts in the development of a 
+fusion pilot plant, $15 million for inertial fusion energy, and 
+$14.7 million for studies on priority test facilities such as a 
+neutron source to advance fusion materials science and testing. 
+These efforts are in addition to ongoing R&D activity supported 
+by the Office of Science, NNSA, and ARPA--E that provide the 
+foundation and innovations for the bold decadal vision.
+    Finally, the DOE is engaging with interagency and 
+international partners to identify new targeted strategic 
+collaborations to compress the timeline to fusion 
+commercialization.
+    Thank you again for the opportunity to testify. DOE looks 
+forward to continued collaborations with all of you to deliver 
+timely commercial fusion energy. I'll be happy to take 
+questions. Thank you.
+    [The prepared statement of Dr. Hsu follows:]
+   [GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+ 
+    
+    Chairman Williams. Thank you, Dr. Hsu.
+    I want to thank all of you for your comments and insight. I 
+think there's a lot of diversity and experience and points of 
+view, so I think we'll have a good discussion. And I'd like to 
+begin. I'm going to reserve my time for questions until later, 
+but I'd like to recognize Chairman Lucas for five minutes for 
+questions, sir.
+    Chairman Lucas. Thank you, Mr. Chairman.
+    As I mentioned in my opening statement, I'm a strong 
+advocate for an all-of-the-above approach not just in energy in 
+general but specifically in fusion energy. It's not the 
+government's role to pick winners and losers.
+    So, Dr. McCarthy, with all the momentum the commercial 
+fusion sector is experiencing right now, what would you say to 
+some of ITER's critics that argue it is no longer relevant? 
+Let's just cut to the chase.
+    Dr. McCarthy. Thank you for that question, Chairman Lucas. 
+So let me start out by saying part of the reason why there is 
+the large private investment is because of the path that ITER 
+has paved in terms of designing, fabricating, delivering, and 
+now assembling components. That's an important piece of things.
+    At the ITER site, there are--several systems have already 
+been commissioned. And, for example, the cryogenic system is 
+currently being commissioned. All of those things provide 
+important information.
+    But let's talk about moving forward because many of the 
+private companies have as public goals achieving a burning 
+plasma earlier than will be achieved in the ITER experiment. So 
+let's make the assumption that they will be successful on the 
+schedule that they've laid out. What does that mean for ITER? 
+And by the way, I would say that all of us who have been 
+involved in fusion for me at--since graduate school are 
+cheering on the private companies. this is a great, great thing 
+that's happening, and we want them to be successful.
+    So let's assume that they're going to be successful. What 
+does that mean for ITER? Well, what ITER will give you it is a 
+highly diagnosed machine that was designed to provide 
+information to a broad variety of fusion concepts, a broad 
+variety primarily of magnetic fusion concepts. And so the 
+information from ITER and especially when it comes to long 
+pulse because part of what you need to be able to handle is the 
+particle and heat exhaust. That's an important piece, 
+understanding various modes of plasma behavior. That's what 
+will get us from the next steps that you're seeing in the 
+private industry to a commercial industry.
+    And then finally, I would say think of ITER in a similar 
+vein as an advanced test reactor, as a high flux isotope 
+reactor in the United States. The fission industry still gets 
+support from research reactors as they evolve and improve and 
+provide more economical energy. So those are some of the 
+examples.
+    Chairman Lucas. Absolutely. Mr. Holland, what challenges or 
+hurdles does the industry still have to overcome for the dream 
+of fusion power plant to become a reality?
+    Mr. Holland. Well, you know, the thing is is that fusion is 
+hard. I don't want anybody to think that just because we say we 
+can get there in a decade that fusion is easy. Fusion is hard. 
+Fusion is hard. And when I mentioned in my testimony that 
+there's 37 different approaches, 37 different ways within our 
+member companies, the challenge is is that each of them have a 
+different pathway forward. So as the industry association, what 
+I'd say that--like Dr. Hsu said, it is about collective will. 
+It's about resources. It's about applying resources. That means 
+money, yes, but it also means human resources, it means 
+capital, it means public interest. So things like this are just 
+almost as important as getting over those scientific hurdles 
+because we need to--we need everybody to be pulling in the same 
+direction on this.
+    Chairman Lucas. Dr. Solomon, Dr. Hsu, following up on that, 
+how are DOE user facilities like DIII-D supporting the 
+expanding fusion industry and helping them overcome the 
+hardships they're facing so successfully?
+    Dr. Solomon. Well, thank you. Good question, and I'm glad 
+you brought it up. DIII-D is an open user facility, so, first 
+of all, all of the results which are generated on the DIII-D 
+facility are openly published and are available to all. More 
+recently, a variety of steps have been taken to actually open 
+up DIII-D to be more accessible to private industry 
+participants, including the ability to conduct proprietary-
+based research as well. And not to mention, as I alluded to in 
+my opening remarks, DIII-D is a very flexible facility. It's a 
+very well-measured--instrumented, measured, diagnosed facility, 
+which makes it very valuable for any private entity who 
+encounters a particular challenge in their regime, even if it's 
+a different fusion concept, to be able to come and test 
+something in a fusion-relevant environment and maybe find a 
+pathway forward.
+    Chairman Lucas. Dr. Hsu?
+    Dr. Hsu. Yes, I'll add two things. One is the science that 
+DIII-D produces is absolutely exquisite. It's the best in the 
+world, and it develops our workforce, which is the second point 
+to be the leading innovators in fusion science.
+    Chairman Lucas. It looks like my time has expired, Mr. 
+Chairman. Thank you very much.
+    Chairman Williams. Thank you, Mr. Chairman.
+    I now recognize the Ranking Member, Mr. Bowman, for five 
+minutes.
+    Mr. Bowman. Thank you, Mr. Chairman.
+    Dr. Hsu, I was very pleased to see a budget request for 
+fusion from the President that was largely consistent with 
+bipartisan authorizations from this Committee. This is the 
+level of ambition we really needed from the Administration, and 
+you delivered. That said, I understand that the request still 
+does not include any specific funds to establish an alternative 
+fusion energy concepts program as authorized in statute since 
+2018. This is surprising because, as you know well, in recent 
+years, several alternative concepts have begun to show promise 
+from commercial--for commercial fusion. Yet there's currently 
+no ongoing DOE program to support research and assessment of 
+these innovative concepts outside of the public-private 
+partnerships funded by the Milestone program.
+    So, for example, researchers at the university of--or 
+laboratory level do not currently have a program that would 
+even consider their application for Federal funding. It's 
+exciting to see all the progress and enthusiasm from the 
+private sector, but this is still a big concern. I do not 
+believe that DOE should be relying almost exclusively on 
+venture capital to help identify the next game-changing 
+approach in this truly transformative field.
+    So, Dr. Hsu, what if any steps is the Department taking to 
+address this critical gap?
+    Dr. Hsu. Thank you for the question, Ranking Member Bowman. 
+So first, let me just say we hear you. And I will be taking 
+this very topic back to--for discussion at the DOE. As some of 
+you may know, this area of research was my own area of research 
+before I came to Washington. And in fact, I testified before 
+this Committee on innovative approaches to fusion energy back 
+in 2016. And so we recognize that past public investments in 
+this area contributed to the vibrant fusion private sector that 
+we see today.
+    I will point out a few things though. As you noted, the 
+public-private partnerships do support alternative concepts. I 
+would also mention that INFUSE (Innovation Network for Fusion 
+Energy) and the Milestone program specifically have alternative 
+concepts as eligible to participate in those programs, and 
+attention on alternative concepts may grow--will grow because 
+of this.
+    I'll also say that the proposed R&D centers in the Fiscal 
+Year 2024 President's budget request are intended to be aligned 
+with the Milestone program, and thus, alternative concepts will 
+be eligible there as well.
+    So all this being said, we continue to implement the 
+program direction in the CHIPS and Science authorization 
+language, you know, balancing priorities and available funds, 
+but we look forward to continued discussions with the Committee 
+on this important topic. Thank you.
+    Mr. Bowman. Thank you, Dr. Hsu.
+    Dr. Kirtley and Mr. Holland, is there anything you'd like 
+to add on the potential value of such a program to advancing 
+our entire U.S. fusion enterprise?
+    Dr. Kirtley. Yes, I'll start. I can definitely--I can start 
+with how valuable the alternative energy programs in the past 
+were for Helion. I would say that our company and our 
+technology would not be here without them. Our earliest 
+prototypes were supported by DOE Office of Science direct 
+grants, as well as SBIRs. Both of those programs enabled us to 
+take very high risk technologies that were theorized and on 
+paper and not yet ready for deployment, had not yet 
+demonstrated fusion, build those machines, prove fusion, get to 
+keV 10 million degree temperatures, measure fusion reactions, 
+and be able to--that was the stepping stone that enables us to 
+go to private venture capital, and then work with them and 
+their internal review processes to be able to move forward with 
+commercial funding. We would not be where we are without it, 
+and so I'm definitely a supporter of this for new technologies.
+    Mr. Holland. And I would just add, in my written testimony, 
+I include a chart that's kind of a family tree of fusion. And 
+like I said, there's 37 member companies of the FIA. I don't 
+think we're stopped--we've stopped growing. All of them have 
+different technology subsets. So the idea of having just a 
+government program that only looks to one or two of those 
+approaches, I think it's important to have a full-fledged 
+alternatives program as well, given, you know, the nature of--
+it shouldn't be a zero sum game. It needs to be as much funding 
+as possible for everything.
+    Dr. Kirtley. And if I can add one more, after we went out 
+to the private venture capital community and showed that we can 
+do fusion in our systems and got some early stage funding, 
+ARPA--E, the ALPHA program, was also there to meet us as we 
+were growing and take this early technology and scale up in 
+both fusion output and physical scale and energy scale. And so 
+at that point, we had a partnership with matching venture 
+capital and public funds to go build machines that did fusion. 
+And all of those paved the way to the large scale fusion 
+machines that we operate today.
+    Mr. Bowman. Thank you, Mr. Chairman. I yield back.
+    Chairman Williams. Thank you, Mr. Bowman.
+    I now recognize Mr. Fleischmann for five minutes.
+    Mr. Fleischmann. Thank you, Mr. Chairman, and to this 
+distinguished panel. I've worked with you before. You've been 
+at many of our meetings. And of course, Dr. McCarthy, for those 
+in the audience, has been kind enough to actually tutor me in 
+fusion, so I appreciate that so much. And I know you're 
+extremely well-versed in fission as well. So thank you for 
+being here.
+    I represent the Oak Ridge Reservation. In my other life 
+here I am an appropriator. I chair the Energy and Water 
+Subcommittee of Appropriations, so we look forward to funding a 
+lot of the initiatives and working in a bipartisan manner on 
+fusion, so I thank you all.
+    The recent technological advancements in the Fusion Energy 
+Sciences, particularly the National Ignition Facility 
+breakthrough this past December at the Lawrence Livermore 
+National Laboratory that we've mentioned earlier, has 
+captivated many people around the country as we eagerly 
+anticipate the potential for commercial fusion energy. As has 
+been discussed, the Office of Science has helped lay the 
+foundation for these advancements and has started to take the 
+next step toward commercialization through its public-private 
+partnerships program and through its work to advance fusion 
+pilot concepts.
+    My question is one of--more of inquiry. For the entire 
+panel, and I'll begin, hopefully, with Dr. McCarthy, why is the 
+Office of Science leading this effort and not the Office of 
+Nuclear Energy? Public-private partnerships and fusion pilot 
+concepts seek to take fusion energy sciences beyond the bench 
+scale and into the realm of commercialization. Is that an 
+appropriate role for the Office of Science?
+    Dr. McCarthy. Thank you very much, Congressman Fleischmann. 
+And I'll point out you are a very good student. He did a lot of 
+homework before we actually met.
+    Mr. Fleischmann. Thank you.
+    Dr. McCarthy. So I am going to talk about just for a minute 
+and then pass it on to my colleagues. I think typically, a 
+reorganization isn't necessarily how you solve some things. I 
+think what we need to do, especially in these phases, is look 
+at what is making it challenging to do things quickly, and what 
+do we need to do to remove those barriers? And I think that's 
+an important first step. And so with that, I will pass it to my 
+colleague.
+    Mr. Fleischmann. Thank you.
+    Mr. Holland. Thanks for the question, Congressman. It is--
+you know, sometimes the question of which box goes where in the 
+organizational chart is academic, but I think in this one, it 
+is really interesting and important to think about because if 
+fusion gets to be as big as we all say it is, you know, 
+building a fusion power plant today, bringing, you know, clean, 
+safe, sustainable energy to the whole world, then it's obvious 
+there needs to be an applied program. There needs to be a 
+fusion energy applied program that stands on its own. The 
+things that have to be done and research in fusion are separate 
+and independent on its own, whether it's from nuclear energy, 
+electrical energy, all of the other applied offices in DOE. 
+Fusion should stand on its own. Fusion should be able to have a 
+leader within Department of Energy who can advocate on their 
+own for fusion.
+    So we think that, ultimately, the question of going there 
+is important. Whether it gets there next year, five years, 10 
+years, open question, and we look forward to working with you 
+and the Members of this Committee on determining what that 
+looks like. But ultimately, yes, there should be a fusion 
+energy applied program.
+    Mr. Fleischmann. Thank you.
+    Dr. Hsu. Well, I was going to stay silent, but I don't 
+think I'd get away with it. So first, let me emphasize that the 
+DOE must ensure the success of both the fundamental fusion and 
+plasma sciences alongside our new focus on applied R&D efforts 
+and public-private partnerships. So without--we need both of 
+those for this--the bold decadal vision to ultimately be 
+successful.
+    And I want to amplify what Dr. McCarthy said. I think our 
+immediate need is really to ensure that the priorities of the 
+bold decadal vision such as the Milestone program and other 
+areas outlined in my written testimony are off to a strong 
+start and that we can move quickly, you know, and have the 
+agility to move quickly.
+    So I'll just say DOE is considering the barriers, the 
+factors, and the criteria that impact that success, and we look 
+forward to continued discussions with the Committee on this.
+    Mr. Fleischmann. I want to again thank each and every one 
+of you for coming up today and being with us and testifying.
+    And with that, Mr. Chair, I'll yield back.
+    Chairman Williams. Thank you.
+    I now recognize Ms. Ross for five minutes.
+    Ms. Ross. Thank you very much, Chairman Williams, Ranking 
+Member Bowman, for holding this hearing today, and thank you so 
+much to the witnesses for joining us.
+    For decades, scientists and engineers have tested the 
+boundaries of experimental physics to duplicate a fusion 
+reaction and harness it as an energy source. The potential 
+benefits to society from fusion reactors are beyond 
+calculation. I represent the Research Triangle area and NC 
+State University, so many people interested in this area.
+    The fuel is abundant, widely accessible, and the carbon 
+footprint is negligible, and its associated nuclear waste and 
+nonproliferation concerns are minimal, as you all know. Despite 
+these incentives, and despite recent landmark achievements in 
+the field, fusion energy science remains one of the most 
+challenging areas of experimental physics today. However, it's 
+crucially important to putting the world on a path of reduced 
+greenhouse gas emissions, and with the advantages of fusion, it 
+makes it worth pursuing and pursuing robustly.
+    My first question is for Dr. Hsu. You highlight in your 
+testimony just a few weeks ago that DOE announced a set of 
+eight selectees for its new Milestone-based public-private 
+partnership program for fusion. It's exciting and encouraging 
+to see such a range of companies and approaches to fusion 
+supported by DOE now. Can you provide us with any insight on 
+the number of high quality applications to this program that 
+DOE is currently unable to support due to limited funds and the 
+level of funding to support the current selectees and whether 
+that's sufficient to do what we need to do?
+    Dr. Hsu. Yes, so I'm afraid I'm a bit limited in what I can 
+reveal, but what I will say is, in my written testimony, I 
+noted that we made the conscious decision to select a higher 
+number of worthy selections at lower levels of funding to each, 
+so that would tell you that we were oversubscribed. I believe 
+the Fusion Industry Association has some data on that, which 
+may not be complete but gives you an idea. And so certainly 
+there are more worthy applicants that we had that we could 
+possibly support.
+    Ms. Ross. OK. This next question is to all the witnesses 
+with the two minutes I've got left. The clean energy transition 
+to net zero--a net zero global economy by 2050 represents one 
+of the greatest challenges and opportunities for the United 
+States and the world. From a climate change perspective, we 
+know we have to achieve net zero emissions in order to avoid 
+the most catastrophic consequences of climate change. The 
+science demands it, and we've passed laws recently to help the 
+United States stay on track.
+    Yet this transition also serves as an important opportunity 
+for the United States to win the race among our global 
+competitors in a clean energy economy. And some discussion was 
+had about that, not when, but whom. By some estimates, the 
+transition will require almost $5 trillion per year to achieve 
+net zero. We're seeing increased competition with China across 
+a range of clean energy technologies, and my fear is that we 
+could repeat mistakes of the past where the United States 
+invests in technology only to watch China and other nations 
+come to dominate the market.
+    I know, Mr. Holland, you raised this. Could you speak to 
+that first and then anybody else who wants to pipe in with the 
+time we have left?
+    Mr. Holland. Yes, absolutely. And thank you for the 
+question. I want to be clear on this, that the Chinese are 
+making very significant and serious investments both in their 
+public sector government-run fusion program and increasingly in 
+private companies. Now, what makes for a private company in 
+China is an open question, but they they've announced very 
+significant capital raises of, you know, something like $700 
+million for a recent one that are moving quickly and getting 
+ready to build things. So we expect to see that--the Chinese 
+trying to take a larger leadership role.
+    That said, the United States and our allies have some 
+really important inherent advantages. The combination of the 
+private sector scientists willing to take risks and a 
+government fusion program that has been a world leader for a 
+long time, if we make the investments, if we do the things to 
+move at speed, there's no reason the United States can't win 
+this and then also can't have a manufacturing industry that's 
+more like--it's not like a commodity manufacturing industry 
+like a solar industry or something. It's more like a really 
+complicated manufacturing industry, like an aerospace industry. 
+And the United States is really good at that. So this is 
+something--fusion is something the United States can lead on 
+and should be able to lead on.
+    Ms. Ross. I see my time has expired, but if anybody wants--
+well, it's up to the Chairman.
+    Chairman Williams. Please go ahead, Dr. Kirtley.
+    Dr. Kirtley. I can make a brief statement, and we can 
+follow up as we wish. I would say two quick things. One, we 
+know that in China on the R&D efforts there is--for instance, 
+Helion released results from our latest machine and then very 
+quickly saw a copycat machine identical to some published 
+results we had published a decade earlier show up in China, so 
+we know that that is happening on the R&D side.
+    And then I'll say, as a private business, we see this on 
+the manufacturing side, too, throughout the world. We have 
+interests coming to us all over the world in bringing 
+manufacturing for our systems outside of the United States, and 
+so this is something that's very high up on our list to make 
+sure that America invests in the manufacturing of the future so 
+that we can build fusion generators here in the United States.
+    Ms. Ross. Thank you for your indulgence, Mr. Chairman.
+    Chairman Williams. Yes, thank you for your insightful 
+question.
+    I now recognize Mr. Miller for five minutes.
+    Mr. Miller. Thank you, Mr. Chairman, and thank you, Ranking 
+Member, for today's hearing. And to the witnesses for joining 
+us today, thank you.
+    Over the past few years, we have seen incredible interest 
+in fusion technology, and, according to the Fusion Industry 
+Association, over $2 billion of private funding was injected 
+into fusion technologies just last year. This private capital 
+is pouring into fusion companies that are looking to build 
+prototypes and commercialize their technologies in the coming 
+decade.
+    Dr. Kirtley, congratulations on your company's own success 
+raising capital. Now, you could--now, excuse me, could you 
+explain a little bit more about how you plan to spend these 
+resources and how they will help your company meet its goal of 
+bringing its fusion energy plan online in 2028?
+    Dr. Kirtley. Congressman, thank you very much for the 
+question. So Helion has announced that we have previously 
+raised a total of around $577 million in private capital to 
+date. We have used these systems to complete the operations of 
+our sixth generation machine, beginning now the construction--
+this should fund the completion of our seventh generation 
+machine--we call this one Polaris--that will be completed, our 
+goal is, by January of next year and then come online through 
+2024, demonstrating electricity extraction or production for 
+the first time from fusion and then begin to pave the way with 
+these funds for this power plant, so this means the design 
+efforts, the early siting.
+    And then in parallel, to answer some of the questions 
+previously, is to begin manufacturing. So we announced earlier 
+this year that we are manufacturing capacitors, energy storage 
+systems here in the United States, the first capacitor 
+manufacturing line I'm aware of in probably decades, and 
+immediately got interest from both overseas as well as our 
+existing other private industries in fusion and national 
+laboratories to buy capacitors from us. And so we're also doing 
+parallel efforts in a number of other manufacturing areas and 
+would call on this Committee to talk about how we can begin 
+broad scaling this mass manufacturing beyond just Helion's 
+needs but the fusion industry in total.
+    Mr. Miller. Thank you for that detailed answer, much 
+appreciated.
+    To all the witnesses, and anyone can jump in if they'd 
+like, could you please shed some light on why there is suddenly 
+all this private capital pouring into fusion companies?
+    Mr. Holland. Maybe I can because I've talked to a lot--to 
+all of them. The--it's a combination of supply and demand. And 
+by supply, I mean, the science is ready. The--all of the work 
+that's been done in national science programs around the world 
+for 50 years has come together with the fact also that you have 
+all of these other enabling technologies. David mentioned, you 
+know, capacitors and power management. There's also high 
+temperature superconducting wires allow the most powerful 
+magnets to ever be built, laser optics and, you know, all of 
+the other enabling technologies there, as well as computer 
+technologies. Artificial intelligence and high speed computing 
+have really allowed us to model what we can do there, so that's 
+the supply side.
+    And then the demand side is that it's a huge business 
+opportunity, and there's a huge, huge need to meet the climate 
+and energy challenges. And so that's why--you know, that's why 
+the investment is coming in because they see that, look, 
+there's only so many pathways to getting to a full net zero 
+economy, and fusion provides a new tool in that toolkit. And, 
+you know, some of the estimates for the size of the business 
+are huge. I think it was Bloomberg said the value of the fusion 
+industry could be $44 trillion by the time we're fully there, 
+so it's an exciting time.
+    Mr. Miller. And what do you think is the--is really the 
+best course of action to familiarize the American people with 
+so that they're comfortable with this type of technology? 
+Because we hear this a lot, that sometimes the American people 
+aren't ready or they may have somewhat of a distorted view on 
+nuclear fusion when, I agree with you, that is probably the 
+most clean--cleanest form of energy that we have known to man 
+and certainly the most powerful that I believe powers already 
+1/3 of our electricity grid. It's just, you know, getting it 
+put out there even more so to inform people.
+    So in terms of the messaging aspect of this, what do you 
+think is the most palatable way to help the--you know, the 
+American electorate and the constituents that we have across 
+the country be comfortable with this technology?
+    Mr. Holland. So fusion--just very quickly, fusion is--it's 
+unknown at this point. It--as opposed to nuclear fission, which 
+has its own challenges. Fusion is a new energy source, so we'll 
+have to make sure that people are aware of the opportunities 
+here and show them why it matters to them. And it's just going 
+out there, being open about it. We're trying to get it started 
+and getting people to know about it. David knows more.
+    Dr. Kirtley. Yes----
+    Dr. McCarthy. If I can just add a little bit. First of all, 
+I think people misunderstand where the public is with respect 
+to fission. It was true in the old days that there was a lot of 
+negativity toward fission, but the polls have showed that 
+people are actually far more accepting. They understand the 
+important part that it plays in a clean--in getting to a net 
+zero economy. The same is true for fusion. And I think one of 
+the things that we need to do is to not just talk amongst 
+ourselves. And so one of the things I try and do is to get out 
+and talk to groups that aren't traditional groups for fusion or 
+for fission just to help people understand. And I found a very 
+welcome reception. I think, generally speaking, people 
+understand the need for clean technology, and they will be--and 
+I've seen that they're supportive. I think that'll continue.
+    Mr. Miller. OK. Awesome. Sorry, Chairman, it's up to you at 
+this point.
+    Chairman Williams. Please, Dr. Kirtley.
+    Dr. Kirtley. I can try to be brief again. I think for our 
+perspective community engagement and making sure that people 
+know what's happening in fusion is critically important for 
+adoption of this technology. And so for us, it's show hardware. 
+That's our policy. And so it's as much as we can show the 
+things we're building, talk about how they work, show people 
+talking about how they work, and then try to honestly address 
+some of the challenges that maybe future as--in the future as 
+fusion scales to large scale and make sure you're having that 
+honest discussion.
+    Mr. Miller. Thank you all very much. This has been 
+incredibly insightful, and I appreciate your time. Thank you, 
+Chairman, I yield back.
+    Chairman Williams. Thank you. I now recognize myself for 
+five minutes. I believe this is the last set of questions.
+    I want to compliment the Committee staff because not only 
+did they put together a great panel, but they seated you 
+public, private, public, private, public, which is entirely 
+appropriate for--you know, for this conversation.
+    The--one of the reasons that I'm excited about fusion is 
+that I've gone and had conversations with many of the private 
+companies and delved as deeply into their technology as they 
+were willing and perhaps limited by my ability to understand. 
+But what it relates to in my mind is that we see miracles 
+happening all around us today, and we take them for granted. 
+You know, we have near ubiquitous and low cost, instantaneous 
+global communications. Do you ever think about that? That's--
+that is absolutely astonishing. Started as a DARPA (Defense 
+Advanced Research Projects Agency) program, as I understand, 
+and as a tool of the government and yet grew through public-
+private partnership, and then through--entirely through the 
+public. It's extraordinary.
+    I'm also reminded that there was a certain individual who 
+wanted to reduce the launch of putting things into orbit 
+because he had an idea that he wanted to go to Mars, I guess. 
+And we now live in a world where launch costs have been reduced 
+by 2/3 because we can land a 20 story building coming in at 
+Mach 7 in a space smaller than this room every time. That's 
+extraordinary. There are things that we're seeing that, quite 
+honestly, I can't believe. Another would be robotic surgery, 
+although I'm not ready to try that myself.
+    But I put that context into this because I really was a 
+fusion skeptic four or five months ago, and I've followed the 
+literature relatively closely for the last 15 years or so and--
+as well as for advanced nuclear. It's just an area of interest 
+and in perhaps a little bit of expertise. And when I started 
+diving in, it occurred to me that there is a path forward, and 
+much of what we've heard today is talking around that.
+    But just in these last few minutes, can each of you tell me 
+one thing, just one thing that you're optimistic about or a 
+reason for why you're optimistic about fusion? And I know 
+there's many, but if you don't mind just going down the line, 
+Dr. McCarthy.
+    Dr. McCarthy. Thank you. I'd say the main reason I'm 
+optimistic is we now have this strong industry presence. It's 
+an important leg in the stool. And so in the United States, 
+we've got this ecosystem that can get together and move this 
+forward, national laboratories, industry, universities.
+    Chairman Williams. Thank you. Ecosystem. Dr. Kirtley?
+    Dr. Kirtley. I have a similar answer where it's around the 
+diversity of different ideas that are coming forward for 
+fusion. I obviously have a perspective from Helion, but I--as a 
+human, I'm very excited about what I'm seeing of all of these 
+different approaches from fusion, all of which are building 
+machines to prove out their ideas and get commercial energy on 
+the grid as soon as possible.
+    Chairman Williams. It sounds like a good time to fund some 
+of these different approaches.
+    Dr. Solomon, please?
+    Dr. Solomon. I would add to that that the fact that we've 
+been exploring fusion for decades and it's still the case that 
+there are basic fundamental advances being made that lead to 
+record production of fusion in magnetic fusion energy, inertial 
+fusion energy, and creative new ideas deployed given by our 
+scientists all the time that really change the way that you can 
+operate a device is just amazing.
+    Chairman Williams. It sounds like this has inspired people 
+to really start thinking differently like landing first stage 
+rockets.
+    Dr. Solomon. Absolutely.
+    Chairman Williams. Mr. Holland?
+    Mr. Holland. Maybe I'll change from the why to be excited 
+about what we're doing but more toward what it means when we 
+get there because fundamentally changing our relationship to 
+energy from something you pull out of the ground or something 
+you rely on the weather for, to something that is manufactured, 
+fusion as a manufactured good means that energy is a 
+manufactured good. So that means that no dictator can control 
+access to energy. That means that energy is available for 
+anyone, anywhere in the world. And that just fundamentally 
+changes humankind's relationship to energy and allows us to do 
+a lot of really cool things.
+    Chairman Williams. Interesting, sort of a democratization 
+of energy, end of scarcity.
+    Mr. Holland. Yes.
+    Chairman Williams. Dr. Hsu?
+    Dr. Hsu. I want to give two quick answers. One is more 
+pragmatic and the other one may be philosophical. So the 
+pragmatic one is that not all of the science is under our belt, 
+but a lot of it is, and so what we need now is more engineering 
+development. And I think that's where the excitement that we 
+can speed things up if we have the level of investment needed.
+    The philosophical one is about getting to the next stage of 
+civilization. If--many of you may or may not have heard of 
+something called the Kardashev scale, not the Kardashian scale, 
+but the Kardashev scale, where it's about the amount of energy 
+a civilization can harness, and fusion will take us to that 
+next stage.
+    Chairman Williams. I think I saw a TikTok video about that. 
+Thank you.
+    I am going to indulge myself just for another minute. Mr. 
+Bowman, I hope that's OK. I'll ask your permission, sir.
+    These Milestone programs--and, Dr. Hsu, start with you, and 
+anyone can please--how do they work? Why do they work? We've 
+talked about it in the context of funding, perhaps a fusion 
+energy applied program or funding these alternative strategies. 
+Milestone programs, how do they work and why do they work? If 
+you don't mind being brief.
+    Dr. Hsu. Yes. So we took a lot of inspiration exactly from 
+NASA COTS. I think the guiding principles are that we really 
+want to invite strong industry participation. That was a big 
+component. So they have to want to work with the government. 
+And we all know that contracting things can be a bit of a 
+burden and reporting burden, so that was the main thing. The 
+use of other transactions authorities and agreements can get 
+around a lot of that, but in exchange, the private sector is 
+taking on a lot more risk. And we're protecting the taxpayer 
+because the government does not spend the money until they've 
+delivered on a valuable milestone.
+    Chairman Williams. That's very insightful. Thank you. 
+Anyone else? Milestone programs, why do you they work, how do 
+they work?
+    Mr. Holland. I would just really, you know, underline what 
+Scott said there at the end, that the nature of a Milestone 
+program--and it was used for SpaceX and the other private space 
+industries to work with NASA and to get those started up and 
+going. The nature of it is that it takes what is inherently a 
+high risk, high reward thing, fusion energy research, and puts 
+all of the risk on the private sector. There's no risk to the 
+taxpayer here because if the milestone is not hit, the money 
+doesn't go out.
+    Chairman Williams. Anyone else? Yes, ma'am.
+    Dr. McCarthy. If I can just add one thing, Chairman 
+Williams, and that is, the important part here in my opinion is 
+that partnership between private industry and the national 
+laboratories and universities because the national laboratories 
+have expertise and facilities that don't exist and can't be 
+replicated outside of there. So bringing that practical aspect, 
+that industry focus of getting to a certain point in a certain 
+schedule, meeting that together with the science and 
+engineering capabilities is a key part.
+    Chairman Williams. Very interesting. Dr. Kirtley?
+    Dr. Kirtley. And I just want to add one on the theory of 
+this, which is I think everybody here is in agreement that our 
+goal is to get fusion energy out as electricity on the grid as 
+soon as possible, so everything we can do to develop programs 
+and policies that have that in mind of how do we get 
+electricity on the grid as soon as possible is really valuable. 
+So in this case, the first of the Milestone program was 
+designing engineering power plants and that was the focus of 
+that, and so that's a really excellent tool to take these early 
+stage companies develop a power plant and have that to go 
+toward the next stage of how are you going to actually get that 
+on the grid?
+    Chairman Williams. Great. I've taken more than my time, but 
+I was just stalling so that Mr. Sorensen could join us, sir. 
+Please, I yield for five minutes.
+    Mr. Sorensen. Thank you, Chairman Williams and Ranking 
+Member Bowman, for convening this hearing and for our witnesses 
+to be with us.
+    I'm a strong believer that talent comes from all corners of 
+our Nation. I'm proud to represent northwestern and central 
+Illinois in Congress. And today, I'd like to focus my questions 
+on the workforce space.
+    But first, as the first meteorologist in Congress in nearly 
+50 years, I've been connecting my folks back home with the 
+science of climate for nearly 20 years. And as a scientist, I 
+have long said that we don't have a silver bullet to solve 
+climate change. Instead, we have silver buckshot. And it's up 
+to us to analyze this dartboard, if you will, to find the 
+pieces that work today, analyze them, and then work toward 
+those solutions.
+    But from left to right, I'd like to know your percentage 
+chance--let's just go with the meteorologists, OK? What is the 
+percentage chance that what we're talking about today is the 
+silver bullet? And I'll begin with you, Dr. McCarthy.
+    Dr. McCarthy. I believe with the correct investment it can 
+be. I think our biggest challenge will--I believe will overcome 
+the science. Can we produce competitive fusion energy? That is 
+a key question. So investment in materials and fuel cycle is 
+essential to realizing that.
+    Dr. Kirtley. I've never heard silver buckshot before. I 
+think I love it. And that part of that can be fusion. 
+Obviously, I believe everywhere the Sun shines, we should be 
+harnessing solar energy, and the wind blows, you should be 
+harnessing that energy. But for everywhere else, we need 
+reliable baseload power, and so I think that fusion can be that 
+answer. In terms of percentage, we now have, to Mr. Holland's 
+point, 37 shots on goal, 23 here in the United States, and I 
+think that gives us a very high confidence that we'll get 
+there.
+    Dr. Solomon. As others have said, I'm also extremely 
+optimistic. Part of the reason for this and maybe also brought 
+up as well is that we need fusion. We need everything to make 
+sure that we can make this energy transition. Fusion is a 
+critical part of that. And what I see is that--the recognition 
+of that fact has driven so much innovation and creative ideas, 
+and despite the fact that there are science challenges, 
+technology challenges, just look around and you'll see a great 
+amount of optimism in our young, early career scientists and 
+the like, engineers who see they want to work on fusion, they 
+can make a difference.
+    Mr. Holland. So yes, we're going to get there, 100 percent, 
+not 100 percent for all 37. Unfortunately, I can't speak for 
+all of them, but 100 percent we're going to get there. The 
+challenge is, especially in the United States--the United 
+States is an extraordinarily competitive energy market. And 
+ultimately, we're providing electrons. And providing electrons 
+means you have to get the cost way down. And so our companies 
+are laser focused on that, and I think that's really important 
+to have that commercial focus working with the scientists.
+    Dr. Hsu. Yes, I would just say, you know, the energy 
+problem both in the short term and the long term are so 
+important that we can't count on any silver bullet, even if 
+fusion in the very long term may be that silver bullet.
+    Mr. Sorensen. Our next generation is incredibly worried 
+about the climate that we are going to give them, that they are 
+going to inherit from us. Dr. Hsu, what investment should we be 
+making? You know, the DOE announced $46 million for commercial 
+fusion just a couple of weeks ago. What would be the rate of 
+return instead of if that was $46 million or if it was $460 
+million?
+    Dr. Hsu. Well, that's above my paygrade. And I would say we 
+would do great things with the President's request, and we know 
+what we would like to do next.
+    Mr. Sorensen. Let me switch back over to the workforce. 
+Considering that private fusion companies are rapidly 
+recruiting early and mid-career researchers, I think that 
+there's a worry out there that the supply chain of good quality 
+teachers, instructors won't be met. What steps can be taken by 
+Congress and the fusion industry leaders to ensure that the 
+quality of education in plasma and fusion will be maintained at 
+our educational institutions? Yes?
+    Dr. McCarthy. Congressman Sorensen, I think that's a really 
+important question. And if you look, for example, at what the 
+Office of Nuclear Energy did, they made a concerted effort. 
+There was an investment in scholarships and fellowships in 
+funding for infrastructure to help the universities build those 
+programs. And so I think between the excitement of what's going 
+on and those sorts of investments, we can get there. And in 
+talking with professors, what they tell me is they're already 
+seeing that rush of young people wanting to study fusion.
+    Dr. Kirtley. I think this is a critical question for us. I 
+mean, as Helion as a company, we spent a lot of work hiring, a 
+lot of work developing new talent and early stage--career 
+technicians, engineers, and scientists that aren't even ready 
+for--to be part of fusion yet but soon will be. And if we have 
+this vision that we are going to be building an American fusion 
+manufacturing industry, this means massive amounts of jobs, of 
+technicians and assemblers and electricians and electrical 
+engineers and scientists and nuclear engineers. And so building 
+this and making sure that we're at the forefront of this so 
+that America doesn't get left behind is going to be really 
+critical. And so just think about the scale of what this means 
+to be able to build, in Helion's vision, a power plant today. 
+And that's massive gigafactories and high paid workers for it.
+    Mr. Sorensen. There are STEM (science, technology, 
+engineering, and mathematics) students in my district and in 
+all of our districts that are ready to make the discoveries for 
+the next generation. Thank you for sharing your insights and 
+your talent with us today. And I yield back.
+    Chairman Williams. I recognize Ms. Lee for five minutes.
+    Ms. Lee. Thank you, Mr. Chairman. And thank you to our 
+witnesses for your time and presentation of your expertise 
+before the Committee today.
+    Pennsylvania has long been a State known, some say maybe 
+notoriously, for fossil energy production and supply. But as an 
+elected environmental justice advocate from western 
+Pennsylvania, I signal what opportunities lay ahead for the 
+future of energy in my district, the Commonwealth of 
+Pennsylvania, and our country. In recent years, the global 
+community has become increasingly aware of the urgent need to 
+address climate change and to transition to cleaner, more 
+sustainable forms of energy. Fusion energy has presented an 
+opportunity to change our entire energy landscape. So as 
+Members of Congress and particularly this Committee, it falls 
+on us to create and implement solutions to abate the climate 
+crisis that are threatening the future of humanity.
+    As a Member of this Committee, I'm proud to be a part of 
+these changes by supporting innovation through research and 
+development that have the potential to revolutionize our energy 
+supply and the future of our planet. I represent a district 
+that for far too long has been plagued by poor air quality, 
+leaving my constituents with myriad respiratory problems like 
+asthma, emphysema, or bronchitis for instance. For a few days 
+last week here in D.C. we experienced air quality that reaches 
+hazardous levels. This scary experience for some is an insight 
+into the daily lives of my constituents in places like the Mon 
+Valley where I'm from, as well as other communities across the 
+country. My constituency has for years ranked among the worst 
+in cities and regions with the most polluted air.
+    So as we're here today, fusion energy is not an end-all, 
+be-all in addressing our climate-related health concerns, but 
+scientific avenues like this create a window through which we 
+can view an American future where toxic emissions poisoning our 
+neighbors and loved ones are not normalized or accepted.
+    Dr. McCarthy, what resources and infrastructure do our 
+institutions of higher learning need to support R&D endeavor to 
+make fusion energy a reality?
+    Dr. McCarthy. So there are some specific experimental 
+capabilities that could be built, test stands for testing 
+blanket concepts. I mentioned that while we've done quite a bit 
+on the science piece, we need to do a bit more on materials and 
+fuel cycle. And so there is--there are some opportunities that 
+are there, also opportunities for students to do internships at 
+national laboratories with these private companies. That's all 
+part of getting to where we need to get in terms of the 
+workforce and creating opportunities.
+    Ms. Lee. How much international collaboration will be 
+required if necessary to bolster our domestic fusion energy 
+program? And, Dr. McCarthy or Dr. Hsu?
+    Dr. McCarthy. I'll just say very quickly that international 
+collaboration has always been part of the fusion program. And 
+when I was in graduate school, it's one of the reasons why I 
+was attracted into it because working with the best and the 
+brightest from all over the world was just a very exciting 
+thing, and that continues today. So the fusion program works 
+with experiments all over the world. I had talked earlier--and 
+in my testimony I talk about the ITER project specifically, 
+which is being built as an international team. That's going to 
+continue. But where the United States really has the 
+advantage--and this was touched a bit earlier--is our ability--
+we've got this private program, we have the national 
+laboratories, which really are the crown jewels I think in the 
+world, and universities and innovation. Americans are good at 
+innovation. That's what's going to give us that competitive 
+edge. But international is an important part.
+    Dr. Hsu. Yes, if I may, I'll just add international 
+collaborations are very central to our strategy, especially in 
+the acceleration of fusion commercialization. There are many 
+examples in our international and interagency conversations. 
+These are focused on, say, a few things, access or shared 
+development of very high cost test facilities, ensuring and 
+securing long-term supply chains with our allies. These could 
+include fuel supplies such as the startup tritium and lithium-
+6. These are the input fuels for deuterium-tritium fusion, and 
+also harmonization of regulatory frameworks because we want to 
+deploy fusion globally if we're going to realize its benefits. 
+And also, as you mentioned, developing a diverse workforce to 
+support a future global industry. So these are areas--you know, 
+we--certainly, the DOE and even the country may not be able to 
+do these things on its own--on our own, and we're going to want 
+partnerships with our allies.
+    Ms. Lee. Thank you. While I would like to shoot off another 
+one, I'll be respectful of our--my time, and I'll yield back.
+    Chairman Williams. Thank you, Ms. Lee.
+    I want to thank the witnesses for your valuable testimony 
+and for sacrificing and gifting us the value of your time, 
+which I also know comes at a dear cost. And I also want to 
+thank my fellow Members for their questions and engaging in 
+this dialog.
+    It's clear to me it's time to greatly redirect resources 
+toward fusion, public and private, and doing it together. I 
+hope that we can work together to make this happen.
+    The record for this hearing will remain open for 10 days 
+for additional comments and written questions from Members. But 
+for now, this hearing is adjourned. Thank you.
+    [Whereupon, at 4:08 p.m., the Subcommittee was adjourned.]
+
+                               Appendix I
+
+                              ----------                              
+
+
+                   Answers to Post-Hearing Questions
+
+
+
+
+                   Answers to Post-Hearing Questions
+Responses by Dr. Kathryn McCarthy
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+ 
+
+Responses by Dr. Wayne Solomon
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+ 
+Responses by Mr. Andrew Holland
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+ 
+
+Responses by Dr. Scott Hsu
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+ 
+
+
+                              Appendix II
+
+                              ----------                              
+
+
+                   Additional Material for the Record
+
+
+
+                 Letters submitted by Dr. Wayne Solomon
+
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+ 
+                Studies submitted by Mr. Andrew Holland
+
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+ 
+
+
+
+
+
+
+
+
+
+
+
+                                 
+

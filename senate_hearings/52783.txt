@@ -1,0 +1,1875 @@
+
+ - GAO'S 2023 HIGH RISK LIST: RECOMMENDATIONS FOR REDUCING WASTE, FRAUD, AND ABUSE
+
+[Senate Hearing 118-67]
+[From the U.S. Government Publishing Office]
+
+
+                                                       S. Hrg. 118-67
+
+               GAO'S 2023 HIGH RISK LIST: RECOMMENDATIONS 
+                 FOR REDUCING WASTE, FRAUD, AND ABUSE
+
+=======================================================================
+
+                                HEARING
+
+                               BEFORE THE
+
+                              COMMITTEE ON
+               HOMELAND SECURITY AND GOVERNMENTAL AFFAIRS
+                          UNITED STATES SENATE
+
+                    ONE HUNDRED EIGHTEENTH CONGRESS
+
+
+                             FIRST SESSION
+
+                               __________
+
+                             APRIL 20, 2023
+
+                               __________
+
+        Available via the World Wide Web: http://www.govinfo.gov
+        
+                       Printed for the use of the
+        Committee on Homeland Security and Governmental Affairs
+        
+[GRAPHIC NOT AVAILABLE IN TIFF FORMAT]
+
+
+                                
+                    U.S. GOVERNMENT PUBLISHING OFFICE                    
+52-783 PDF                 WASHINGTON : 2023                    
+          
+-----------------------------------------------------------------------------------
+
+        COMMITTEE ON HOMELAND SECURITY AND GOVERNMENTAL AFFAIRS
+
+                   GARY C. PETERS, Michigan, Chairman
+THOMAS R. CARPER, Delaware           RAND PAUL, Kentucky
+MAGGIE HASSAN, New Hampshire         RON JOHNSON, Wisconsin
+KYRSTEN SINEMA, Arizona              JAMES LANKFORD, Oklahoma
+JACKY ROSEN, Nevada                  MITT ROMNEY, Utah
+ALEX PADILLA, California             RICK SCOTT, Florida
+JON OSSOFF, Georgia                  JOSH HAWLEY, Missouri
+RICHARD BLUMENTHAL, Connecticut      ROGER MARSHALL, Kansas
+
+                   David M. Weinberg, Staff Director
+                    Zachary I. Schram, Chief Counsel
+            Lena C. Chang, Director of Governmental Affairs
+               Emily I. Manna, Professional Staff Member
+                Carter A. Hirschhorn, Research Assistant
+           William E. Henderson III, Minority Staff Director
+              Christina N. Salazar, Minority Chief Counsel
+            Quinton A. Brady, Minority Investigative Counsel
+                  Andrew J. Hopkins, Minority Counsel
+                     Laura W. Kilbride, Chief Clerk
+                   Ashley A. Gonzalez, Hearing Clerk
+
+                            C O N T E N T S
+
+                                 ------                                
+Opening statements:
+                                                                   Page
+    Senator Peters...............................................     1
+    Senator Paul.................................................     3
+    Senator Carper...............................................    12
+    Senator Lankford.............................................    15
+    Senator Rosen................................................    18
+    Senator Hassan...............................................    20
+    Senator Scott................................................    23
+    Senator Blumenthal...........................................    24
+    Senator Ossoff...............................................    28
+Prepared statements:
+    Senator Peters...............................................    33
+    Senator Paul.................................................    36
+
+                               WITNESSES
+                        Thursday, April 20, 2023
+
+Hon. Eugene L. Dodaro, Comptroller General of the United States, 
+  U.S. Government Accountability Office
+    Testimony....................................................     5
+    Prepared statement...........................................    38
+
+                                APPENDIX
+
+Senator Paul's chart.............................................    58
+Responses to post-hearing questions for the Record:
+    Mr. Dodaro...................................................    59
+
+ 
+                       GAO'S 2023 HIGH RISK LIST:
+          RECOMMENDATIONS FOR REDUCING WASTE, FRAUD, AND ABUSE
+
+                              ----------                              
+
+
+                        Thursday, April 20, 2023
+
+                                     U.S. Senate,  
+                           Committee on Homeland Security  
+                                  and Governmental Affairs,
+                                                    Washington, DC.
+    The Committee met, pursuant to notice, at 10 a.m., in room 
+SD-562, Senate Dirksen Office Building, Hon. Gary Peters, 
+chairman of the committee, presiding.
+    Present: Senators Peters [presiding], Carper, Hassan, 
+Sinema, Rosen, Ossoff, Paul, Johnson, Lankford, Romney, Scott, 
+and Hawley.
+
+             OPENING STATEMENT OF SENATOR PETERS\1\
+
+    Chairman Peters. The Committee will come to order.
+---------------------------------------------------------------------------
+    \1\ The prepared statement of Senator Peters appear in the Appendix 
+on page 33.
+---------------------------------------------------------------------------
+    Today I would like to welcome Comptroller General Gene 
+Dodaro to the Committee, and thank you for your years of 
+service to the American people.
+    The Government Accountability Office (GAO) is an 
+independent, non-partisan ``congressional watchdog,'' charged 
+with examining how taxpayer dollars are spent and evaluating 
+whether government is working efficiently and effectively for 
+the American people.
+    For over 30 years, GAO has reported on ``high risk'' 
+government programs and operations at the start of each 
+Congress. The High Risk List identifies government programs 
+that are vulnerable to fraud, waste, abuse, and mismanagement 
+or need reforms to improve them.
+    The High Risk List and GAO's important oversight work have 
+been vital resources for this Committee to identify problems 
+and work on bipartisan legislation to improve the way the 
+Federal Government works each and every day, and I hope we will 
+continue those efforts in this Congress.
+    Over the past 17 years, by addressing many of the concerns 
+highlighted on the High Risk List, Congress and Federal 
+agencies have saved hardworking Americans more than $675 
+billion in taxpayer dollars. I am grateful to GAO for their 
+efforts to identify these areas for improvement and for their 
+continued commitment to ensuring the government functions in 
+the best interest of taxpayers.
+    Just within the last two years, the Federal Government has 
+seen an estimated $100 billion in financial benefits due to 
+improvements in high-risk areas noted in GAO's 2021 High Risk 
+Report, and 16 out of 34 high-risk areas have made 
+improvements, the most since GAO began assessing high-risk 
+areas.
+    For example, a 2016 law that I authored, the Making 
+Electronic Government Accountable By Yielding Tangible 
+Efficiencies Act (MEGABYTE Act), which was based on a GAO 
+recommendation to improve software license management, has 
+saved taxpayers more than $450 million by reducing duplicative 
+software purchases. I have reintroduced bipartisan legislation 
+this Congress to continue building on that success by improving 
+how the Federal Government manages software purchases, and will 
+continue working to address other high-risk areas highlighted 
+in GAO's report.
+    This year, GAO has placed our nation's cybersecurity as one 
+of the top five high-risk areas that need significant 
+attention, and has issued more than 4,000 recommendations in 
+the cybersecurity domain since 2010.
+    Strengthening our nation's cybersecurity has been a top 
+priority for this Committee, and we moved several bills last 
+Congress that I authored to shore up our nation's cybersecurity 
+defenses, including legislation to require critical 
+infrastructure owners and operators to report when they have 
+been attacked or they have paid a ransom.
+    This is an important step toward safeguarding some of the 
+most frequent targets of cyberattacks, but it is clear we must 
+continue working to address this issue as the threats from 
+cyberattacks continue to grow.
+    GAO has also highlighted challenges with hiring skilled 
+cybersecurity and artificial intelligence (AI) experts to fill 
+roles in the Federal Government. If we are going to be truly 
+effective at strengthening our networks, leading the world in 
+these fast-growing areas, and protecting our national security, 
+then we must have qualified and dedicated cybersecurity, 
+information technology (IT), and AI experts working across the 
+Federal Government.
+    I have also authored legislation to address these skill 
+gaps to ensure we can fill these in-demand roles in the 
+cybersecurity and artificial intelligence fields, and will 
+continue working with my colleagues in a bipartisan way to 
+build a strong talent pipeline for the Federal Government.
+    The latest High Risk List also includes the need to address 
+toxic substances, including Per- and polyfluoroalkyl substances 
+(PFAS), also known as ``forever chemicals,'' that have 
+contaminated communities in Michigan as well as all across the 
+country.
+    These chemicals can be found in our food, air, water, and 
+consumer products, adversely affecting the health of millions 
+of Americans. PFAS exposure remains a serious issue, and the 
+Environmental Protection Agency (EPA) must be able to 
+accurately assess and monitor existing and emerging PFAS 
+substances to determine whether they pose a harm to human 
+health.
+    I have pressed for the EPA and other agencies to increase 
+cleanup efforts, and will continue conducting oversight to 
+ensure agencies are detecting and responding to this threat in 
+a timely manner.
+    Finally, this year's list includes pandemic preparedness 
+and response efforts. Last Congress, I released a report 
+detailing the findings from a two-year investigation into the 
+Federal Government's preparedness and initial response to the 
+Coronavirus Disease 2019 (COVID-19) pandemic. The investigation 
+revealed serious systemic failures in our nation's ability to 
+grapple with a pandemic of that scale, and my report made key 
+recommendations to ensure we are better prepared for the next 
+public health crisis. I will continue working on legislation to 
+address these shortcomings and strengthen our ability to deal 
+with future pandemics.
+    Mr. Dodaro, we appreciate you for your independent, non-
+partisan work that you and all of the dedicated employees at 
+GAO have conducted and continue to conduct. I know last month, 
+the Partnership for Public Service named GAO the Best Place to 
+Work in the Federal Government for mid-sized agencies. 
+Congratulations on that, a great honor.
+    [Applause.]
+    I will add it was the third year in a row. Now that is 
+worthy of applause, three years in a row.
+    With all of that I look forward to our discussion here.
+    Ranking Member Paul, you are recognized for your opening 
+comments.
+
+              OPENING STATEMENT OF SENATOR PAUL\1\
+
+    Senator Paul. Thank you. This Committee is long overdue for 
+a hearing that focuses on the rampant waste, fraud, and abuse 
+in the Federal Government. We are faced with a $31 trillion 
+mountain of debt. Rather than attempt to get spending under 
+control, though, both parties continue to propose new spending 
+with no regard for the exploding debt or controlling the 
+already existing spending.
+---------------------------------------------------------------------------
+    \1\ The prepared statement of Senator Paul appears in the Appendix 
+on page 36.
+---------------------------------------------------------------------------
+    To make matters worse, everyone in Congress knows that the 
+plague of waste has infected just about every Federal agency. 
+But rather than take steps to restore fiscal health, Congress 
+buries its head in the sand, doles out more and more taxpayer 
+money every year to the Executive Branch with no strings 
+attached, crosses its fingers, and hopes the problem will fix 
+itself.
+    For years, I have documented outlandish spending in my 
+annual ``Waste Report,'' which exposes how the Federal 
+Government is misusing Americans' hard-earned tax dollars. My 
+most recent report uncovered over $482 billion in government 
+waste. For example, the National Institutes of Health (NIH) 
+spent more than $1.1 million to get mice drunk--apparently we 
+are not aware of what happens when you drink too much--$2.3 
+million to inject six-month-old beagle puppies with cocaine--
+apparently there is not enough evidence of what happens to 
+humans on cocaine--$3 million to watch hamsters fight on 
+steroids.
+    This is the tip of the iceberg. This has been going on 
+since the 1970s. Many of you will remember the studies to 
+figure out what makes people happy. This stuff has been going 
+on forever, and yet the agency that funds a lot of this, the 
+National Science Foundation (NSF), we have doubled their budget 
+in the last two years, and we think, oh well, they will be much 
+better with waste and fraud with double the amount of money. It 
+is my opinion the only way you ever rein in waste and fraud is 
+give these agencies less money, and then they will be forced to 
+make do on less money.
+    Government watchdogs like the Government Accountability 
+Office were created to expose and combat waste, fraud, abuse, 
+and mismanagement in the Federal Government. Every two years, 
+GAO publishes its own report that helps call out government 
+misdeeds. The High Risk report is a compilation of government 
+failures and vulnerabilities. It spotlights agencies and 
+programs prone to waste, fraud, and abuse.
+    One issue prominently featured in GAO's most recent high-
+risk report is the governmentwide problem with improper 
+payments. This has been listed in the past and is listed again 
+this year. For example, in 2022, GAO found Medicare made $46.8 
+billion in improper payments. Medicaid made $81 billion in 
+improper payments, which should really not come as a surprise 
+given the Medicaid program suspended enforcement of eligibility 
+reviews during the COVID-19 pandemic. This has not been talked 
+about much, but during the pandemic all the so-called rules for 
+looking at abuse just went out the window and they said, oh 
+well, everybody deserves Medicaid, everybody deserves food 
+stamps, and nobody came off any of these programs. We just 
+threw out all of the oversight of these programs, and as a 
+consequence, they are in some of the worst state that they have 
+been in in a long time.
+    If that was not bad enough, GAO looks at the substantial 
+levels of fraud that occurred in the Department of Labor's 
+(DOL) Unemployment Insurance (UI) program and says it is almost 
+impossible to even grapple with the problem because it is so 
+big and so opaque.
+    Like my own waste report, GAO also identified the 
+Department of Defense (DOD) as a consistent perpetrator of 
+waste, fraud, and abuse. Since 1995, GAO has identified 
+Department of Defense's financial management as ``high-risk.'' 
+Unfortunately, not much has changed since then, other than DOD 
+receiving bigger and bigger checks every year. This is an 
+example of how this is really a bipartisan problem, Republicans 
+wanting unlimited checks for the Defense Department, Democrats 
+wanting unlimited checks for the social welfare. Everything 
+goes up and the oversight becomes less and less proficient or 
+profound.
+    Until the Department of Defense can properly account for 
+the money it spends, though, Congress can never effectively 
+conduct oversight of the department. The DOD has become a 
+behemoth of spending, and no one here ever questions it.
+    How does all this waste happen? A better question might be, 
+how does all this waste continue to happen and get worse all 
+the time? When I was a kid in the 1970s, William Proxmire, a 
+conservative Democrat, used to give his Golden Fleece Awards 
+for nonsensical government spending. But here we are, decades 
+later, still facing the same problems. There was one study that 
+they did in the last two years, I think it was over $1 million 
+to study if you take selfies of yourself smiling and you look 
+at these selfies later on in the day, whether or not you will 
+be happier.
+    The thing is, do you think that is going to get better if 
+we give the National Science Foundation more money? We doubled 
+their budget and they do more of this craziness, and every year 
+we point it out and every year gets worse because no one is 
+willing to call them on it and say, ``We are going to give you 
+less money next year unless you are better with spending the 
+money.''
+    The Chairman, GAO identified numerous instances of waste, 
+fraud, and abuse that Congress can easily address. I appreciate 
+GAO's work, but what is really needed is congressional will to 
+significantly reduce government waste and spending. The 
+American people deserve an accountable government that manages 
+their hard-earned dollars responsibly. Mr. Dodaro, thank you 
+for being here today. I look forward to hearing your testimony 
+and working with you to reduce the waste, fraud, and abuse 
+identified in your report.
+    Chairman Peters. Thank you, Ranking Member Paul.
+    It is the practice of the Homeland Security and 
+Governmental Affairs Committee (HSGAC) to swear in witnesses, 
+so Mr. Dodaro, and our subject matter experts, I think that may 
+becoming, there are a few that might be testifying in the 
+question and answer (Q&A) process, if you would please all rise 
+and raise your right hand.
+    Do you swear that the testimony that you will give before 
+this Committee will be the truth, the whole truth, and nothing 
+but the truth, so help you, God?
+    [Chorus of I dos.]
+    Chairman Peters. You may be seated.
+    Today's witness is Comptroller Gene Dodaro. Mr. Dodaro has 
+served as the Comptroller General of the U.S. Government 
+Accountability Office since 2010, following two years as the 
+Acting Comptroller General.
+    In his over 45 years of service at the GAO he has held a 
+number of leadership positions, including Chief Operating 
+Officer (COO) and head of GAO's Accounting and Information 
+Management Division.
+    Mr. Dodaro, welcome to the Committee once again. It is 
+always great to see you. We enjoy hearing your testimony and 
+enjoy working with you on these important issues. You may 
+proceed with your opening remarks.
+
+ TESTIMONY OF HON. EUGENE L. DODARO,\1\ COMPTROLLER GENERAL OF 
+    THE UNITED STATES, U.S. GOVERNMENT ACCOUNTABILITY OFFICE
+
+    Mr. Dodaro. Thank you very much, Mr. Chairman, Ranking 
+Member Paul, Members of the Committee. It is a pleasure to be 
+here. I appreciate all the kind words about GAO. We enjoy 
+working with this Committee and other committees across the 
+Congress to make our government more accountable, efficient, 
+and effective.
+---------------------------------------------------------------------------
+    \1\ The prepared statement of Hon. Dodaro appears in the Appendix 
+on page 38.
+---------------------------------------------------------------------------
+    The basic story with this High-Risk Update is that there 
+has been good progress in certain areas due to Congressional 
+and Executive Branch actions, but there are still serious, very 
+consequential problems that need to be addressed--that need 
+greater attention from the Congress and the Executive Branch.
+    On the progress side, Mr. Chairman, you pointed out 16 
+areas improved, two to the point that we are removing them from 
+the list. The first is the Pension Benefit Guaranty Corporation 
+(PBGC) multiemployer pension program. Congress appropriated 
+funds. That program was projected to be insolvent in 2026. Now 
+the projected insolvency date has been pushed off several 
+decades. The single employer program has also improved 
+gradually and so PBGC projects a very low risk of insolvency 
+for either program for the next 15 years. We are going to take 
+them off the list. Now just because they come of the list, they 
+are not out of sight, so we will still continue to monitor what 
+is going on with those programs.
+    We are also removing the 2020 Census. They were able to 
+contain, for the first time, the growth in spending in the cost 
+of the census. They successfully deployed an internet response 
+option this last time, and they took all our recommendations 
+and those of the Department of Homeland Security (DHS) to bring 
+down cybersecurity risk to the census. We are taking them off. 
+Again, we will continue to watch whether or not risk builds up 
+toward the 2030 Census, and if so, we will add it back to the 
+list.
+    There has been progress in other areas. Congress provided 
+stable funding, at least for the next five years, to the 
+surface transportation area. It did not solve the problem long-
+term so it is still on the list, but there was good progress.
+    Congress passed the Postal Service Reform Act that 
+eliminated some of the financial pressures on the U.S. Postal 
+Service (USPS). But the Postal Service business model is still 
+not viable in the future. It continues to lose money--and 
+remains on the list as well.
+    Congress passed legislation to support a number of programs 
+that seek to build in climate resilience up front, so our high-
+risk area of limiting the Federal Government's fiscal exposure 
+by better managing and building resilience in up front was 
+addressed.
+    Congress has provided some additional resources to the 
+Internal Revenue Service (IRS), which deals with our high-risk 
+area of tax administration on that area.
+    So good progress. Congress is to be commended for all the 
+action that they have taken, as well as the Executive Branch, 
+in implementing some of these reforms.
+    We added three new areas to the High Risk List. One is the 
+Department of Health and Human Services (HHSs) leadership and 
+coordination in responding to public health emergencies. Over 
+the last decade we have seen failure after failure to be 
+adequately prepared, and most recently during the pandemic. 
+Roles and responsibilities need to be better clarified and 
+there needs to be better data--and better communication--that 
+is consistent and clear to the public. I fear we are not any 
+better prepared now for the next emergency than we were for the 
+last one. I wanted to put it on the list to highlight it, so 
+that it stays in the public eye and with the Congress and the 
+Administration.
+    We also added the Unemployment Insurance System. Here we 
+have estimated that at a minimum, there was $60 billion of 
+fraud. We are working on a higher-end estimate now. But due to 
+the significant fraud and improper payments--which was 
+occurring even before the pandemic, at a much less level--and 
+the need to reform the State IT systems. IT systems at the 
+State level are very archaic. They are not well positioned. The 
+program is not really designed to meet the modern needs of our 
+current evolving workforce.
+    We also are adding the management of the Federal prison 
+system. There have been problems in the Bureau of Prisons' 
+(BOP) staffing, which has led to some concerns about inmate and 
+staff safety, and about their efforts to evaluate programs that 
+are intended to help deal with the recidivism issue. Programs 
+have not been very well evaluated and improved in those areas.
+    Now I would like to highlight a few of the other areas 
+remaining on the list. One is cybersecurity. The Federal 
+Government is still not operating at a pace commensurate with 
+the evolving grave threat. This has been something I have been 
+focused on for many years now. The National Strategy just came 
+out, but there is not yet an implementation plan for the 
+strategy. They promised to produce one. It needs to identify 
+who is responsible for what, how much money is needed, and how 
+to measure performance and improvements in those areas. 
+Cybersecurity remains a grave threat to our economy and our 
+national security, and it needs to be better addressed.
+    Second is drug misuse. We added that to the High Risk List 
+a few years ago. The latest 12-month statistics show over 
+107,000 people died from overdoses. There have been problems 
+now not only with fentanyl and opioids but with xylazine, which 
+is a tranquilizer given to animals, being mixed with the 
+fentanyl, which is causing even more severe problems. We need a 
+national strategy--that needs to be completed and implemented 
+successfully. We need more coordination with State and local 
+governments, law enforcement, and health care providers--to 
+deal with this issue.
+    The last area I will mention is oversight--of medical 
+products and device. The Food and Drug Administration (FDA) is 
+still not in a good position to deal with potential drug 
+shortages in the economy, and to provide oversight over foreign 
+production of medical products. Whether it is pharmaceuticals 
+or medical devices, most of what is consumed in the United 
+States right now is produced in other countries. FDA has to 
+have more of an effective strategy for the global supply chain, 
+not just domestic production in the United States.
+    We are committed to continuing to work on these high-risk 
+areas, to make greater progress. They are all very important to 
+public health and safety, our national security, and can save 
+billions of additional dollars.
+    I thank you for the opportunity to be here. I look forward 
+to your questions.
+    Chairman Peters. Thank you, Mr. Dodaro. Thank you for the 
+testimony.
+    Federal cybersecurity has been on the High Risk List for 
+years, as you know, but as you have just testified to it 
+remains in need of significant attention. In many ways it is 
+becoming a bigger problem that requires even more attention 
+than in the past.
+    The Federal Information Security Modernization Act (FISMA), 
+for example, the Federal oversight, has not been updated in 
+almost a decade, and that was before Cybersecurity and 
+Infrastructure Security Agency (CISA) or the National Cyber 
+Director even existed, and yet we have not updated some key 
+pieces of legislation.
+    Last Congress, this Committee marked up legislation that I 
+wrote relating to FISMA, and it passed with unanimous support, 
+but it still has not gotten through the House. We are going to 
+continue to work to make that happen, and we are going to 
+continue to work in Congress in a bipartisan way to do that.
+    But my question for you, sir, is you have been sounding the 
+alarm on Federal cybersecurity for more than two decades now, 
+and as we continue to work on this issue what do you believe 
+are really the key things that we should be focusing on to make 
+these improvements, going forward?
+    Mr. Dodaro. There are four main areas and about 10 actions 
+that we believe are absolutely critical. One is the development 
+and successful execution of a national and global strategy to 
+deal with this issue. I mentioned the current status of that. 
+Supply chain issues need to be dealt with more effectively. We 
+have done quite a bit of work on those areas. We need a better 
+cyber workforce. There are not enough people in the workforce. 
+They are not always deployed in the Federal Government in the 
+greatest priorities.
+    We also need to get ahead of emerging technologies. 
+Artificial intelligence and quantum computing will dramatically 
+increase the cybersecurity concerns. Quantum computing can 
+break encryption methods that are currently being used. We need 
+to get prepared for these things ahead of time, which is why I 
+tried to raise this issue. I first put it on the list in 1997, 
+to try to get action.
+    Second, we have to get the Federal agencies to have more 
+comprehensive, effective security programs. Most of the Federal 
+agencies are rated by their Inspector Generals (IGs) as not 
+having effective IT programs. That is why FISMA reform is, in 
+fact, needed, and we look forward, hopefully, that it will 
+pass. We also need to have better incident responses when 
+things do happen, and they will happen, that the agencies need 
+to get on them right away, deal with them, limit the damage, 
+and do assessments going forward.
+    The third area, which I believe is one of the most 
+important, is critical infrastructure protection. I do not 
+think the Federal Government knows the preparedness of many of 
+these important sectors of our economy as much as they should, 
+in terms of the electricity grid, the communications networks, 
+the financial markets, and many other areas. There needs to be 
+much more partnership between the Federal Government and the 
+private sector in this area, if we are going to really have 
+successful activities. Right now it reminds me of the situation 
+before September 11, 2001 (9/11), where a lot of people had 
+information but it was not being shared with one another.
+    Last, privacy laws need to be desperately updated. The 
+Privacy Act was passed in 1974. There have been some minor 
+improvements with more recent legislation, but it really does 
+not meet the needs of the private sector or well serve the 
+American people.
+    Chairman Peters. I want to pick up on critical 
+infrastructure. In your report you noted that six out of the 
+nine sector risk management agencies need to better measure how 
+critical infrastructure entities are actually addressing the 
+cybersecurity risk, as you alluded to there in your last 
+answer. You have also recommended that CISA establish 
+milestones and timelines to help sector risk management 
+agencies carry out their responsibilities.
+    My question for you is, sir, in your view are sector risk 
+management agencies resourced and organized to handle their 
+responsibilities, or is there something else we should be 
+thinking about?
+    Mr. Dodaro. There needs to be more work to have them better 
+organized and resourced. On the resource side, it is 
+considered, in many cases, to be a corollary duty to their 
+normal responsibilities, so they are really not dedicated to 
+this effort. There is not a lot of focus on how to make 
+improvements and measure whether or not the efforts that they 
+are taking with the private sector are really improving the 
+profile in those areas.
+    Both on the organizational level and on the resource level 
+the government is not where it should be, if we really are 
+serious about managing the threat in this area and trying to 
+work cooperatively with the private sector. I know there is a 
+lot of reluctance to share information between the private 
+sector and the government. We need to overcome that if we are 
+going to, as a Nation, have a comprehensive approach. There 
+needs to be some compromise on requirements. I know there is 
+resistance to a lot of regulation, and I am not advocating 
+that, but we need to get more serious and have some more 
+compromises. Where there is a Federal regulatory role we should 
+use it properly.
+    Chairman Peters. Mr. Dodaro, the Toxic Substances Control 
+Act provides EPA with the authority to review chemicals already 
+in commerce, to keep the public safe, as you are well aware. 
+However, there are thousands of PFAS chemicals still in use 
+that have not yet been fully evaluated by the EPA.
+    In your opinion, what steps does the EPA need to take to 
+ensure that it can efficiently and effectively review PFAS 
+chemicals to keep the American public safe?
+    Mr. Dodaro. EPA has come up with a national testing 
+strategy, which is a good first step. They have also 
+established the first proposed rule for regulating certain 
+PFASs in drinking water, which is a good step forward. But our 
+observation is they are not resourced properly. They are way 
+behind, and they do not have both the type of technical people 
+in specialty areas as well as the quantity of people necessary 
+to deal with the proliferation of these chemicals throughout 
+our environment.
+    That has been the biggest area that has been a problem, and 
+I think Congress needs to focus on that. I am not advocating 
+giving them resources without accountability. They need to have 
+resources, but they need to produce and use those resources 
+effectively.
+    Chairman Peters. Thank you. I was happy to see that the 
+2020 Census was removed from GAO's High Risk List, and I 
+appreciate the work that the GAO did to provide key oversight 
+during that process. However, I think we should learn from some 
+of the problems that occurred in the last census, and it is 
+really critical that we do that. One item in particular was the 
+undercount of many populations, including in the city of 
+Detroit, and we need to address this problem going forward. 
+That has a significant impact on a local area, as you know. The 
+Bureau must incorporate lessons learned in the 2030 Census 
+planning process as it is ramping up.
+    I just quickly, in the time here, will you commit to 
+continuing the oversight of the Census Bureau? Even though it 
+is off this list it is still going to require some pretty close 
+oversight.
+    Mr. Dodaro. Absolutely. One of my earlier assignments at 
+GAO was looking at preparations for the 1990 Census, and we 
+have followed every decennial since, and we will continue to do 
+so.
+    Chairman Peters. Good. I appreciate that.
+    Ranking Member Paul, you are recognized for your questions.
+    Senator Paul. Thank you, and welcome. I am very impressed 
+with your work through the years, and continue to be amazed at 
+some of it. In fact, you are able to get information that we 
+are not able to get. We have such great resistance from 
+Executive Branch, of either party, that everything is hidden 
+from the people's representatives and from the people.
+    Recently you were commissioned to look at spending through 
+our agencies that has gone to China, and you found that there 
+was $48 million that you can locate so far that went to China. 
+But what was extraordinary, and still is extraordinary, I think 
+has not really fully been recognized, is that you actually 
+discovered that money was going from American universities and 
+being subcontracted to military research in China. People would 
+be kind of amazed that we are actually funding research in 
+China, since we have such an adversarial relationship, but we 
+are actually funding military research.
+    There is an Academy of Military Medical Sciences (AMMS), 
+and I think you publicly identified at least two of the 
+universities with subgrants there, Duke and UC Berkeley. We 
+have people thinking there may be as many six or seven other 
+universities that are subcontracting this--UC Davis, UTMB 
+Galveston, University of Wisconsin Madison, University of North 
+Carolina, and University of Minnesota--and I would like to hear 
+your response if you know any more about it, but also to look 
+into those, because I think there is a question of whether it 
+is being done appropriately, honestly, and actually, frankly, 
+legally.
+    Are you aware of any other universities that you can tell 
+us that are subcontracting grants to China?
+    Mr. Dodaro. Not offhand. I will talk to our team, and if we 
+do have something I will submit it for the record.
+    Part of the problem is there could be an award to a 
+university, and sub awards from the universities to different 
+areas, and it can go even a little further than that, and it is 
+hard to track the sub awards.
+    We are looking at that now. We are also looking at the 
+Federal Government's coordination of research in international 
+areas. We have a separate effort to look at that right now.
+    Senator Paul. In looking at these subcontracts are you 
+looking at whether or not they are obeying the law, the rules 
+as to how you are allowed to subcontract it? Do you look at the 
+False Claims Act, or are you looking at legality as well as 
+good policy?
+    Mr. Dodaro. We are looking at how the agencies are 
+structuring the awards, and what kind of requirements they 
+have. I have a little concern, in some of the preliminary 
+briefings I have heard, that the Federal Government is not 
+striking these agreements in a way that protects the Federal 
+Government's interests as appropriately as possible.
+    Senator Paul. Basically everything we know, we have learned 
+some from the GAO, and almost everything else we know is from 
+Freedom of Information Act (FOIA). The agencies will give us 
+nothing. Recently we voted unanimously to declassify all of the 
+COVID origins material, to give it to us. That does not mean 
+they will give it to us. We have been asking for declassified 
+information for two years and we get squat.
+    In fact, from Freedom of Information Act we have two people 
+at Defense Threat Reduction Agency (DTRA) and the Department of 
+Defense, they are talking to each other, and they are saying, 
+well, we are reviewing EcoHealth but it looks like EcoHealth is 
+doing things with dollars beyond the definition of what they 
+are supposed to be doing. The lead researcher at DTRA writes 
+back and says, ``We probably should change the wording because 
+if someone ever FOIAs that, that is not going to look good.'' 
+Can you imagine these people?
+    They also have exchanges going back and forth saying, 
+``Senator Paul has requested this but he is doing it by himself 
+because we cannot get a Democrat to help us, and so we are not 
+going to give it to him.'' They actually are discussing that.
+    Anything you can do, I trust your honesty, your integrity, 
+and that you will try. We need your help, because government is 
+so out of control that we cannot get information.
+    We complain about the Chinese government. We cannot get 
+information from our own government. We now have unanimously 
+passed to declassify things, and they are still holding on to 
+all the information. They will not give it up. We are still 
+wrangling. We have not yet gotten one Democrat chairman to sign 
+one letter of request for records.
+    This is a real problem. The thing is I do not do this for 
+partisan reasons. My concern is there are people, scientists, 
+saying this, that the next pandemic that escapes from a lab 
+could kill as much as five percent, or even as much as 50 
+percent of the people on the planet. This is what we are 
+looking at. We can create monstrous super viruses and nobody 
+seems to care whether this came from a lab.
+    I appreciate what you are doing. I am very interested in 
+the other universities because they do gain-of-function 
+research. They have collaborated with China. But I am also 
+interested in the military aspect of this. People talk about 
+viruses having dual use. You can do it to look for vaccines. 
+Everybody wants a vaccine. But it also could be a weapon. 
+Everybody has always talked about dual use in this research, 
+but we typically, ostensibly, only worked with other countries 
+in the civilian area.
+    It boggles my mind that nobody seems to know that 
+universities--and you all discovered this, which is amazing--
+that our universities are giving the money, subcontracting it 
+Academy of Military Medical Research, where the scientist there 
+has not the title of doctor but general and colonel in the 
+People's Liberation Army.
+    This is something that I can only encourage you. We will be 
+asking you also to do more of it, and we will try to get the 
+other side to agree to help us find out more information. But 
+we would like to encourage this.
+    I am sure you have a team that has been doing this, if you 
+would allow them to come and visit with us and talk more about 
+what they have. Because sometimes we read a conclusion, and 
+they might give us better ideas of things that we want to look 
+at as well.
+    Mr. Dodaro. Absolutely.
+    Senator Paul. I guess the main thing is to isolate in on 
+what are the rules for these things, whether people are obeying 
+the rules on the subcontracting. And just by not listing it, 
+that can be more than an oversight. That can be actually 
+obscuring where the money is going as well.
+    But I appreciate your work on it, and we would like to get 
+back with you further to talk about it, if we can talk to your 
+team individually. Thank you.
+    Mr. Dodaro. I am equally concerned about this issue, and we 
+will continue to focus on it, and to work with your staff.
+    Chairman Peters. Thank you, Ranking Member Paul.
+    Senator Carper, you are recognized for your questions.
+
+              OPENING STATEMENT OF SENATOR CARPER
+
+    Senator Carper. Thanks. This is one of my favorite days of 
+the year. I understand there are one or two people in the room 
+that actually work with you at GAO, and if there are a few that 
+work at GAO, the most popular place to work in the Federal 
+Government, raise your hand. Just convey to your colleagues our 
+heartfelt thanks for the great work that you do, and Gene, to 
+you for the extraordinary leadership you provided for a long 
+time.
+    My wife has an interesting sense of humor, and every year 
+when it is my birthday--she is a year or two younger than me--
+every year when it is my birthday she will say to me, ``What do 
+you want on your tombstone? What kind of scripture? What kind 
+of songs do you want them to sing at your funeral?'' Finally I 
+just said, ``I have had enough. On my tombstone, this is what I 
+want.'' Thinking of all the years that I worked on postal 
+reform legislation, and with the Chairman, Rob Portman, Richard 
+Burr, and others. But anyway, thinking of the great work that 
+we did passing postal legislation, I said, ``Martha, I think I 
+would like to have on my tombstone, `Return to Sender.' '' 
+[Laughter.]
+    She did not even blink. She did not even smile. I thought 
+it was a pretty good line, and she said, ``If that is not 
+available what else would you like to have on your tombstone?'' 
+I said, ``I would like to have 'He was deaf on improper 
+payments to dead people.' '' That would be pretty good, you 
+know? We worked on that one, and several of us worked on that 
+one, pretty hard for a long time.
+    But on a more serious note, I want to pause and address the 
+improper payments, something we talked about ad nauseum, but we 
+still need to continue to focus on it. Thank you and your folks 
+for your diligence in working with us.
+    I also am encouraged--we still have too many government 
+operations, too much to criticize and find fault with--but as 
+you reported to us, that we are making an improvement in a 
+number of areas and several of the key areas have actually been 
+taken off of the High Risk List, and we are happy about that.
+    As we have learned, payments made through the Paycheck 
+Protection Program (PPP), the Economic Injury Disaster Loan 
+(EIDL), program during the onset of the pandemic, resulted in 
+hundreds of millions of dollars in improper payments. While 
+this emergency relief, we know helped thousands of small 
+businesses, probably millions, across the country coped with 
+adverse economic conditions, these programs remain susceptible 
+to high levels of improper payments and fraud.
+    In the 116th Congress I worked with Senator Kennedy, 
+Senator Peters, Senator Paul, and others on this Committee to 
+pass legislation that would endeavor to stop making improper 
+payments to dead people, and require data-sharing among Federal 
+agencies to ensure that these payments are reduced and 
+eventually eliminated.
+    Question. Comptroller General, what suggestions does GAO 
+have for additional legislative improvements to further address 
+improper payments and fraud?
+    Mr. Dodaro. Yes. First, I recommended legislation for any 
+new Federal program that is created or where there is a major 
+increase in a program of $100 million or more, be automatically 
+designated susceptible to improper payments. Right now it could 
+be one or two years after the program is started before the 
+very first improper payment estimate is made. That is too late, 
+particularly in some of these emergency programs, the program 
+is over before estimates are made. The later you make these 
+estimates the less likely you are to recover the improper 
+payment.
+    Second, agencies should be required to have special 
+procedures in place and internal controls before emergency 
+spending, or major increases in spending. Right now we have 
+made that recommendation to the Office of Management and Budget 
+(OMB). Everybody in the Executive Branch thinks the normal 
+controls are enough. We do not. We think they need special 
+controls, and they know what they need to do. Because this is 
+where the push is to get the money out fast without having the 
+normal controls in place. You need some kind of tailored 
+controls, and you can do both. You can protect the government 
+and get the money out fast if you plan ahead and use those 
+experiences.
+    The last thing I would mention is that there needs to be a 
+permanent analytical capability within the inspector general 
+community. We had it during the Recovery Act days. It was 
+eliminated in 2015. I recommended that Congress make it 
+permanent. That did not happen. I am at it again. I would like 
+to see it made permanent. The IG community is supportive. They 
+can help prevent fraud and improper payments.
+    Senator Carper. Great. My staff and my colleagues have 
+heard me say, over and over and over again, everything I do, I 
+think everything we do, we can do better, and you have given us 
+three good ideas to how to do it, an even better job on 
+improper payments, especially to people who are no longer with 
+us.
+    The second area I wanted to pursue in my questions deals 
+with establishing a governmentwide cyber workforce plan. As 
+folks in this Committee know well, the cyber threat posed by 
+hostile nations and groups around the world cannot be 
+overstated. We continue to see cyber threat actors evolve and 
+advance their techniques in ways that pose a threat to 
+business, health care facilities, critical infrastructure, and 
+put at risk the financial and personal safety of our countrymen 
+and women.
+    Unfortunately, the cyber threat landscape is not getting 
+less volatile. It is actually getting more volatile. 
+Comptroller General, in your statement I believe you mentioned 
+that further action is needed in cyberspace when it comes to 
+establishing and effectively implementing a governmentwide 
+cyber workforce plan.
+    My question along those lines is, given that each Federal 
+agency's mission and size is so different from one another, how 
+best can we establish a governmentwide cyber workforce plan 
+that would address the needs of each department in an 
+appropriate way.
+    Mr. Dodaro. Yes. I am going to ask Nick Marinos, who is our 
+expert in the IT and cyber area, to respond, Senator.
+    Mr. Marinos. Yes, Senator. First, just to point out we have 
+heard from the White House that there are intentions to 
+establish the national strategy for cyber workforce in the 
+summer. What we would be looking for is, one, a push-back to 
+the agencies to continue to identify where they have gaps. Even 
+though we have seen some improvement in this area, there is no 
+comprehensive way for us to know whether each Federal agency 
+actually knows what it needs.
+    The second thing is that each agency then needs to focus on 
+not only recruiting and hiring but also retaining really highly 
+qualified staff. We know there is a shortage, not only within 
+the Federal Government--but across the Nation, and so it will 
+be important for them to leverage not only the tools that they 
+have right now but recent legislation that has called on 
+creative ways to try to generate ideas for how to keep Federal 
+Government employees actually staying within the Federal 
+Government.
+    Senator Carper. Great.
+    Mr. Dodaro. There are a couple of things I would add. One 
+is that there is a problem now between competition among 
+agencies for the same talent. I think a governmentwide plan can 
+help deal with that issue a bit because there is an unlevel 
+playing field. Some agencies have special hiring authorities 
+and pay; others do not. I think there needs to be a look at 
+that and whether that is rationalized properly.
+    The other thing is the Office of Personnel Management 
+(OPM). We have just issued a report recently saying Office of 
+Personnel Management does not have its own plan for improving 
+its workforce--and needs to. The human resource (HR) people in 
+the government, whether they are centralized in OPM or in 
+individual agencies, are not what we need in order to help 
+support the recruitment and hiring of cyber people.
+    I think this is also a cautionary tale that we need to get 
+ahead in artificial intelligence and quantum computing, because 
+there were really no qualification standards for cyber people 
+for a number of years, and so we were way behind the curve.
+    Senator Carper. Mr. Chairman, we have a saying in the Navy, 
+when people do extraordinary work, we use the phrase, ``Bravo 
+Zulu.'' I would just say to you, to both of you, to the folks 
+that are behind you from GAO and those that may be listening in 
+or watching, tuning in today, and those that are hard at work, 
+Bravo Zulu. Keep up the great job. Thanks so much.
+    Chairman Peters. Thank you, Senator Carper.
+    Senator Lankford, you are recognized for your questions.
+
+             OPENING STATEMENT OF SENATOR LANKFORD
+
+    Senator Lankford. Mr. Chairman, thank you. Gene, it is good 
+to see you again. Let me start with the same question we talk 
+about every year. You will know the rest of this question when 
+I start it. Taxpayers Right To Know. We have talked about it 
+year after year. It has obviously passed. Twenty million 
+dollars was given to OMB to go through the implementation. They 
+received that funding. They have said they are doing pilot 
+programs. They have also said they are coordinating with you on 
+the process.
+    Tell me how it is going for Taxpayers Right to Know. They 
+have the funding. They have the law. What is actually 
+happening?
+    Mr. Dodaro. Their current plan right now is to create an 
+interagency working group to leverage additional resources 
+needed and to get buy-in from the agencies because they are 
+going to need to do that. They are going to deploy resources 
+this summer and make a major push to try to begin developing an 
+inventory and having the pilot.
+    I am encouraged by that. It has taken them a while to get 
+to this point, so it may put them at a disadvantage in meeting 
+the 2025 date that has been established.
+    Senator Lankford. Or try anyway. Is your team at the table 
+in the conversations on setting the list, setting the 
+priorities, setting the program definitions? Because the 
+program definitions is a big part of this, and we have to get 
+that right at the beginning.
+    Mr. Dodaro. Yes. We have been playing an appropriate role, 
+protecting our independence, but also being a sounding board 
+and making suggestions to them. They are listening, and they 
+are adopting some of our suggestions.
+    We were the ones that were encouraging them to bring the 
+agencies in, not only for resources but to get buy-in.
+    Senator Lankford. Get the conversation.
+    Mr. Dodaro. Yes, absolutely.
+    Senator Lankford. Strategic human capital management has 
+been on your list since 2001. It remains on the list. This is 
+an issue that I talk about a lot. Our Committee has talked 
+about it a lot. Best I can tell there is about 105 hiring 
+authorities. When I asked the Chief Human Capitol Officers 
+(CHCOs) about it, about 20 of them are used more than 90 
+percent of the time. But every time I bring up direct hiring 
+authority, everyone has a conniption on it and thinks that will 
+never work or whatever it may be, except for the entities that 
+actually use it.
+    What is it going to take on the strategic human capital in 
+trying to be able to figure out, on the hiring side, just the 
+hiring portion of it, to be able to simplify this so it is 
+actually usable and it does not take 145 days to hire someone 
+at the IRS?
+    Mr. Dodaro. One of the government-wide shortages and 
+critical skill gaps is in the human resource people who 
+actually support and run the hiring efforts and activities. 
+There are problems at OPM itself, and there are problems in the 
+individual agencies. A lot of the human resource people were 
+trained over the years, going back to the civil service reform 
+days to be compliance oriented, to make sure you do not do 
+anything wrong in these areas, as opposed to what can I do to 
+be helpful, to help in these difficult areas.
+    We need to change that mindset, change that approach, and 
+get the right people in there to support them. Then I think 
+things will be a lot easier.
+    Senator Lankford. You and I have talked several times about 
+the census, and I know census has dropped off the list this 
+year. But one of the issues that I bring up consistently is the 
+IRS, every single year, touches every single person, basically, 
+across the country, or a vast majority of them. The census does 
+it every 10 years. But for whatever reason, census and IRS will 
+not talk to each other. There is some information-sharing 
+behind the scenes. But why could not the census, every 10 
+years, partner with the IRS, what they do every one year, and 
+add a couple of additional questions to your IRS filing, and 
+that also fulfills your census as well for that year, and then 
+for everyone else that does not do a filing to be able to then 
+go pursue those folks?
+    That seems too common sense to actually work in the Federal 
+Government, but I have been told for 10 years it will not work, 
+it will not work, it will not work. I have also asked why it 
+will not work, and no one can give me the answer why it will 
+not.
+    Mr. Dodaro. Yes. The only limitation I can see offhand of 
+why it would not work is the timing of it. The census is where 
+everybody is on one particular day, when they do the 
+measurement, and the IRS filings are a year later. You file one 
+year for the previous year.
+    Senator Lankford. Right.
+    Mr. Dodaro. There may be a timing issue there. But I will 
+look at it. I will have our team look at it, and there may be 
+ways to overcome that. But to me the timing would be the major 
+thing.
+    Senator Lankford. It is obviously because it goes door to 
+door, trying to be able to check on people. They get as close 
+as they can to one day. That one day could be April 15th. That 
+would be just a statutory thing for us to be able to say April 
+15th is the one date.
+    Mr. Dodaro. I will think about it. But you file on April 
+15th you are filing for the previous calendar year.
+    Senator Lankford. But you are filing where you are this 
+year, with your address, where you are this year on it, as 
+well. But let's talk about that at length----
+    Mr. Dodaro. OK.
+    Senator Lankford [continuing]. To be able to go from there.
+    There are a couple of things I actually want to bring up. 
+Can GAO do oversight on it. You have been in telework status 
+for three years now. You are in the process of coming back from 
+telework status. I look at your numbers typically in the past. 
+You are typically $145 to 1 of recovery. Well done. Spike the 
+football. But now in telework status you are at about $72 to 1. 
+Is that because of telework status or is that something else?
+    Mr. Dodaro. No, that is something else. We have been in 
+telework status for a decade. We have had expanded telework. We 
+have studied it. It has had no impact on our quality and 
+productivity of our work.
+    There were two factors that led to the 145, and one year we 
+had an all-time record of about $200 billion of savings. 
+Normally it is more of a $50 to $70 billion range. Then second, 
+during the pandemic, we spent a lot of time looking at the $4.6 
+trillion in pandemic spending, so that took us kind of off our 
+normal path.
+    But we are in pretty good shape and I think we will 
+continue to produce a great return on investment.
+    Senator Lankford. We do need to talk about telework, 
+because I am an advocate for remote work. I think that is a 
+possibility. But one of the things I always want to ask you is, 
+if you are doing remote work or telework and you are actually 
+somewhere else but you are getting paid at a higher rate as if 
+you are in Washington, DC, or San Francisco, or somewhere else, 
+there are some real inconsistencies there.
+    But I think there are some real opportunities. I call the 
+time of COVID the world's largest pilot program for telework, 
+and there are some real opportunities that I think we can do, 
+especially for spouses of military and others in the days 
+ahead.
+    Mr. Dodaro. Absolutely. Actually, we are in the process of 
+negotiating a remote work option with our union right now, and 
+the issue around pay is the most appropriate thing. I want to 
+make sure it is equitable but not out of line.
+    Senator Lankford. Yes. It is an appropriate conversation to 
+be able to have, based on where people live and work.
+    GAO, it is my understanding, has also put out a new style 
+guide for language in it, and I want to just bring this up. We 
+can have a longer conversation on this as well. But the style 
+guide is trying to be more inclusive in the language. I prefer 
+to use the term ``respectful'' in language rather than 
+``inclusive,'' and let me give you a reason why.
+    In the style guide it tells folks at GAO, when using 
+terminology like ``male'' and ``female'' that an agency uses or 
+that is written into law, GAO should state the source to not 
+give the impression that GAO endorses ``male'' and ``female.'' 
+I am not sure that is a good idea because we are back to, if we 
+are going to be not offensive, we need to not be offensive to 
+everybody.
+    There are several other things, taking out terms like 
+``manmade'' or ``manpower'' or ``unmanned'' or not using the 
+term ``policeman.'' Not talking about a person whose gender 
+identity does not align with their sex assigned at birth 
+implies a much larger not only political issue but a societal 
+issue as well.
+    There are several things in the style guide that I look at 
+and I say, hey, I really need GAO to stay out of cultural 
+battles and to definitely not say if Congress writes a law that 
+says ``male'' and ``female'' GAO should basically apologize for 
+it and say, ``Hey, their word, not ours.'' There are some 
+concerns that are in this.
+    I would love to be able to have a conversation about how we 
+can keep GAO consistent with where we are both in law and not 
+trying to compete with Congress and trying to apologize that 
+Congress in errantly uses the word ``male'' and ``female.'' 
+This will be a bigger issue that we can talk about at a 
+different time as well. But we need GAO to stay GAO. Can I just 
+say that?
+    Mr. Dodaro. I understand your point, and I would be happy 
+to talk to you about it.
+    Senator Lankford. Yes. I do not mind respectful language. 
+That is a good thing, to honor all people in the process. Thank 
+you.
+    Chairman Peters. Thank you, Senator Lankford.
+    Senator Rosen, you are recognized for your questions.
+
+               OPENING STATEMENT OF SENATOR ROSEN
+
+    Senator Rosen. Thank you, Chairman Peters. Thank you for 
+holding this hearing. Thank you for being here today, for all 
+the work that you have been doing.
+    I want to focus a little bit on government legacy IT. Once 
+again, this year's High Risk Report notes that the Federal 
+Government efforts to improve the management of IT acquisitions 
+and operations is a work in process. We know technology is 
+moving quickly. But while your report gives credit to OMB for 
+pushing agencies to implement IT reforms, it also states that 
+all five ratings for this particular goal remain unchanged 
+since 2017. Specifically, you cite 20 recommendations that have 
+still not been addressed at 14 agencies, including the 
+development of modernization plans for legacy IT systems.
+    As someone who began my career in computer programming, 
+writing code in Common Business-Oriented Language (COBOL), 
+Formula Translation (FORTRAN), Assembler, and others, it does 
+trouble me that so many of our Federal agencies continue to use 
+that legacy technology that in some cases has been around since 
+the 1980s, and it is based on coding language that virtually no 
+one works in anymore. This poses serious challenges when the 
+technology breaks or malfunctions. Maintenance is a huge part 
+of what you do, upgrade and maintenance. You can only patch it 
+so many times. I know this from personal experience.
+    I am concerned the Federal Government is still getting an 
+incomplete on this report card. Can you talk to me about the 
+importance of getting our IT systems modernized, streamlined, 
+forward-facing, and nimble in our ability to do all the things 
+that we have to do, and why are people still only partially 
+meeting their goals?
+    Mr. Dodaro. This has been a vexing problem that we have 
+been trying to push people on for a number of years. The 
+problems include poor security. A lot of these systems were not 
+built with security in them, so it is complicating our ability 
+in cybersecurity area. The cost is expensive. There were 
+efforts to try to replace them, but they often fail because of 
+lack of discipline with IT management issues.
+    One of the things is they are not forced to get off the 
+systems and commit to a date. We recommended that OMB do that, 
+and they have not implemented that recommendation. I think 
+Congress needs to step in here and try to require fixed dates, 
+because they just keep rolling these systems forward. It is not 
+good for taxpayer customer service issues as well.
+    Senator Rosen. I will tell you, none of it in the old code, 
+cybersecurity, I mean, there was a single mainframe. There was 
+just one point of entry. The world has changed now, and it does 
+leave us vulnerable.
+    I want to move on now to our cybersecurity strategy 
+overall, because since 1997, GAO has designated information 
+security, of course, it is high risk. We know it. Everyone 
+knows that. This year's High Risk Report calls for the 
+Administration to fully establish and implement a comprehensive 
+cybersecurity strategy and the implementation plans. Maybe we 
+should put those hard dates in there.
+    Last month, the Administration released the National 
+Cybersecurity Strategy. As the Administration executes the 
+National Cybersecurity Strategy, what should be the roles and 
+responsibilities of the individual Federal agencies to this 
+national strategy that, frankly, if we do not do, all of us, in 
+every single way, are vulnerable?
+    Mr. Dodaro. This is a critical area. They have committed to 
+try to clarify the roles and responsibilities. I will ask Nick 
+Marinos to elaborate a little bit.
+    Mr. Marinos. Yes, Senator. You raise a really important 
+point and one that we would expect to see within an 
+implementation plan, which is ultimately outlining not only 
+timeframes, outcomes that you want to have in mind, but also 
+who is going to ultimately be responsible for working together 
+and then being accountable for actually taking action on them.
+    Senator Rosen. Could you talk about duplicative programs, 
+because maybe we can share front ends. We can populate data 
+between agencies that everyone does not have to develop every 
+single thing. Maybe you could address that as well.
+    Mr. Marinos. Absolutely. The legislation that Congress has 
+recently passed not only to enact and create CISA but also to 
+empower CISA to be one of the key coordinating bodies, 
+especially across the Federal agencies when it comes to its own 
+cybersecurity, is an area that you would want to see within an 
+implementation plan, and likewise, with the creation of the 
+Office of the National Cyber Director, heading in the right 
+direction. We would want to see what role does the National 
+Cyber Director actually play in holding agencies accountable 
+for taking these actions.
+    Senator Rosen. Thank you. I am going to keep on this 
+because I think it is so important. It is something on the top 
+of everybody's mind, whether it is personal, professional, or 
+for the world, we see a lot going on. We need people to do this 
+work. We need programmers. We need engineers. We need 
+cybersecurity, just every kind of analyst that is involved all 
+along the chain. We have a huge workforce shortage, and this is 
+not just a challenge in this area but in others.
+    The report does state, and I am going to quote here, 
+``Federal agencies need to take additional actions to address 
+the Federal cybersecurity workforce shortage.'' What 
+practices--and either one of you can answer--should the Federal 
+agencies adopt to solve the cybersecurity workforce shortages? 
+I have a lot of opinions, but what measures, what should we be 
+putting in place to address this? Apprenticeships? 
+Certificates? Two-year? Four-year? All of the above? Maybe you 
+could elaborate on that a little bit.
+    Mr. Marinos. Yes, Senator. I think the important thing is 
+to be creative here, and we realize that if the Federal 
+Government is not the only game in town when it comes to 
+cybersecurity employment, it needs to be positioned in a way 
+that is going to have a lot of flexibility. As mentioned 
+earlier, we have seen hiring authorities, flexible hiring 
+authorities as one way for Federal agencies to take advantage 
+of it. In order to do so, the human resource employees need to 
+be aware and cognizant of how to leverage those flexibilities.
+    Likewise, the potential to use things like rotational 
+workforce or potentially even----
+    Senator Rosen. What about a reserve workforce? I have some 
+bills out there to create a cyber-reserve workforce to surge 
+up.
+    Mr. Marinos. It is a really viable option, and I know your 
+interests are particularly in DOD and DHS, two places that 
+obviously we need to see a very strong and well-capacitied 
+cyber workforce.
+    I think all options should be on the table because 
+ultimately the Federal Government is going to be a competitor 
+with its private sector partners and has to operate off of 
+different measures.
+    Senator Rosen. If we can include them to surge up, that is 
+a positive thing. Thank you.
+    Senator Blumenthal.
+    Senator Blumenthal [presiding.] On behalf of Chairman 
+Peters I recognize Senator Hassan.
+
+              OPENING STATEMENT OF SENATOR HASSAN
+
+    Senator Hassan. Thanks, Senator Blumenthal, and I want to 
+thank the Chair and the Ranking Member, and I want to thank 
+you, Mr. Dodaro, for your service and for being here and for 
+all the folks from the GAO who are here this morning and do 
+this work. Thank you for your work.
+    I want to start with a question and really drilling down on 
+technology issues. You are hearing about it all around the dais 
+this morning.
+    In 2023, the Federal Government is expected to spend more 
+than $100 billion on new and existing technology. GAO's High 
+Risk List makes two recommendations to help lower costs and 
+better manage technology purchases all across the government. 
+First GAO recommends that Congress consider giving the Federal 
+Chief Information Officer (CIO) greater responsibility to 
+address longstanding technology challenges. How could expanding 
+the role of the Federal CIO help curb excessive Federal 
+spending on technology, and what specific authority do you 
+believe the Federal CIO still needs?
+    Mr. Dodaro. I am going to ask Nick to respond to this, 
+Senator. But first, an historical perspective. I worked with 
+the Congress, and this Committee back in 1996, to create the 
+Clinger Cohen Act, to create Chief Information Officers in the 
+government. They were intended to have much greater 
+responsibilities than what has played out over the years. 
+Congress attempted to change this in 2014, with the Federal 
+Information Technology Acquisition Reform Act (FITARA), but 
+still the CIOs do not have all the authorities. Nick can give 
+the details.
+    Senator Hassan. Thank you.
+    Mr. Marinos. Senator, two quick thoughts. First, with 
+respect to the Federal CIO's own position. The reality is that 
+the Federal Government represents probably the biggest buyer of 
+technology within the Nation, and so it is important for us to 
+have a way to know that IT's money is being spent effectively. 
+Having a strong Federal CIO presence would allow that 
+individual to bring Federal agencies to the table, and CIOs and 
+leaders of agencies, to know not only are they spending money 
+wisely but they are leveraging buying power and we shared 
+services.
+    Then the other side of it is ultimately to hold CIOs 
+accountable, and Federal agency heads accountable toward those 
+CIOs as well. We continue to see Federal agencies improve in 
+aligning the CIO with agency leadership so that they can 
+actually have the ability to see across a Federal agency where 
+their IT dollars are being spent. It is a lot of money and does 
+require a stronger oversight.
+    Senator Hassan. Thank you for that, and you just referenced 
+quickly the importance of collaboration between the CIOs and 
+their agency leadership. But can you talk a little bit more 
+about why that collaboration is so important for reducing IT 
+costs and ensuring that agencies have the technology they need 
+to serve the American people?
+    Mr. Marinos. Certainly. We have seen, on the General 
+Service Administration (GSA) side has established a lot of 
+functions that allow agencies to leverage shared services, 
+which is one way to bring the costs down. But in order to 
+encourage agencies to actually leverage those available 
+services a Federal CIO could bring CIOs to the table and ensure 
+that they are ultimately using their buying power effectively.
+    Senator Hassan. OK. Thank you.
+    Mr. Dodaro. I think the other issue, Senator, in that case 
+is that a lot of the program managers who actually run the 
+programs have their own ideas on what they think they need 
+technology-wise, and sometimes it is not the most efficient 
+approach. You need a technical person to partner with the 
+program people, but they need to be supported by the agency 
+head. That communication needs to be there in order to make the 
+right decisions.
+    Senator Hassan. Absolutely. Let us talk a little bit more 
+about the National Cybersecurity Strategy, while we are at it. 
+For 25 years, the High Risk List has highlighted the importance 
+or cybersecurity as a matter of national security, affecting 
+not only government but individual schools and businesses, and 
+you have talked about that.
+    As you mentioned, last month the Biden administration 
+released the first-ever National Cybersecurity Strategy, 
+something that GAO has supported for years. What should be the 
+Federal Government's next step toward executing the National 
+Cybersecurity Strategy?
+    Mr. Marinos. Ultimately an implementation plan, Senator. 
+There are a lot of to-dos in that strategy, and we commend the 
+Administration for pursuing it. We have seen it align quite 
+closely to many of the actions that we have been calling for 
+over the years. But the rubber will meet the road, ultimately, 
+with implementation of those strategic goals.
+    You mentioned, the issues that we see, for example, in K-12 
+schools and the ransomware attacks that we see are only going 
+to be assisted by Federal Government agencies if we have better 
+coordination. We would want to see the implementation plan 
+reflect that coordination as well.
+    Senator Hassan. I will also urge them to look at 
+collaborating with the Center on Internet Security (CIS) more 
+effectively, because I think they are doing some pretty good 
+work too.
+    Mr. Dodaro, I want to move to a different topic, and thank 
+you for highlighting the substance misuse crisis in your 
+testimony. In 2022, New Hampshire had the highest death toll 
+from drug overdoses since 2017, and as of today, in 2023, 55 
+people in my small State have died from drug overdoses. Sadly, 
+these numbers reflect a national trend.
+    GAO found that expanded access to medication-assisted 
+treatment is critical to getting more people into recovery. I 
+am proud that my bipartisan bill with Senator Murkowski was 
+recently signed into law to expand the number of providers who 
+are able to prescribe this lifesaving treatment.
+    The High Risk List, however, points out that the Office of 
+National Drug Control Policy's (ONDCP) 2022 National Drug 
+Control Strategy did not identify resources needed to expand 
+the availability of medication-assisted treatment so that more 
+people can get it. Why is it important to identify financial, 
+personnel, or other resources needed to expand access to 
+medication-assisted treatment?
+    Mr. Dodaro. Actually, that is a very important issue. We 
+have looked at it in terms of both how Medicaid funds could be 
+used for that, as well as having additional supporting 
+assistance. But part of the problem we have had with the 
+strategy is it does not allocate resources appropriately so we 
+could measure the impact in that area. But it is very 
+important.
+    I will ask Jess Farb, who is the director of our health 
+care area, to address that more specifically.
+    Senator Hassan. Thank you.
+    Ms. Farb. Senator, I think in terms of what is expected in 
+the Office of National Drug Control Policy's Strategy, we are 
+looking to see metrics and goals that will measure the spending 
+that you are talking about, to make sure that there is the 
+correct amount of funds available to support this. It is 
+definitely a tool that is very important for recovery from drug 
+misuse. I wanted to also bring in my colleague, Charles 
+Johnson, as well, who is my partner in this.
+    Senator Hassan. Thank you.
+    Mr. Johnson. Thanks, Jess. Senator, one of the things we 
+did see absent from the strategy was they have goals set up but 
+they do not have the budget allocations over a five-year 
+period. What we have heard from the ONDCP is that they do not 
+disclose the President's budget over a five-year period.
+    But we will continue to look into this and work with them 
+to see if we can get them to think about that as well as 
+engaging with some of the key partners, other agencies 
+involved, as well as State and locals.
+    Senator Hassan. Thank you. I mean, one of our challenges, 
+now that we are allowing much more access to medication-
+assisted treatment is to figure out how to make sure that it is 
+truly accessible and that pharmacies are participating as well. 
+I look forward to working with you on that. Thank you.
+    Senator Blumenthal. On behalf of Chairman Peters I 
+recognize Senator Scott.
+
+               OPENING STATEMENT OF SENATOR SCOTT
+
+    Senator Scott. Thank you, Chairman. Comptroller Dodaro, I 
+think you and your team do an unbelievable job. I think you are 
+a great Federal resource. I have been up here four years and 
+you have been unbelievably helpful in reviewing how government 
+works. I wanted to thank you and your entire team for what you 
+do.
+    The first question is how important is it that the Federal 
+Government have independent inspectors general?
+    Mr. Dodaro. I think it is absolutely essential.
+    Senator Scott. What would be some of the reasons why a 
+Federal agency should have one, an independent inspector 
+general?
+    Mr. Dodaro. There are two reasons. One is that they need to 
+have an investigative function in there. Many of them have 
+criminal investigators and other tools that can look at 
+misconduct with regard to the Federal employees in that area or 
+contractors or other areas. Some of these agencies are so large 
+that you need to have an independent audit function as well to 
+be able to provide information. They are structured so that 
+they report not only to the agency head but also to the 
+Congress. That was the way they were set up, and by and large 
+it has worked effectively over the years.
+    At GAO, we cannot cover the entire Federal Government with 
+the resources that Congress has given us, so we leverage the 
+IGs to make sure we do not duplicate what they do. They 
+arrange, for example, the annual financial audit, of the 
+agency's financial statements. We review the work. It is 
+usually done by an Intergovernmental Personnel Act (IPA), and 
+then we can use that to rely on and make our report on the 
+governmentwide financial statements.
+    Senator Scott. So the Federal Reserve has nearly a $9 
+trillion balance sheet, and I do not think there is any Federal 
+agency that has probably a $9 trillion balance sheet other than 
+the Federal Reserve. And they do not have an independent 
+inspector general. So do you think it would be appropriate for 
+them to be like, what is it, over 30 Federal agencies have 
+independent inspectors generals? Would that make sense?
+    Mr. Dodaro. Yes, I think that would make sense. When I 
+first became Acting Comptroller General I actually came to the 
+Congress and asked for a statutory inspector general at GAO, so 
+we have one there. I think it is important that the statutory 
+IGs have certain protections and notification requirements, et 
+cetera.
+    There is one agency that has a balance sheet higher than 
+that. Unfortunately, it is the Bureau of Public Debt. But in 
+any event, that is a side issue.
+    Senator Scott. You have written a lot about this, but I 
+watched, when I was Governor of Florida and we had the 
+hurricanes, and I watched how much fraud and abuse there was 
+with regard to a variety of things that FEMA would contract 
+for, or the Corps of Engineers. And one of the biggest is 
+debris cleanup. It is frustrating because you just see this 
+significant amount of waste.
+    So I have had a bill that would require, as an example, any 
+entity that is going to do debris cleanup, like counties and 
+cities have a pre-landfall contract and then enforce it. And 
+then we have way more review because, as you know, as I think 
+you all have written, the Federal Emergency Management 
+Administration (FEMA) cut back on a lot of their review of when 
+they pay.
+    I think with Hurricane Irma it was over $1 billion just in 
+debris cleanup. Do you think we ought to have some way to stop 
+all this fraud?
+    Mr. Dodaro. Absolutely. I think that debris removal is not 
+only expensive but it is the critical path to recovery. It is 
+the first thing that needs to be done. I think because of that 
+there are a lot of people who take advantage of that situation 
+because of the urgency and the dilemma facing people. Whenever 
+we have seen in emergencies, you saw that with the pandemic, it 
+brings out the best in human nature but it brings out a lot of 
+the fraudsters in those areas, and disaster relief is no 
+exception to that.
+    I think the bill that you and Senator Peters are working on 
+is a good step forward to help focus on that issue and put more 
+attention on it, as was the Advanced Contracting Act that this 
+Committee passed in 2020. But the proposed legislation builds 
+further on that.
+    Senator Scott. Another issue that came up while I was 
+Governor is national flood insurance. We have been three-plus 
+donor States since national flood insurance came in, and what I 
+watched while I was Governor is there is an unbelievable 
+increase in certain areas of rates. You would think, if you 
+were a donor State, of any amount but especially triple donor 
+State, you would not think you would see that.
+    How important is it for FEMA and the Federal Government to 
+do everything they can to help build a private flood insurance 
+program to reduce the risk of the National Flood Insurance 
+Program (NFIP)?
+    Mr. Dodaro. I think it is very important that that program 
+be reformed. It has been on our High Risk List as a separate 
+program since 2006 following Hurricanes Katrina and Rita. Right 
+now there is an over $20 billion debt that the program owes to 
+the Treasury, and that is after the Federal Government has 
+forgiven $16 billion in debt that was owed before. It is not 
+actuarially sound, and as a result, there are a lot of 
+inequities in the program that are hard to keep up to date.
+    Trying to have a private market for it, the question is 
+whether or not that could be structured in a way that would be 
+attractive to insurers, because they are going to charge 
+actuarially sound rates or they are not going to insure. The 
+Federal Government could provide more affordability assistance 
+to help people with the rates, as opposed to running the 
+program itself. I think that should be given serious 
+consideration.
+    Senator Scott. Thank you. First off, I will tell you, the 
+reports you guys put out are unbelievable. You guys do an 
+unbelievable job, your whole team does, so thank you for what 
+you do.
+    Mr. Dodaro. Thank you, Senator.
+
+            OPENING STATEMENT OF SENATOR BLUMENTHAL
+
+    Senator Blumenthal. Thank you, Senator Scott. I have a few 
+questions and then we may reach a conclusion.
+    I want to come back to an area that Senator Carper asked 
+about, on the Small Business Administration (SBA), and I want 
+to drill down a little bit on PPP and EIDL. I think the SBA did 
+vital work in dispensing $1.1 trillion very expeditiously, as 
+was required by the times, and we all, I think, realized that 
+there was also a good deal of waste and possibly even fraud.
+    In your view, is there still a need to look into and dig 
+down deeper into the way those programs were performed, both to 
+hold accountable the companies that may have received benefits 
+illegally, and also to learn some lessons, more broadly, about 
+these kinds of programs in the future? As much as we may 
+appreciate what SBA did, there were also a lot of companies, 
+small and medium-sized businesses that were denied these 
+benefits because the program ran out of money. It performed a 
+vital function, making money available, saving businesses, but 
+at the same time it became a target for waste and fraud, and 
+thereby denied some of the worthwhile businesses what they 
+needed and deserved.
+    On those two programs is there work still to be done?
+    Mr. Dodaro. Absolutely. I think your articulation of the 
+circumstances and what happened is exactly, precisely the way I 
+have seen it unfold, and we are working with SBA to try to have 
+them build in a better fraud risk framework in the first place. 
+We actually worked with the Congress back in 2016, to pass the 
+Fraud Reduction and Data Analytics Act, which required agencies 
+to implement GAO's best practices for how to prevent fraud in 
+the first place. SBA was slow to implement that, and therefore 
+it was not in place before the pandemic hit, when it should 
+have been. They were not well positioned to take on the 
+additional spending during that period of time.
+    The first fraud risk assessment that they did was after the 
+program was over, and that is not as helpful, obviously. They 
+need to have a better program in place. The Economic Injury 
+Disaster Loan Program is an ongoing program activity too, going 
+forward. Even though they built a special component on it, it 
+is there. Then there is the normal disaster loan program that 
+SBA has in place going forward. We are working with them to try 
+to get them to be better prepared.
+    I think another lesson learned is to not allow self-
+certifications. That was a problem and that invited fraud in a 
+number of areas.
+    There are key lessons learned by digging deeper into the 
+programs, and I have made some additional recommendations to 
+the Congress as well about making sure agencies can focus on 
+and prevent fraud in the first place, because they do not 
+recover that much as a percent of the funds after it happens.
+    Senator Blumenthal. There is a lot of money still to be 
+recovered. Is that what you are saying?
+    Mr. Dodaro. Yes, there could be. Congress, for those two 
+programs, has passed an extension of the statute of limitations 
+so that the inspectors general can go further, and the 
+Department of Justice (DOJ), into criminal prosecutions, and I 
+think that is fine. The Administration has also recommended 
+doing that in the unemployment insurance area, and I think that 
+would be a good idea as well.
+    Senator Blumenthal. In your view, from what you have seen, 
+was there an awareness at the time that these loans, later 
+becoming grants, going out were going to the wrong people?
+    Mr. Dodaro. I tried to raise awareness that we needed to do 
+a better job checking about that, but SBA was not in the 
+mindset of hearing that, initially in the program. To their 
+point, there was enormous pressure to get the money out quickly 
+during that period of time, and I understood that. But when I 
+went in I offered, I talked to the SBA administrator at the 
+time, to help them design things.
+    We did that, if you recall, during the global financial 
+crisis when the Troubled Asset Review Program (TARP) was set 
+up. I worked with Secretary Paulson and his team. We helped 
+give advice on building internal controls in up front. That 
+program, while it was not popular, was effective, and you had 
+nowhere near the amount of fraud that you have in these 
+programs. But the SBA, in the original days of the creation of 
+that program, were too busy to focus on that. We have to get 
+this money out.
+    I think there were people who had concerns, us and the 
+inspector general, but we were not able to persuade them to 
+listen.
+    Senator Blumenthal. But they could have listened. In other 
+words, you can be busy getting money out and at the same time 
+impose some safeguards. I will tell you, just anecdotally, I 
+heard, during this time, because I was going to bat for small 
+businesses who needed money, and what I heard was, ``Oh, we 
+have run out of money.'' The small businesses would come to me 
+and say, ``We have heard X, Y, and Z company got millions of 
+dollars. They do not fit the criteria. What is going on here? 
+Can't you do something about it?'' They were coming down, 
+rightfully, on their elected representatives. If we were aware 
+of it, was not SBA, and could they not have done something.
+    Mr. Dodaro. Yes, they could have but did not.
+    Senator Blumenthal. I would like to follow up with you on 
+this issue because I think that the lessons that you are 
+learning should be more widely known throughout government. 
+This is an unfair question but I am going to ask it--of the 
+$1.1 trillion, do you have kind of a ballpark number on how 
+much was misdirected? I am using ``misdirected'' purposefully 
+because I do not want to say ``waste,'' I do not want to say 
+``fraud,'' but just went into the wrong hands?
+    Mr. Dodaro. Yes. I do not have that number for SBA and the 
+PPP program. In the unemployment insurance area, we have 
+estimated that at least $60 billion, at the low end, was 
+fraudulent. We are working on a higher-end estimate now. They 
+had an already existing methodology for estimating fraud in the 
+regular unemployment insurance program ahead of time, so we 
+have been able to use that as a basis to make an estimate. You 
+really did not have that in the SBA programs.
+    But we have information on the number of investigations and 
+prosecutions and the amount of recoveries. We are happy to 
+share with you and your team. I am happy to talk about this. We 
+are making more headway now with the current Administration on 
+this area, and they are taking that seriously.
+    But for three straight years now, the financial auditor of 
+SBA's financial statements has been unable to give an opinion 
+on their financial statements because of these problems. There 
+is a significant amount of issues here. That is why I have kept 
+them on the High Risk List until they get them resolved going 
+forward.
+    But there are definitely lessons to be learned that could 
+be more broadly applied, and hopefully used in the future. In 
+June I will have been in GAO 50 years, so what I have seen, 
+over the years, is the lessons fade in terms of when the next 
+crisis comes, and then the whole thing gets overcome by events 
+and people doing this.
+    Also, there has been an estimate at SBA for the PPP program 
+that there was $29 billion in improper payments that were made. 
+Now that does not mean they were fraudulent, but that tells you 
+some level of magnitude.
+    Senator Blumenthal. Some impropriety.
+    Mr. Dodaro. Yes.
+    Senator Blumenthal. Let me ask you, I am assuming, as a 
+former prosecutor, I was the U.S. Attorney in Connecticut for 
+four and half years and then I was State Attorney General for 
+about 20 years. But I am assuming there is still a lot of work 
+to be done in recovering that money. Am I correct?
+    Mr. Dodaro. That is correct. There is a Pandemic Response 
+Accountability Committee (PRAC) made up of the inspectors 
+general that is led by Michael Horowitz as the chair, who is 
+the Inspector General of the Justice Department. They are 
+focused on this. There are investigations ongoing both at Labor 
+and at the Small Business Administration, in addition to the IG 
+community. That is why they have asked for the extensions on 
+statute of limitations. They are working hard at it.
+    Senator Blumenthal. I would like to follow up with you, and 
+I will be contacting Mr. Horowitz as well, as not only a Member 
+of this Committee but also as the Chairman of the Permanent 
+Subcommittee on Investigations (PSI).
+    I do not know whether Senator Ossoff wants to ask his 
+questions now. I have a few more questions on a different 
+topic, if I may.
+    Senator Ossoff. Sure. I have not yet voted. Have you, 
+Senator Blumenthal? OK, then go right ahead. We will be 
+stragglers together.
+    Senator Blumenthal. Food safety, another area that is close 
+to your heart, I know, and close to mine as well. I have been a 
+strong advocate of a separate food safety agency. Right now, as 
+you well know, the authority is fractured in 15 different 
+agencies. There are 30 different Federal laws, and as a result 
+nobody is really doing enough and doing it quickly enough. I 
+think you are well aware with what happened with the infant 
+formula contamination. But it is just one example of how the 
+present system is failing.
+    Do you favor establishing a dedicated food safety agency?
+    Mr. Dodaro. That is obviously a policy issue for the 
+Congress. I think it is worthy of examination. It has been on 
+the High Risk List for a number of years. Initially, when we 
+put it on the list, we were pushing for a single food safety 
+agency, but we were getting no traction. We went with the next 
+best thing, which was a governmentwide plan with performance 
+measures, and a permanent working group on food safety issues, 
+which was in place years ago but had been abandoned. There was 
+not a formal coordination mechanism. There was not a 
+governmentwide plan. That is what our current recommendations 
+are.
+    What we said is if that does not happen Congress should 
+look at reorganization and creating a blue-ribbon commission to 
+look at that. But certainly that is one option that I think is 
+worthy of consideration, particularly on how stretched FDA is 
+with their responsibilities. With the drug area and the food 
+area, there is a lot on their plate.
+    Senator Blumenthal. They have a lot on their plate, and we 
+may not have success this session with the Food Safety 
+Administration Act, introduced last Congress by my colleague in 
+the House, Representative DeLauro, and here in the Senate by 
+Senator Durbin. I co-sponsored it and I have been a strong 
+advocate of it. The FDA could do more, and it has a lot of 
+different responsibilities. But I think the Nation needs to do 
+a lot more, and I welcome the opportunity to continue this 
+conversation with you.
+    Mr. Dodaro. Yes, I think it is very appropriate, 
+particularly given the imported areas of where we are bringing 
+food in. We still have a lot of good domestic production, but 
+in a lot of areas we are using a global supply chain. I think 
+that heightens, as it has on the drug side. It is equally 
+heightened on the food side.
+    Senator Blumenthal. Thank you. Thanks for your work and 
+your team's. I really appreciate you being here and your 
+contribution to our Nation. Thank you.
+    Mr. Dodaro. Thank you, Senator.
+    Senator Blumenthal. I will yield to Senator Ossoff and turn 
+the gavel over to him.
+
+              OPENING STATEMENT OF SENATOR OSSOFF
+
+    Senator Ossoff [presiding.] Thank you, Senator Blumenthal. 
+Comptroller General, nice to see you again. I want to thank you 
+and your team for the support that you have provided to several 
+investigations I have led over the last couple of years, in 
+particular the research and analysis that you produced 
+supporting the PSI bipartisan investigation into deaths in 
+custody in State and local facilities across the country, an 
+issue I know Senator Blumenthal is focused on as well.
+    I led an investigation last year into the Bureau of 
+Prisons, and introduced bipartisan legislation with Senator 
+Braun called the Federal Prisons Oversight Act, to establish 
+greater accountability and transparency within the BOP.
+    In the newly added section of the High Risk List titled 
+``Management of the Federal Prison System,'' you cite a 
+February 2021 report that you produced, which found BOP did not 
+have reliable methods for assessing its staffing levels. Can 
+you describe the methodology that you observed BOP using to 
+evaluate its staffing needs, and how and why it so inadequately 
+guides their staffing efforts?
+    Mr. Dodaro. Yes. I am going to ask my colleague, Charles 
+Johnson, who is head of that work. But what we noticed 
+initially that led to the conclusion, between 2017 and 2021, 
+their use of overtime went up over 100 percent, and that is 
+always an indication that you have kind of staffing challenge. 
+But Charles can explain the details.
+    Senator Ossoff. Sure. Thank you, Mr. Johnson.
+    Mr. Johnson. Yes, Senator. In addition to what the 
+Comptroller General just mentioned, not only did overtime go 
+up, it is continuing to go up, and there have been continued 
+gaps in their staffing as well. As a matter of fact, the data 
+we have in the report now we have recently gotten updates, as 
+of yesterday or this morning, and the numbers are continuing to 
+decline. They have a 15 percent gap in their authorized 
+staffing levels.
+    Also based on all the work we have done in the past couple 
+of years where we have looked at their efforts to calculate 
+staff, we did not see a good methodology in place. That is one 
+of the recommendations we had made, and we think the new 
+Director Peters is committed to looking into that issue. We 
+have had several meetings with her, including the Comptroller 
+General meeting with her. At the time we were meeting with her 
+she was in the process of doing strategic planning. She also is 
+looking to establish clear goals with respect to their staffing 
+needs, as well as other programs that they have.
+    Senator Ossoff. I think Director Peters has acknowledge 
+multiple times the negative impact of these staffing 
+challenges.
+    From your perspective, Mr. Johnson, what are those impacts, 
+the ramifications for the Administration of Federal Prisons?
+    Mr. Johnson. Some of the things we point out in our report, 
+she has acknowledged the safety and security of the inmates as 
+well as her own staff. As you know, some of the deaths in 
+custody work that you looked at and championed, and some of the 
+things we have looked at recently with respect to some of the 
+facilities, there has been a unit closed as result of the lack 
+of sufficient care in custody of some of the inmates, and 
+Director Peters herself has been responsible for the closure.
+    Senator Ossoff. Remaining on the subject or deaths in 
+custody, the bipartisan investigation that I led with Senator 
+Johnson detailed the failures of DOJ to account for deaths in 
+custody. GAO recommended, in March of this year, that BOP 
+collect and monitor participation data for unstructured 
+activities that incarcerated people participate in to earn 
+first-step time credits, but BOP did not concur with this 
+recommendation.
+    Given that participation in these programs can mean an 
+earlier release for offenders, good-time credits, can you 
+describe some of these programs and the difficulties BOP is 
+having with implementation?
+    Mr. Johnson. Yes. Part of the issue is that there is a not 
+a clear sort of criteria for what programs count. There are 
+some situations where inmates may be getting credit for just 
+sitting in their cell, which should be not part of the 
+criteria. In addition, there are inconsistencies that we found 
+at different facilities in terms of how time credits are being 
+allotted, or not given credit for certain time credits. Even 
+the inmates themselves do not know what they can do to get the 
+time credits.
+    Those are some of the things that we recommended that they 
+address as well, come up with clear guidance and criteria for 
+how you can obtain time credits.
+    Senator Ossoff. Did BOP communicate to you why they did not 
+concur with your recommendation that they collect and monitor 
+participation data?
+    Mr. Johnson. They did not see the need. They felt like what 
+they had in place was clear. Obviously, we wrote in our report 
+that we disagree, and we think it is something important that 
+they need to do, primarily so individuals incarcerated will 
+know what they can do to earn their time credits.
+    Mr. Dodaro. I plan to elevate this to what we consider a 
+priority recommendation that should be implemented. We are 
+going to continue to push for the implementation of this 
+recommendation. I think it is needed. Every year I write a 
+letter to every major department in the Federal Government, to 
+the head of the agency, in this case the Attorney General (AG), 
+and list what I think are priority open recommendations that 
+have not been implemented yet. This will be on the list for 
+this report.
+    I asked the same question, and that is not a satisfactory 
+answer, in my opinion.
+    Senator Ossoff. This Congress I am leading the Human Rights 
+Subcommittee of the Judiciary Committee alongside Senator 
+Blackburn. As I mentioned, GAO has provided, the last couple of 
+years, very robust support and prompt responses to my requests 
+for analysis at the Permanent Subcommittee on Investigations.
+    Comptroller General, will you duly and timely consider any 
+requests for further GAO work product that I may make in order 
+to advance investigations at the Human Rights Subcommittee?
+    Mr. Dodaro. Yes.
+    Senator Ossoff. Let us talk a little bit about some DOD 
+issues. Since 1990, when GAO first published the High Risk 
+List, DOD weapons system acquisition has been consistently 
+listed as a high-risk item, indicating the potential for fraud, 
+waste, abuse, and mismanagement. As the GAO report states, for 
+much of this period DOD weapons systems were, ``consistently 
+costing more, taking longer to develop, and performing at 
+lower-than-anticipated levels.''
+    In your view, is DOD negotiating effectively when it 
+engages in procurement, to get the best value for taxpayers? 
+How would you assess the work of the Director, Operational Test 
+& Evaluation (ODT&E) at evaluating the development of systems 
+that DOD is procuring, and do you have any other specific 
+recommendations for Congress whereby perhaps through the 
+National Defense Authorization Act (NDAA) we could improve 
+procurement practices at the Department?
+    Mr. Dodaro. Yes. First, with regard to prices, competition 
+is the key to getting the lowest price, as we have seen over 
+the years, and initially there is some competition in this 
+area, but quickly they go down to a single contractor. Now they 
+do have the ability to get price information from that 
+contractor, but also negotiate. But once you go down to a 
+single contractor you lose a lot of the value of competition. 
+That is part of the problem with the weapons systems.
+    What we have also said in that area is that they move 
+forward at times from research into development (R&D) and then 
+into production before the technologies are mature. There are 
+simultaneous things going on, and then that leads to costly 
+redesigns later on in the process.
+    What happens in the DOD, and particularly in the weapons 
+systems, is an enormous push to be on a par with or ahead of 
+our adversaries, and there is a military need for this, which 
+tends to override some of the normal practices you would use to 
+bring down costs, and not do simultaneous production while you 
+have not matured fully the technology. That is an issue.
+    We have made a number of recommendations to not go into 
+full production until they have matured the technologies. We 
+have raised that issue on the Joint Strike Fighter (JSF) and 
+other things over the years. That is definitely an issue.
+    We have constantly recommended leading practices for how to 
+manage these acquisitions over time, and we have seen some 
+improvements in some areas. But where there is that desire to 
+compete with China or Russia or whatever, sometimes the cost 
+takes a back seat.
+    Senator Ossoff. Where there are substantial cost overruns, 
+the Department still has substantial leverage in these 
+relationships. How could it better exert that leverage in order 
+to spare taxpayers the cost, whether either the program office 
+has not accurately projected costs or the producer has failed 
+to meet a budget?
+    Mr. Dodaro. Yes. A lot depends on how they structure the 
+contract in the first place. They have been trying to move in 
+some areas to a fixed-price structure, and if things go over 
+then the contractor eats some of the costs, versus the Federal 
+Government. But if they are on a cost-reimbursable contract, we 
+suggested they be careful in what type of contracts that they 
+struck over time.
+    But we have some additional recommendations. I will provide 
+them for the record in that area, because it is a pretty 
+complicated area.
+    Senator Ossoff. Thank you for your testimony today and the 
+service of your whole team to the Legislative Branch. You 
+really empower us to more effectively execute our oversight and 
+responsibility. We are grateful to you and your team.
+    The hearing record will remain open for 15 days, that is 
+until May 5th, at 5 p.m., for the submission of statements and 
+questions for the record. The hearing is adjourned. [Whereupon, 
+at 11:39 a.m., the hearing was adjourned.]
+
+                            A P P E N D I X
+
+                              ----------                              
+
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+                                 [all]
+

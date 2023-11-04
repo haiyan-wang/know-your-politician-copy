@@ -1,0 +1,1554 @@
+
+ - STRENGTHENING THE FLEET: CHALLENGES AND SOLUTIONS IN NAVAL SURFACE SHIP CONSTRUCTION
+
+[House Hearing, 118 Congress]
+[From the U.S. Government Publishing Office]
+
+
+
+
+
+ 
+                        STRENGTHENING THE FLEET:
+
+
+                      CHALLENGES AND SOLUTIONS IN
+
+
+                    NAVAL SURFACE SHIP CONSTRUCTION
+
+=======================================================================
+
+                                HEARING
+
+                               before the
+
+                   SUBCOMMITTEE ON NATIONAL SECURITY,
+                    THE BORDER, AND FOREIGN AFFAIRS
+
+                                 of the
+
+                         COMMITTEE ON OVERSIGHT
+                           AND ACCOUNTABILITY
+
+                        HOUSE OF REPRESENTATIVES
+
+                    ONE HUNDRED EIGHTEENTH CONGRESS
+
+                             FIRST SESSION
+
+                               __________
+
+                              MAY 11, 2023
+
+                               __________
+
+                           Serial No. 118-30
+
+                               __________
+
+  Printed for the use of the Committee on Oversight and Accountability
+  
+  
+  
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+ 
+
+                       Available on: govinfo.gov
+                         oversight.house.gov or
+                             docs.house.gov
+                             
+                             
+                             
+   
+                       ______
+
+             U.S. GOVERNMENT PUBLISHING OFFICE 
+ 52-164          WASHINGTON : 2023
+ 
+                            
+                             
+                             
+                             
+                             
+                             
+                             
+               COMMITTEE ON OVERSIGHT AND ACCOUNTABILITY
+
+                    JAMES COMER, Kentucky, Chairman
+
+Jim Jordan, Ohio                     Jamie Raskin, Maryland, Ranking 
+Mike Turner, Ohio                        Minority Member
+Paul Gosar, Arizona                  Eleanor Holmes Norton, District of 
+Virginia Foxx, North Carolina            Columbia
+Glenn Grothman, Wisconsin            Stephen F. Lynch, Massachusetts
+Gary Palmer, Alabama                 Gerald E. Connolly, Virginia
+Clay Higgins, Louisiana              Raja Krishnamoorthi, Illinois
+Pete Sessions, Texas                 Ro Khanna, California
+Andy Biggs, Arizona                  Kweisi Mfume, Maryland
+Nancy Mace, South Carolina           Alexandria Ocasio-Cortez, New York
+Jake LaTurner, Kansas                Katie Porter, California
+Pat Fallon, Texas                    Cori Bush, Missouri
+Byron Donalds, Florida               Jimmy Gomez, California
+Kelly Armstrong, North Dakota        Shontel Brown, Ohio
+Scott Perry, Pennsylvania            Melanie Stansbury, New Mexico
+William Timmons, South Carolina      Robert Garcia, California
+Tim Burchett, Tennessee              Maxwell Frost, Florida
+Marjorie Taylor Greene, Georgia      Becca Balint, Vermont
+Lisa McClain, Michigan               Summer Lee, Pennsylvania
+Lauren Boebert, Colorado             Greg Casar, Texas
+Russell Fry, South Carolina          Jasmine Crockett, Texas
+Anna Paulina Luna, Florida           Dan Goldman, New York
+Chuck Edwards, North Carolina        Jared Moskowitz, Florida
+Nick Langworthy, New York
+Eric Burlison, Missouri
+
+                       Mark Marin, Staff Director
+       Jessica Donlon, Deputy Staff Director and General Counsel
+             Kaity Wolfe, Senior Professional Staff Member
+         Grayson Westmoreland, Senior Professional Staff Member
+      Mallory Cogar, Deputy Director of Operations and Chief Clerk
+
+                      Contact Number: 202-225-5074
+
+                  Julie Tagen, Minority Staff Director
+
+                      Contact Number: 202-225-5051
+                                 ------                                
+
+   Subcommittee on National Security, the Border, and Foreign Affairs
+
+                  Glenn Grothman, Wisconsin, Chairman
+Paul Gosar, Arizona                  Robert Garcia, California, Ranking 
+Virginia Foxx, North Carolina            Minority Member
+Clay Higgins, Louisiana              Stephen F. Lynch, Massachusetts
+Pete Sessions, Texas                 Dan Goldman, New York
+Andy Biggs, Arizona                  Jared Moskowitz, Florida
+Nancy Mace, South Carolina           Alexandria Ocasio-Cortez, New York
+Jake LaTurner, Kansas                Katie Porter, California
+Pat Fallon, Texas                    Cori Bush, Missouri
+Kelly Armstrong, North Dakota        Maxwell Frost, Florida
+Scott Perry, Pennsylvania
+                         C  O  N  T  E  N  T  S
+
+                              ----------                              
+                                                                   Page
+Hearing held on May 11, 2023.....................................     1
+
+                               Witnesses
+
+                              ----------                              
+
+Rear Admiral Thomas J. Anderson, Program Executive Officer for 
+  Ships, United States Navy
+Oral Statement...................................................     5
+Rear Admiral Casey Moton, Program Executive Officer for Unmanned 
+  and Small Combatants, United States Navy
+Oral Statement...................................................     6
+
+Written opening statements and statements for the witnesses are 
+  available on the U.S. House of Representatives Document 
+  Repository at: docs.house.gov.
+
+                           Index of Documents
+
+                              ----------                              
+
+  * Letters from DHS and US Navy; submitted by Rep. Higgins.
+
+  * Letter to DHS and U.S. Navy; submitted by Reps. Higgins and 
+  Dunn.
+
+  * Article, Baird Maritime, ``Jianglong Shipbuilding wins China 
+  Coast Guard vessel tender''; submitted by Rep. Dunn.
+
+  * Press Release, U.S. Department of Defense, ``DOD Announces 
+  $187 Million in Defense Production Act Title III COVID-19 
+  Actions''; submitted by Rep. Dunn.
+
+  * Press Release, Department of Justice, ``Three Men Indicted 
+  for Multimillion-Dollar Accounting Fraud Scheme at U.S. Navy 
+  Shipbuilder''; submitted by Rep. Dunn.
+
+  * Questions for the Record: to Adm. Anderson; submitted by Rep. 
+  Grothman.
+
+  * Questions for the Record: to Adm. Anderson; submitted by Rep. 
+  Higgins.
+
+  * Questions for the Record: to Adm. Anderson; submitted by Rep. 
+  Fallon.
+
+  * Questions for the Record: to Adm. Anderson; submitted by Rep. 
+  Garcia.
+
+  * Questions for the Record: to Adm. Moton; submitted by Rep. 
+  Grothman.
+
+  * Questions for the Record: to Adm. Moton; submitted by Rep. 
+  Higgins.
+
+  * Questions for the Record: to Adm. Moton; submitted by Rep. 
+  Garcia.
+
+Documents are available at: docs.house.gov.
+
+
+                        STRENGTHENING THE FLEET:
+
+
+
+                      CHALLENGES AND SOLUTIONS IN
+
+
+
+                    NAVAL SURFACE SHIP CONSTRUCTION
+
+                              ----------                              
+
+
+                         Thursday, May 11, 2023
+
+                        House of Representatives
+
+               Committee on Oversight and Accountability
+
+   Subcommittee on National Security, the Border, and Foreign Affairs
+
+                                                    Washington, DC.
+    The Subcommittee met, pursuant to notice, at 10:03 a.m., in 
+room 2154, Rayburn House Office Building, Hon. Glenn Grothman 
+[Chairman of the Subcommittee] presiding.
+    Present: Representatives Grothman, Gosar, Foxx, Higgins, 
+Sessions, Biggs, Perry, Garcia, Lynch, Goldman, and Frost.
+    Also present: Representative Dunn.
+    Mr. Grothman. The Subcommittee on National Security, the 
+Border, and Foreign Affairs will come to order. Welcome, 
+everyone.
+    Without objection, Representative Neal Dunn of Florida is 
+waived on to the Subcommittee for the purpose of questioning 
+witnesses at today's hearing.
+    Without objection, the Chair may declare a recess at any 
+time.
+    I am going to recognize myself for the purpose of making an 
+opening statement.
+    Good morning, and welcome to the Subcommittee on National 
+Security, the Border, and Foreign Affairs' hearing on 
+``Strengthening the Fleet: Challenges and Solutions to the 
+Naval Surface Ship Construction.'' Today we are examining the 
+U.S. Navy's shipbuilding programs, America's shipyards, naval 
+competition with China and Russia, and the future architecture 
+of the fleet. I represent the 6th District of Wisconsin, and 
+Wisconsinites have a long, proud history of providing high-
+quality vessels to the U.S. Navy and the world, as do other 
+districts represented on this Subcommittee. By the way, I will 
+add something here I do not know if the staff knows. We used to 
+make submarines in Manitowoc, Wisconsin during World War II.
+    I want to thank both of our witnesses here today to testify 
+on behalf of the Navy. As of April 2023, the Navy included 296 
+battle force ships. Since 2003, the number of ships in the 
+fleet has varied been between 270 and 300. The Fiscal Year 2018 
+National Defense Authorization Act established requirements for 
+a 355-ship Navy. In 2020, the then-Acting Secretary of the Navy 
+testified to the House Armed Services Committee that achieving 
+the 355-ship Navy would cost an additional $120 to $130 billion 
+over the next 10 years, yet naval leadership has signaled that 
+355 ships are not enough. In February 2022, the chief of naval 
+operations, Admiral Michael Gilday, stated that he believed the 
+Navy needed a fleet of over 500 ships to meet the commitments 
+outlined in President Biden's National Defense Strategy.
+    So, let us understand this. The 2018 NDAA required a 355-
+ship Navy. We still do not even have 300 ships. It is going to 
+cost at least another $120 to $130 billion to get to 355, but 
+the Biden Administration wants over 500 ships. It does not look 
+like the Biden Administration is balancing costs, efficiency, 
+or even practical goals when creating the National Defense 
+Strategy, and the Administration is creating these unrealistic 
+goals at a time when military recruitment and retention is at 
+one of its lowest points.
+    Additionally, CNO Gilday stated in August 2022 that ``The 
+biggest barrier to adding more ships to the Navy is the 
+industrial base capacity.'' There have been numerous reports on 
+issues related to ship design flaws, fraudulent contracting 
+practices, and delays due to supply chain issues made worse by 
+the pandemic. Poor design, unrealistic timeliness, and labor 
+recruitment issues, these are the barriers to a more modern and 
+efficient Navy that we hope to explore today. Cost overruns and 
+delays have plagued several programs of high importance. For 
+example, the Zumwalt-class destroyers have cost the U.S. 
+taxpayer around $22.4 billion in research and development 
+alone.
+    The Navy has also struggled to produce a coherent 30-year 
+shipbuilding strategy. This strategy is necessary to enable 
+Congress to effectively fund future programs and create 
+stability within the defense industrial base. While the Navy 
+continues to encounter delays, between 2015 and 2020, China 
+surpassed the U.S. Navy in size and is expected to grow to 400 
+operational ships by 2025. The United States Navy is and must 
+continue to remain the greatest the world has ever seen. Its 
+firepower and professionalism are unmatched. By focusing on 
+modernization and future technologies, the U.S. can remain 
+unmatched. I hope to hear from our witnesses today about ways 
+that Congress can cut the bureaucratic red tape and unleash 
+American manufacturing and ingenuity to meet the threats of the 
+future. Thank you, again, for each of our witnesses for 
+participating, and I look forward to your testimony.
+    I would now like to recognize Ranking Member Garcia for the 
+purpose of making his opening statement.
+    Mr. Garcia. Thank you very much, Mr. Chairman, and I want 
+to thank our witnesses and thank you so much for your service 
+to our country.
+    We all know that maritime security is critical for us as a 
+Nation. The security of our supply chains and our allies' 
+across the Pacific is incredibly important, and certainly the 
+Biden-Harris Administration is focused on those goals. I want 
+to also commend the Biden Administration for reaching the 
+historic August agreement with Australia and the U.K. that will 
+provide Australia with submarine technology, which will bolster 
+security in the Indo-Pacific region.
+    In my district back in Long Beach, California, it is 
+actually a historic Navy town. It was home to the Navy's first 
+two aircraft carriers, the USS Lexington and Saratoga, and most 
+of the Long Beach economy just a generation ago was really 
+driven and was really developed through the Navy infrastructure 
+and through all the amazing jobs that were across the region. 
+Shipbuilding, of course, was once a huge industry here in the 
+United States, but we also know it has long been in decline. 
+Forty thousand shipbuilding jobs were lost just under President 
+Reagan, and the Long Beach shipyards actually closed in the 
+1990's, which caused a major economic blow to our local economy 
+but also to the economy of places across the West and the 
+country.
+    Now, I fully understand the importance of shipbuilding to 
+communities all around the country. Long Beach has had to work 
+hard to rebuild and reimagine itself after, of course, losing 
+the Navy as its main source of economic driver in jobs, but 
+that has transitioned to a port economy. The Port of Long Beach 
+now handles trade valid over $200 billion annually and supports 
+over two million jobs across United States in our supply chain. 
+Now, this would not be possible without the freedom of 
+navigation, guaranteed, of course, by the United States Navy.
+    Now, you can, of course, slice and dice numbers all you 
+want compared to China or any other country, but I think the 
+evidence is clear--we do have a strong Navy in the United 
+States, and whether you look at the size of vessels, the 
+number, experience, quality of our service members, the number 
+and quality of our aircraft carriers and advanced submarines, 
+and even the number of missiles, the Navy is the most powerful 
+in the world. No one in the world can do what you gentlemen do 
+and what our Navy does.
+    Now, we are facing new challenges in the 21st century, and 
+the fast-moving technological environment creates real 
+uncertainty for us. It is critical that we work across the 
+aisle, and I look forward to doing so in this Subcommittee with 
+the Administration and all of you to ensure we have the 
+absolute best in innovation, manpower, and industrial base to 
+keep us at pace.
+    Now, the Biden-Harris Administration is working to craft a 
+plan to meet the evolving military force needs and to adapt to 
+emerging threats. Congress should be a constructive partner in 
+planning and to give domestic producers more certainty in our 
+shipbuilding plans, but it is also critical to note that we 
+cannot just, of course, throw money at the problem. There are a 
+lot of ways of solving this challenge, and we cannot 
+reflexively count the number of vessels in our fleet or the 
+number of dollars we devote to defense as measures alone. We 
+should make sure that our investments deliver the security and 
+the capabilities that we need. We need to also make choices 
+about our priorities. We must support policies that rebuild our 
+industrial base and our work force.
+    The real source of our power, of course, is also our 
+economic strength, our industrial base, our moral leadership, 
+and our allies and partners. We have learned hard lessons in 
+the last few years, particularly in the War on Ukraine and the 
+COVID air supply chain disruptions, that have emphasized so 
+much in lessons learned for us here in our country. We can and 
+should secure those supply chains while creating and protecting 
+good union jobs.
+    Investments like the CHIPS and Science Act, the Bipartisan 
+Infrastructure Law, the Inflation Reduction Act all have 
+contributed directly to security and, of course, in investing 
+in American jobs. We have rebuilt our industrial base, we have 
+promoted a secure, clean energy future for our supply chain, 
+and ensured economic prosperity for so many more Americans. And 
+as the saying goes, which we all know and I think is 
+appropriate for this hearing, ``A rising tide raises all 
+boats.''
+    Now, I am glad we are having this hearing today, and I also 
+want to briefly discuss another issue that is really important 
+for us, for the American shipbuilding industry, and our 
+security, and that is our merchant marine fleet. In a crisis, 
+American civilian vessels will be critical to supplying our 
+allies and partners and our military. I understand that the 
+Marine Corps is deepening its partnership with the merchant 
+marine, which is really encouraging for us. Now, Congress can 
+and should do more to support merchant marine shipbuilding, 
+along with our ports and our supply chains, and, Mr. Chairman, 
+I hope to work with you on this critical issue.
+    Finally, I want to stress an important point. No conflict 
+is ever inevitable, and I want to warn this Committee again 
+against reckless or overheated rhetoric. Our goal, standing 
+shoulder to shoulder with our allies, is to have the best 
+possible Navy and cooperation in the world. With that, again, 
+thank you both for being here and for your service, and, Mr. 
+Chairman, I yield back.
+    Mr. Grothman. I am pleased to introduce our witnesses 
+today. Our first witness is Rear Admiral Thomas Anderson. He is 
+the Program Executive Officer for Ships for the United States 
+Navy, a position he has held since 2020. As PEO for ships, 
+Anderson has been responsible for the acquisition of surface 
+combatants for the Navy. Prior to his current assignment, 
+Anderson was the Program Director for the Littoral Combat Ship 
+Program and was the commander of the Naval Surface Warfare 
+Center. Our second witness is Rear Admiral Casey Moton. He is 
+the Program Executive Officer for Unmanned and Small Combatants 
+for the United States Navy, a position he has held since 2019. 
+As PEO for unmanned and small combatants, Moton is responsible 
+for the acquisition of unmanned maritime systems and small 
+surface combatants. I look forward to hearing from both of you 
+today on this these very important issues facing U.S. naval 
+shipbuilding.
+    Pursuant to Committee Rule 9(g), the witnesses will please 
+stand and raise their right hands.
+    Do you solemnly swear or affirm that the testimony that you 
+are about to give is the truth, the whole truth, and nothing 
+but the truth, so help you God?
+    [A chorus of ayes.]
+    Mr. Grothman. Let the record show the witnesses all 
+answered in the affirmative. Thank you. We appreciate all of 
+you being here today and look forward to your testimony.
+    Let me remind the witnesses that we have read your written 
+statements, and they will appear in full in the hearing record. 
+Please do what you can to limit your oral statements to as 
+close to five minutes as possible. As a reminder, please press 
+the button on the microphone in front of you so it is on, and 
+the Members can hear you. When you begin to speak, the light in 
+front of you will turn green. After four minutes, the light 
+will become yellow, and when the red light comes on, your five 
+minutes are up, though I am not a stickler on that.
+    I recognize the Admiral Anderson to please begin his 
+opening statements.
+
+              STATEMENT OF REAR ADMIRAL THOMAS J. ANDERSON
+
+               PROGRAM EXECUTIVE OFFICER (PEO) FOR SHIPS
+
+                           UNITED STATES NAVY
+
+    Admiral Anderson. Chairman Grothman, Ranking Member Garcia, 
+and distinguished Members of the Subcommittee, thank you for 
+the opportunity to appear before you today to address the state 
+of Naval surface ship construction. Make no mistake: the U.S. 
+Navy fields the most capable warships on the planet. Platforms 
+like the Virginia-class submarine; forward-class aircraft 
+carrier; Arleigh Burke-class destroyer; and amphibious assault 
+ship, America class, are unmatched in their contribution to the 
+high-end fight.
+    The U.S. shipyards which produce and maintain these 
+exceptional ships can be broken down into two categories: 
+repair shipyards and new construction shipyards. Currently, 
+there are seven, what we call, Tier 1 new construction 
+shipyards in the United States. These large, heavily 
+facilitized shipyards build the vast majority of the U.S. 
+Navy's capital ships. Five of these shipyards--Bath Iron Works 
+in Maine, Marinette Marine in Wisconsin, Austal USA in Alabama, 
+Huntington Ingalls in Mississippi, and NASSCO in California--
+build conventionally powered ships. The ships built in these 
+shipyards are the one that fall underneath Admiral Moton and my 
+portfolios.
+    There are two other Tier 1 shipyards--Electric Boat in 
+Connecticut and Newport News in Virginia--and they build 
+nuclear-powered aircraft carriers and submarines. The highest 
+priority and greatest challenge resides in our nuclear 
+shipyards and their associated supply chains as they look to 
+ramp up submarine production to two Virginia-class submarines 
+and one Columbia-class submarine annually.
+    On the topic of China, I understand the Navy has offered to 
+provide a future classified briefing on China's shipbuilding 
+capacity, but for our discussion today, it is important to 
+understand the major difference between Chinese and U.S. 
+shipbuilding industrial bases, the difference being the China 
+benefits from a massive commercial shipbuilding workload. It 
+leverages the associated workforce, infrastructure, and supply 
+chain in the construction of its naval vessels.
+    A first Marine International 2022 benchmarking study 
+reports that China accounts for 47 percent of the world's 
+commercial vessel shipbuilding volume. Behind them are our 
+partners in South Korea and Japan at 25 and 16 percent, 
+respectively. And the U.S. is much further down the list. Less 
+than one percent resides in the U.S. commercial shipbuilding 
+industry. This means that unlike countries which heavily 
+leverage commercial investments, the U.S. Government largely 
+goes it alone, bearing all the costs of the ships and the 
+associated infrastructure.
+    For perspective, today in our seven Tier 1 shipyards, there 
+is no commercial shipbuilding work. Clearly China's commercial 
+shipbuilding industry provides them a massive advantage when it 
+comes to shipbuilding capacity. Despite this gap in commercial 
+shipbuilding scale, there are over 42,000 trades' people, 
+66,000 employees in the Navy Tier 1 shipyards, and over 5,000 
+primary suppliers spending themselves in the worthy cause of 
+building world-class ships for the U.S. Navy every day. Within 
+the next few months, we will deliver, amongst other things, the 
+Navy's first Flight-III destroyer. DDG-125, the 75th ship of 
+the Arleigh Burke-class, with its upgraded combat system, will 
+provide the ability for one ship to perform both anti-air 
+warfare and ballistic missile defense missions with improved 
+performance via the world's newest and most capable surface 
+radar.
+    To keep deliveries of capital ships like these on time 
+going forward, we, along with our shipyards, are focused on 
+attracting and retaining the necessary work force and improving 
+resiliency in our supply chain. The President's Fiscal Year 
+2024 budget has provisions that aid in addressing those 
+concerns as well as procuring the ships necessary to maintain 
+our surface ship industrial base in a way that achieves our 
+operational needs.
+    I will end my comments with some perspective on the scale 
+and complexity of what we do. One of the ships that we are 
+currently building in Pascagoula, Mississippi is the future 
+America-class amphibious assault ship, USS Bougainville LHA-8. 
+For perspective, the ship is 104 feet longer than this U.S. 
+Capitol Building is wide. Now, imagine taking that structure, 
+that size, and making it float, then making it capable of 
+propelling and steering itself at speeds of 25 miles per hour, 
+then adding all the services required to make it a home to 
+2,800 people who live on it at sea--birthing spaces, water, 
+sewage, heat, air conditioning, dining facilities, computer and 
+servers, food storage, and refrigeration, laundry, the list 
+goes on--encompassing over 150 miles of pipe and over 1,000 
+miles of cable. Then add to it a full hospital for humanitarian 
+efforts or wartime support to injured Marines. Add to it a fire 
+department and installed firefighting and damage-controlled 
+systems, then add to it radars, communication gear, and self-
+defense systems. Then add to it an airport the size of almost 
+two football fields capable of supporting 20 Joint Strike 
+fighters and interoperability with other nations. And build it 
+in a way that allows it to operate at sea in all conditions for 
+deployments lasting at least six months and reliably over a 40-
+year service life.
+    The ships we design, build, and deliver are some of the 
+most complex system of system machines in existence. We in the 
+acquisition community do not shy away from the challenges of 
+delivering such capability. We actually embrace them, because 
+we know the importance of these ships to our Navy and 
+ultimately to our Nation's defense.
+    Thank you for your time today, and I look forward to your 
+questions.
+    Mr. Grothman. Thank you. Admiral Moton?
+
+                    STATEMENT OF REAR ADMIRAL MOTON
+
+                  PROGRAM EXECUTIVE OFFICER (PEO) FOR
+
+                     UNMANNED AND SMALL COMBATANTS
+
+                           UNITED STATES NAVY
+
+    Admiral Moton. Chairman Grothman, Ranking Member Garcia, 
+and distinguished Members of the Subcommittee, thank you for 
+the opportunity to appear before you today to discuss the state 
+of Naval surface ship construction, alongside my partner in 
+this effort, Rear Admiral Anderson. I am honored to lead the 
+sailors and Department of the Navy civilians of the Program 
+Executive Office Unmanned and Small Combatants in our mission 
+of acquiring and sustaining the ships required by our Navy and 
+Marine Corps.
+    Our small combatant ship construction programs, including 
+the Constellation-class frigate now under construction, provide 
+important capability for the Nation. My team is also developing 
+and building the Navy's nascent fleet of unmanned surface and 
+undersea systems, including their autonomy and enabling 
+technologies. These unmanned vessels, teamed with manned ships, 
+will form the hybrid fleet that the chief of naval operations, 
+Admiral Gilday, has set as the Navy's objective. In addition to 
+our ship construction work, my command is also responsible for 
+acquisition of systems for mine warfare, expeditionary 
+missions, and special warfare.
+    Our shipbuilding efforts are smaller in magnitude than 
+those conducted by Admiral Anderson's program offices, but are 
+nevertheless important to both the Navy and industry. Our two 
+organizations work in close coordination with each other and 
+with the Navy's other shipbuilding programs to jointly manage 
+the Naval Shipbuilding Industrial Base. We also work closely 
+with industry on matters fostering the efficient execution of 
+shipbuilding, such as work force development, strengthening of 
+the supply chain, and infrastructure.
+    Certainly, the same factors regarding the overall state of 
+our ship construction capacity that Admiral Anderson discussed 
+also apply to our small combatant efforts. In addition to our 
+Navy efforts, I also appreciate the support of Congress in 
+these matters and particularly thank Congress for the funds 
+appropriated in Fiscal Year 2023 to help foster the Frigate 
+Industrial Base and work force development.
+    Equally foundational to efficient shipbuilding is stable 
+acquisition of modern and mature designs. The Navy has worked 
+hard in applying lessons learned to the Constellation-Class 
+Program. To reduce technical risk and to develop this new class 
+faster, the Navy worked closely with industry to set the 
+conditions for a successful program of record by developing 
+realistic requirements, utilizing non-developmental systems, 
+and leveraging existing frigate designs, enhanced with U.S. 
+Navy combat and communication systems. Construction is underway 
+in Marinette, Wisconsin on the future USS Constellation, the 
+first-in-class ship.
+    With the emergence of unmanned surface and undersea 
+systems, the Navy is positioned to catalyze a broader segment 
+of the Nation's industrial base, including many companies that 
+are not currently associated with defense. Alongside our 
+shipyards producing smaller ships and craft, these other 
+companies include both small businesses and larger firms that 
+specialize in developing technologies, such as reliable 
+autonomous systems, artificial intelligence, energy storage, 
+and cyber defense.
+    We have engaged early with industry and, for example, 
+recently completed a comprehensive Department of the Navy 
+Unmanned Systems Industry Day, which was attended by 430 
+companies, with almost 50 percent of those being small 
+businesses. These companies, plus academia and other 
+institutions, in partnership with the Navy, will enable our 
+goal of the hybrid fleet with potentially 150 unmanned vessels 
+by 2045.
+    The Navy is taking a deliberate approach to mature the 
+required technologies, utilizing land-based testing and at-sea 
+prototyping, while also operationalizing unmanned capabilities 
+in the fleet. This data and knowledge is informing our Large 
+Unmanned Surface Vessel Program, which the Navy intends to 
+procure in Fiscal Year 2025, but it will also enable future 
+fielding of other unmanned vessels. We are using a solve-once-
+and-scale approach, and while the size of unmanned systems are 
+smaller, there will also be similar challenges and 
+opportunities as in the broader industrial base while we 
+achieve this scale. We will continue working closely with 
+industry and with Navy partners to prepare for this significant 
+acquisition effort to achieve our hybrid fleet.
+    I thank the Subcommittee for your time and support and 
+interest in Navy ship construction, and I look forward to your 
+questions.
+    Mr. Grothman. Thank you. I will recognize myself for the 
+purpose of asking a couple of questions. We are going to start 
+with Admiral Anderson.
+    In February, the Navy awarded a $2 billion contract to 
+Lockheed Martin to develop a hypersonic missile system for the 
+Zumwalt-class destroyers. The Zumwalt-class destroyers have 
+seen plenty of overruns and only three have been built out of 
+an original plan to build 32. Now that these three ships are 
+stuck in testing and not deployed, how will this new contract 
+with Lockheed Martin help develop the Zumwalt destroyers, and 
+what do you believe went wrong in the acquisition and 
+construction of the ship?
+    Admiral Anderson. Yes, sir. Thanks for the question. I will 
+talk a little bit about lessons learned from the construction 
+of the ship first, and then I will talk about where we are 
+headed with regards to our capability going forward, if that is 
+OK.
+    So, I would say that one of the lessons learned that we 
+have had from the Zumwalt Program is how much technology to 
+attempt to insert into a ship at one given time. The Zumwalt-
+class was going to be revolutionary in the technologies that we 
+implemented in that ship. Twelve new technologies all coming 
+together in one ship is a significant amount of risk, and much 
+of that risk was realized through the program. Costs for those 
+ships went up, and, ultimately, the Navy made the determination 
+that we were not going to buy the 32 that were originally 
+envisioned. We were going to knock that down to three and go 
+back to building DDG-51s.
+    So, we are now talking about what our next large surface 
+combatant will be after the DDG-51 Program. Currently, it is 
+titled DDG(X). We have been very mindful to take the lessons 
+learned from the DDG-1000 Program. We are not looking to have 
+12 new technologies in our new large surface combatant. We are 
+really largely looking to change from a revolutionary approach 
+to an evolutionary approach. The two major changes that we 
+currently envision in that ship are a change in hull form and a 
+change to integrated propulsion systems. Integration propulsion 
+systems exist in the Navy in other places, but they are not in 
+our large surface combatant DDG-51. We also working very 
+closely with our shipyards to make sure they are involved early 
+on, so we are getting their perspective on the cost, we are 
+getting their perspective on producibility so we can build that 
+DDG(X) efficiently.
+    To your second question on CPS, so we currently have two 
+ships that are out in operation. DDG-1000 has already employed. 
+She has already gone forward. DDG-1001 is wrapping up her new 
+construction process. She is already a ship available to the 
+fleet. We have one ship left to complete their combat systems 
+on, and the Navy made the determination that we were going to 
+install conventional prompt strike in that ship. Conventional 
+prompt strike is a game-changing technology with regards to 
+hypersonic capability. It is a real game changer with regards 
+to our position with regards to China and their capability. CPS 
+will be fielded in DDG-1000 starting in 2025, so we are moving 
+very quickly to get this capability installed.
+    The other thing that I would share with you is that we do 
+have two program offices working this. We are working to mature 
+CPS, the missile itself through SSP, strategic programs, and 
+then my office is responsible for actually getting it installed 
+in the ship.
+    Mr. Grothman. Just a quick follow-up.
+    Admiral Anderson. Yes.
+    Mr. Grothman. You know, the original plan was 32. If you 
+were testifying eight years ago today, how many ships we would 
+have done by now, would you have guessed at that time?
+    Admiral Anderson. Well, I think we made the determination, 
+you know, around that time that we were going to decrease the 
+numbers. That determination for three ships was made many years 
+ago, sir.
+    Mr. Grothman. OK. OK.
+    Admiral Anderson. Yes.
+    Mr. Grothman. OK. Now I guess for either one of you, it has 
+been reported China has surpassed U.S. when it comes to 
+shipbuilding and today has 340 modern capable ships, whereas 
+the U.S. stands at 296. When it comes to numbers, should we be 
+more concerned with quality or quantity?
+    Admiral Anderson. I think the answer on concern is quantity 
+and quality. We should be concerned with both. I think if we 
+take advantage of the ONI brief, they will give you more detail 
+on the capability they have in their ships today. What I would 
+share with you is that----
+    Mr. Grothman. Does China sell a lot of ships to other 
+countries?
+    Admiral Anderson. Yes, sir, they do. They sell ships and 
+submarines in addition to commercial ships, as do South Korea 
+and other countries.
+    Mr. Grothman. Do we ever compete with them for business?
+    Admiral Anderson. Currently, I think we are limited in our 
+foreign military sales of ships to Saudi, which Admiral Moton 
+administers that program, and then AUKUS, as we heard earlier, 
+submarine construction is where we are having discussions 
+today. But we do not have a large volume of ships that we are 
+outsourcing in new construction to foreign countries.
+    Mr. Grothman. Is that a mistake?
+    Admiral Anderson. I go back to this early discussion about 
+capacity and China.
+    Mr. Grothman. OK.
+    Admiral Anderson. It would be wonderful to be in a position 
+where we had the industrial base that was competitive with 
+other countries----
+    Mr. Grothman. We are not competitive. OK. Ranking Member 
+Garcia?
+    Mr. Garcia. Thank you very much, and I am going to just go 
+off of what the Chairman was just discussing. I think the 
+shipbuilding disparity is real. I mean, certainly our Navy is 
+the strongest in the world and we are proud of that, but the 
+disparity is decades and decades in the making. I think it is 
+important to note that one of the real issues is that China 
+produces about a thousand commercial cargo vessels per year, 
+and that is on the commercial side. And so, the commercial 
+capacity that China then exports to countries across the world, 
+and we see these ships, by the way. You go to any port along 
+the Pacific, whether it is my port in Long Beach and Los 
+Angeles, or it is the Ports of Seattle, or anywhere else, even 
+down through Mexico, or ports that go on to other parts of the 
+world across Asia, most of the ships in the world are actually 
+built by China.
+    And so, I think it is important to note that what the 
+shipbuilding does, is it provides China with a capacity to then 
+actually streamline their shipbuilding on the military side. 
+And because United States over many decades has decreased their 
+kind of focus on shipbuilding as an economy, that has allowed 
+China, you know, over the last 40, 50 years to be the world's 
+producer, essentially, of cargo ships on the commercial side. 
+And I will note, you know, having had the Port of Long Beach as 
+a mayor and the city, that, in my opinion, Chinese commercial 
+ships are of less quality and less focused on climate and some 
+of the other goals as ships that might be produced, for 
+example, in Korea and other places across the world, or the 
+work that we are doing in the U.S.
+    I just want to want to note real quick for both the 
+admirals, what is the current maximum capacity for military 
+shipbuilding in the U.S.?
+    Admiral Anderson. Sir, we are engineers on this side of the 
+table, so we are currently calculating how to best----
+    Mr. Garcia. I mean, around 10? Does that sound about right?
+    Admiral Anderson. Yes. If you look at the surface 
+shipbuilding budget, routinely, we are somewhere in the 
+vicinity of seven to nine ships requested per year.
+    Mr. Garcia. Yes, that sounds about right.
+    Admiral Anderson. It is a good indication.
+    Mr. Garcia. And----
+    Admiral Moton. Sir, it also has to be kind of a yard-by-
+yard answer. Our nuclear shipyard capability, large amphibious 
+ships, right? So, it is a rough range, but certainly, you know, 
+you kind of have to look class by class as well.
+    Mr. Garcia. I think that sounds right, and what do you 
+think are the most important steps that Congress could take to 
+actually build shipping capacity?
+    Admiral Anderson. So, you know, as I mentioned, our Fiscal 
+Year 2024 budget has the quantity of ships we believe we need 
+operationally and to maintain the industrial base. There is 
+also funding in there that helps us to expand the work force. 
+One of the real challenges we have in this country is 
+availability of blue-collar labor, and we saw that as a 
+challenge as we were in COVID and came out of COVID, and we 
+continue to struggle to identify talent to come in, people who 
+are interested in the blue-collar trades.
+    So, support of our budget requests that provide funding to 
+develop the work force, that comes in two ways. The submarine 
+industrial base, which I mentioned earlier, has targeted funds 
+to help advance the work force. Additionally, last year in the 
+NDAA, Section 122 provided a requirement for the Navy when 
+awarding shipbuilding contracts in the future to fund a 
+percentage of the overall cost of the ship to go toward work 
+force development items. Those are helpful.
+    Admiral Moton. Sir, if I might add?
+    Mr. Garcia. Yes, briefly. Yes, sir.
+    Admiral Moton. First of all, your points about, you know, 
+China's capacity are certainly correct, as Admiral Anderson 
+discussed. You know, the U.S. Navy's approach is to focus on, 
+you know, not just capacity but also the capability and the 
+readiness, and so that is the way we are approaching it. From 
+what can we do to help, you know, certainly anything that we 
+can do to strengthen our industrial base to meet our current 
+demand and to surge if we need that to happen. The Navy tries 
+to do a stable planning, efficient planning, efficient 
+acquisition. That is why we ask for things like multi-year 
+procurements in certain programs, Congress' support of those, 
+for example. And just reiterate Admiral Anderson, you know, to 
+invigorate shipbuilding as a profession in the United States--
+--
+    Mr. Garcia. Absolutely.
+    Admiral Moton [continuing]. With young people.
+    Mr. Garcia. Just to wrap up. My time is almost up here. I 
+agree completely with both of you, and I just want to remind 
+the Committee that there is synergy between the commercial side 
+of shipbuilding and what we are able to do on the military 
+side. And because United States for the last generation has 
+essentially withdrawn from shipbuilding as a major source of 
+manufacturing jobs, that does impact, while, of course, China 
+has ramped up those efforts. So, I want to thank you both for 
+your answers.
+    Mr. Grothman. Congressman Dunn. I am sorry. Congressman 
+Higgins.
+    Mr. Higgins. Thank you, Mr. Chairman. Admiral Anderson, 
+Admiral Moton, thank you for being here today. Admiral Moton, 
+sir, we have a high level of confidence in your leadership and 
+as you guide the MUSV Program, a critical shipbuilding program 
+for our Nation. I just want to personally reassure you that my 
+office stands aligned with your vision for completion, and we 
+stand with the primary contractor and the subcontractor 
+shipbuilders, and we avail ourselves to you and your office and 
+your staff, sir. We look forward to moving the project forward. 
+And we have had meaningful engagement with your staff and your 
+office regarding that program, so thank you for your 
+accessibility and your interaction with my office regarding the 
+MUSV Program. We shall find a path forward there.
+    Admiral Anderson, I have a lot to unpack here and a few 
+minutes to do it in. Thank you, sir, for your service to your 
+country, and although I have many questions to get to, you said 
+something that was just striking earlier. You said it would be 
+wonderful if we had the industrial base in America. You were 
+being asked about our competitive shipbuilding capabilities as 
+compared to China. What exactly did you mean by that, sir? We 
+have been building vessels in America for a very long time and 
+quite successfully. The quality of our shipbuilding, I believe, 
+in America is second to none. It is a communist-run over there. 
+It is slave labor and no environmental regulations, no safety 
+standards. What exactly do you mean you wish we had the 
+industrial base in America that they do in China?
+    Admiral Anderson. Yes. Yes, sir. Just to be clear, the 
+point I made was that the commercial work that China has 
+provides opportunity to them with regards to their military 
+production. It is not to in any way impugn U.S. work force, the 
+quality. I actually think in my opening remarks I was pretty 
+clear on that we deliver the finest warships on the planet.
+    Mr. Higgins. Is it the----
+    Admiral Anderson. The advantage----
+    Mr. Higgins [continuing]. The cornerstone of our Nation's 
+military, the moral integrity upon which we stand, is it an 
+opportunity for a Chinese family to provide slave labor in the 
+shipbuilding industry in China?
+    Admiral Anderson. No, sir. Maybe to explain the point a 
+little bit better, I will talk to South Korea. So, I recently 
+visited South Korea. South Korea has a simple----
+    Mr. Higgins. South Korea. The only reason South Korea is 
+free is because of America.
+    Admiral Anderson. Yes, sir.
+    Mr. Higgins. So, I do not want to get into the weeds on 
+that. That was just a striking statement. Let me say for the 
+record, I believe that our shipbuilding industry in America is 
+the strongest in the world, and our industrial skill and the 
+quality of the products we produce in America are second to 
+none. And I think that shipbuilders and welders and fitters and 
+fabricators and machinists across the country would agree with 
+that.
+    Chairman, I would like unanimous consent to enter into the 
+record a letter addressed to Secretary Mayorkas of Homeland 
+Security and Secretary Del Toro of the United States Navy, 
+dated September 30, 2022, from my office and signed by myself 
+and Congressman Neal Dunn, and the corresponding responsive 
+letters from the Navy, October 28, and from Department of 
+Homeland Security on November 14. I would like to enter them 
+into the record, sir.
+    Mr. Grothman. So, ordered.
+    Mr. Higgins. Admiral Anderson--wow, five minutes rolls by 
+very quickly here--I am going to ask you one question. Does the 
+Navy have the authority to reallocate awarded contracts from 
+one shipyard to another to preserve industrial capabilities?
+    Admiral Anderson. The Navy has authority to act on 
+individual contracts and to make determinations on the use of 
+dual source for shipbuilding platforms.
+    Mr. Higgins. So, if the Chairman will indulge to complete 
+this question----
+    Mr. Grothman. Go ahead.
+    Mr. Higgins. Thank you. It has come to my office's 
+attention that a law cited by you and your office, sir, 
+regarding moving ships from a smaller shipyard to a larger 
+shipyard was 10 U.S. Code 2304(c), ``Charlie,'' (3), which 
+states, ``as necessary to award the contract to a particular 
+source or sources in order to maintain a facility, produce, or 
+manufacture, or other suppliers.'' So, that law makes sense, 
+but how would this law give your office the authority to move 
+shipbuilding from a contract at a smaller shipyard building 
+steel vessels and sole source award those ships to a 
+shipbuilder, a large shipbuilder, that had never built a steel 
+vessel? How is that maintaining an asset?
+    Admiral Anderson. So, not to delve too far into the 
+details, the justification for that is signed by the Assistant 
+Secretary of the Navy for Research Development and Acquisition. 
+In other words, that authority does not reside with me. That is 
+the Navy's authority----
+    Mr. Higgins. That is the authority you cited, though. That 
+is the law that you cited, correct?
+    Admiral Anderson. That is the law that, in the memo signed 
+by RDA, was utilized.
+    Mr. Higgins. Do you agree with that citation of law?
+    Admiral Anderson. I do.
+    Mr. Higgins. OK. My time has expired. I will have questions 
+to submit in writing to both admirals. Deepest respect for you 
+both as we forge a path forward for our shipbuilding in 
+America. Thank you, Mr. Chairman for your----
+    Mr. Grothman. Thank you. Congressman Lynch?
+    Mr. Lynch. Thank you, Mr. Chairman. Admiral Anderson, 
+Admiral Moton, thank you very much for your willingness to come 
+before the Committee and help us with our work. Just a little 
+bit of background here, I am a former shipfitter. I worked at 
+the General Dynamics Shipyard in Quincy, Massachusetts before 
+coming to Congress. I share Mr. Higgins' frustration sometimes 
+with the bidding process, and I just want to emphasize that I 
+am worried about the work force situation here, and the number 
+of shipyards and the number of dry docks that we have across 
+the country. And I worry about our national security if we ever 
+had to rely on an enhanced shipbuilding program or a ship-
+enhanced repair program with the number of dry docks we have.
+    And I just want to say on the record that it is important 
+that you spread the work out. Mr. Higgins was talking about, 
+you know, moving work from a small shipyard to a bigger 
+shipyard that has a lot of work but does not necessarily have 
+the same expertise. You are going to put those smaller 
+shipbuilding facilities and ship repair facilities out of 
+business. I was very involved with Boston Ship Repair. It is 
+right outside my office, and, you know, we can fit most ships 
+in there except for the largest carriers, and we have put 17 
+bids in, in the past couple of years, and we got one successful 
+bid.
+    And so, you know, look, I have traveled around a bit as an 
+iron worker as well. You know, I worked in Norco, Louisiana. I 
+know what they are doing down in Avondale. I know that we have 
+got some other bigger shipyards and repair facilities. But it 
+is important if you are going to put a bid out there, you want 
+to have a lot of competition to try to get that number down, 
+and if you whittle it down to just a few shipyards, you are 
+going to pay more. You are going to put our work force at risk, 
+and you are going to close down a lot of these smaller 
+shipyards, so I would just ask you to be mindful of that.
+    On a personal note, I got a buddy of mine, Thomas G. Kelly. 
+He is a congressional Medal of Honor recipient, and we were 
+lucky enough in the 2023 budget to put in some money to have a 
+DDG-140 named after him. It is in construction. It is just 
+beginning right now, so it is going to be a few years. But I 
+just want to put on the record I am going to write to Secretary 
+Del Toro that I would like to have that christened in our home 
+port of South Boston and not anywhere else. Tom, you know, he 
+is a dearly loved member of our community, and I think it would 
+do him proud to have that ship dedicated in our home port, and 
+I think it would be a fitting crowning achievement of his 
+career and a wonderful recognition of his service.
+    You know, I am concerned about how we post up against 
+China, and I guess the question is, and I have seen their 
+shipbuilding program, and I am not talking about quality, but I 
+am talking about the number of vessels. I think they have got 
+programmed to--I think they are doing 340 right now. They can 
+put 340 ships, or platforms anyway, and we are at about 290 or 
+something like that. So, it seems to me if we stay on the 
+current path, we are going to fall further behind. And what is 
+it that you would recommend for us to do, the changes that we 
+need to make to catch up given our limitations on supply chain 
+and the current pace at which we are turning out ships? Admiral 
+Anderson?
+    Admiral Anderson. Sir, I think there are two pieces to it. 
+The first piece is the discussion about our capability versus 
+their capability, the quality of their capability, their 
+ability actually to project power with that capability. One of 
+the things that we have is absolutely a strategic strength for 
+us are the sailors that operate our ships, their proficiency at 
+operating ships around the world, the technology that we have 
+within our ships.
+    One of our major areas of advantage is our submarines. I go 
+back to that initial discussion that says our submarine force 
+absolutely needs to ramp up. We are currently delivering 
+somewhere less than 1-and-a-half Virginia-class submarines per 
+year. We need to ramp up the work force to do that two 
+Virginia-class and one Columbia-class. Estimates of that 
+program office is that that will take somewhere between 80,000 
+and 100,000 trades people to be hired over the 10 years.
+    Mr. Lynch. Wow.
+    Admiral Anderson. It is significant.
+    Mr. Lynch. Yes.
+    Admiral Anderson. So, when you look at the Navy budget 
+where we are focused, we are focused in making that happen. I 
+go back to this supplier industrial base, funds that were using 
+to get people interested in blue-collar labor, get them married 
+up with companies that support that supply chain. So, while I 
+am not being overly vocal in the portfolio that we work in with 
+regards to additional need, submarine industrial base is really 
+where we need efforts.
+    Mr. Lynch. Mr. Chairman, if I could just----
+    Mr. Grothman. Sure. We will give you another question.
+    Mr. Lynch [continuing]. Ten more seconds. I just want you 
+to think about, look, I am a union iron worker, and I am also a 
+member of shipfitters union. We have the apprentice program, 
+and it is a four-year program. We train these kids coming in, 
+these young men and women. There is a pathway there to get that 
+work force trained up and put them to work, but you got to work 
+with us. The Navy has to work with us. Thank you for your 
+courtesy, Mr. Chairman. I appreciate that, and I yield back.
+    Mr. Grothman. Thank you. Congressman Gosar.
+    Mr. Gosar. Thank you, Mr. Chairman, and I thank the spirit 
+in which the last two Members of this body have asked 
+questions. So, my opening statement, the Department of Defense 
+and the Navy are in a bad way. The Department of Defense is the 
+only agency since 2013 that has never passed a financial audit. 
+Last year, DOD failed its 5th consecutive audit. A staggering 
+61 percent of DOD funds were unaccounted for. The Government 
+Accountability Office. Gentleman, are you familiar with that 
+office? Both of you?
+    Admiral Anderson. Yes, sir.
+    Admiral Moton. Yes, sir.
+    Mr. Gosar. OK. The Government Accountability Office 
+estimates that the DOD has no idea where millions of dollars' 
+worth of valuable equipment is. The last time DOD even bothered 
+to compile the amount of the DOD equipment in the hands of 
+Federal contractors was 2014. In the last few years, China has 
+surpassed the United States of America for the first time in 
+numbers of warships. By 2025, as has been reiterated here, 
+China's fleet is expected to grow to 400 ships, 60 more than 
+the U.S. Navy's current fleet.
+    Instead of a focus on a more lethal, efficient, and deadly 
+fighting force, the Navy instead seeks to appease the woke. 
+Just a year ago, 240 servicemen were discharged from the Navy 
+for refusing the experimental vaccine. That is a national 
+disgrace. They ought to be brought back in and given back pay. 
+Talking about the U.S., Reagan, the former President, has got 
+to be rolling in his grave. Now, Admirals, how have the endless 
+wars in the Middle East, and now Ukraine, affected the Navy's 
+military readiness?
+    Admiral Moton. Sir, if I could start, you know, your 
+initial comments just to assure you the Department is certainly 
+committed to completing successfully the audit. And certainly, 
+at Admiral Anderson's eye level and shipbuilding, we understand 
+the importance of transparency at the level that we manage, 
+making sure that our contractors are following contract 
+requirements in terms of compliance, business systems.
+    Mr. Gosar. Well, I get that, but, I mean, to the two 
+gentlemen that preceded me with questions, you have to know 
+where money is in order to get money out.
+    Admiral Moton. Yes, sir, and we are----
+    Mr. Gosar. And it is a disgrace that there is no audit. I 
+cannot tell you how that is disgraceful.
+    Admiral Moton. Yes, sir, and at our level, we are 
+completely committed to that. I know the Navy is as well. In 
+terms of the readiness, again, I would just offer, you know, 
+again, Admiral Anderson's and my role is to build the 
+shipbuilding program that the Navy determines, you know. So, in 
+terms of shipbuilding, you know, we have probably kept a fairly 
+steady rate, I would say, of shipbuilding, even during the 
+conflicts. You know, we certainly had our missions we had to 
+prepare. Shipbuilding is a long game, as we like to say.
+    Mr. Gosar. Yes.
+    Admiral Moton. It takes multiple years. So, we certainly 
+have a lot of challenges, you know, with our industrial base 
+and our future capacity. But kind of your question about tying 
+that back to the wars, you know, I think we are focused on our 
+capability for the future, and we are committed to providing 
+that capability.
+    Mr. Gosar. So, let us get back to the Government 
+Accountability Office. As you know, it is an independent agency 
+that provides policy recommendations to executive agencies 
+through extensive research and coordination with government 
+officials. Do either one of you know how many priority 
+recommendations from the GAO has the Navy, that are still 
+remaining unaddressed?
+    Admiral Moton. Sir, I do not think either of us know that. 
+We certainly can speak to our specific----
+    Mr. Gosar. Well, the answer is----
+    Admiral Moton [continuing]. But----
+    Mr. Gosar. The answer is 17. There are entire agencies that 
+do not have higher numbers than that. For contrast, Air Force 
+and Army only have three unaddressed priority recommendations. 
+Could you please explain why the Navy is falling so far behind 
+its peers? I mean, the questions here are geared toward the 
+readiness of this fighting force, and something is wrong here.
+    Admiral Moton. Sir, I think with our level in shipbuilding, 
+we probably cannot give you the whole picture of the Navy, but 
+we can certainly provide a response on the priority actions you 
+mentioned and where we are with closing those.
+    Mr. Gosar. I would definitely demand that we get that 
+because we cannot do our job without you doing your job first. 
+You know, here is another thing. Out of the 17 recommendations, 
+you are not aware of how many you are actually addressing, are 
+you?
+    Admiral Moton. Sir, Admiral Anderson and I are not because, 
+again, we are focused on the recommendations relevant to our 
+shipbuilding efforts, but certainly at the Navy level, I am 
+confident we are aware, and we can get you that information.
+    Mr. Gosar. Well, do you see our frustration?
+    Admiral Moton. Yes, sir.
+    Mr. Gosar. OK. Well, you know, we would like to get that 
+back in writing, and I share the frustration with my 
+colleagues. We got to do better. I yield back.
+    Admiral Moton. Yes, sir.
+    Mr. Grothman. Thank you. Congressman Frost?
+    Mr. Frost. Thank you, Mr. Chairman. Chief of Naval 
+Operations, Admiral Gilday, recently testified to Congress that 
+the biggest barrier to adding more Navy ships is industrial 
+base capacity at American shipyards. There is more work to be 
+done on ship maintenance and production that can be done within 
+the facilities currently available. Our Navy has been engaging 
+in this strategic outsourcing by partnering with smaller and 
+larger shipyards to assemble ships, but it is not necessarily 
+clear that having defense contractors take on so much of this 
+work is sustainable in the long term, but what is clear is that 
+something needs to be done to meet our national security needs.
+    Admiral Anderson, how do the cost and production cycle 
+times of shipbuilding that is associated with strategic 
+outsourcing compared to those associated with public shipyards?
+    Admiral Anderson. When you talk about strategic outsourcing 
+comparing to public shipyards, you are predominantly talking 
+about submarine work, and unfortunately, I do not have the 
+details related to submarines. We certainly can take that for 
+the record and get back to you.
+    Mr. Frost. OK. Thank you. And what can the Navy do to 
+ensure that shipyards work together to establish an adequate 
+flow of materials and maximize production?
+    Admiral Anderson. There is quite a bit of that that takes 
+place naturally. The Navy is aware of it. There is a 
+shipbuilding ecosystem. There are professional organizations 
+where the shipyards get together and talk about their relative 
+needs and partnering. The Shipbuilders Council of America is an 
+example where that forum exists. There is naturally competition 
+between the shipyards, so it is not completely as transparent 
+as one might like, but there absolutely are examples where 
+shipyards are partnering together, not only on core 
+shipbuilding work but work with their supply chains. There are 
+also companies that have multiple shipyards, so I will point to 
+GD, NASSCO, and BIW, who certainly leverage each other's supply 
+chains in the construction of ships, and the same thing with 
+Huntington Ingalls. And, Casey, I do not know if you have----
+    Admiral Moton. I would just add quickly that, of course, at 
+the Navy level, we watch the entire shipbuilding industrial 
+base and certainly look for the factors that you are talking 
+about, Congressman. The shipbuilders also cooperate. There are 
+organizations where shipbuilders get together and the suppliers 
+get together, and there is some collaboration there. We have 
+activities where we do research and development on shipbuilding 
+and improving the industrial base. So, it is a balance. The 
+shipyards obviously want to be competitive with one another, 
+and we want competition, but at the same time, we want a strong 
+industrial base that is going to support both our production 
+work and our repair and modernization work, like you mentioned, 
+at the public shipyards.
+    Mr. Frost. Thank you. Our four public shipyards, the budget 
+documents show that their workload exceeds the capacity by 
+about 117 to 153 percent. These shipyards are losing a ton of 
+Marine welders who get trained up and quickly move on to 
+better-paying jobs. The average shipyard worker only takes home 
+roughly $41,000 a year, but President Biden's budget calls for 
+salary raise of 5.2 percent for the public shipyard workers. 
+For both of you all, shipyards increasingly need to attract a 
+sizable and skilled work force. How can Congress help the Navy 
+attract more skilled workers to public shipyards and retain 
+them throughout their careers?
+    Admiral Anderson. I will share the perspective of private 
+shipyards again. The public shipyards fall underneath different 
+admirals than are represented here, but I think the argument is 
+the same. One is building those pipelines to develop people, 
+blue-collar labor that is interested in the kind of work we do 
+in naval shipyards. One of the things we have seen very 
+successful is building ecosystems around the shipyards. So, you 
+know, Congress working with state and local governments to aid 
+in the development of ecosystems around shipyards really 
+provides opportunity. If there is no housing in the area of a 
+shipyard, you are going to have a hard time having blue-collar 
+labor come in and be interested in a job there. Things like 
+healthcare, things like daycare, things like housing are really 
+important to have in the vicinities of the yards to attract the 
+talent that we need to build the ships we need in the future.
+    Admiral Moton. And at all levels, I would just add, you 
+know, whether it is in your districts, or at the state level, 
+or, in some cases, at the Federal level, such as the industrial 
+base funds that have been appropriated, you know, growing the 
+work force, you know, making sure that young people understand 
+it is an honorable and important profession to build ships or 
+to repair ships for the U.S. Navy is, you know, something that 
+I think, not just the Congress but really at all levels of our 
+country, is something that we could stress and will pay 
+dividends as we expand our capacity.
+    Mr. Frost. Thank you. Thank you. You know, it is 
+interesting we have to play catchup, though. We have the 
+largest military budget in the world, and shipyard workers are 
+still making less than a livable wage, but we can responsibly 
+and do it in a sustainable way to ensure that our military has 
+the resources they need. Thank you for your service and 
+testimony. I yield back.
+    Mr. Higgins. [Presiding.] The gentleman yields. The Chair 
+recognizes my colleague from Texas, Representative Sessions.
+    Mr. Sessions. Mr. Chairman, thank you very much. Gentleman, 
+thank you to being here today, and thank you for your service 
+to our country.
+    I would like to focus, if I can, a conversation that I 
+would like for you to have with us about the classes of ships 
+that are being built and the long term, I do not know whether 
+the word is return on investment, or that help the fleet out, 
+but seemingly there are problems with these ships. Maybe it is 
+LCS. Maybe it is some other types. Tell me about that. Are 
+there requirements that standards are stuck to them, and all of 
+a sudden, some ships are OK and others aren't? Are we requiring 
+more than is available by industry, and we are seeking, and we 
+are pushing that too far? Talk to me about the classes of ships 
+and the reliability of those standards and the product 
+delivered. Either one of you gentlemen.
+    Admiral Anderson. Yes, sir, I will start, and Admiral Moton 
+can join me in process. So, there are multiple classes of 
+ships, and those ships are built to a set of higher-level 
+requirements. What are the operational requirements, what are 
+the mission requirements for the ship? In my opening statement, 
+I talked about the Destroyer Program, the Arleigh Burke-class 
+Destroyer Program, a model for us in ship construction. That 
+shipbuilding program has requirements for the ship to be a 
+multi-mission surface combatant, air warfare, surface warfare, 
+and anti-submarine warfare. In addition, it has gotten a 
+ballistic missile defense mission over time.
+    The thing that makes the Arleigh Burke-class special is 
+that that ship class now, you know, 30-plus years in the 
+making, we are building our 75th ship. I mentioned earlier, 
+75th ship. We have been able to evolve that ship over time to 
+meet evolving requirements. We have flexibility in that hull. 
+It is the longest-standing program that we have in the Navy.
+    Different programs are built to different standards. We 
+made a decision. We talked earlier about another large surface 
+combatant DDG-1000 Program. We put a lot of technology in it in 
+the beginning, and in the end it became very expensive, and we 
+terminated it. We decreased the number of ships we are going to 
+build from 32 to three, and we have examples like that across 
+the spectrum. Casey, do you want to talk to the programs in 
+your----
+    Admiral Moton. Thank you, Tom.
+    Admiral Anderson. Yes.
+    Admiral Moton. Yes, sir. I would just say, you know, for 
+each class, in terms of us as shipbuilders, the designs are 
+tailored depending on the mission of the class, right? It is a 
+carefully thought-out process, and not all ships are the same. 
+Even though Admiral Anderson and I are not the nuclear ship 
+builders, you know, from the nuclear all the way down, we kind 
+of tailor it to the mission and the need for the class. What 
+does not change is that for each contract, the Navy and the 
+shipbuilder are responsible for delivering us a ship that meet 
+those requirements and meet those standards, and, you know, we 
+work to ensure that we only accept ships when they meet those 
+standards, and that we hold shipbuilders accountable to their 
+contracts in delivering.
+    Mr. Sessions. Yes, sir. Yes, sir, but the testimony is you 
+went from what was projected, 32 ships to three. Someone needed 
+a new pencil, right?
+    Admiral Moton. Yes, sir. Maybe I will answer that question 
+a little bit differently, maybe with LCS, if that is all right.
+    Mr. Sessions. I will let you give your own answer, Admiral. 
+Thank you.
+    Admiral Moton. Yes, sir. You know, you certainly did 
+mention LCS, and, you know, absolutely, you know, that class 
+has had some reliability challenges in several areas. You know, 
+we have focused very hard on correcting those, making those 
+ships reliable, providing the support that they need to do to 
+the shipbuilders. As an acquisition shipbuilder, the quality 
+issues are unacceptable, right? We have worked to fix them and 
+have made significant progress on LCS, but they are 
+unacceptable in terms of the quality issues.
+    Mr. Sessions. So, would you say, sir, that they were 
+oriented at, not the design, but the manufacturing?
+    Admiral Moton. Sir, there are many aspects of the LCS that 
+caused the reliability, some manufacturing, some equipment, 
+some design. Quite frankly, it was significant in several 
+areas. What I will assure you, is that on the frigate design, 
+which is kind of the successor to LCS in our frigates, those 
+lessons learned have been applied. We made sure to start with 
+mature systems, non-developmental systems. We are ensuring that 
+the frigate is built to sort of core Navy quality standards and 
+survivability and reliability. We leveraged existing designs to 
+ensure that we did not have the developmental issues there. We 
+made sure that we had a mature production before the ship 
+started construction.
+    I know many of those are kind of shipbuilding details, but 
+those are the important lessons learned from LCS, an example 
+that we are applying now, and I know that Admiral Anderson is 
+doing that as well on the next destroyer.
+    Mr. Sessions. Mr. Chairman, I would like the record to 
+reflect that as I started, I end. I want to thank these 
+gentlemen for their service to the United States of America, a 
+grateful Nation, and I yield back my time, Chairman.
+    Mr. Higgins. The gentleman yields. His time has expired. 
+The Chair recognizes my friend and colleague from North 
+Carolina, Representative Foxx.
+    Ms. Foxx. Thank you, Mr. Chairman, and I want to thank our 
+witnesses for their service to our country also. Rear Admiral, 
+I am going to follow up with some more detail from what my 
+colleague from Texas was asking you in a general way. Admiral 
+Anderson, the Navy has discovered that the Freedom-class 
+littoral combat ship suffers from design flaw, which has led to 
+repeated failures in the combining gear, which is part of the 
+ship's propulsion system. Can you provide an estimate on how 
+much it will cost to repair the combining gear issue and when 
+design flaws are discovered on ships, that the Navy has 
+accepted who is on the hook for cost to fix the issue, the 
+contractors or the taxpayers? And I want to say I have several 
+questions, so I would appreciate short answers.
+    Admiral Anderson. Ma'am, I am going to actually ask Admiral 
+Moton to answer that.
+    Ms. Foxx. OK.
+    Admiral Anderson. It falls under his command.
+    Ms. Foxx. All right. That is fine.
+    Admiral Moton. I have the LCS Program.
+    Ms. Foxx. OK.
+    Admiral Moton. Yes, ma'am. So, you are correct. The 
+Freedom-class, in particular, has had this design issue with 
+the combining gear that you mentioned. You know, I want to 
+start by immediately, you know, telling you that a solution has 
+been determined for that combining gear, and we are part way 
+through the class of ships in installing that fix and restoring 
+the ship to its full capability. That combining gear fix or 
+combining gear issue, again, was unacceptable. It was a design 
+issue in the gear that should never have been there. You know, 
+we have held industry accountable.
+    Ms. Foxx. And who is paying for it, the industry is?
+    Admiral Moton. Ma'am, in our shipbuilding contracts, in 
+general, we share cost with industry, and that is not specific 
+to LCS. That is how we do it. It is fixed price incentive 
+contracting, and that is how it is working on LCS is that we 
+are sharing the cost. However, you know, typically once a ship 
+delivers, we do not have the ability to do that. In this case, 
+for LCS, we declared what is called a latent defect, and I 
+apologize for the term, but it is a contractual mechanism where 
+we hold the building yard accountable for the mistake that they 
+made. We still share the cost, but it is certainly not the U.S. 
+Navy or the taxpayer paying 100 percent. And so that is the way 
+that----
+    Ms. Foxx. What percent are we paying?
+    Admiral Moton. On the----
+    Ms. Foxx. Let us be specific.
+    Admiral Moton. On the LCS contract, ma'am, it is a 50/50 
+cost share, so----
+    Ms. Foxx. OK. All right. It has also been reported that the 
+LCS requires preventive maintenance by contractors about once a 
+month for a 1-2 week period. I mean, this means half of the 
+time, the ship is not available for use. It is absurd to think 
+that a ship that cost north of a half million dollars could be 
+in preventive maintenance cycle for up to six months a year. I 
+know you have said that you found a solution and you are 
+working on it, but will the repairs that have been needed and 
+maintenance now go away?
+    Admiral Moton. Ma'am, any ship, of course, requires 
+preventive maintenance. That is the way that we keep the 
+availability, the time that the ships are available, up. The 
+LCS Program utilized a construct that is different than much of 
+the rest of our surface force originally, which was to keep a 
+small crew and to have industry repair those. Certainly, we 
+have had some challenges there. We have made changes. The Navy 
+sailors are now doing more and more of that maintenance in 
+order to keep those ships more operable.
+    We are also trying to reduce--you mentioned preventive 
+maintenance--but corrective maintenance, right? We are 
+implementing reliability fixes to the class to reduce the 
+number of equipment failures they have and to provide the fleet 
+that the ships need. And certainly, there is more work to go, 
+but there are four LCSs currently deployed today in the U.S. 
+7th Fleet and several more elsewhere in the world, so we are 
+making progress. But as the shipbuilder, I am the first to say 
+there is more to do.
+    Ms. Foxx. Oh. OK. One more question. Based on the Navy's 
+experience with the LCS, would it be beneficial to the service 
+to procure multiple ship variants produced by different 
+contractors in the future, or would it be a hindrance? It seems 
+to me having all our eggs in one basket has not been very 
+productive.
+    Admiral Moton. So, it is obviously different for each 
+class. LCS was sort of a unique construct where we ended up 
+with our two different variants that basically meet the same 
+requirement. We have other cases, you know, in some cases where 
+our production rate supports it, DDG-51 under Admiral 
+Anderson's portfolio, where we have two shipyards building DDG-
+51. So, where it is possible, it is helpful to have multiple 
+ships. It kind of depends on every ship class and what our 
+build rate is.
+    Ms. Foxx. Thank you very much. Again, thank you for your 
+service, and, Mr. Chairman, I yield back.
+    Mr. Higgins. The gentlelady yields. The Chair recognizes my 
+colleague, Representative Dunn, for five minutes.
+    Mr. Dunn. Thank you very much, Mr. Chairman. I also want to 
+thank you for the opportunity to waive on to this hearing 
+today. This Subcommittee is conducting extremely important 
+work, and I appreciate the opportunity to be part of the 
+conversation. What I want to know is are the Chinese weakening 
+our Navy and Coast Guard from within. In 2016, a family owned 
+shipyard in my district was awarded a U.S. Coast Guard Phase 1 
+contract for the first four of 25 offshore patrol cutters. 
+These cutters are being completed on time and on budget, 
+despite Hurricane Michael's Category 5 devastation in our 
+region. The Coast Guard has repeatedly stated that the quality 
+of these ships was as good or better than any they had.
+    Despite this success, the Coast Guard awarded the OPC Stage 
+2 contract to another company, Austal USA, which is the largest 
+shipbuilding contract ever awarded by the Coast Guard at $3.3 
+billion. This is the same Austal that was awarded the contract 
+to build the littoral combat ships for the Navy. As widely 
+reported, these ships are plagued by cracked hulls, broken 
+equipment, and technologies that do not work. They are severely 
+delayed, and they suffer massive cost overruns.
+    Despite these complete failures, DOD announced a grant of 
+$50 million, using taxpayer money, to Austal so they would be 
+eligible to bid on the Coast Guard contract. You would think 
+that the U.S. Navy would be hesitant to award another contract 
+to a company that delivered faulty products, but Austal was 
+also awarded a contract to design and build the Navy's 
+expeditionary fast transport ships, also a failure. Most 
+recently, Austal was awarded the contract to build the command-
+and-control modules for the nuclear-powered submarines that are 
+central to our nuclear defense front for Triad. All this, and 
+now Austal CEO and other C-Suite executives have been indicted 
+for fraud by the Department of Justice. In what universe does 
+this happen?
+    Austal USA is part of Austal International, an Australian 
+company with close China links. In fact, Austal co-owned a 
+shipyard in China until December 2021, the entire time it was 
+building ships for the United States Navy. It should alarm 
+everyone that a company like Austal, that has won multiple 
+defense and Homeland Security contracts, has such close ties to 
+the CCP. This is a deeply troubling national security threat.
+    Admiral Anderson, the Chief of Naval Operations, on 
+multiple occasions, has stated that China is the strategic 
+threat to this country and the time to act is now. Do you agree 
+with that statement?
+    Admiral Anderson. Yes.
+    Mr. Dunn. Thank you. I do, too. Given your position, what 
+prime contractors for the Navy have had direct partnerships 
+with the CCP over the last five years? Admiral Anderson.
+    Admiral Anderson. Yes, I am thinking. I am making sure I 
+understand your question. Which prime shipbuilding contractors 
+that do work for the United States have direct contact?
+    Mr. Dunn. With the Navy, are also working with the CCP. Let 
+me help you--let me help your----
+    Admiral Anderson. I would say none.
+    Mr. Dunn. I will reclaim my time. Mr. Chairman, I want to 
+submit to the record an article from Baird Maritime, titled, 
+``Zhang Long Shipbuilding Wins China Coast Guard Vessel 
+Tender.''
+    Mr. Higgins. Without objection.
+    Mr. Dunn. Thank you, Mr. Chair.
+    Mr. Higgins. Admiral Anderson, should prime contractors for 
+the Navy or their subsidiaries have direct relationships with a 
+country that your CNO believes poses the greatest threat to our 
+Nation's sovereignty and security?
+    Admiral Anderson. No.
+    Mr. Dunn. I agree. Thank you. Admiral Anderson, did the 
+Navy provide a $50 million defense production grant, a grant 
+funded by taxpayer dollars, to a company that had an active 
+partnership with the CCP?
+    Admiral Anderson. I cannot answer the question on active 
+partnership. I am not aware of any active partnership with the 
+CCP----
+    Mr. Dunn. Let me jog----
+    Admiral Anderson [continuing]. But to be----
+    Mr. Dunn. Admiral, let me jog your memory.
+    Admiral Anderson. OK.
+    Mr. Dunn. Mr. Chairman, I would like to submit for the 
+record a DOD press release announcing a $50 million Defense 
+Production Act Title III grant with Austal USA. That is a nice 
+gift.
+    [No response.]
+    Mr. Dunn. Mr. Chair?
+    Mr. Grothman. [Presiding.] So, ordered.
+    Mr. Dunn. Thank you.
+    Mr. Dunn. Admiral Anderson, do you believe it is 
+responsible and sensible to award contracts to a company whose 
+entire leadership structure was actively being investigated by 
+the Department of Justice and the SEC for defrauding our 
+government, and by the way, have since been indicted? Is that 
+reasonable.
+    Admiral Anderson. No.
+    Mr. Dunn. I agree. It is not. Mr. Chairman, I would like to 
+enter into the record a DOJ press release, titled, ``Three Men 
+Indicted for Multi-Million Dollar Accounting Fraud Scheme at a 
+U.S. Navy Shipbuilder,'' and I think we can all guess who that 
+shipbuilder is. Admiral, thank you very much your service. I 
+appreciate it.
+    Mr. Grothman. So, ordered.
+    Mr. Dunn. Mr. Chairman, I yield back.
+    Mr. Grothman. Thank you. Is that it? OK. In closing, I 
+would like to thank our witnesses once again for their 
+important and insightful testimony.
+    First of all, I would like to yield to Congressman Garcia 
+for your closing comments.
+    Mr. Garcia. Sure. Thank you very much, Mr. Chairman. I just 
+want to just correct one thing that was mentioned earlier and 
+then just give a couple of general closing thoughts. I just 
+want to just, I think, remind the Subcommittee, and I think it 
+is important for the public to remember, when we are talking 
+about the capacity and the ability of the American shipbuilding 
+to Chinese shipbuilding, no one certainly is going to argue 
+that we do not have the best work force and that we do not have 
+the best military anywhere in the world. But the capacity and 
+our ability to build ships is dramatically different, and I 
+just want to remind us that, in China, they build on the 
+commercial side approximately 1,000 ships a year. The United 
+States builds approximately 10 ships a year. We build one 
+percent of China's shipbuilding capacity. Globally, 47 percent 
+of all ships produced are made in China. Globally, 0.2 percent 
+of the ships produced are made of the United States. And so, 
+yes, our ships are better, our workers are better, but as far 
+as who is building more ships and the capacity there is no 
+question that over many decades, that has shifted, 
+unfortunately, to China.
+    I just want to also just close by thanking all of you for 
+your service. I am particularly just grateful, Admiral, sir, 
+that you had gone to Korea to look at the shipyard. They are 
+really doing some innovative work there, and I know that you 
+are trying to implement some of what we have learned from some 
+of our allies across the globe. And also at a later time, I 
+just want to also get into some conversation about 3D printing, 
+which I know the printing of metals for submarines and what we 
+are doing here in the United States is incredible. And I want 
+to commend all the innovation that is happening in the Navy 
+around 3D printing and what that is going to do to our 
+shipbuilding capacity in the future, as well as with within our 
+work force. So, thank you for doing that. Thank you for your 
+interest in high-performing organizations, and I look forward 
+to the Navy continuing that work. Thank you, Mr. Chairman.
+    Mr. Grothman. Thank you. I appreciate all your time today. 
+It is always frustrating when you are kind of limited to five 
+minutes, but that is why we do things in Congress.
+    I want to remind everybody they have five legislative days 
+within which to submit materials and to submit additional 
+written questions for the witnesses, which will be forwarded to 
+the witnesses for their response. And particular areas that I 
+wish we would have got into a little bit more is, maybe some of 
+the labor laws or labor requirements and see the degree to 
+which that maybe slows things down or affects something, as 
+well I hope to give you some questions regarding the degree to 
+which you feel that we are dependent on parts from other 
+countries, and the degree to which that is a potential problem 
+in the future.
+    Mr. Grothman. But in any event, if there is no further 
+business, without objection, the Subcommittee stands adjourned.
+    [Whereupon, at 11:21 a.m., the Subcommittee was adjourned.]
+
+                                 
+

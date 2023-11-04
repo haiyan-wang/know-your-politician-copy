@@ -1,0 +1,2106 @@
+
+ - A ROADMAP FOR GROWTH: REFORMS TO ENCOURAGE CAPITAL FORMATION AND INVESTMENT OPPORTUNITIES FOR ALL AMERICANS
+
+[House Hearing, 118 Congress]
+[From the U.S. Government Publishing Office]
+
+
+                     A ROADMAP FOR GROWTH: REFORMS
+                     TO ENCOURAGE CAPITAL FORMATION
+                      AND INVESTMENT OPPORTUNITIES
+                           FOR ALL AMERICANS
+
+=======================================================================
+
+                                HEARING
+
+                               BEFORE THE
+
+                    SUBCOMMITTEE ON CAPITAL MARKETS
+
+                                 OF THE
+
+                    COMMITTEE ON FINANCIAL SERVICES
+
+                     U.S. HOUSE OF REPRESENTATIVES
+
+                    ONE HUNDRED EIGHTEENTH CONGRESS
+
+                             FIRST SESSION
+
+                               __________
+
+                             APRIL 19, 2023
+
+                               __________
+
+       Printed for the use of the Committee on Financial Services      
+   
+                           Serial No. 118-14
+                           
+[GRAPHIC NOT AVAILABLE IN TIFF FORMAT]
+
+                               __________
+                               
+                               
+                           U.S. GOVERNMENT PUBLISHING OFFICE
+52-392 PDF                        WASHINGTON: 2023                           
+                               
+_________________________________________________________________________
+
+                 HOUSE COMMITTEE ON FINANCIAL SERVICES
+
+               PATRICK McHENRY, North Carolina, Chairman
+
+FRANK D. LUCAS, Oklahoma             MAXINE WATERS, California, Ranking 
+PETE SESSIONS, Texas                     Member
+BILL POSEY, Florida                  NYDIA M. VELAZQUEZ, New York
+BLAINE LUETKEMEYER, Missouri         BRAD SHERMAN, California
+BILL HUIZENGA, Michigan              GREGORY W. MEEKS, New York
+ANN WAGNER, Missouri                 DAVID SCOTT, Georgia
+ANDY BARR, Kentucky                  STEPHEN F. LYNCH, Massachusetts
+ROGER WILLIAMS, Texas                AL GREEN, Texas
+FRENCH HILL, Arkansas                EMANUEL CLEAVER, Missouri
+TOM EMMER, Minnesota                 JIM A. HIMES, Connecticut
+BARRY LOUDERMILK, Georgia            BILL FOSTER, Illinois
+ALEXANDER X. MOONEY, West Virginia   JOYCE BEATTY, Ohio
+WARREN DAVIDSON, Ohio                JUAN VARGAS, California
+JOHN ROSE, Tennessee                 JOSH GOTTHEIMER, New Jersey
+BRYAN STEIL, Wisconsin               VICENTE GONZALEZ, Texas
+WILLIAM TIMMONS, South Carolina      SEAN CASTEN, Illinois
+RALPH NORMAN, South Carolina         AYANNA PRESSLEY, Massachusetts
+DAN MEUSER, Pennsylvania             STEVEN HORSFORD, Nevada
+SCOTT FITZGERALD, Wisconsin          RASHIDA TLAIB, Michigan
+ANDREW GARBARINO, New York           RITCHIE TORRES, New York
+YOUNG KIM, California                SYLVIA GARCIA, Texas
+BYRON DONALDS, Florida               NIKEMA WILLIAMS, Georgia
+MIKE FLOOD, Nebraska                 WILEY NICKEL, North Carolina
+MIKE LAWLER, New York                BRITTANY PETTERSEN, Colorado
+ZACH NUNN, Iowa
+MONICA DE LA CRUZ, Texas
+ERIN HOUCHIN, Indiana
+ANDY OGLES, Tennessee
+
+                     Matt Hoffmann, Staff Director
+                    Subcommittee on Capital Markets
+
+                    ANN WAGNER, Missouri, Chairwoman
+
+FRANK D. LUCAS, Oklahoma             BRAD SHERMAN, California, Ranking 
+PETE SESSIONS, Texas                     Member
+BILL HUIZENGA, Michigan              GREGORY W. MEEKS, New York
+FRENCH HILL, Arkansas                DAVID SCOTT, Georgia
+TOM EMMER, Minnesota                 JUAN VARGAS, California
+ALEXANDER X. MOONEY, West Virginia   JOSH GOTTHEIMER, New Jersey
+BRYAN STEIL, Wisconsin               VICENTE GONZALEZ, Texas
+DAN MEUSER, Pennsylvania             SEAN CASTEN, Illinois
+ANDREW GARBARINO, New York, Vice     WILEY NICKEL, North Carolina
+    Chairman                         STEPHEN F. LYNCH, Massachusetts
+MIKE LAWLER, New York                EMANUEL CLEAVER, Missouri
+ZACH NUNN, Iowa
+ERIN HOUCHIN, Indiana
+                            
+                            C O N T E N T S
+
+                              ----------                              
+                                                                   Page
+Hearing held on:
+    April 19, 2023...............................................     1
+Appendix:
+    April 19, 2023...............................................    37
+
+                               WITNESSES
+                       Wednesday, April 19, 2023
+
+Brooks, Brandon, Founding Partner, Overlooked Ventures...........     4
+Lubin, Melanie Senter, Commissioner, Maryland Securities 
+  Division, Office of the Maryland Attorney General, testifying 
+  on behalf of the North American Securities Administrators 
+  Association (NASAA)............................................    10
+Sampson, Rodney, CEO and Co-Founder, Opportunity Hub, Inc........     5
+Trotter, Joel H., Partner, Latham & Watkins LLP..................     7
+Ward, Henry, CEO & Co-Founder, Carta, Inc........................     8
+
+                                APPENDIX
+
+Prepared statements:
+    Brooks, Brandon..............................................    38
+    Lubin, Melanie Senter........................................    47
+    Sampson, Rodney..............................................    91
+    Trotter, Joel H.,............................................    98
+    Ward, Henry..................................................   131
+
+              Additional Material Submitted for the Record
+
+McHenry, Hon. Patrick:
+    Written statement of the American Securities Association.....   139
+    Written statement of the Biotechnology Innovation 
+      Organization...............................................   142
+Waters, Hon. Maxine:
+    Written responses to questions for the record submitted to 
+      Commissioner Lubin, Mr. Sampson, Mr. Trotter, and Mr. Ward.   148
+
+ 
+                     A ROADMAP FOR GROWTH: REFORMS
+                     TO ENCOURAGE CAPITAL FORMATION
+                      AND INVESTMENT OPPORTUNITIES
+                           FOR ALL AMERICANS
+
+                              ----------                              
+
+
+                       Wednesday, April 19, 2023
+
+             U.S. House of Representatives,
+                   Subcommittee on Capital Markets,
+                           Committee on Financial Services,
+                                                   Washington, D.C.
+    The subcommittee met, pursuant to notice, at 2:01 p.m., in 
+room 2128, Rayburn House Office Building, Hon. Ann Wagner 
+[chairwoman of the subcommittee] presiding.
+    Members present: Representatives Wagner, Sessions, 
+Huizenga, Hill, Mooney, Steil, Meuser, Garbarino, Lawler, Nunn, 
+Houchin; Sherman, Vargas, Gottheimer, Casten, Nickel, Lynch, 
+and Cleaver.
+    Ex officio present: Representative McHenry.
+    Also present: Representative Foster.
+    Chairwoman Wagner. The Subcommittee on Capital Markets will 
+now come to order.
+    Without objection, the Chair is authorized to declare a 
+recess of the subcommittee at any time.
+    Today's hearing is entitled, ``A Roadmap for Growth: 
+Reforms to Encourage Capital Formation and Investment 
+Opportunities for All Americans.''
+    I now recognize myself for 5 minutes to give an opening 
+statement.
+    First, I would like to thank you all for joining us today. 
+It was a pleasure to meet all of you prior to this hearing, as 
+we bring our four-part capital formation series to a close. As 
+I outlined in the previous three hearings, I have heard from 
+small businesses, the absolute backbone of our economy, and we 
+must ensure that our markets are working efficiently and 
+effectively to provide companies access to the capital that 
+they need to innovate, to grow, and to create jobs.
+    To accomplish that goal, we must also ensure a regulatory 
+framework that is streamlined and not overly-burdensome. As we 
+have heard throughout our capital formation hearings, a 
+framework that fails to, I will say right-size regulation, will 
+stifle innovation. It will limit wealth-creating opportunities 
+for investors and prevent small businesses from reaching their 
+potential.
+    Over the past several months, we have had the opportunity 
+to hear from a range of experts and stakeholders on the ways in 
+which Congress can help promote economic growth and investment. 
+At our first hearing, we heard how our private markets have 
+been reserved for the wealthiest Americans. Our witnesses also 
+shared insights into the challenges that entrepreneurs face 
+when raising capital, and identified some of the senseless 
+regulations that limit their pool of investors. Their testimony 
+proved the need for commonsense reforms that expand wealth-
+creating opportunities to those Americans who have effectively 
+been relegated to the sidelines.
+    Our second hearing was on the critical role of small 
+businesses and entrepreneurs in driving economic growth and job 
+creation in the United States. We discussed several ways to 
+reduce obstacles, and our witnesses identified policies to 
+promote capital formation for small businesses across the 
+country. From this discussion, it became clear that Congress 
+must do more to enhance the ways in which small businesses 
+raise capital in our markets.
+    At our third hearing, we focused on the role of public 
+markets in promoting economic growth and investment. We found 
+that many companies are delaying their initial public offerings 
+(IPOs) or are remaining private to avoid unreasonable 
+regulatory and disclosure obligations. Witnesses also discussed 
+their concerns with declining IPOs, a reduction in the number 
+of publicly-traded companies, and the impact of these trends on 
+investors and, I would say, the broader economy. Their 
+testimony underscored the need for proposals that again, right-
+size regulation, making public markets more attractive without 
+compromising investor protection.
+    As we begin our final hearing, it is clear that these 
+issues are deeply interconnected. Expanding investment 
+opportunities for all Americans, improving access to capital 
+for small businesses, and strengthening our public markets are 
+all critical components of a healthy and vibrant economy. As we 
+look ahead, there is much work to be done to ensure that our 
+capital markets are functioning efficiently and effectively for 
+all Americans. This includes supporting policies that promote 
+investment, encourage innovation, and remove unnecessary 
+regulatory burdens.
+    Thank you again to my colleagues and today's witnesses for 
+joining us in this important undertaking. Your insights and 
+contributions are invaluable, and I think we all look forward 
+to today's discussion.
+    I am now pleased to recognize the ranking member of the 
+subcommittee, Mr. Sherman of California, for 4 minutes for an 
+opening statement.
+    Mr. Sherman. This is our fourth subcommittee hearing on the 
+most-important thing that financial institutions and capital 
+markets do, which is provide capital for businesses, 
+particularly small, medium-sized, and growing businesses. Most 
+mainstream businesses turn to banks for loans, and they are 
+increasingly not getting those loans because our system, 
+presided over by the regulators and this committee, is tilted 
+against banks making business loans. We saw what happened with 
+Silicon Valley Bank. They didn't go bad because they made bad 
+business loans; they went under because of their bad bond 
+investments. So, what are the problems?
+    First, credit unions face severe and unjustified limits on 
+making any business loans at all. Second, the Current Expected 
+Credit Losses (CECL) accounting system brutally and 
+unjustifiably penalizes any bank that does make a business 
+loan. If a bank creates a portfolio of business loans by making 
+highly-profitable, very-secure business loans, it must still 
+list those loans on its balance sheet at less than par.
+    Third, the rival to making business loans for a bank is 
+investing in securities, chiefly bonds, and our system rewards 
+banks by a bizarre accounting system. If they list these bonds 
+as held-to-maturity and the bonds happen to go down in value, 
+well, heads, I win, tails, no bet. You can still list those 
+bonds on the balance sheet at par, even though they aren't 
+worth par. But if the bonds go up in value, the bank simply 
+sells one group of bonds, replaces them with another group of 
+bonds, and puts the gain right there on the balance sheet.
+    Finally, we have a system where business development 
+companies (BDCs) are unduly penalized by the SEC because those 
+mutual funds that invest in BDCs are penalized by having to 
+show wrongful overstatement of their costs. And that is why, 
+Madam Chairwoman, I am glad you have included in the bills we 
+are considering today the bill I introduced, along with 
+Representative Huizenga, to change this bias.
+    The other avenues for businesses to get capital are 
+partially foreclosed by unjustified laws, so businesses will 
+often turn to private placements. Critical to a private 
+placement is the definition of, ``accredited investor.'' I 
+agree with the Majority that our current definition is unfair 
+and illogical. It should be replaced by a definition that does 
+two things: first, it doesn't include or allow a private 
+placement in which any individual credited investors put more 
+than 5 or perhaps 10 percent of their net worth in any one 
+offering, or more than 50 percent of their net worth in all 
+private offerings; and second, it makes sure that accredited 
+investors have expertise, or have truly independent advisors 
+who have the expertise to evaluate the investment.
+    I agree with the Majority that simply saying somebody has a 
+million dollars in net worth, therefore, they are accredited, 
+is unfair to those who don't have a million dollars in net 
+worth, and ridiculously complimentary to assume that anybody 
+with a million bucks is sophisticated and knowledgeable.
+    Finally, in defining the difference between a public and a 
+private company, Congress set the limit at a very generous 
+2,000 shareholders. But the SEC, in counting shareholders, uses 
+a funny math in which you can have thousands and thousands of 
+shareholders and still be under the 2,000 limit, and we will 
+explore that during my question time. I yield back.
+    Chairwoman Wagner. We will now turn to our witnesses.
+    First, Mr. Brandon Brooks. Mr. Brooks is a founding partner 
+at Overlooked Ventures, a venture capital fund investing in 
+historically-overlooked founders. Additionally, he is the 
+founder of Zinsu, a platform to increase efficiency in the 
+entrepreneurial ecosystem. Prior to Zinsu, and Overlooked 
+Ventures, he started the first Black-owned crowdfunding 
+platform in the U.S.: Inventrify.
+    Second, Mr. Rodney Sampson. Mr. Sampson serves as the 
+executive chairman and CEO of Opportunity Hub, which he founded 
+in 2013 in Atlanta, Georgia. Today, Opportunity Hub is a 
+business and foundation with an ecosystem-building venture 
+fund. It is a leading technology startup and venture ecosystem-
+building platform created to ensure that everyone has equitable 
+access to the future of work.
+    Third, Mr. Joel Trotter. Mr. Trotter is a partner at Latham 
+& Watkins, and the co-chairman of the Latham & Watkins National 
+Office, a central resource for clients and Latham lawyers 
+facing complex issues arising under the U.S. securities laws. 
+Mr. Trotter was a leading member of the IPO Task Force, and 
+served as a principal author of the IPO-related provisions of 
+the JOBS Act in 2012.
+    Fourth, Mr. Henry Ward. Mr. Ward is a co-founder and CEO of 
+Carta, an organization that helps issuers, investors, and 
+employees manage and value equity ownership from idea to IPO. 
+Carta is trusted by more than 30,000 companies, over 5,000 
+investment funds, and half-a-million employees for cap table 
+management, compensation management, liquidity venture capital 
+solutions, and more. Carta's liquidity solutions have returned 
+$13 billion to shareholders in secondary transactions.
+    And last, but certainly not least, we have Commissioner 
+Melanie Senter Lubin. Commissioner Lubin was appointed in 1998 
+by the Maryland Attorney General as a Maryland Securities 
+Commissioner for the Securities Division. In September of 2021, 
+Ms. Lubin began her 1-year term as the 104th president of the 
+North American Securities Administrators Association, the 
+oldest international organization devoted to investor 
+protection and responsible capital formation.
+    I want to thank each of you for taking the time to be here. 
+Each of you will be recognized for 5 minutes to give an oral 
+presentation of your testimony. And without objection, each of 
+your written statements will be made a part of the record.
+    Mr. Brooks, you are now recognized for 5 minutes for your 
+oral remarks.
+
+   STATEMENT OF BRANDON BROOKS, FOUNDING PARTNER, OVERLOOKED 
+                            VENTURES
+
+    Mr. Brooks. Thank you. Good afternoon, esteemed members of 
+the House Financial Services Committee. I stand before you 
+today as a representative of the voiceless, the marginalized, 
+the overlooked, and the underestimated. I stand before you to 
+speak on behalf of the forgotten founders who were never given 
+a chance to showcase their potential and the hard-working 
+people who were being shut out of investment opportunities 
+because they don't belong to the elite class of the wealthy.
+    Today, I bring a message of hope and a call to action. The 
+time has come to break down the barriers that have held back 
+our economy and empower the next wave of American innovation. 
+The time has come to put the American Dream back within reach 
+of all those who seek it.
+    It is time for IPO reform, support for overlooked founders, 
+and safer investment opportunities for non-wealthy investors, 
+and if you don't act now, the consequences will be dire. The 
+American Dream will become nothing but a distant memory, and 
+the economic gap between the haves and the have-nots will grow 
+wider than ever before, but together we can make a change. 
+Together, we can create a better future for all Americans. 
+Thank you for your attention.
+    According to a report by the National Venture Capital 
+Association, the number of IPOs has declined by more than 38 
+percent since 2014. This decline is troubling because IPOs 
+provide a critical source of capital for companies to grow and 
+expand. By going public, companies can access a larger pool of 
+investors and raise the capital they need to expand the new 
+products, hire more employees, and expand in the new markets. 
+But going public is a daunting process for many companies, 
+especially the smaller ones. It is expensive, time-consuming, 
+and comes with a host of regulatory requirements that can be 
+overwhelming. That is why we need to make it easier and more 
+attractive for companies to go public.
+    The reality is that many talented entrepreneurs don't have 
+access to the resources and networks they need to start and 
+grow successful companies. Women, Black founders, and people 
+who exist outside the lines of the traditional startup 
+ecosystem, in particular, face significant barriers when it 
+comes to accessing capital and building the networks that are 
+necessary for success. To address this, we need to create more 
+opportunities for overlooked founders to access capital and 
+build networks.
+    Finally, we need to make it easier for everyday Americans 
+to invest in the future of our economy. The reality is that 
+most Americans are excluded from investing in early-stage 
+companies because they simply don't have the financial 
+resources to do so. To address this, we need to create more 
+opportunities for non-wealthy investors to invest in early-
+stage companies.
+    In conclusion, we are at a crucial moment in our nation's 
+history. The old rules no longer work and the status quo is 
+holding us back, but we have an opportunity to chart a new 
+course, one that empowers overlooked founders, opens up 
+investment opportunities to all, and drives economic growth for 
+all Americans. It won't be easy and it won't happen overnight, 
+but if we have the courage to act, we can create a future that 
+is more just, more prosperous, and more equitable for all. 
+Bless you, and thank you all.
+    [The prepared statement of Mr. Brooks can be found on page 
+38 of the appendix.]
+    Chairwoman Wagner. That's very kind of you, Mr. Brooks. 
+Thank you.
+    Mr. Sampson, you are now recognized for 5 minutes to give 
+your oral remarks.
+
+ STATEMENT OF RODNEY SAMPSON, CEO AND CO-FOUNDER, OPPORTUNITY 
+                           HUB, INC.
+
+    Mr. Sampson. Good afternoon, Chairwoman Wagner, Ranking 
+Member Sherman, and members of the subcommittee, and thank you 
+for the opportunity to appear before you today. I am humbled to 
+have my wife, Shanterria Alston Sampson, and our children here 
+with us as well.
+    Today, I am here as a pioneer and a stakeholder in our 
+nation's Black technology startup and venture ecosystem, an 
+ecosystem that I have been a part of building from the ground 
+up as a founder, investor, and ecosystem builder for nearly 23 
+years. And in the last decade as the co-founder, executive 
+chairman, and CEO of Opportunity Hub, the nation's leading 
+innovation, entrepreneurship, and investment ecosystem-building 
+organization created to ensure that everyone, everywhere, has 
+equitable opportunities in the fourth industrial revolution and 
+beyond as a path to creating new multi-generational wealth with 
+no reliance on pre-existing multi-generational wealth.
+    Twenty-three years ago, I co-founded my first technology 
+startup company in Atlanta, Georgia. This was my first 
+introduction to the venture capital and angel investing 
+ecosystem, and I learned very fast that access to early-stage 
+private capital in America was not equal. In our era, there 
+were only three Black technology founders who had raised 
+millions in venture capital for their startups: Omar Wasso at 
+BlackPlanet.com, Clarence Wooten at ImageCafe.com, and me at 
+Multicast Media Technologies and Streamingfaith.com. As a note 
+of outcome, all three of our companies were successfully 
+acquired.
+    In 2021, Harlem Capital reported that less than 1,000 Black 
+and Hispanic startups had ever raised over $1,000,000 in angel 
+and venture capital in American history. When juxtaposed to the 
+over 15,000 startup investments that were consummated in 2021, 
+and again in 2022, according to a report by Pitchbook and the 
+National Venture Capital Association, the amount of capital 
+invested in socially- and economically-disadvantaged 
+individuals who have experienced institutional, personal and 
+interpersonal racism, discrimination and bias in the American 
+startup ecosystem is dismal, negligible, and shameful.
+    In my 2021 report entitled, ``Building Racial Equity in 
+Tech Ecosystem To Spur Local Recovery,'' published by the 
+Brookings Institution, where I serve as a nonresident senior 
+fellow, I point out that approximately $26 billion annually 
+should be going to the Black technology, startup, and venture 
+ecosystem to build tech hubs in hundreds of American cities to 
+rapidly upskill millions for existing software, sales, cyber, 
+new energy, and AI technology careers; incubate thousands of 
+new high-growth ventures leveraging edge technologies, and back 
+them with the early startup capital to hire build, go to 
+market, sell, and grow.
+    Ecosystem-building organizations like Opportunity Hub, 
+venture capital firms like 100 Black Angels & Allies Fund, and 
+angel investors like my wife and I are exhausted from asking 
+the existing private markets to invest in the thousands of 
+brilliant Black technologists, operators, and founders who are 
+a part of our growing ecosystem. Outside of the performative 
+pitch competitions and diversity announcements of 2020, no 
+consistent private commitment exists to fund Black-founded 
+early-stage startups, venture funds, tech hubs, incubators, 
+accelerators, upskilling schools, and ecosystem-building 
+organizations at scale.
+    The current relevant public sector commitments, like the 
+State Small Business Credit Initiative (SSBCI), EDA's Build 
+Back Better Regional Challenge, Regional Tech Hubs, and NSF 
+Engines in the CHIPS and Science Act, are very exciting for 
+overall global American innovative competitiveness. Yet, there 
+is little hope in the Black technology startup and venture 
+ecosystem that this funding will actually make it to America's 
+overlooked and under-invested communities with any sizable 
+traction or scale.
+    The Black technology ecosystem has started to innovate from 
+within. When possible, we invest in each other's companies and 
+initiatives. Opportunity Hub created the Black Technology 
+Ecosystem Investors Certificate in collaboration with the 
+University of North Carolina, Duke, Stanford, and The Links, 
+Incorporated. To date, nearly 50 Black affluent and accredited 
+men and allies have been certified. Imagine this certificate in 
+collaboration with FINRA as a path towards accreditation.
+    In closing, I would like to thank you for your time. If we 
+do not get on the capitalization tables of these startups that 
+are transforming society as we meet today, we will have future 
+generations in America of haves and have-nevers. Thank you.
+    [The prepared statement of Mr. Sampson can be found on page 
+91 of the appendix.]
+    Chairwoman Wagner. Thank you very much, Mr. Sampson. Mr. 
+Trotter, you are now recognized for 5 minutes to give your oral 
+remarks.
+
+  STATEMENT OF JOEL H. TROTTER, PARTNER, LATHAM & WATKINS LLP
+
+    Mr. Trotter. Good afternoon, and thank you, Chairwoman 
+Wagner, Ranking Member Sherman, and members of the 
+subcommittee. It is a pleasure to be here today appearing 
+before you. Based on my experience as part of the IPO Task 
+Force leadership, I am pleased to share my perspectives on 
+reforms to encourage capital formation and investment 
+opportunities.
+    The JOBS Act of 2012 is a bipartisan success story and a 
+model for the innovative solutions we are now considering. By 
+an overwhelming bipartisan majority, Congress enacted the IPO 
+Task Force On-Ramp proposal as Title I in the JOBS Act, and 11 
+years ago this month, President Obama signed it into law. Title 
+I has been called the most-successful title in the JOBS Act, 
+and academic research has demonstrated that the on-ramp 
+provision significantly increased IPO volume overall. We should 
+encourage more IPO activity. The research of the IPO Task Force 
+showed that companies that go public experience more than 90 
+percent of their job growth after their IPO.
+    Today, however, public companies face higher compliance 
+burdens than ever before. And the SEC has formally acknowledged 
+that when its rules increase the cost of being a public 
+company, that discourages some companies from accessing the 
+public markets. For this reason, the JOBS Act offers an 
+important series of lessons for successful bipartisan 
+legislation. I will highlight four of these lessons.
+    First, find small changes that will have a big impact. The 
+IPO On-Ramp comprised multiple small changes that had an 
+outsized impact. Together, these changes streamlined the IPO 
+process, and made it easier to transition to public company 
+status.
+    Second, use a balanced approach that scales the regulatory 
+burden to accompany size and maturity. The IPO On-Ramp concept 
+allowed the regulatory burden to scale to the size of the 
+company, a simple, but powerful concept borrowed from SEC 
+rules. In the debate over more versus less regulation, this is 
+a compelling way forward rather than more versus less 
+securities regulation, a balanced regulation that scales over 
+time. This approach encourages IPO activity while maintaining 
+the existing and continuously-increasing level of securities 
+regulation for mature public companies.
+    Third, remember that the innovations under consideration 
+will not reduce the demanding and rigorous liability provisions 
+of the Federal securities laws. The JOBS Act changed none of 
+the robust anti-fraud provisions of the Federal Securities 
+Laws. This is of paramount importance in understanding the 
+limited nature of the changes. There is a long list of 
+liability provisions and compliance obligations that apply to 
+all public companies. They are extensive and rigorous, and they 
+will remain undiminished by any of the proposals before you.
+    Fourth, use self-executing statutory text that will become 
+immediately effective and will not burden an already-busy 
+agency. The IPO On-Ramp statutory text was self-executing 
+rather than relying on SEC rulemaking. In this regard, the JOBS 
+Act is a study in contrast.
+    As I sat in the Rose Garden on April 5, 2012, I watched the 
+IPO On-Ramp provisions become effective at the moment President 
+Obama signed them into law. In contrast, other provisions of 
+the JOBS Act required SEC rulemaking by specified deadlines, 
+none of which were met.
+    The Dodd-Frank Act of 2010 presents a similar dichotomy. 
+The self-executing provisions were immediately effective, 
+whereas the Dodd-Frank mandate for an executive compensation 
+clawback rule will have taken 13 years to implement when the 
+final rules become effective later this year.
+    You have the ability and the opportunity to build on the 
+success of Title I of the JOBS Act and the lessons that offers 
+us today. Given the direct connection between capital formation 
+and job creation, that opportunity is compelling. I welcome 
+your questions.
+    [The prepared statement of Mr. Trotter can be found on page 
+98 of the appendix.]
+    Chairwoman Wagner. Thank you very much, Mr. Trotter.
+    Mr. Ward, you are now recognized for 5 minutes to give your 
+oral remarks.
+
+     STATEMENT OF HENRY WARD, CEO & CO-FOUNDER, CARTA, INC.
+
+    Mr. Ward. Chairwoman Wagner, Ranking Member Sherman, and 
+members of the subcommittee, thank you for the opportunity to 
+be here. My name is Henry Ward, and I am the CEO and co-founder 
+of Carta, a financial technology company that sits at the 
+center of the innovation economy. I am proud to be here today 
+as an advocate for the venture ecosystem, for the entrepreneurs 
+who have an idea for the startups they create, for the 
+investors who support them, and for the employees who build for 
+them.
+    Startups are America's innovation engine, and it is this 
+venture ecosystem that allowed us to build Carta. We started 
+Carta with the vision of connecting startups with their 
+investors and employees by lowering barriers for companies to 
+issue and manage equity. We launched our product in January of 
+2014 with seven employees. Our first customer paid us $120. As 
+an entrepreneur, you never forget the first time someone paid 
+you for something you built. Today, we are 2,000 employees 
+across 9 offices with $300 million in revenue. We continue to 
+grow by supporting the founders that start companies and the 
+investors that back them.
+    I understand the words, ``venture capital,'' may not elicit 
+the most positive response today, but I am here to remind us 
+why entrepreneurs and the ecosystem that support them are vital 
+to America's growth story and leadership in the world, and 
+allow me to explain why.
+    First, the venture ecosystem drives innovation and growth. 
+Most of our innovative companies have been backed by venture. 
+Apple was venture-backed. Uber was venture-backed. Amazon was 
+venture-backed. Moderna was venture-backed. We take for granted 
+what venture does for America's innovation and how it has 
+transformed our lives. So much of the technology we use today 
+is a direct product of startups and venture capital. America 
+has driven every major technological innovation in the last 30 
+years, not China, not Russia, not Europe, not Asia. It is one 
+of the most important ways we lead the world, and most of that 
+innovation has come out of the venture ecosystem, and we must 
+not take that ecosystem for granted.
+    Second, we can't make the venture model work better. 
+Innovation requires time to build, experiment and scale, and 
+uncertainty and volatility is inherent in building something 
+new. The private markets provide patient capital with a 
+tolerance for risk that allows entrepreneurs to transform 
+concepts into companies. This is the innovation engine of 
+America and it should not be limited to coastal regions. It 
+should be accessible to more.
+    Much of the criticism of venture--the concentration, lack 
+of diversity, and exclusivity--are largely reflective of the 
+private market regulatory framework. Let me give you two 
+examples.
+    First, the primary avenue to raise capital requires 
+entrepreneurs to have, ``a preexisting relationship with an 
+investor.'' This rewards those who are in the club and excludes 
+those who are not. It creates a slanted system where it isn't 
+what you know, but whom you know.
+    Second, the accredited investor definition limits investing 
+to the wealthy. This rule, coupled with the pre-existing 
+relationship rule, makes things worse. It limits access to not 
+just people you know, but only the rich people you know. If we 
+want to democratize access to America's growth engine, we 
+should take a hard look at this framework.
+    Third and last, a thriving venture ecosystem is the future 
+of public markets. A growing criticism is that private 
+companies take too long to go public and that regulations 
+should push companies public earlier. This is not a good idea 
+for the company, the employees, the investors, or the public 
+markets. Every entrepreneur dreams of building a company that 
+goes public. When companies wait to go public, it is not 
+because they don't want to; they wait because they are not 
+ready to. Public markets have changed. Companies that went 
+public 20 years ago could not go public today. The expectations 
+for scale, quarterly predictability, resiliency of business 
+model, and financial means have grown. For companies that have 
+achieved this level of maturity, the public markets are a 
+wonderful place, but for companies that have not, the public 
+markets are unforgiving.
+    We saw this recently with the Special Purpose Acquisition 
+Companies (SPAC) craze, where many private companies were taken 
+public prematurely. Those companies, employees, and investors 
+were severely punished and they are now picking up the pieces. 
+The answer to creating more public companies is not to make 
+private markets more hostile but to make private markets work 
+better. Doing so makes it easier to start companies, nurture 
+their growth, and create the pipeline of tomorrow's great 
+public companies. And that is why I am here today, to advocate 
+for your involvement in creating a better framework for private 
+markets and America's innovation economy.
+    Thank you, and I look forward to your questions.
+    [The prepared statement of Mr. Ward can be found on page 
+131 of the appendix.]
+    Chairwoman Wagner. Thank you, Mr. Ward. And Commissioner 
+Lubin, you are now recognized for 5 minutes to give your oral 
+remarks.
+
+   STATEMENT OF MELANIE SENTER LUBIN, COMMISSIONER, MARYLAND 
+ SECURITIES DIVISION, OFFICE OF THE MARYLAND ATTORNEY GENERAL, 
+     TESTIFYING ON BEHALF OF THE NORTH AMERICAN SECURITIES 
+               ADMINISTRATORS ASSOCIATION (NASAA)
+
+    Ms. Lubin. Good afternoon, Chairwoman Wagner, Ranking 
+Member Sherman, and distinguished members of the subcommittee. 
+My name is Melanie Lubin. I am a 36-year veteran of the 
+Division of Securities within Maryland's Office of the Attorney 
+General, and of the North American Securities Administrators 
+Association (NASAA). Last year, I served as NASAA's president. 
+Since 2015, I have also served as NASAA's non-voting 
+representative to the Financial Stability Oversight Council 
+(FSOC).
+    State securities regulators play several vital roles in 
+responsible capital formation. For example, many of our 
+regulators support the business community by working with local 
+organizations to conduct seminars for small businesses by 
+responding regularly to capital-raising inquiries, and by 
+maintaining websites devoted to capital formation resources. We 
+also protect and educate investors working to build secure 
+financial futures. At the end of the day, our work helps to 
+ensure the integrity and efficiency of the capital markets that 
+power our economy.
+    Today, we are examining legislation that is intended to 
+help entrepreneurs and small businesses to increase 
+opportunities for investors and to strengthen public markets. 
+NASAA supports these laudable goals. Unfortunately, we 
+respectfully submit that many of the proposals under discussion 
+today are counterproductive to our collective efforts to 
+achieve these goals. In particular, we urge Congress to reject 
+proposals that would take away certain longstanding State 
+authorities to promote responsible capital formation, including 
+the Small Entrepreneurs' Empowerment and Development Act of 
+2021 (SEED Act), the Improving Crowdfunding Opportunities Act, 
+the Restoring the Secondary Trading Market Act, and the 
+Unlocking Capital for Small Businesses Act.
+    If these preemption bills were to become law, State 
+Governments likely would reduce funding for the great work that 
+State securities regulators are doing to empower entrepreneurs 
+to understand their capital-raising options and avoid 
+compliance mistakes. Meanwhile, Congress would not increase 
+resources for the Federal Government to fill the regulatory and 
+boots-on-the-ground gaps created by preemption.
+    At the same time, we believe there are proposals under 
+discussion today that should be pursued. By way of example, 
+NASAA endorses the Promoting Opportunities for Non-Traditional 
+Capital Formation Act, which lawmakers noticed for today's 
+hearing. This legislation would expand the functions of the 
+Office of the Advocate for Small Business Capital Formation at 
+the SEC and require meetings with State securities regulators 
+at least annually. In addition, we endorsed the legislation 
+under discussion that would direct the SEC to revise their 
+definition of, ``accredited investor,'' to exclude retirement 
+accounts from the net worth calculation used to determine 
+eligibility. At NASAA, we firmly believe that we all need to 
+heed the lessons learned from the past JOBS Act.
+    Importantly, it would be a net negative for everyone to 
+continue down a de-regulatory path in which we further expand 
+the private securities markets at the expense of the public 
+markets. These private markets are rife with scams and frauds 
+because of their lack of transparency. These frauds or, rather, 
+their consequences, typically affect not only the harmed 
+investors but also the hardworking Americans who hear about 
+events like the FTX collapse and begin to question the wisdom 
+of participating in our markets.
+    As we heed these lessons learned, we need to refine the 
+securities regulatory framework so that it better balances the 
+needs of entrepreneurs and retail investors. I expect that we 
+all agree that entrepreneurs are not automatically entitled to 
+the hard-earned money of Americans. I expect that we also agree 
+that retail investors are entitled to disclosure. In turn, we 
+should all work together to refresh the regulatory framework in 
+ways that better reflect these principles.
+    In closing, I want to emphasize that we understand and 
+share the same goals as the Members of Congress who support 
+robust public markets. State securities regulators want to 
+continue helping entrepreneurs and small businesses. We also 
+want to increase opportunities for investors and strengthen 
+public markets. I look forward to answering your questions 
+today. Thank you very much.
+    [The prepared statement of Commissioner Lubin can be found 
+on page 47 of the appendix.]
+    Chairwoman Wagner. Thank you, Commissioner Lubin.
+    We will now turn to Member questions, and the Chair 
+recognizes herself for 5 minutes.
+    Mr. Trotter, last year, the U.S. IPO market reached one of 
+its lowest points on record. In fact, the U.S. has recently 
+recorded several of its worst years on record for IPOs, as the 
+cost to go public has more than doubled since the 1990s. In 
+addition, regulatory burdens on public companies, along with 
+the ongoing compliance costs for publicly-traded companies, are 
+likely to continue to rise, especially if the SEC continues to 
+finalize burdensome rules, such as the climate rule.
+    Mr. Trotter, as a leading member of the IPO Task Force and 
+principal author of the IPO-related provisions of the JOBS Act, 
+please explain how the policies in our capital formation 
+package will help make our public markets more attractive?
+    Mr. Trotter. They will build on the success of the JOBS 
+Act. They have all of the four ingredients that I outlined in 
+my opening remarks. And it is critical to help for purposes of 
+fostering IPO activity and making it easier to go public and 
+encouraging job creation, to streamline the IPO process, and to 
+continue to build on the success of past legislative reform. We 
+have seen that it helps a lot. You can put together a 
+collection of small changes that have a big impact in 
+combination. And you can approach the streamlining process 
+using scaled disclosure, a balanced approach that cuts through 
+the debate of more versus less, and you can do all that and 
+make a meaningful impact in fostering IPO activity. So, we need 
+more of that. We have had over a decade, 11 years of successful 
+experience. It is time to build on that and do more.
+    Chairwoman Wagner. Yes. And as you know, Mr. Trotter, SEC 
+rules allow all issuers to test the waters with qualified 
+institutional buyers and institutional accredited investors, 
+either prior to or following the filing of a registration 
+statement, to gauge potential interest in a contemplated 
+registered security offering. Prior to the IPO, SEC staff 
+reviews test-the-water materials to make sure that the 
+information is consistent with the information presented in the 
+company's registration statement.
+    Would requiring issuers to include test-the-waters 
+materials, such as slide decks, in their S-1 registration 
+statement be unnecessary and potentially harmful to both 
+investors and issuers?
+    Mr. Trotter. It would be not only unnecessary, but a 
+terrible step backward, and let me explain why. Testing the 
+waters was implemented through Section 5(d) and its power is in 
+its simplicity. It cuts through a problem, a communications 
+restriction that made sense in 1933 but makes no sense in 2023, 
+and that is, you need to be able to communicate with 
+prospective investors about your potential IPO. And the 
+investor protection that is included in 5(d), which implemented 
+testing the waters is based on the audience, so communicate 
+away, as long as you are speaking with institutional accredited 
+investors and qualified institutional buyers. And Section 
+163(b) recognized the success of that and expanded it to all 
+issuers. If you destroy the simplicity of that by loading it up 
+with additional requirements, again, it is just going to be a 
+step back.
+    Chairwoman Wagner. My bill in our capital formation 
+package, the Encouraging Public Offerings Act, aims to simply 
+codify the current SEC rules allowing issuers to test the 
+waters prior to an IPO.
+    Mr. Trotter, would requiring these testing-the-waters 
+materials to be filed as part of a company's registration 
+statement represent a significant step backwards, even if done 
+in conjunction with codifying the current rules. Yes or no?
+    Mr. Trotter. Yes.
+    Chairwoman Wagner. Thank you. Mr. Ward, millions of 
+investors rely on closed-end funds as an important source of 
+retirement savings and for investment opportunities. However, 
+the SEC's 15-percent limitation on a closed-end funds 
+investment in the private markets effectively denies retail 
+investors access to the private markets. Given that closed-end 
+funds are strictly regulated and professionally managed, do you 
+think it is appropriate to limit their investment in the 
+private market and exclude so many Americans from potential 
+high-growth opportunities?
+    Mr. Ward. I think the closed-end funds are a very 
+responsible way to give retail investors exposure to private 
+assets. There is a lot of portfolio theory and modern financial 
+theory on how much you should diversify a fund and investments 
+across different asset classes. I think that should be the 
+North Star of how the individual fund managers decide how much 
+to allocate into illiquid or private market assets on behalf of 
+their investors. As part of their fiduciary responsibility, it 
+doesn't make sense to me that it would be a regulatory number 
+that decides how to diversify a portfolio.
+    Chairwoman Wagner. Thank you. I am out of time, but I have 
+so many more questions.
+    I now recognize the distinguished ranking member of the 
+subcommittee, Mr. Sherman, for 5 minutes for questioning.
+    Mr. Sherman. It is frustrating to see people get rich when 
+they invest in just one thing, and you wish it had been you. 
+But keep in mind, I would like to think I would have invested 
+in Apple, but I might have invested in pear or in banana or in 
+kumquat and lost all my money. Wages are too low, most 
+Americans are living close to paycheck to paycheck, and, 
+frankly, people shouldn't be investing in private offerings 
+until they have several months of living expenses in the bank.
+    That being said, a system in which to be an accredited 
+investor means you are a millionaire, in other words, if you 
+are not a millionaire, you can't invest, is hard to defend, and 
+I would not try. But keep in mind, the professionals who do 
+this, the venture capitalists say you are going to lose money 
+on 9 out of every 10 investments and make it all back hopefully 
+on the 10th. If you can't afford to lose money 9 out of 10 
+times, this may not be the market for you.
+    If you are trying to raise money to run your business, you 
+have a tendency to look at each element of investor protection 
+as a barrier to you doing what you need to do for your 
+business, but ultimately, if you don't have investor protection 
+in the economy, you don't have investors. Investor protection 
+is not the antithesis of capital formation; it is a necessary 
+antecedent.
+    Mr. Trotter, you have a good point when you say that we 
+ought to pass laws that become effective immediately. I think 
+we should do that, but then we should give the SEC the right to 
+make modifications by regulation. The chairwoman pointed out 
+that a statistic that it now costs twice as much to go public 
+as it did in the 1990s. But tomatoes are 5 times as expensive 
+as they were in the 1990s. I don't know if that number is 
+inflation-adjusted. I do know that the biggest cost in going 
+public is what you give the underwriter for selling the 
+investment rather than the governmental costs.
+    Does anybody know, on an inflation-adjusted basis, if the 
+cost to prepare, not the underwriters fee, but the cost to 
+prepare the going public document, has more than doubled or has 
+even gone up at all? I am looking for a witness to raise their 
+hand. I don't see one, so I will invite you all to respond for 
+the record, and go on to another question.
+    At least the way Congress wrote the law, once a company has 
+2,000 beneficial owners, it is a public company, and yet we 
+have a circumstance where you can have hundreds of owners all 
+use the same street name. I am at Merrill Lynch. Merrill Lynch 
+may have 500 of us who have invested in one company. It is 
+listed as just one. That is kind of an absurd definition of 
+private company that has 5,000 or 10,000 different beneficial 
+owners. Now, when I say, ``beneficial owner,'' I mean the 
+entity. For example, in Mr. Smith's estate, he may have eight 
+children. I am counting Mr. Smith's estate as one beneficial 
+owner even though there are eight descendants who benefit.
+    Ms. Lubin, does it make any sense to count each street name 
+as just one beneficial owner? Can we, as a practical matter, 
+make sure that in street name-listed securities ownership, we 
+identify how many beneficial owners there are?
+    Ms. Lubin. Thank you for that question. I think you are 
+exactly right. I think it is antithetical to the idea that 
+there is one public company, but then if you just count the 
+broker-dealer that lists the name, you can have thousands and 
+thousands of shareholders underneath that, and you are only 
+counting them as one shareholder.
+    Mr. Sherman. I would point out that the SEC hasn't done its 
+job in defining it, and even worse, some of my colleagues want 
+to lock in and prohibit the SEC from changing how it counts.
+    Ms. Lubin, does it make any sense to say you are an 
+accredited investor just because you have a million-dollar net 
+worth, and that if you don't have a million-dollar net worth, 
+you are not accredited? And when I say, ``million-dollar net 
+worth,'' or, ``a quarter-million-dollar income,'' then I know 
+there are some adjustments.
+    Ms. Lubin. Thank you for that. The accredited investor 
+definition is complicated, and it is being looked at by the 
+SEC, and there are a lot of different standards. I think there 
+are a lot of proposals on the table to take a look at it, the 
+net worth, the income level, could an independent adviser help 
+someone who has no conflicts or their possible--
+    Mr. Sherman. My time has expired. I will ask you to respond 
+at greater length for the record.
+    Ms. Lubin. Okay. Thank you. We would be happy to do that.
+    Chairwoman Wagner. The Chair now recognizes the Chair of 
+the full Financial Services Committee, the gentleman from North 
+Carolina, Chairman McHenry, for 5 minutes.
+    Chairman McHenry. I want to thank the Chair for yielding, 
+and I want to thank the panel for being here. You have all 
+testified before in different environments. Mr. Trotter, thank 
+you for your work on the original JOBS Act, in particular. And 
+thank you all for your help in reviewing the legislation that 
+has been put forward before this committee, some bipartisan, 
+most bipartisan, and some that don't have full bipartisan 
+support, but I am grateful for that.
+    I want to continue the theme that the ranking member had 
+with you, Mr. Sampson, about accredited investors. Right now, 
+we have income thresholds of net worth of over a million 
+dollars and very high-income threshold for folks to be 
+considered an accredited investor. My question for you is, do 
+you think that unfairly represents or fairly represents 
+people's capacity to invest, and what are the economic impacts 
+of that accredited investor standard and the limitations 
+thereof?
+    Mr. Sampson. Thank you for the question. Just because 
+someone has the ability to generate a million dollars, perhaps 
+as an entertainer, as a professional football player, or even a 
+professional, does not mean they have the sophistication to 
+look at this asset class, and it does not mean they have the 
+sophistication to make a decision on understanding the risk 
+outside of them, perhaps being able to afford the risk. When 
+you look at the lack of capital contextually that has gone to 
+Black founders in an asset class, that is maybe 50- to 60-
+years-old, but if you look at the last 20 years or so, less 
+than 1 percent going to Black founders in particular, the 
+current framework is not working for all Americans.
+    I know the devil may be in the details and there may be 
+some nuances to kind of reach bipartisanship, but we have to do 
+something. And I don't see a lot of legislation stopping folks 
+from buying Yeezys, or flying to Vegas and purchasing non-
+appreciating assets. Yet, if I want to invest in my fraternity 
+brother, my classmate that I know, and I have some knowledge on 
+the particular industry of this particular offering, I think 
+there should be an opportunity to invest.
+    Think about the professionals who come into entry-level 
+careers, or even the gig workers or the suppliers who are 
+contractors to those respective companies. They work for 5, 10, 
+15, 20, or 30 years and they leave with a fake gold watch, 
+never having been given the opportunity to actually invest 
+$100, $500, or $1,000. Maybe, there is a small equity package 
+that they are given, but the multi-generational wealth creation 
+is happening amongst the founders in the C-suite.
+    So, if you really talk about democratizing access to wealth 
+creation in the fourth industrial revolution, amending the 
+definition to include people who may have been certified by 
+some type of FINRA tests or some type of institutional test is 
+incredibly important, or who have domain expertise in a 
+respective supply chain industry and/or problem.
+    Chairman McHenry. Austin, Boston, and Silicon Valley still 
+have a disproportionate share of venture capital investment in 
+this country. We have diverse founders who are being left 
+behind, not because of any other reason than the statistics 
+that are evident that we know this to be true. And this cannot 
+simply be true that if you are born in the right ZIP Code in 
+America, you have better ideas than if you are born in the 
+wrong ZIP Code. That doesn't make a bit of sense. So, 
+everything we can do to make sure that we link capital with the 
+best ideas in our economy is going to be a useful thing. We can 
+protect consumers absolutely, and we should. We should protect 
+investors, but we should also give them the economic 
+opportunity for the upside benefit as well. So, Mr. Sampson, 
+thank you for speaking to that.
+    Madam Chairwoman, I yield back. Thank you.
+    Chairwoman Wagner. The gentleman from California, Mr. 
+Vargas, is now recognized for 5 minutes.
+    Mr. Vargas. Thank you very much, Madam Chairwoman, and 
+Ranking Member Sherman. Again, I appreciate the opportunity.
+    Now, this is a little odd for me, because normally the way 
+it works is when the Democrats are in charge is we have the 
+first four witnesses who testify basically saying what we 
+believe, and then you have the Republican at the end basically 
+saying what they believe. But since the Republicans are in 
+charge now, normally you would have the first four basically 
+stating the facts as the Republicans would believe, and then we 
+would have the Democrats at the end basically saying what we 
+believe. However, I found very little to disagree with in what 
+was said, with most of what everybody said. There were some 
+discrepancies, and I do want to probe them a little bit.
+    And I would state at the outset that I do believe in 
+disclosures, and I especially believe that ESG disclosures are 
+material. I do like, again, where this is going on that. I will 
+set that aside because that is one thing we just like to fight 
+about here.
+    But, Mr. Trotter, you said some things that were very 
+interesting. First, you said that you have these basic four 
+facts or four issues that are important. And second, you 
+mentioned a balanced approach to scale regulatory burden to the 
+size of the company. I think that is what you said. I don't 
+want to put words in your mouth.
+    Mr. Trotter. That is correct. I did say that.
+    Mr. Vargas. Okay. And I think that what Commissioner Lubin 
+said is, well, this has kind of taken us down a deregulatory 
+path where we shouldn't go.
+    Ms. Lubin. I did say that.
+    Mr. Vargas. But there seems to be some logic in what Mr. 
+Trotter said. It would seem to me that as the company is small, 
+you wouldn't have to necessarily load it up with all of the 
+burdens that you would want to load up on a larger company. For 
+example, we do that with the banks. Obviously, if a bank is 
+significant and it is going to have systemic issues, we want to 
+do stress tests that are very important to make sure that we 
+don't have massive failures. But if it is a community bank, we 
+don't require all of that. We allow them to exist, but we don't 
+require all of those regulations. There seems to be some logic 
+to that. What do you think?
+    Ms. Lubin. There are a lot of issues that we are trying to 
+tackle and a lot of these issues become conflated. We have very 
+small businesses on the one hand that we are trying to take 
+care of, the mom and pops, the pizza shops, the beauty salons, 
+and things like that, and those are very small businesses that 
+are taken care of very adequately under provisions that we all 
+have in our statutes. And there are some bills here that we 
+don't like, that are going to give them--
+    Mr. Vargas. Right, but let's move forward. It is the ones 
+that are ready to go up to the IPO.
+    Ms. Lubin. Right. There are some really big businesses 
+right now, really large companies that are sitting in a space 
+where they don't have to go public because they are so 
+comfortable in the private market, when they really ought to be 
+public companies. And they are the companies that everybody is 
+lamenting, we have enough IPOs, we don't have big companies, 
+and there isn't disclosure in the market. There isn't the 
+information.
+    Mr. Vargas. Right.
+    Ms. Lubin. There aren't rules about the auditors. There 
+aren't rules about third party--
+    Mr. Vargas. I am going to interrupt you just for a second 
+because I think you are taking this in a different direction 
+than what I was asking. I am talking about companies that want 
+to go to the IPO and want to be in the public side. That is 
+what I am asking about. Obviously, there are large private 
+companies that I think would benefit from going IPO, but they 
+don't because they are comfortable because they have the 
+backing that they need.
+    Mr. Trotter, why don't you comment on this? It seems to me 
+that it would make some sense for the smaller companies that 
+want to go into this IPO.
+    Mr. Trotter. Absolutely, and I will start with a comment 
+that I have heard Ranking Member Sherman make in the past, 
+which is, ``You can't give 404(b) relief.'' You can't give 
+relief from the Sarbanes-Oxley internal controls audit 
+requirement because then you are going to have more WorldComs 
+and Enrons. WorldCom and Enron were mega cap companies. 
+WorldCom had $30 billion in revenue. Enron had reported $100 
+billion in revenue--$10 billion in revenue 4 years before it 
+melted down, right? So, they would never have qualified as an 
+emerging growth company. And this is exactly the point.
+    If you had a time machine, and the JOBS Act existed 
+previously, and Sarbanes-Oxley existed previously, they would 
+have been mega cap companies. They would have had to comply 
+with the full panoply of regulation exactly as you are 
+describing, and a startup that is trying to enter a public 
+company status gets relief. And it is based on an original SEC 
+rule that says, when you initially go public, even if you are a 
+mega cap on day one, you have until your second annual report 
+before you have to comply with 404(b), even for the largest 
+company. So, the idea of the IPO On-Ramp was, let's extend 
+that. We did it for 5 years. It is time to extend it more.
+    Mr. Vargas. My time is up, and I apologize because I had 
+more questions with that. I thank you, and I yield back.
+    Chairwoman Wagner. I appreciate it. The gentleman from 
+Michigan, Mr. Huizenga, who is also the Chair of our 
+Subcommittee on Oversight and Investigations, is now recognized 
+for 5 minutes.
+    Mr. Huizenga. Thank you, Madam Chairwoman, and at the risk 
+of appearing like I am picking a fight, which I am not trying 
+to do, I can't let stand exactly what my friend from California 
+seemed to be creating the image of, because I can tell you that 
+back in February, we had a similar hearing on wealth creation 
+and opportunity that specifically plumbed the depths of 
+qualified investors. And a friend of mine, David Olivencia, who 
+runs Angeles Investors, testified, along with Eli Velasquez, 
+the founder and managing partner of Investors of Color, and a 
+woman from Washington, D.C., named Omi Bell, who runs Black 
+Girl Ventures. And we also had a Duke Law University professor, 
+who literally, after they went through the opportunities that 
+they could have had and how they had been stymied, sat at the 
+end of that panel saying, in fact, these people shouldn't be 
+able to invest. And I have to tell you, way too often, we have 
+seen regulators, academics, and, yes, politicians who have 
+said, no need to apply because you are not wealthy enough, and 
+we don't think you are sophisticated enough.
+    And Mr. Sampson, I know you have been here, and Mr. 
+Trotter, Mr. Ward, and Mr. Brooks, I am going to ask you this 
+question in the same good-natured way that I asked my friend, 
+David Olivencia, and I hope you take it the same way he did. 
+Are you a sucker, are you a dupe, because I can tell, based on 
+your Twitter account, you are not. I looked you up. I retweeted 
+you, by the way, because I know you are very excited about 
+this, and hopefully, my 30,000 followers will be able to 
+comingle with your 30,000 followers and vice versa. But I can 
+tell you it is frustrating to me. It is frustrating to me when 
+we have people saying, you know what, we are just not sure. We 
+don't think you can really handle this.
+    Mr. Ward, in your testimony, you said, ``Investors often 
+turn to their local communities for support to get their ideas 
+off the ground.'' And that is interesting, because in a 
+subcommittee hearing, that February hearing that we had, I 
+noted that of the 50-plus proposals from the Securities and 
+Exchange Commission Chair on his regulatory agenda, none, zero 
+of his proposals focused on supporting capital formation, none 
+of them, let alone updating the definition of, ``accredited 
+investors.'' And we are just having a chat up here, and there 
+are rumors out there that they may even go in the opposite 
+direction.
+    So, I actually introduced the Accredited Investor 
+Definition Review Act, which, among other things, would require 
+the SEC to review the list of certifications, designations, and 
+credentials for individuals to qualify as an accredited 
+investor.
+    Mr. Ward, quickly, what is your definition of a, 
+``sophisticated investor?''
+    Mr. Ward. I look at a sophisticated investor as someone who 
+has unique expertise or knowledge in the area in which they are 
+investing.
+    Mr. Huizenga. Okay. Mr. Sampson, do you believe that the 
+SEC has overstepped their authority by basically telling 
+investors what and where they can invest?
+    Mr. Sampson. I don't know if I would go as far to say they 
+have overstepped it. I think there is definitely--
+    Mr. Huizenga. Have they fostered that?
+    Mr. Sampson. I think about some of the titles--Title VII of 
+the JOBS Act actually created a diversity, equity, and 
+inclusion officer, and some of the outreach they have done to 
+underrepresented communities. I think they definitely tried. I 
+have worked closely with the SEC throughout my tenure. I did 
+want to say something really quickly to the gentleman, and I 
+have jokingly said this to Congressman McHenry over the years--
+we haven't agreed upon much politically, but I have been voting 
+since 1991, since I was an undergraduate in New Orleans at 
+Tulane University, and David Duke was running. We registered to 
+vote so that David Duke wouldn't become governor, and I have 
+voted Democrat all of my voting career. But when it comes to 
+capital formation from the JOBS Act, to redefining the 
+definition of an, ``accredited investor,'' and some of the 
+other regulatory frameworks, I have agreed with the GOP on that 
+in specific.
+    Mr. Huizenga. To be honest, I am not concerned about 
+whether you are a Republican, a Democrat, or an independent, or 
+whether you are Black, White, or green. It doesn't really 
+matter. It is about opportunity, freedom, and liberty, and way 
+too often, you are seeing government get in the way of that, 
+and I will finish with that. We don't want to see these rules 
+hurt private companies seeking capital. My time is up, and I 
+blew up my whole plan on what I was going to do, but I just 
+felt that I couldn't let that stand.
+    I want to say thank you all for what you are doing, what 
+you are fighting for, and what you are standing for, because 
+you are exactly the voices and the faces that we need to see, 
+that the American people need to see, and that, frankly, Chair 
+Gensler needs to see to make sure that we are going in the 
+right direction. I yield back. Thank you.
+    Chairwoman Wagner. And let the record reflect that Mr. 
+Brooks was also applauding and giving a thumbs up.
+    The gentleman from Missouri, Mr. Cleaver, is now recognized 
+for 5 minutes.
+    Mr. Cleaver. Thank you, Madam Chairwoman. Commissioner, I 
+am curious about the type of population that the accredited 
+investor definition intended to capture. What group are we 
+trying to capture? What segment of our population is the 
+accredited investor definition intended to seduce?
+    Ms. Lubin. Thank you for the question. Originally, when Reg 
+D was set up back in the early 1980s, less than 2 percent of 
+the population qualified to be accredited investors. And the 
+theory behind it was that investors who would be in a position 
+to protect themselves, who had the wherewithal to lose the 
+money if they were going to lose that investment money, would 
+be putting their money into these private deals.
+    Now, because the numbers have not been adjusted for 
+inflation, the only real change to it that had a meaning over 
+the past 40 years was to take the primary residence out of that 
+calculation. It now covers 13 percent of the population. And 
+some of these proposals will expand it well beyond that to a 
+group when you think that a significant number of Americans 
+only have $65,000 in their savings account, and that is all 
+they have. It will expose significant money to the riskiest 
+investments in the market.
+    So, I understand that people should have freedom, but you 
+don't get the phone calls I get on a regular basis. You don't 
+see the arbitrations I see filed. You don't get the complaints 
+we see where people are losing their money all the time. And 
+this is their life savings that they are losing, people who do 
+not have the ability to go in and re-earn the money that they 
+have earned because they lose them in these kinds of 
+investments. There are private deals. There is no backup. There 
+is nobody else. There is no way for them to get their money 
+back and replenish it, and the money is gone. The deals are 
+gone, and they can't get it back. And the more these standards 
+are liberalized, the more people are going to lose their money 
+and not have the ability to get the money back.
+    The problem with these deals is the more investors who get 
+into them, they will not have any transparency. There is not 
+going to be information. There is not going to be the ability 
+to have a line of sight into the deals and see what the 
+financials are, what the background is, what is really going on 
+inside those businesses and have the ability. There are 
+wonderful entrepreneurs. I saw the prior hearings. But there 
+are also a lot of people out there who are interested in taking 
+advantage of these investors.
+    Mr. Cleaver. I want to follow up. Do you believe that the 
+existing thresholds are accomplishing that?
+    Ms. Lubin. Over all my years in the Securities Division, I 
+think the existing thresholds at this point need to be 
+adjusted. I think things like pulling out savings accounts, and 
+adjusting the numbers up to reflect inflation is important. I 
+think if you look at a lot of the bills that were noticed for 
+this hearing, they were adjusting the numbers up for thresholds 
+for the businesses, and giving them more leeway.
+    Some of the billion-dollar businesses are being adjusted 
+for inflation, so they continue to qualify for a lot of the 
+standards and will continue to qualify. I think we should give 
+the investors the same leeway and let their standards give them 
+the protections they will get by adjusting their numbers, the 
+same way we are giving the businesses the benefit of being able 
+to be bigger and still qualify for some of the breaks that they 
+get.
+    Mr. Cleaver. So, you believe that lowering these standards 
+will somehow accomplish the objective?
+    Ms. Lubin. No. I think, actually, that we need to raise the 
+standards for accredited investors so that they continue to 
+have the protections that were originally intended. I think 
+there are other things that we can do to maybe free up some of 
+the requirements.
+    Mr. Cleaver. My time is running out. Do you have any ideas 
+on what we could do instead of lowering the threshold?
+    Ms. Lubin. There are some other things that the SEC is 
+considering, that I think we can talk about, and we would be 
+happy to provide some additional information for you.
+    Mr. Cleaver. Okay. Thank you.
+    And thank you, Madam Chairwoman.
+    Chairwoman Wagner. The gentleman from Wisconsin, Mr. Steil, 
+is now recognized for 5 minutes.
+    Mr. Steil. Thank you, Madam Chairwoman.
+    Mr. Trotter, you are one of the creators of the IPO On-Ramp 
+in Title I of the JOBS Act. And as Commissioner, a few of them 
+noted last month, Title I is the most successful title in the 
+JOBS Act, and significantly increases IPO volume overall. I 
+have a handful of questions here, so if you can please be 
+concise, why should policymakers be interested in increasing 
+the volume of IPOs?
+    Mr. Trotter. Because it is directly linked to job creation. 
+Over 90 percent of a company's job growth when it goes public 
+occurs after the IPO.
+    Mr. Steil. Job creation in the United States of America. 
+Title I created the emerging growth company construct, giving 
+new and growing companies balanced regulation that scales over 
+time. How should we quantify the cost savings that come with 
+scaled emerging growth company (EGC) disclosures?
+    Mr. Trotter. They are readily apparent to anybody who lives 
+in the IPO ecosystem. I hear a lot of criticism from academia, 
+and I hear criticism from lawyers who have never done an IPO, 
+but for any IPO practitioner, it is readily apparent and makes 
+a big difference. You don't have to present a third year of 
+financial statements; you can go public with two. That is a 
+meaningful cost savings. You are not subject to Sarbanes-Oxley 
+404(b), which is a huge cost savings, at least a million 
+dollars a year.
+    Mr. Steil. So, significant cost savings--you reference that 
+people do have criticisms of this, claiming that it will put 
+investors at risk and all sorts of claims that we see out 
+there. How do you respond to those criticisms?
+    Mr. Trotter. That is my point number three in my opening 
+remarks. Every public company, including every EGC, including 
+any company after all of the things that are being proposed 
+right now, is subject to immense liability and compliance 
+obligations. None of that changes. That is why the doom and 
+gloom is wrong because all of the liability remains intact.
+    Mr. Steil. I agree. I think a lot of regulatory things are 
+still intact. EGC is a great on-ramp for companies to create 
+jobs here in the United States of America. Would you agree that 
+existing qualification thresholds for EGC status should be 
+revisited? Yes or no?
+    Mr. Trotter. Absolutely, yes.
+    Mr. Steil. I have a bill that addresses this. It would 
+raise the EGC threshold so more companies can continue to 
+benefit from the IPO On-Ramp that you helped build. How would 
+this impact startups overall in the United States if we 
+revisited that threshold?
+    Mr. Trotter. Your bill would be a game changer. I highly 
+recommend it.
+    Mr. Steil. Thank you. Let me shift gears with you. I am 
+going to stay with you though, if I can, Mr. Trotter. I have 
+another bill regarding the Well-Known Seasoned Issuer (WKSI) 
+status. Can you explain really quickly the WKSI status, and, in 
+particular, the proposal to lower the public float threshold 
+from $700 million to $75 million, that minimum companies would 
+qualify for use of short-form registration. Would you support 
+lowering the threshold from $700 million to $75 million?
+    Mr. Trotter. Yes, I do.
+    Mr. Steil. And why do you believe we should lower it to $75 
+million, or maybe you have a different number? Mine is $75 
+million. What would you do?
+    Mr. Trotter. No, I applaud your number. The SEC said that 
+is the number, that is the amount of float that gives you 
+analyst following, and that was the basis of the Well-Known 
+Seasoned Issuer definition. When the SEC proposed it in 2004, 
+they actually proposed $300 million as a possibility, back when 
+it was still an experiment. Now, we have almost 20 years of 
+experience. It works. It is time.
+    Mr. Steil. Then, the follow-up question would be, some 
+people would say, oh no, it might not be safe, it might not be 
+this, or it might not be that. If you look at WSKI over the 
+time that it has been available, has it proven to be safe and 
+effective over the last 2 decades since its introduction?
+    Mr. Trotter. Absolutely. It is a resounding success. All 
+companies are required under Sarbanes-Oxley to be reviewed by 
+the SEC at least on a 3-year basis, so all of the companies are 
+having their filings reviewed.
+    Mr. Steil. Is it safe to say that your view is we could go 
+back, review, and analyze these constructs inability to a lot 
+more companies to become public companies here in the United 
+States. We have a sufficient and substantive regulatory 
+framework to provide protection for investors. And if we take 
+advantage of that opportunity, it will actually help to create 
+jobs here in the United States of America?
+    Mr. Trotter. Yes, 100 percent. Well said.
+    Mr. Steil. Thank you very much. I appreciate you being 
+here. And I appreciate all of our witnesses. Thank you, Madam 
+Chairwoman. I yield back.
+    Chairwoman Wagner. The gentleman from North Carolina, Mr. 
+Nickel, is now recognized for 5 minutes.
+    Mr. Nickel. Thank you so much, Chairwoman Wagner. I am very 
+glad you are holding today's hearing on capital formation, as I 
+share your goal of improving our markets and increasing access 
+to capital for small businesses. One of my main priorities in 
+Congress is ensuring equity and access to capital. According to 
+recent studies, 6 in 10 Black entrepreneurs faced challenges in 
+obtaining capital. When women and minorities can access capital 
+for their small businesses, our entire economy benefits from 
+it.
+    Commissioner Lubin, what should Congress do to improve 
+minority access to capital through our public markets?
+    Ms. Lubin. Thank you for the question. I think there are a 
+lot of things going on. I have listened to the prior hearings, 
+and I think one of the things that I have heard a lot of 
+venture capitalists and a lot of entrepreneurs say is that one 
+of the things that happens is that the venture capitalists and 
+the entrepreneurs aren't seeing each other. I have heard a lot 
+of discussions about what goes under the coast; you have to be 
+in the right cities.
+    And I think one of the things that we all could do together 
+is to do a better job of introducing people and getting them 
+together, and one of the things that we were asked is, what 
+could we do as securities regulators? I think expanding some of 
+the projects we have of getting people to meet and to network 
+and going into some of the programs and trying to set things 
+up, like having clinics where we have pro bono attorneys 
+meeting up with entrepreneurs and getting some venture 
+capitalists involved in it and having people meet each other, 
+because what I have been told and what we have seen is that 
+good businesses get funded, and people just need to meet each 
+other.
+    So, I think if we can facilitate that and get people 
+meeting each other and talking to us some more, because they 
+talked to us about, how do we get into compliance, so we can 
+help them avoid some pitfalls. For example, we have some small 
+business programs in Maryland where we say, look, you are 
+probably in the position where you want to take on shareholders 
+right now, because there are a lot of things small businesses 
+don't understand about that, but maybe you want to take on some 
+debt and do debt offerings. So, there is a lot that we do to 
+help businesses develop things and do those kinds of programs.
+    Mr. Nickel. Thank you. I applaud the efforts to enhance 
+capital formation and remove roadblocks to ensure that 
+entrepreneurs can access the resources they need to be 
+successful. But at the same time, we need to ensure that new 
+investors are adequately protected. Underrepresented 
+entrepreneurs often struggle to find capital, and they would 
+benefit from a larger pool of more-diverse investors who look 
+like them.
+    Some of my colleagues on the other side of the aisle 
+proposed changing the requirements to qualify as an accredited 
+investor. One example would be to include individuals who pass 
+an exam established and administered by the Securities and 
+Exchange Commission (SEC) or the Financial Industry Regulatory 
+Authority (FINRA).
+    Mr. Sampson, you discussed in your testimony wanting to 
+grow the pool of Black investors in this ecosystem. Would this 
+proposal to allow people to become an accredited investor after 
+taking an exam do that?
+    Mr. Sampson. It absolutely will. We created a Black 
+Technology Ecosystem Investors Certificate Program during my 
+visiting professorship at Kenan-Flagler at the University of 
+North Carolina, in collaboration with Duke and Stanford, and 
+The Links, Incorporated was a national organization of many 
+affluent and wealthy Black women in this country. We graduated 
+50 people in that program, who now understand the asset class, 
+know how to identify deal flow, and know how to invest in 
+venture funds and startups. We need to do that at the level of 
+the thousands. Why? Because it is not that founders are not 
+meeting investors. They are getting in the rooms and they are 
+still getting told, no.
+    So, the meetups are not working, the conferences are not 
+working, and we have to develop a new investor class who is 
+educated to actually make investments in respective companies. 
+And I think we will see traction with increasing that less than 
+one percent and getting it to more equitably around 13 to 20 
+percent.
+    Mr. Nickel. Thank you, Mr. Sampson. You have identified 
+some outstanding research universities there.
+    Mr. Ward, what are your recommendations to ensure that such 
+a test is as robust as possible?
+    Mr. Ward. If you want to do a knowledge-based testing into 
+accreditation, I think the fastest path is through FINRA, where 
+they already have a series of exams that test financial 
+literacy. I think that is the first step. I think if you want 
+to extend that, there is accreditation into different sectors. 
+For example, a doctor might not pass the financial test but may 
+pass a sector-specific test. But I think the fastest path would 
+be through the FINRA registration exams that already exist.
+    Mr. Nickel. Thank you so much to all of the witnesses for 
+joining us. Madam Chairwoman, I yield back.
+    Chairwoman Wagner. The gentleman from New York, Mr. 
+Garbarino, is now recognized for 5 minutes.
+    Mr. Garbarino. Thank you, Madam Chairwoman, and thank you 
+for holding this hearing. We have some great witnesses today. I 
+want to touch on something I know that Chairwoman Wagner and 
+Chairman McHenry both spoke about. I got this text from a buddy 
+of mine a couple of weeks ago, and he said, ``Are you guys 
+doing anything about that B.S. accredited investor rule? I am 
+shut out of investing in my 5,000-employee major company with a 
+1-to-1 investment match because I am not worth enough money 
+under the rule. I am allowed to invest in highly-risky penny 
+stocks and bitcoin, but not my own company. Such a dumb rule.''
+    Mr. Brooks, the current definition of, ``accredited 
+investor,'' limits private markets investments to those it 
+deems to be sophisticated. However, using wealth as the sole 
+indicator of sophistication excludes a significant amount of 
+potential investors who may possess other forms of knowledge 
+and expertise. Can you discuss your thoughts on expanding the 
+definition to include other criteria?
+    Mr. Brooks. Yes, that is asinine. It is simply asinine that 
+we are allowing this. One of the most open secrets in Silicon 
+Valley is these people just get money from their friends. One 
+of the fourth or fifth investors in Uber got a $25,000 friendly 
+check to invest in Uber and ended up making tens of millions 
+off of that, and is now one of the most well-known angel 
+investors in the world, who has written the handbook on angel 
+investing. But I couldn't get a loan from that firm. I didn't 
+have friends and family who could give me that, so it is an 
+asinine rule.
+    I guess if I were to step back for a second, when I started 
+my company, I was living out of a Jeep Patriot that didn't have 
+roll-up windows and didn't have locks in the car. That was 7 
+years ago. I am sitting here today because I don't want 
+entrepreneurs and founders to go through that same thing that I 
+had to go through. That struggle, the sacrifices that I have 
+had to make to sit here today is asinine. Those accredited 
+investor rules weren't in place. Maybe I could have asked, if I 
+even knew what venture capital was, and have gotten some better 
+things.
+    What the SEC wants to do is an overstep of their power. Who 
+am I to speak on that, Brandon Brooks with no college degree? 
+And I am not as fancy as everybody else here on this panel, but 
+you know what? I have put in the work, and so I think I have a 
+right to speak on this. What the SEC is doing and others who 
+want to heighten the accredited investor regulations is 
+asinine.
+    Mr. Garbarino. I appreciate that, and if you actually have 
+specific thoughts of what we should do, if you could respond in 
+writing, I would love it, because there is a lot. But I do want 
+to get to Mr. Ward, because I have a question about venture 
+facility and venture funding across the country.
+    Mr. Ward, first-time fund managers and regional emerging 
+managers drive capital beyond the traditional hubs. Can you 
+explain why these entities are a crucial part of venture 
+funding, and what role they play in the startup ecosystem 
+compared to larger funds located in the established venture 
+hubs?
+    Mr. Ward. In this country, we are very good at producing 
+accountants, lawyers, and doctors. We are not so good at 
+producing entrepreneurs. The best way we know how to do that is 
+to activate these emerging managers, these angel networks that 
+go out around the country and find entrepreneurial talent, 
+cultivate that talent, and help them grow both through advice 
+and through funding their companies. So, if we want to create 
+more entrepreneurs in this country, it starts with creating 
+more emerging managers and more angels that can go find these 
+entrepreneurs and develop them.
+    Mr. Garbarino. What is Washington's role in facilitating 
+increased capital access?
+    Mr. Ward. Anything Washington can do to lower the barriers 
+of entry for these angel networks and emerging managers so that 
+they can start aggregating capital to support these 
+entrepreneurs, I would applaud. As we bring more and more 
+angels into the heartland of America, you will start to see 
+these ecosystems pop up. We know that almost all startups start 
+with early seed funding from angels, not institutional capital. 
+And without those strong angel networks in regions, we can 
+never graduate those companies into institutional capital, and 
+eventually, public markets.
+    Mr. Garbarino. I appreciate that. And the investment into 
+other venture capital funds is currently classified as non-
+qualifying investments for the purposes of exemption from 
+registration under the Investment Advisers Act. If we were to 
+include fund to fund investments as qualifying investments, 
+would this help unlock capital that is otherwise competing for 
+late-stage allocations?
+    Mr. Ward. It would dramatically increase capital into these 
+sectors in part because there would be more capital going to 
+them. But these institutional investors use these investments 
+in emerging managers to create the deal flow that goes into 
+their larger investments, and that is how they find these 
+early-stage entrepreneurs.
+    Mr. Garbarino. Thank you very much. I am out of time, so I 
+yield back. Thank you, Madam Chairwoman.
+    Chairwoman Wagner. The gentleman from Illinois, Mr. Casten, 
+is now recognized for 5 minutes.
+    Mr. Casten. Thanks so much to our Chair. I want to start 
+just--I think you have probably seen up here that there is 
+bipartisan agreement that private markets are bigger than 
+public markets right now, and that there is a concern about 
+some risk of arbitrage and the opportunities that affords. I 
+think where there might be a difference of opinion is whether 
+that is necessarily a bad thing and what the causes are.
+    I wouldn't argue with someone who ran private equity-backed 
+companies. I didn't run private-equity backed companies because 
+it was a compliance issue. There was just a lot of money. And 
+40 years ago, if you were managing the Harvard endowment, you 
+were in T-bills, and all of a sudden, there was this huge surge 
+of institutional money that created opportunities to grow. And 
+I think it would be disingenuous to say that somehow, it is a 
+surfeit of investor protection rules that made private equity 
+markets grow. At the same time, the distinction between those 
+matters, because in one case, investor protection is done 
+through disclosures, and in the other case, investor protection 
+is done through these accreditation rules. And you can't lower 
+one without increasing the need for the other, and we have to 
+find some balance there.
+    Mr. Ward, you and I talked before and I appreciate your 
+time. I just want to make sure that I have some of the facts 
+right. Did I get right that you said that the private equity 
+markets are about 6 times as big as venture capital markets in 
+the United States?
+    Mr. Ward. That is what we think. Yes.
+    Mr. Casten. Okay. So when we are talking about private 
+markets, we are really talking about private equity right now.
+    Mr. Trotter, I have never seen the analysis, but if you 
+look at the ultimate owners of capital in private markets, not 
+the private equity funds, pension funds, endowments, sovereign 
+wealth funds, individuals, do you have any sense of what 
+portion of that money is institutional and what portion is 
+individual?
+    Mr. Trotter. I cannot say that I do have any sense of that. 
+There has been a lot studied in this area, that sort 
+retailization. I think Mr. Ward could speak to that.
+    Mr. Casten. I guess if I could make just a qualitative 
+observation, in my own experience raising money, there is a lot 
+of institutional money out there. There is a very small number 
+of sort of wealthy family offices--yes, there are some. But my 
+gut feeling, and I see heads nodding, is that mostly they 
+disagree that the bulk of the money in private markets right 
+now is institutional.
+    Mr. Ward. I think that would be fair, but I do think in the 
+last decade, we have seen the emergence of the family office 
+that competes through institutional capital.
+    Mr. Casten. Sure. Someone once told me that the least-
+sophisticated, and the way that you all are using the word, 
+``sophisticated,'' not the way that we define, 
+``sophisticated,'' the least-sophisticated people in the world 
+are pension fund managers. None of them trust themselves to 
+actually do an analysis of a deal. They entrust their money to 
+a venture capital fund, to a private equity fund, and say, I 
+want you to do the diligence to sit on the board to do the 
+governance to evaluate the deal and essentially outsource that 
+responsibility, right?
+    So, they are providing that investor protection and their 
+fiduciary obligation, not because they are sophisticated in the 
+Oxford English Dictionary sense, but because they are 
+sophisticated in the legal sense, and can afford to hire those 
+people to do it. I say that because when we frame this as, 
+shouldn't we let more individuals, I think we are missing the 
+point that the investor protections that are there right now 
+are to protect the institutional folks.
+    And I guess either Mr. Trotter or Mr. Ward, whomever wants 
+to answer this, how easy is it for someone who doesn't have the 
+ability to get the phone call from Tiger Global Management Fund 
+for, would you like to be an LP in my next raise, how easy is 
+it to look at a private equity deal and say, I know who is 
+conflicted up and down the capital stack, I know who has step-
+in rights in this deal, I know who has governance provisions? 
+How easy is it to find that out if you are not the size of a 
+CalPERS or a Harvard or Yale endowment?
+    Mr. Ward. I have a perspective on this, Congressman. I 
+think it is difficult. I think all financial markets are led by 
+institutional investors and followed by retail investors. That 
+is true in the public markets and that is true in the private 
+markets.
+    Mr. Casten. I am close to the end of my time, but 
+Commissioner Lubin, I would love to just give you the last word 
+here. If private markets are dominated by institutional people 
+who can afford to hire very sophisticated people to do their 
+analysis on the back end, and if we are to make it easier for 
+people who don't have that level of wealth to participate, who 
+is going to win?
+    Ms. Lubin. Investors, the retail investors who are on the 
+ground to protect are going to lose. They always do.
+    Mr. Casten. And is it safe to say that the bills noticed 
+for this hearing are primarily going to serve as a wealth 
+transfer from those small individual investors to the big 
+institutional players?
+    Ms. Lubin. To them, or to the scam artists.
+    Mr. Casten. Thank you. I yield back.
+    Chairwoman Wagner. The gentleman from Pennsylvania, Mr. 
+Meuser, is now recognized for 5 minutes.
+    Mr. Meuser. Thank you, Madam Chairwoman. And thank you very 
+much to our witnesses. I also thank the Chair of the Full 
+Committee, and you, Chairwoman Wagner, for these four hearings 
+on capital formation, as they are very important. These 
+hearings are showing us that our capital markets have been 
+clogged, and they could perhaps become more clogged with 
+government regulations. And we are here to figure out real 
+solutions that help all investors and all of our capital 
+formation, so our committee is doing what we can do to fix 
+these problems. We are here to talk about what we can get done, 
+and we appreciate the feedback being received.
+    Mr. Trotter, as you know, the sale of securities is 
+regulated both on the Federal and State levels. While there 
+have been efforts to provide greater clarity and uniformity 
+between Federal and State laws by providing exemptions from 
+certain State-level blue sky laws, Federal and State securities 
+regulation remains burdensome and, in fact, is considered a 
+patchwork system. Can you explain some of the challenges 
+companies face when forced to navigate the burdensome patchwork 
+system of State and Federal securities regulations?
+    Mr. Trotter. You summed it up nicely when you just 
+described the list, and that is, you are just getting started 
+there. So the compliance obligations, even after you chip away 
+when these small ways that are being proposed, are still 
+onerous, but what we are proposing or what we proposed with the 
+IPO Task Force is scale the regulation, and we have discussed 
+this already.
+    But it is not about more versus less regulation so much as 
+balancing the regulation so that it scales to the size of the 
+company that is regulated. If you are a mega cap, all of the 
+rules apply to you, and there are going to be more rules every 
+year as we go forward, right? If, however, you are a company 
+that is trying to enter the public company system, you should 
+be encouraged, not discouraged. And you can do that through 
+scale disclosure through the on-ramp type of concept. We have 
+11 years of successful experience with the JOBS Act and 
+emerging growth companies. We have almost 20 years of 
+successful experience with Well-Known Seasoned Issuers. Those 
+are both categories that should be expanded significantly.
+    Mr. Meuser. Thank you. Secondary market transactions take 
+place on exchange or off exchange. Some States have laws that 
+limit off exchange secondary trading and securities. Can you 
+explain how this approach interferes with capital formation 
+without promoting investor protections?
+    Mr. Trotter. I'm sorry. Can you--
+    Mr. Meuser. Let's move on. I want to get to some other 
+questions in regards to a bill, H.R. 2506, the Restoring the 
+Secondary Trading Market Act, which I am introducing, that will 
+prevent State laws from limiting off-exchange secondary trading 
+and securities of an issuer that makes current information 
+publicly available. And I would like to get the panel's 
+feedback on this bill.
+    Mr. Trotter. I would be happy to look at that and follow up 
+with you.
+    Mr. Meuser. Great. Thank you.
+    Mr. Trotter, staying with you, the House passed the JOBS 
+Act, as you well know, in 2012. At the time, the North American 
+Securities Administrators Association released a statement 
+saying that the JOBS Act sacrifices essential investor 
+protections without offering any prospects for meaningful 
+sustainable job growth. Were these predictions correct?
+    Mr. Trotter. They were 100-percent false.
+    Mr. Meuser. Right. So in your view, has there been 
+weakening investor protections or an increase in fraud since 
+the JOBS Act was passed?
+    Mr. Trotter. No, because the liability provisions of the 
+Federal securities laws remained unchanged from the JOBS Act, 
+as well as all of the provisions that you are looking at today.
+    Mr. Meuser. Okay. I appreciate that. Obviously, access to 
+capital is very vital.
+    Mr. Brooks, I am interested in you. You are making some 
+faces over there, and there are a lot of emotions and feelings 
+going on. Tell us some of your thoughts on the questions and 
+some of the answers from both sides of the aisle.
+    Mr. Brooks. Yes. I guess overall, I think it is really 
+interesting to see who has stayed, and who has left. Just from 
+my point of view sitting here, I think it is really interesting 
+hearing the questions and just who has put in the work to 
+understand the struggle of being a Black founder, to talk with 
+real Black founders, to talk with real women founders, and to 
+talk with real Latino founders, those who exist outside the 
+lines. I don't know a single one that I have talked with or 
+myself that would not agree with what we are trying to do here 
+today, expanding access to more people who look like me, and 
+unfortunately, many of the people who have left the room today.
+    Mr. Meuser. I look forward to keeping the conversation 
+going with you. I appreciate you being here, and I yield back, 
+Madam Chairwoman.
+    Chairwoman Wagner. He said the Latinos, too.
+    The gentleman from New York, Mr. Lawler, is now recognized 
+for 5 minutes.
+    Mr. Lawler. Thank you, Madam Chairwoman. Mr. Brooks, I 
+couldn't agree more with your comments. In 2020, the SEC 
+adopted amendments to Reg D to allow for certain demo day 
+communication to be exempt from being considered general 
+solicitation or general advertising. The amendment also 
+defined, ``angel investor group,'' for the purpose of Federal 
+securities laws. These changes were made to support startups 
+discussing their products and business plans, demo day events 
+without it being considered an investment offering. Given that 
+Reg D reform is on the SEC's Reg Flex agenda, and Democratic 
+Commissioners expressed their intention to chill private 
+offerings, how critical are these changes made in 2020 to 
+capital formation, and should Congress solidify these changes 
+by codifying them into law?
+    Mr. Brooks. Yes, absolutely. It is a no-brainer because it 
+makes it easier for people who exist outside the lines to get 
+it in front of people without getting expensive attorneys and 
+people involved. If you have $10 in your bank account, how are 
+you going to pay an attorney thousans of dollars just to prove 
+that you can present on demo day that you can raise money? It 
+is crazy.
+    Mr. Lawler. Right. Thank you.
+    Mr. Ward, as you know, Regulation A enables companies to 
+sell securities to the public with limited disclosure 
+requirements compared to public companies. Despite its 
+potential benefits, Regulation A still seems to be 
+underutilized. How would amendments to Regulation A help small 
+businesses raise capital?
+    Mr. Ward. I think Reg A, and I will also include Regulation 
+CF, are two great ways for companies to start their journey of 
+raising initial capital. The thing I worry about in Reg A and 
+Reg CF is creating two paths for companies, a Reg D path and a 
+Reg A path. I think it creates issues around adverse selection 
+bias and picking which path they should take. What I would be 
+supportive of is a way to merge Reg CF and Reg A with Reg D, so 
+that Reg CF/Reg A could be a way to jump-start companies to get 
+their local communities to raise their initial seed capital. 
+And then, they move on to Reg D status to start raising more 
+institutional capital over time.
+    Mr. Lawler. Would companies benefit from Regulation A if 
+Congress raised the offering cap?
+    Mr. Ward. I think companies may benefit from that. I think 
+it will benefit the larger, higher-scale companies, but I still 
+think there needs to be a path to Reg D. The amount of money 
+most companies need these days to get to an IPO far exceeds the 
+current Reg A limits.
+    Mr. Lawler. I appreciate that.
+    Mr. Ward, there is currently no suitable regulatory 
+framework for finders who, incidental to their primary 
+business, help match potential investors with private issuers 
+and receive payment for successful introductions. Today, 
+finders are treated as broker-dealers due to the mishmash of 
+SEC staff interpretations and no-action letters. Is this a 
+problematic framework for those seeking to make connections 
+between investors and private companies seeking capital?
+    Mr. Ward. I think so. Today, the way that finders work in 
+practice to circumvent the broker-dealer rule is they are 
+usually anointed as advisors and given equity in the company to 
+help the company. It is unclear if advisors will be a big part 
+of the ecosystem. I think we are still learning about what role 
+intermediaries have in the venture ecosystem and how to connect 
+founders to investors.
+    Mr. Lawler. Would exempting finders from broker-dealer 
+registration eliminate ambiguity about when companies can 
+engage finders who are not registered as broker-dealers, and 
+would this help facilitate small business capital formation?
+    Mr. Ward. Yes. I think much like when we liberalized 
+investment banking licenses to help founders sell their 
+companies, I think if we can exempt finders from broker-dealer 
+registration to seed an ecosystem of finders to help founders 
+find capital, I think that could catalyze a much more-liquid 
+market for financings.
+    Mr. Lawler. Thank you. In the time I have left, Mr. 
+Trotter, during the passage of the JOBS Act, you were a leading 
+member of the IPO Task Force and served as a principal author 
+of the IPO-related provisions. Can you compare today's kind of 
+political and economic climate to when that passed a little 
+over a decade ago?
+    Mr. Trotter. There is one comparison that is clear to me 
+and, again, you have this debate over more versus less 
+regulation, and you know where that ends. It ends in stalemate. 
+But my answer to that is to follow the path that the JOBS Act 
+took in Title I, the IPO On-Ramp provisions. It is not about 
+more versus less. It is about scaling the regulation. It is 
+about balanced regulation so that the full seed of regulations 
+apply to the largest enterprises, and the new companies that 
+are entering the public company system get a break. It has 
+worked very successfully for 11 years.
+    Chairwoman Wagner. The gentleman's time has expired.
+    Mr. Lawler. Great. Thank you.
+    Mr. Trotter. And it is time for more.
+    Chairwoman Wagner. The gentleman from Iowa, Mr. Nunn, is 
+now recognized for 5 minutes.
+    Mr. Nunn. First, Chairwoman Wagner, thank you very much for 
+calling this hearing, specifically to build upon the important 
+goals of bolstering our private markets, expanding accredited 
+investments, and encouraging investments in small businesses 
+throughout the country. I want to thank each of you on the 
+panel who took time out of what I know is a very busy daily 
+life to come and do what is on no one's bucket list: to testify 
+before Congress. So, compliments to each of you, and to the 
+family members who are here, thank you for supporting your 
+family in this.
+    Look, you all have very, very incredible stories to share, 
+and it is truly, I think, a lot of Cinderella stories that have 
+been made successful. Mr. Ward, I am now focusing on you. You 
+had to leave your hometown to go to California, to network, to 
+find angel investors. You went through this process over a 
+decade ago and the challenges--as Mr. Brooks said earlier, 
+great ideas and American Dreams happen all across this country. 
+But you were forced to find capital in those very select 
+markets, specifically, as we have identified in this committee, 
+basically three States--Massachusetts, New York, and 
+California--and there are a lot more out there and a lot 
+greater potential.
+    I would like to point out that in my home State of Iowa, 
+and a number of us represent smaller States on this, just for 
+the rest of the world watching this, 33,000 new small 
+businesses were started in Iowa alone last year, and they did 
+it without the benefit of being in Silicon Valley. Now, imagine 
+for a second what this entire country might look like if we 
+were discussing what is capable this afternoon and we built 
+upon the JOBS Act of 2012, just a decade later.
+    So, Mr. Ward, share with us, first of all, just that story 
+for of how you got to California and really what that meant for 
+what you left behind?
+    Mr. Ward. I arrived in California in 2010, and I didn't 
+know anybody. I didn't have a job. I was brought there for 
+family reasons. I decided to start a company as one does if you 
+move to Silicon Valley against your will, and part of that 
+process was trying to meet other founders, trying to meet other 
+investors. The rule back then, which hasn't changed today, is 
+if you want to get an investor, you have to find an 
+introduction to an investor. You have to meet that investor 
+personally. And it was months and months of just networking and 
+finding people, and that hasn't changed today. If you are 
+someone who is not in California in the thick of it, it is 
+extremely hard to do if you are in Iowa. It might even be 
+impossible.
+    I think the path to creating an on-ramp for founders in 
+different geographies and regions is to create strong, robust, 
+emerging managers and angel networks in those regions. And we 
+are starting to see this happen in different hubs like 
+Nashville, Tennessee, Austin, Texas, and Atlanta, Georgia, and 
+there is no reason why we can't do that in places like Iowa as 
+well.
+    Mr. Nunn. Let me ask then, you have seen this landscape 
+change dramatically just in the last decade. What other 
+opportunities are there for new and emerging businesses to be 
+able to tap into those markets without having to move to the 
+place where the network already exists? How do we expand that 
+network out there, and what kind of things can we be doing on 
+this panel?
+    Mr. Ward. Yes. I think expanding accredited investor rules 
+will help a lot. For example, in Iowa, an accredited investor 
+rule is the same rule but has different impacts in Iowa than in 
+California. So, I think creating those angel networks by 
+lowering the barriers for access to capital, lowering barriers 
+for angel investors who want to graduate into running their own 
+committed funds. I think will help as well. I think one of the 
+things that we forget is that all investors are entrepreneurs 
+also. They start their own funds, and so anything we can do to 
+help those entrepreneurs build their businesses, which is to 
+invest in other entrepreneurs, has a flywheel effect on the 
+ecosystem.
+    Mr. Nunn. Mr. Ward, I couldn't agree with you more, and 
+compliments on what you have done with Carta in such a short 
+time.
+    Mr. Brooks, I would like to return to you here on this idea 
+of really expanding the American Dream. I think one of the 
+things that we underappreciate is just how many dreams are out 
+there that have yet to be fulfilled. Perhaps, you could give us 
+just a little bit of perspective as a father of five daughters, 
+one who is biracial, on how you have managed this, and what are 
+we leaving off the table that we can really grow?
+    Mr. Brooks. Just more access, more opportunities, and it is 
+really so simple. It is a fantastic place to be. It was on my 
+bucket list. I am crossing that off today. I thank you. But 
+really, it is so simple and it is creating more opportunities. 
+That is it. This expanding accredited investors creates more 
+opportunities for people to invest, yes. You are going to get 
+some wrong, but guess what? I can go to the craps table and hop 
+the yo as many times as I want, but I can't sit here and invest 
+in a great company that my friend is starting, that I know will 
+be fantastic. But the rich, wealthy, elite class, White male 
+mostly, who live in Silicon Valley, can go and invest in my 
+friend and become a multibillionaire maybe because of it while 
+I sit here in the same position.
+    Mr. Nunn. Thank you, Mr. Brooks. I would say, always bet on 
+the Heartland. You may find yourself very surprised. With that, 
+I yield back.
+    Chairwoman Wagner. Hear, hear, says the gentlewoman from 
+Missouri. Now, I recognize the gentleman from Texas, Mr. 
+Sessions, for 5 minutes.
+    Mr. Sessions. Madam Chairwoman, thank you very much, and 
+let me say, as our colleague, Mr. Vargas said, thank you for 
+having not only a subcommittee hearing that is seemingly 
+bipartisan, but also for your leadership, and Mr. Vargas, for 
+taking the time to stick around to hear all of this great 
+information. It proves how we do need a better roadmap for this 
+integrity.
+    I would like to ask you all, because I have been working 
+with the SEC, and we have spent a lot of time in here worried 
+about rules, regulations, investor rules, all those kinds of 
+things. But I find that the Securities and Exchange Commission 
+is a huge hindrance to the effectiveness of IPOs becoming 
+capable of what they want to do. I engaged the SEC Chair and 
+the entire SEC last year and found that they were asleep at the 
+switch, did not come to work, gave conflicting information to 
+the investors, weren't willing to stand behind it, and then 
+held it against the investors when their own lawyers were 
+quoted to the Department. The SEC Chair point-blank told me 
+that he was not going to respond back to a request that was 
+made by an IPO investor when they intentionally provided all of 
+the information that they thought they needed to provide, and 7 
+or 8 months later said, no, we are not going to even respond 
+back. We won't respond back to you, and we are not going to 
+respond back to them.
+    Tell me about the SEC being a hindrance to people 
+effectively building this wealth and wealth creation of IPOs, 
+because of their oversight of blunders and inattention to 
+capital formation. Anyone?
+    [No response.]
+    Mr. Sessions. Okay. I guess I will continue on then, since 
+no one has any direct information. I find that we need, as I 
+spoke to the Chair yesterday about a process whereby the SEC 
+would be able to recognize that they are not being forthright 
+about solving problems that when investors have problems as 
+they move forward. If you can get in trouble, you ought to be 
+able to get out of trouble.
+    But simply to have information, because someone makes a 
+claim against you and not even sharing that information with an 
+investor group or a group of people to where they can resolve 
+that, but waiting months and months, maybe up to a year, 
+perhaps more, when they have contracts, when they have 
+agreements, when they are trying to put together a company as 
+they are going through their formation, whether it be in the 
+stock market or in NASDAQ, I find that disturbing.
+    And I told a story yesterday I remember that when my dad 
+became the FBI Director for President Reagan, the Department of 
+Justice tended to have a viewpoint that they would not discuss 
+any part of the work that they did, even after an indictment, 
+even with proper counsel, and he changed that. He decided that 
+proper counsel does exist in this company, lawyers who were 
+beholden to a bar, to a court that could for any ethical 
+challenges or mismanagement or things that took place where 
+they did not properly take that information and work for 
+resolution could be held by a court.
+    I believe that we should have a better process at the SEC 
+for anyone who has a problem when the SEC begins an 
+investigation, that there should be legal counsel that could be 
+brought in on behalf of this IPO or anybody--where there is 
+this recognition to resolve matters, not to wait a year and 
+delay them and last them out. I find it obnoxious, I think it 
+is unprofessional, and I believe it is an intentional effort 
+that has been made by the SEC to bludgeon investors in this 
+country.
+    [No response.]
+    Mr. Sessions. Madam Chairwoman, I heard no response, so I 
+will yield back my time.
+    Chairwoman Wagner. The gentlewoman from Indiana, Mrs. 
+Houchin, is now recognized for 5 minutes.
+    Mrs. Houchin. Thank you, Chairwoman Wagner and Ranking 
+Member Sherman, and thank you to the witnesses for coming to 
+speak with us today. Mr. Brooks, you certainly seem happy to be 
+here. That is refreshing.
+    Among the greatest strengths of the American economy are 
+our public markets and the ability for retail investors to buy 
+shares in companies they support. By expanding access to our 
+public markets for companies, Americans across the country, 
+including Southern Indiana, can build wealth and encourage 
+economic growth. In recent years, however, companies have been 
+pushed away from public markets, and often businesses find that 
+the reasons against pursuing an IPO outweigh the benefits of 
+going public.
+    Mr. Trotter, the raw number of IPOs has declined 
+significantly in recent years, with the U.S. experiencing some 
+of its worst years on record in 2016, and again in 2022. Recent 
+reports indicate the downward trend in IPOs will continue into 
+2023. Could you please explain the factors contributing to such 
+a steep decline in the number of IPOs and what that means for 
+everyday investors?
+    Mr. Trotter. When a company that is backed by early-stage 
+investors reaches the point where it is ready to go to the next 
+level and return capital to those early-stage investors, it has 
+a choice. It can find a buyer and sell the company and become 
+an acquisition target, or it can follow an IPO, pursue an IPO, 
+and become a new public company, and those are very different 
+paths. And with the public markets less-hospitable to private 
+companies, they are going to be more likely to follow the 
+mergers and acquisitions (M&A) path.
+    Now, a company should do what makes sense for the company, 
+but if you have tilted the balance away from IPOs and toward an 
+M&A exit scenario, then you are going to see fewer IPOs. So, 
+the IPO On-Ramp was an effort to redress that balance. We have 
+had a decade-plus of successful experience. You have seen the 
+positive impact that it can make. And I have said it a couple 
+of times already, but I don't tire of saying it, it is time to 
+expand that category of emerging growth companies.
+    Mrs. Houchin. Thank you. With fewer IPOs and a shrinking 
+number of companies on public markets, not only do local 
+businesses have fewer options to raise capital, but retail 
+investors have fewer opportunities to build wealth and secure 
+their futures.
+    Mr. Ward, Regulation A enables companies to sell securities 
+to the public with limited disclosure requirements compared to 
+public companies. Despite its potential benefits, Regulation A 
+seems to be underutilized. How would amendments to Regulation A 
+help small businesses raise capital? Would more companies 
+benefit from Regulation A if Congress raised the offering cap?
+    Mr. Ward. I think raising the offering cap and anything we 
+can do to make Reg A more attractive would be helpful to 
+founders. I do think there is a concern around having a two-
+track system for capital formation in the private markets. The 
+most-successful regulation framework we have today is Reg D, 
+and I strongly encourage all of us to look at, is there a way 
+that we can use Reg A and other capital formation regulations 
+like crowdfunding and marry them with what is working in Reg D?
+    Mrs. Houchin. That is great. Thank you. Earlier this week, 
+I introduced my first bill in Congress, the Regulation A+ 
+Improvement Act of 2023. It would raise the cap for Regulation 
+A and allow more small to mid-sized companies to sell 
+securities on public markets. As a member of this committee, I 
+am committed to cutting red tape to make it easier for local 
+businesses to grow while also expanding opportunities for 
+everyday investors to build wealth to secure their financial 
+futures. I look forward to continuing to work on this issue 
+with the subcommittee. I thank the chairwoman, and I yield 
+back.
+    Chairwoman Wagner. I would like to thank all of our 
+witnesses for their testimony today. I would also like to take 
+a moment to invite any of our witnesses who have family 
+members, not staff, but family members with them to recognize 
+them. Mr. Sampson?
+    Mr. Sampson. Sure. Thank you for that. Joining me today is 
+my wife of nearly 25 years, Shanterria Alston Sampson. She is 
+also my partner in business and investing as well. My oldest 
+son is here today, Rodney Sampson II. He is a recent graduate 
+of Morehouse College and is headed to Georgia Tech to work on 
+his graduate degree in computer science, and he is Phi Beta 
+Kappa.
+    Chairwoman Wagner. Congratulations.
+    Mr. Sampson. And Rodney III--you are going to see a trend 
+here. Rodney III is a junior at Morehouse College as well and 
+just secured his first summer internship at Harvard Business 
+Publishing.
+    Chairwoman Wagner. Wonderful.
+    Mr. Sampson. Rodney IV just turned 17 and is a freshman at 
+Morris Brown College as well. He is also a software engineer 
+and a gamer as well, so we are really excited about him.
+    Chairwoman Wagner. Good.
+    Mr. Sampson. Rodney V is here as well, and, of course, we 
+have Sophia, our youngest.
+    Chairwoman Wagner. At last, thank heavens.
+    Mr. Sampson. Our oldest daughter couldn't make it. She is a 
+graduate of Spelman.
+    Chairwoman Wagner. Sure.
+    Mr. Sampson. Phi Beta Kappa, working on her Ph.D. at UPenn 
+in computer science.
+    Chairwoman Wagner. Wow. Congratulations to you--
+    Mr. Sampson. Thank you.
+    Chairwoman Wagner. --and your wonderful family, and to your 
+wonderful wife, who is also a partner with you in business. It 
+is heartwarming to see, so thank you.
+    The Chair notes that some Members may have additional 
+questions for this panel, which they may wish to submit in 
+writing. Without objection, the hearing record will remain open 
+for 5 legislative days for Members to submit written questions 
+to these witnesses and to place their responses in the record. 
+Also, without objection, Members will have 5 legislative days 
+to submit extraneous materials to the Chair for inclusion in 
+the record.
+    This hearing is now adjourned.
+    [Whereupon, at 3:57 p.m., the hearing was adjourned.]
+
+                            A P P E N D I X
+
+
+                            April 19, 2023
+                            
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+                                  [all]
+
