@@ -5,7 +5,6 @@ from sent_analysis import SentimentEvaluator
 from langsmith import Client
 
 
-client = Client()
 evaluator = SentimentEvaluator()
 company_logo = 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Seal_of_the_United_States_Congress.svg/1201px-Seal_of_the_United_States_Congress.svg.png'
 
@@ -18,6 +17,7 @@ st.set_page_config(
 # Initialize LLM chain in session_state
 if 'chain' not in st.session_state:
     st.session_state['chain']= load_chain()
+    st.session_state['sentiments'] = []
 
 # Initialize chat history
 if 'messages' not in st.session_state:
@@ -66,4 +66,4 @@ if query := st.chat_input("Ask me anything"):
 
     # Add assistant message to chat history
     st.session_state.messages.append({"role": "assistant", "content": response})
-    #st.session_state.messages.append({"role": "assistant", "content": sentiments})
+    st.session_state.sentiments.append({"role": "assistant", "content": sentiments})
