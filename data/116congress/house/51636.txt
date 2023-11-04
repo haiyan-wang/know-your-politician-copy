@@ -1,0 +1,2481 @@
+
+ - GETTING IT RIGHT: CHALLENGES WITH THE GO-LIVE OF ELECTRONIC HEALTH RECORD MODERNIZATION
+
+[House Hearing, 116 Congress]
+[From the U.S. Government Publishing Office]
+
+
+                   GETTING IT RIGHT: CHALLENGES WITH
+                       THE GO-LIVE OF ELECTRONIC
+                      HEALTH RECORD MODERNIZATION
+
+=======================================================================
+
+                                HEARING
+
+                               BEFORE THE
+
+                        SUBCOMMITTEE ON TECHNOLOGY 
+                               MODERNIZATION
+
+                                 OF THE
+
+                     COMMITTEE ON VETERANS' AFFAIRS
+
+                     U.S. HOUSE OF REPRESENTATIVES
+
+                     ONE HUNDRED SIXTEENTH CONGRESS
+
+                             SECOND SESSION
+
+                               __________
+
+                        THURSDAY, MARCH 5, 2020
+
+                               __________
+
+                           Serial No. 116-60
+
+                               __________
+
+       Printed for the use of the Committee on Veterans' Affairs
+       
+ [GRAPHIC NOT AVAILABLE IN TIFF FORMAT]      
+
+
+                    Available via http://govinfo.gov
+                    
+                               __________
+
+                                
+                    U.S. GOVERNMENT PUBLISHING OFFICE                    
+51-636                     WASHINGTON : 2023                    
+          
+-----------------------------------------------------------------------------------                   
+                    
+                     COMMITTEE ON VETERANS' AFFAIRS
+
+                   MARK TAKANO, California, Chairman
+
+JULIA BROWNLEY, California           DAVID P. ROE, Tennessee, Ranking 
+KATHLEEN M. RICE, New York               Member
+CONOR LAMB, Pennsylvania, Vice-      GUS M. BILIRAKIS, Florida
+    Chairman                         AUMUA AMATA COLEMAN RADEWAGEN, 
+MIKE LEVIN, California                   American Samoa
+MAX ROSE, New York                   MIKE BOST, Illinois
+CHRIS PAPPAS, New Hampshire          NEAL P. DUNN, Florida
+ELAINE G. LURIA, Virginia            JACK BERGMAN, Michigan
+SUSIE LEE, Nevada                    JIM BANKS, Indiana
+JOE CUNNINGHAM, South Carolina       ANDY BARR, Kentucky
+GILBERT RAY CISNEROS, JR.,           DANIEL MEUSER, Pennsylvania
+    California                       STEVE WATKINS, Kansas
+COLLIN C. PETERSON, Minnesota        CHIP ROY, Texas
+GREGORIO KILILI CAMACHO SABLAN,      W. GREGORY STEUBE, Florida
+    Northern Mariana Islands
+COLIN Z. ALLRED, Texas
+LAUREN UNDERWOOD, Illinois
+ANTHONY BRINDISI, New York
+
+                 Ray Kelley, Democratic Staff Director
+                 Jon Towers, Republican Staff Director
+
+                SUBCOMMITTEE ON TECHNOLOGY MODERNIZATION
+
+                     SUSIE LEE, Nevada, Chairwoman
+
+JULIA BROWNLEY, California           JIM BANKS, Indiana, Ranking Member
+CONOR LAMB, Pennsylvania             STEVE WATKINS, Kansas
+JOE CUNNINGHAM, South Carolina       CHIP ROY, Texas
+
+Pursuant to clause 2(e)(4) of Rule XI of the Rules of the House, public 
+hearing records of the Committee on Veterans' Affairs are also 
+published in electronic form. The printed hearing record remains the 
+official version. Because electronic submissions are used to prepare 
+both printed and electronic versions of the hearing record, the process 
+of converting between various electronic formats may introduce 
+unintentional errors or omissions. Such occurrences are inherent in the 
+current publication process and should diminish as the process is 
+further refined.
+                        
+                        C  O  N  T  E  N  T  S
+
+                              ----------                              
+
+                        THURSDAY, MARCH 5, 2020
+
+                                                                   Page
+
+                           OPENING STATEMENTS
+
+Honorable Susie Lee, Chairwoman..................................     1
+Honorable Jim Banks, Ranking Member..............................     3
+Honorable Mark Takano, Chairman, Full Committee..................     4
+
+                               WITNESSES
+
+Dr. Melissa Glynn, Assistant Secretary for Enterprise 
+  Integration, Office of Enterprise Integration, Department of 
+  Veterans Affairs...............................................     6
+
+        Accompanied by:
+
+    Dr. Richard Stone, Executive in Charge, Veterans Health 
+        Administration, Department of Veterans Affairs
+
+    Dr. Robert J. Fischer, Director, Mann-Grandstaff VA Medical 
+        Center, Department of Veterans Affairs
+
+    Mr. John Windom, Executive Director, Office of Electronic 
+        Health Record Modernization, Department of Veterans 
+        Affairs
+
+Mr. David Case, Deputy Inspector General, Office of Inspector 
+  General, Department of Veterans Affairs........................     7
+
+Mr. Travis Dalton, President, Cerner Government Services.........     9
+
+                                APPENDIX
+                    Prepared Statements Of Witnesses
+
+Dr. Melissa Glynn Prepared Statement.............................    29
+Mr. David Case Prepared Statement................................    31
+Mr. Travis Dalton Prepared Statement.............................    39
+
+ 
+                   GETTING IT RIGHT: CHALLENGES WITH
+                       THE GO-LIVE OF ELECTRONIC
+                      HEALTH RECORD MODERNIZATION
+
+                              ----------                              
+
+
+                        THURSDAY, MARCH 5, 2020
+
+              U.S. House of Representatives
+           Subcommittee on Technology Modernization
+                             Committee on Veterans' Affairs
+                                                   Washington, D.C.
+    The subcommittee met, pursuant to notice, at 9:05 a.m., in 
+room 210, House Visitors Center, Hon. Susie Lee [chairwoman of 
+the subcommittee] presiding.
+    Present: Representatives Lee, Cunningham, Banks, and 
+Watkins.
+    Also present: Representatives Takano and McMorris Rodgers.
+
+           OPENING STATEMENT OF SUSIE LEE, CHAIRWOMAN
+
+    Mrs. Lee. Good morning. This hearing will come to order.
+    Before we begin, I would like to ask for unanimous consent 
+for members of the Washington Delegation to participate in 
+today's hearing, should they be able to attend.
+    Without objection, so ordered.
+    Today, the subcommittee continues its oversight of the 
+Department of Veterans Affairs' implementation of the 
+Electronic Health Record Modernization program. Less than 4 
+months ago, we held a hearing on the very same topic with much 
+of the same panel here today. The focus of that hearing on 
+November 20th was to assess preparations for the planned March 
+28th, 2020 go-live in Spokane, Washington. Each of the panel 
+members testified that she or he had the authority and the 
+willingness to hit the pause button, if so required, which, as 
+we will discuss today, is what happened; however, that is not 
+the entire story.
+    While I have always maintained that getting it right is 
+much more important than meeting a deadline, it is equally 
+important that the VA remain transparent about its progress and 
+problems.
+    As this subcommittee reviewed what happened between 
+November 20th and February 10th when the Secretary told me the 
+project was delayed, it has become clear that there were issues 
+with the direction that the VA was headed. As early as 
+December, facility staff who participated in testing were 
+expressing concerns about the State of the product development. 
+The concerns were compounded at superuser training in mid-
+January when staff were confronted with a system that was not 
+what they expected in a frustrating training process. Yet, 
+despite being briefed by the VA on January 17th, the 
+subcommittee was not made aware of these issues. That is hardly 
+the transparency that we have been asking for.
+    I know that these concerns were communicated to the program 
+office in real time. Further, these concerns were communicated 
+to the VA leadership at least starting on February 4th. My 
+question is, why was Congress left out of the loop? Did the VA 
+think the issues identified by staff were not serious or could 
+be solved in 2 months or less? Did the VA and Cerner not 
+communicate about development issues? Did the VA think it is 
+not relevant for Congress to know about conditions on the 
+ground were not promising for a March go-live after all? I 
+would like to have some answers to those questions.
+    Recently, subcommittee staff traveled to Spokane and spoke 
+with numerous VA staff who participated in the testing and 
+superuser training about their concerns and experience; their 
+candor was refreshing and welcome. Clearly, they are 
+hardworking VA staff who are committed to participate in this 
+implementation outside of their primary responsibilities, 
+because they do want to get it right and they want to improve 
+the care for veterans. They get the accolades for standing up 
+and saying it was not working. I am glad that the VA management 
+listened to their own workforce and appropriately responded by 
+pausing implementation.
+    There are several issues I want to get to the bottom of 
+today. The overarching issue I see is a lack of communication 
+between the VA and its staff, the VA and Cerner, the VA and 
+external stakeholders, including veterans, and obviously with 
+Congress. In addition, there are lingering concerns about 
+staffing, infrastructure and readiness, which according to 
+testimony of the Office of Inspector General remain serious 
+issues to resolve.
+    There are questions about why VA did not realize earlier 
+that its commitment to a stripped-down first capability set 
+would be problematic. Were the right people involved in that 
+decision in the first place? Were key stakeholders left out? 
+What was communicated about the potential pitfalls of training 
+on a system that did not have the functions and workflows that 
+staff actually needed to learn? Was this a commercial practice 
+that VA did not understand the ramifications of adopting?
+    This was a lesson learned from Department of Defense (DOD) 
+that did not seem to be learned by the VA. Clearly, it was not 
+a practice that worked for the VA staff.
+    VA has said that it does not want to initiate 
+communications with veterans too early, but what is too early? 
+Based on feedback from veterans and Veterans Service 
+Organizations (VSOs), they need information and would like to 
+have more of it. Outreach is just starting to happen, which in 
+my view would have been much too late had the VA intended to go 
+live in March. What is the plan now for external communication 
+given the go-live is planned for July?
+    VA is now pushing to add new capabilities to the first set; 
+what are the ramifications of this? The subcommittee has 
+requested an updated time line for months, and I am again 
+requesting it and hope to receive it soon. We also need a 
+revised cost analysis, especially in light of the VA's budget 
+request for Electronic Health Record Modernization (EHRM). The 
+budget request raises many concerns, because it is no longer 
+based on an accurate picture of the program.
+    I hope that we get answers to these many questions and I am 
+certain that I will have many more by the end of this hearing. 
+It is my expectation moving forward that we will be getting 
+more timely, accurate, and transparent information about the 
+state of this program, and I hope the VA's intention is to 
+start delivering that today.
+    I would now like to recognize my colleague Ranking Member 
+Banks for 5 minutes to deliver opening remarks. Thank you.
+
+         OPENING STATEMENT OF JIM BANKS, RANKING MEMBER
+
+    Mr. Banks. Thank you, Madam Chair.
+    I first want to thank our witnesses for joining us today. 
+The presence of so many senior VA leaders reflects the gravity 
+of the matter before us, as well as a recognition of the 
+committee's role as a serious, constructive partner in 
+electronic health record modernization.
+    I especially want to thank Dr. Fischer for joining us again 
+from Spokane. Sir, above all else, this conversation is about 
+your employees and the veterans that they serve.
+    I want to reemphasize something that I have said in 
+previous hearings. In my opinion, this subcommittee's purpose 
+is to bring status reports on the Electronic Health Record 
+(EHR) modernization into public view. Since the go-live delay 
+was announced, there have been numerous high-level 
+conversations and briefings behind closed doors; however, the 
+public deserves to know what is happening. Delaying the initial 
+Spokane go-live was undoubtedly a difficult decision to make; I 
+believe it was correct, but I am sure it came with some 
+consideration of public relations backlash.
+    I laid out the facts as I saw them in our hearing in 
+November. Configuration and design decisions for the Cerner EHR 
+still had to be made. Dozens of systems' interfaces remained to 
+be built. Authorities to connect to the network were still due 
+from DOD. All of these things remain true to some extent today 
+and they are precursors to completing testing and training. 
+Perhaps most importantly, the Spokane employees must be able to 
+train on something representative of the actual production 
+system, not merely a mock-up training system.
+    In November, I was cautiously optimistic that a March 28th 
+go-live was still achievable, but a rough, rushed go-live was 
+clearly not in anyone's interest. I was relieved to learn of 
+Secretary Wilkie's decision to take additional time rather than 
+follow the path of least resistance, but highest risk.
+    It is important to be mindful of the incentives and 
+disincentives that Congress creates for the agencies that we 
+oversee. It seems unlikely this will be the last time during 
+the project that VA leaders will have to weigh the right thing 
+to do against reputational and political consequence.
+    I want to have a forward-looking conversation about how VA 
+will use the additional time to prepare for a successful go-
+live. If several weeks represented the difference between a 
+rough go-live and a relatively smooth go-live, I expect VA to 
+use the additional 4 months to achieve excellence. The key 
+issues are the quality of training on the Cerner EHR and the 
+completeness of the system.
+    While I understand VA's rationale for splitting the Spokane 
+go-live into an initial capabilities set and a final 
+capabilities set, I think it has created a host of practical 
+problems, and many of those problems only became clear as the 
+March 2020 deadline approached. I am encouraged that the 
+Department has revisited some of these decisions and opted to 
+pull forward some capabilities into the initial go-live. 
+However, I want to be sure that no stone has been left unturned 
+and anything remaining in the final capabilities set is well 
+justified.
+    I also hope that we can minimize the need for VA employees 
+to navigate back and forth between VISTA and Cerner to retrieve 
+information and provide patient care. It seems the only thing 
+worse than a clunky EHR is two EHRs operating side by side. VA 
+seems to have heeded our concerns about gaps in the Cerner 
+patient portal's capabilities during the initial Spokane go-
+live, especially concerning prescription refills. I want to 
+understand exactly how this problem is going to be solved.
+    Finally, I want to focus on our oversight responsibility to 
+monitor resource utilization and spending. I have never been 
+satisfied with VA's explanations of the frequent changes in the 
+10-year EHRM cost estimate. In the past, numbers have moved 
+around inexplicably. Now we have a budget proposal for a $400 
+million increase over the most recent Fiscal Year 2021 estimate 
+that seems was supported only by generalities.
+    The most significant driver of the cost estimate is the 
+implementation schedule and the VA has promised Congress a new 
+schedule by March 10th. I find that timing unfortunate. Much 
+has changed since the existing implementation wave schedule was 
+developed nearly 3 years ago.
+    I am also eager to see a new schedule and, if it is 
+credible, I will enthusiastically support it. I hope it will 
+move joint DOD/VA health care facilities forward into earlier 
+implementation waves. I firmly believe the James Lovell Federal 
+Healthcare Center in North Chicago could benefit more than any 
+other facility from a unified Cerner EHR. I had hoped to be 
+discussing the new schedule here today, but I remain 
+optimistic.
+    I look forward to exploring these issues with you all today 
+and with our witnesses.
+    With that, Madam Chair, I yield back.
+    Ms. Lee. Thank you.
+    I would now like to recognize the chairman of the full 
+committee, Mr. Takano.
+
+   OPENING STATEMENT OF MARK TAKANO, CHAIRMAN, FULL COMMITTEE
+
+    Mr. Takano. Thank you, Chairwoman Lee, for calling this 
+hearing along with Ranking Member Banks, and for both of your 
+commitment to continuing oversight of this important VA 
+program.
+    The stakes are high. We are spending a lot of money on this 
+integration; we have seen other integrations fail. I arrived to 
+Congress in 2013 with the announcement of the failure of 
+previous efforts and it boggled my mind that this could happen. 
+I want to associate myself both with the concerns expressed in 
+Ms. Lee's comments, as well as the ranking member's. We have 
+always maintained on this committee that getting this project 
+right is more important than meeting an artificial deadline. 
+That being said, we also just can not keep pushing deadlines 
+back and watch the costs mount, because we are already 
+projecting a huge cost.
+    You know, IT is one of those things, IT modernization is 
+one of those things that policymakers, you know, struggle with 
+in a big way. We often as lay people do not have full grasp of 
+those details and trying to get a firm accountability for the 
+sake of the public and the precious tax resources, this is a 
+difficult thing. That is why we established this subcommittee, 
+as per Dr. Roe's initial concern in the previous Congress, and 
+I wanted to continue this oversight.
+    It is paramount--I will say again--it is paramount that the 
+new EHR system work for staff and that it is safe for veterans. 
+A month ago, I was told by Secretary Wilkie that everything was 
+on track with the electronic health record modernization 
+rollout, with no anticipated issues. Then just a week later we 
+were told that the go-live was going to be postponed until 
+July. VA has a responsibility to operate with transparency and 
+accountability and that starts with informing this committee. I 
+cannot emphasize that enough. We want VA to communicate with 
+us, we want to build that trust; we also want to hold you 
+accountable for making sure you are moving things along.
+    I am concerned with VA's internal communication that may 
+have been lacking. Veterans Health Administration (VHA) and the 
+Officer of Electronic Health Record Modernization (OEHRM) must 
+be in continuous communication and the concerns of local 
+facilities must be taken seriously by VA's central office. I 
+want to know that that communication is happening internally 
+within the VA. We also need to ensure stable leadership is in 
+place to make this $16 billion project a success. VA has 
+recently--there has been recent changes at the top. The VA 
+Deputy Secretary is the accountable official for the Electronic 
+Health Record Modernization program under law, that is as per 
+law, yet that position is now vacant and a successor has not 
+been nominated, and even an acting Deputy Secretary has not 
+been named. We need to know who is in charge and who is 
+authorized under law to really manage this program.
+    I look forward from hearing from our witnesses today and 
+moving this important program forward. I yield back, Madam 
+Chair.
+    Ms. Lee. Thank you, Mr. Chairman.
+    I will now introduce the witnesses we have before the 
+subcommittee today. Dr. Melissa Glynn, the Assistant Secretary 
+for Enterprise Integration, and we have been told by Secretary 
+Wilkie that she is responsible to him for the EHRM program. Dr. 
+Glynn is accompanied by Dr. Richard Stone, Executive in Charge, 
+Veterans Health Administration; Dr. Robert Fischer, Director, 
+Mann-Grandstaff VA Medical Center; and Mr. John Windom, 
+Executive Director of the Office of Electronic Health Record 
+Modernization.
+    Also at the witness table are Mr. David Case, Deputy 
+Inspector General, Department of Veterans Affairs, Office of 
+Inspector General; and Mr. Travis Dalton, President of Cerner 
+Government Services.
+    We will now hear the prepared statements from our panel 
+members. Your written statement in full will be included in the 
+hearing record without objection.
+    Dr. Glynn, you are now recognized for 5 minutes.
+
+                   STATEMENT OF MELISSA GLYNN
+
+    Ms. Glynn. Thank you. Good morning, Madam Chair Lee, 
+Ranking Member Banks, and to your staffs. On behalf of my 
+colleagues here with me today, we appreciate the opportunity to 
+address you on this critical matter and, as you have noted, 
+having a complement of leadership, because we do take this 
+implementation extraordinarily seriously.
+    Before I begin, I would like to thank this committee and 
+specifically the subcommittee for the support of this 
+groundbreaking program. We appreciate the investment of your 
+time and that of your staff, who visited Spokane last week to 
+get their firsthand look of the deployment and to work with our 
+teams out there.
+    We share a commitment to getting this right and, while we 
+have revised a go-live date at the Mann-Grandstaff Medical 
+Center, we believe we are poised for success, and that path to 
+success factors the complexity of our system, its unique 
+requirements, and our unprecedented collaboration with the 
+Department of Defense.
+    We have made tremendous progress thus far. We completed 
+critical infrastructure updates at the Initial Operating 
+Capability (IOC) sites; these are already resulting in improved 
+performance. We have successfully migrated terabytes of data. 
+We will launch a new Joint Health Information Exchange with 
+DOD. This will allow all legacy and modernized VA in DOD sites, 
+as well as our private sector partners working with those 
+departments and our departments, to share health data 
+regardless of location. We are currently testing the new 
+Centralized Scheduling Solution in Columbus, Ohio, which will 
+align with the Cerner platform. We will deploy the system 
+across the entire VA before we deploy the full EHR solution.
+    As Assistant Secretary for Enterprise Integration, OEI, my 
+office supports the Secretary through leading governance to 
+support management in execution of our major initiatives, 
+especially focused on this program. OEI is responsible for 
+coordinating the internal requirements of all of VA's offices 
+to ensure the EHRM is successfully deployed.
+    I will say this, as my former experience, I have been an 
+audit partner at a Big Four firm and I have sat with the 
+responsibility to boards of directors overseeing go-lives as 
+well. I have had that exact experience, perhaps not of this 
+scale and the size and complexity of this program, but it is 
+nothing new.
+    The subcommittee has cautioned us, as mentioned, not to 
+rush to deploy a product that may jeopardize our ability to 
+deliver quality care veterans deserve and we agree. We agree 
+with your guidance and put in place a governance model which 
+prioritizes patient safety, balances risk, enhances user 
+adoption, and leverages lessons learned from DOD in their 
+initial deployment.
+    Last month, our clinicians in the field identified and 
+communicated critical requirements and capabilities that must 
+be available prior to user training. This was testament to the 
+cultural changes that we have put in place at VA that our field 
+staff can raise concerns all the way to the top of the 
+organization without fear. Secretary Wilkie made the decision 
+to postpone our go-live date so we can bring the EHR system 
+build closer to 100 percent complete before launching the next 
+phase, which includes the investment of thousands of hours of 
+staff training. We have greater confidence given our new go-
+live date allows us to add capabilities to block one that will 
+enhance user adoption and improve the veteran experience.
+    In short, we are responsibly adapting Cerner's commercial 
+approach for EHR deployment to meet the unique needs of VA and 
+our health care system. Our governance model worked exactly as 
+it was supposed to by identifying those concerns and raising 
+the issue to the top levels of the organization.
+    We have provided Congress with an updated time line, 
+additional information on the project, and, as noted, the full 
+deployment schedule will be provided next week and we look 
+forward to walking through that with you. Our goal is to be 
+transparent and give perspective on the milestones ahead, the 
+scope and complexity of the task underway. I will note, serving 
+in a similar capacity with MISSION Act chairing the Enterprise 
+Project Management Office, we scheduled monthly briefings with 
+staffs and look forward to a similar type of engagement 
+strategy, so that we can have much more constant engagement on 
+the status of the program and the activities underway.
+    To be clear, no other health care organization in the world 
+is attempting something of this scale and complexity, and we 
+share your commitment to getting this absolutely right for our 
+veterans. Thank you for your continued support of our mission. 
+We are happy to respond to any questions you may have this 
+morning.
+
+    [The Prepared Statement Of Melissa Glynn Appears In The 
+Appendix]
+
+    Ms. Lee. Thank you, Dr. Glynn.
+    Mr. Case, you are now recognized for 5 minutes.
+
+                    STATEMENT OF DAVID CASE
+
+    Mr. Case. Thank you. Chair Lee, Ranking Member Banks, and 
+members of the subcommittee, thank you for the opportunity to 
+discuss the Office of Inspector General's oversight of VA's 
+Electronic Health Record Modernization program. The Office of 
+Inspector General (OIG) recognizes VA's commitment to this 
+complex effort and appreciates the time VA staff have given OIG 
+personnel as we work to help VA achieve its goals.
+    We have seen dedicated VA employees working so veterans can 
+receive timely, high quality health care, and we heard their 
+concerns. They recognize the many challenges ahead in 
+responsibly managing risks. The OIG encourages VA to ensure its 
+mitigation strategies are properly tested, trained for, and 
+communicated to stakeholders. The OIG applauds VA's decision to 
+delay deployment given the state of readiness. Patient care is 
+put at risk when a system is rolled out with gaps in important 
+capabilities and what we perceive as currently inadequate 
+mitigation strategies.
+    Our office is conducting early, continual oversight of EHRM 
+because of its cost and scale, and its impact on VA, millions 
+of veterans and their caregivers. I want to discuss the 
+findings from two upcoming OIG reports about EHR preparation at 
+the Mann-Grandstaff VA Medical Center.
+    Our audit and health care teams focused on Mann-Grandstaff 
+because the work there is critical for ensuring future 
+successes. Both reports are in draft form and currently under 
+review at VA, consistent with OIG practices. Our teams will 
+integrate VA's feedback and plans for implementing our 
+recommendations prior to publication. While we do not normally 
+discuss not-yet-published reports, due to this hearing's timing 
+and VA having the draft reports, I will generally describe our 
+findings.
+    Our first report finds that patient care could be put at 
+risk when the EHR is deployed, particularly given missing key 
+capabilities. Based on DOD's transition to Cerner, Mann-
+Grandstaff leaders estimated a 30 percent productivity drop for 
+18 months after go-live, but we found the facility's related 
+mitigation plans flawed. There appeared to be inadequate 
+personnel to handle the transition, due in part to a 2019 
+hiring pause, and challenges to providing timely access to 
+community care because of complex manual scheduling work.
+    By July 2019, VA found not all EHR capabilities would be 
+ready for the March 2020 go-live. Therefore, Mann-Grandstaff 
+would initially deploy limited functions which require 
+mitigation. While VA just delayed the Mann-Grandstaff's go-live 
+event to continue development, the OIG health care team found 
+VA's mitigation strategies did not resolve significant risk to 
+patient safety. This is the case with the lack of an online 
+prescription refill system, veterans' most popular way to get 
+refills.
+    The second upcoming OIG report finds VA's deployment 
+schedule was unrealistic to facilitate meeting VA's goals for 
+upgrading facility infrastructure before rollout.
+    In June 2019, OEHRM leaders told this subcommittee of their 
+goal to have upgraded physical infrastructure, such as cabling 
+and cooling systems, and IT infrastructure, such as network 
+components and end-user devices like laptops, completed 6 
+months before going live. This was a key lesson learned from 
+DOD's experience: this work should have been done before 
+October 2019.
+    During their October 2019 site visit, our audit team found 
+all 24 priority telecommunication rooms and the data centers 
+still needed upgrades. VA confirmed last month that some 
+contracts for critical upgrades still had not been awarded. 
+Moreover, some end-user devices had not been received in 
+October, let alone configured for use. This January, the team 
+found the facility had not received about half the medical 
+devices needed for go-live.
+    Infrastructure upgrades were primarily delayed for four 
+reasons. First, VA lacked early, comprehensive site assessments 
+to determine a realist go-live date. They did not assess the 
+facility's physical infrastructure needs until May 2019, about 
+a year after setting the March 2020 go-live. Second, OEHRM and 
+VHA had difficulty agreeing on required standards. Third, VA 
+lacked some controls to monitor infrastructure readiness. Last, 
+VA lacked staff to oversee the work.
+    In conclusion, the OIG will continue to monitor this 
+massive effort by reviewing Puget Sound VA Health Care System's 
+infrastructure readiness, examining VA's employees' related 
+training, and working with the DOD OIG to review the extent to 
+which the new system will achieve interoperability among 
+departments and community health care providers.
+    Chair Lee, this concludes my statement. I would be happy to 
+answer any questions you or other members of the subcommittee 
+may have.
+
+    [The Prepared Statement Of David Case Appears In The 
+Appendix]
+
+    Ms. Lee. Thank you, Mr. Case.
+    Mr. Dalton, you are now recognized for 5 minutes.
+
+                   STATEMENT OF TRAVIS DALTON
+
+    Mr. Dalton. Thank you, Chairwoman Lee, Ranking Member 
+Banks, and distinguished members of the committee. My name is 
+Travis Dalton, President of Cerner Government Services. Thank 
+you for the opportunity to be here and for your continued 
+engagement and support of the Department of Veterans Affairs 
+Electronic Health Record Modernization program.
+    Cerner is honored to be a part of a shared mission to 
+ensure a lifetime of seamless care for our veterans, 
+servicemembers, and their families.
+    Transformation at scale is hard, it carries risks, and we 
+do not take the challenges lightly. We must deploy to over 
+1,700 sites, train over 300,000 VA employees, collaborate with 
+the DOD to make decisions, and interoperate with community 
+providers. Those challenges also represent opportunities.
+    Under VA's leadership, we have made significant strides on 
+our journey to transform care. We have incorporated commercial 
+practices, lessons learned from the DOD, and VA provider-led 
+feedback to ensure user adoption and readiness to meet 
+veterans' needs. We are pleased with the progress.
+    VA has come together to establish standardized workflows 
+and designs based on the work of 18 clinical councils, 
+comprised of thousands of providers across the VA, and eight 
+national workshops. This enterprise standardization is a 
+monumental achievement.
+    We launched Veterans Health Information Systems and 
+Technology Architecture (VITAL), a training series to empower 
+superusers with the technical and change management skills 
+needed to support the EHR implementation and ongoing success.
+    We have migrated 23.5 million veterans' health records into 
+the VA environment. This is the first time that historical VA 
+and DOD health data are in the same system.
+    In the coming months, we will implement a new Joint Health 
+Information Exchange that will allow interoperable information 
+sharing across VA, DOD, and community providers connected to 
+the network. Progress is being made.
+    We are supportive of the revised go-live schedule and the 
+decision to take additional time for testing and end-user 
+training. We heard the advice from this committee to take the 
+time to get it right and listen to the provider community. The 
+additional time will allow us the opportunity to ensure a 
+successful go-live at Mann-Grandstaff.
+    This program is truly transformational. By moving from 130 
+disparate systems to one open, modern, integrated system, we 
+will have the right data at the right place and time to drive 
+outcomes. We also have access to advanced analytics that will 
+give us the opportunity to better diagnose, treat, and prevent 
+chronic diseases; environmental exposures; suicide prevention 
+and PTSD; and opioid and substance abuse.
+    Health care's highest calling is caring for the men and 
+women who sacrificed in service to our country. Every day we 
+are energized by the passion and the commitment we see in 
+pursuit of this common purpose. On behalf of Cerner and our 
+partners, we are humbled and proud to be a part of this effort.
+    Thank you and I look forward to our discussion today.
+
+    [The Prepared Statement Of Travis Dalton Appears In The 
+Appendix]
+
+    Ms. Lee. Thank you, Mr. Dalton. I will now recognize myself 
+for 5 minutes for questions.
+    Before I get into the questions, I am going to ask some 
+questions looking back, but really, ultimately, the purpose of 
+that is so we can identify issues and correct those issues 
+moving forward.
+    On February 10th, Secretary Wilkie notified Congress that 
+the VA would be delaying the planned March 28th go-live. We 
+heard some differing reasons as to why, so I would sort of like 
+to get to the bottom of that before we move on.
+    Dr. Glynn, what was the specific root cause of the delay?
+    Ms. Glynn. Yes. Overall, I will just lay out a little bit 
+of the time line and address your question as to the cause of 
+the delay. We had a plan governance event always planned for 
+February 10th to review the status of the integrated validation 
+testing, the second round of that, IV-2, so that time line 
+correspond with that testing event finishing, and always 
+anticipated having a review--whether we were going live with 
+the next set of activities, which really was dedicated user 
+training.
+    As mentioned in my opening statement, that is thousands of 
+hours of clinician training, front-line training that takes 
+away from Dr. Fischer's team's time and ability to focus on 
+their day-to-day activities. That is why we had a high priority 
+on that time line.
+    The review of IV-2 results identified that we had concerns 
+moving forward and we had an opportunity to engage, the 
+Secretary directly engaged Dr. Fischer as part of our process. 
+He moved forward with identifying the feedback he had hear from 
+his staff and that was the cause for the postpone of the 
+training, frankly, as planned in our oversight time line.
+    Ms. Lee. Thank you. I have heard several reasons. I head 
+that the delay was not due to build issues and that the 
+capabilities were 80 percent there. We have heard concerns 
+about community care referral and beneficiary travel, and that 
+the delay was due to a set of five capabilities that were never 
+intended to be part of Capability Set 1, but now will be. 
+During our budget hearing last week Dr. Stone was emphatic that 
+the cause of delay was development, noting, quote, ``There are 
+73 interfaces, 19 are completed as of today, and that is why we 
+are delayed; this is development.''
+    Dr. Stone, was the delay due to these capabilities not 
+being included in the first capability set?
+    Dr. Stone. Yes.
+    Ms. Lee. Dr. Fischer, what is your assessment of the 
+reasons for the delay?
+    Dr. Fischer. From our perspective, ma'am, it was related to 
+gaps in training. Our staff are involved in national/local 
+councils, they had an expectation about what they would see in 
+the training build, and they simply did not see it. They 
+provided that feedback and I sent that up my chain.
+    Ms. Lee. I just want to make clear, like in October was 
+when they pushed the modules out for development that would be 
+used for the training. Then they continued to develop those 
+modules, but the modules that were going to be used for the 
+user training were stalled at October. When your staff was 
+going to be trained on that, they were basically an incomplete 
+system; is that a correct assessment?
+    Dr. Fischer. That was their perception, ma'am, yes.
+    Ms. Lee. OK. Honestly, looking back, at that point in time 
+is when we should have been notified that there was an issue.
+    Dr. Fischer. Ma'am, I think that there were expectations in 
+complete build and the training environment that were 
+predicted, but we only saw the training build when it was time 
+to train our superusers. Sometimes the expectations do not 
+match what we thought the deliverables would be. I do not 
+ascribe that to any particular agency or directorship, it is 
+just the nature of this complex process.
+    Ms. Lee. Mr. Windom, when was the determination made what 
+capabilities would be included in Capability Set 1 and 
+Capability Set 2?
+    Mr. Windom. Ma'am, I think it is important to characterize 
+what a completed build is. A completed build--and I will use a 
+mathematical equation--equals the core EHR being delivered by 
+Cerner, plus the interfaces--for the build one, it is 73 
+interfaces--plus the workarounds or alternate workflows that 
+are needed for a clinician to perform its duties or her duties. 
+That completed build set is an important characteristic.
+    As part of our testing activities, the completed build was 
+being--the core EHR was being developed based on introductory 
+of workflows--the interfaces, as you know, are still ongoing 
+and being worked--and the workarounds associated with that are 
+being developed as well. What ultimately was derived from the 
+activities as planned at the IV-2 event was that the totality 
+of those solution sets were needed for the end users to 
+properly train or to establish a foundation of training for 
+them to be comfortable that they were ready to implement.
+    Things revealed themselves as intended and at the IV-2 
+event it revealed that we needed to have closer to a completed 
+build, which meant more interfaces being ready, which meant 
+more clarification on workarounds being ready and, hence, we 
+went to the Secretary with the request to delay the go-live. I 
+think things worked, I just wanted to make that clarity for 
+you.
+    Ms. Lee. No, that is fine----
+    Mr. Windom. Okay.
+    Ms. Lee.--but can you answer the question of what date was 
+the determination between the capability sets made?
+    Mr. Windom. Ma'am, we had our first capability review--
+again, our capability set is a byproduct of what the clinicians 
+need at Mann-Grandstaff to perform their services in support of 
+our veterans.
+    Ms. Lee. Can you just answer the question----
+    Mr. Windom. Well, ma'am----
+    Ms. Lee.--what was the date? My time is expiring.
+    Mr. Windom. Well, there is no specific date, because it was 
+an evolving process. It started in July 2019 and has evolved to 
+this present point in time.
+    Ms. Lee. All right. I just request that you provide the 
+subcommittee with a full list and final breakdown of what is in 
+each of those capability sets.
+    Mr. Windom. Yes, not a problem, ma'am.
+    Ms. Lee. Thank you.
+    Mr. Windom. Thank you.
+    Ms. Lee. My time has expired. I now recognize Ranking 
+Member Banks.
+    Mr. Banks. Thank you, Madam Chair.
+    Dr. Glynn, you have taken over some of former Deputy 
+Secretary Byrne's oversight and decisionmaking responsibilities 
+for EHRM, help me understand exactly what those are. For 
+example, leading up to the delay decision there were two rounds 
+of integration validation testing, three other kinds of 
+testing, and superuser training. What reports did Mr. Byrne get 
+from these events and what decisions did he sign off on?
+    Ms. Glynn. Yes, sir. As Deputy, Mr. Byrne was an important 
+member of our leadership team, overseeing many of our 
+initiatives; however, the Secretary has always made this 
+program a priority since its inception, he was the one who 
+signed the Cerner contract originally. The Secretary was and 
+remains the chair of our governance process. Mr. Byrne was 
+involved in that governance process while Deputy, but case in 
+point, we reached the planned milestone last month, the 
+Secretary made the call to postpone the training and revise go-
+live.
+    To your question specifically, we had a governance process 
+in place, the Deputy served as a member of that team, chairing 
+our executive steering committee, the Secretary was always the 
+chair. We have always had briefings, program management reviews 
+with the Secretary present and we continue to do so. In fact, 
+we will be doing just that later this week.
+    Mr. Banks. Which of those reports that I mentioned will now 
+go to you and which decisions will you be responsible for 
+specifically?
+    Ms. Glynn. My responsibility is to help coordinate and to 
+facilitate making decisions on behalf of the executive steering 
+committee, moving those decisions forward for the Secretary to 
+be able to make those decisions.
+    Dr. Glynn and Dr. Stone, the EHR appropriation has 
+specified for 3 years now that, quote, ``The funds provided in 
+this account shall only be available to the Office of the 
+Deputy Secretary to be administered by that office.'' What has 
+that meant in practice? In other words, what leadership or 
+supervision was the Deputy Secretary providing and how has it 
+benefited this project?
+    Ms. Glynn. I will start off by saying the Deputy had 
+responsibility for review of the contract terms, the oversight 
+of signing off on the task orders, and the obligation of funds.
+    Dr. Stone. I would concur with what Dr. Glynn has said. All 
+of those decisions are now flowing to the Secretary for sign-
+off and that is probably the major change. Dr. Glynn's role as 
+assuming the role of integrator, compiler, forcing function of 
+bringing people together to make sure that we resolve problems, 
+has now emerged more fully since the departure of the Deputy 
+Secretary from a financial standpoint. There is also a 
+reconciliation of who is responsible for which expense. For 
+instance, VHA as the health care system is responsible for 
+cabling in our buildings, for creating the heating and cooling 
+systems; in the switch closets, Office of Information and 
+Technology (OI&T) has responsibilities; and de-conflicting 
+those pieces of financial responsibility are essential to the 
+role that Dr. Glynn now assumes.
+    Mr. Banks. Okay. Let us shift gears a little bit.
+    Mr. Dalton, the main issues that Secretary Wilkie cited 
+when calling for the delay were the incomplete EHR build and 
+the quality of training. What aspects of the EHR configuration 
+and workflow remains incomplete and when will they be complete?
+    Mr. Dalton. Thank you, sir, for the question. I would like 
+to just make a quick comment. You know, we are using a proven 
+commercial practice here. The process we are using is we are 
+doing unit system and integration testing, so we are doing 
+levels of testing on an incremental basis. We have got some 
+structured processes, we have gate reviews, we have checklists 
+that we are using, and we have an ongoing, systematic 
+evaluation of the risk. Our goal is that we have--as we go, 
+these processes are fluid, they are never perfect, you know 
+more now than we knew at the beginning--so our goal is to have 
+processes and checklists and informed decisionmaking and a 
+constant evaluation of risks over time, which I think is what 
+we have seen as this process has played out.
+    I think that there are a couple, you know, key sets in 
+Capability Set 2 specifically to your question, sir. Imaging is 
+one of those, some cardiology elements, and then also some 
+pieces related to referral management, but 90 percent-plus of 
+the clinical capability will be in Capability Set 1 when we go 
+live in Mann-Grandstaff, sir.
+    Mr. Banks. All right. Just a quick follow up, Mr. Dalton. 
+Are you confident that your trainers fully understood VA's 
+specific workflows and processes, and did they shadow the VA 
+employees beforehand to become familiar?
+    Mr. Dalton. If I may, just a little context. In terms of 
+the training, I agree with Dr. Fischer's assessment. I would 
+just like to say that I am not sure it is specifically a 
+training issue, I think it was a content and expectation issue 
+related to what they expected to see. We were training to 
+workflows, which I think is important, but I am not sure all 
+the content was there that they would have expected, and we 
+agree with their assessment.
+    We are using primarily Cerner trainers, we have got some 
+contract trainers, and I think we have got some work to do 
+there in terms of the quality that we are bringing and also in 
+the following of the VA workflow, sir.
+    Mr. Banks. Okay, thank you. My time has expired.
+    Ms. Lee. Thank you.
+    I now recognize Mr. Watkins for 5 minutes.
+    Mr. Watkins. Thank you, Madam Chair.
+    Mr. Dalton, as a veteran who receives care in the VA and 
+somebody who grew up in the medical community, I have an 
+appreciation for the challenges that you face. Will you give us 
+a sense of the progress that has already occurred to date?
+    Mr. Dalton. Yes, sir. First of all, thank you for the 
+question. I think, you know, it is easy to get focused on what 
+is not going well and I think it is an important discussion 
+that we are having here today, but I also appreciate your 
+question because I do not want to forget the why and also the 
+progress that is being made.
+    We are moving to a single longitudinal record for the DOD 
+and the VA. I think you will see increased efficiency and you 
+will see safety as well, so you will embedded rules and alerts. 
+In many cases you have providers out there today that are 
+having to use five systems to complete standard workflows; 
+going forward, they will be using one system with integrated 
+data, which is ours.
+    Economies of scale, so you have the opportunity to reduce 
+operating costs over time and save taxpayer dollars. We have 
+seen that in the commercial markets in a material way. And then 
+innovation and advanced analytics, using the data we have been 
+able to migrate in order to solve and work on problems related 
+to toxic exposure, opioid abuse, and suicide prevention.
+    There are accomplishments along the way, sir. I mentioned 
+that enterprise design that the VA has worked on. You know, I 
+have worked with 24 large health systems, that is a major 
+accomplishment bringing together your enterprise in that way to 
+come together on standard workflows.
+    Then I think we talked a little bit too about improved 
+decisionmaking, we see a lot of progress. We have seen a lot of 
+coordination between DOD and VA as well in their working 
+relationship and decisions getting made.
+    Then finally, if I may, sir----
+    Mr. Watkins. Yes.
+    Mr. Dalton.--I think the interoperability issue and 
+question is one that I would like to bring up is that we--first 
+of all, Cerner's position is it is your data, it is the 
+patient's data, and I want to be crystal clear on that. That we 
+support open standards, patient rights, Office of National 
+Coordinator for Health Information Technology (ONC) rules, and 
+other rulemaking associated with providing that data.
+    The Joint DOD/VA Health Information Exchange (HIE) go-live 
+cannot be understated how important that is. It really sets the 
+stage for a national interoperable network of data with 
+community providers, which is something we have talked about 
+collectively for years and have not accomplished. We are on the 
+precipice of accomplishing that and the VA is leading the way 
+with that, and I really think that is an important step for the 
+Nation in going forward, sir.
+    Mr. Watkins. I understand, and understand the challenges, 
+but it seems to me that--it does seem to me that the work that 
+the VA has--the work accomplished has positioned the VA to be a 
+leader in the health care space and enhanced delivery of health 
+care to our veterans. Would you agree?
+    Mr. Dalton. Yes, sir, I would.
+    Mr. Watkins. All right. Mr. Windom or Mr. Dalton, how many 
+system interfaces have been tested to any degree and how many 
+from end to end?
+    Mr. Windom. Sir, right now, of the 73 that are identified 
+as what are Capability Set 1, 20 we can say are done end to 
+end, with a large group of interfaces to the tune of about 42 
+more being available this month, the month of March.
+    Mr. Watkins. Who is the Director of Infrastructure 
+Readiness in your office and who was performing this 
+responsibility before that position was filled?
+    Mr. Windom. Sir, my Technology Integration Officer, Chief 
+Technology Integration Officer, Mr. John Short, who I believe 
+is sitting somewhere behind me, fills that void--or fills that 
+role. In addition, he is the same one leading the joint 
+interface elements between DOD, VA, and Cerner. I think that 
+synergy supports our objectives.
+    Mr. Watkins. Dr. Fischer, how do you expect Cerner's 
+training to be different going forward, and what do you and 
+your employees need to see in order to ensure confidence going 
+into the July go-live?
+    Dr. Fischer. Sir, I believe Cerner represents a very agile 
+corporation. Based on feedback, both the National Councils and 
+our local subject matter experts will thoroughly review the 
+training program before it is executed, and I think that is 
+from lessons learned recently and I am very enthusiastic that 
+training will be of high quality next time around.
+    Mr. Watkins. Mr. Case, in your testimony you laid out what 
+is still incomplete in the Spokane Medical Center's 
+infrastructure upgrades. Some of these statistics are dramatic, 
+like 92 percent of the server rooms still need cable upgrades, 
+80 percent have poor cable management. Do your office and VA 
+have a different definition of what infrastructure upgrades are 
+critical versus desirable?
+    Mr. Case. I do not think we do. I think, if you are looking 
+at IT infrastructure, we basically took what they said they 
+needed and we just counted. If you are looking at laptops and 
+other IT infrastructure that should have been there in October, 
+6 months ahead of time, 30 percent were missing. There is 
+medical devices that have to be connected to the system. When 
+we looked at that last in February, only 50 percent were there.
+    When you look at the physical infrastructure, we once again 
+adopt whatever position it is that VA is taking in terms of our 
+scrutiny. The term is grandfathered-in 5E cables, as I recall, 
+for the 6A cabling, and so we do not expect them to put the 6A 
+cabling in on those where they have 5E, but they need to 
+upgrade other rooms. When we last looked, they had taken steps 
+to bring a lot of their telecommunications rooms into 
+standardization, which we looked, I want to say, a week or so 
+or 2 weeks ago.
+    Once again, we are trying to measure them against a 
+standard they accepted and which comes from the DOD lessons 
+learned, which is 6 months prior we should have a system ready 
+and upgraded as appropriate. We understand DOD's more 
+successful rollout in their recent rollout, one of the reasons 
+for that was they strictly adhered to that 6-month standard.
+    Mr. Watkins. Understood, thank you.
+    I am out of time, Madam Chair. I yield.
+    Ms. Lee. Thank you. I now recognize myself for 5 minutes.
+    Mr. Dalton, was the VA clear in what was required within 
+Capability Set 1 and the go-live in Spokane? It is just a yes 
+or no.
+    Mr. Dalton. Yes.
+    Ms. Lee. Did this time line give Cerner sufficient 
+development time before training and go-live in Spokane?
+    Mr. Dalton. Following a commercial approach, yes.
+    Ms. Lee. Was Cerner on track to deliver all of Capability 
+Set 1 on time for the March 28th go-live?
+    Mr. Dalton. From a clinical configuration, yes; from an 
+interface perspective, I can't say definitively.
+    Ms. Lee. You can not say----
+    Mr. Dalton. I do not know. We were working it day to day--
+--
+    Ms. Lee. Okay.
+    Mr. Dalton.--that was a big number, it was more than we 
+thought when we started, it was--it is daily in process, ma'am.
+    Ms. Lee. Probably not?
+    Mr. Dalton. Probably not.
+    Ms. Lee. Yes. Dr. Stone, were there capabilities that 
+Cerner was expected to deliver within Capability Set 1 that 
+they failed to deliver?
+    Dr. Stone. The basic problem--and I know you would like a 
+yes or no, but I am going to give a nuanced answer--the basic 
+problem is we accepted Capability Set 1 as a minimum viable 
+product, but expected every piece of it to be present. When we 
+emerged from the second set of testing, we could not assure 
+that our workarounds and mitigation strategies that were 
+necessary--and there are in excess of 65 of them that are 
+necessary in Capability Set 1--could be tested and trialed and, 
+therefore, we had to concur with our clinical lead on the 
+ground and our leadership, as well as our other communities, 
+which included our financial community, our pharmacy community, 
+and our community care purchasing group, who all felt they 
+could not assess their readiness to go live because they could 
+not see their mitigation strategies. Therefore the answer was, 
+no, the system was not ready.
+    Ms. Lee. So but you--I guess my question is, you would--
+then the answer would be that Cerner delivered what they were 
+expected to deliver, but just the capabilities, the 
+workarounds, and the mitigations were----
+    Dr. Stone. We could not--we could not----
+    Ms. Lee.--too much?
+    Dr. Stone. Madam Chair, we could not see the processes that 
+the users expected to see and designed in the work groups, and 
+clearly the interfaces that allowed us to mitigate--and let me 
+just concentrate on pharmacy, there are four key mitigation 
+strategies that tie us into our automated pharmacy refill, 
+which occurs 11,000 times a month at the Spokane site, none of 
+that could be seen and validated. Therefore, the ability to 
+pull people off of their regular job and begin intensive 
+training, which was about 20,000 hours of needed training, did 
+not make sense at all. Therefore, as Mr. Windom had predicted, 
+we would reach a February 10th decision date, when we looked at 
+each other on that February 10th date, it was absolutely clear 
+that we needed to carry to the Secretary a recommendation to 
+not go live.
+    Ms. Lee. Okay. Mr. Dalton, how do you respond to this? 
+Was--how do you respond to that? Was the VA clear on what it 
+needed for the go-live in Spokane?
+    Mr. Dalton. I think so. I think we collectively worked on 
+the capability sets, it was not a unilateral decision. We had a 
+process where we had functional experts, we worked closely with 
+the VA, we worked with the councils, we weighed in with our 
+professional opinion.
+    I do not feel that anything was levied upon us, I think we 
+collectively decided on those capability sets, ma'am.
+    Ms. Lee. Dr. Stone, was the VHA involved in those decisions 
+on what was in the capability sets?
+    Dr. Stone. Yes. Last fall--and I can not remember the exact 
+dates--when discussions began to occur whether the full 
+capability set would be ready, what we now call Capability Set 
+2, and whether we could take a minimum viable product, we all 
+agreed that there was huge value to an initial go-live at a 
+lower-complexity facility like Mann-Grandstaff, and we still 
+remain committed to that. There is huge value. There is also 
+tremendous enthusiasm on the ground, as your staff recognized, 
+from those clinicians and those workers and employees that are 
+participating in this to get this live, to learn our lessons.
+    One of the lessons that I learned when I was in the 
+commercial space and was assigned to the DOD fielding was we 
+failed to really listen to those efforts and lessons learned 
+and, therefore, we attempted to go live in DOD and then ended 
+up with a 23-month delay in order to do the operational 
+readiness testing that we have now demanded. I think we have an 
+incredibly agile vendor here with huge amounts of commercial 
+experience, but is still learning the lessons of working in 
+government space where we look forward to the agility that they 
+bring to us that will allow us to really test this system end 
+to end as we would do in any other system that we would bring 
+on board.
+    Ms. Lee. Dr. Glynn, so as leaders of this project--and Dr. 
+Stone--like just give me a top line, how are you examining this 
+and, you know, what steps are you taking to make sure--I mean, 
+clearly, I think the big issue was you had a capability set 
+that had a lot of mitigation steps in it, which, honestly, I am 
+totally fine with examining the capability sets to avoid that, 
+because, honestly, from a management point of view, once you 
+put these mitigation steps in place, that becomes the standard. 
+You know, you want user success and user acceptance. If you are 
+going to have multiple training modules where you are going 
+back and updating it, you are going to see dissatisfaction from 
+the end users, because they are not going to want to have to go 
+through training and then develop a step, then get rid of that 
+step and go through another training. I am totally on board 
+with this. I just want to know, what are you doing from a 
+management point of view to make sure that this process does 
+not repeat itself again?
+    Ms. Glynn. Yes, ma'am. Overall, what we have put in place 
+recognizes the complexity of all the work that is going on, as 
+highlighted by my colleagues, and by Mr. Case and Mr. Dalton. 
+We have--three times a week we have a joint operations center 
+in place inside the VA, which features representation across 
+the agency. There is over 300 individuals either participating 
+in person or by phone, including the folks in Spokane and 
+Seattle, and we are tracking everything from where is the 
+status of the interfaces, are there any stops that we can 
+overcome between our colleagues in IT and Mr. Windom's office 
+and OEHRM, working with VHA; understanding and updating the 
+testing, the planning for all the mitigating actions.
+    We found this--we stood this up to support the launch of 
+the MISSION Act, we found it to be a very effective program, 
+because we get everybody in the room who can hear the same 
+thing at the same time. And, frankly, from my experience at the 
+VA, that is one of our biggest challenges, because it is a 
+large organization, especially when we are fielding--or sitting 
+in D.C. and we are fielding a system in Washington State. We 
+need to have everybody hearing the same message, being able to 
+be heard and have their concerns heard at the same time, and 
+tracking the progress. So that everyone understands when we 
+say--you know, one of the terms we sort of jokingly say and ask 
+Mr. Windom the question of were the interfaces ready, we call 
+them done-done, because we want to make sure that everyone has 
+the same understanding of what does complete mean.
+    Mr. Case highlighted, you know, concerns and findings that 
+the Inspector General (IG) had a point in time, the program has 
+been very dynamic. We have been tracking infrastructure 
+readiness, the completion of the infrastructure, and all of the 
+setups and readiness at Mann-Grandstaff, you know, for many 
+months now, and we are very pleased to say that anything that 
+had been found in that audit has been cleared and has been in 
+place for some time at this point.
+    We are tracking, from a management perspective, there is a 
+lot of work that goes into--these are just not three times a 
+week we have meetings, there is a critical working group behind 
+that with representation across VA to make sure that we are 
+ready, tracking, and available to understand where the risks 
+are and being able to mitigate those. That flows up to our 
+executive steering committee, which we all sit on, and then 
+flows up to the Secretary's program management reviews.
+    Ms. Lee. I think she answered the question, clearly.
+    I would now like to recognize Mrs. McMorris Rodgers.
+    Mrs. McMorris Rodgers. Thank you, Madam Chair and Ranking 
+Member and the committee, for your commitment to this project. 
+I want to thank Dr. Fischer for traveling to represent Mann-
+Grandstaff. Dr. Fischer, thank you for your leadership, your 
+advocacy for the interest of veterans in Eastern Washington. I 
+have heard a lot of positive about your leadership and 
+appreciate you taking on this project.
+    Dr. Stone, I want to thank you for appearing here today and 
+your commitment at this critical time in the electronic health 
+records modernization.
+    I want to pick up on some issues of staffing that I asked 
+about at a previous hearing. I want to make sure that your 
+commitment to, quote, ``flood Mann-Grandstaff with resources to 
+cushion the Cerner rollout'' is being carried out.
+    First, how many travel nurses do you have onsite now and 
+how many are you hoping to get?
+    Dr. Fischer. Ma'am, we have 24 traveling nurses onsite, but 
+since we have had a delay in go-live they will likely be 
+packing up here pretty soon and we will bring them back out in 
+June. That is the current plan and so that whole cycle will be 
+repeated.
+    Mrs. McMorris Rodgers. Thank you. How many physicians have 
+you added, either from the clinical resource hub or reassigned 
+from other medical centers, and how many do you hope to add?
+    Dr. Fischer. I do not have that breakdown today, but I am 
+happy to forward that to you. We have hired over 50 of our 108 
+mitigation personnel and we anticipate to be 90-percent healthy 
+in mitigation staffing with this delay in go-live, an added 
+benefit of slowing this train down a bit.
+    Mrs. McMorris Rodgers. I just heard--I was going to ask 
+about the additional permanent staff, that goal was 108 and you 
+just said it was----
+    Dr. Fischer. That is correct, ma'am.
+    Mrs. McMorris Rodgers. You are at 50.
+    Dr. Fischer. We are at 50, 54.
+    Mrs. McMorris Rodgers. Fifty four.
+    Dr. Fischer. Several have had an offer, we are just waiting 
+to on-board them, but I am told by June by our H.R. department, 
+we will be at about 90-percent strength by the time we go live.
+    Mrs. McMorris Rodgers. Okay. The additional permanent staff 
+that you need you believe will be in place by July 2020?
+    Dr. Fischer. We anticipate 90 percent. Some of the 
+physician positions are extremely difficult to recruit under 
+any circumstances. I am optimistic, as I was the last time I 
+sat here, but we will likely not reach 100 percent. We never 
+really anticipated we would reach all of those recruitments, 
+but over 90 percent, from my perspective, is healthy.
+    Mrs. McMorris Rodgers. Okay. Given the delay of the initial 
+rollout from March to July, are we going to be able to keep all 
+these employees, some of whom are temporary, for when they are 
+needed most?
+    Dr. Fischer. The answer would be yes, because they are 
+permanent hires. Our hope is that once we reach steady State we 
+might find an excess, in which case we will allow them to 
+attrit. In the short to medium term, as long as we need them, 
+the permanent hires are permanent and we would attrit them when 
+they were ready to move or if they underwent an adverse action; 
+hopefully, that would not be the case.
+    Mrs. McMorris Rodgers. Okay. Thank you.
+    Mr. Case cited in his testimony a backlog of 21,155 
+requests for community care at the medical center----
+    Dr. Fischer. Yes, I am happy to----
+    Mrs. McMorris Rodgers.--perhaps this does not surprise me. 
+I understand one of Secretary Wilkie's reasons for delaying the 
+Cerner go-live was that the functionality to process community 
+care is not ready for prime time yet.
+    With the additional time and staff you have and will have, 
+how are you going to walk through this backlog and make 
+community care available to the veterans who want it?
+    Dr. Fischer. Just for clarification, ma'am, the backlog is 
+now, I think, down around 17,000. That is not to say that the 
+care has not been rendered, we simply have not administratively 
+closed those consults. Through a combination of overtime and 
+compensation time, as well as leveraging those travel nurses, I 
+am told by the end of April we will have completely resolved 
+that backlog.
+    Furthermore, I have asked our Veterans Integrated Services 
+Network (VISN) for additional personnel in order to support the 
+Office of Community Care, so that we do not reach that 
+crossroads again.
+    I would say that in the last 2 years I have increased the 
+personnel in the Office of Community Care by 48 percent, this 
+next bump will represent a substantial increase as well, but 
+the reality is we are purchasing more care and it takes more 
+staff to support that care.
+    Mrs. McMorris Rodgers. Okay. Mr. Case, would you respond to 
+just where you believe we are?
+    Mr. Case. On various issues, I would say yes. Community 
+care, which you described, they have been scheduling overtime 
+to deal with the backlog. My understanding is, in the process, 
+in reducing the backlog, they are going to train people to 
+adapt to the new scheduling of community care. That may be more 
+complicated, but it is also going to require--there is going to 
+be more demand, is the anticipation of a mitigation.
+    Mrs. McMorris Rodgers. Okay. Mr. Fischer, would you also 
+address where we are with, you know, the issue of only having 
+31 percent of computers and 51 percent of new medical devices 
+not being received yet?
+    Dr. Fischer. My understanding is that all the computers 
+have been distributed to my staff. Biomedical devices are 
+continuing to be distributed as well. I would defer to Mr. 
+Windom on the technical aspects of where precisely we are with 
+biomedical devices. I have a new computer, it is in my bag, and 
+so do does every single staff member have a new and improved 
+computer with greater RAM, so we are good to go with respect to 
+our computers, ma'am.
+    Mrs. McMorris Rodgers. Okay. My time has expired. I do have 
+further questions that I will submit for the record. I 
+appreciate all of your attention to getting this right and 
+getting it done as soon as possible. Thanks.
+    Dr. Fischer. Thank you, ma'am.
+    Ms. Lee. Thank you.
+    Dr. Glynn, on 2020 I sent a request for several documents 
+related to this project; as of yet, we have yet to receive any 
+of them. Can I get your assurance today that I can get those 
+documents by next week?
+    Ms. Glynn. I believe you can get them sooner than next 
+week. I am not sure if we brought them with you, but we do have 
+those prepared----
+    Ms. Lee. Oh, great.
+    Ms. Glynn.--and available. So----
+    Ms. Lee. Thank you.
+    Ms. Glynn.--I know I was working on making sure those were 
+prepared.
+    Ms. Lee. Mr. Windom, what is now--what is the revised time 
+line in terms of training, et cetera?
+    Mr. Windom. Ma'am, we look forward to delivering that to 
+you on March 10th. I do not have it memorized, but it reflects 
+a new anticipated go-live timeframe of July 2020 with a 
+critical path element of the completed build, which I keep 
+harping on this, because it is important, the completed build 
+is the core EHR, plus the interfaces, plus the workarounds or 
+alternate workflows.
+    Ma'am, we can deliver that schedule to you as well next 
+week as part of our March 10th deliverable.
+    Ms. Lee. Great.
+    Mr. Case, does Dr. Fischer's statements on staffing match 
+OIG's observations?
+    Mr. Case. Yes. They asked for 108 or anticipate 108, last 
+time we checked they were at 51. They are making progress, the 
+question is can they continue to make progress, and we do not 
+doubt their commitment to that and their efforts in that 
+regard.
+    Ms. Lee. When was that?
+    Mr. Case. I believe the last time we looked was about 2 
+weeks ago they were at 50. I think that is an accurate number 
+as of then, but they may have increased it some since then.
+    Ms. Lee. Mr. Dalton, what things have to happen between now 
+and your new July go-live date?
+    Mr. Dalton. There are several activities. We will be doing 
+our build completion, we will be working on the additional 
+items we are bringing forward as part of Capability Set 1. We 
+will be doing additional testing, there will be training 
+activities. We will be meeting with our counterparts here on a 
+cadence and from a governance and project management 
+perspective, but really it is--and we will be adding some 
+additional rigor and discipline to the process via operational 
+readiness assessment and some other event activities as well.
+    Ms. Lee. Dr. Glynn, I wanted to--and this might be Dr. 
+Fischer--in terms of the training necessary to roll this out in 
+July, how many thousands of hours did you say?
+    Ms. Glynn. I think we estimated somewhere around 20,000 
+hours.
+    Ms. Lee. Twenty thousand hours?
+    Ms. Glynn. Yes.
+    Ms. Lee. When do you anticipate--I mean, the training that 
+has been done, is it sort of a start-over at this point?
+    Ms. Glynn. For the user training, yes. That will commence 
+in full, as Mr. Windom said, once that completed build is 
+available.
+    Ms. Lee. Dr. Fischer, do you feel that the new time lines 
+properly address the issue that your personnel had with the 
+original time line? I mean, are you confident that we can--that 
+this 4-month delay is a sufficient amount of time?
+    Dr. Fischer. At this moment, I am. I think my staff had a 
+large sigh of relief when we were able to slow this forward 
+progress in order to dot some of the I's and cross the T's, as 
+both Cerner and VA learned about initial implementations in a 
+large Federal health care system. There is just not a ton of 
+experience with initial implementations in an agency our size, 
+so we both have to be willing to learn and we are learning.
+    Ms. Lee. Great.
+    Dr. Stone, is the VHA satisfied with this new time line?
+    Dr. Stone. With your forbearance, a bit of nuanced answer. 
+That answer is yes, but there are gates that must be met. As 
+Mr. Windom has said, we are expecting large numbers of 
+interfaces to come on line in March, we are expecting the 
+finish of the build in April and May of both the processes, 
+what is the VA-Cerner Millennium product, as well as the 
+interfaces, and then we need about 6 weeks of training and 
+about 2 weeks for an end-to-end operational assessment. At each 
+one of those there is a gate that my answer could change. Am I 
+optimistic? Absolutely, because I have got great partners here, 
+and the people you see at the table are all committed to 
+getting to the same place, but there are gates that must be met 
+in order to sustain that optimism.
+    Ms. Lee. Mr. Windom, when do you expect the training domain 
+to be pulled?
+    Mr. Windom. Ma'am, at this juncture, we believe that April 
+6th or thereabouts. Again, I can give you the granularity you 
+are looking for included when we anticipate the completed 
+build, we anticipate the interface. What I do not want to do is 
+speak on the record about specific dates when I can give you 
+the absolute document next week.
+    In addition, we believe that that completed build, as a 
+lesson learned for this training environment, is that the 
+completed build is mandated before we start the superuser and 
+the end user training. Again, you will see that all laid out 
+and you will see that our timeline supports the optimism of a 
+July go-live timeframe.
+    Ms. Lee. Thank you.
+    I now recognize Ranking Member Banks.
+    Mr. Banks. Thank you, Madam Chair.
+    Dr. Stone, I want to make sure I understand which Cerner 
+capabilities have been pulled forward to be available in July 
+and which ones were judged nonessential for the initial go-
+live. I will start with the most important one, the 
+prescription reordering capability in the patient portal. 
+Please explain how this will work now, what alternatives you 
+explored, and what the veteran's experience will be in Spokane 
+and Seattle.
+    Dr. Stone. This is an automated process in what we call our 
+CMOP program, our Consolidated Mail Order Pharmacy. In order 
+for us to mitigate what is not complete, we will need a 
+telephone bank of trained pharmacists and pharmacy techs that 
+literally will receive these telephonically; that is the 
+workaround mitigation. That will also require the interface of 
+audio care, which is what we use to request, as well as 
+ScriptPro and Omnicell, in order to be fully functional.
+    Now, Omnicell is what allows us to really tag in supplies 
+that are delivered, as well as our utilization rates. ScriptPro 
+is also a prescription refill automation system, which is part 
+of the mitigation strategy. All of those interfaces need to be 
+completed, some of them are in Capability Set 2, some in 1, but 
+the key piece is we must be able to have a manual phone bank 
+that we then publicize to our veterans that they can call in 
+for their refills, and then we will manually enter that as a 
+workaround.
+    The joy of this delay is we may be able to avoid all of 
+that by pulling forward the connections into what we are now 
+defining as Capability Set 1.1. We have been very hesitant to 
+move the complete goalposts of Capability Set 2 and 1 for the 
+reasons that we have discussed already. We do not really want 
+to move the goalposts, but pharmacy refill is absolutely a 
+potential major risk, as Mr. Case has identified, and we have 
+been working hard to mitigate that.
+    I think I have answered your question.
+    Mr. Banks. I think so. Same question, though, please 
+explain the video visit capability. This is a really important 
+one to move forward.
+    Dr. Stone. I think it is. I do not think technically--I 
+would probably defer to John Windom on the technical pieces of 
+this or his support and John Short, but mitigation in a 
+critically short, vulnerable area like Spokane where we have 
+trouble hiring providers, the use of video telemedicine is 
+something we do across the Nation. In fact, we are the world's 
+leader in provision of telemedicine services, more than 2.6 
+million visits last year across the Nation. We are prepared to 
+provide that, but the interface is necessary, and I would 
+refer, if you are amenable to that, to Mr. Windom to actually 
+try to answer it.
+    John, I do not know if----
+    Mr. Banks. I have a lot more to ask and a very little----
+    Mr. Windom. Yes, sir, we can come in and brief your staff, 
+sir, on all the 1.1 elements in whatever granularity you would 
+like moving forward.
+    Mr. Banks. Okay. Dr. Stone, what about Auto Prescription 
+Remit and Beneficiary Travel Kiosk capabilities?
+    Dr. Stone. Yes, those are huge valuable pieces. We cannot 
+exist without the ability to do beneficiary travel and so those 
+kiosks must be linked.
+    Mr. Banks. How about Vitals Link Integration? I understand 
+this one pertains to medical devices.
+    Dr. Stone. Yes, I cannot speak to the technology of that.
+    Mr. Banks. All right. Dr. Stone, what solution have you 
+come up with to improve the processing of community care 
+referrals and authorizations? The problem seems to be limited 
+integration between Cerner and Health Share Referral Manager, 
+and an awkward workflow involving HSRM and the joint legacy 
+viewer.
+    Dr. Stone. I think that is a piece of it, I think the other 
+piece of it is just sheer volume. Since MISSION Act went into 
+effect, the 6 months before MISSION Act we referred nationwide 
+2.7 million veterans to community care, the next 6 months we 
+referred 3.8 million, and part of the backlog that Dr. Fischer 
+is experiencing is just sheer growth in community care. About 
+35 percent of our visits are now community care at a cost of 
+about 27 percent of our actual budget.
+    We are working to resolve that nationwide with our clinical 
+resource hubs and the interfaces that are necessary, but I 
+would defer to OEHRM on the actual technical pieces and 
+capability of those software systems.
+    Mr. Banks. All right. What have you decided to do to pull 
+forward with the Care Aware Multimedia functionality? This is a 
+very important Cerner imaging capability for cardiology, 
+radiology, and others, and I understand the difficulty has been 
+getting an authority to connect from DOD, so that VA can 
+upgrade to a newer version of CAM.
+    Dr. Stone. That is an essential workaround that requires 
+multiple screen looks from our providers and going into our 
+joint legacy viewer until that capability comes online in IV-
+2--I am sorry, in Capability Set 2.
+    Mr. Banks. Okay. Mr. Dalton, what will the impact of this 
+be? Are you satisfied if VA employees will have to use VISTA or 
+Joint Legacy Viewer (JLV) to look at medical imaging?
+    Mr. Dalton. It is a standard commercial process. Many times 
+we actually interface to existing Picture Archiving and 
+Communication (PAC) systems and they utilize those. This is not 
+entirely different than what we might do commercially, sir. Am 
+I satisfied? No. CAM-7 needs to be there, they need to be able 
+to view images in a greater way. Do I think that it is 
+appropriate for it to be in Capability Set 2? I believe so, 
+sir, based on our commercial experience.
+    Mr. Banks. Yes, this seems really important.
+    Mr. Dalton. It is.
+    Mr. Banks. Mr. Windom, before the delay, the decision to 
+split the Spokane implementation in Capability Set 1 and 
+Capability Set 2 created 68 alternative workflows. Most of 
+these are work processes that rely on Cerner as well as VISTA, 
+and some of them are manual. How many alternative workflows are 
+you going to use the delay to eliminate?
+    Mr. Windom. Sir, I will have to get back with you on that. 
+I do not even want to speculate. I know the number goes down 
+with the introduction of 1.1 capabilities that are being 
+brought forward. I guess I would offer, you know, we view 
+workarounds as this negativity, there is workarounds in 
+Computerized Patient Record System (CPRS), there are hundreds, 
+if not thousands of workarounds. What we are doing as part of 
+our efforts are creating an integrated system where you do not 
+have to go in and out of the system. You will see that number 
+going down over time, sir, but we can get to you on exact 
+numbers, but that is being dwindled and it is part of our 
+transition activities, with more even being eliminated as part 
+of Capability Set 2.
+    Mr. Banks. All right. I know we have to go vote, I will 
+just finish with this last question about the patient portal 
+from our November hearing. Which parts of the medical record, 
+which prescription refills, and which types of appointments 
+will veterans be able to view or request using the Cerner 
+portal, Mr. Windom?
+    Mr. Windom. Sir, I will have to get back to you on that, I 
+do not have the specifics. What I would offer to you is that 
+interim solution is the Cerner portal with a migration to a 
+hybrid portal as we move into Capability Set 2. We have no 
+desire to reduce the capabilities that we deliver to our 
+veterans or reduce the veteran experience.
+    Again, that is what is good about the flexibility and the 
+partnership with Cerner is that we are evolving to even a 
+better State and that is going to come with the Capability Set 
+2.
+    Mr. Banks. Okay. With that, I will yield back. Thank you 
+very much.
+    Ms. Lee. Thank you. Before we wrap up, I just want to focus 
+a little bit on the infrastructure.
+    Mr. Case, in your written testimony you indicated that as 
+of February 25th, 2020 contracts had yet to be awarded for 
+critical infrastructure upgrades, can you elaborate on which 
+upgrades you are talking about?
+    Mr. Case. Yes. From our perspective, and we take the 
+perspective from the VA, one of the issues is the cooling of 
+the telecom rooms, and that is something that there is a 
+temporary solution to and then ultimately moving to a permanent 
+solution. Our understanding is the contract for the fan systems 
+that will be the temporary solution has yet to be awarded as of 
+today. Now, that does not mean it can not get in place and be 
+done, but once again we continue to try to hold VA to the 6-
+month time line, recognizing that that is an important lesson 
+learned from DOD, that is the critical one.
+    Ms. Lee. What is the potential risk to patient safety or 
+system stability caused by the lack of this infrastructure?
+    Mr. Case. The issue is, they may be up and running, it goes 
+to equipment longevity--if I have said that right--and then, 
+you know--so, ultimately, if there is an effect on the 
+equipment, it can affect functionality, we hope that is not the 
+case. There is a plan in place to have a temporary solution. We 
+point it out, because let us put that temporary solution in 
+place in time and that is the reason we point that out.
+    Ms. Lee. All right. Well, we have to run off to vote, so we 
+are going to wrap this up. We look forward to reading the full 
+OIG report when that comes out. We expect we will probably have 
+some additional questions given the information you gave us, 
+but I want to thank you all first and foremost for your 
+commitment and your service to veterans and our country and for 
+taking on what is an incredibly complex project. I hope that we 
+continue to have the transparency that we need to provide the 
+proper oversight of this project, you know.
+    I especially appreciate that the VA listened to personnel 
+who were on the front line who had concerns about safety and so 
+thank you for taking that step. I know we had talked previously 
+about making sure we get this right instead of meeting a 
+deadline. That being said, you know, I want to make sure we 
+have 4 months for this July date, what are our plans to meet 
+that and to make that a realistic deadline. I am very concerned 
+about the infrastructure issues, especially with cooling. It to 
+me is just--I just feel like we are shooting ourselves in the 
+foot on that one. I hope that we can see some progress made 
+with that, especially given how expensive this project is. I 
+would hate to see us get it up and running and then see, you 
+know, the shelf life diminished or, furthermore, a complete 
+system breakdown, which would jeopardize patient safety, so 
+hopefully we can get that on track.
+    We have 4 months to build, to test, to train. We have the 
+infrastructure issue. We look forward to seeing the plans that 
+you are providing today and hope that this will be the 
+beginning of an honest and transparent dialog back and forth. 
+You know, honestly, God speed, we hope that you guys get this 
+right. You know, you are right, this is an incredibly important 
+project not just for the VA, but for health care across this 
+country. We will continue to have some hearings on this as we 
+progress and I thank you all for being here today.
+    With that, all members will have 5 legislative days to 
+revise and extend their remarks and include extraneous 
+material, and the hearing is now adjourned.
+    [Whereupon, at 11:29 a.m., the subcommittee was adjourned.]   
+=======================================================================
+
+
+                         A  P  P  E  N  D  I  X
+
+=======================================================================
+
+
+                    Prepared Statement of Witnesses
+
+                              ----------                              
+
+                  Prepared Statement of Melissa Glynn
+
+    Good afternoon Madam Chair, Ranking Member Banks, and distinguished 
+Members of the Subcommittee. Thank you for the opportunity to testify 
+today in support of the Department of Veterans Affairs (VA) Electronic 
+Health Record Modernization (EHRM) initiative and deployment of the 
+Cerner Millennium Electronic Health Record (EHR) solution. I am 
+accompanied today by Dr. Richard Stone, Executive in Charge of the 
+Veterans Health Administration (VHA), Mr. John Windom, Executive 
+Director of the Office of Electronic Health Record Modernization, and 
+Dr. Robert Fischer, Director of Mann-Grandstaff VA Medical Center 
+(VAMC).
+    I would like to begin by introducing myself and my role within VA. 
+The Office of Enterprise Integration helps guide VA operations, inform 
+decisionmaking, and integrate initiatives within the Department and 
+with other agencies. In my role, I support the Secretary on major 
+transformational initiatives, including our supply chain modernization, 
+financial management business transformation, the VA Maintaining 
+Internal Systems and Strengthening Integrated Outside Networks Act and 
+EHRM deployment. In this capacity, I work closely with leadership in 
+our Office of EHRM and VHA to support implementation activities at the 
+enterprise level. Additionally, my office is the lead for coordination 
+activities with the Department of Defense (DoD) which is vital to this 
+joint endeavor. Our internal coordination with DoD will ensure seamless 
+delivery of quality health care to Servicemembers, Veterans, and 
+qualified beneficiaries.
+    In November 2019, VA appeared before this subcommittee to provide 
+testimony and an update on the process of the implementation of the EHR 
+system. We met critical milestones including site assessments, 
+infrastructure upgrades, the migration of 78 billion health records, 
+development of an enterprise interface, and the completion of 8 
+national user workshops. These workshops spanned nearly 1,500 sessions 
+and over 50,000 cumulative work hours by more than 1,000 frontline 
+clinicians and end users from across the enterprise. We established 
+national councils comprised of VA and DoD clinicians, technologists, 
+and industry leaders to collaborate as we build a single, standardized 
+system.
+    We received valuable insight from DoD, which has brought lessons 
+learned and context to the EHR configuration, and by industry advisors 
+who shared commercial best practices. Through these workshops, we 
+reached consensus on more than 1,300 design decisions, and over 
+approximately 900 workflows were standardized to best meet the needs of 
+our Veterans.
+    These efforts have moved us beyond mere partnership to support true 
+coordination with DoD. We established a joint Federal Electronic Health 
+Record Modernization Office, and in Spring 2020, we are poised to 
+deliver a Joint Health Information Exchange with DoD. This will benefit 
+all legacy and modernized VA and DoD health care sites, as well as 
+community providers who exchange records with both Departments. I am 
+proud of our progress, and we are continuing to work toward a 
+successful EHR deployment.
+
+EHRM Deployment
+
+    VA pioneered the first EHR in the 1980's, which paved the way for 
+widespread EHR adoption throughout the U.S. health care system. To 
+achieve greater interoperability with DoD, in May 2018, VA awarded 
+Cerner Corporation a contract to replace the Department's legacy 
+patient record system with the commercial-off-the-shelf solution 
+adopted by DoD. A single, interoperable solution across VA and DoD will 
+enable the secure transfer of Active Duty Servicemembers' health data 
+as they transition to Veteran status. This 10-year modernization effort 
+will create a lifetime of seamless care for Servicemembers and 
+Veterans.
+    VA's health care platform is composed of a highly complex clinical 
+and technical environment, delivering Veterans specialty care not 
+typically supported by commercial EHRs with unique requirements that 
+must be configured and properly integrated to ensure continuity of 
+care. No other health care organization in the world is attempting 
+something of this scale and complexity, and we are committed to getting 
+this absolutely right for our Veterans.
+    We selected the Mann-Grandstaff VA Medical Center, in Spokane, 
+Washington, as our Initial Operating Capability (IOC) site and 
+established a very aggressive and optimistic deployment timeline that 
+also prioritizes patient safety, balances risk, enhances user adoption, 
+and leverages lessons learned from DoD's deployment. During the IOC 
+deployment, we are working to identify efficiencies to optimize the 
+schedule, hone governance, refine configuration, and standardize 
+processes for future locations.
+    Our immediate focus for our IOC site is readiness of the system to 
+support training. After we completed the second Integration Validation 
+Testing (IV2) in early February 2020, we identified that additional 
+efforts are needed to configure the system to meet VA's unique 
+requirements for community care, beneficiary travel, and others--for 
+which there are not similar requirements elsewhere in modern health 
+care. We were able to identify these issues because leadership and 
+clinicians at the Mann-Grandstaff VA Medical Center raised concerns 
+using feedback mechanisms built into our deployment plan. This led to a 
+decision on whether to sustain the user training schedule or continue 
+development to move the system build closer to 100 percent complete 
+before conducting training. The training event, which was scheduled to 
+begin the week of February 10th, would have marked the start of ongoing 
+education for professional staff--clinicians, providers, and VA staff--
+who will use the new EHR.
+    The governance process I established to support leadership 
+oversight provided a check point to validate the beginning of this end 
+user training and the overall implementation timeline with the 
+completion of IV2. Thus, reaffirming the timeline for our go-live date 
+was anticipated to occur at this point. As the IOC timeline has been 
+expected to occur over many months, a re-planned go-live date will 
+still occur during the IOC period.
+    It is important to note that we are not adjusting our 18-month 
+timeline for IOC at Mann-Grandstaff VAMC. We are still operating within 
+the designated time period for IOC and continuing to build capabilities 
+into the system so that our clinicians and users can train on a more 
+complete EHR interface.
+    Congress and other stakeholders have cautioned VA not to rush and 
+deploy a product that would fall short of the quality patient care 
+Veterans expect and deserve. We could not agree more that getting it 
+right is more important than meeting an aggressive schedule, and we 
+decided to postpone our go-live date at Mann-Grandstaff VAMC. Detecting 
+course correction opportunities prior to go-live is at the core of our 
+approach to deploying an EHR solution. This approach ensures patient 
+safety, security, and a functional system for all VA health care 
+professionals.
+
+Current Status
+
+    A large-scale EHR deployment follows an iterative model in which 
+new capabilities are added as the system is deployed. Though we 
+initially planned to commence user training when the system was 75-80 
+percent complete, our clinicians in the field identified some critical 
+requirements that must be completed prior to go-live at Mann-Grandstaff 
+VAMC.
+    If not addressed, these critical requirements would pose 
+significant risk to preserving continuity of care to our Veterans, thus 
+VA will take all precautions to manage this risk to an acceptable level 
+for our clinicians and users, and even more importantly, our Veterans. 
+Therefore, we decided to continue development to move the system closer 
+to 100-percent complete before conducting user training.
+    We are currently working to have the system closer to 100 percent 
+and expect to validate this milestone in the spring. Once we validate 
+functionality of the system, we will commence user training with the 
+goal of establishing a new go-live phase in July 2020.
+    Ultimately, our EHR transformation success revolves around user 
+adoption. By adjusting our training schedule, we will be adding 
+additional capabilities originally scheduled to be incorporated after 
+our go-live date. These capabilities are intended to enhance user 
+adoption, improve productivity and efficiency for our field staff, and 
+enhance the Veteran experience.
+    It is also important to recognize that we are not doing this alone. 
+Our VA deployment schedule leverages lessons learned as we deliver a 
+single, longitudinal health record at VA and military health 
+facilities.
+
+EHRM Budget
+
+    With the support of Congress and the President, we have a Fiscal 
+Year (FY) 2021 budget request of $2.6 billion for EHRM, which is $1.2 
+billion above Fiscal Year 2020. This budget request provides necessary 
+resources for full deployment of VA's new EHR solution at the remaining 
+sites in Veterans Integrated Service Network (VISN) 20 and VISN 22. 
+Additionally, it funds the concurrent deployment of waves comprised of 
+sites in VISNs 7 and 21. This budget will also allow us to continue 
+implementation efforts and nationwide deployment of the simultaneous 
+Centralized Scheduling Solution.
+    We are currently testing the Centralized Scheduling Solution at the 
+Chalmers P. Wylie Ambulatory Care Center, in Columbus, Ohio, and 
+through our governance process, we will validate commencement of user 
+training and our implementation schedule. Our intent is to implement 
+this new, resource-based scheduling solution across the enterprise on 
+an accelerated timeline and enhance scheduling accuracy. This 
+initiative will bring the benefit of a modern, resourced-based 
+scheduling system to VA and to our Nation's Veterans before the full 
+EHR solution is implemented. By providing this capability sooner, VA 
+will improve timely access to care for Veterans, increase provider 
+productivity, and enable the adoption of the full EHR solution.
+    Because we are still operating within our designated IOC 18-month 
+schedule, we do not anticipate a change in funding requirements at this 
+time. Should our deployment schedule change such that it impacts our 
+current or proposed budget, we are committed to providing Congress with 
+timely notification.
+
+Closing
+
+    I would like to once again thank Congress and specifically, this 
+Subcommittee, for your continued support and shared commitment to our 
+success. Because of your support, we are able to continue our mission 
+of improving health care delivery to our Nation's Veterans and those 
+who care for them while being a good steward of taxpayer dollars. We 
+are committed to providing the high-quality care and benefits that our 
+Nation's Veterans deserve, and we will continue to keep Congress 
+informed of milestones as they occur.
+    Madam Chair, Ranking Member Banks, and Members of the Subcommittee, 
+thank you for the opportunity to testify before the Subcommittee today 
+to discuss our deployment of the Cerner EHR solution. I would be happy 
+to respond to any questions that you may have.
+                               __________
+
+                    Prepared Statement of David Case
+
+    Madam Chair, Ranking Member Banks, and members of the Subcommittee, 
+thank you for the opportunity to discuss the Office of Inspector 
+General's (OIG's) oversight of the Department of Veterans Affairs' 
+electronic health record modernization (EHRM) program. The OIG 
+recognizes the significant level of effort and commitment required by 
+VA to manage and facilitate this massive and complex system 
+implementation, including the tremendous work already conducted by VA 
+staff to date. The OIG's initial oversight efforts of the EHRM program 
+have been primarily focused on the planning, preparation, and other 
+activities related to the initial deployment location--the Mann-
+Grandstaff VA Medical Center (Mann-Grandstaff VAMC) in Spokane, 
+Washington, and its affiliated facilities.\1\ The lessons learned by 
+OIG audit and healthcare teams about VA's preparation and other aspects 
+of implementation related to infrastructure, access to care, and EHRM 
+risk mitigations at this first site will help assess what works and 
+where there are deficiencies that must be addressed as additional 
+facilities go live. Our findings focus on decisions and actions leading 
+up to the initial site deployment and, when the related reports are 
+released, are meant to serve as a roadmap for aspects of future VA 
+implementation efforts. Failure to redress identified issues puts VA at 
+risk for cascading failures, breakdowns, and delays when deploying the 
+new electronic health record (EHR) system nationwide in the years to 
+come.
+---------------------------------------------------------------------------
+    \1\ On February 11, 2020, the Executive Director of the Office of 
+Electronic Health Record Modernization (OEHRM) confirmed to OIG staff 
+that the go-live date at Mann-Grandstaff VAMC was delayed. Because the 
+new deployment date is unknown, the go-live date referred to in this 
+statement is the prior VA target of March 28, 2020. Mann-Grandstaff 
+VAMC, part of Veteran Integrated Service Network (VISN) 20, has a 
+medical center and four community clinics located in Ponderay and Coeur 
+d'Alene, Idaho; Libby, Montana; and Wenatchee, Washington.
+---------------------------------------------------------------------------
+    There are two forthcoming reports with the OIG's findings about the 
+deployment of the new EHR system at the Mann-Grandstaff VAMC. 
+Currently, both are in draft and, consistent with our practices, are 
+being reviewed by the Department. These reviews allow VA offices to 
+comment on OIG findings and recommendations, as well as to provide 
+responsive action plans to implement the recommendations. After 
+receiving VA's responses, OIG staff will integrate that feedback into 
+the final reports and publish them. While it is not the OIG's practice 
+to testify regarding not-yet-published reports, due to the timing of 
+this hearing and VA being in receipt of the reports, the findings will 
+be generally discussed today.
+    The first OIG report discusses the potential impact of the 
+transition to the new EHR system on patient access to care and the 
+initially available capabilities. The issues go beyond technical 
+concerns, however. For example, the OIG healthcare team found that the 
+Mann-Grandstaff VAMC lacks adequate staffing to navigate the additional 
+strains of the transition and had not received formal, written guidance 
+on minimizing obstacles to patients' access to care. The OIG also found 
+that the risk mitigations facility leaders would employ during the go-
+live period with incomplete capabilities present a significant risk to 
+patient safety. The second OIG report focuses on the progress and gaps 
+in VA's efforts to update the Mann-Grandstaff VAMC's physical and 
+information technology (IT) infrastructure. The OIG audit team found 
+critical physical and IT infrastructure upgrades have not been 
+completed at the Mann-Grandstaff VAMC in line with VA's own timelines. 
+On February 10, 2020, a VA spokesperson announced that the new EHR's 
+deployment scheduled for March 28, 2020, would be postponed 
+indefinitely because at 6 weeks prior to go-live, it was only 75-80 
+percent ready.
+
+BACKGROUND
+
+    The OIG's mission is to conduct effective oversight of VA programs 
+and operations to help make certain that veterans receive access to 
+quality health care and benefits in a timely manner, as well as ensure 
+VA funds are appropriately spent. The OIG is conducting early oversight 
+of EHRM because of the tremendous cost and scale of the effort and 
+because prior modernization efforts by VA have been unable to achieve 
+seamless interoperability with the Department of Defense (DoD). Since 
+2000, the OIG has identified VA's information management as a ``major 
+management challenge'' because VA has a history of not always properly 
+planning, overseeing, and implementing updates to its critical IT 
+investments.\2\
+---------------------------------------------------------------------------
+    \2\ Department of Veterans Affairs, ``Inspector General's VA 
+Management and Performance Challenges,'' Fiscal Year (FY) 2019 Agency 
+Financial Report, sec. III, (2019). The OIG is required to report 
+annually on VA's major management challenges.
+---------------------------------------------------------------------------
+    The VA's legacy EHR system, VistA, has served the department for 
+more than 40 years but lacks needed interoperability and is too costly 
+to maintain. While VA has taken steps to modernize VistA, these 
+attempts have not resulted in a single, interoperable EHR system with 
+DoD. Moreover, the Government Accountability Office (GAO) previously 
+reported that these prior efforts have cost VA over a billion 
+dollars.\3\ VA determined that using a common EHR system with DoD will 
+drive better clinical outcomes by giving healthcare providers a more 
+comprehensive picture of the veteran's medical history and enhance 
+collaboration with VA's community healthcare partners.
+---------------------------------------------------------------------------
+    \3\ Government Accountability Office, ``VA Health IT Modernization: 
+Historical Perspective on Prior Contracts and Update on Plans for New 
+Initiative,'' July 25, 2019.
+---------------------------------------------------------------------------
+    On June 1, 2017, then VA Secretary David Shulkin signed a 
+``determination and findings'' document declaring VA would acquire the 
+new EHR system from Cerner Corporation using an exception to the 
+Federal Acquisition Regulation requirement for full and open 
+competition. Cerner developed the core platform of DoD's new EHR 
+system, Military Health System (MHS) GENESIS.
+    The determination and findings provided several rationales for why 
+the acquisition of the new EHR system was in the public's interest. The 
+reasons included the ability for VA to gain efficiencies from DoD 
+lessons learned, accelerated delivery of a modern EHR to support 
+improved health care, and the facilitation of a more consistent patient 
+experience between VA and DoD. In May 2018, VA awarded Cerner an almost 
+$10 billion contract to replace VistA.
+    In addition to the Cerner contract, VA estimated also needing $6.1 
+billion for program management and infrastructure-related costs during 
+the new EHR's 10-year-deployment. Of the $6.1 billion, about $4.3 
+billion is for infrastructure-related costs, such as IT infrastructure 
+and interfaces. The infrastructure cost estimates do not cover, 
+however, some physical infrastructure upgrades, such as cabling, 
+ventilation, air conditioning, and physical security, to be funded by 
+the Veterans Health Administration's (VHA's) nonrecurring maintenance 
+budget. While the OIG is not aware of any VA estimate for these costs 
+at the current time, VHA has requested facility assessments be 
+completed at all sites by March 31, 2020. Once those are done, VA may 
+have a better idea of gaps between the current and necessary future 
+State of facilities nationwide and be able to develop informed cost 
+estimates. The remaining $1.8 billion is for program management.
+    In Fiscal Year 2020 alone, the OEHRM was appropriated $1.5 billion 
+in program funding. Of this amount, approximately $328 million is 
+estimated for infrastructure costs, such as IT infrastructure end-user 
+device upgrades. VHA and OEHRM officials told OIG staff that funding 
+for some of the physical infrastructure upgrades to facilities will 
+come from VHA's nonrecurring maintenance budget, which is in addition 
+to the $328 million. These infrastructure upgrades have the potential 
+to represent a significant cost to VA, as these upgrades at the Mann-
+Grandstaff VAMC alone are estimated by VA to cost about $23.2 million.
+
+    Developing the New EHR
+
+    OEHRM and Cerner worked with various VA offices to develop the 
+required clinical, technical, and structural readiness deployment 
+requirements for the new EHR. VA established 18 clinical councils 
+composed of subject matter experts from VA, VHA, Cerner, and DoD. These 
+experts reviewed MHS GENESIS's functions and determined which ones 
+needed to be further developed to meet VHA's clinical and 
+administrative requirements.
+    At eight national and eight local workshops, clinical councils 
+configured the new EHR. Within a workshop session, each council 
+compared VHA's standards with the commercial Cerner software. If the 
+council identified gaps, the council worked with Cerner to design a 
+specific workflow that best met VA needs. A workflow describes business 
+or clinical steps from beginning to end, including key tasks and the 
+roles of the individuals who perform the tasks.\4\ Cerner groups 
+related workflows into a capability. For example, the separate 
+functions of medication refills and renewals are part of the outpatient 
+pharmacy capability, whereas inpatient pharmacy functions would be 
+considered a different capability. Capabilities are further organized 
+under a series of ``solutions,'' such as the pharmacy solution that 
+contains all inpatient and outpatient pharmacy functions.
+---------------------------------------------------------------------------
+    \4\ A specific workflow might describe the entire process from the 
+time a patient comes to the outpatient pharmacy window in need of a 
+prescription refill to the successful completion of the task. A 
+different workflow might describe, from start to finish, the steps 
+required by both patient and provider to renew a prescription.
+---------------------------------------------------------------------------
+    As Mann-Grandstaff VAMC approaches going live, Cerner will train 
+clinical and administrative staff on how to use the new EHR. The two-
+part integration and validation testing, based on actual patient 
+scenarios, was intended to ensure the new EHR will function correctly. 
+The testing also serves as a rehearsal for going live and provides 
+information for readiness assessments.
+
+Governance
+
+    There are two entities responsible for making the EHRM effort a 
+success. The first is VA's OEHRM, which was established in June 2018. 
+The OEHRM is responsible for ensuring VA properly prepares for, 
+deploys, and maintains the new EHR. This office is also responsible for 
+coordinating with DoD on numerous issues, including applying DoD's 
+lessons learned during its system implementation. While executive 
+leaders from the OEHRM report directly to the VA Deputy Secretary, the 
+office collaborates with VHA and the Office of Information and 
+Technology (OIT).\5\ All three VA entities are supposed to work 
+together to upgrade the infrastructure needed to deploy the new EHR 
+system. For example, the OEHRM developed the technical requirements for 
+the new system, while OIT and VHA shared the responsibility to define 
+the requirements for proper IT and physical infrastructure. OIT also 
+aligns projects and plans to support IT infrastructure upgrades and 
+uses local staff for surge support during the transition from VistA to 
+Cerner's system. VHA is responsible for decisions related to medical 
+devices and facility upgrades, and maintenance of the physical 
+infrastructure. The OEHRM has a director of infrastructure readiness 
+who provides oversight of the infrastructure upgrades related to EHRM, 
+but this position was vacant until August 2019.
+---------------------------------------------------------------------------
+    \5\ On February 21, 2020, VA Secretary Robert Wilkie signed a memo 
+designating the Office of Enterprise Integration as the integrator of 
+the EHRM project, reporting progress and challenges directly to him. 
+The memo did note that the Office of Deputy Secretary will retain 
+responsibility for fiscal oversight as required by the Further 
+Consolidated Appropriations Act, 2020, Public Law 116-94.
+---------------------------------------------------------------------------
+    On March 1, 2019, DoD and VA jointly established the Federal 
+Electronic Health Record Modernization (FEHRM) Program Office. This 
+office replaced the Interagency Program Office as the single 
+decisionmaking authority for all future EHRM efforts for VA and DoD. As 
+of December 2019, many details of this Office were still being 
+determined, but Section 715 of the conference report to the National 
+Defense Authorization Act for Fiscal Year 2020 states that the Offices' 
+Director and Deputy Director will serve 4-year terms with DoD and VA 
+alternating as the selecting agencies for both positions.
+
+Deployment Schedule
+
+    VA's deployment schedule includes three Initial Operating 
+Capability (IOC) sites followed by 47 additional cycles, which OEHRM 
+calls ``waves,'' for the remaining sites VA-wide through Fiscal Year 
+2027. The three IOC sites are Mann-Grandstaff VAMC and two sites in the 
+Puget Sound Health Care System in Washington--the Seattle VAMC and 
+American Lake VAMC in Tacoma along with their associated facilities. 
+For the IOC sites to be effective learning grounds, infrastructure 
+upgrades should be in place six months before the go-live date so that 
+weaknesses can be identified and addressed. This is a clear takeaway 
+from the DoD experience. OEHRM leaders have testified to this 
+Subcommittee their commitment to making timely infrastructure upgrades 
+six months before going live as a standard.\6\
+---------------------------------------------------------------------------
+    \6\ In November 2018, the OEHRM's Chief Technology Integration 
+Officer told this Subcommittee that the office planned to have 
+technology readiness done six months before going live. On June 12, 
+2019, the OEHRM's Executive Director confirmed to the Subcommittee VA's 
+plan for infrastructure to be ready six months prior to the go-live 
+date. Later in the hearing, OEHRM's Chief Technology Integration 
+Officer admitted that not all infrastructure would be completed by the 
+go-live date. In November 2019, in an interview with OIG staff, the 
+OEHRM's Executive Director confirmed that VA's objective to have 
+infrastructure completed six months before the system is deployed at 
+the IOC sites is ``critical'' to mitigating setbacks that occurred at 
+DoD's sites. Additionally, OEHRM's integrated infrastructure plan, 
+dated November 2018, stated infrastructure upgrades are ``expected to 
+be complete no later than six months prior to the go live event.''
+
+---------------------------------------------------------------------------
+Go-Live Date & EHR Capabilities
+
+    The day that a site turns on the new EHR system at the IOC site for 
+personnel to use is being referred to as the go-live date. However, 
+going live does not mean that the full system with all functionalities 
+will be up and running. As early as July 2019, OEHRM determined that 
+not all EHR functions would be available for the planned March 2020 go-
+live date. In response, OEHRM leaders made the decision to deploy EHR 
+functions in separate blocks at different times. These separate blocks 
+are called ``capability sets.'' Capability Set 1 was scheduled to be 
+deployed in March 2020, with Capability Set 2 scheduled for deployment 
+approximately 6 months later. The new EHR has more than 300 
+capabilities in total, and while the majority are included in Set 1, 
+there are some significant functions missing. For example, cardiology 
+and some aspects of telehealth are in Set 2. As discussed later in this 
+testimony, the absence of an online patient portal in Set 1 for 
+medication refill requests is a significant concern.
+    Once Mann-Grandstaff VAMC goes live with the new EHR system, care 
+providers and administrators will use it for clinical and 
+administrative work, while relying on the Joint Longitudinal Viewer 
+(JLV) to view records not contained in the new EHR. These include 
+records from VA medical centers not yet using the new EHR.\7\ 
+Similarly, all VA staff who do not have the new EHR will be required to 
+view facilities' patient information through JLV. Facility staff will 
+be required to switch back and forth between the new EHR and JLV to 
+correctly capture all clinical and administrative information.
+---------------------------------------------------------------------------
+    \7\ The JLV is a web application that provides an integrated, read-
+only view of EHR data from VA, DoD, and some community partners through 
+the Veterans Health Information Exchange, a program that allows 
+participating community providers to securely share health information.
+---------------------------------------------------------------------------
+    When IOC sites go live, providers will need to adjust to using the 
+new EHR for tasks associated with taking care of patients. They also 
+will have to view consult referrals, active inpatient orders, and 
+active outpatient laboratory and imaging orders in JLV, and then 
+manually reenter the information into the new EHR to ensure action. For 
+example, if a clinician ordered an x-ray in VistA for a patient, and 
+that x-ray has not been acted upon by the go-live date, the clinician 
+must find the order in JLV and manually reenter it into the new EHR so 
+that the study is documented, scheduled, and completed.
+    In July and August 2019, OEHRM presented the capabilities in Set 1 
+and Set 2 to leaders at the Mann-Grandstaff VAMC and the VA Puget Sound 
+Health Care System, the initial operating locations originally 
+scheduled for spring 2020 deployment. Due to the absence of some 
+required functions in Set 1, VA Puget Sound Health Care System leaders 
+decided to delay their IOC rollout until the completion of Set 2 out of 
+concern for the clinically sophisticated nature of their healthcare 
+system. Mann-Grandstaff VAMC leaders decided to continue with the March 
+2020 go-live date and began developing mitigation strategies for the 
+clinical and administrative function gaps between the deployments of 
+Set 1 and Set 2.
+    The first report in this testimony discusses VA's work to mitigate 
+risks during the new EHR's transition that will impact the facility's 
+ability to provide timely care.
+
+REVIEW OF ACCESS TO CARE AND CAPABILITIES DURING THE TRANSITION TO VA'S 
+NEW EHR
+
+    The OIG focused this review on the initially available capabilities 
+and the potential impact of the EHR transition on access to care at the 
+Mann-Grandstaff VAMC.
+
+Facility Management of Access to Care Risks
+
+    The OIG found that Mann-Grandstaff VAMC leaders consulted with DoD 
+staff who transitioned to the Cerner system in 2017 and experienced a 
+30-percent decrease in productivity for 18 months following the 
+transition. This reduction will generate access-to-care risks that 
+require mitigation strategies. Thus, facility leaders used a 30-percent 
+decrement in productivity over a 12-to-24-month period as a measure 
+when generating a mitigation plan. The Mann-Grandstaff VAMC's 
+mitigations include adding facility staff, enhancing clinical space, 
+changing clinic processes, and increasing the use of community care.
+    Facility leaders told OIG staff that VHA's Office of Healthcare 
+Transformation (OHT) gave strong support to help prepare for decreased 
+access to care. However, the OIG's review of OEHRM activities during 
+the last two years did not reveal evidence of final operational 
+guidance to the Mann-Grandstaff VAMC on the matter. Absent that 
+evidence of written guidance, facility leaders utilized a self-designed 
+mitigation plan.
+    In June 2018, facility leaders told the VISN Director that a 
+projected staffing shortage might prevent Mann-Grandstaff VAMC from 
+meeting the access to care challenges of the new EHR implementation. 
+Thus, in September 2018, facility leaders requested hiring 102 
+employees (over time this request increased to 108). In April 2019, 
+despite Mann-Grandstaff VAMC leaders' concerns regarding staffing 
+levels for the new EHR implementation, VISN 20 conducted an analysis of 
+fiscal resources, which led facility leaders to initiate a hiring 
+pause, with an aim to meet the VISN's goal to decrease overall staffing 
+by 88 positions.\8\ The hiring pause continued until October 2019. As 
+of February 5, 2020, 48.5 of 108 new staff had been onboarded.
+---------------------------------------------------------------------------
+    \8\ A VISN leader reported that in the 2018 fiscal year, 
+substantial hiring by Mann-Grandstaff VAMC led to a budget deficit. 
+Facility leaders acknowledged to the OIG that budget planning errors 
+for the 2019 Fiscal Year led to a projected deficit, which exceeded $20 
+million for personnel. These events complicated planning for adequate 
+staff hires during the EHR transition.
+---------------------------------------------------------------------------
+    The OIG identified that Mann-Grandstaff VAMC leaders addressed 
+recent in-house access to care challenges within primary care, but a 
+significant backlog of 21,155 community care consults remained as of 
+January 9, 2020. The OIG found that while facility staff have been 
+working additional hours since December 2019 to reduce the open 
+community care consult backlog, that same staff will face other 
+obstacles when going live due to the increased manual work needed to 
+schedule community care owing to Set 1's limited capabilities. VHA and 
+the facility are also aware that community care access will be 
+challenged by increasing demand and limited supply in the Spokane area.
+
+Capability Limitations
+
+    OEHRM and Cerner determined in July 2019 that not all anticipated 
+capabilities of the new EHR would be available for the initially 
+proposed go-live date. Mann-Grandstaff VAMC leaders worked with OHT and 
+OEHRM to generate mitigations for the incomplete capabilities in Set 1 
+at the go-live date.
+    By August 2019, both OHT and facility staff developed processes to 
+track mitigation efforts. The facility mitigation tracker has 84 
+strategies for minimizing the impact of the missing capabilities 
+classified as moderate and high risk. Since then, facility risks and 
+mitigations have been regularly updated and tracked with progress 
+updates reported to the wider group of project stakeholders.
+    Facility leaders and staff told the OIG healthcare team of concerns 
+related to the deployment of capability sets including
+
+      Not knowing what capabilities would be available at the 
+IOC;
+
+      Changing capabilities to meet the go-live timeline, 
+instead of changing the go-live timeline to meet the completion of 
+capabilities;
+
+      Challenges in developing training due to incomplete 
+information regarding which capabilities would be available at the IOC;
+
+      Limitations in Set 1 that present as ``significant 
+handicaps at day zero;''
+
+      Requiring staff to access two systems (JLV and the new 
+EHR) while providing patient care;
+
+      Feeling compelled to go-live in March 2020, without the 
+full capability being ready; and
+
+      Inability to accurately predict patient safety risks 
+because of incomplete information about which capabilities would be 
+available at the IOC.
+
+    For example, online prescription refills, the most popular 
+mechanism for refilling prescriptions at the Mann-Grandstaff VAMC, was 
+identified as a capability that would be absent at the go-live date. 
+Examples of mitigation plans include the need for
+
+      Care in the community staff to navigate between the new 
+EHR, JLV, and other third-party software to determine patient 
+eligibility, and track consult approval and status;
+
+      Primary care teams to manually enter all non-VA patient 
+medications to ensure a complete record of active medications in the 
+new EHR; and
+
+      Patients who previously ordered refills of medications 
+through the MyHealtheVet portal to use alternative means for refill 
+requests.\9\
+---------------------------------------------------------------------------
+    \9\ MyHealtheVet is an online personal health portal in which 
+patients can schedule appointments, view medical records, refill 
+prescriptions and send secure messages to their providers.
+
+    The OIG reviewed facility refill requests during calendar year 2019 
+and found the MyHealtheVet portal was the most frequently used method 
+for patients to request prescription refills.\10\ Facility leaders and 
+staff told the OIG of safety concerns related to losing the 
+MyHealtheVet electronic refill portal and that mitigation strategies 
+seemed insufficient to meet patient needs. This mitigation plan 
+requires patient involvement, and as of January 15, 2020, facility 
+leaders had not yet communicated with patients about the new electronic 
+prescription refill process.
+---------------------------------------------------------------------------
+    \10\ My HealtheVet, Get to Know Rx Refill Options, https://
+www.myhealth.va.gov/mhv-portal-web/ss20180423-prescription-refill-
+options-for-veterans. (The website was accessed on January 17, 2020.) 
+VA medical facilities provide patients with several methods to refill 
+VA prescribed medications: online through the MyHealtheVet portal, by 
+phone through the automated telephone refill line, in person at a VA 
+pharmacy, and by mail through the VA mail order pharmacy.
+---------------------------------------------------------------------------
+    The OIG determined that the work-arounds needed to address the 
+removal of the online prescription refill service create additional 
+barriers for patients to refill medications. The barriers created by 
+these processes present a patient safety risk and the mitigation 
+strategies are insufficient to significantly reduce those risks should 
+a decision to go live at a future date involve only Set 1. The OIG was 
+unable to determine all patient safety risks associated with the new 
+EHR, but the work-around for the electronic prescription refill process 
+alone presents significant concerns as it may impact a patient's 
+ability to fill a life-sustaining medication.
+
+DEFICIENCIES IN INFRASTRUCTURE READINESS FOR DEPLOYING VA'S NEW 
+ELECTRONIC HEALTH RECORD SYSTEM
+
+    In order to deliver patient care using the new EHR, significant 
+infrastructure upgrades are needed to VA's physical and IT 
+infrastructure. The OIG conducted an audit to determine whether VA's 
+infrastructure readiness activities are on schedule at the Mann-
+Grandstaff VAMC and associated facilities. The audit team examined 
+physical and IT infrastructure to determine VA's readiness to proceed 
+with system implementation and to identify infrastructure challenges 
+that could impact the overall system deployment schedule.
+    Physical infrastructure refers to the underlying foundation that 
+supports the system, such as electrical; cabling; and heating, 
+ventilation, and air-conditioning. IT infrastructure includes network 
+components such as wide and local area networks, end-user devices 
+(e.g., desktop and laptop computers, and monitors), and medical 
+devices.
+    VA has recognized the need to apply lessons learned from DoD to 
+avoid deployment setbacks, and as discussed earlier, OEHRM leaders 
+testified before this Subcommittee in June 2019 that having the 
+infrastructure in place six months before system deployment to sites 
+was a program goal, meaning that infrastructure upgrades should have 
+been completed by the end of September 2019.
+    The OIG found critical physical infrastructure upgrades had not 
+been completed at the Mann-Grandstaff VAMC as of the audit team's site 
+visit in October 2019--less than the six-months prior to the go-live 
+date. The lack of important upgrades jeopardizes VA's ability to 
+properly deploy the new EHR system and increases risks of delays to the 
+overall schedule.
+
+Physical Infrastructure Was Not Upgraded Timely, with Many Upgrades 
+Pending Completion After Going Live
+
+    The audit team found some infrastructure upgrades intended to 
+mitigate diminished system performance are not projected to be 
+completed until months after going live. For example, modifications to 
+telecommunications rooms were not estimated to be completed until up to 
+four months after March 2020. Furthermore, the audit team followed up 
+with VA and confirmed that as of February 25, 2020, contracts had yet 
+to be awarded for some critical physical infrastructure upgrades. Until 
+modifications are complete, many aspects of the physical infrastructure 
+existing in the telecommunications rooms (such as cabling) and data 
+center do not meet national industry standards or VA's internal 
+requirements.
+    On the week of October 7, 2019, less than six months prior to go-
+live, the audit team found that all 24 telecommunications rooms and the 
+data center at the Mann-Grandstaff VAMC and associated facilities still 
+needed work completed in order to meet industry and VA standards. Table 
+1 illustrates the findings from these telecommunications rooms' 
+inspections.
+
+Table 1. Summary of Telecommunications Room Deficiencies Identified at 
+the Mann-Grandstaff VA Medical Center and Two Associated Facilities 
+(October 7-11, 2019)
+
+[GRAPHIC NOT AVAILABLE IN TIFF FORMAT]
+
+
+    The Mann-Grandstaff VAMC's data center will house Cerner's servers 
+and act as the main computer room. The audit team identified issues 
+with data center infrastructure, including substandard cabling and 
+improper management, inadequate fire sprinkler systems clearance, and 
+the potential for leaks from the facility's cafeteria located above the 
+data center.
+    Finally, properly controlling operating temperature in 
+telecommunications rooms helps ensure equipment longevity. An OEHRM 
+official stated that increased temperature in the telecommunications 
+rooms when going live was his biggest concern. Installation of 
+additional equipment will increase the rooms' temperatures, requiring 
+more cooling. The interim solution to prevent increased temperatures 
+was to place temporary exhaust fans in rooms, replacing them later with 
+a permanent cooling system. The audit team also found the potential for 
+additional costs by using the temporary exhaust fans only to replace 
+them later with a permanent cooling system.
+
+Critical IT Infrastructure Was Not Upgraded Six Months Before Going 
+Live and Medical Devices May Not Be Able to Connect to the New System
+
+    The audit team also identified deficiencies with the preparedness 
+of IT infrastructure and found the medical center and its associated 
+facilities did not have critical IT infrastructure upgrades completed 
+six months before the March 2020 go live date. For example, as of the 
+week of the audit team's site visit in October 2019, about 31 percent 
+of the needed end-user computing devices had yet to be received. And, 
+as recently as early January 2020, VA had yet to receive about 51 
+percent of the medical devices needed for going live as well as an 
+approval from DoD to connect the medical devices to the new system.
+
+The Infrastructure Upgrade Schedule Was Likely Unrealistic for the 
+March 2020 Go-Live Date and Could Contribute to Further System 
+Deployment Delays
+
+    Infrastructure upgrades were not completed at the Mann-Grandstaff 
+VAMC in a timely manner to properly prepare for the new EHR deployment 
+primarily because VA lacked
+
+      Comprehensive site assessments to determine a realistic 
+go-live date,
+
+      Requisite specifications for infrastructure and 
+appropriate monitoring mechanisms, and
+
+      Adequate staffing.
+
+    The OIG concludes in its upcoming report that VA committed to an 
+aggressive, but likely unrealistic, deployment date of March 2020 
+without having the necessary information on the facility's 
+infrastructure. Specifically, on June 26, 2018, VA announced the 
+medical center's go-live date of March 2020; however, it was not until 
+nearly a year later in May 2019 that an assessment was performed 
+identifying physical infrastructure needs. Also concerning is that 
+OEHRM first made infrastructure requirements for physical 
+infrastructure available to VHA at a technical design session in April 
+2019, just 5 months before the necessary infrastructure was supposed to 
+be ready for the go-live event.
+    In June 2019, OEHRM leaders told Congress that infrastructure 
+upgrades would not be complete before going live and indicated the 
+infrastructure upgrades were not necessary to support the March 2020 
+go-live event. In addition, as of November 1, 2019, the infrastructure 
+requirements specifications document was still not approved by VHA. 
+While OEHRM, VHA, and OIT share the responsibility for infrastructure 
+readiness upgrades, disagreements on specific standards contributed to 
+delays.
+    Similarly, for IT infrastructure, the Current State Reviews were 
+completed in July 2018, which first identified the need for end-user 
+device upgrades to support the new system.\11\ This gave VA about 14 
+months (until September 2019) to achieve its goal for the completion of 
+IT infrastructure upgrades. This was about eight fewer months than the 
+approximately 22 months the OEHRM Infrastructure Readiness Planner 
+estimated that it takes from the time the need for a device is 
+identified to delivery to an end user. Also, VA did not begin procuring 
+end-user devices until April 2019, leaving only about five months for 
+delivery to the Mann-Grandstaff VAMC and for the actions needed for 
+end-user readiness such as configuring. Finally, it is evident that VA 
+needed more time than allotted to complete actions necessary for 
+receiving approval from DoD for the authority to have medical devices 
+connect to the new system.
+---------------------------------------------------------------------------
+    \11\ Among other reasons, the Current State Reviews were conducted 
+by Cerner to assess gaps in the facility's IT infrastructure and 
+provide VA leaders with finding and recommendations. The Current State 
+Reviews did identify the need for significant IT infrastructure 
+upgrades, such as new computers, monitors, printers, scanners, and bar 
+code readers.
+---------------------------------------------------------------------------
+    Despite OEHRM's Executive Director confirming to OIG staff in 
+November 2019 the criticality of infrastructure upgrades being 
+completed six months prior to the go-live date, it is evident that 
+OEHRM and VHA personnel knew that physical and IT infrastructure 
+upgrades could not be completed within this timeframe. Therefore, the 
+infrastructure schedule that was developed was unrealistic.
+
+Management Controls Were Lacking and Key Staffing Positions Were Vacant
+
+    VA lacked some management controls needed to effectively monitor 
+infrastructure readiness at the Mann-Grandstaff VAMC. For example, the 
+OEHRM internal tracking tool was not put into use until June 2019, only 
+3 months before VA's goal to have infrastructure upgrades complete. As 
+of November 2019, an OEHRM employee reported that no comprehensive tool 
+existed at the national program level to monitor upgrades to critical 
+patient care medical devices. Although OEHRM was conducting internal 
+briefings that included infrastructure readiness, the lack of a 
+comprehensive, effective tracking mechanism increases the risk that 
+milestones will not be achieved.
+    The OIG team found VA lacked staff to oversee the program's 
+infrastructure readiness. As of November 2019, four of six staff 
+positions on the infrastructure readiness team were still unfilled, and 
+the infrastructure readiness director position was vacant until filled 
+in August 2019, or about two months before VA's goal of having 
+infrastructure upgrades complete six months prior to the go-live date. 
+Without this dedicated position being filled early in the 
+infrastructure planning process, VA would be less likely to spot 
+potential issues stemming from deficient infrastructure.
+    Because the second IOC site will not deploy the new EHR until 
+November 2020, the first three waves of site deployment, scheduled to 
+go live in August, October, and November 2020, have also been postponed 
+until 2021. By not having infrastructure ready for the deployment of 
+the new EHR, VA could experience issues like those encountered by DoD 
+and have less time to respond to and correct infrastructure-related 
+deficiencies before deploying the system at future sites. In turn, this 
+could delay advancing VA's goal of improving patient care through the 
+modernization initiative.
+
+Inadequate Safeguarding of Critical Physical Infrastructure at the 
+Mann-Grandstaff VAMC Increases Risks to System Security
+
+    The OIG staff also found, while not directly affecting system 
+deployment, some security vulnerabilities at the Mann-Grandstaff VAMC. 
+Neither Cerner nor VA identified these vulnerabilities because their 
+assessments do not call for identification of physical security 
+concerns. A Mann-Grandstaff VAMC employee recognized that damage to 
+physical infrastructure due to unauthorized access could result in 
+campus-wide loss of connectivity and patient care downtime for an 
+extended period.
+
+CONCLUSION
+
+    This Subcommittee and VA have made it a priority to improve VA's IT 
+systems. The OIG's work highlighted in this statement reveals there are 
+still considerable challenges, particularly regarding plans to ensure 
+continued access to timely health care for veterans and incomplete 
+critical physical and IT infrastructure upgrades at the Mann-Grandstaff 
+VAMC and associated facilities. The OIG is committed to providing 
+practical recommendations that flow from our oversight work to help VA 
+deploy the new EHR efficiently and in a manner that improves veterans' 
+experiences. The OIG will continue to monitor aspects of VA's EHRM 
+effort to help realize the improvements sought by Congress and our 
+Nation.
+    Madam Chair, this concludes my statement. I would be happy to 
+answer any questions you or other members of the Subcommittee may have.
+                               __________
+
+                  Prepared Statement of Travis Dalton
+
+    Thank you Chairwoman Lee, Ranking Member Banks, and distinguished 
+members of the committee. My name is Travis Dalton, President of Cerner 
+Government Services.
+    Thank you for the opportunity to be here, and for your continued 
+engagement and support of the Department of Veterans Affairs' (VA) 
+Electronic Health Record Modernization (EHRM) program.
+    Cerner is honored to be part of a shared mission to ensure a 
+lifetime of seamless care for our Veterans, Service members and their 
+families.
+    Transformation at scale is hard. It carries risks and we don't take 
+the challenges lightly. We must deploy to over 1,700 sites, train over 
+300,000 VA employees, collaborate with DoD to make decisions and 
+interoperate with community providers. Those challenges also represent 
+opportunities.
+    Under VA's leadership, we have made significant strides on our 
+journey to transform care. We have incorporated commercial practices, 
+lessons learned from DoD, and VA provider-led feedback to ensure user 
+adoption and readiness to meet Veteran needs. We are pleased with our 
+progress.
+
+      VA has come together to establish standardized workflows 
+and designs based on the work of 18 clinical councils, comprised of 
+thousands of providers across VA, and 8 National workshops. This 
+enterprise standardization is a monumental achievement.
+
+      We launched VITAL, a training series to empower super 
+users with the technical and change management skills needed to support 
+the EHR implementation and ongoing success.
+
+      We have migrated 23.5M Veterans health records into the 
+VA environment. This is the first time that historical VA and DoD 
+health data are in the same system.
+
+    In the coming months, we will implement a new joint Health 
+Information Exchange (HIE) that will allow interoperable information 
+sharing across VA, DoD and community providers connected to the 
+network. Incredible progress is being made.
+    We are supportive of the revised go-live schedule and the decision 
+to take additional time for testing and end-user training. We heard the 
+advice from this committee to take the time to get it right and 
+listened to the provider community. The additional time will allow us 
+the opportunity to ensure a successful go-live at Mann-Grandstaff.
+    This program is truly transformational. By moving from 130 
+disparate systems to one open, modern, integrated system, we will have 
+the right data, at the right place and time to drive outcomes. We also 
+have access to advanced analytics that will give us the opportunity to 
+better diagnose, treat and prevent chronic diseases; environmental 
+exposures; suicide and PTSD; and opioid abuse.
+    Healthcare's highest calling is caring for the men and women who 
+sacrificed in service to our country. Every day we are energized by the 
+passion and commitment in pursuit of this common purpose. On behalf of 
+Cerner, we are humbled and proud to be a part of this effort.
+    Thank you and I look forward to our discussion today.
+
+                                 [all]
+

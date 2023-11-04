@@ -1,0 +1,1376 @@
+
+ - PATHWAYS TO PROCUREMENT INNOVATION
+
+[Senate Hearing 117-574]
+[From the U.S. Government Publishing Office]
+
+
+                                                        S. Hrg. 117-574
+
+                   PATHWAYS TO PROCUREMENT INNOVATION
+
+=======================================================================
+
+                                HEARING
+
+                               BEFORE THE
+
+                              COMMITTEE ON
+               HOMELAND SECURITY AND GOVERNMENTAL AFFAIRS
+                          UNITED STATES SENATE
+
+                    ONE HUNDRED SEVENTEENTH CONGRESS
+
+
+                             SECOND SESSION
+                               __________
+
+                              MAY 12, 2022
+                               __________
+
+        Available via the World Wide Web: http://www.govinfo.gov
+
+                       Printed for the use of the
+        Committee on Homeland Security and Governmental Affairs
+        
+        
+                  [GRAPHIC NOT AVAILABLE IN TIFF FORMAT]        
+        
+                               __________
+
+                    U.S. GOVERNMENT PUBLISHING OFFICE
+                    
+50-844 PDF                WASHINGTON : 2023   
+        
+
+
+        COMMITTEE ON HOMELAND SECURITY AND GOVERNMENTAL AFFAIRS
+
+                   GARY C. PETERS, Michigan, Chairman
+THOMAS R. CARPER, Delaware           ROB PORTMAN, Ohio
+MAGGIE HASSAN, New Hampshire         RON JOHNSON, Wisconsin
+KYRSTEN SINEMA, Arizona              RAND PAUL, Kentucky
+JACKY ROSEN, Nevada                  JAMES LANKFORD, Oklahoma
+ALEX PADILLA, California             MITT ROMNEY, Utah
+JON OSSOFF, Georgia                  RICK SCOTT, Florida
+                                     JOSH HAWLEY, Missouri
+
+                   David M. Weinberg, Staff Director
+                    Zachary I. Schram, Chief Counsel
+                  Michelle M. Benecke, Senior Counsel
+   Tiffany Ann Shujath, U.S. Department of Homeland Security Detailee
+                Pamela Thiessen, Minority Staff Director
+            Sam J. Mulopulos, Minority Deputy Staff Director
+       Jeremy H. Hayes, Minority Senior Professional Staff Member
+   Timothy Harris III, Minority Federal Emergency Management Agency 
+                                Detailee
+                     Laura W. Kilbride, Chief Clerk
+                     Thomas J. Spino, Hearing Clerk
+
+
+                            C O N T E N T S
+
+                                 ------                                
+Opening statements:
+                                                                   Page
+    Senator Peters...............................................     1
+    Senator Portman..............................................     2
+    Senator Carper...............................................    15
+Prepared statements:
+    Senator Peters...............................................    23
+    Senator Portman..............................................    25
+
+                               WITNESSES
+                         Thursday, May 12, 2022
+
+Soraya Correa, President and Chief Executive Officer, Soraya 
+  Correa and Associates, LLC.....................................     4
+Grant M. Schneider, Senior Director of Cybersecurity Services, 
+  Venable LLP....................................................     6
+Elizabeth Sullivan, President, Madison Services Group, Inc.......     8
+
+                     Alphabetical List of Witnesses
+
+Correa, Soraya:
+    Testimony....................................................     4
+    Prepared statement...........................................    27
+Schneider, Grant M.:
+    Testimony....................................................     6
+    Prepared statement...........................................    31
+Sullivan, Elizabeth:
+    Testimony....................................................     8
+    Prepared statement...........................................    37
+
+ 
+                   PATHWAYS TO PROCUREMENT INNOVATION
+
+                              ----------                              
+
+
+                         THURSDAY, MAY 12, 2022
+
+                                     U.S. Senate,  
+                           Committee on Homeland Security  
+                                  and Governmental Affairs,
+                                                    Washington, DC.
+    The Committee met, pursuant to notice, at 10:15 a.m., in 
+room SD-342, Dirksen Senate Office Building, Hon. Gary Peters, 
+Chairman of the Committee, presiding.
+    Present: Senators Peters, Carper, Hassan, Sinema, Ossoff, 
+Portman, Scott, and Hawley.
+
+            OPENING STATEMENT OF CHAIRMAN PETERS\1\
+
+    Chairman Peters. The Committee will come to order.
+---------------------------------------------------------------------------
+    \1\ The prepared statement of Senator Peters appears in the 
+Appendix on page 23.
+---------------------------------------------------------------------------
+    First I would like to thank our witnesses for joining us 
+here today. Today's hearing will examine the state of Federal 
+Procurement, consider ways to boost innovation in the 
+procurement process, and address challenges that have put a 
+tremendous strain on Federal contracting.
+    A reliable and consistent procurement process is the key to 
+ensuring that the Federal Government can effectively deliver 
+its services to all Americans.
+    Federal agencies depend on procurement professionals to 
+place contracts efficiently, to ensure that government needs 
+are being met, and that taxpayer dollars are being used 
+effectively. But we also need a process that is innovative and 
+a process that is nimble enough to adapt to changing needs and 
+circumstances. In recent years, the amount of Federal dollars 
+spent on contracts has steadily increased, driven in part by 
+the need to acquire new technology, such as software, cloud 
+computing, cybersecurity protections, and artificial 
+intelligence (AI), products and services that we can only 
+expect to become even more in demand as we move forward.
+    At the same time, we face several challenges that have made 
+the procurement process both difficult to manage, and difficult 
+to navigate for companies hoping to do business with the 
+Federal Government. These challenges include a shortage of 
+procurement professionals, particularly those with expertise 
+related to emerging technologies, along with steep barriers for 
+new companies seeking their first Federal contract, and a 
+diminishing domestic industrial base that can support the 
+government's needs and requirements.
+    Right now, procurement professionals are retiring at a 
+higher rate than they can be replaced, which leaves few 
+experienced staff available to train new recruits in the 
+contracting field, and even fewer staff with the expertise and 
+training needed to make increasingly complex technology 
+purchases.
+    I was pleased to work with Ranking Member Portman on 
+bipartisan legislation to create a training program to help 
+Federal employees responsible for purchasing and managing 
+artificial intelligence technologies better understand their 
+capabilities and their potential risks.
+    But it is clear there is more we must do to ensure that 
+government is at the cutting edge of new developments and that 
+taxpayers are getting the most out of their hard-earned tax 
+dollars.
+    Frequently, agencies are challenged to work at the ``speed 
+of relevance'' of the technology that they buy, and 
+procurements that take years to complete cannot keep pace with 
+the speed of technological developments. This leaves agencies 
+with technology that is new to them but may already be obsolete 
+for the job at hand.
+    The pool of Federal contractors is also shrinking, 
+particularly with regard to new and small companies. A recent 
+Government Accountability Office (GAO) study of the Department 
+of Defense (DOD) contracting found that, while DOD contracts 
+with small businesses increased by 15 percent, the number of 
+small businesses awarded those contracts decreased by almost 
+half.
+    A July 2021 Bipartisan Policy Center report noted similar 
+concerns, with unique barriers that small businesses in 
+particular face when trying to enter the Federal contracting 
+process.
+    New, small firms are a critical component of our industrial 
+base, pioneering new innovations, strengthening the resiliency 
+of the domestic supply chains, and creating good-paying jobs in 
+communities across our country.
+    I was proud to advance bipartisan legislation through this 
+Committee that was signed into law earlier this year, called 
+the Promoting Rigorous and Innovative Cost Efficiencies (PRICE) 
+Act, which ensures that small and disadvantaged business owners 
+are given a fair opportunity to compete for Federal contracts 
+and continue to grow their companies.
+    Today, I am very pleased to welcome a talented group of 
+experts who can help us identify more effective solutions to 
+address these ongoing challenges, and ensure that the Federal 
+Government is able to better serve the American people.
+    Thank you to the three of you for being here. We look 
+forward to this discussion.
+    Ranking Member Portman, you are recognized for your opening 
+comments.
+
+            OPENING STATEMENT OF SENATOR PORTMAN\1\
+
+    Senator Portman. Thank you, Mr. Chairman. I appreciate the 
+witnesses as well, and particularly Ms. Correa, thank you for 
+your many years of service to the Department of Homeland 
+Security (DHS). You were there at the inception and 
+congratulations on your retirement.
+---------------------------------------------------------------------------
+    \1\ The prepared statement of Senator Portman appears in the 
+Appendix on page 25.
+---------------------------------------------------------------------------
+    The United States government spends a lot of money each 
+year from taxpayers on contracts for goods and services. In 
+2020, that was about $665 billion, a 50 percent increase from 
+just 2015. Some of this increase was due to the coronavirus 
+disease 2019 (COVID-19)--we understand that--but not all of it. 
+We have to wait and see what the contracting outcomes will be 
+for this year as Federal agencies contend with skyrocketing 
+inflation, because it is likely that drive the numbers up 
+further. Procurement officials also face a lot of other major 
+challenges in the areas of cybersecurity, which this Committee 
+has spent a lot of time on, and also workforce, and the need to 
+get more procurement officials into the government.
+    I think we have to focus today on another issue which is 
+``Buy American'', because that is where this Committee has 
+taken a lead. We have to do what we can do to protect American 
+jobs, and that starts by ensuring that tax dollars spent on 
+American government procurement is not used to create jobs 
+overseas when it can be used to create jobs here.
+    I am grateful that one area that remains bipartisan is this 
+``Buy American'' and Made in America approach. It has been the 
+law for nearly a century, but Federal agencies have, in my 
+view, granted too many waivers to ``Buy American''. Under 
+current law Federal agencies may use domestic content waivers 
+to purchase goods or services from foreign companies only in 
+very limited circumstances, for example, when there is no 
+American-made product available or it will significantly 
+increase the cost. Federal agencies, however, in my view, 
+overuse this waiver authority and until recently there was not 
+an easily accessible, governmentwide system tracking the use 
+and the abuse of these waivers. I am pleased we have made 
+progress on that.
+    The bipartisan BuyAmerican.gov Act is now law. That is my 
+legislation with Senator Stabenow, which was part of the 
+infrastructure bill, and the Administration has issued an 
+Executive Order (EO) creating this public website, 
+MadeinAmerica.gov. I am pleased to see that, which will help 
+by, among other things, better identifying opportunities for 
+American companies to be able to contract with the government. 
+It mandates that any Federal agency requesting a waiver to Made 
+in America requirements to publicly submit it for everyone to 
+see. There may be American manufacturers unknown to the 
+government that can meet these needs, and that is what this 
+website will be helpful to provide. That transparency is good 
+for American jobs.
+    I also was pleased to work with Chairman Peters on 
+something called ``Build America, Buy America.'' It is a title 
+of the recently passed infrastructure bill as well. That title 
+updated ``Buy American'' requirements to ensure all the money 
+spent on infrastructure goes to American manufacturing and 
+American workers, American steel as an example, which is made 
+in Ohio. We also included the Make PPE in America Act part of 
+that legislation. That requires personal protective equipment 
+(PPE) critical to responding to a public health crisis here at 
+home is made in America. When we talked to PPE manufacturers 
+about re-shoring this production to America, the biggest thing 
+we heard was we need long-term contracts to be able to make the 
+investments, and that is in that legislation. The multi-year 
+contracts as required in this legislation will give them the 
+certainty they need to make these investments in the United 
+States.
+    Having passed all these laws, we might just say 2021 was 
+the ``Year of Buy American''. These are really historic 
+changes, particularly in the infrastructure bill, and this 
+Committee should be proud of the work it has done on a 
+bipartisan basis to improve these programs. Again, I thank the 
+witnesses for being here. We look forward to your comments 
+today and your ideas on improving the Federal procurement 
+system further and making the government a smarter buyer on 
+behalf of the American people.
+    Chairman Peters. Thank you, Ranking Member Portman.
+    It is the practice to the Homeland Security and 
+Governmental Affairs Committee (HSGAC) to swear in witnesses, 
+so if each of our witnesses would please stand and raise your 
+right hand.
+    Do you swear the testimony you will give before this 
+Committee will be the truth, the whole truth, and nothing but 
+the truth, so help you, God?
+    Ms. Correa. I do.
+    Mr. Schneider. I do.
+    Ms. Sullivan. I do
+    Chairman Peters. Thank you. You may be seated.
+    Our first witness is Soraya Correa. Ms. Correa currently 
+serves as President and Chief Executive Officer (CEO) of Soraya 
+Correa & Associates, LLC, and was the former Chief Procurement 
+Officer at the Department of Homeland Security. While at DHS, 
+Ms. Correa was recognized for her advancement of acquisition 
+innovation through the creation of the Procurement Innovation 
+Lab (PIL), now regarded as a model within government. She has 
+also served more than 40 years in Federal services at agencies 
+such as the Naval Sea Systems Command (NAVSEA), General 
+Services Administration (GSA), National Aeronautics and Space 
+Administration (NASA), and DHS since its very inception. She 
+was awarded the Presidential Rank Award for Distinguished 
+Service in 2018, and has spoken widely on acquisition topics, 
+including acquisition reform and securing the supply chain.
+    Welcome, Ms. Correa. It is great to have you here. You may 
+proceed with your opening remarks.
+
+ TESTIMONY OF SORAYA CORREA,\1\ PRESIDENT AND CHIEF EXECUTIVE 
+            OFFICER, SORAYA CORREA & ASSOCIATES, LLC
+
+    Ms. Correa. Sir, thank you. Good morning, Chairman Peters, 
+Ranking Member Portman, and other distinguished Members of the 
+Committee. I appreciate the opportunity to appear before you 
+today to discuss procurement innovation. After over 40 years of 
+dedicated Federal service in the acquisition profession I 
+retired in July 2021, as the Chief Procurement Officer (CPO) 
+and Senior Procurement Executive at the Department of Homeland 
+Security. My career spanned several Federal agencies and 
+positions as both a procurement and program official.
+---------------------------------------------------------------------------
+    \1\ The prepared statement of Ms. Correa appears in the Appendix on 
+page 27.
+---------------------------------------------------------------------------
+    Today I operate a small business supporting the acquisition 
+process through the advice and consultation to professional 
+associations, industry, and academia. My commitment to the 
+profession and the improvement of the procurement process is 
+demonstrated through the programs and initiative I implemented 
+at DHS.
+    Speak with any acquisition leader and they will highlight 
+the challenge of recruiting, hiring, and retaining a well-
+trained and experienced workforce. To address the challenge, 
+the Federal Government needs to invest in the growth and 
+development of the acquisition workforce. By that I mean create 
+programs and initiatives to promote the profession, deliver the 
+right training at the right time, and ensure career paths are 
+clear.
+    One area where we can improve is in creating consistency 
+across the profession when it comes to certification standards 
+and promoting the use of a common language for the profession. 
+By doing so we can make acquisition careers more transferrable 
+between government and industry and as a result grow the 
+profession. I believe that the use of a common language will 
+also make it easier for academic institutions to offer degree 
+programs and for individuals to understand and appreciate the 
+profession.
+    However, certification and training is not enough. We need 
+to develop the soft skills and provide on-the-job learning 
+opportunities. While this is nothing new, I believe that 
+today's acquisition professional needs to know how to 
+communicate, collaborate, and cooperate with others and they 
+need to be inquisitive, risk tolerant, and decisive. The best 
+way to gain these skills is through on-the-job training where 
+they can learn by doing.
+    The establishment of intern programs is one of the many 
+ways in which agencies can develop and grow their workforce 
+while simultaneously providing technical, interpersonal, and 
+leadership training. At DHS we established the Acquisition 
+Professionals Career Program (APCP) to attract, train, and hire 
+acquisition professionals. We also created a mentoring program 
+for procurement personnel. Finally, we encouraged rotational 
+job assignments and participation in specialized training and 
+certification programs such as the Digital Information 
+Technology Acquisition Professionals (DITAP) Program. Such 
+initiatives create an environment where individuals feel 
+appreciated and valued.
+    I established the DHS Procurement Innovation Lab to inspire 
+and motivate the acquisition workforce to put forth ideas on 
+how we could simplify the procurement process, enhance 
+outcomes, and ensure a more efficient and effective experience 
+for industry and government. My goal was not to seek changes to 
+statute or regulation but to identify and use all the 
+flexibilities available in the Federal acquisition regulation. 
+Our process was designed to test the innovation or idea and 
+share what we learned across the acquisition community.
+    Since then, several agencies have created procurement 
+innovation organizations. Many of the innovative practices and 
+techniques developed by the PIL and other agencies are found on 
+the Periodic Table of Acquisition Innovations (PTAI), which is 
+hosted on the Federal Acquisition Institute (FAI) website. 
+Encouraging organizations to promote procurement innovation and 
+sharing what they learn is essential to improving the process.
+    Several agencies are also using artificial intelligence, 
+robotic process automation, and other technologies to promote 
+efficiency in procurement processes and enhance the customer 
+experience. Such efforts need to be encouraged and shared 
+across the Federal agencies.
+    While at DHS I implemented discussion forums for 
+traditional and non-traditional contractors to learn about DHS 
+and share with us technologies, approaches, and innovations. 
+Two of the most popular were the Strategic Industry 
+Conversation and the Reverse Industry Day. At the Strategic 
+Industry Conversation, officials shared with industry the 
+challenges and opportunities that lay ahead. The Reverse 
+Industry Day was a unique forum for industry to educate us on 
+their business practices. Topics included what goes into 
+preparing a proposal, why do companies protest, and how to buy 
+certain technologies.
+    These events provide information and generate ideas for 
+improving processes and removing barriers to competition. I 
+recommend we encourage agencies to create or participate in 
+such events.
+    In addition to exploring the flexibilities in the Federal 
+Acquisition Regulatory (FAR), at DHS we had success in using 
+special procurement authorities, including other transaction 
+authority and the Commercial Solutions Opening Pilot (CSOP) 
+program, to acquire innovative technologies and solutions. 
+These authorities provide greater flexibility in the drafting 
+of the contractual agreement since they are not subject to the 
+FAR and enable organizations to acquire products and services 
+from new or non-traditional contractors with specialized 
+knowledge and expertise. I ask that you consider making such 
+authorities permanent and expand these authorities for use by 
+the Chief Financial Officer (CFO) Act agencies.
+    Thank you again for the opportunity to appear before you 
+today. I remain committed to the success of our Federal 
+Government and the acquisition profession. I take this 
+opportunity to express appreciation for my colleagues in 
+government, industry, and academia, and a special thank you to 
+the Committee for seeking solutions and providing the support 
+this profession deserves.
+    I look forward to your questions.
+    Chairman Peters. Thank you, Ms. Correa, for your comments.
+    Our next witness is Grant Schneider. Mr. Schneider 
+currently serves as the Senior Director of Cybersecurity 
+Services at Venable LLP, and served as the former U.S. Chief 
+Information Security Officer (CISO) based out of the White 
+House. Mr. Schneider led the establishment of the Federal 
+Acquisition Security Council (FASC), an interagency body 
+responsible for overseeing information and communications 
+technology, supply chain risk management for the Federal 
+Government as its first chair. He also held positions leading 
+cybersecurity at the National Security Council (NSC), and 
+acquisition-related positions in information technology (IT) 
+resource management at the Defense Intelligence Agency (DIA).
+    Mr. Schneider, welcome to the Committee. You may proceed 
+with your opening remarks.
+
+    TESTIMONY OF GRANT M. SCHNEIDER,\1\ SENIOR DIRECTOR OF 
+              CYBERSECURITY SERVICES, VENABLE LLP
+
+    Mr. Schneider. Thank you very much. Chairman Peters, 
+Ranking Member Portman, Members of the Committee and your 
+staff, thank you for the privilege to appear before you today.
+---------------------------------------------------------------------------
+    \1\ The prepared statement of Mr. Schneider appears in the Appendix 
+on page 31.
+---------------------------------------------------------------------------
+    As mentioned, I have spent my entire 30-year career focused 
+on our nation's security. This includes over 20 years at the 
+Defense Intelligence Agency, seven of which as the Chief 
+Information Officer (CIO). I then spent six years at the 
+Executive Office of the President (EOP), including serving as a 
+Senior Director for Cybersecurity Policy on the National 
+Security Council staff, and most recently as the Federal Chief 
+Information Security Officer.
+    For the past 20 months I have been a Senior Director of 
+Community Services at the law firm Venable, where I help our 
+clients, both large and small companies, from across all 
+sectors, enhance their cybersecurity programs through the 
+development and implementation of risk management strategies, 
+as well as assisting with the preparation, response, and 
+recovery from cybersecurity incidents, including ransomware.
+    I also have helped many clients who are struggling to 
+navigate the acquisition and compliance regimes necessary to do 
+business with the Federal Government. I want to thank the 
+Committee for taking up the important issues related to the 
+timely acquisition of goods and services by the government.
+    My first exposure to procurement was in the mid 1990s, when 
+I was a GS-8 or--9. I was the Defense Intelligence Agency's 
+representative to a global contract for IT services to support 
+the defense intelligence community (IC). I met the Air Force 
+(USAF) representative, who was a colleague and would-be mentor.
+    One day we were working the program and I made the comment 
+that there was something in the contract that gave us great 
+leverage over the contractor and it was going to be a great 
+deal for the government. The Air Force representative looked at 
+me and said, ``Look, son. The point of the contract is to 
+create an environment where the government and industry can 
+work together to accomplish and solve agency mission needs. It 
+is not there for us to beat each other over the head about.''
+    Through that program I experienced the mission success 
+possible from a partnership between contracting officers, 
+technologists, and the vendors. Unfortunately, many of the 
+people I have met throughout my career still view government 
+contracts as an adversarial tool rather than a collaborative 
+opportunity.
+    Federal agencies, like nearly all organizations today, are 
+dependent on technology to develop and deliver critical 
+services in support of our Nation. While these digital 
+enhancements increase productivity, convenience, and access to 
+services, they also present opportunities for malicious cyber 
+actors who have demonstrated a willingness to exploit any 
+system to achieve their objectives.
+    This evolution to a more digital experience means Federal 
+information technology investments are more critical than ever 
+before, and as previously mentioned, the Federal Government 
+invests a lot of money in information technology, over $90 
+billion a year. Most of that money is spent on goods and 
+services acquired through Federal procurement processes. 
+Federal agencies need agility within the procurement system to 
+leverage the innovative tools, technologies, and services 
+available from the private sector.
+    Here are some actions I think government can take to 
+enhance procurement innovation.
+    One, provider greater flexibilities for contracting 
+officers to prioritize the mission needs of the government 
+during procurement. This includes recognizing that time to 
+market is a key metric for every acquisition.
+    Two, establish partnerships between technology and 
+acquisition professionals. I recommend creating joint teams of 
+acquisition and technology individuals who can focus on mission 
+delivery to address agencies' most pressing technology 
+procurement needs.
+    Three, develop procurement vehicles that allow for 
+technical refresh throughout their lifecycle so new 
+technologies can be made available to agencies without 
+necessitating new procurement processes.
+    Four, consider supply chain risks associated with goods and 
+services in technology acquisitions. This includes the quality 
+and provenance of the items being procured as well as the 
+trustworthiness of the provider. Additionally, the government 
+should take steps to ensure there is a trusted marketplace 
+available for public and private sector acquisitions.
+    Fifth, drive consistent compliance and security 
+requirements across the Department of Defense and Federal 
+civilian agencies' acquisition processes. DOD and civilian 
+agencies are seeking many of the same innovative commodity 
+technologies available in the private sector. However, 
+divergence in compliance requirements increases costs to the 
+private sector to develop and provide solutions to both 
+communities.
+    Thank you again for the opportunity to speak with you 
+today, and I look forward to your questions.
+    Chairman Peters. Thank you, Mr. Schneider.
+    Our final witness is Elizabeth Sullivan. Ms. Sullivan 
+currently serves as President of Madison Services Group Inc. 
+(MSGI), a government relations firm focusing on government 
+contracting, and leads various groups representing both small 
+and midsize contractors.
+    She recently led the formation of the Secure Supply Chain 
+Consortium, a group of small and midsize Federal contractors 
+that advice decisionmakers on difficult supply chain security 
+problems such as recent efforts to restrict procurement of 
+certain information and telecommunications equipment from China 
+and the Department of Defense's Cybersecurity Maturity Model 
+certification.
+    Ms. Sullivan, welcome to our Committee. You may proceed 
+with your opening remarks.
+
+TESTIMONY OF ELIZABETH SULLIVAN,\1\ PRESIDENT, MADISON SERVICES 
+                          GROUP, INC.
+
+    Ms. Sullivan. Thank you. Chair Peters, Ranking Member 
+Portman, and members of the Committee, thank you for the 
+opportunity to testify today. My name is Elizabeth Sullivan and 
+I am President of Madison Services Group. MSGI advocates on 
+behalf of many segments of the small and midsize Federal 
+contracting community. I am here today to discuss a key 
+component of our procurement system, small businesses.
+---------------------------------------------------------------------------
+    \1\ The prepared statement of Ms. Sullivan appears in the Appendix 
+on page 37.
+---------------------------------------------------------------------------
+    At MSGI, we believe practical business problems require 
+practical policy solutions. I would like to thank the Chair for 
+spearheading the bipartisan PRICE Act. This new law addresses 
+the need for modernizing the Federal acquisition system and 
+will be transformative for small business contractors around 
+the country. It tackles one of the barriers to procurement 
+innovation, effective utilization of small businesses.
+    Let me say up front a common misconception is that small 
+companies believe they will be given awards by the Federal 
+Government. This is simply not true. Small businesses just want 
+a fair shot to compete.
+    The Federal procurement system adds additional layers of 
+complexity. This is not to say that all acquisition regulations 
+are problematic. However, a number of them should be 
+streamlined. Challenges arise not just from the content of the 
+rules but how the rules are promulgated. For example, the time 
+lapse between FAR Council action and final rules published the 
+Small Business Administration (SBA) can span up to seven or 
+more years, causing confusion for all involved. I urge this 
+Committee to require the FAR Council to issue its rulemaking 
+simultaneously with the SBA.
+    The Committee has expressed concern about the health of the 
+industrial base, for good reason. On average, the Federal 
+market loses five percent of small business entrants every 
+fiscal year. Small companies are not just valuable prime 
+contractors but often serve as subcontractors to large 
+businesses. Since the government does not have a relationship 
+with subcontractors these companies have very little leverage 
+to remedy any problems that arise. Further, category management 
+has accelerated the decline in diversity of vendors, with large 
+dollar amounts held only by a few companies. Nearly one in 
+every four Federal contract dollars is spent through large 
+Multiple Award Contracts.
+    As the focus of government spending shifts more toward 
+innovation, small IT vendors play an important part in this 
+ecosystem. Hampering their success, outdated North American 
+Industry Classification System (NAICS) codes inhibit their 
+ability to win work. In addition, how agencies determine best 
+value can also prove to be problematic for small businesses. 
+Best value does not always mean lowest price, and despite past 
+congressional efforts, agencies are still using Lowest Price 
+Technically Acceptable (LPTA) for many contracts.
+    Small business offices at Federal agencies play an outsized 
+role in supporting small business participation. Our experience 
+is that they are under-resourced and cannot give individual 
+attention to all the small businesses that request it. Yet 
+agencies have been tasked with increasing the number of new 
+contractors.
+    Additionally, there is not enough attention given to 
+understanding small business programs across government. I know 
+firsthand that many women-owned small businesses (WOSB) spend a 
+great deal of time explaining the WOSB program to contracting 
+officers.
+    Speaking of new entrants, the government relies on strong 
+past performance when awarding a contract. Many times these 
+requirements can result in a chicken-and-egg situation. The 
+company can only get past performance by performing on the 
+contract but cannot be awarded a contract unless they have past 
+performance.
+    A recent attempt at solving this issue was proposed on the 
+new GSA Polaris procurement. The solicitation allowed small 
+companies to rely on the past performance of the large company 
+on their team. While good for new entrants, on the flip side 
+allowing this use of past performance could also hurt more 
+mature small businesses.
+    I would be remiss if I did not point out the uncertainty in 
+cybersecurity requirements that loom over small businesses. 
+With the constantly evolving cyber standards for government 
+contractors it can be challenging to remain compliant. I would 
+encourage this Committee to evaluate civilian agency 
+requirements, ensuring that they do not conflict with new DOD 
+standards.
+    In conclusion, small businesses are only asking for a fair 
+chance to compete. Strengthening agency focus on small business 
+programs, eliminating rulemaking discrepancies, shifting the 
+buying environment away from category management, and 
+clarifying governmentwide cybersecurity requirements builds 
+resiliency of the industrial base.
+    The topic today is of utmost importance to continuing COVID 
+recovery and securing a sustainable, innovation acquisition 
+environment.
+    Thank you for the opportunity to testify today, and I look 
+forward to answering your questions.
+    Chairman Peters. Thank you, Ms. Sullivan. Thank you for 
+your opening comments. Actually I want to pick up on the 
+comment you made with small businesses and ask a question of 
+all three of you. I will have Ms. Correa start and then you can 
+elaborate more, as the final word in this question.
+    I hear it all the time from small businesses. I was just at 
+a forum at Wayne State University earlier this week, and 
+particularly with minority businesses they are saying, ``We 
+cannot get contracts because we have to first show that we have 
+done well with a contract, that we cannot get, so it is 
+impossible to actually get one.'' I think all of you agree that 
+there is incredible innovation and dynamism in our small 
+business sector and we want to help those businesses grow and 
+prosper.
+    My question to each of, and we will let you have the last 
+word, Ms. Sullivan, because you brought up this issue in your 
+opening comments, to just elaborate on, how can we remove this 
+barrier? How can we expand opportunities for small businesses 
+to get these contracts and to stabilize their business and 
+provide great services to the Federal Government?
+    Ms. Correa. It is all in the evaluation, sir, and that is a 
+great question. It is all in the evaluation of the proposals. 
+There is an inherent desire to try to rely on past performance 
+and experience. What I have always said it experience is good, 
+depending on what it is you need it for. If you need a brain 
+surgeon you probably want them to have experience. If you are 
+buying technology, it is probably not going to have a lot of 
+experience because technology is changing on a recurring basis.
+    Instead of focusing so much on experience and past 
+performance I have always recommended let us test them. Let us 
+bring them in, have them demonstrate what they do. Have them 
+come talk to us, similar to what you do with interviewing a 
+person. A lot of the techniques that we develop through the 
+Procurement Innovation Lab were designed to do just that, to 
+create greater confidence in the evaluators by having the 
+opportunity to meet with companies, talk to them, perhaps test 
+them, or have them come in and demonstrate how they would 
+accomplish the work in the solicitation.
+    Chairman Peters. Thank you. Mr. Schneider.
+    Mr. Schneider. Yes, I think in addition to the test--I love 
+that idea--is recognizing past performance done in a commercial 
+setting. So past performance in government is not necessarily 
+unique, and I agree it is a lot about the evaluation, and often 
+the criteria is written so specific that you have to have had 
+past performance, perhaps even at a bureau level within an 
+agency, in order to even be considered for the acquisition, 
+whereas past performance in commercial settings would also be 
+perfect acceptable.
+    Ms. Sullivan. I think that builds off the idea that we 
+should not confuse new entrants in the Federal market with new 
+companies. I think that is a lot of the time what the 
+acquisition workforce thinks of with small businesses--oh, they 
+must have just started the businesses. A lot of these are very 
+successful commercial companies.
+    I do think, to address what you had said, Senator, having 
+goals that are internal to the agency, to kind of move the 
+needle for new entrants, that can be a way to incentivize 
+agencies to utilize these new entrants that may not have the 
+past performance. Also I think the Small Business 
+Administration district offices could be really powerful 
+feeders for non-traditional contractors that come to them and 
+connect them to different agencies that might have those 
+specific mission needs that need to be met.
+    Chairman Peters. Thank you. Ms. Correa, I understand that 
+recruiting and retention of procurement staff is clearly a 
+chief concern among Federal agencies all across the board. With 
+procurements becoming ever more complex we need trained, we 
+need experienced workforce, and I understand agencies are 
+continually recruiting contracting officers from each other in 
+an attempt to maintain staffing. A little bit of poaching going 
+on back and forth.
+    My question to you is how can the Federal Government ensure 
+that it has enough trained professionals? What do we need to be 
+doing now, and what do we need to be doing differently?
+    Ms. Correa. Thank you. That is a magnificent question. It 
+is something that I am passionate about. First, we have to put 
+the right leadership in place, people who really understand the 
+profession, understand what makes people tick, and are willing 
+to support their individuals, that are supposed to champion 
+this workforce and enable to take the right risks and do the 
+right thing.
+    But the most important thing that I would emphasize is 
+helping people understand what this profession is really about. 
+People do not always come into this profession because what 
+they read about is the bad-news stories that are out there in 
+the press. They do not hear about the good news, the things 
+that we do very well, including the lives that we save through 
+the procurements that we make, the things that we do to enable 
+the mission. We talk about procurement in terms of contracting 
+and administrative processes, and we do not talk about the fact 
+that what procurement does is enable the mission. We buy the 
+products and services that our first responders, our 
+warfighters, and others use. We need to learn how to talk to 
+people.
+    The other thing that I would say is we have to get into the 
+colleges, the universities, and I daresay, high schools, and 
+start talking about the profession. We need to bring in people 
+at the very beginning, help them see the career path and 
+understand what this mission is.
+    I came into the government as a clerk typist, and I took my 
+first procurement job at the Department of Navy, and I was 
+hooked. I was hooked because my job was diving and salvage, and 
+it was about people's lives and the livelihood of people, and I 
+have never forgotten what mission is about. We need to talk 
+that way. We need to promote the right leadership in the 
+organization, and we need to create programs.
+    I talked about intern programs. Intern programs are a great 
+way to bring people on board and educate them. I do think we 
+need to cross-train people. It is important. I took the 
+opportunity to go into the program side, program management, 
+and work in IT for a while, so I understand what IT is and how 
+they think and what they look at and what program officials 
+think.
+    In short, I would say we have to invest in the profession, 
+and I do mean invest--invest in training, invest in 
+recruitment, but most importantly we have got to get the right 
+leaders in place to go out there and talk to people and bring 
+them.
+    By the way, it was not a little bit of poaching, it was a 
+lot of poaching. Just thought I would mention that.
+    Chairman Peters. Good. Thanks for that clarification there.
+    Let me pick up on the cross-training aspect. Mr. Schneider, 
+with your own experience has a technical expert working on the 
+procurement team, what are your thoughts about cross-training? 
+Should we be doing more of that IT knowledge with folks with 
+procurement backgrounds?
+    Mr. Schneider. Yes. I think we should be realistic in what 
+that is going to get us. I think, in general, it is going to 
+get us awareness, and it is going to help people from each 
+community who are cross-trained kind of issue spot and 
+recognize issues and be able to adapt and react to them.
+    But I think we really need the collaborative teams, working 
+together, both focused on the mission outcomes that Soraya 
+talked about, to really be able to have that interest in the 
+agency outcomes and be able to learn from each other at a more 
+organic level than kind of awareness training will do.
+    Chairman Peters. Great. Thank you. I am going to need to 
+step away briefly. I have an Senate Armed Services Committee 
+(SASC) going on downstairs where I will be asking some 
+questions. I will temporarily pass the gavel over to Senator 
+Carper. But before Senator Carper gets that gavel I will 
+recognize Ranking Member Portman for his questions.
+    Senator Portman. Thank goodness, because you never know 
+once Carper gets that gavel what he might do with it. 
+[Laughter.]
+    I have seen him in action.
+    Thank you all again for your work on the procurement front. 
+Not always, as Ms. Correa kind of suggested, the best image 
+people think procurement and sometimes their eyes kind of glaze 
+over. I taught a course in procurement when I left the Office 
+of Management and Budget (OMB), and many of my students' eyes 
+sort of glazed over.
+    But by the end of the course I think they understood that 
+it really is essential, both for the proper use of our taxpayer 
+dollars and also you can do amazing things for the small 
+businesses, in particular, when given an opportunity to work 
+with government. Obviously we want the best, best for the 
+services that we provide.
+    One of the programs that I have concerns about is called 
+Federal Risk and Authorization Management Program (FedRAMP). It 
+is basically kind of a preclearance program for cloud services, 
+and Mr. Schneider, you know a lot about this. I think it has 
+weaknesses that make it vulnerable to foreign-based threats 
+targeting our cloud systems. That would include China and 
+Russia, by the way, in terms of some of these threats. The 
+Senate unanimously passed our bill called Strengthening 
+American Cybersecurity Act, which would address some of these 
+issues.
+    Mr. Schneider, have you looked at that legislation and do 
+you think it would be helpful?
+    Mr. Schneider. I am not intimately familiar with the 
+legislation. However, I certainly agree with you that the 
+FedRAMP program has some very good intentions. It certainly has 
+some room for improvement there, and I think that we have to 
+consider supply chain risk management in all our acquisitions, 
+whether it is for cloud services or any other services that we 
+are getting, and really come up with consistent ways that we 
+can evaluate a vendor, again for quality of product and 
+trustworthiness of the vendor themselves and potentially any 
+legal oversight that their host country could put upon them.
+    Senator Portman. I think it is really important that we 
+have these reforms to protect these cloud-based systems, and my 
+hope is that the House will take it up and it be properly 
+implemented.
+    What do GSA and FedRAMP programs need to do to attract 
+small and innovative technology companies to become FedRAMP 
+certified and to provide services to the Federal Government?
+    Mr. Schneider. I think the struggle with small businesses 
+and working to help some small businesses go through that 
+process, it is a very intensive and expensive process to get 
+through that has a lot of compliance. I think the Program 
+Office at GSA needs to be bigger, it needs to be better 
+resourced to be able to work with more companies. I think they 
+need to seek ways to reduce the burden and reduce the amount of 
+paperwork associated.
+    I think it also goes to being able to evaluate companies 
+for their security outcomes as opposed to just for their 
+security paperwork. The processes, they certainly need to have 
+processes in place. But we need more flexibility on how you can 
+meet the security outcomes for all businesses, small and large.
+    Senator Portman. That is one of our goals here, and my hope 
+is that this legislation can pass to help protect the cloud-
+based services but also we can expand the number of companies 
+that are innovative technology companies that will provide that 
+service.
+    On the Buy American laws, we talked about it in my opening 
+Statement quite a bit, but bottom line is we are spending more 
+and more money on goods being manufactured around the country, 
+but also $34 billion was spent on goods manufactured by foreign 
+firms in the last five years. The Department of Defense the 
+largest purchaser of manufactured goods in the world, has spent 
+over $200 billion on foreign products since 2007. Of course, we 
+have lost manufacturing jobs during that time period.
+    Ms. Correa, talk about that a little bit if you would, and 
+maybe one thing that would be interesting, I think, for people 
+to hear is what steps does a contracting officer go through in 
+determining whether or not to apply for a waiver of our Buy 
+American laws?
+    Ms. Correa. Sure. Certainly. Thank you. Thank you for the 
+question.
+    The Buy American Act is a little bit challenging because 
+you have to look at it in conjunction with other legislation 
+such as the Trade Agreements Act and a couple of other 
+legislations.
+    Generally speaking, what a contracting officer has to do 
+is, first of all, they have to make sure they are incorporating 
+the right clauses in the contract, but they also have to look 
+at the product and determine if that product is available by 
+American manufacturers. That is done in a number of ways. They 
+can publish it out in the Federal Biz Opps (FedBizOpps), the 
+publication that tells contractors that we are interested in 
+certain products and services.
+    Typically what agencies do on an annual basis is identify 
+all those products that they buy from foreign manufacturers and 
+publish them so that companies out there can tell us if they 
+can make those products or if they are interested in selling 
+those products to the government.
+    What I have seen is that typically when certain agencies 
+are buying things like aircraft parts, parts of ships, it 
+depends what engine they bought, and if that engine was bought 
+by a foreign manufacturer then you are probably going to have 
+to buy the parts from that manufacturer. That is what I have 
+typically seen.
+    At DHS, one of the things that I did to improve compliance 
+with Buy American Act--and I did this probably about six years 
+ago, when I was well into the job--was I raised the threshold 
+for review. Instead of leaving it at the head of contracting 
+level it came to my level to review any waivers for Buy 
+American Act. That seemed to cut down the number of the 
+waivers, but it also made us more conscious of what people were 
+buying and how they were buying.
+    But generally speaking the process is they do have to look 
+to see if there are American manufacturers out there. They do 
+have to announce that they intend to buy this product from 
+Company XYZ, whoever they may be, so that companies can come in 
+and tell us that they manufacture the product.
+    I do want to add that I think some of the recent efforts 
+that OMB has undertaken to take a closer look at Buy American 
+compliance, I think those processes will work. I think 
+compliance varies by agencies, based on what they buy and how 
+they buy.
+    Senator Portman. Yes. As I said earlier, 2021 was sort of 
+Buy America year. We had historic reforms to Buy America Act 
+and expanding it, and again, I am pleased that the Executive 
+Order has been issued with regard to BuyAmerica.gov website, 
+which is kind of a clearinghouse, as you say. That is needed to 
+let people know both on the private side what the opportunities 
+are but also to let government contracting officers and 
+procurement officers know that there is a business out there 
+that can provide this, and sometimes that is lost.
+    Do you think that the transparency and the clearinghouse 
+element of BuyAmerica.gov can be successful in expanding the 
+use of U.S. manufacturers?
+    Ms. Correa. Yes, I do believe that it can be successful but 
+I also think we have to do something a little bit more 
+practical, and that is we need to get out there and talk to 
+industry. We need to go out and understand why industry perhaps 
+is not interested in selling certain products or manufacturing 
+certain products in support of government needs.
+    A lot of times it has to do with the lack of guarantees in 
+the contracts. I think Elizabeth mentioned that in her 
+testimony, that sometimes these contracts, the way they are 
+written, the companies does not know when they are going to 
+recover their costs, if they are going to recover their costs. 
+There are upfront investments the companies have to make if 
+they are going to go into the manufacturing of certain 
+products. I think that is extremely important.
+    This all ties back to something that Grant said, and that 
+is we have got to build cohesive teams that plan the 
+procurement properly to think about all these factors, whether 
+it is cybersecurity, FedRAMP certification, Buy American. When 
+you build that team up front and you put it on the front end of 
+the question, you are going to write a much better 
+solicitation, you are going to engage in a much better 
+procurement process, and you are probably going to be bringing 
+industry in a lot earlier to talk about what you are thinking 
+about doing so they can get some input.
+    I am a huge advocate of the coordinated teams, but you have 
+to get them up front.
+    Senator Portman. Expediting the process so that it moves 
+more quickly, because we are moving at faster and faster speeds 
+in our economy, and particularly with inflation have a real 
+challenge right now to ensure we are spending that taxpayer 
+dollar most efficiently.
+    Senator Carper, when I taught this procurement class it was 
+at the Ohio State University (OSU), at the Glenn School, now 
+Glenn College, your alma mater, and named after the former 
+Chairman of this Committee. Mr. Chairman.
+
+              OPENING STATEMENT OF SENATOR CARPER
+
+    Senator Carper [presiding.] Ohio. I am a Navy Reserve 
+Officers' Training Corps (ROTC) midshipman, Ohio State 
+graduate. I graduated in 1968, at the height of the Vietnam 
+War, and headed over there to do three tours later on. I am 
+happy to be here to serve with Senator Portman and our 
+colleagues.
+    This first question is sort of light-hearted. I do remind 
+you all that you are under oath.
+    Ms. Correa, 40 years or more in service, and Mr. Schneider, 
+I think 30 years or more. Was your hiring all those years ago 
+in violation of child labor laws of this country? [Laughter.]
+    Ms. Correa. I wish.
+    Mr. Schneider. Sadly not.
+    Senator Carper. OK. All right.
+    First of all, this is a great hearing. You are wonderful to 
+come and join us.
+    On a panel like this, where sometimes we have witnesses 
+where it is an adversarial environment and we just kind of go 
+at it with each other, but that is not the case here. I think 
+there is a fair amount of consensus.
+    I would just start with you, Ms. Correa. Give us one or two 
+examples where you think this panel actually agrees on ideas 
+that we really ought to take to heart. Would you give us one or 
+two great ideas for consensus?
+    Ms. Correa. I believe in investing in the acquisition 
+workforce. That is the most important thing. If we do not 
+invest in the people you cannot fix the process. The people 
+will fix the process.
+    I stood up the Procurement Innovation Lab. I think that is 
+the right way to go. What we have to do is develop these people 
+so they become the kind of leaders that say, ``We are going to 
+champion what you do. We are going to stand with you and we are 
+going to let you take certain risks, and we are going to 
+support you.'' Understanding that when you take risks that 
+means that we might fail once or twice. But failure can be a 
+good thing because we learn from failure. We get up, we dust 
+ourselves off, we figure it out, and try again.
+    That is what I encouraged in my office, and that is what I 
+talked about, and I rewarded people who took risks, even when 
+it did not go well. I gave them awards and I recognized them 
+for trying something new.
+    The other thing that I would say is the authorities, the 
+flexibilities in the Federal acquisition regulation. There are 
+many there. We just have to understand them and we have to be 
+able to interpret them. We have to learn to talk to one 
+another. Often I hear procurement personnel say, ``The lawyer 
+would not let me do it.'' I never had a lawyer stop me from 
+doing anything I wanted to do. I knew how to talk to them. I 
+knew how to approach them and say, ``Here is what we are trying 
+to do. Get me there.''
+    Senator Carper. I like to say, ``'No' means find another 
+way.''
+    Ms. Correa. Then the other thing that I did also was I 
+stood up for the position that I was in. It was my job to 
+ultimately make the decision. The lawyers are there to advise. 
+Sometimes I was willing to take the risk, document the file on 
+that risk, and move on.
+    I think these are the kinds of things that we need to be 
+encouraging in the workforce. The partnerships with the program 
+offices, I was very candid with my program offices when I 
+thought they were trying to do something that was not going to 
+work, but I tried to give them options, to understand what was 
+available.
+    But the most important thing we can do is put the right 
+leaders in, investment in this acquisition workforce, get them 
+as young as we can. Look at me. I came in as a little kid--no, 
+just kidding. But bring them in as young as we can. Let's go 
+start talking to them at high school. Let them think about a 
+career in acquisition. I think promoting a common lexicon, a 
+common way of describing the profession and what we do, so that 
+industry and government can share in resources. There are a lot 
+of brilliant people in industry that I brought into the 
+government, and there are a lot of brilliant people in 
+government that went out to industry, and I think that is an 
+important thing to do.
+    Senator Carper. Good. Thank you very much for all that.
+    Mr. Schneider, do you agree with anything that Ms. Correa 
+has said?
+    Mr. Schneider. Yes. I really agree with that many 
+flexibilities exist in the FAR today. Whenever people ask me 
+about acquisition reform, and if you tell them you want a 
+particular thing it probably exists. The challenge is, quite 
+frankly, finding a contracting officer or a team who feels 
+empowered to leverage and implement and use some of those 
+flexibilities.
+    I think we need to talk to contracting officers and to the 
+teams about their role with risk management as opposed to their 
+personal liability if they decide to leverage one of those 
+flexibilities and how they are going to have to explain it to 
+an Inspector General (IG) or to GAO after the fact.
+    Some ability to go to their leadership, hopefully someone 
+as wonderful as Soraya, who is going to support them and 
+support their ability to focus on the mission needs I think is 
+absolutely critical.
+    Senator Carper. Good. Thanks. Ms. Sullivan, do you agree 
+with anything that either of these two people have said?
+    Ms. Sullivan. I agree with both of my fellow panelists. I 
+think that empowerment is really important, especially with 
+respect to utilizing small businesses. DHS is a fantastic 
+example of an agency who is willing to engage with small 
+businesses, to use those innovative solutions, where a lot of 
+times, agencies just will not.
+    I would say, on the use of other authorities, such as Other 
+Transnational Authority (OTAs) that was mentioned, something 
+that might be of interest is figuring out how are small 
+businesses able to access consortia? Are there any barriers 
+there? If Congress could look into that I think that would be 
+really useful to help see if we can get more small businesses 
+contracts via those flexible authorities.
+    Senator Carper. All right. Thank you.
+    Let me go back to Mr. Schneider for this question, and I 
+think I have time maybe for one more. As you know there is 
+critical need--we have been talking about the need to modernize 
+information technology systems across the Federal agencies. For 
+as long as I have been here we have been talking about this, 
+and to some extent doing it. It is important to both improve 
+the security of our systems and to ensure that the Federal 
+Government can serve the people we work for more effectively 
+and more efficiently.
+    From your perspective, what are the greatest challenges? 
+From your perspective, what are the greatest challenges to 
+agencies and their components to successfully investing in 
+technology modernization efforts?
+    Mr. Schneider. Senator, that is a great question, and I 
+feel like I have been chasing that much of my career. To your 
+point, I think there have been lots of successes. However, 
+technology modernization is something we never achieve. It is 
+something we are always going to be moving toward.
+    I think one of the opportunities we have today--and 
+certainly as Senator Portman mentioned there are some risks 
+with cloud capabilities and we need to understand the security 
+risks there--as agencies move toward cloud technologies they 
+are no longer buying the next decade's legacy system. They are 
+actually moving to a system where industry that has and brings 
+a lot of capability and innovation, is going to do the 
+evolution and the sustainment and the modernization of kind of 
+the underlying technologies, and the government can work toward 
+just having to modernize at more the application layer.
+    I think there are some opportunities moving forward, but it 
+also is going to take agencies to make some tradeoffs and to 
+decide to kill some systems that need to go away and should no 
+longer continue to be sustained.
+    Senator Carper. Part of what you said reminds me of the 
+Preamble of the Constitution. ``We the People, in order to form 
+a more perfect union.'' It does not say ``perfect.'' It says 
+``more perfect.'' The idea is that we realize we are always at 
+places where we can do better, and the idea is to move toward 
+that more perfect union, or more perfect approach to 
+technology.
+    I think Senator Peters may be en route to the airport to 
+fly back to Michigan, and so I get to chair this Committee now 
+for the next several weeks. [Laughter.]
+    But I am happy to yield back to Senator Portman, for 
+whatever he would like to ask.
+    Senator Portman. Thank you, Mr. Chairman. You chair so many 
+committees, I do not know if you would have time to chair 
+another.
+    With regard to workforce, we talked earlier about the 
+challenge that you are facing, and let us face it, pretty much 
+every sector of our economy is facing it right now, the private 
+sector and public sector. With unemployment at under three 
+percent and competition for talented workers being more intense 
+than ever, I am concerned that the Federal Government is going 
+to have even a harder time hiring individuals with private 
+sector experience to help the acquisition system work better, 
+because I think it is very helpful to have the private sector 
+coming in and helping our government to be able to recruit 
+people who understand the needs on both sides of the table, the 
+private sector of companies that we want to engage more in 
+procurement and the government side.
+    My question to you would be this. What can we do to make 
+sure that we are competitive? What could we do better? Ms. 
+Correa, why don't you start off since you have been looking at 
+this question over many years, and you have seen times when it 
+is easier and times when it is harder.
+    Ms. Correa. That is a great question and I want to mention 
+first the hiring process is painful, and I think you have heard 
+that before from other sides of the house, from the human 
+resource (HR) folks in government. We have to modernize our 
+hiring process. It takes too long to hire people. I literally 
+had to authorize overhires, meaning telling my folks to hire in 
+excess of the budget, meaning go out and recruit people, 
+because we know we are going to lose people. That way we have 
+people sitting on the bench ready to come in.
+    I should not have to do that. I should be able to run a 
+process where I can go and pick up people. I need a talent 
+individual and I should be able to go and say, ``Hey, 
+Elizabeth, come join my team. Here is what you applied for. Let 
+us look at this resume and let us get her on board.'' We do not 
+move that fast. Even with direct hire authority--you will hear 
+about direct hire authority--you have to go through a lot of 
+rules and reports and statistics to justify using that 
+authority that has been given to us.
+    I think therein lies the problem. We have to have a better 
+process, but then again, I revert back to what I said earlier. 
+We have to put the right leaders in place that know how to do 
+this, that know how to motivate a workforce. When I came to the 
+headquarters of Homeland Security to run one of the first 
+offices that I ran, which was the Office of Procurement 
+Operations, we had 60 people on board. I was authorized 250 
+people, and I needed to hire quickly. I got 250 people on board 
+in less than two years, but that is because I marshaled the 
+troops, and we went out there and recruited. But it is hard to 
+do with the current processes that are in place.
+    Senator Portman. I think that is a great point. We hear, in 
+this Committee, despite some of the improvements we tried to 
+make, like direct hiring--and by the way, some of it is agency 
+by agency; I think it should be governmentwide--but we hear 
+people telling this story about having found somebody talented 
+and the person, after two or three weeks of waiting, gets an 
+office from the private sector. The private sector says, ``We 
+will hire you tomorrow with benefits, ready to go,'' and they 
+say, ``I would love to join the government and have done some 
+public service here but I cannot wait four, five, or six 
+months. I have to move.'' I think that is a disadvantage that 
+we have.
+    Senator Peters is now back and I will let me ask questions, 
+but anybody, Ms. Sullivan or Mr. Schneider, any responses to 
+the hiring dilemma?
+    Mr. Schneider. Yes. One thing I would like to add and 
+really highlight something Soraya mentioned earlier, I think we 
+also need more flexibility to have people move in and out of 
+government in these rules. It is difficult for people, and we 
+need good, strong ethics rules, but sometimes they are a 
+barrier, for many government jobs but especially for 
+contracting officers who get excluded from being able to work 
+at lots of companies, or if they work at a company are excluded 
+from working back in the government. I think we will be able to 
+retain more people if we can allow them more flexibility to 
+move back and forth between industry and government, and gain a 
+whole bunch of expertise at the same time.
+    Ms. Sullivan. I would just add, if I can, that small 
+business offices at agencies are under-resourced, and they are 
+incredible tools to be able to get some new small businesses 
+into the government, keep small businesses providing innovative 
+products. So making sure that there are enough resources for 
+those offices is incredibly important.
+    Ms. Correa. May I add something to that----
+    Senator Portman. You may.
+    Ms. Correa [continuing]. Because Elizabeth raises a very 
+important point. At DHS I think we were successful because we 
+partnered with our Office of Small and Disadvantaged Business 
+Utilization, and I carved out positions from my staff to put 
+into that office so that we could work in partnership to evolve 
+our program. I think our program was successful because we had 
+it properly resourced, and I probably had one of the larger 
+Office of Small and Disadvantaged Business Utilization in 
+government, including that it was staffed by a senior executive 
+official.
+    I think that is a really important and valid point. 
+Agencies need to focus a little bit more on their small 
+business programs and how to bring in small businesses, and 
+that starts with the right people talking to the small 
+businesses.
+    Senator Portman. Great. My final question is about Federal 
+acquisition regulations. They are often added. They are rarely 
+taken away. Mr. Schneider mentioned that a second ago with 
+regard to one. New regulations are necessary but obsolete rules 
+and regulations, it seems to me, have to be removed.
+    Ms. Sullivan, one of the strengths of our acquisition 
+system is the presumption of competition, to get the best 
+value, so people have to compete with one another, and that is 
+a good thing. Based on your experience with small to midsize 
+companies, what Federal rules or regulations make it difficult 
+for these smaller companies to comply or compete when doing 
+business with the Federal Government and what rules or 
+regulations should be removed?
+    Ms. Sullivan. I think that clarity is always what small 
+businesses are seeking in any rule or regulation. One of the 
+issues that has been kind of plaguing the community for a long 
+time, that I had mentioned in my opening remarks, is the time 
+period from when the FAR Council issues a rule and the SBA 
+issues a final rule. It can span many years, and the 
+acquisition community often does not take SBA's final rules as 
+what they should be, which is that they should be followed 
+until it is in the FAR. It creates a ton of confusion and then 
+even more regulations or more rules that have to show up after 
+the fact because the rulemaking is not simultaneous.
+    Also I think the SBA Office of Advocacy did a nationwide 
+tour a couple of years ago, I think, if I am remembering the 
+timetable correct, and asked small businesses what regulations, 
+including contractors, are really hindering them. It encouraged 
+taking a look at that and what they found, because I know that 
+they found specific ones that were problematic for small and 
+obviously midsize companies as well.
+    Senator Portman. Great. We will look for that. Our capable 
+staff is already behind us, trying to find that online.
+    Thank you, Mr. Chairman. Thank you to the witnesses. Thanks 
+for your service.
+    Chairman Peters [presiding.] Thank you, Senator Portman.
+    Ms. Correa, the Government Ownership and Oversight of Data 
+in Artificial Intelligence (GOOD AI) Act is legislation that I 
+worked on with Ranking Member Portman which would create an 
+artificial intelligence hygiene working group. This group of 
+experts would create a means to ensure that Federal contractors 
+are using AI properly for the benefit of the country and that 
+the information collected through these technologies is not 
+misused.
+    My question for you is what are your thoughts on developing 
+additional contract requirements to ensure our systems are 
+secure and that sensitive information is being protected?
+    Ms. Correa. I never oppose contract requirements that are 
+about protecting our information, protecting our country, and 
+protecting our citizenry. However, we need to look at those 
+rules carefully and how they are going to impact industry, 
+because every time that we add rules in the Federal acquisition 
+regulation we are imposing new requirements on companies, and 
+they have to comply and they have to demonstrate compliance. We 
+also create additional work for the contracting officer or that 
+acquisition workforce, both from the program as well as the 
+procurement side.
+    What I would say is we have to carefully look at these 
+rules and make sure that we are looking at any other rules that 
+are affected by this rule, because all too often we are also 
+adding regulations without looking at what is already on the 
+books, what are the compliance requirements that are already on 
+the books.
+    But I am not opposed to any rules that protect our data, 
+protect our people, and protect our government. I am totally in 
+favor of that. I want to make sure that we do it right, that we 
+are looking across the spectrum to see what else is out there.
+    Chairman Peters. Mr. Schneider and Ms. Sullivan, do you 
+have thoughts on this matter?
+    Mr. Schneider. I agree. I would like to see the working 
+group, if they are going to propose new things that are needed 
+they could also propose, to Senator Portman's question, 
+something that needs to go away, but also there should be some 
+requirement on them to be able to explain what is not available 
+today within the regulations to achieve the outcome. They 
+should first be looking for how do the current regulations meet 
+the outcomes they are seeking and then look toward what new 
+requirements might be necessary.
+    Ms. Sullivan. Mr. Schneider actually mentioned something I 
+was going to say earlier, which is any new committee or any new 
+regulations in the cybersecurity realm or securing our 
+information, the regulations between DOD and civilian agencies 
+need to make sure that they are talking to each. Because that 
+has been a big problem for small businesses is there are 
+different agencies making really good changes to their 
+requirements but then they are not talking to each other. Then 
+the compliance for each one gets confusing and time-consuming 
+and expensive and does not result in better security for our 
+contractors.
+    Chairman Peters. Good.
+    Mr. Schneider, I would also, in closing here, just like you 
+to speak more about the process that you mentioned in your 
+opening statement that would allow technologies to be refreshed 
+throughout their lifecycle without necessitating a new 
+procurement. Would you expand on that, please?
+    Mr. Schneider. I think you mentioned this in the beginning, 
+the fact that we get things that are maybe new to an agency but 
+not new to the ecosystem, because of some of the procurement 
+timelines that we have. We need agility inside the procurement 
+process to be able to have procurements done quicker. The 
+reality is those may never get to the timelines that we really 
+want them to be able to acquire technologies on the timeline 
+that agencies are really going to want them and that the 
+timelines technologies are being developed.
+    How do we add flexibilities into those procurement vehicles 
+that allow vendors to come in and propose technical refreshes, 
+build it more at maybe the capability versus the procurement 
+vehicle at the capability level versus at the product level, so 
+that new products can be brought in to support that capability 
+as the products evolve over time, and for services as well.
+    Chairman Peters. Ms. Correa, do you have some thoughts?
+    Ms. Correa. No. I agree with what Grant is saying, that we 
+do need to build that technical refresh capability, and we have 
+done that before. It is not something new. It is how we do it. 
+How do we build it in there so that it is agile and flexible 
+and it is properly interpreted by the parties, because a lot of 
+times that is what you really run into is how we are 
+interpreting the rules and what we put into the contracts.
+    Chairman Peters. Great. Thank you.
+    I would like to thank all of our witnesses here for 
+participating in today's important discussion. I appreciate you 
+taking the time and for your very thorough answers to the 
+questions that we posed.
+    I think this conversation has given us a lot of 
+information. It has given us some ideas on how we can continue 
+to improve the procurement process, especially when it comes to 
+expanding opportunities for businesses to work with the Federal 
+Government, particularly small businesses, which is a priority 
+for me and I think many of the Members on this Committee.
+    Also how do we keep pace with rapidly changing technology. 
+The change we have seen will likely only accelerate in the 
+years ahead and we definitely need to be nimble and creative in 
+how we approach this problem. All three of you have given us 
+some ideas and we would love to continue to work with you in 
+the months ahead.
+    I want to thank Ranking Member Portman for holding this 
+hearing with me. We all look forward to working together. This 
+is a very bipartisan Committee that rolls up our sleeves and 
+gets things done, and this is one of those areas where we need 
+to do that. But we know that we are going to need to be talking 
+to you on a regular basis in order to accomplish that.
+    The record for this hearing will remain open for 15 days, 
+until 5 p.m. on May 27, 2022, for the submission of statements 
+and questions for the record.
+    The hearing is now adjourned.
+    [Whereupon, at 11:21 a.m., the hearing was adjourned.]
+
+                            A P P E N D I X
+
+                              ----------                              
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+                                 [all]
+

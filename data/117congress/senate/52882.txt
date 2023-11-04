@@ -1,0 +1,2788 @@
+
+ - EXAMINING THE PRESIDENT'S WORKING GROUP ON FINANCIAL MARKETS REPORT ON STABLECOINS
+
+[Senate Hearing 117-697]
+[From the U.S. Government Publishing Office]
+
+
+
+                                                        S. Hrg. 117-697
+
+
+EXAMINING THE PRESIDENT'S WORKING GROUP ON FINANCIAL MARKETS REPORT ON 
+                              STABLECOINS
+
+=======================================================================
+
+                                HEARING
+
+                               before the
+
+                              COMMITTEE ON
+                   BANKING,HOUSING,AND URBAN AFFAIRS
+                          UNITED STATES SENATE
+
+                    ONE HUNDRED SEVENTEENTH CONGRESS
+
+                             SECOND SESSION
+
+                                   ON
+
+EXAMINING THE PRESIDENT'S WORKING GROUP ON FINANCIAL MARKETS REPORT ON 
+                              STABLECOINS
+
+                               __________
+
+                           FEBRUARY 15, 2022
+
+                               __________
+
+  Printed for the use of the Committee on Banking, Housing, and Urban 
+                                Affairs
+
+
+
+
+
+
+                 [GRAPHIC NOT AVAILABLE IN TIFF FORMAT]
+
+
+
+
+
+
+
+                Available at: https: //www.govinfo.gov /
+
+                               ______
+                                 
+
+                 U.S. GOVERNMENT PUBLISHING OFFICE
+
+52-882 PDF                WASHINGTON : 2023
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            COMMITTEE ON BANKING, HOUSING, AND URBAN AFFAIRS
+
+                     SHERROD BROWN, Ohio, Chairman
+
+JACK REED, Rhode Island              PATRICK J. TOOMEY, Pennsylvania
+ROBERT MENENDEZ, New Jersey          RICHARD C. SHELBY, Alabama
+JON TESTER, Montana                  MIKE CRAPO, Idaho
+MARK R. WARNER, Virginia             TIM SCOTT, South Carolina
+ELIZABETH WARREN, Massachusetts      MIKE ROUNDS, South Dakota
+CHRIS VAN HOLLEN, Maryland           THOM TILLIS, North Carolina
+CATHERINE CORTEZ MASTO, Nevada       JOHN KENNEDY, Louisiana
+TINA SMITH, Minnesota                BILL HAGERTY, Tennessee
+KYRSTEN SINEMA, Arizona              CYNTHIA LUMMIS, Wyoming
+JON OSSOFF, Georgia                  JERRY MORAN, Kansas
+RAPHAEL WARNOCK, Georgia             KEVIN CRAMER, North Dakota
+                                     STEVE DAINES, Montana
+
+                     Laura Swanson, Staff Director
+
+                 Brad Grantz, Republican Staff Director
+
+                       Elisha Tuku, Chief Counsel
+
+                 Dan Sullivan, Republican Chief Counsel
+
+                      Cameron Ricker, Chief Clerk
+
+                      Shelvin Simmons, IT Director
+
+                        Pat Lally, Hearing Clerk
+
+                                  (ii)
+
+
+
+
+
+
+
+
+
+
+                            C O N T E N T S
+
+                              ----------                              
+
+                       TUESDAY, FEBRUARY 15, 2022
+
+                                                                   Page
+Opening statement of Chairman Brown..............................     1
+        Prepared statement.......................................    30
+
+Opening statements, comments, or prepared statements of:
+    Senator Toomey...............................................     4
+        Prepared statement.......................................    31
+
+                                WITNESS
+
+Jean Nellie Liang, Under Secretary for Domestic Finance, 
+  Department of the Treasury.....................................     6
+    Prepared statement...........................................    33
+    Responses to written questions of:
+        Chairman Brown...........................................    37
+        Senator Menendez.........................................    39
+        Senator Warnock..........................................    41
+        Senator Scott............................................    42
+        Senator Hagerty..........................................    42
+
+              Additional Material Supplied for the Record
+
+Statement submitted by ICBA......................................    44
+Statement submitted by ABA.......................................    47
+Letter submitted by The Clearing House...........................    53
+Letter submitted by NAFCU........................................    62
+Letter submitted by CUNA.........................................    64
+Statement submitted by BPI.......................................    66
+Letter submitted by ETA..........................................    74
+
+                                 (iii)
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+EXAMINING THE PRESIDENT'S WORKING GROUP ON FINANCIAL MARKETS REPORT ON 
+                              STABLECOINS
+
+                              ----------                              
+
+
+                       TUESDAY, FEBRUARY 15, 2022
+
+                                       U.S. Senate,
+          Committee on Banking, Housing, and Urban Affairs,
+                                                    Washington, DC.
+    The Committee met at 10:03 a.m., in room SD-538, Dirksen 
+Senate Office Building, Hon. Sherrod Brown, Chairman of the 
+Committee, presiding.
+
+          OPENING STATEMENT OF CHAIRMAN SHERROD BROWN
+
+    Chairman Brown. The Senate Banking, Housing, and Urban 
+Affairs will come to order.
+    Under Secretary Liang, welcome. Glad you are here. Thank 
+you.
+    Our witness is in person. Members have the option to appear 
+either in person or virtually, so thank you.
+    Let me start out by talking about the Federal Reserve for a 
+moment. This afternoon at 2:15, we will be meeting in SVC-200, 
+the Visitors Center at the bottom of the steps, to mark up five 
+Federal Reserve nominees and one for the FHFA. We need a full 
+Federal Reserve Board of Governors to bring down prices and put 
+workers first. It will be the first time in a decade we have 
+seen a full complement of Governors once we confirm in 
+Committee and on the floor, these five nominees.
+    Ranking Member Toomey and I agreed on the dates. Three 
+weeks ago, we agreed on the dates for the hearing and markup. 
+Americans are depending on us to get these people on the job as 
+soon as possible. If my colleagues are as concerned about 
+inflation as they claim to be in this Committee and beyond, 
+they will not slow down this process, which will only hurt 
+workers, their families, and our recovery.
+    If you watched the Super Bowl on Sunday, you saw ad after 
+ad for a product that most Americans have heard of, but almost 
+nobody knows what it really is. Even many of the people who 
+have bought it often do not really understand it. Big 
+cryptocompanies are looking to make big profits, are desperate 
+to reach as many Americans as they can. They brought in 
+celebrities and gimmicks to make crypto sound exciting and 
+daring and profitable.
+    But the ads left a few things out. They did not mention the 
+fraud, the scams, and the outright theft. The ads did not point 
+out that you can lose big in crypto's huge price swings. They 
+did not tell you about the high fees pocketed by the 
+cryptocompanies. They sure did not explain that cryptomarkets 
+lack basic investor protections and oversight.
+    Just a few weeks ago, hackers stole $300 million of 
+people's investments from a cryptoplatform. The fact that these 
+companies felt the need to advertise at all is a bit of a 
+giveaway about one of their major claims. If this were actually 
+meant to be used as currency, why would you need to buy ads? I 
+do not think I have never seen in 40 years of Super Bowl 
+watching, the Federal Reserve buy a multimillion-dollar 
+commercial for U.S. dollars. That is because crypto is not 
+money. It is designed for speculation.
+    Watching those ads reminded a lot of us of some asset 
+bubbles we have been before. The 2000 Super Bowl featured 21 
+ads from 14 different dot-com startups. The internet may have 
+been the next frontier, but these companies surely were not. 
+Many of them were defunct within a year or two. Only 4 from 
+those 14 are still around.
+    We are here today because, once again, real people's real 
+money is at risk. We need to look beyond the unproven promises, 
+protect Americans and our entire financial system.
+    In a hearing last July, this Committee examined the risks 
+of cryptocurrencies to our economy. In December, we looked 
+closely at the mechanics behind stablecoins and stablecoin 
+companies.
+    Today we are joined by Treasury Under Secretary Liang to 
+look at the risks stablecoins pose and how regulators and 
+Congress can protect consumers.
+    Last fall, the Treasury Department led a team of our 
+financial regulators to conduct a report on stablecoins. This 
+report makes it clear that without regulation, stablecoins can 
+endanger our economy, our payments systems, our hard-earned 
+money. And while stablecoins suggest they are like money, good 
+luck trying to use one at the store. Their main purpose today 
+is to make it easier to trade, to speculate, and in some cases, 
+unfortunately, especially, even hide assets in crypto and 
+digital markets.
+    In just a few years, stablecoins have mushroomed into a 175 
+billion--``billion'' with a B--dollar market. They are asking 
+us to believe that what they have built is as good as real 
+money and that it works the way these startups say it does. 
+Americans and this Committee should look carefully at those 
+promises. The companies claim that a stablecoin is backed by 
+real dollars invested in a reserve account; that is what makes 
+it stable.
+    But our financial regulators have tested that claim by a 
+giant stablecoin issuer. That issuer ended up paying nearly $60 
+million in fines because it lied about its reserves. It turns 
+out that for over 2 years, the stablecoin was really backed 28 
+percent of the time.
+    Stablecoin companies say that you can, quote, ``redeem'' a 
+stablecoin whenever you want, exchanging it back into dollars 
+from the stablecoin's reserve, but the fine print in the 
+agreements of some of the biggest companies says that ordinary 
+consumers cannot actually redeem their stablecoins for dollars 
+from the company that issues them. Only institutions like hedge 
+funds can, and even then, many stablecoin issuers can delay 
+redemptions or refuse them entirely.
+    So, if you saw a Super Bowl ad, you would figured out you 
+would give this a try. You change your mind and want to 
+exchange your stablecoin for dollars? You might be out of luck. 
+The website could be down. Your money could be trapped.
+    Stablecoin issuers also promise that their product will 
+serve people who have been left behind in the financial system. 
+Their interest in helping the unbanked, they always start with 
+that. But, as we have established, crypto does not actually 
+function as real currency in any traditional sense that 
+Americans for decades have understood. Allowing more people to 
+trap their money in risky, speculative investments is not the 
+kind of financial inclusion that people seek. It is not going 
+to do anything to help Americans working hourly jobs who do not 
+put their paychecks in the banks because of abusive fees.
+    Finally, stablecoin companies say that if you hand them 
+your money, your money will be safe. They tell us that they 
+structure their reserves so that people's money is protected, 
+that their businesses will weather any kind of crisis.
+    Now, maybe the stablecoin companies are right. Maybe we 
+should just close our eyes and trust that a product called 
+``Magic Internet Money'' run by an outfit called 
+``Abracadabra,'' that is a safe place for your money. I am not 
+sure working Americans want to take that risk.
+    Remember in 2007 and '08 when the banks said homes prices 
+would only go up and mortgages would never be underwater? Do 
+you remember those days? Then, as now, it is workers and their 
+families whose homes and hard-earned savings are being used as 
+gambling chips. They are the ones always, always, always, often 
+because of the actions of this House and Senate in this 
+conservative-too-often Committee, they are the ones who pay the 
+price.
+    I understand the appeal of crypto. Americans have been 
+burned over and over again by Wall Street. The 2008 crisis, 
+abusive fees, a stock market that is just detached from 
+reality, of course, people do not trust big banks. They figure, 
+how could putting my money in one of these new products be any 
+worse than the scams I have seen in the banking system? Maybe 
+they are thinking I will finally get in on the kinds of deals 
+that have been making investment bankers wealthy for a 
+generation.
+    Some of those Super Bowl ads were pretty compelling 
+television. They make vague allusions to innovation and the 
+future, and who could be against innovation? But we have 
+ignored warnings like the report we are talking about too many 
+times before. Before the crisis, Congress and regulators 
+ignored warnings about the risky bets and the increasing 
+leverage and over-the-counter derivatives on Wall Street. Then 
+the banks got a bailout. Again, working people paid the price. 
+That is why I want Congress and regulators to work together to 
+tackle these issues now before it us too late.
+    I urge my colleagues to listen carefully to Under Secretary 
+Liang's testimony and to the warnings in the PWG, the 
+President's Working Group report. We need a strong, proactive 
+approach from regulators and Congress to limit stablecoin risks 
+for working Americans.
+    As our economy continues to recover from COVID-19, as 
+workers finally, finally, finally are starting to see higher 
+wages and more bargaining power in the workplace, the last 
+thing we need is for a risky new financial product to cause 
+disaster.
+    This is not the first hearing that the Banking, Housing, 
+and Urban Affairs Committee has had on stablecoins. It will not 
+be the last.
+    Ranking Member Toomey.
+
+         OPENING STATEMENT OF SENATOR PATRICK J. TOOMEY
+
+    Senator Toomey. Thank you, Mr. Chairman, and, Ms. Liang, 
+welcome. Thank you for coming to the Committee. Thanks for 
+taking the time to chat recently. I enjoyed our conversation.
+    It was about 2 months ago that this Committee held its 
+first hearing on stablecoins, and I was encouraged to hear from 
+our witnesses about the essential role that stablecoins play in 
+the larger cryptocurrency trading ecosystem. But it also 
+important to note the tremendous potential stablecoins have to 
+be adopted as a common medium of exchange in the broader, 
+ordinary goods and services economy.
+    Unlike cryptocurrencies that fluctuate in value, 
+stablecoins are designed to maintain a one-to-one value 
+relative to some reference asset, typically a fiat currency 
+such as the U.S. dollar. Put simply, one stablecoin is meant 
+always to be worth one dollar.
+    Because of this price stability, stablecoins have the 
+potential to serve all the traditional functions of money by 
+acting as a medium of exchange, unit of account, as well as a 
+store of value.
+    Stablecoins can also improve upon traditional forms of 
+money by increasing payment speed, especially cross-border 
+transfers, reducing transaction costs, and helping to combat 
+illicit finance through the creation of an immutable and 
+transparent transaction record.
+    Stablecoins can also be programmed to execute payments 
+automatically upon the occurrence of some predesignated, 
+verifiable event. This capability in particular has the 
+potential to transform finance and, in time, much of our 
+economy.
+    Any regulatory regime for stablecoins will inevitably focus 
+on consumer protections and systemic stability, but at least as 
+important will be preserving the tremendous, unimagined 
+benefits that will flow from future innovations.
+    As stablecoin usage has grown significantly, regulators 
+have increasingly taken interest. Last November's report from 
+the President's Working Group on Financial Markets, spearheaded 
+by Ms. Liang, appropriately recommended Congress pass 
+legislation to establish a Federal regulatory framework for 
+stablecoins. The PWG report recommends Congress address three 
+perceived prudential concerns: first, stablecoin runs; second, 
+payment system risks; and third, systemic risk and 
+concentration of economic power.
+    Now, the principal recommendation is that stablecoin 
+issuance be limited to insured depository institutions. I 
+commend the contribution of the public discussion that the PWG 
+has contributed, but I strongly disagree with that 
+recommendation. I think we can protect against concerns such as 
+run risk through a less restrictive and more appropriately 
+tailored approach.
+    So, to accomplish those objectives, I released a set of 
+guiding principles for stablecoin legislation. These principles 
+recognize that stablecoin issuers have significantly different 
+business models than banks, and they present different risks. 
+For example, stablecoin issuers typically neither make loans 
+nor take deposits. They may choose not to transform maturity or 
+intermediate credit risk. As such, stablecoin issuers using 
+cash or cash equivalents to back its coin is likely safer than 
+most existing financial institutions. Because of these 
+differences, it would be inappropriate to subject stablecoin 
+issuers to the full range of bank regulations meant to address 
+risks posed by the fractional reserve, deposit and lending 
+banking system.
+    So I was encouraged that Ms. Liang has recognized these 
+differences and sensibly agreed there should be regulatory 
+flexibility for stablecoin issuers not engaged in traditional 
+banking, but that does raise the natural question: Why require 
+all stablecoin issuers to become insured depository 
+institutions then?
+    My legislation will take a different approach. It will 
+provide regulatory treatment that is flexible and adaptable to 
+future technological innovation. It will also promote 
+competition in the stablecoin market by allowing at least three 
+types of regulated entities to issue stablecoins.
+    First, my legislation would preserve the regime to which 
+the majority of stablecoin issuers are currently subject as 
+State-registered money service businesses and money 
+transmitters. To disrupt this regime would both introduce 
+unnecessary burdens to an emerging technology and unwisely 
+diminish the success of States with experience and expertise in 
+this area. Rather than discard this regime, we should build on 
+it to ensure the public has the right disclosures about 
+stablecoin reserves to make an appropriately informed decision 
+about whether to use any particular stablecoin.
+    Second, my legislation will clarify that insured depository 
+institutions are actually in fact permitted to issue 
+stablecoins. The former head of the OCC, Brian Brooks, 
+pioneered work to give banks clarity on digital asset 
+activities, but the current OCC has created confusion regarding 
+permissible activities.
+    Finally, my approach will establish a new stablecoin 
+charter with regulatory requirements designed specifically for 
+stablecoin issuers. The requirements will address the risks 
+identified by the PWG report, but will not force stablecoin 
+issuers into a one-size-fits-all system created for traditional 
+banks.
+    Ms. Liang's recent testimony indicates to me that I think 
+she agrees with the idea of a tailored approach for such 
+issuers. Rather than just rely on the flexibility of the 
+existing framework for depository institutions, which leaves 
+full discretion to bank regulators, however, I think it is the 
+responsibility of Congress to design this approach.
+    So these three paths would allow each stablecoin issuer to 
+choose the regulatory framework most appropriate for its own 
+business model.
+    Now, under this legislation, each stablecoin issuer would 
+be required to meet certain minimum requirements, regardless of 
+its charter or license. For example, all would be required to 
+disclose the assets that back the stablecoin. All would be 
+required to adopt and clearly disclose redemption policies, and 
+they would have to undergo third-party audits. These 
+requirements would ensure that consumers have sufficient 
+information to choose which stablecoin they use.
+    Ms. Liang's thoughtful comments on stablecoin regulation 
+lead me to believe there are many issues on which we can find 
+common ground. So I look forward to developing legislation with 
+my Senate colleagues and working with the administration to 
+establish a regulatory framework for stablecoins that addresses 
+potential risks while also encouraging innovation and 
+competition. Thank you.
+    Chairman Crapo. Thank you, Ranking Member Toomey.
+    Today's witness, we will hear from Nellie Liang, the Under 
+Secretary of the Treasury for Domestic Finance.
+    Madam Under Secretary, please proceed with your testimony. 
+Thank you.
+
+  STATEMENT OF JEAN NELLIE LIANG, UNDER SECRETARY FOR DOMESTIC 
+              FINANCE, DEPARTMENT OF THE TREASURY
+
+    Ms. Liang. Chairman Brown, Ranking Member Toomey, and other 
+Members of the Committee, thank you for the opportunity to 
+testify this morning on stablecoin report by the President's 
+Working Group on Financial Markets.
+    The PWG is chaired by the Secretary of the Treasury and 
+composed of the Federal Reserve Board, the SEC, and the CFTC. 
+It was formed by a Presidential Executive Order in response to 
+the 1987 stock market crash and regularly produces reports on 
+financial market issues for the President, which may include 
+recommended legislative changes. For the stablecoin report, the 
+PWG was joined by the FDIC and the OCC.
+    Stablecoins are part of an emerging set of digital assets, 
+activities, and services that could have profound implications 
+for the U.S. financial system and economy. The distinguishing 
+feature of stablecoins as compared to other digital assets is 
+that they are designed to maintain a stable value relative to a 
+reference asset, often the U.S. dollar.
+    Stablecoins have grown rapidly from a market capitalization 
+of roughly $5 billion at the start of 2020 to approximately 
+$175 billion today.
+    The PWG report focused on stablecoins because the offer of 
+a stable value means they have the potential to be used widely 
+as a means of payment by households, businesses, and financial 
+firms. This potential use could create significant benefits for 
+stablecoin users and payment transactions, but it could also 
+pose risks.
+    The PWG report focused on three prudential risks associated 
+with the use of stablecoins for payments: first, run risk, a 
+scenario in which loss of confidence in a stablecoin triggers a 
+wave of redemptions, which could have spillover effects for the 
+broader financial system; second, payment risk, including 
+operational issues that could interfere with the ability of 
+users to store stablecoins or use them to make payments; and 
+third, concerns related to concentration of economic power, for 
+example, if a stablecoin provider scaled up quickly and gained 
+market power as a provider of payment services.
+    The PWG report found significant gaps and authorities that 
+would address these prudential risks. Some of the largest 
+stablecoin issues operate with limited regulatory oversight, 
+raising significant questions about whether their stablecoins 
+are adequately backed. Even where a stablecoin issuer is 
+subject to oversight, supervisors may not have sufficient 
+visibility into the broader operations that support the use of 
+stablecoins, which may be distributed across multiple entities.
+    Neither State money transmitter nor securities law 
+requirements were designed to address the financial stability 
+payment system risks for a payment instrument based on new 
+distributed ledger technology. To fill this regulatory gap, the 
+PWG report recommended legislation to ensure that stablecoins 
+are subject to a consistent and comprehensive framework that is 
+proportionate to the risks posed. Such legislation would 
+complement existing authorities with respect to market 
+integrity, investor and consumer protection, and illicit 
+finance.
+    Specifically, the report recommended limiting issuance of 
+stablecoins to ensure depository institutions, giving 
+supervisors of stablecoin issuers visibility into the broader 
+stablecoin arrangements and authority to set risk management 
+standards for critical activities related to the use of 
+stablecoins for payment, and certain measures to reduce 
+concerns related to concentration of economic power.
+    In developing the recommendation for stablecoin issuers to 
+be insured depository institutions, the PWG report relied upon 
+the flexibility that banking agencies would have to adjust for 
+differences between stablecoin issuers and traditional 
+commercial banks and to adjust to new products and structures 
+that may emerge over time.
+    As noted at the beginning of my testimony, stablecoins are 
+a subset of the large and quickly evolving digital assets 
+market. The Treasury Department supports responsible innovation 
+from digital assets but is also committed to protecting against 
+risk to users, the financial system, and the broader economy.
+    The Biden administration continues to work across the 
+agencies to develop a comprehensive strategy for all digital 
+assets with the goals of ensuring that cryptocurrency is not 
+used for illicit finance, addressing risk related to financial 
+stability in consumer and investor protection, and furthering 
+financial inclusion and our continued leadership of the global 
+financial system.
+    We look forward to working with Congress on these critical 
+issues as we make progress and appreciate the Committee's 
+leadership in this area.
+    Thank you for the opportunity to testify this morning. I 
+would be happy to answer your questions.
+    Chairman Brown. Thank you, Madam Under Secretary.
+    Stablecoins are, as we know, only a few years old. We know 
+most Americans have never bought one. Commercials in Silicon 
+Valley just tell us stablecoins are an innovation.
+    I want to be clear, though, Madam Under Secretary, about 
+the stakes here. How important is it we act now to regulate 
+stablecoins before they can hurt our economy? How could 
+stablecoins hurt working families if Congress and regulars do 
+not reign in the risks of these products?
+    Ms. Liang. Thank you for your question, Senator Brown.
+    As I mentioned, the crypto, the digital asset market is 
+growing very rapidly. The fundamental change is this new 
+innovation that can allow for new provision of financial 
+services and could radically change the way financial services 
+are provided. This provides a lot of benefits, could bring 
+efficiencies, especially to the payment system when we are 
+speaking of cryptocurrencies.
+    It also raises some of the concerns, of course, that you 
+raised earlier on illicit finance, tax evasion, and fraud. So 
+it is important to address those issues.
+    My view is, given these risks and the growth of the market, 
+it is for our regulators and policymakers to take some actions 
+to protect users and ensure the resilience of the financial 
+system.
+    Stablecoins are a subset of this digital asset space. The 
+prospect of stable value gives them the potential to be used 
+for payment transactions, a store value, a medium of exchange. 
+That raises a different set of risks. They have the ability to 
+provide payments on 24/7, to reduce the costs of payments in a 
+substantive way. I think it has the potential to be part of the 
+future payment system.
+    So I think it is important to assess the stability of 
+stablecoins. Are they stable? Can they provide the services 
+that they offer themselves to? The Secretary of the Treasury 
+convened the PWG to evaluate whether they can be stable and to 
+address whether this new product has an adequate regulatory 
+framework, and the PWG report recommended that there should be 
+additional authorities provided to regulators for this product.
+    Chairman Brown. Thank you.
+    The stablecoin companies assure us they are transparent. 
+They tell us they follow the law. They even say they like to 
+say they are built on trust, but of course, they say that. They 
+want to suggest if you buy stablecoins with dollars, your 
+dollars will be safe, that you will be able to exchange 
+stablecoins back for dollars without a problem.
+    Madam Under Secretary, is there any risk that people with 
+stablecoins will not always be able to exchange stablecoins for 
+dollars? If so, do these companies make that clear to 
+consumers?
+    Ms. Liang. There is risk that stablecoins cannot deliver a 
+dollar. This is the--they ought--they say they are stablecoins. 
+The assets backing the stablecoins may not be able to deliver a 
+dollar under stress periods, and in fact, if you look at 
+stablecoins, they do fluctuate.
+    In addition, there are issues around redemption as well as 
+there could be fees that may not be disclosed. So I do think 
+there are features of stablecoins that create run risk, which 
+is the first risk that the PWG report identified.
+    Chairman Brown. Are those companies informing potential 
+purchasers of stablecoin that there is that risk?
+    Ms. Liang. They are not required to by any regulators 
+because they are not regulated.
+    Chairman Brown. I understand that, but are they doing that, 
+in your experience?
+    Ms. Liang. So there are probably 50 or 60 different 
+stablecoins at this point in time. I imagine the practices vary 
+quite a bit.
+    Chairman Brown. I think it is more worth knowing that the 
+answer to that are most of them If there are 50 or 60, do they 
+disclose the risk at all? I am not asking right now--I am 
+asking right now, but I think it is something important to 
+know.
+    Last question. For a long time in this country, we have 
+prevented commercial companies from partnering with financial 
+companies. In some ways, we built a wall between the two.
+    There have been reports that companies like Walmart think 
+about issuing a stablecoin. Is anything right now stopping 
+Amazon or Walmart or another big company from starting their 
+own stablecoin, and if so, what are the risks if they do that?
+    Ms. Liang. So, currently, I do not believe--because 
+stablecoin issues are licensed by State money transmitter 
+responsibilities, there is nothing that stops a commercial 
+company from wanting to issue a stablecoin.
+    The PWG proposal for an IDI for the issuer would preclude a 
+commercial company from being an issuer. The PWG 
+recommendations also are to consider whether--for Congress to 
+consider whether the custodial wallet providers or other 
+service providers related to the stablecoin arrangement could 
+be commercial or should be limited to financial, but this is an 
+issue that Congress--the separation of banking and commerce has 
+been a long--has been an issue that Congress has grappled with 
+over many times in different periods, and this is another area 
+where it should issue--it is an area for them to consider 
+carefully.
+    Chairman Brown. Thank you, Madam Under Secretary.
+    Senator Toomey.
+    Senator Toomey. Thank you, Mr. Chairman.
+    Ms. Liang, so, as I said, I appreciate the work that the 
+PWG has done. I disagree with some of the conclusions, but it 
+was a constructive addition to this ongoing public discussion.
+    One of my criticisms is I do not think that the PWG report 
+took sufficient account of the existing state-based regulatory 
+framework, and as you just pointed out, stablecoin issuers do 
+operate as State-based money transmitters, also trust 
+companies. And it occurs to me that a stablecoin issued by a 
+trust company, if it is backed solely by cash and cash 
+equivalents, could very well be safer than many existing 
+financial institutions, including many banks.
+    It seems that it would be sensible for a trust company that 
+issued such a safe, fully backed stablecoin ought to be subject 
+to a different regulatory regime than a traditional bank 
+because its business model is so different.
+    So my question for you, if Congress were to authorize a 
+well-defined charter that was specific to stablecoins for, let 
+us say, this type of institution, a trust company that issues a 
+stablecoin fully backed, do you think that that could be 
+designed in a manner that is consistent with safety and 
+soundness?
+    Ms. Liang. Thank you for the question.
+    So I believe that the regulation for stablecoin should be 
+flexible, should reflect the risks of the stablecoin activity, 
+and stablecoin issuers that issue only stablecoins do not 
+extend credit, should not need to be subject to the sort of 
+full set of banking regulations that relate to credit 
+provision. So flexibility, I agree, is very important.
+    The trust charters--and this may vary across States--are 
+designed more for--have been developed for fiduciary 
+responsibilities. They may not be as currently structured, have 
+the authority to reach in and see how the whole stablecoin 
+arrangement that is needed to be a payment service is 
+conducted, and so I think, as we have talked to State 
+supervisors--and we have learned a lot from the experience they 
+are building--they have less insight into the overall 
+arrangement than at times they might like.
+    Senator Toomey. Yeah. And I guess that goes to the point 
+that I was trying to make. I am not suggesting that the 
+existing State-based regime is perfect and we are finished and 
+there is no work to be done here, but I am suggesting that it 
+might serve as a part of a regulatory framework, an option that 
+would be available, with the overlay that would address some of 
+the concerns that you just raised.
+    Now, I appreciate you just, once again, reiterated a point 
+that I think you have made before that the full set of bank 
+regulations really should not need to apply if the issuer is 
+not engaged in the full range of traditional banking. I think 
+that is a really important distinction.
+    And I think one of the things that we ought to consider is 
+creating--some people call it ``narrow bank,'' you know, a 
+narrowly defined charter that would be well suited for 
+stablecoin issuers. Do you think a narrow bank could be 
+consistent with the goals of the PWG report?
+    Ms. Liang. On a specific type of charter, I guess I could 
+be more comfortable with the issues it is trying to address. So 
+I think staying flexible within an IDI framework, which I 
+believe is flexible, to better match the activities and risks 
+with the regulation, it does not need--the PWG report did not 
+necessarily recommend deposit insurance, for example. So that 
+would be consistent with a narrow bank, but it did require--it 
+would like financial firms to be issuers. And for other parts 
+of the stablecoin arrangement, it could be commercial, but that 
+would be something for Congress to consider.
+    So I think in terms of a narrow bank, that can be defined 
+separately. I think it is within the IDI charter with lots of 
+flexibility to match the risks of the activities.
+    Senator Toomey. So where I think there is common ground 
+here is a recognition that we both have that the nature of 
+stablecoins and their issuers is very distinct from traditional 
+banking, and therefore, a different regulatory approach makes 
+sense.
+    Where we might have--I am not sure, but we might have 
+somewhat different views is how clearly Congress should 
+prescribe what that looks like. My own preference is not--I 
+acknowledge there is a lot of regulatory discretion. I do not 
+think that is the optimal way to proceed. I think it is better 
+for Congress to provide some guide points.
+    I want to make one last point, and I see I am out of time. 
+This is not a criticism of you. This is not an observation 
+about Ms. Liang at all, but it is a general observation that 
+Congress and regulators should remember our mission is not to 
+make it impossible for a financial institution to fail. It is 
+not to make it impossible for an investor to lose money. It is, 
+in my view, to ensure that investors are well informed about 
+the risks that they choose to take and to make sure that if 
+there is a financial institution that fails, it does not have 
+catastrophic, systemic consequences. I hope we will keep that 
+in mind as we go down this road.
+    Thank you, Mr. Chairman.
+    Chairman Brown. Thank you, Senator Toomey.
+    Senator Menendez from New Jersey is recognized from his 
+office, I believe.
+    [No response.]
+    Chairman Brown. Senator Warner is recognized from Virginia 
+from his office.
+    [No response.]
+    Senator Warner. Thank you, Mr. Chairman. You got me a 
+little bit quicker there.
+    Chairman Brown. Sorry. Let me just allow a second or two.
+    Senator Warner. I appreciate again you having this hearing, 
+Mr. Chairman. This is an issue I think we all need to learn a 
+little more about.
+    I have got a twofold question. One is I want to reiterate. 
+I think maybe you and the Ranking Member already raised this. 
+Can we check on a real-time basis that there is sufficient 
+backing on these stablecoins? And let us assume for a moment 
+there is, but I would like to get a reiteration of that from 
+the Under Secretary.
+    But the bigger question I had is, assuming there is this 
+backing and you have got, in a sense, potentially billions and 
+billions of assets having that one-to-one backing, how is there 
+a viable business model here for these stablecoins unless they 
+are charging exorbitant amount of fees and other add-on costs?
+    I know the idea behind oftentimes stablecoins is that there 
+is less friction. You can transfer these resources from dollars 
+here to currencies that may be unstable in second- and third-
+world Nations, but still, if you have got a one-to-one backing 
+and that kind of capital basically set aside, other than large 
+transaction fees, how do these entities make any money? Under 
+Secretary Liang?
+    Ms. Liang. Sure. Thank you for your question.
+    So, in terms of real-time backing, some of the----
+    Senator Warner. I have got no volume, Mr. Chairman, here. I 
+do not hear the----
+    Ms. Liang. Yeah. I seemed to have lost the camera.
+    Senator Warner. All right.
+    Ms. Liang. I am not sure if you can hear me. Some 
+stablecoins do provide audits of their assets and post them. 
+They are not--there are no regulations, and there is no 
+regulator to confirm those statements.
+    In terms of the stablecoin business model, it strikes me as 
+there is probably several, and they probably vary. One is the 
+backing for the stablecoin of a dollar. Those assets could be 
+invested in, say, longer-term securities, even safe securities, 
+and there would be some spread. But I think as you point out, 
+certainly, there are fees that are charged to help to provide 
+some revenue.
+    It is an area that is changing very rapidly. New products 
+are being introduced every day. So I think the business model 
+will evolve over time.
+    Senator Warner. Madam Under Secretary, one thing I had 
+reported to me from an expert in this field is if we look at 
+these tokens on a bigger basis, not just in terms of 
+stablecoins, we have got about 7,000 publicly traded stocks in 
+this country with the attendant regulations that are in place. 
+If you look at the crypto exchanges, there are about 17,000 
+tokens that are being traded on these crypto exchanges with, 
+again, varying levels of backing, many of them not even 
+claiming to be stablecoins.
+    An area that I know the Ranking Member and I have 
+discussed--and we have got some legislation to make sure that 
+people are not unfairly penalized, but in the world if DeFi, 
+decentralized finance, there have been estimates. And I do not 
+think there is an accurate number yet, but there could be 
+upwards, literally, of a million different coins or different 
+tokens out in that field, all of them potentially moving to 
+some of these cryptocurrency exchanges. Should we be concerned 
+about this and the lack of transparency and the volume simply 
+of these items that are being traded?
+    Ms. Liang. Yeah. So I think what you are referring to is 
+the rapid increase in the digital assets market and new 
+products and new services that are being provided, and there 
+are concerns about lack of transparency, fraud, potential for 
+manipulation, misleading advertising. Those are areas that are 
+of great concern to regulators and believe that there needs to 
+be important investor and consumer protections put in place for 
+that, and that is an area that SEC and the CFTC are working 
+actively in that space.
+    Stablecoins, just again to emphasize, are a subset, a small 
+subset of that smaller space of digital assets, and they 
+purport to have stable value. Their prices are not nearly as 
+volatile as the prices of digital assets more broadly, but it 
+is because of that promise of stable value, they become the 
+possibility used for payments on a wide basis in the non-crypto 
+world. So, in that sense, it raises a whole different set of 
+risks, these potential risks that the PWG report highlighted: 
+the run risk, the payment system risk, and concentration of 
+economic power.
+    Senator Warner. Well, Mr. Chairman, I appreciate you 
+holding the hearing, and I think there is great potential in 
+digital assets, but, boy, I think we have got a lot of 
+education to go on.
+    Thank you.
+    Chairman Brown. Senator Rounds from South Dakota is 
+recognized.
+    Senator Rounds. Thank you, Mr. Chairman, and I think this 
+is an excellent time to have this particular hearing as well.
+    Under Secretary Liang, I am just curious. In South Dakota, 
+we have a number of different licensed cryptocustodians. They 
+have been licensed through the State of South Dakota and, in 
+some cases, federally.
+    Just to give you an example, we have Anchorage. This 
+company received their charter from South Dakota Division of 
+Banking in July of 2019. Anchorage Trust Company received its 
+OCC charter in early 2021, becoming the first federally charter 
+digital asset bank in history, and although a bank, it does not 
+offer deposit or lending services.
+    BitGo. In September of 2018, BitGo was approved by the 
+South Dakota Division of Banking to act as a qualified 
+custodian for digital assets and created the BitGo trust 
+company, Kingdom Trust. Kingdom Trust serves as an independent 
+qualified custodian for the assets of clients of registered 
+investment advisors, broker-dealers, and investment sponsors, 
+as well as their individual retirement accounts, nonqualified 
+plans, and qualified defined contribution 401(k) plans. Kingdom 
+Trust platform was the first to allow self-directed retirement 
+accounts holding digital currency investments directly.
+    Now, in each of these cases, these are custodians. They do 
+not issue a stablecoin, but they act as a custodian for digital 
+assets. Stablecoins, as you indicated, were just a small part 
+of what could be used out there in terms of different cryptos--
+or cryptocurrencies.
+    I am just curious. I think that stablecoins definitely have 
+a future, and I am concerned that if we do not put in 
+appropriate but measured regulatory--a system in place here 
+that we may very well fall behind other Nations that do. If we 
+want to continue to be the reserve currency of choice, I think 
+we have to allow options for very efficient ways in which to 
+make payments.
+    I think stablecoins can fit into that. If they are a viable 
+payment mechanism, then it means that a regulatory environment 
+that promotes that. And just the fact that all of these have 
+occurred in just the last few years means that there is 
+probably a lot more innovation to come in the future, and we 
+most certainly do not want that innovation to be unnecessarily 
+stymied by a one-size-fits-all regulatory environment here in 
+the United States.
+    Do you believe--after your review, do you believe that 
+stablecoins have this capability of assisting and competing on 
+an international basis if we put in a limited regulatory 
+environment here in the United States?
+    Ms. Liang. Thank you, Senator Rounds.
+    So the PWG recommendations were designed to promote 
+innovation that is responsible and protects users and the 
+economy at the same time while addressing some of the risks 
+that it can pose as stablecoins is used for payments, so agree 
+with the principles and believe that a stable stablecoin would 
+go far in preserving the global reserve currency. The dollar is 
+the global reserve currency. I think there is no conflict 
+there. I think it is actually important.
+    It is part of, in my view, the future of the payment 
+system. It serves a purpose. It may not be the only payment 
+mechanism or the only payment option, but it could be an 
+important part.
+    Senator Rounds. Thank you.
+    Can the development of both a central bank digital currency 
+and private stablecoins coexist?
+    Ms. Liang. I see no reason why they could not coexist.
+    Senator Rounds. In looking at the report in its entirety, 
+where do you believe that the regulatory framework should exist 
+after reviewing it? Where should it exist within the Federal 
+Government?
+    Ms. Liang. So the PWG report came down on the view that a 
+consistent, less fragmented regulatory framework is preferable 
+to one that is inconsistent, that less fragmentation will spur 
+innovation more than a very fragment system.
+    When we reached out when developing the report, we were 
+hearing from firms, developers that they would like more 
+regulatory clarity. Currently, States do issue charters. They 
+are learning a lot from this experience, but they do differ 
+across States. State money transmitter licenses are across 49 
+different States. They vary quite a bit in terms of what they 
+cover. They usually address consumer protection, but they are 
+not designed for modern payment systems.
+    The PWG came out on the side of a less fragmented, more 
+consistent, more comprehensive framework.
+    Senator Rounds. My time has expired. Thank you, Mr. 
+Chairman.
+    Chairman Brown. Thank you, Senator Rounds.
+    Senator Menendez, I believe, is now with us from New Jersey 
+from his office.
+    Senator Menendez. Thank you, Mr. Chairman.
+    The defining feature of stablecoins versus other types of 
+cryptocurrencies is that they claim to be backed by reference 
+assets such as the dollar and other currency. However, without 
+proper transparency, this only provides the illusion of 
+stability for stablecoin investors.
+    Madam Under Secretary, are market participants able to 
+verify the portfolio of holdings backing what stablecoins they 
+invest in?
+    Ms. Liang. Stablecoin issuers, perhaps under pressure from 
+investors and regulators, are providing self-audited 
+statements. Some of the major ones are providing self-audited 
+statements on their holdings, but regulators are not in place 
+to confirm those or to set the standards for them.
+    Senator Menendez. Well, I look at Tether, which is the 
+world's largest stablecoin, which was created with a promise of 
+a one-to-one backing with the dollar, and instead, a reporting 
+from Bloomberg found that many Tether stablecoins are backed by 
+risky loans to Chinese real estate companies.
+    So it seems to me that transparency is a cornerstone of our 
+economy. Consumers and investors make the best decisions when 
+they have the necessary information, and that is why I have 
+always advocated for robust disclosure rules in different areas 
+of the financial system.
+    How does the Treasury intend to--do you propose to increase 
+transparency to ensure market participants properly disclose 
+the value of the assets backing stablecoins so that investors 
+can have a true understanding of the risks associated with such 
+assets?
+    Ms. Liang. Yes. The PWG report would--is in favor of 
+transparency of the assets. I think that is an important 
+element in reducing run risk.
+    I would highlight--I would mention, however, that 
+transparency and disclosure are not sufficient to address run 
+risk, that there still needs to be a certain about the backing 
+and the ability to actually deliver to an investor if they 
+redeem their stablecoin. So it probably requires more than 
+disclosure and transparency.
+    Senator Menendez. OK. I am for that.
+    As stablecoins become more broadly used both as a payment 
+method and as an investment vehicle, Congress and the financial 
+regulators need to address their more illicit uses, including 
+money laundering, fraud, and sanctions evasion.
+    As the working group noted in its report, criminals often 
+use the most common and liquid forms of value. So stablecoins 
+could be a particularly attractive vehicle for money laundering 
+and terrorist financing. And that report also noted that 
+effective international implementations of AML standards is 
+critical.
+    So the Financial Action Task Force published updated 
+guidance on virtual currencies in October. What is your 
+understanding of the level of effective implementation by our 
+global partners? Who is doing well, and who is not?
+    Ms. Liang. Yeah. The illicit finance issues are of serious 
+concern to Treasury. Treasury has been leading the work in the 
+Financial Action Task Force, as you mentioned. They issued a 
+report. They are continuing to work on this.
+    As I understand, implementation of standards is not even 
+across jurisdictions. There are concerns about lack of 
+implementation, consistency in some, and they are working on 
+that, those issues specifically.
+    I think, certainly, my colleagues in FinCEN would be happy 
+to follow up with you if you had additional questions.
+    Senator Menendez. Well, I would like to.
+    What are Treasury's priorities over the next 6 months with 
+reference to increase that implementation?
+    Ms. Liang. So, as I mentioned, they are leading the 
+Financial Action Task Force and focus specifically on 
+implementation, especially exchanges that are operating in some 
+foreign jurisdictions.
+    I would mention the broader administration effort on 
+digital assets is ongoing, and I understand there will be some 
+more details announced in the next few weeks. So that can also 
+provide some additional information, and again, we would be 
+happy to follow up with you on that.
+    Senator Menendez. Well, let me close by saying, you know, 
+as Chairman of the Foreign Relations Committee, I am 
+particularly concerned that countries like Venezuela, Russia, 
+Iran will continue to use digital currencies to evade 
+sanctions, which would weaken one of our most effective policy 
+tools in terms of foreign policy. The anonymity touted as a 
+major benefit of stablecoins and other cryptocurrencies is 
+inherently very useful for facilitating all kinds of illegal 
+activity, and it is imperative that Treasury prioritize 
+achieving concrete progress on this issue in the near term as 
+the technology becomes a key part of the financial system. And 
+we look forward to working with you on that.
+    Thank you, Mr. Chairman.
+    Chairman Brown. Thank you, Senator Menendez.
+    Senator Hagerty of Tennessee is recognized.
+    Senator Hagerty. Chairman Brown, thank you, and Ranking 
+Member Toomey. I appreciate you holding this hearing.
+    Before I get to questions, I would just like to reflect the 
+fact that I also serve on the Foreign Relations Committee with 
+Senator Menendez, and I share the concerns that he raised in 
+terms of illicit activity, and I very much appreciate the 
+ongoing work and your keeping us posted as to how you address 
+that.
+    At the same time that many of us are concerned about 
+illicit activity, though, we see great promise in this 
+industry, and some of the comments that you mentioned have 
+raised some concerns with me, your interchange with Senator 
+Rounds, for example, talking about how the President's Working 
+Group report has interpreted integrating States' rights and 
+States' regulatory authorities in the grand scheme of things.
+    I have approved of the innovation that occurs at a State 
+level, and I would be very interested in your view on how you 
+would intend to incorporate State perspectives, or is this 
+going to be a heavy-handed, one-size-fits-all approach?
+    Ms. Liang. So I think the recommendations of the PWG report 
+are building on the State frameworks that currently exist. The 
+first recommendation that stablecoin issuers be an IDI, an 
+insured depository institution, given the flexibility within 
+that framework is still that the IDI can be a State or Federal 
+charter.
+    Senator Hagerty. Mm-hmm.
+    Ms. Liang. Second, it is building on the State money 
+transmitter licenses. It was not a recommendation to replace. I 
+do think some of the State money transmitter licenses 
+requirements probably need to be updated for digital assets, 
+for example, and they were not designed for the kind of new 
+emerging modern payment system. But it would--the 
+recommendation is that you be able to require some higher risk 
+management standards but not to replace the existing framework.
+    Senator Hagerty. I appreciate your desire not to replace 
+it.
+    I hail from Tennessee. We have a wonderful State system 
+there and I think one that is agile and capable of 
+incorporating recommendations but, at the same time, solving in 
+an agile way for new innovation. So I encourage that you 
+continue to incorporate the State's perspective.
+    I would also like to touch on another notion that you 
+discussed with Senator Menendez regarding the risk of runs on a 
+given stablecoin, and here, just on a theoretical level, would 
+a fully reserve stablecoin pose a substantial risk of 
+experiencing a run, or would that risk be higher or lower than, 
+say, a fractional reserve bank, the risk of a run on a 
+fractional reserve bank?
+    Ms. Liang. The fractional reserve bank is backed by either 
+deposit insurance or lender of last resort, discount window 
+facilities that can--with regulation of the assets and the 
+fractional reserve can prevent runs.
+    Fully reserved, for example, a money market fund fully 
+reserves, 100 percent, high-quality assets have limited 
+reserve--run, but for payment--so the difference between 
+stablecoin and, say, a money market fund is that a money market 
+fund, in my view, is purchased for the purpose of earning 
+yield. You purchase a stablecoin to be able to use it as a 
+payment mechanism. So they are slightly different. So I think 
+the redemption features will distinguish a stablecoin from, 
+say, a money market fund, a Government money market fund.
+    Senator Hagerty. I think as we look at this, we should be 
+just particularly careful to accommodate the great potential 
+that this shows, to recognize that we want to keep America a 
+competitive market, that that is the interest of our economy 
+security.
+    We also need to take our national security interest into 
+account, but I hope that we do so in a way that it continues to 
+make America a desired jurisdiction to do this, rather than 
+pushing this activity, which is very jurisdictionally movable. 
+We would rather do it here than push it to another market where 
+we would have much less control and visibility on it.
+    Ms. Liang. So I would agree with your comment. Stablecoins 
+that are stable, stablecoins that are tied to the U.S. dollar 
+that are stable, I think, would be an important component of 
+preserving a global reserve currency.
+    Senator Hagerty. Yeah. I think we should work together to 
+make certain that our vital concerns, our vital national 
+security concerns are addressed as we try to make this market 
+the leader, and I think we have every potential to do so. We 
+have great innovators here, but I have had some very disturbing 
+conversations with those in the industry about trying to decide 
+which jurisdiction is going to be best. And I think the work 
+that you are undertaking to provide clarity, again, 
+incorporating States' perspectives, we can do that. We can take 
+the lead, but I also would underscore the times of the essence 
+here because these markets are highly competitive.
+    Ms. Liang. Yes.
+    Senator Hagerty. And a tremendous amount of capital is 
+moving around the globe right now trying to search for a reason 
+there.
+    I would like to turn my ability for just a minute, my last 
+question, regarding the FSOC's ability to address designating 
+financial market utilities as systemically important under 
+Title VIII of the Dodd-Frank Act. If you were to take this 
+market and address the utilities here as systematically 
+important--the stablecoin market is much smaller than many of 
+the systemically important financial market utilities--how 
+would you go about making this determination, and would this be 
+the first time that such a designation has been made under 
+Title VIII?
+    Ms. Liang. Yes. The short answer to your question about 
+Title VIII for this would be yes under the payment clearing 
+settlement, but FSOC----
+    Senator Hagerty. It would be the first?
+    Ms. Liang. Yeah. The council has a responsibility to look 
+for and identify risks to financial stability. It has been 
+focused on digital assets more broadly and looking, for 
+example, especially at whether the extent to which leverage may 
+be raising the value of the prices of crypto assets.
+    On stablecoin, I think it is a little early to prejudge how 
+they could use their authorities. They certainly have a 
+responsibility to think about how to use their authorities, but 
+it is new. And it would require--it would depend on the facts 
+and circumstances of the case.
+    Senator Hagerty. I am running out of time, but I would just 
+encourage you to keep in close contact with us because, again, 
+I want to maintain----
+    Ms. Liang. Yes.
+    Senator Hagerty. ----a competitive market here----
+    Ms. Liang. Yes.
+    Senator Hagerty. ----rather than put such heavy-handed 
+regulatory perspective on this that we are going to shove this 
+to another jurisdiction.
+    Thank you, Mr. Chairman.
+    Chairman Brown. Thank you, Senator.
+    Senator Warren from Massachusetts is recognized.
+    Senator Warren. Thank you, Mr. Chairman.
+    And before I start, I just want to echo the Chairman in 
+stressing the importance of voting on our Federal Reserve 
+nominees this afternoon. This is our job, and we should not be 
+playing games in order to delay this. So I hope we can get that 
+vote done today.
+    I want to talk about the cryptocurrencies here. Some 
+cryptocurrencies like bitcoin are not backed by anything but 
+hype, but stablecoins are different. They claim to be pegged to 
+a fixed asset like the dollar. One stablecoin is supposedly 
+backed up by one dollar or a dollar equivalent. Even though 
+boosters claim that stablecoins represent the future of the 
+payment system, they are not really being used to pay for real-
+world goods and services.
+    Even so, stablecoins have taken off. Their market cap is 
+now 35 times bigger than it was just 2 years ago, and instead 
+of being used to pay for goods and services, those billions of 
+dollars worth of stablecoins are used to lubricate speculation 
+in the shadiest part of the crypto ecosystem where people are 
+lending, trading, and leveraging with no laws and no sheriff 
+anywhere.
+    The President's Working Group on Financial Markets recently 
+identified a long list of risks posed by stablecoins: run risk, 
+payment system risk, concentrated economic power, illicit 
+finance, investor protection. Or to state that in slightly less 
+fancy terms, it found that stablecoins run the risk of helping 
+cheaters steal people's money; financing terrorism, cyberattack 
+ransoms, and the drug trade; causing a run on the financial 
+system, like we saw in 2008; and allowing big stablecoin users 
+to dominate market and harm consumers.
+    Now, Secretary Liang, do you agree that these kinds of 
+risks mean that stablecoins are not just an emerging threat to 
+our financial system but a threat that could become systemic if 
+this market continues to grow rapidly?
+    Ms. Liang. So, Senator Warren, thank you for the question.
+    So I do think there is some urgency to considering 
+stablecoins and applying the appropriate regulations to reduce 
+run risk and the potential for them to scale up quickly.
+    Senator Warren. Let me remind you what my question is: Do 
+they post the threat of becoming a systemic risk?
+    Ms. Liang. Of becoming a systemic risk, yes.
+    Senator Warren. Yes, they do. I agree that the stablecoin 
+market poses significant risk and that Congress and our 
+regulators need to contain these risks.
+    And that is where you come in. You advise the Financial 
+Stability Oversight Council, FSOC, and you sometimes sit in 
+these meetings as Secretary Yellen's substitute. FSOC's job, 
+according to Treasury's website, is, quote, ``identifying 
+emerging threats to financial stability and coordinate 
+regulatory actions to address them,'' end quote.
+    So, Under Secretary Liang, if you believe that stablecoins 
+are a serious emerging threat to our financial system, then 
+have you advised FSOC to use the tools that Congress gave it 
+specifically to mitigate threats before they get out of hand?
+    Ms. Liang. So FSOC, as you say, has the responsibility to 
+identify risk to financial stability. It is discussing these 
+issues. It does convene the regulators. They have been 
+discussing consumer protection and investor protection, illicit 
+finance, and taking steps to assess what risks and what 
+authorities regulators have.
+    The PWG was recommended, which is a subset of the FSOC, 
+with most tangible interests to assess whether there are 
+existing regulatory gaps, however, in assessing to address the 
+risks of stablecoins as a use for payments and identified some 
+gaps and made some recommendations.
+    Senator Warren. So you are moving at least in that 
+direction? Is that what you are telling me? I want to make sure 
+I just understand your technology here today.
+    Ms. Liang. Yes. The PWG is making recommendations, and the 
+complement the existing authorities that regulators have--the 
+SEC, the CFTC--and the banking regulators are issuing guidance 
+carefully about how banks----
+    Senator Warren. Well, I understand about the other 
+regulators. I am asking about FSOC----
+    Ms. Liang. Mm-hmm.
+    Senator Warren. ----because I do not want monitoring to be 
+a way to just avoid doing your job.
+    In your testimony before the House Financial Services last 
+week, you suggested that FSOC should not and would not act 
+ahead of Congress. That is something the crypto industry might 
+find comforting, but it is not consistent with FSOC's mission. 
+Did you misstate something last week?
+    Ms. Liang. So I--what I intend to say--intended to say--I 
+did see that--is FSOC has the responsibility to look at the 
+tools it has----
+    Senator Warren. Well, not just to look----
+    Ms. Liang. ----and whether it----
+    Senator Warren. ----but to use.
+    Ms. Liang. ----they can apply, and the situation is 
+developing very quickly. And so how different tools would 
+apply, it is a big difficult to prejudge how they would be 
+used, but I would----
+    Senator Warren. OK. But you are willing to use them ahead 
+of Congress?
+    Ms. Liang. If that is the case and it is assessed that they 
+are a systemic risk that needs to be addressed, and I----
+    Senator Warren. Well, not that they are a systemic risk. 
+Remember what it says on the website: before that risk has 
+reached fruition.
+    You know, I worry that you are approaching the cryptomarket 
+with blinders on. You talk a lot about the benefits of the 
+stablecoins, benefits that have been promised for years and 
+that have still not materialized, and all the while, you are 
+not talking about the risks that are flashing bright red in our 
+faces here.
+    Congress needs to put guardrails around crypto, and I am 
+writing a bill to do just that. But there is no reason to 
+delay. Pointing a finger at Congress does not give you or FSOC 
+the right to ignore your current statutory responsibilities.
+    Thank you. I apologize for running over, Mr. Chairman.
+    Chairman Brown. Senator Lummis from Wyoming is recognized 
+from her office.
+    Senator Lummis. Well, thank you, Mr. Chairman, and, Under 
+Secretary Liang, thank you for appearing here today.
+    I want to follow on the line of questioning that Senator 
+Hagerty had begun a few minutes go and ask about the 
+recommendation in the President's Working Group report on 
+stablecoin issuers that it should only be limited to insured 
+depository institutions.
+    With respect to the insurance requirement, is it the case 
+that the FDIC and NCUA have found that stablecoins and their 
+assets are insurable, and have these agencies committed to 
+provide deposit insurance to newly chartered, de novo 
+institutions that issue a stablecoin?
+    Ms. Liang. Thank you for that question, Senator Lummis.
+    The proposal for stablecoin issuers to be insured 
+depository institutions, given the flexibility of that 
+supervisory and regulatory regime, is not--does not necessarily 
+mean that stablecoin need deposit insurance. I think that would 
+depend on the circumstances of the backing and the 
+functionality of the stablecoin that is being provided. So the 
+proposal is not, and the PWG did not recommend necessarily that 
+stablecoins be backed by deposit insurance.
+    Senator Lummis. And what other types of backings would you 
+believe adequately protects the consumer?
+    Ms. Liang. So I think the consumers can be protected with 
+reserve assets that are truly high quality, that will provide 
+some--reduce the risk of runs by investors.
+    There is also the protections provided by oversight of 
+the--all the entities that go into providing supporting 
+stablecoin as a payment. So the custodial wallets, the custody, 
+the other ways of trans--of liquidation of the redemption of 
+the stablecoin that can be provided. So I think all those go 
+into protecting consumers when they want to use stablecoin for 
+payments.
+    Senator Lummis. So since there are alternative ways of 
+bringing stablecoins inside the banking perimeter, like 100 
+percent reserve bank with tailored holding company supervision, 
+is that something you discussed and are willing to consider?
+    Ms. Liang. Yes. I think bringing stablecoins into an IDI 
+framework that is adjusted for the risks of the stablecoin 
+issuer, which would include solid backing of the stablecoin, 
+one for one, would certainly be an option.
+    Senator Lummis. Well, I am so pleased to hear that that is 
+your approach, because without it, I think the type of 
+competition that Senator Hagerty wants to protect would be at 
+risk if someone already has deposit insurance and can issue a 
+stablecoin like JPMorgan's JPM coin. That would seem to limit 
+competition in that marketplace to only the very, very largest 
+banks in our country, and there may be other options that other 
+institutions could explore. And it sounds like you are willing 
+to discuss that with them.
+    So I am going to conclude with a different question: Does 
+Treasury have a timeline for issuance of the guidance on the 
+definition of broker for digital assets under the 
+infrastructure bill? I know we were promised some public 
+guidance on this a few months ago, and we have yet to see it.
+    Ms. Liang. I know Treasury is working very actively on 
+that. The principle of the tax provisions is, you know, for 
+those who owe taxes should pay their taxes. It is not designed 
+to crimp the activities of crypto assets.
+    Senator Lummis. Well, I am also very pleased to hear that 
+because some of the provisions in the definition, as you know, 
+included people who would not know the ultimate customer of a 
+digital asset, the ultimate customer being the one who owes the 
+taxes as opposed to the inventor of the software or the 
+hardware.
+    So thanks very much. We look forward to that guidance 
+coming out as soon as possible and appreciate, again, your 
+testimony today.
+    Mr. Chairman, I yield back.
+    Chairman Brown. Thank you, Senator Lummis.
+    Senator Van Hollen of Maryland is recognized.
+    Senator Van Hollen. Thank you, Mr. Chairman and Ranking 
+Member Toomey.
+    I know there is some discussion about moving forward on the 
+vote on the Fed nominations today. I hope we will move forward 
+on all five this afternoon.
+    Ms. Liang, I have been monitoring some of the testimony. 
+Welcome. And we do want to encourage innovation. I suppose 
+that, but we also want to make sure that we protect consumers. 
+You would agree?
+    Ms. Liang. Absolutely.
+    Senator Van Hollen. And I do want to focus on some of the 
+things that could happen when things go wrong, where there are 
+protections under our existing financial arrangements that do 
+not apply to stablecoins, even though stablecoins are intended 
+to be tied to a stable base.
+    As you know, when it comes to the deposits in banks, we 
+have the Federal Deposit Insurance Act that makes sure that 
+consumers are protected up to some amount of their deposits, 
+right? Is there any protection if the stablecoin issuer was to 
+go belly up for consumers?
+    Ms. Liang. There currently--the protection would be 
+provided by the quality of the assets that are held in reserve 
+against the stablecoin, but there is not deposit insurance. But 
+it would be----
+    Senator Van Hollen. But are they--let me ask you this, 
+then.
+    Ms. Liang. But they are not regulated.
+    Senator Van Hollen. Are there any standards with respect 
+to----
+    Ms. Liang. There are no standards.
+    Senator Van Hollen. ----what the reserves have to be?
+    Ms. Liang. No. There are no standards at this point.
+    Senator Van Hollen. Right. So, currently, if the issuer 
+were to go belly up, in other words, if they were to go out of 
+business and they did not have reserves to cover the deposits, 
+the depositors--the holders of stablecoin would just be out of 
+luck, right?
+    Ms. Liang. That is correct.
+    Senator Van Hollen. OK. There are also protections that 
+apply to consumers when it comes to transactions and things 
+like credit cards or debit cards, right?
+    Ms. Liang. Yes.
+    Senator Van Hollen. And for example, if there are payment 
+errors, fraud, or unauthorized transactions, then consumers 
+have existing protections when they are dealing with credit 
+cards or debit cards, right?
+    Ms. Liang. Correct.
+    Senator Van Hollen. And when it comes to stablecoins, if 
+there is some error, if there is some kind of fraud or 
+unauthorized transaction or a hacking, are there any 
+protections for the consumers of stablecoins?
+    Ms. Liang. So stablecoins are licensed under State money 
+transmitter regimes, and there are consumer protection laws in 
+those. They vary by State. They may apply to stablecoins. In 
+some States, they may not.
+    Senator Van Hollen. So right now, it is hit or miss, 
+depending on whether you are in a State that provides some 
+protection and the extent of that protection. Is that right?
+    Ms. Liang. As I understand it, yes.
+    Senator Van Hollen. So just to pick up on the question from 
+Senator Warren, in terms of the work group, the Presidential 
+work group that was put together, clearly, you identified some 
+of the risks that we are talking about right now. Is that 
+correct?
+    Ms. Liang. Correct.
+    Senator Van Hollen. And do you believe that the executive 
+branch currently has the authority to move forward to protect 
+consumers, for example, in the two areas that I mentioned, 
+right? With respect to some kind of stablecoin equivalent of 
+depository insurance or national rules that protect consumers 
+from errors or fraud, do you believe that the administration, 
+the executive branch, has the authority to regulate in that 
+area, or is that an area that would require legislation?
+    Ms. Liang. I believe that is an area that would require 
+legislation, that the risk of runs and the risk of payment 
+system disruptions, including protections to consumers, is a 
+gap in the current regulatory system.
+    Senator Van Hollen. And in response to Senator Warren, you 
+indicated that there may be some areas where FSOC could move. 
+If not these areas, can you describe some of the areas where 
+you think you may have the authority to move at the executive 
+branch level?
+    Ms. Liang. Yeah. I do not--I think each--you know, each 
+agency will take actions consistent with their mandates, but it 
+is not sufficient for the gap, for the risks of runs and 
+payment system.
+    FSOC has some tools, but it is not a substitute. It would 
+not provide a consistent, comprehensive framework. It could 
+address particular risks as they arose, depending on the facts 
+that circumstances, but it is not a comprehensive, consistent 
+framework that legislation could provide.
+    Senator Van Hollen. And I hope you will work with those of 
+us on this Committee who are interested in providing that kind 
+of consumer protection regime and standards in this area.
+    Ms. Liang. Absolutely. We would be very happy to work on 
+it.
+    Senator Van Hollen. Thank you.
+    Thank you, Mr. Chairman.
+    Chairman Brown. Thanks, Senator Van Hollen.
+    Senator Daines from Montana is recognized.
+    Senator Daines. Chairman Brown, thank you.
+    As I said in our previous hearing on stablecoins, I think 
+it was about 2 months ago, I do believe the stablecoin policy 
+is an area where there should be, there can be, hopefully there 
+will be some broad bipartisan agreement and compromise. I do 
+believe that we should pursue a light-touch approach to 
+regulation.
+    But I also believe a bipartisan legislative framework on 
+stablecoins is possible and I do believe necessary. Bipartisan 
+legislation will also help provide users as well as market 
+participants with the certainty they need to let innovation 
+flourish without fear that regulators will overreach using 
+authority in existing statutes that in no way contemplated the 
+emergency of stablecoins.
+    I would urge my colleagues to avoid any partisan solution 
+and instead seek consensus on truly something that is 
+bipartisan. There is a moment here that we need to seize.
+    It would provide certainty needed for private industry to 
+grow as well as to prosper. I think this will help provide the 
+best pathway for this technology to grow in a way that benefits 
+the folks back home in Montana, all Americans, and the global 
+financial system.
+    Furthering the use of stablecoins would help to increase 
+the speed of payments and lower cost in the financial system, 
+and I believe these are results we should all agree are worth 
+pursuing.
+    I turn to my questions. Under Secretary Liang, absent 
+legislation from Congress, can you provide us a sense as to 
+which Federal agencies would be most likely to issue 
+regulations relating to stablecoins and on which statutes they 
+would derive their authority?
+    Ms. Liang. So, Senator Daines, thank you for the question.
+    I would need to defer to the individual agencies as to 
+what--how they would interpret their authorities and their 
+strategies.
+    I would say, currently, the SEC and CFTC are approaching 
+crypto assets more broadly to prevent fraud, to prevent 
+manipulation, to protect investors and consumers.
+    The banking agencies are taking actions to--are taking--
+issuing guidance to advise banks about their activities in 
+crypto, but currently, I do not think there is the authority 
+for any agency to address the risks of stablecoins, to prevent 
+runs, and to prevent disruptions in the payment system should 
+stablecoins be used widely as payments.
+    Senator Daines. So I think hearing you answer that 
+question, it leads me to follow up in terms of your thoughts 
+around the need for adopting a clear regulatory framework that 
+would be established through bipartisan legislation. Might that 
+be a catalyst for a more widespread adoption of digital assets?
+    Ms. Liang. I think a consistent comprehensive framework 
+could be a catalyst for innovation as well. I think developers 
+need clarity on how they can operate, how they can develop 
+their business that will be viewed as permissible in the 
+marketplace, to serve customers, to protect customers as well 
+as to provide a product that they think can deliver faster 
+payment--faster payments, cheaper payments. So I do think more 
+regulatory clarity can actually promote innovation.
+    Senator Daines. And I think why we need bipartisanship here 
+and, in my opinion, a lighter touch is we have an opportunity 
+where we could actually put the right kind of framework in 
+place that could accelerate innovation.
+    Ms. Liang. Mm-hmm.
+    Senator Daines. The wrong framework and, in my opinion, too 
+much of a heavy hand could certainly stifle innovation. So this 
+is a moment we could actually accelerate it, I believe, with 
+the right regulatory framework.
+    Ms. Liang. Yes, I agree. And we are seeing stablecoin 
+issuers pursuing bank-like charters and talking to the banking 
+regulators. So they do believe that this is an area--this is a 
+path, possible path forward.
+    Senator Daines. And anytime we look at a situation like 
+this, an issue like this, I always come back to the question of 
+global competitiveness, what this means certainly around the 
+world. If the U.S. does not clearly define this landscape, 
+would it be unreasonable to expect a large portion of this 
+activity to perhaps migrate overseas to countries with more 
+favorable and clear regulatory structures?
+    Ms. Liang. I think businesses would tend to migrate where 
+regulations are more clear. I would absolutely agree with that.
+    There is an incentive to want to tie to the value of the 
+dollar because the dollar is the global reserve currency, and 
+so I think there is a pull from the strong dollar and all that 
+stands behind a strong U.S. dollar. Technology can help that, 
+but the dollar itself is--you know, the value of the global 
+status of the dollar is supported by the rule of law and the 
+governance of the country and the economic potential. But the 
+technology will want to--you know, is incentivized to move to 
+be backed by the dollar because of that, and it will help it, I 
+think, if we can provide a good framework.
+    Senator Daines. Thank you.
+    Chairman Brown. Thank you, Senator Daines.
+    Senator Cortez Masto from Nevada is recognized from her 
+office.
+    Senator Cortez Masto. Thank you, Mr. Chair.
+    Under Secretary, welcome. Thank you so much for being here.
+    Let me just say I agree with Senator Daines that this issue 
+really is bipartisan always when it comes to the needs of the 
+regulatory system, and in that spirit, that is why I look 
+forward to voting for the five Federal Reserve nominees this 
+afternoon. We need a full Federal Reserve Board to bring down 
+prices and promote full employment and wage gains, and we 
+really should be playing politics with that.
+    Let me say, Mr. Chairman, thank you for this hearing. It is 
+such an important issue. I also appreciate the Ranking Member 
+putting--laying out these principles to talk about developing a 
+legislative framework for stablecoins. It is such an important 
+area, and I think it is an area we need to focus on.
+    So, Under Secretary, let me start with a couple of 
+questions, and I am going to follow up on Senator Daines' 
+questions to you about which agencies are responsible for the 
+oversight right now of stablecoins. Are there any Federal 
+agencies that are responsible right now to ensure that 
+stablecoin issuers are adequately backed?
+    Ms. Liang. Currently, stablecoin issuers are backed by 
+either State money--are regulated by State money transmitter 
+licenses or State charters.
+    Senator Cortez Masto. So right now, there is no Federal 
+agency looking at whether they are adequately backed. It is 
+State agencies; that is, if the States have some sort of regime 
+for that. Is that correct?
+    Ms. Liang. That is correct.
+    Senator Cortez Masto. OK.
+    Ms. Liang. That is correct.
+    Senator Cortez Masto. Yeah. And it goes back to what 
+Senator Van Hollen had said. Some States have it; some do not. 
+So there is some patchwork there.
+    Let me ask you this. With respect to stablecoin and 
+cryptocurrency, do they always have to register as a money 
+services business under FinCEN's Federal regime?
+    Ms. Liang. Yes.
+    Senator Cortez Masto. Yeah. And thank you, because, you 
+know, the last Congress, I worked on the FinCEN Improvement 
+Act. I led that bill, and it is important that we gave FinCEN 
+the authority over cryptocurrencies and other technical 
+reliance on financial payments for this very reason.
+    Do you feel that FinCEN has a robust framework to prevent 
+and sanction illicit finance when it comes to stablecoins or 
+any cryptocurrency?
+    Ms. Liang. Yes. Yes, FinCEN--so registering as a money 
+service business under the State transmitter license triggers a 
+number of FinCEN regulations: AML, BSA, AML/CFT regulations. 
+They have been working on this for many years. Some of the 
+initial guidance on what was called virtual assets came out in 
+2014. They lead some of the international work. This is an area 
+of strong focus. They understand and want to enforce stronger--
+have a stronger implementation and enforcement.
+    As I understand it, some of the issues are related to 
+activities abroad, exchanges abroad, and with the Financial 
+Action Task Force, they are working globally to try to improve 
+implementation.
+    This is an area also for the administration more broadly, 
+which they are working on and will be announcing more work on 
+in the coming weeks.
+    Senator Cortez Masto. Great. Thank you for that.
+    Let me go back to the report that the working group put 
+out. In some of the prudential concerns, one of the areas that 
+you talked about is to address additional concerns about 
+systemic risk and concentration of economic power, and then in 
+there, it states supervisors should have authority to implement 
+standards to promote interoperability among stablecoins. Can 
+you discuss the interoperability piece of it and elaborate a 
+little bit more on that?
+    Ms. Liang. Yeah. So one of the three prudential risks is 
+this possibility of increased concentration of economic power. 
+This has to do with the network externalities of a payment 
+system, where everyone--there are greater benefits if everyone 
+is part of the same payment system. So, if you have large 
+firms, the ability to scale up a payment system could 
+potentially increase market power.
+    One way to diminish or to offset some of that unwanted 
+increase in market power would be to promote interoperability 
+among stablecoin issues, and that just allows for consumers to 
+exchange one stablecoin for another, so to speak, and allow 
+them to interact with each other so you do not create a number 
+of different sort of closed-loop systems.
+    Senator Cortez Masto. And I know my time is up, but I would 
+imagine that there is going to be issues with respect to the 
+standardization of that interoperability that we would have to 
+address.
+    Ms. Liang. Absolutely. Absolutely. It is a complicated 
+issue of which more discussion would definitely need to be 
+taking place.
+    Senator Cortez Masto. Thank you. Thank you very much.
+    Chairman Brown. Thank you, Senator Cortez Masto.
+    Senator Ossoff is recognized from his office from Georgia.
+    [No response.]
+    Chairman Brown. Senator Sinema from Arizona is recognized 
+from her office.
+    Senator Sinema. Thank you, Mr. Chairman, and thank you to 
+our witnesses for being here today.
+    As you know, Mr. Chairman, I cochaired the Senate's 
+Financial Innovation Caucus alongside my friend, Senator Lummis 
+of Wyoming. So I am very glad that we are holding this hearing 
+today.
+    As we discuss new financial technologies, I want to ensure 
+that we balance commonsense protections for everyday Arizonans 
+while creating an environment where innovation can thrive.
+    Under Secretary Liang, it is great to speak with you today 
+and to discuss this important topic. The President's Working 
+Group report on stablecoins calls for Congress to pass a 
+solution to avoid runs on stablecoins and to ensure that users 
+have commonsense protections to safeguard stablecoins' stated 
+value. These objectives align with some of the concerns I 
+raised in our last stablecoin hearing.
+    There is general agreement that this is a noble goal, but 
+it is important to be thoughtful about the solution that we 
+propose. I am interested in ensuring there are adequate 
+consumer protections to give Arizona consumers confidence in 
+the value of stablecoin, but I also want to make sure that 
+regulatory requirements are not overly onerous. We do not want 
+to discourage innovation or limit consumer choice.
+    Can you elaborate on how the report balances these 
+competing priorities?
+    Ms. Liang. So thank you for that question. So I think that 
+was the underlying principles of the report to balance 
+innovation and competition for payment systems and while at the 
+same time protecting consumers.
+    So our view is that a more clear, consistent, comprehensive 
+regulatory framework goes a long way to promoting innovation 
+and providing choices for consumers.
+    It does requirement that stablecoins actually be stable, 
+and so there are some recommendations about how to achieve 
+stability in a stablecoin. It requires that stablecoins be able 
+to provide the payment services that it offers in a reliable 
+way, and we want the payment system to be resilient. So it 
+makes a number of recommendations in that space.
+    Senator Sinema. Well, thank you, Under Secretary Liang.
+    I am encouraged to see this discussion of decentralized 
+finance and Web3 evolve. I think it has the potential to make 
+everyday transactions faster, safer, simpler, and more 
+affordable for everyday Arizonans.
+    With any new groundbreaking technology--the internet in 
+particular comes to mind--the technology itself is quite 
+promising, though many of the early use cases ultimately do not 
+work and do not make it. The technology, however, ensures, and 
+the next group of entrepreneurs improve on or disrupt what came 
+before them. So that is the nature of innovation, and I am 
+committed to ensuring we have an innovation ecosystem that is a 
+win-win for Arizona entrepreneurs and consumers alike.
+    I see decentralized finance and Web3 in this way. Our job 
+is to think through what works and what does not, what helps 
+consumers and what does not, and to create commonsense rules of 
+the road that provide certainty for everyone. It is important 
+to me that we address some of the short-term challenges with 
+these technologies while also not losing sight of the long game 
+when it comes to the potential benefits of decentralized 
+finance and Web3.
+    Are you and the Administration aligned in that thinking on 
+this issue?
+    Ms. Liang. So I agree that DeFi is growing rapidly. There 
+are many different range of products and services being 
+offered, and the potential for benefits are there.
+    Innovation is--responsible innovation is absolutely 
+supported with the--alongside of making sure that investors and 
+consumers are protected through actions by the market 
+regulators, the Consumer Financial Protection Bureau, or the 
+State regulators where appropriate, so agree with your 
+assessment.
+    Senator Sinema. Thank you.
+    Finally, I received a letter from Assistant Secretary 
+Davidson in response to a bipartisan letter I sent in December 
+with Senators Portman, Warner, Crapo, Toomey, and Loomis. Our 
+letter requested that the cryptocurrency provision, included in 
+our bipartisan Infrastructure Investment and Jobs Act, is 
+implemented in accordance with congressional intent. I am not 
+encouraged by aspects of a letter we received, including but 
+not limited to an acknowledgment that congressional intent is 
+that cryptocurrency providers, bankers, and those solely 
+engaged in the business of selling hardware or software, to 
+allow individuals to control private keys. They should not be 
+considered brokers for the purpose of this action.
+    Providing certainty to these groups and ensuring that a 
+future rulemaking aligns with congressional intent is a 
+priority for me, and I believe it is possible to help close the 
+tax gap while also ensuring that the rules are clear and fair 
+so that innovators are not inadvertently or unintentionally 
+subjected to these requirements.
+    So my question of you is we submit that the Department will 
+work closely with me and the other authors of the letter to 
+consider development of a Notice of Proposed Rulemaking to 
+ensure that the law is executed as Congress intended.
+    Ms. Liang. I believe the Treasure Department's principle is 
+to not to squash crypto assets but to collect taxes from those 
+who owe taxes.
+    Senator Sinema. So just to clarify--and I know my time has 
+expired, Mr. Chairman--Under Secretary, would you be willing to 
+work with the authors of our bipartisan letter to ensure that 
+Congressional intent is honored?
+    Ms. Liang. I am sure Treasury and my colleagues in the 
+Office of Tax Policy would be very happy to work with you.
+    Senator Sinema. All right. Thank you, Mr. Chairman.
+    Chairman Brown. Thank you, Senator Sinema.
+    Senator Ossoff from Georgia is recognized from his office.
+    Senator Ossoff. Thank you, Mr. Chairman, and thank you, Ms. 
+Liang, for joining us and for your service and for the report 
+that the President's Working Group has submitted.
+    Could you please restate briefly what are the principal 
+risks that you assess to be posed by the growth of the 
+stablecoin market?
+    Ms. Liang. So, briefly, stablecoins have been growing, and 
+their potential to be used for payments in the ordinary world, 
+the non-crypto world, has been increasing. So the risks that we 
+included and identified in the PWG report are, one, the risks 
+that investors could run on a stablecoin, perhaps because 
+investors lose confidence in the value of the assets that are 
+behind it; two, the risk of disruptions to the payment system, 
+if they--the payment--the operations are not held as standards 
+that ensure that payments can be made as promised; and then, 
+third, the increased risk from higher market concentration if 
+some stablecoins were to scale up very quickly and increase 
+market share. So those are the three risks that were identified 
+in the PWG report for which the report--the PWG believed 
+current regulations do not address.
+    Senator Ossoff. Thank you, Ms. Liang.
+    The report states that stablecoins, depending on context, 
+could be considered derivatives or commodities or securities. 
+Why are existing regulatory authorities, in your opinion, in 
+sufficient?
+    Ms. Liang. So, currently, stablecoins could be--you know, I 
+leave it to my colleagues at SEC and CFTC as to whether 
+stablecoins are securities or commodities, but as a payments 
+mechanism, to be used by households and businesses to 
+facilitate payment transactions, that, I think, is a separate 
+consideration, and that is what the PWG report focused on.
+    Senator Ossoff. And what regulatory actions might you 
+recommend be undertaken for which the Department currently 
+lacks statutory authority?
+    Ms. Liang. So, currently, stablecoin issuers are 
+authorized--they are licensed by State money transmitter laws, 
+some trust banks in some States. There is not a Federal agency. 
+The principal recommendation is that stablecoin issuers 
+register, be required to be insured depository institutions 
+where the regulation and supervision of these institutions 
+would be matched to the risks and activities of a stablecoin 
+issuer, so that if it does not make loans or extend credit, it 
+is not subject to the same set of rules that other traditional 
+commercial banks might be.
+    Senator Ossoff. What are the most common mechanisms by 
+which issuers peg the value of the stablecoin to the U.S. 
+dollar, and which of those mechanisms, in your view, present 
+the most risk or may most require some form of prudential 
+regulation at the Federal level?
+    Ms. Liang. There are many different stablecoins issuers 
+right now. I think the predominant is tied to the value of the 
+U.S. dollar, and they do that by holding reserve assets in U.S. 
+dollars that are--on redemption request would be able to be 
+converted to a dollar, to one dollar. So that is the primary, 
+by far, the largest stablecoin issuers.
+    The issue at question is whether the issuer, the stablecoin 
+issuer could actually provide a user a dollar on request, and 
+the IDI framework, the insured depository institution 
+framework, would be an important step to ensuring that 
+stablecoins, in fact, deliver the dollar when asked.
+    Senator Ossoff. And in your view and in the analysis of the 
+working group and a relevant law, Ms. Liang, you do not believe 
+that currently regulatory authorities have adequate statutory 
+authority to, for example, impose reserve requirements or other 
+prudential requirements on such issuers to ensure that they can 
+maintain the peg if there is a sudden increase in demand for 
+redemption?
+    Ms. Liang. I do not think there is any regulation that 
+requires them to do that. No.
+    Senator Ossoff. Thank you for your testimony, Ms. Liang.
+    Thank you, Mr. Chairman.
+    Chairman Brown. Thank you, Senator Ossoff.
+    Thank you, Madam Under Secretary, for joining us today.
+    Senators who wish to submit questions for the record, those 
+questions are due 1 week from today, Tuesday, February 22nd. 
+Witnesses--you, Madam Under Secretary--have 45 days to respond 
+to any of those questions.
+    Thank you again. The Committee is adjourned.
+    [Whereupon, at 11:41 a.m., the hearing was adjourned.]
+    [Prepared statements, responses to written questions, and 
+additional material supplied for the record follow:]
+              PREPARED STATEMENT OF CHAIRMAN SHERROD BROWN
+    Let me start by talking about the Federal Reserve.
+    This afternoon at 2:15 we will be meeting in SVC-200 to markup five 
+Federal Reserve nominees and one for the FHFA.
+    We need a full Federal Reserve Board of Governors to bring down 
+prices and put workers first.
+    Ranking Member Toomey and I agreed on the dates for the hearing and 
+markup over 3 weeks ago.
+    Americans are depending on us to get them on the job as soon as 
+possible.
+    If my colleagues are as concerned about inflation as they claim to 
+be, they will not slow down this process, which will only hurt workers, 
+their families, and our recovery.
+    If you watched the Super Bowl on Sunday, you saw ad after ad for a 
+product that most Americans have heard of, but almost nobody knows what 
+it is. Even many of the people who've bought it often don't really 
+understand it.
+    Big cryptocompanies are looking to make big profits, and are 
+desperate to reach as many Americans as they can. They brought in 
+celebrities and gimmicks to make crypto sound exciting and daring and 
+profitable.
+    But the ads left a few things out.
+    They didn't mention the fraud, scams, and outright theft.
+    The ads didn't point out that you can lose big in crypto's huge 
+price swings. They didn't tell you about the high fees pocketed by the 
+cryptocompanies.
+    And they sure didn't explain that cryptomarkets lack basic investor 
+protections and oversight.
+    Just a few weeks ago, hackers stole more than $300 million of 
+people's investments from a cryptoplatform.
+    The fact that these companies felt the need to advertise at all is 
+a bit of a giveaway about one of their major claims--if this were 
+actually meant to be used as currency, why would you need to buy ads? 
+I've never seen the Federal Reserve buy a multimillion dollar 
+commercial for ``U.S. dollars.''
+    That's because crypto isn't money. It's designed for speculation. 
+And watching all those ads reminded a lot of us of some asset bubbles 
+we've been before.
+    The 2000 Super Bowl featured 21 ads from 14 different dot com 
+start-ups. The internet may have been the next frontier, but those 
+companies weren't--many of them were defunct within a year or two, and 
+just four are still around today.
+    We're here today because once again, real people's real money is at 
+risk. We need to look beyond the unproven promises, and protect 
+Americans and our entire financial system.
+    In a hearing last July, this Committee examined the risks of 
+cryptocurrencies to our economy. In December, we looked closely at the 
+mechanics behind stablecoins and stablecoin companies.
+    Today, we're joined by Treasury Under Secretary Liang, to look at 
+the risks stablecoins pose, and how regulators and Congress can protect 
+consumers.
+    Last fall, the Treasury Department led a team of our financial 
+regulators to conduct a report on stablecoins. The report makes it 
+clear that without regulation, stablecoins can endanger our economy, 
+our payments systems, our hard-earned money.
+    And while stablecoins suggest they're like money, good luck trying 
+to use one at the store. Their main purpose today is to make it easier 
+to trade, speculate, and in some cases even hide assets in crypto and 
+digital markets.
+    In just a few years, stablecoins have mushroomed into a 175 billion 
+dollar market. Now they're asking us to believe that what they've built 
+is as good as real money, and that it works the way these start-ups say 
+it does.
+    Americans--and this Committee--should look carefully at those 
+promises.
+    The companies claim that a stablecoin is backed by real dollars, 
+invested in a reserve account--that's what makes it ``stable.''
+    But our regulators tested that claim by a giant stablecoin issuer. 
+That issuer ended up paying nearly $60 million in fines because it lied 
+about its reserves. It turns out that for over 2 years, the stablecoin 
+was only really ``backed'' 28 percent of the time.
+    Stablecoin companies say that you can, quote, ``redeem'' a 
+stablecoin whenever you want, exchanging it back into dollars from the 
+stablecoin's reserve.
+    But the fine print in the agreements of some of the biggest 
+companies says that ordinary consumers can't actually redeem their 
+stablecoins for dollars from the company that issues them. Only 
+institutions like hedge funds can. And even then, many stablecoin 
+issuers can delay redemptions, or refuse them entirely.
+    So if you saw a Super Bowl ad and figured you'd give this a try, 
+and you change your mind and want to exchange your stablecoin for 
+dollars, you might be out of luck. The website could be down. Your 
+money could be trapped.
+    Stablecoin issuers also promise that their product will serve 
+people who have been left behind in the financial system.
+    But as we've established, crypto doesn't actually function as real 
+currency in any traditional sense. Allowing more people to trap their 
+money in risky, speculative investments isn't the kind of financial 
+inclusion we need. It's not going to do anything to help Americans 
+working hourly jobs who don't put their paychecks in the bank because 
+of abusive fees.
+    Finally, stablecoin companies say that if you hand them your money, 
+your money will be safe. They tell us that they structure their 
+reserves so that people's money is protected, and that their business 
+will weather any kind of crisis.
+    Now, maybe the stablecoin companies are right. Maybe we should just 
+close our eyes and trust that a product called ``Magic Internet 
+Money''--run by an outfit called ``Abracadabra''--is a safe place for 
+your money.
+    But I don't think working Americans can take that risk.
+    Remember in 2007 and 2008, when the banks said homes prices would 
+only go up and mortgages would never be underwater?
+    And then, as now, it's workers and their families whose homes and 
+hard-earned savings are being used as gambling chips. They're the ones 
+who will pay the price.
+    I understand the appeal of crypto. Americans have burned over and 
+over again by Wall Street. The 2008 crisis, abusive fees, a stock 
+market that seems detached from reality--of course people don't trust 
+the big banks. And they figure, how could putting my money in one of 
+these new products be any worse? Maybe I'll finally get in on the kinds 
+of deals that have been making investment bankers wealthy for years.
+    And some of those Super Bowl ads were pretty compelling television. 
+They make vague allusions to innovation and the future--and who could 
+be against innovation?
+    But we have ignored warnings like the report we're talking about 
+today too many times before.
+    Before the financial crisis, Congress and regulators ignored 
+warnings about the risky bets, increasing leverage, and over-the-
+counter derivatives on Wall Street. Then the banks got a bailout, and 
+working people paid the price.
+    That's why I want Congress and regulators to work together to 
+tackle these risks now, before it's too late.
+    I urge my colleagues to listen carefully to Under Secretary Liang's 
+testimony today, and to the warnings in the PWG report.
+    We need a strong, proactive approach from regulators and Congress 
+to limit stablecoins' risks for working Americans.
+    As our economy continues to recover from COVID-19--as workers are 
+finally starting to see higher wages and more bargaining power in the 
+workplace--the last thing we need is for a risky new financial product 
+to cause disaster.
+    This isn't the first hearing this Committee has had on stablecoins, 
+and it won't be the last.
+                                 ______
+                                 
+            PREPARED STATEMENT OF SENATOR PATRICK J. TOOMEY
+    Thank you, Mr. Chairman. And Ms. Liang, welcome.
+    Two months ago, this Committee held its first hearing on 
+stablecoins. I was encouraged to hear from our witnesses about the 
+essential role stablecoins play in the larger cryptocurrency trading 
+ecosystem.
+    It also important to note the tremendous potential stablecoins have 
+to be adopted as a common medium of exchange in the broader, ordinary 
+goods and services economy. Unlike cryptocurrencies that fluctuate in 
+value, stablecoins are designed to maintain a 1-to-1 value relative to 
+reference asset, typically a fiat currency, such as the U.S. Dollar. 
+Put simply, one stablecoin is meant always to be worth one dollar.
+    Because of this price stability, stablecoins have the potential to 
+serve all the traditional functions of money by acting as a medium of 
+exchange, unit of account, and store of value. Stablecoins can also 
+improve upon traditional forms of money by increasing payment speed, 
+especially cross-border transfers, reducing transaction costs, and 
+helping to combat illicit finance through an immutable and transparent 
+transaction record.
+    Stablecoins can also be programmed to execute payments 
+automatically upon the occurrence of some predesignated, verifiable 
+event. This capability in particular has the potential to transform 
+finance and, in time, much of our economy.
+    Any regulatory regime for stablecoins will inevitably focus on 
+consumer protections and systemic stability. But at least as important 
+will be preserving the tremendous, unimagined benefits that will flow 
+from future innovations.
+    As stablecoin usage has grown significantly, regulators have 
+increasingly taken interest. Last November's report from the 
+President's Working Group on Financial Markets--spearheaded by Ms. 
+Liang--appropriately recommended Congress pass legislation to establish 
+a Federal regulatory framework for stablecoins.
+    The PWG report recommends Congress address three perceived 
+``prudential concerns'': stablecoin runs, payment system risks, and 
+systemic risk and concentration of economic power. The principal 
+recommendation is that stablecoin issuance be limited to insured 
+depository institutions (IDIs).
+    While I commend their contribution to the public discussion, I 
+strongly disagree with that recommendation. And I believe we can 
+protect against concerns such as run risk through a less restrictive 
+and more appropriately tailored approach.
+    To accomplish those objectives, I released a set of guiding 
+principles for stablecoin legislation. These principles recognize that 
+stablecoin issuers have significantly different business models than 
+banks and present different risks.
+    For example, stablecoin issuers typically neither make loans nor 
+take deposits. They may choose not to transform maturity or 
+intermediate credit risk. As such, a stablecoin issuer using cash or 
+cash equivalents to back its coin is likely safer than most existing 
+financial institutions.
+    Because of these differences, it would be inappropriate to subject 
+stablecoin issuers to the full range of bank regulations meant to 
+address risks posed by the fractional reserve, deposit, and lending 
+banking system.
+    I am encouraged that Ms. Liang has recognized these differences and 
+sensibly agreed there should be regulatory ``flexibility'' for 
+stablecoin issuers not engaged in traditional banking. But that raises 
+the natural question: why require all stablecoin issuers to become 
+insured depository institutions?
+    My legislation will take a different approach. It will provide 
+regulatory treatment that is flexible and adaptable to future 
+technological innovation. It will also promote competition in the 
+stablecoin market by allowing at least three types of regulated 
+entities to issue stablecoins.
+    First, it will preserve the regime to which the majority of 
+stablecoin issuers are currently subject as State-registered money 
+service businesses and money transmitters. To disrupt this regime would 
+both introduce unnecessary burdens to an emerging technology and 
+unwisely diminish the success of States with experience and expertise 
+in this area. Rather than discard this regime, we should build on it to 
+ensure the public has the right disclosures about stablecoin reserves 
+to make an appropriately informed decision about whether to use any 
+given stablecoin.
+    Second, it will clarify that insured depository institutions are in 
+fact permitted to issue stablecoins. The former head of the OCC, Brian 
+Brooks, pioneered work to give banks clarity on digital asset 
+activities, but the current OCC has created confusion regarding 
+permissible activities.
+    Finally, it will establish a new stablecoin charter with regulatory 
+requirements designed specifically for stablecoin issuers. The 
+requirements will address the risks identified by the PWG report, but 
+will not force stablecoin issuers into a one-size-fits-all system 
+created for traditional banks. Ms. Liang's recent testimony indicates 
+to me that she agrees with a tailored approach for such issuers.
+    Rather than rely on the ``flexibility'' of the existing framework 
+for depository institutions, which leaves full discretion to bank 
+regulators, it is the responsibility of Congress to design this 
+approach. These three paths would allow each stablecoin issuer to 
+choose the regulatory framework most appropriate for its business 
+model.
+    And under this legislation, each stablecoin issuer would be 
+required to meet certain minimum requirements regardless of its charter 
+or license. For example, all would be required to disclose the assets 
+backing the stablecoin, adopt and clearly disclose redemption policies, 
+and undergo third-party audits. These requirements would ensure that 
+consumers have sufficient information to choose which stablecoin they 
+use.
+    Ms. Liang's thoughtful comments on stablecoin regulation lead me to 
+believe there are many issues on which we can find common ground. I 
+look forward to developing legislation with my Senate colleagues and 
+working with the Administration to establish a regulatory framework for 
+stablecoins that addresses potential risks while also encouraging 
+innovation and competition.
+                                 ______
+                                 
+                PREPARED STATEMENT OF JEAN NELLIE LIANG
+    Under Secretary for Domestic Finance, Department of the Treasury
+                           February 15, 2022
+    Chairman Brown, Ranking Member Toomey, and other Members of the 
+Committee, thank you for the opportunity to testify this morning on 
+stablecoins.
+    Stablecoins are part of an emerging set of digital assets, 
+activities, and services that could have profound implications for the 
+U.S. financial system and economy. Treasury supports responsible 
+innovation that helps meet the evolving needs of users and the 
+financial system. But stablecoins also raise policy concerns, including 
+those related to illicit finance, user protection, and systemic risk. 
+To mitigate these risks while supporting the potential benefits from 
+innovation, Treasury believes that regulation of stablecoins should be 
+clear and consistent.
+    In November, the President's Working Group on Financial Markets, 
+along with the Federal Deposit Insurance Corporation and the Office of 
+the Comptroller of the Currency, took an important step in this 
+direction with the publication of a stablecoin report (PWG Report). The 
+PWG was formed by Executive order in response to the 1987 stock market 
+crash. The group is chaired by the Secretary of the Treasury and 
+composed of Federal financial regulators. The PWG regularly produces 
+reports on financial markets issues for the President, which may 
+include recommended legislative changes.
+    As described in the PWG Report, stablecoins are a type of digital 
+asset designed to maintain a stable value relative to the U.S. dollar 
+or other reference asset. Today, stablecoins are used primarily to 
+facilitate trading in digital assets. But, because stablecoins are 
+designed to maintain a stable value, they could potentially be used 
+more widely as a means of payment by households, businesses, and 
+financial firms. There are no standards regarding the composition of 
+assets used to support the value of stablecoins (reserve assets), and 
+information made publicly available regarding stablecoin reserve assets 
+is not consistent across stablecoin arrangements in either its content 
+or the frequency of its release.
+    Stablecoins are growing and developing rapidly and are not subject 
+to a statutory or regulatory framework that mitigates the risks they 
+present in a consistent and comprehensive manner. Currently, regulators 
+have authorities that can be used to address illicit finance and 
+investor protection concerns in the context of stablecoins. However, as 
+described in the PWG Report, regulatory gaps exist regarding certain 
+prudential risks. The PWG Report recommends legislation to ensure that 
+stablecoins are subject to appropriate Federal prudential oversight. 
+Such legislation would complement existing authorities with respect to 
+market integrity, investor and consumer protection, and illicit 
+finance. The PWG's specific recommendations included: limiting issuance 
+of stablecoins to insured depository institutions (IDI); giving 
+supervisors of stablecoin issuers authority to set risk management 
+standards for critical activities related to use of stablecoin as a 
+means of payment; and certain measures to reduce concerns related to 
+concentration of economic power.
+    As mentioned, stablecoins are part of the much larger and quickly 
+evolving market for digital assets. The Biden administration continues 
+to work across the agencies to develop a comprehensive strategy for all 
+digital assets, with the goals of ensuring that cryptocurrency is not 
+used for illicit finance; addressing risks related to financial 
+stability and consumer and investor protection; and furthering 
+financial inclusion and our continued leadership of the global 
+financial system.
+Prudential Risks of Stablecoins
+    Given their potential to be used as a means of payment, as well as 
+the design mechanisms that they rely on to maintain a stable value, 
+stablecoins present risks that are similar to some of the prudential 
+risks traditionally associated with bank deposits and other forms of 
+private money. History has shown that, without adequate safeguards, 
+bank deposits and other forms of private money have the potential to 
+pose risks to consumers and the financial system. These prudential 
+risks include the risk of stablecoin runs; payment system risks related 
+to the mechanisms that are used to store or transfer stablecoins; and 
+broader concerns related to concentration of economic power.
+    ``Run risk'' refers to the potential for a scenario in which a loss 
+of confidence in a stablecoin sets off a wave of stablecoin 
+redemptions, which could then be followed by distressed sales of the 
+stablecoin's reserve assets. Such distressed sales of assets could 
+negatively affect critical funding markets and broader financial 
+conditions. Runs could also spread contagiously from one stablecoin to 
+another, or to other types of financial institutions that are viewed as 
+having a similar risk profile. The dynamics of a run, as well as the 
+harm that runs can inflict on the broader system, are amply 
+demonstrated by the history of runs on banks and shadow banks--
+including those that occurred in 2007-2008 and, more recently, at the 
+start of the COVID-19 pandemic in March 2020. The first stablecoin run 
+is believed to have occurred in June 2021, when a sharp drop in the 
+price of the assets used to back the stablecoin set off a negative 
+feedback loop of stablecoin redemptions and further price declines.
+    ``Payment system risks'' refer to a disruption in the mechanisms 
+used to store or transfer value, which could interfere with the ability 
+of users to make or settle payments. Payment system risks distinguish 
+stablecoins from certain investment products that are not designed to 
+serve as a means of payment. Custodial wallet providers--meaning wallet 
+providers that hold stablecoins on behalf of users--are one locus of 
+payment system risk, as the failure or disruption of such a wallet 
+provider could deprive users of access to their stablecoins. More 
+generally, use of stablecoins depends on a range of activities that are 
+often distributed across multiple entities within a stablecoin 
+arrangement. \1\ Depending on the particular design of a stablecoin, 
+these activities include: governance of the stablecoin arrangement; 
+stablecoin issuance and redemption; management and custody of 
+stablecoin reserve assets; distributed ledger operation, validation, 
+and settlement; and interfacing with stablecoin holders. Even if a 
+stablecoin itself is adequately protected against run risk, problems 
+related to the activities or entities that support the stablecoin could 
+still interfere with its use as a means of payment, harming stablecoin 
+users and resulting in a loss of payments efficiency.
+---------------------------------------------------------------------------
+     \1\ The term ``stablecoin arrangement'' refers to a stablecoin 
+together with the functions and activities that allow the stablecoin to 
+be used as a means of payment.
+---------------------------------------------------------------------------
+    Finally, I would highlight two concerns related to concentration of 
+economic power. First, connections between a stablecoin (or stablecoin 
+wallet provider), on one hand, and a commercial company, on the other, 
+could be used to give the commercial company an unfair competitive 
+advantage. These policy concerns are analogous to those traditionally 
+associated with the mixing of banking and commerce, such as advantages 
+in accessing credit or using data to market or restrict access to 
+products. Second, the issuer of a stablecoin that becomes sufficiently 
+widely adopted as a means of payment could become a dominant provider 
+of payment services. Market power with respect to payments could reduce 
+incentives for further investment in payments innovations or lead to 
+higher prices for payment services.
+Regulatory Gaps
+    Current statutory and regulatory frameworks do not provide 
+consistent and comprehensive standards for the risks of stablecoins as 
+a new type of payment product. Certain regulatory schemes may have the 
+flexibility to address some issues presented by stablecoins, such as 
+illicit finance. However, stablecoins are not subject to standards to 
+address concerns about run risk, payment system risk, or concentration 
+of economic power. Some of the largest stablecoin issuers operate with 
+limited regulatory oversight, raising significant questions about 
+whether these stablecoins are adequately backed and other aspects of 
+their operations. The regulatory frameworks that apply to stablecoin 
+issuers and service providers are inconsistent, creating opportunities 
+for regulatory arbitrage and uncertainty among stablecoin users. Even 
+where the issuer of a given stablecoin is subject to oversight, the 
+number of different key parties that may be involved in an arrangement, 
+and the operational complexity of these arrangements, may pose 
+substantial challenges for supervisors. The exponential growth of 
+stablecoins--from a market capitalization of roughly $5 billion at the 
+start of 2020 to approximately $175 billion today--increases the 
+urgency of ensuring that an appropriate regulatory framework is in 
+place.
+    Having described the regulatory gaps at a high level, I would like 
+to discuss in more detail several frameworks that have featured 
+prominently in discussions of stablecoins: State money transmitter 
+laws, securities laws, and commodities laws. While Treasury and the PWG 
+fully support efforts by State and Federal agencies to use existing 
+authorities in support of their statutory mandates, we do not believe 
+existing authorities provide a sufficient basis for comprehensive and 
+consistent oversight of stablecoins.
+Money Transmitter Requirements
+    In many States, stablecoin operators are licensed or registered as 
+money transmitters and money services businesses, and are subject to 
+standards that include minimum net worth requirements, surety bond and 
+other security requirements, and restrictions on permissible 
+investments. These standards are generally designed to address consumer 
+protection concerns. They are not meant to address the financial 
+stability and payment system concerns that would arise if stablecoins 
+become widely adopted by households, corporations, and financial 
+institutions as a means of payment.
+Securities Regulation
+    Some have suggested that stablecoins could be regulated either as 
+securities or as money market mutual funds (MMFs). Certain legal 
+academics have raised a threshold question as to whether stablecoins 
+qualify as securities or MMFs under existing laws. Assuming that 
+stablecoins satisfy the definition of securities or MMFs, there is a 
+further question as to whether these regimes would effectively address 
+the prudential risks of stablecoins. Requirements that apply generally 
+to issuers of public securities are not designed to address concerns 
+about run risk, payment system risk, or concentration of economic 
+power. MMF regulations do not focus on payment system risks or concerns 
+about concentration of economic power.
+Commodities Regulation
+    Under the Commodity Exchange Act, the CFTC has the authority to 
+police fraud and manipulation in commodities spot markets, which the 
+CFTC has indicated include digital assets. \2\ In addition, derivatives 
+products on commodities and leveraged retail transactions are subject 
+to jurisdiction of the CFTC. These are important tools for ensuring the 
+integrity of these markets and protecting investors, but they are not 
+intended to address prudential risks.
+---------------------------------------------------------------------------
+     \2\ https://www.cftc.gov/media/4636/
+VirtualCurrencyMonitoringReportFY2020/download
+---------------------------------------------------------------------------
+Recommendation Regarding Stablecoin Issuers
+    The PWG Report recommends requiring stablecoin issuers to be IDIs 
+because IDIs are subject to a regulatory and supervisory framework that 
+would help to mitigate the prudential risks the report identifies. Run 
+risk would be reduced by features including capital, liquidity, and 
+other prudential standards, as well as access to the Federal Reserve as 
+lender-of-last resort. Payment system risk would be mitigated through 
+the establishment of risk-management standards for entities that 
+conduct critical activities within stablecoin arrangements. Concerns 
+about concentration of economic power would be addressed by prohibiting 
+stablecoin issuers from conducting commercial activities, or 
+affiliating with commercial companies, and by allowing supervisors to 
+establish interoperability standards. In short, IDI regulation provides 
+a tested regulatory model that would protect against the prudential 
+risks of stablecoins and help to support confidence of stablecoin 
+users.
+    In developing this recommendation, the PWG relied upon the 
+flexibility that the banking agencies would have to calibrate 
+supervision and regulation of stablecoins based on risk. Banking 
+agencies currently use existing authorities to adjust supervision and 
+regulation in the context of overseeing IDIs with a diverse range of 
+business models (e.g., commercial banks, trading banks, custody banks) 
+and systemic risk footprints (e.g., community banks, mid-size banks, 
+regional banks, large banks). The fact that some prominent stablecoin 
+issuers are already seeking IDI charters provides additional reason to 
+think that IDI regulation is a feasible regulatory model for stablecoin 
+issuance.
+    Since the publication of the PWG Report, some have asked whether 
+stablecoins issued by an IDI would be covered by FDIC insurance, or its 
+equivalent. The PWG Report does not take a position on this issue. 
+While insuring stablecoins would protect users against the risk of 
+loss, it would also introduce certain policy and technical challenges. 
+For this reason, Congress (or the banking agencies) might want to 
+consider alternative measures to protect stablecoin users. \3\
+---------------------------------------------------------------------------
+     \3\ For example, there could be a requirement for stablecoins 
+issued by an IDI to be fully backed by safe assets--consistent with how 
+many stablecoins currently purport to be backed.
+---------------------------------------------------------------------------
+    Finally, the Financial Stability Oversight Council (FSOC) continues 
+to evaluate potential systemic risks related to stablecoins and other 
+digital assets, and the steps that may be available to the FSOC to 
+mitigate such risks. These may include designation of certain 
+activities conducted within a stablecoin arrangement as, or as likely 
+to become, systemically important payment activities.
+Digital Assets and Distributed Ledger Technology
+    As I stated at the beginning of my testimony, Treasury supports 
+responsible innovations that meet the needs of users, the financial 
+system, and the economy. The Administration continues to evaluate the 
+broader set of issues and opportunities posed by digital assets and 
+distributed ledger technology, and welcomes the opportunity to continue 
+to work with Congress.
+    To date, much of the public policy discussion of digital assets has 
+focused on regulatory questions about digital assets themselves. I 
+would identify two additional sets of issues that merit focus as policy 
+is developed in this area:
+    The first relates to the regulation of intermediaries that 
+participate in digital asset markets. Some of these intermediaries are 
+banks, investment companies, and other traditional financial actors 
+that are increasingly expanding into digital assets. Other 
+intermediaries--such as stablecoin issuers, custodial wallet providers, 
+and digital asset exchanges--are native to the digital asset ecosystem, 
+but provide financial services similar (and sometimes identical) to 
+those provided by traditional financial services providers. For both 
+traditional and digital native intermediaries, it is critical to ensure 
+that regulatory frameworks are in place that appropriately address 
+risks to businesses, consumers, and investors, as well as the broader 
+financial system. The banking agencies' recent ``crypto sprint,'' the 
+Securities and Exchange Commission and Commodity Futures Trading 
+Commission's assessment of authorities over digital exchanges, and the 
+PWG's work on stablecoins are important steps in this direction. But 
+clearly, much work remains to be done.
+    The second set of issues relates to potential for systemic risk 
+that could result from the build-up of leverage against digital assets. 
+As we saw in the 2007-2008 financial crisis (and most that preceded 
+it), leverage can play a key role in catalyzing and accelerating 
+financial instability. To address these risks, the Administration is 
+building its knowledge and understanding of the role that leverage 
+plays in digital asset markets and of the implications of that leverage 
+for the rest of the financial system. We would be pleased to discuss 
+this set of issues further with the Committee as our understanding 
+deepens.
+Conclusion
+    I want to thank the Committee for its leadership on these important 
+issues and for inviting me here to testify today. I am happy to answer 
+any questions from the Committee. I also look forward to additional 
+conversations regarding broader issues raised by digital assets and 
+distributed ledger technology.
+        RESPONSES TO WRITTEN QUESTIONS OF CHAIRMAN BROWN
+                     FROM JEAN NELLIE LIANG
+
+Q.1. Stablecoin issuers claim that stablecoins can be used for 
+payments and can promote financial inclusion. Please discuss 
+whether, at present, stablecoins play a meaningful role in 
+retail payments or in expanding financial inclusion, including 
+as compared to their use in facilitating speculation in digital 
+asset markets. What risks do retail consumers face in 
+attempting to use stablecoins for payments?
+
+A.1. Today, stablecoins are used primarily to facilitate 
+trading in digital assets, and, because stablecoins are 
+intended to maintain a stable value, they have the potential to 
+be used as a means of payment by households, businesses, and 
+financial firms. This transition to a broader use for payment 
+could occur rapidly due to network effects or relationships 
+between stablecoins and existing user bases or platforms. 
+Currently, because stablecoins are not subject to prudential 
+regulation and supervision on a consistent or comprehensive 
+basis, consumers that use stablecoins may be put at risk. 
+Consumer risks could include an unexpected risk of loss due to 
+significant and unexpected declines, for instance due to a 
+decline in the value of the assets backing their stablecoins or 
+as a result of failure in mechanisms for storage or transfer of 
+their stablecoins.
+
+Q.2. Your testimony discussed the use of stablecoins in buying 
+and trading crypto assets, including complex cryptoderivatives. 
+It also mentioned the risk of increasing leverage in digital 
+assets. Experts believe stablecoins make it easier for leverage 
+to build up in cryptomarkets. What are the risks of leverage 
+accumulating in the crypto ecosystem, and how could those risks 
+affect traditional financial markets outside the digital asset 
+space?
+
+A.2. As we saw in the 2007-2008 financial crisis (and many 
+preceding examples of financial crises), leverage can play a 
+key role in catalyzing and accelerating financial instability. 
+Treasury is concerned that similar dynamics may increase the 
+likelihood that stress in digital assets affects other 
+financial markets and is actively working with the 
+Administration and interagency partners to build its knowledge 
+of the role that leverage plays in digital asset markets and of 
+the implications of that leverage for the rest of the financial 
+system. The potential for spillovers into traditional financial 
+markets would likely depend on a range of factors, including 
+the amount of leverage involved, the sorts of assets being used 
+as collateral, as well as the duration and other features of 
+the arrangements used to take on leverage.
+
+Q.3. Stablecoin companies frequently claim that their products 
+are safe because reserves are invested in low-risk, highly 
+liquid assets, such as bank deposits. Very low-risk assets, 
+however, have low or even nominal returns. If stablecoin 
+reserves are invested in these assets, doesn't the stablecoin 
+business model then rely on generating revenue from stablecoin 
+users in other ways, such as by cross-selling DeFi investments 
+or charging transaction fees? Is there evidence in the market 
+so far that firms face these incentives?
+
+A.3. There are several potential business models that could 
+support the issuance of stablecoins. These include generating 
+revenue from (a) the spread between interest received on 
+reserve assets and that paid to stablecoin holders; (b) 
+transaction or other kinds of fees, as you note; (c) data from 
+transactions involving the stablecoin; and (d) cross-selling of 
+stablecoins with other products. Consistent with the emphasis 
+in the Digital Assets EO, this Administration is committed to 
+protecting consumers and the broader financial system by 
+implementing appropriate guardrails for digital assets. That, 
+of course, applies here: Treasury, in its capacity, is 
+committed to ensuring that whatever business model a stablecoin 
+issuer pursues, it is consistent with protection of consumers 
+and the broader financial system.
+
+Q.4. Digital asset ``wallets'' play a key role in the crypto 
+ecosystem by allowing consumers to store their stablecoins. 
+Please identify the major consumer protection or other risks 
+associated with stablecoin wallets. Are any significant 
+consumer protection rules currently applicable to stablecoin 
+wallets? In your view, what would be the most important 
+elements of a consumer protection framework for wallets?
+
+A.4. As you observe, many customers rely on third parties, 
+including custodial wallets, to store and facilitate the 
+transfer of their stablecoins and other digital assets. In so 
+doing, custodial wallets may be critical to the functioning of 
+a stablecoin as a means of payment.
+    Relying on a third-party to hold or transfer stablecoins 
+may improve functioning and customer experience, but it also 
+can put customers at risk of loss or theft if the custodial 
+wallet fails or misuses customer assets. In some cases, 
+custodial wallets may be taking risks with customer assets--for 
+example, by lending or borrowing them in an inappropriate or 
+high-risk manner. Today, custodial wallets are not subject to 
+consistent and comprehensive standards to protect against these 
+risks. By comparison, other intermediaries that hold or 
+transfer customer financial assets are subject to 
+requirements--often at the Federal level--aimed to protect 
+consumers. These requirements often include segregation of 
+customer and firm assets, limits on certain activities or 
+investments, supervision, financial resource requirements, 
+protections against conflicts of interest, and disclosure of 
+potential liquidity risks depending on the type of underlying 
+assets.
+
+Q.5. Please describe the risks that you believe are presented 
+by smart contracts. How could smart contracts create systemic 
+risks? As compared with traditional contracts, are smart 
+contracts useful in consumer or small business contexts, and 
+what risks do they pose?
+
+A.5. A ``smart contract'' is a self-executing contract with the 
+terms of the contract written into code, typically supported by 
+distributed ledger technology. Like other financial 
+innovations, smart contracts have both potential benefits and 
+potential risks. When well-designed, smart contracts could be 
+highly transparent and reduce risks of manipulation and 
+arbitrary intervention. But, smart contracts without 
+appropriate controls and protections also face risks, including 
+execution risk, operational risk, illicit finance risks, and 
+dependencies on crypto assets or platforms that may be 
+susceptible to failure.
+
+Q.6. When stablecoin issuers preclude retail users from 
+redeeming directly, consumers can convert stablecoins into fiat 
+currency by selling the tokens for dollars on exchanges. But 
+major crypto exchanges have been prone to outages and 
+malfunction. Please discuss how exchange outages or errors can 
+affect stablecoin markets and stablecoin holders. Are there 
+scenarios involving exchange failures that give rise to 
+particular concern?
+
+A.6. Currently, many stablecoin users do rely on the ability to 
+convert stablecoins into cash by trading the stablecoins on an 
+exchange. Where stablecoin users do not have right to redeem 
+their stablecoins directly, exchange outages may prevent users 
+from converting their stablecoins into cash. An important 
+benefit of extending key tools like prudential oversight and 
+clear disclosures to stablecoin issuers is that it would give 
+supervisors and regulators the ability to ensure that user 
+redemption rights are well-defined and that stablecoin issuers 
+have the financial means to meet redemption requests.
+
+Q.7. In Senator Toomey's proposed stablecoin framework, he 
+suggested that some stablecoin issuers could, ``based on their 
+business models,'' choose to be regulated by ``[r]egister[ing] 
+as a money transmitter under the existing State regime and as a 
+money services business under FinCEN's Federal regime.'' Are 
+State money transmitter and Federal MSB rules adequate for 
+managing the risks to consumers and the economy created by 
+stablecoins? Please describe what you perceive to be the risks 
+of a State-based approach to stablecoin regulation as compared 
+to a Federal approach.
+
+A.7. State money transmitter rules do not provide an adequate 
+framework for regulation of stablecoins. These regimes do not 
+adequately address the financial stability risks, payment 
+system risks, and concerns about concentration of economic 
+power that would arise if stablecoins become a widely used 
+means of payment. There is also considerable variation among 
+money transmitter rules across States, with money transmitter 
+rules in certain States not applying to stablecoins (or other 
+digital assets) at all. In States where money transmitter rules 
+do apply to stablecoin issuers, financial resource requirements 
+are often significantly lower than for other prudentially 
+regulated entities.
+                                ------                                
+
+
+               RESPONSES TO WRITTEN QUESTIONS OF
+            SENATOR MENENDEZ FROM JEAN NELLIE LIANG
+
+Q.1. White supremacy is an existential threat for our country. 
+According to the Department of Homeland Security, domestic 
+violent extremism is now the greatest terrorism threat to the 
+U.S., and cryptocurrency is increasingly funding these domestic 
+terrorists. The data analytics firm Chainalysis found certain 
+alt-right groups that participated in the January 6th 
+insurrection received over $500,000 in Bitcoin from a single 
+donor a month prior. According to other reporting, the founder 
+of a neo-Nazi website has taken in at least 112 Bitcoin since 
+January 2017--worth over $4.7 million today. According to the 
+Southern Poverty Law Center, it is more difficult now to track 
+these hate groups and domestic terrorists because of their use 
+of virtual money.
+    Does Treasury have the tools and resources it needs to 
+track domestic terrorists' use of virtual currencies?
+
+A.1. Tracking and disrupting the flow of funds to terrorists is 
+an integral part of Treasury's counterterrorism efforts. In 
+some instances, foreign-based racially or ethnically motivated 
+violent extremist (RMVE) groups and some domestic violent 
+extremists (DVEs) have sought to solicit or transfer funds in 
+virtual assets or expressed interest in using virtual assets to 
+move funds pseudonymously or through anonymity-enhancing 
+technologies. For some groups, the use of virtual assets 
+represents an opportunity to evade transparency compared to 
+other financial services. For others it is an alternative to 
+online payment platforms that will no longer permit them to use 
+their services. Additionally, some of these groups make 
+extensive use of social media and encrypted applications to 
+reach potential supporters and rely largely on online 
+solicitations. As virtual asset penetration in the overall 
+economy increases, we assess the usage by terrorists is also 
+likely to increase.
+    Identifying and disrupting financial facilitators of DVEs 
+has already been a priority in Treasury's work to ensure 
+financial institutions meet their anti-money laundering/
+countering the financing of terrorism (AML/CFT) obligations. 
+For example, in 2020 Treasury assessed a $60 million civil 
+money penalty against the virtual asset mixing service Helix. 
+Among Treasury's findings, which are publicly available on its 
+website, was that Helix failed to implement policies, 
+procedures, and internal controls to prevent the service from 
+being exploited by White nationalist/neo-Nazi groups. \1\
+---------------------------------------------------------------------------
+     \1\ See, ``Harmon Helix-Assessment and Statement of Facts'' 
+(fincen.gov).
+---------------------------------------------------------------------------
+    Existing laws and regulations sufficiently support Treasury 
+efforts to address this threat, although we will continue to 
+reassess our authorities in light of its evolving nature. The 
+additional resources requested in the President's FY 2023 
+Budget to hire staff and provide technical training would 
+enhance our capabilities in this area.
+    Treasury, alongside interagency partners, is currently 
+addressing vulnerabilities posed by virtual assets in several 
+ways:
+
+    Treasury is encouraging and supporting foreign 
+        jurisdictions in addressing significant weaknesses in 
+        implementing international standards on AML/CFT 
+        regulation and supervision for virtual assets and 
+        related service providers.
+
+    Treasury is also working to ensure foreign-located 
+        virtual asset service providers (VASPs) doing business 
+        in whole or substantial part in the United States 
+        register with the Financial Crimes Enforcement Network 
+        (FinCEN) and implement AML/CFT requirements.
+
+    Investigators and regulators have significant 
+        visibility into financial transactions involving 
+        virtual assets, such as cryptocurrency, due to the 
+        frequent use of assets operating on transparent 
+        blockchains. The United States continues to invest in 
+        technology and training to help investigators, 
+        analysts, and regulators benefit from the transparency 
+        of public blockchains for AML/CFT purposes.
+
+    Treasury also continues to engage with the domestic 
+        and international private sector to enhance their 
+        understanding of existing obligations. At this time of 
+        rapid growth in the virtual asset sector, it is 
+        imperative that the United States lead on establishing 
+        the global model for supervision, examination, and 
+        private sector compliance with existing regulatory 
+        obligations.
+
+    Working through the Financial Action Task Force 
+        (FATF) and its global network, Treasury has assisted 
+        financial institutions and authorities in identifying 
+        terrorist use of virtual assets. This includes 
+        producing several reports that examine specific aspects 
+        of how terrorist groups and individuals raise, move, 
+        and use funds. The FATF also drafted and recently 
+        updated a set of risk indicators that financial 
+        institutions and authorities can use to identify 
+        terrorist financing activity through virtual assets.
+                                ------                                
+
+
+       RESPONSES TO WRITTEN QUESTIONS OF SENATOR WARNOCK
+                     FROM JEAN NELLIE LIANG
+
+Q.1. Under Secretary Liang, with regard to communities that are 
+traditionally underserved by banking institutions, including 
+low- and moderate-income households, communities, and color, 
+and rural communities, what has been the adoption and use 
+patterns of stablecoins?
+
+A.1. While data in this area is sometimes difficult to come by 
+or verify, some survey data suggests that Black Americans and 
+Hispanic Americans may be more likely to own cryptocurrencies 
+than White Americans.
+    We know that today's financial system does not work for 
+many Americans, particularly Americans of color and low-income 
+Americans, who are disproportionately likely to lack access to 
+bank accounts and other financial tools. Innovations like 
+stablecoins, and other digital assets, may have the potential 
+to increase the inclusion of these people in the financial 
+system. But digital assets are not subject to consistent 
+regulatory safeguards--meaning they pose an elevated risk to 
+consumers and investors, and might even raise risks to 
+financial stability.
+    These are issues that we are following closely, including 
+by launching a new working group as part of the interagency 
+Financial Literacy and Education Commission, which will assess 
+the risks and benefits that adoption could present for 
+communities that have traditionally not been well served by 
+banking institutions, and produce resources for consumers and 
+investors to more fully understand this set of products.
+
+Q.2. Is it accurate to say that the expanded use of digital 
+currencies like stablecoins would help these underserved 
+communities, or would it exacerbate existing disparities in 
+access to financial products?
+
+A.2. Treasury supports responsible innovations that could 
+contribute to a more efficient, resilient, and inclusive 
+payments system. It is possible that well-designed and 
+appropriately regulated stablecoins could serve as a useful 
+means of payment for some unbanked and under-banked 
+individuals. At the same time, we should be mindful that lack 
+of access to technology, as well as other factors that now keep 
+people out of the financial system, could also be barriers in 
+the context of stablecoins.
+
+Q.3. Would prudential oversight over stablecoins issuance and 
+custodial wallet providers reduce the run risk of stablecoins?
+
+A.3. Yes. Requiring issuers to be insured depository 
+institutions reduces these risks. Failure of stablecoins to 
+maintain a stable value could harm stablecoin users and lead to 
+stablecoin runs that could damage financial stability. The 
+status quo is simply not adequate to address the prudential 
+risks posed by stablecoins, and the best way to address these 
+risks is through legislation. In the PWG report, we recommended 
+to the President a legislative solution that would 
+comprehensively address all of the prudential risks identified 
+in the report, which are risk of runs, payment system risks, 
+and risks of concentration of economic power.
+
+Q.4. When examining systemic risks for stablecoins, how much 
+exposure currently lies with low- and moderate-income 
+households who may be invested in stablecoins?
+
+A.4. Please see my answer to Question 1.
+                                ------                                
+
+
+        RESPONSES TO WRITTEN QUESTIONS OF SENATOR SCOTT
+                     FROM JEAN NELLIE LIANG
+
+Q.1. The New York Fed recently published a blog post entitled, 
+``The Future of Payments is Not Stablecoins''. The authors note 
+that bank-issued stablecoins--backed by cash or similar 
+reserves and issued by a bank--``necessarily'' tie up liquidity 
+at the bank, presumably money that could be deployed in 
+communities in South Carolina and around the country.
+    Are there other methods, such as the use of tokenized 
+deposits, which are not stablecoins, that could be used by 
+banks to increase transaction speed and security, without 
+freezing capital that could otherwise be lent to deserving 
+borrowers?
+
+A.1. As described in the blog post by staff of the Federal 
+Reserve Bank of New York, the basic distinction between 
+stablecoins and tokenized deposits is that whereas stablecoins 
+would be backed 1:1 by high-quality liquid assets, tokenized 
+deposits could be backed by loans and other bank assets. As 
+discussed in the blog post, there are important considerations 
+that inform adoption of stablecoins relative to other existing 
+or future payments products. Currently, stablecoins are growing 
+rapidly and, as discussed in the PWG Report, are not subject to 
+a consistent and comprehensive regulatory framework to address 
+the risks that they present.
+                                ------                                
+
+
+       RESPONSES TO WRITTEN QUESTIONS OF SENATOR HAGERTY
+                     FROM JEAN NELLIE LIANG
+
+Q.1. Undersecretary, during your testimony before the 
+Committee, you made some blanket statements in response to 
+questions about the lack of regulatory oversight on reserves of 
+stablecoins. In particular, when asked if market participants 
+are able to verify portfolio holdings backing stablecoins, you 
+stated that ``some issuers, perhaps under pressure from 
+investors and regulators, are providing self-audited statements 
+on their holdings but regulators are not in place to confirm 
+those or set those standards for them.''
+    You further stated, in response to a question about the 
+disclosures of risks to customers, ``they are not required to 
+by any regulators because they are not regulated''.
+    Is this true of issuers that are regulated as State-
+chartered trust companies?
+
+A.1. Today, information regarding stablecoin reserves is 
+inconsistent. Some issuers provide this information on a 
+voluntary basis, but these disclosures are not uniform or at 
+regular intervals across issuers. It is also important to note 
+that, while disclosure is an important tool, it is not alone 
+sufficient to address the risks identified by the PWG. In 
+particular, these risks include (1) risk of destabilizing runs, 
+(2) risk due to disruptions in payments, and (3) risks of 
+concentration of economic power.
+
+Q.2. During the hearing, you and I had an exchange about 
+existing State regulatory structures and not foreclosing their 
+use.
+    Isn't it true that there are stablecoin issuers that are 
+trust banks and that do, in fact, have regulators in place to 
+confirm and set standards for reserves and have primary 
+prudential regulation over those companies?
+
+A.2. Typically, State-chartered limited-purpose trust companies 
+are permitted to act as fiduciaries, trustees, grantees and 
+provide other safekeeping and custody services. State 
+chartering and oversight of trust companies is designed for 
+these purposes.
+
+Q.3. Such statements certainly feed into the findings and 
+recommendations of the PWG report that all stablecoins should 
+be issued by insured depository institutions, but they do not 
+tell the whole story.
+
+A.3. See response to Question 4.
+
+Q.4. Would you please explain why the PWG report as well as 
+your testimony fails to properly acknowledge that there are 
+State and Federal regulatory structures that exist that do 
+provide oversight over reserves and business activities and 
+that at least some companies have chosen to organize themselves 
+under those structures that provide the very oversight you 
+claim is needed in the market?
+
+A.4. As part of the development of the PWG report and its 
+recommendations, the PWG engaged with a broad range of 
+stakeholders, including with some State regulators. We 
+appreciate the experience of State regulators in supervising 
+and regulating digital assets and digital asset intermediaries 
+and look forward to continued discussions with them. The PWG 
+recommendations seek to establish clear, consistent, and 
+comprehensive rules for stablecoin wallet providers and 
+stablecoin issuers. As discussed in the report, these rules can 
+and do build on State-based regulation and Federal frameworks. 
+For example, ``insured depository institutions'' include both 
+State-chartered and federally chartered banks and thrifts.
+
+              Additional Material Supplied for the Record
+
+                      STATEMENT SUBMITTED BY ICBA
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+
+                       STATEMENT SUBMITTED BY ABA
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+
+                 LETTER SUBMITTED BY THE CLEARING HOUSE
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+
+                       LETTER SUBMITTED BY NAFCU 
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+
+                        LETTER SUBMITTED BY CUNA
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+
+                       STATEMENT SUBMITTED BY BPI
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+
+                        LETTER SUBMITTED BY ETA 
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+

@@ -1,0 +1,2042 @@
+
+ - A FAILURE OF SUPERVISION: BANK FAILURES AND THE SAN FRANCISCO FEDERAL RESERVE
+
+[House Hearing, 118 Congress]
+[From the U.S. Government Publishing Office]
+
+
+
+
+
+
+ 
+                       A FAILURE OF SUPERVISION:
+
+
+                         BANK FAILURES AND THE
+
+
+                     SAN FRANCISCO FEDERAL RESERVE
+
+=======================================================================
+
+                                HEARING
+
+                               before the
+
+                      SUBCOMMITTEE ON HEALTH CARE
+                         AND FINANCIAL SERVICES
+
+                                 of the
+
+                         COMMITTEE ON OVERSIGHT
+                           AND ACCOUNTABILITY
+
+                        HOUSE OF REPRESENTATIVES
+
+                    ONE HUNDRED EIGHTEENTH CONGRESS
+
+                             FIRST SESSION
+
+                               __________
+
+                              MAY 24, 2023
+
+                               __________
+
+                           Serial No. 118-38
+
+                               __________
+
+  Printed for the use of the Committee on Oversight and Accountability
+  
+  
+  [GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+  
+  
+
+
+                       Available on: govinfo.gov
+                         oversight.house.gov or
+                             docs.house.gov
+                             
+                             
+                             
+                      ______
+
+             U.S. GOVERNMENT PUBLISHING OFFICE 
+ 52-572              WASHINGTON : 2023           
+                             
+                             
+                             
+                             
+                             
+               COMMITTEE ON OVERSIGHT AND ACCOUNTABILITY
+
+                    JAMES COMER, Kentucky, Chairman
+
+Jim Jordan, Ohio                     Jamie Raskin, Maryland, Ranking 
+Mike Turner, Ohio                        Minority Member
+Paul Gosar, Arizona                  Eleanor Holmes Norton, District of 
+Virginia Foxx, North Carolina            Columbia
+Glenn Grothman, Wisconsin            Stephen F. Lynch, Massachusetts
+Gary Palmer, Alabama                 Gerald E. Connolly, Virginia
+Clay Higgins, Louisiana              Raja Krishnamoorthi, Illinois
+Pete Sessions, Texas                 Ro Khanna, California
+Andy Biggs, Arizona                  Kweisi Mfume, Maryland
+Nancy Mace, South Carolina           Alexandria Ocasio-Cortez, New York
+Jake LaTurner, Kansas                Katie Porter, California
+Pat Fallon, Texas                    Cori Bush, Missouri
+Byron Donalds, Florida               Jimmy Gomez, California
+Kelly Armstrong, North Dakota        Shontel Brown, Ohio
+Scott Perry, Pennsylvania            Melanie Stansbury, New Mexico
+William Timmons, South Carolina      Robert Garcia, California
+Tim Burchett, Tennessee              Maxwell Frost, Florida
+Marjorie Taylor Greene, Georgia      Becca Balint, Vermont
+Lisa McClain, Michigan               Summer Lee, Pennsylvania
+Lauren Boebert, Colorado             Greg Casar, Texas
+Russell Fry, South Carolina          Jasmine Crockett, Texas
+Anna Paulina Luna, Florida           Dan Goldman, New York
+Chuck Edwards, North Carolina        Jared Moskowitz, Florida
+Nick Langworthy, New York
+Eric Burlison, Missouri
+
+                       Mark Marin, Staff Director
+       Jessica Donlon, Deputy Staff Director and General Counsel
+                     Alan Brubaker, Senior Advisor
+      Mallory Cogar, Deputy Director of Operations and Chief Clerk
+
+                      Contact Number: 202-225-5074
+
+                  Julie Tagen, Minority Staff Director
+
+                      Contact Number: 202-225-5051
+                                 ------                                
+
+           Subcommittee on Health Care and Financial Services
+
+                   Lisa McClain, Michigan, Chairwoman
+Paul Gosar, Arizona                  Katie Porter, California Ranking 
+Virginia Foxx, North Carolina            Minority Member
+Glenn Grothman, Wisconsin            Alexandria Ocasio-Cortez, New York
+Russell Fry, South Carolina          Jimmy Gomez, California
+Anna Paulina Luna, Florida           Greg Casar, Texas
+Nick Langworthy, New York            Becca Balint, Vermont
+Eric Burlison, Missouri              Summer Lee, Pennsylvania
+                                     Jasmine Crockett, Texas
+                         C  O  N  T  E  N  T  S
+
+                              ----------                              
+                                                                   Page
+
+Hearing held on May 24, 2023.....................................     1
+
+                               Witnesses
+
+                              ----------                              
+
+Mr. Michael E. Clements, Director, Financial Markets and 
+  Community Investment, U.S. Government Accountability Office
+Oral Statement...................................................     5
+Mr. Jeremy Newell, Senior Fellow, Bank Policy Institute & Founder 
+  and Principal, Newell Law Office, PLLC
+Oral Statement...................................................     6
+Ms. Kathryn Judge, Harvey J. Goldschmid Professor of Law, 
+  Columbia Law School
+Oral Statement...................................................     8
+
+Written opening statements and statements for the witnesses are 
+  available on the U.S. House of Representatives Document 
+  Repository at: docs.house.gov.
+
+                           Index of Documents
+
+                              ----------                              
+
+  * Article, New York Times, ``No, `Wokeness' Did Not Cause 
+  Silicon Valley Bank's Collapse''; submitted by Rep. Crockett.
+
+  * Report, Board of Governors of the Federal Reserve System; 
+  submitted by Rep. Porter.
+
+Documents are available at: docs.house.gov.
+
+
+                       A FAILURE OF SUPERVISION:
+
+
+
+                         BANK FAILURES AND THE
+
+
+
+                     SAN FRANCISCO FEDERAL RESERVE
+
+                              ----------                              
+
+
+                        Wednesday, May 24, 2023
+
+                        House of Representatives
+
+               Committee on Oversight and Accountability
+
+           Subcommittee on Health Care And Financial Services
+
+                                                   Washington, D.C.
+
+    The Subcommittee met, pursuant to notice, at 2:02 p.m., in 
+room 2154, Rayburn House Office Building, Hon. Lisa C. McClain 
+[Chairwoman of the Subcommittee] presiding.
+    Present: Representatives McClain, Gosar, Foxx, Grothman, 
+Fry, Burlison, Porter, Balint, Lee of Pennsylvania, and 
+Crockett.
+    Mrs. McClain. The Subcommittee on Healthcare and Financial 
+Services will come to order. Welcome, everyone, on this nice, 
+bright, sunshiny day. Without objection, the Chair may declare 
+a recess at any time. I recognize myself for the purpose of 
+making an opening statement.
+    Banks fail. That is a fact. But on March 10, Silicon Valley 
+Bank failed nearly overnight. The speed that it failed raised 
+immediate concerns, not only of poor management at the bank, 
+but of a failure of oversight as well.
+    Evidence that has surfaced since then has shown exactly 
+that. Absolutely, there was incompetence at the top of the 
+bank. Management, the board, they all failed. But the people we 
+have entrusted and empowered to protect the taxpayer and our 
+financial system had as much to do with Silicon Valley Bank's 
+failure as the bankers themselves. Even the Federal Reserve has 
+publicly taken some blame.
+    In my first few years in Washington, one thing has been 
+clear, government agencies are not good at taking 
+accountability for their failures. And I always say this, we 
+cannot fix a problem that we first cannot admit that there is a 
+problem. When crises and failures happen, there is always more 
+to the story, and everyone's got one.
+    Silicon Valley Bank was the second largest bank failure in 
+U.S. history. I want to just make note. Second largest bank 
+failure in U.S. history. So, you might expect the causes were 
+complicated. But in fact, it was one of the least complicated 
+bank failures in history. The bank was invested in some of the 
+safest securities available: U.S. Treasuries and agencies 
+securities. The credit risk, minimal. The only real risk to 
+these securities was high inflation risk. Then came the rampant 
+inflation brought on by President Biden's unnecessary spending, 
+injecting trillions upon trillions into an economy already 
+flush with cash.
+    In response, the Fed spent months tightening to try and 
+extinguish the rampant inflation. Instead of mitigating the 
+risk of rising inflation by hedging with other financial tools, 
+Silicon Valley Bank did nothing, did nothing, despite knowing 
+these risks. Now, we are forced to be hedged by the regulators. 
+Despite knowing that most of Silicon Valley's bank deposits 
+were in excess of $250,000 of the insured deposit limit, anyone 
+could see that the ingredients for a run on the bank were in 
+place. Regulators should have seen it coming from a mile away. 
+At the end of the day, that is their job to regulate.
+    The combination of an unstable deposit base and a 
+plummeting bond portfolio contributed to the evaporation of the 
+$212 billion bank nearly overnight. All of these raised serious 
+questions. Who was overseeing the bank? And I want an emphasis 
+on ``who'' was overseeing this bank? What were they focused on 
+instead of risk management? So, what were they taking a look 
+at? Their job was the management of risk at that bank. Clearly, 
+they were not doing that. What else were they focused on? And 
+why didn't they intervene.
+    Did regulators get complacent and buy into the political 
+narrative that Dodd-Frank solved all the problems? If so, I 
+would argue that if they bought into that narrative, why do we 
+need regulation upon regulation and regulator and agency upon 
+agency?
+    Were the regulators communicating clearly with the bank 
+managers on matters that needed addressing? Or did regulators 
+flood management with process questions instead of focusing on 
+the fundamental issues that mattered.
+    Today, we are going to try and get some answers on where 
+and why regulatory supervision failed. But we are not stopping 
+there. We are going to take a deeper look into the steps 
+regulators took in recent years asking questions. Did the Fed 
+use all the tools available to prevent this failure?
+    Did the Federal Deposit Insurance Corporation, or FDIC have 
+the proper early warning signs system in place? Has the FDIC 
+been transparent about the process around the seizure of the 
+Silicon Valley Bank? Or is there more to the story? Did the 
+Feds post-moratorium evaluation to pursue a political 
+objective, or was it truly a self-reflective exercise to 
+uncover the truth? This Committee is named Oversight and 
+Accountability, and that is exactly what we are pursuing. If 
+government officials are to blame and have not been 
+forthcoming, we will hold them accountable.
+    I am pleased to introduce our witness who are here to 
+discuss the Federal Reserve's oversight of bank risk management 
+amid recent bank failures. Mr. Michael Clements is a director 
+of the Financial Markets and Community Investment, at 
+Government Accountability Office----
+    Staff. Recognize the Ranking Member first.
+    Mrs. McClain. Oh, my heavenly days. My bad. My story got 
+away from me, Ms. Porter. See. My bad. I now recognize my dear 
+friend, Ranking Member Porter, for her opening statement.
+    Ms. Porter. Thank you very much, Chairwoman McClain. Anyone 
+who knows my style knows that I love hearings. Hearings let 
+Congress hold powerful people accountable. They let us secure 
+commitments from important officials, and most importantly, 
+they let us get to the heart of problems so that we can write 
+good legislation. As much as I love hearings, I do not love 
+Congress holding hearings on the same things, year after year, 
+because we keep making the same mistakes.
+    I wish that I could say this is Congress' first hearing to 
+dig into the causes of bank failure. It is not. That is because 
+when it comes to regulating our banks, Congress has a short-
+term memory on what works and what does not. The lessons from 
+events like the 2008 financial crisis should not be hard to 
+remember. Bank stability happens when we have strong clear 
+rules in place, and bank failures increase when we take these 
+rules away.
+    Unfortunately, Congress just is not learning. Let me tell 
+you how things work around here instead. Every so often our 
+country has a bank failure. If just enough legislators decide 
+to grow a spine, or find some other part of their anatomy, 
+Congress passes legislation to more effectively regulate our 
+banks, it starts to work, and we all start to get comfortable. 
+Then the bank lobbyists come around Capitol Hill, and they ask 
+Members of both parties to deregulate. Democrats and 
+Republicans get convinced that a little bit of deregulation is 
+an easy way to appear pro-business. Why not ease a few 
+regulations?
+    What these Members of Congress seem to forget is that there 
+is nothing pro-business about a bank failure. But if history is 
+any lesson, the bank failure is coming when we take away the 
+rules that keep the banks in check. And just as predictably 
+when that bank failure comes, the government will swoop in to 
+save the financial system, and Members of Congress will yell 
+about how terrible the failure is.
+    You would think that would spark reregulation. Not 
+necessarily. The problem is that the Members of Congress who 
+are loudest about the failure are often the ones most terrified 
+of legislating to address it.
+    After the failure of Silicon Valley Bank, I introduced two 
+bills. One reverses the most damaging regulatory rollbacks from 
+the last time Congress listened to lobbyists. The other 
+bipartisan bill claws back unjust compensation from bank 
+executives when their bank fails.
+    To be sure, I have had great partners on both sides of the 
+aisle. But what I have noticed is the voices here in Congress 
+that spoke the loudest about how terrible bank failures all of 
+a sudden, then urge caution about considering legislation. They 
+say, we need time to look at all the facts before we act.
+    What is there to look at? The problem is that we repeatedly 
+regulate, then deregulate, and then take too much time deciding 
+whether to reregulate. Along the way, it is the Members who get 
+taken in by lobbyists or are too afraid to act that get us 
+trapped in this vicious cycle. There is a better way. Let us 
+keep rules in place that help us have a stable and growing 
+economy. Every fellow capitalist in this room should want that. 
+We should all want to address the issues outlined in the 
+Federal Reserve's report on the failure of Silicon Valley Bank. 
+If you have not read this report yourself, I encourage you to.
+    Unsurprisingly, this report calls out S2155, the big 2018 
+bank deregulatory bill as one of the key causes of the Silicon 
+Valley Bank failures. They say it reduced supervisory 
+standards.
+    I bet you will not hear a time of Republicans or Democrats 
+who supported 2155 admitting that today. But at the same time, 
+Republicans will make a very important point today. Bank 
+failures do not only come down to the rules we put in place; 
+they also come down to the watchdogs who we have to enforce 
+those rules. And the Federal Reserve's report also called out 
+failures of Silicon Valley Bank's management and the bank 
+supervisors who oversaw them.
+    It is not anyone's job to defend the Fed today. And I sure 
+as heck will not be doing it. We have to take their failures 
+just as seriously as we take deregulation. All in all, we need 
+to let this year's bank failures be our last hard lesson. From 
+the regulations to the regulators, we cannot let anyone off the 
+hook for the vicious cycle in our banking system. I yield back.
+    Mrs. McClain. Thank you, Ms. Porter. I'm now pleased to 
+introduce the witnesses who are here to discuss the Federal 
+Reserve's oversight of bank risk management amid the recent 
+bank failures.
+    Mr. Michael Clements is a director in the Financial Markets 
+and Community Investment team at the Government of 
+Accountability Office, GAO. In this position, he has led the 
+GAO'S work overseeing in regulation of financial institutions 
+and markets. Welcome.
+    Mr. Jeremy Newell is a senior fellow at the Bank Policy 
+Institute and the founder and principal of Newell Law Office. 
+He is a recognized expert in banking law and financial services 
+regulatory policy matters. Welcome.
+    And Ms. Kathryn Judge is a Harvey J. Goldschmid professor 
+of law and Vice-Dean for Intellectual Life at Columbia Law 
+School. She is an expert on banking, financial innovation, 
+financial crisis, and regulatory architecture. Welcome.
+    Pursuant to Committee Rule 9, the witnesses will please 
+stand and raise their right hand.
+    Do you solemnly swear or affirm that the testimony that you 
+are about to give is the truth, the whole truth, and nothing 
+but the truth, so help you God?
+    Let the record show that the witnesses all have answered in 
+the affirmative. Thank you.
+    We appreciate all of you being here today and look forward 
+to your testimony. Let me remind the witnesses that we have 
+read your written statements, and they will appear in full in 
+the hearing record. Please limit your oral statements to five 
+minutes.
+    As a reminder, please press the button on the microphone in 
+front of you so that it is on, and the Members can hear you. 
+When you begin to speak, the light in front of you will turn 
+green. After four minutes, the light will turn yellow. When the 
+red light comes up, your five minutes have expired, and we 
+would ask you to please wrap it up.
+    I will now recognize the first witness, Mr. Clements, for 
+five minutes for your opening statement.
+
+               STATEMENT OF MICHAEL E. CLEMENTS, DIRECTOR
+
+               FINANCIAL MARKETS AND COMMUNITY INVESTMENT
+
+                 U.S. GOVERNMENT ACCOUNTABILITY OFFICE
+
+    Mr. Clements. Chairwoman McClain, Ranking Member Porter, 
+and Members of the Subcommittee, I am pleased to be here today 
+to discuss GAO's preliminary work on the March 2023 bank 
+failures, as reflected in our April 28 report.
+    At the time of their failure, Silicon Valley Bank, or SVB, 
+and Signature Bank were the 16th and 29th largest banks 
+respectively in the country. Their failures could impose a $22 
+billion cost on the Deposit Insurance Fund. While not part of 
+our work, First Republic's recent bank failures could impose 
+another $13 billion cost on the fund.
+    For today's hearing, I will focus on one, bank-specific 
+failure that contributed to the failures, and, two, supervisory 
+actions regulators took leading up to the failures with a focus 
+on SVB and the Federal Reserve's supervision.
+    First, the bank's failures. We found that risky business 
+strategies and weak liquidity and risk management contributed 
+to the failures of SVB and Signature Bank. SVB and Signature 
+both experienced rapid growth, far exceeding a group of 19 peer 
+banks. For example, SVB's assets more than tripled in the three 
+years prior to its failure. SVB and Signature also relied 
+heavily on uninsured deposits, which are prone to run risk. SVB 
+funded 80 percent of its assets with uninsured deposits. SVB 
+and Signature also exhibited weak liquidity in risk management. 
+When confronted with external pressures in the case of SVB, 
+rising interest rates, the risky business strategies, combined 
+with weak liquidity and risk management controls contributed to 
+the bank's failure.
+    Second, the regulators' supervisory actions. We found that 
+the regulators identified problems at both SVB and Signature 
+Bank, but the regulators did not escalate their supervisory 
+actions in time to mitigate the risk. The Federal Reserve staff 
+who supervised SVB identified problems at the bank. Between 
+2018 and 2022, the Fed issued ten matters requiring attention 
+to SVB for liquidity and risk management problems. For example, 
+the Fed found that despite liquidity appearing strong, funding 
+sources were concentrated and potentially volatile on short 
+notice. However, we found the Fed did not adequately escalate 
+its supervisory actions. The Federal Reserve was generally 
+positive of SVB from 2018 through June 2022, rating SVB's 
+overall condition as satisfactory.
+    Despite the MRAs, the Fed assigned the highest ratings to 
+SVB's liquidity and second highest ratings to its management. 
+Staff also accepted SVB's planned actions to address the 
+problems.
+    When SVB moved to the Federal Reserve's regional banking 
+organization from its large and foreign banking organization, 
+examiners did begin downgrades. Yet, despite the consistent and 
+serious liquidity and management problems, the Fed did not 
+issue an enforcement action before the bank failed.
+    While the Fed began a memorandum of understanding in August 
+2022, it kept the MOU open; it did not complete the MOU before 
+SVB failed. GAO has reported similar findings in the past. In 
+2015, we have reported that, although regulators often 
+identified risky practices, the regulatory process was not 
+always effective or timely in correcting the underlying 
+problems before banks failed.
+    In 2011, following the financial crisis, we recommended 
+that regulators consider noncapital triggers to their prompt 
+corrective action framework to help give more advanced warning 
+of deteriorating conditions.
+    And in 1991, following the savings and loan crisis, we 
+found that regulators did not always use the most forceful 
+action available to them to correct unsafe and unsound 
+practices.
+    We continue to believe that taking early actions would give 
+regulators and banks time to address deteriorating conditions. 
+Chairwoman McClain, Ranking Member Porter, Members of the 
+Subcommittee, this completes my prepared statement. I would be 
+pleased to respond to any questions you may have. Thank you.
+    Mrs. McClain. Thank you, Mr. Clements. The Chair now 
+recognizes Mr. Newell for his opening statement.
+
+                       STATEMENT OF JEREMY NEWELL
+
+                 SENIOR FELLOW, BANK POLICY INSTITUTE &
+
+                         FOUNDER AND PRINCIPAL
+
+                        NEWELL LAW OFFICE, PLLC
+
+    Mr. Newell. Thank you. Chairwoman McClain, Ranking Member 
+Porter, and Members of the Subcommittee, thanks for the 
+opportunity to be here today. This hearing presents a rare 
+opportunity to examine an activity that is important and 
+consequential, but almost always occurs in secret: Bank 
+supervision. Because banks play such a crucial role in 
+supporting businesses and consumers, and enjoy the privilege of 
+Federal deposit insurance, they are subject to an arrangement 
+that is quite unique within our Federal administrative state.
+    They are subject not only to statutes, rules, and law 
+enforcement, but also to a standing work force of Federal 
+employees whose principal job it is to examine whether they 
+operate in a manner that is safe, sound, and compliant with 
+law. These examiners play an important role.
+    While ultimately it is up to bankers to properly manager 
+their own banks, and it is not the job of supervisors to 
+prevent every bank from failing, good supervision enables the 
+banking agencies to identify and seek correction of unsafe and 
+unsound practices before they lead to a bank's failure. 
+Reflecting that goal, the best bank supervision is supervision 
+that is grounded in clear rules, focused on material risks that 
+might lead to a bank's failure, and informed by an independent 
+view of risk among examiners. When supervision is effective, it 
+generally succeeds quietly. When it is not, its failures are 
+public, often spectacularly so. Today, you consider such a 
+latter case.
+    While responsibility for Silicon Valley Bank's failure 
+rests first and foremost with its management, understanding 
+where the Fed supervision of SVB may have gone wrong is a rare 
+and important chance to publicly assess the Fed supervisory 
+practices and identify future potential improvements. We are 
+aided in this regard by the initial reports prepared by both 
+the GAO and the Fed concerning how SVB was supervised, and by 
+the Fed's release of some, most certainly not all the relevant 
+supervisory materials.
+    While these are helpful first steps, much more is needed if 
+we are going to gain a definitive view of whether SVB was 
+supervised appropriately and to understand how best to improve 
+supervision in the future. Simply put, we do not have a full 
+picture, because what the Fed has provided to date is both 
+selective and incomplete.
+    Further analysis is especially important because what 
+information the Fed has made public suggest several serious 
+problems in supervision worth greater scrutiny. The Fed report 
+concludes that examiners did not fully appreciate SVB's 
+weaknesses and did not take sufficient steps to demand that 
+they be fixed, but cast blame for those failures on decisions 
+made by former Fed leaders that it alleges reduce standards, 
+increase complexity, promoted a less assertive supervisory 
+approach.
+    The underlying evidence suggests strongly that that is the 
+wrong diagnosis. Rather that evidence paints a different 
+picture; one in which supervisors were principally focused on 
+the wrong issues, occupied with processes rather than material 
+risks, and were plenty assertive, just not about the risks that 
+prove to be SVB's downfall.
+    I would offer three particular observations here: First, 
+supervision of SVB was heavily focused on compliance processes 
+and governance and not on material risk to SVB's financial 
+integrity.
+    There was no shortage of intense supervisory activity 
+around SVB, but much of it, nearly all of it, in fact, 
+reflected concerns over processes and policies that may have 
+distracted examiners from focusing on the serious risks 
+building on SVB's balance sheet over time. Second, examiners 
+largely relied on a system of issuing examiner directives, so-
+called matters requiring attention or MRAs, that themselves 
+were not appropriately directed at SVB's growing financial 
+risks.
+    Perhaps the best example of this is to consider the 31 
+supervisory directives that were outstanding at SVB when it 
+failed. Of those 31, only a small portion related to the 
+liquidity and interest rate risk problems that led to SVB's 
+failure, and even that small portion was largely directed at 
+risk processes and not actual risk exposures.
+    Third, supervisors failed to enforce important enhanced 
+prudential standards in the areas of liquidity and risk 
+management that were applicable to SVB, even though they 
+understood SVB was not meeting them. This fact, I think, is 
+especially important because it demonstrates that SVB is a case 
+of failed supervision, not failed regulation.
+    While some, including the Fed, have suggested that changes 
+to the rules applicable to SVB in 2018 and 2019 were 
+responsible for its failure, I believe the evidence points the 
+other way. Those changes, in fact, left in place liquidity 
+stress testing and risk management requirement, that went to 
+the core of SVB's problems, in which SVB did not comply with, 
+yet on which examiners did not act. This suggests that the 
+rules were fit for purpose; its supervision that was not.
+    Taken together, the picture that we have today strongly 
+suggest that the Fed supervision of SVB may reflect a larger 
+culture of bank supervision that has increasingly lost its way 
+and become distracted from its core mission of scrutinizing 
+bank safety and soundness.
+    It also suggests that the reforms that are needed do not 
+simply involve tougher supervision or more rules, but instead 
+broader structural reform to the supervisory approach that 
+allow examiners to better direct their attention and 
+considerable supervisory tools to the kinds of core safety and 
+soundness risks that led to SVB's demise. Thank you, and I look 
+forward to your questions.
+    Mrs. McClain. Thank you, Mr. Newell. Now, the Chair now 
+recognizes Ms. Judge for five minutes.
+
+                           (MINORITY WITNESS)
+
+                       STATEMENT OF KATHRYN JUDGE
+
+                 HARVEY J. GOLDSCHMID PROFESSOR OF LAW
+
+                          COLUMBIA LAW SCHOOL
+
+    Ms. Judge. Chairwoman McClain, Ranking Member Porter, and 
+Members of the Subcommittee, thank you for the opportunity to 
+be here today.
+    On April 13, 2012, JPMorgan CEO, Jamie Dimon, was asked 
+about reports that the bank's chief investment office may be 
+facing significant losses because of bets it made using credit 
+derivatives. Dimon downplayed the concerns described in the 
+bank as conservative, and the situation as a complete tempest 
+in teapot. That supposedly teapot-sized tempest ultimately 
+caused JPMorgan more than $6 billion and inspired the Senate 
+Permanent Subcommittee on Investigations, under the leadership 
+of Chairman Senator Levin and Ranking Member Senator McCain to 
+examine just what had gone on wrong inside the bank and why the 
+OCC, the bank's primary supervisor, had not done more to 
+prevent the losses.
+    The bipartisan report expressed significant deficiencies 
+internal to JPMorgan Chase. It revealed that internal risk 
+amendments had been breached more than 300 times, and that the 
+bank had changed how it calculated certain risk amendments, 
+rather than addressing the underlying problem.
+    The report showed that Chase had mischaracterized the 
+portfolio producing the losses as a risk mitigating hedge when 
+it was on. And it further showed that Chase had dodged 
+regulatory oversight by omitting data in its reports to the OCC 
+and failing to respond appropriately to information requests.
+    The report also found meaningful shortcomings at the OCC's 
+supervision of the bank. A real pattern of inconsistent and 
+insufficiently robust follow-up when problems are flagged, and 
+it would further reveal that supervisors were often too 
+hesitant to challenge the bank. Yet, the report recognizes the 
+primary responsibility for the losses lie with JPMorgan.
+    This is just one of many examples of Congress usefully 
+using its oversight authority to hold banks, bank executives, 
+and bank supervisors accountable. Following the 2008 financial 
+crisis, the Permanent Investigation Subcommittee also undertook 
+a deep, bipartisan dive into the causes of the crisis.
+    The final report showed how high-risk lending by banks, 
+inflated credit ratings, investment bank abuses, and a 
+troubling tendency by the Office of Thrift Supervision to treat 
+banks as its clients had contributed to the crisis that caused 
+so many to suffer.
+    After the Stock Market Crash of 1929, the Senate Banking 
+and Currency Committee launched an investigation into the 
+securities industry with Ferdinand Pecora as lead counsel. And 
+the hearings and report provided valuable insights into 
+troubling Wall Street practices--from undisclosed loans, to 
+senior officers, to conflict of interests between commercial 
+banks and their affiliated securities dealers.
+    Following the 1907 financial panic, the House Committee on 
+Banking and Currency under Congressman Pujo undertook an 
+extensive investigation on the ways financial and economic 
+power had grown more concentrated in the hands of JPMorgan and 
+a small network of other Wall Street firms.
+    In revealing troubling practices by large financial firms 
+and showing how often other people suffer, these reports helped 
+to spur legislative and regulatory change. The Pujo hearings 
+contributed to the adoption of the Clayton Antitrust Act of 
+1914, and the creation of the FTC. The McCord hearings helped 
+to motivate and inform the Securities Act of 1933, the Exchange 
+Act of 1934, ushering in a new era of investor protection.
+    The Levin McCain report and the Levin Covern report helped 
+motivate robust implementation of the reforms mandated by Dodd-
+Frank and served as a powerful reminder of the need for ongoing 
+diligence in the regulation and oversight of the financial 
+industry.
+    In short, Congress has an illustrious history of using its 
+oversight authority to expose troubling behavior and bringing 
+about needed reforms. This has been enabled in part by asking 
+the right questions and learning the right lessons. 
+Shortcomings in bank supervision at four different supervisor 
+bodies, played a meaningful role contributing to the recent 
+bank failures.
+    As the GAO and other reports made plain, many of these 
+shortcomings are not new. Recent events should spur close 
+examination of how to encourage bank supervisors to ask hard 
+questions, spot troubles in a timely way, and follow through 
+with diligence, and rigor.
+    In my written remarks, I explore how to use escalation 
+frameworks and other tools to enhance both bank supervision and 
+oversight of bank supervisors. Yet the success of supervision 
+depends not only on how well supervisors do their job, but also 
+in the magnitude of the tasks set before them.
+    Strengthening the regulations governing large regional 
+banks is the most important step Congress and regulators can 
+take to make the supervisory task manageable. Limiting the 
+ability of bank executives to walk away while compensated for 
+running their banks into the ground is also important.
+    Bank supervision is a critical component of bank oversight. 
+And it is most likely to go well when supervisors are set up 
+for success. I look forward to your questions.
+    Mrs. McClain. Thank you, Ms. Judge. I now recognize myself 
+for five minutes.
+    What I think is important here is there is already been a 
+lot of reporting about what brought down Silicon Valley Bank. 
+But really what I want to focus on is how the regulators were 
+complacent in helping this to happen.
+    See, we have a certain set of rules out there for private 
+business, right? Heads roll, people get fired, stock prices go 
+down, and that ugly word ``profit'' goes down as well. There is 
+a consequence to one's actions, as there should be.
+    However, I am amazed in my short two and a half years here 
+in Congress to see we have government agency on top of 
+government agency with regulator upon regulator, with more 
+regulation than we know what to do with, whose head is going to 
+roll? Whoever gets fired.
+    What is the consequence to the action? And I think that is 
+what we need to focus on. We do not need to have more law, then 
+rescind, then have more law, then rescind it. We need to first 
+start with--we have laws on the book. We have regulators who 
+are supposed to enforce those laws. They need to do their job 
+and enforce the laws that are on the books, before we even 
+consider giving them more power, more money, period.
+    So, with that said, Mr. Newell, I would like to start with 
+you. Is there more the Fed could have done to prevent this 
+failure from happening.
+    Mr. Newell. Certainly, and I, unfortunately maybe caveat my 
+remarks with--I can only give you a tentative answer to that 
+question because you have to answer it based on the public 
+record which is to say the information that the Fed has 
+released so far--and although, certainly, there is a lot of 
+useful information in that preliminary Federal Reserve report, 
+and some useful supervisory materials that they had provided, 
+you certainly do not get a complete picture. I'm happy to talk 
+a little bit more about how you might close some of those gaps.
+    With that said, to the extent that we do have public 
+information. One of the things that I think that you see kind 
+of consistently throughout the process, as I noted in my 
+opening remarks, again, is a focus on process and risk controls 
+rather than actual risks that were----
+    Mrs. McClain. Can you give us a specific example.
+    Mr. Newell. Certainly, so, again, I think if you step 
+back--for example, the perfect picture is painted by the 31 
+supervisory directives that were outstanding when Silicon 
+Valley Bank failed. If you look at those 31, six had to do with 
+liquidity, which was a major problem in SVB's failure. One had 
+to do with interest rate risk, which is probably the single 
+most important cause. And the rest were other areas. For 
+example, 13 of them dealt with information technology.
+    If you dig in further, for example, look at the six 
+liquidity MRAs that existed at that time. Again, most of them 
+deal with processes--calling for project plans, various 
+controls. You know, none of them go to the sort of the core key 
+question of do you have enough liquidity? So, again, I think 
+that is a useful example.
+    Another, also on the question of liquidity. The Fed report, 
+you know, reveals that after the Fed issued those supervisory 
+directives on liquidity, I believe, late 2021, it was pretty 
+quickly revealed in 2022 that SVB was running internal 
+liquidity's stress test, which was required under the Federal 
+Reserve's rules, which showed that they did not have the buffer 
+of liquid assets that they needed to survive a 30-day period of 
+stress.
+    That is not something that the Fed had followed up on, 
+issued MRA or MRI aids. Instead, the Fed report admits they did 
+not do that because they were focused on remediation of the 
+sort of the more procedural MRAs that were issued on liquidity 
+earlier the prior year.
+    Mrs. McClain. Thank you. Mr. Clements, were there actions 
+regulators could have taken prior to these failures? And what 
+would you change to keep this from happening again?
+    Mr. Clements. Yes, I would say our work has shown, both for 
+these 2023 failures as well as earlier ones, that there needs 
+to be more timely and forceful actions when problems arise. 
+Having policies and processes are good. Those are internal 
+controls to prevent risk from arising. But once the risk has 
+arisen, we need forcible action.
+    We have recommended, on multiple occasions, that there be 
+some type of trigger mechanism, that if the bank passed some 
+trigger, that action would be taken, rather than simply 
+allowing the problem to persist.
+    Mrs. McClain. And you said earlier in your opening 
+statement that they did not escalate the concerns. Why do you 
+think that was the case?
+    Mr. Clements. There has been a variety of instances that we 
+have reported on, that regulators favor an informal, 
+collaborative approach, which we do not necessarily disagree 
+with. But at some point, you need to take action. Sometimes it 
+is challenging when a bank is profitable and has adequate----
+    Mrs. McClain. That is their job, correct?
+    Mr. Clements. It is their job, but it is challenging when 
+the bank profitable.
+    Mrs. McClain. I do not want to take up too much of my time. 
+Thank you, sir. The Chair now recognizes Ranking Member Porter 
+for five minutes.
+    Ms. Porter. There's no question that Congress bowed to 
+political pressure and pursued a deregulatory agenda when it 
+passed Dodd Frank rollbacks in 2018. Congress put profits over 
+people.
+    What we hear a lot less about is how the Federal Reserve 
+also helped push us off the cliff by deregulating. In fact, in 
+my, maybe third, hearing in Congress, in the early spring of 
+2019, I asked Chairman Jerome Powell about the weakening of the 
+capital liquidity risk requirements, and he claimed that there, 
+in fact, was no weakening of those requirements.
+    Which I found interesting given that the Federal Reserve's 
+report about Silicon Valley Bank takes ownership at the Federal 
+Reserve for, in fact, having weakened those very regulatory 
+requirements. But, unfortunately, Chairman Powell isn't here 
+today for me to ask him about his testimony.
+    So, I want to talk about how the Federal Reserve did, in 
+fact, deregulate, despite what Mr. Powell told this Congress 
+and what the consequences of that are.
+    So, let us look at what motivates the Federal Reserve's 
+regulatory decisions. The Federal Reserve is an independent 
+body. Ms. Judge, who does the Federal Reserve work for; the 
+bank it regulates or the American people.
+    Ms. Judge. The American people.
+    Ms. Porter. So, the Federal Reserve has a duty to the 
+American people. Let us look at what that duty is. Is that duty 
+to provide a stable financial system, or is that duty to 
+maximize bank profits?
+    Ms. Judge. To provide a stable financial system.
+    Ms. Porter. Great. We agree. So, let us see what the 
+Federal Reserve has been up to in meeting its duty to the 
+American people to provide a stable financial system.
+    Under Chairman Powell, as acknowledged, not by him, but by 
+the Federal Reserve's report about Silicon Valley Bank's 
+failures, the Federal Reserve relaxed banks capital and 
+liquidity standards.
+    For example, removing the liquidity coverage ratio that 
+would have applied. Ms. Judge, how did this change make the 
+banking system more stable.
+    Ms. Judge. It did not.
+    Ms. Porter. And, Ms. Judge, how would that have changed, 
+this deregulation have changed bank's profits?
+    Ms. Judge. It would have allowed them to be more profitable 
+and also enable them to grow quite quickly without being 
+subject to the enhanced financial standards that would have 
+been appropriate in light of that growth.
+    Ms. Porter. Hmm, it does not sound like this change was 
+aimed at creating a more stable financial system. It sounds 
+like it was maybe more geared at maximizing bank profits.
+    Let us try something else. In 2019, the Federal Reserve 
+made it easier for banks to pass stress tests that assess their 
+resiliency. For example, moving from monthly stress tests to 
+annual ones. Ms. Judge, how did this change make the banking 
+system more stable?
+    Ms. Judge. It did not.
+    Ms. Porter. How did that change affect bank profits?
+    Ms. Judge. It would probably reduce their costs and 
+increase their profits.
+    Ms. Porter. Yikes. Bank profits win again. But we agreed 
+the Fed's obligation is to the American people, not to banks. 
+But here we are--banks, two, American people, zero--with regard 
+to the Fed's behavior.
+    Let us try one more. The Federal Reserve signed off on 
+mergers by large, super regional banks. Ms. Judge, how did this 
+change make the banking system more stable.
+    Ms. Judge. It did not.
+    Ms. Porter. And how did that change affect the acquiring 
+banks' profits?
+    Ms. Judge. It boosted those profits.
+    Ms. Porter. Three in a row. Or should I say three strikes 
+and you are out? Whether it is intentional or not, the Federal 
+Reserve has a pattern here of prioritizing banks' profits. If 
+the Federal Reserve consistently prioritizes banks' profits 
+over the stability of the banking system--if that is, in fact, 
+what they do, who does it seem like they are working for? The 
+banks or the American people?
+    Ms. Judge. It does not make it appear that they are working 
+for the American people.
+    Ms. Porter. It sounds like Congress is not the only entity 
+bowing to pressure from big banks. Until the Federal Reserve 
+and Congress truly work for the American people, the stability 
+of the banking system won't be the priority. I yield back.
+    Mrs. McClain. Thank you, Ranking Member Porter. The Chair 
+now recognizes Ms. Foxx for five minutes.
+    Ms. Foxx. Thank you, Madam Chair. And I want to associate 
+myself with the remarks the Chairwoman made at the beginning 
+about the need to hold people responsible for regulations.
+    And, Mr. Newell, you said the regulators were focused on 
+process. Well, I'm not in favor of adding new regulations, 
+because I think that is a waste of time and money, but is there 
+anything that can be done to get the regulators to stop 
+focusing on process and start looked at deficiencies, 
+noncompliance, and other risks in a bank's operations, so we 
+stop the failures that are occurring?
+    Mr. Newell. Certainly, Congresswoman. I think again, first 
+and foremost, what would be useful here is a general and a more 
+structural change to the way that the banking agencies, 
+including the Federal Reserve, approach supervision. Again, I 
+think small changes are probably not ultimately going to 
+suffice--it is going to require some deep thinking and a much 
+broader change in terms of the culture of supervision and the 
+overall program of supervision.
+    Again, that ultimately results in very clear direction to 
+examiners; that, although, certainly processes and procedures 
+can be important, especially in the area of risk management 
+because what ultimately gives rise to the risk that matter 
+most.
+    Ms. Foxx. OK. Well, let me interrupt you there. So, it is 
+not our job to put out those instructions to them. Should we 
+say to this Federal Reserve, write the instructions, and hold 
+your bank examiners accountable, and give us a report on 
+whether they are being held accountable?
+    Mr. Newell. Yes. I think that certainly that would be a 
+constructive step. Again, I think there is relatively limited 
+articulation at the regulators in terms of what their overall 
+supervisory objectives are and what their directives to the 
+examiners are.
+    So certainly, that can be a step. Again, I would just sort 
+of return to what I think is, again, the single most important 
+point, which is making those kinds of reforms, again, to get 
+examiners focused on real core safety and soundness, really the 
+core questions of what are the material risk to the financial 
+integrity of firms so that they do not necessarily get 
+distracted by----
+    Ms. Foxx. So, you are saying we have to tell the Federal 
+Reserve how to do its job? I mean, is that what you are saying?
+    Mr. Newell. Well, it certainly could be the case. I would 
+like to defer to the Committee in terms of exactly how they 
+would want to go about that. But I do think--I would say that 
+this, I think the need is clear for our, again, real structural 
+reform to the way that the Fed and the other banking agencies 
+do supervision.
+    Ms. Foxx. So, let me move it along just quickly. The 
+matters requiring attention or matters requiring immediate 
+attention were the methods which the San Francisco Fed 
+preferred in communicating with the SVB. Do either MRAs or 
+MIRAs include teeth to enforce compliance, or are they usually 
+more subjective?
+    Mr. Newell. Well, I think it can vary depending on the 
+precise MRA or MRIA. They tend to be somewhat formal, but they 
+are not, for example, an enforcement action. They are typically 
+included in exam reports or supervisory letters. And they are 
+typically a predicate step where if, over time, the bank does 
+not actually respond to those MRAs or MIRAs, then more serious 
+actions could occur.
+    Ms. Foxx. Thank you. Mr. Clements, in the report released 
+by GAO regarding the March 2023 bank failures, was any evidence 
+found that could attribute any of these failures solely to past 
+efforts to relax Dodd-Frank regulations on midsize and smaller 
+banks?
+    Mr. Clements. Financial Services asked us to address that. 
+We have not gotten to the question of enhanced prudential 
+standards in our report.
+    Ms. Foxx. OK. Well, what discretionary authorities did 
+those efforts permit Fed regulators to take regarding banks 
+with 100 billion in annual assets like SVB?
+    Mr. Clements. In the case of SVB, it would still have been 
+subject to a variety of prudential standards at category 4 
+institution. Again, it moved up in level of supervision to the 
+large and foreign bank organization, which increased the number 
+of examiners, also increased some of the requirements for the 
+bank.
+    Ms. Foxx. Well, we know that SVB did not have a person to 
+occupy the role of Chief Risk Officer for nearly eight months. 
+Should SVB's lack of a CRO raise red flags for regulators at 
+the Feds? Should they have said, put somebody in that job and 
+keep them there?
+    Mr. Clements. We are certainly aware that there was not a 
+Chief Risk Officer for a period of time.
+    Ms. Foxx. And that did not raise a red flag with anybody?
+    Mr. Clements. I'm not aware that there was an MRA related 
+to that, but we can check.
+    Ms. Foxx. Thank you, Madam Chair, I yield back.
+    Mrs. McClain. Thank you, Ms. Foxx. The Chair now recognizes 
+the gentlelady from Vermont, Ms. Balint.
+    Ms. Balint. Thank you, Madam Chair. Good afternoon, all. 
+Thank you so much for being here with us. When I listen to my 
+constituents reflect on Silicon Valley Bank and its collapse, 
+they really remember feeling worried not just about SVB, but 
+really about their local banks, their community banks, or 
+whether this contagion would affect them at the local level in 
+Vermont. And I'm grateful that regulators took decisive action 
+following the collapse of SVB.
+    But I want Vermonters who have their money at local and 
+community banks to understand the specific choices that were 
+made by SVB executives that put their customers' money at risk. 
+It will help them feel better about the situation that they are 
+in back home. So, I'm wondering, Ms. Judge, can you help us 
+understand, in layman's terms, the risk that SVB was taking 
+that led to its collapse?
+    Ms. Judge. Yes, and I think it is incredibly important to 
+distinguish the health and stability right now of the small 
+banking organization, which was held up remarkably well and 
+appropriately so during this period. And a bank like SVB, which 
+more than doubled in size and incredibly rapid and short period 
+of time, did not institute the risk management that you need 
+to, to handle that growth, and instead sought to search for 
+yield by loading up on instruments that had very little credit 
+risk, but lots of interest rate risks.
+    And we saw, as the Fed signaled, that we were facing more 
+inflation as it was happening globally at the time. They needed 
+to tighten for purposes of promoting financial stability. They 
+signaled this. And yet we didn't see SVB unloading those 
+instruments or hedging appropriately.
+    So, what we saw was some very aggressive risk-taking, poor 
+risk management practices, incredibly rapid growth, and reliant 
+on flighty deposits, as opposed to being focused on providing 
+real services to real people.
+    Ms. Balint. Thank you. I appreciate that. Is it fair to say 
+that they were gambling with their investors' money?
+    Ms. Judge. That is accurate.
+    Ms. Balint. Thank you, Ms. Judge.
+    Mr. Clements, your report was critical of SVB's risk-
+taking. I want to know if you have anything additional to add 
+to what Ms. Judge said about the risk that they were taking?
+    Mr. Clements. I think our findings were consistent with 
+what she had mentioned. Again long-dated securities funded 
+through uninsured deposits.
+    Ms. Balint. Thank you, Mr. Clements.
+    Ms. Judge, in your view, is it preferable to prevent this 
+type of behavior, or it is better to clean it up after the 
+fact?
+    Ms. Judge. Much, much better to prevent it.
+    Ms. Balint. I appreciate that. Ms. Judge, what actions 
+should the San Francisco Fed have taken to address the many 
+flags that arose at SVB in the lead-up to its collapse?
+    Ms. Judge. The Fed did a decent job identifying some of the 
+issues, but they failed to appreciate the magnitude of the 
+issues. They were not creative in appreciating the fragility 
+that existed. And what you really wanted to see is an 
+escalation framework in place in advance, so that when issues 
+were not addressed, they already had a plan in place for how 
+they were going to escalate.
+    And then follow through on escalation as the new team came 
+in. And the new team saw weaknesses that the previous 
+supervisory team had not fully appreciated to respond quickly, 
+forcefully, and appropriately in light of the weaknesses they 
+identified.
+    Ms. Balint. So, the escalation framework or formula was not 
+adequate?
+    Ms. Judge. I do not believe there was a structured 
+escalation framework placed. There was a general idea that once 
+there were a few problems that you would escalate, but they had 
+not committed to an escalation framework. That really might 
+have helped.
+    Ms. Balint. OK. So, one of the most important things that 
+we can do within Committee is, obviously, to figure out what 
+went wrong and make sure we put whatever things in place so we 
+can to prevent it going forward.
+    So, what do you think are the key takeaways that we, you 
+know, should take from this hearing and from the lessons from 
+SVB, so that we can do our jobs and make sure this does not 
+happen again.
+    Ms. Judge. The biggest one is appropriate regulation. If 
+there is not appropriate regulation, banks are going to game 
+the system that they have. You want to think about executive 
+compensation, really trying to make sure that they cannot walk 
+away incredibly well compensated when a bank fails. And then 
+you really want to make sure that supervisors are empowered and 
+pushed to ask hard questions and to follow through with vigor.
+    So, you want a bigger supervisory teams, you want to make 
+sure they've adequate resources, and then you really want to 
+make sure they are asking the hard questions and are encouraged 
+to ask the hard questions, and to follow through with backbone 
+and in a structured way when they see weaknesses.
+    Ms. Balint. Just to follow up on something you said. So, 
+tell me about executive compensation in light of what happened. 
+Give me some idea of what went down and how it should have gone 
+down.
+    Ms. Judge. Yes, I mean, I think one of the keys is just 
+introducing some things. We already have some structures in 
+place for claw backs for banking organizations, but they should 
+be more robust, and they should be able to be used in a far 
+broader set of circumstances.
+    Particularly in situations where banks fail. In situations 
+like this where banks fail and have a huge hit to the Deposit 
+Insurance Fund, it is incredibly important both for purposes of 
+incentives and fairness that the executive not walk away very 
+well compensated while others bear such significant losses.
+    Ms. Balint. I really appreciate that. I yield back.
+    Mrs. McClain. The Chair now recognizes Mr. Gosar for five 
+minutes.
+    Mr. Gosar. Thank you, Madam Chair. Excessive spending has 
+consequences. Both Republican and Democratic administrations 
+are guilty. However, the devastating effects of inflation 
+caused by Uncle Sam not spending within his means has only now 
+caught up with American people in the last few years. The 
+reason: Trillions of dollars given to the public through 
+stimulus checks, enhanced benefits, and forgiveness business 
+loans during the COVID response created an excess of dollars in 
+the market in a way that the previous zero interest rate era, 
+where printed money just sat in the banks, does not resemble. 
+But inflation is not the only evil that the fiat money system 
+engenders.
+    The downside of being the world's reserve currency, and 
+therefore the strongest currency, is that foreigners cannot 
+afford goods priced in the strongest currency. And the reverse 
+is true.
+    Foreign goods priced and cheap currencies are easily 
+affordable to Americans who wield the mighty dollar. That is 
+why manufacturing close to countries with weaker currencies 
+like China, India, and Mexico, goods are cheaper if they are 
+sold to weak currencies.
+    And who pays for this? Not the big banks. Like Silicon 
+Valley Bank who are close to the money printing spigots, but 
+the middle-class working Americans whose jobs have been 
+literally transplanted by China.
+    That is why I'm a strong supporter of the Gold Standard 
+Registration Act introduced by Alex Mooney who had solved the 
+double problem with inflation and job off-shoring. Going back 
+to the gold standard would be the single biggest thing Congress 
+could do to help the middle class in America.
+    That question is for both Mr. Clements and Mr. Newell. Has 
+the Fed's decision to raise its policy rate by 450 basis points 
+between January 2022 and March 2023 created a national banking 
+crisis?
+    Mr. Clements. We had not done the work to be able to 
+justify that. Clearly, the increase in interest rates caused a 
+decline in the value of the portfolio at Silicon Valley Bank.
+    Mr. Gosar. That was to Mr. Newell.
+    Mr. Newell. Yes, sir, I would say, I'm a bank regulatory 
+expert, not an expert in monetary policy, or a financial 
+analyst. I guess I would say, I think if you look across the 
+banking system, I think the vast mortgage of banks have done an 
+admirable job of managing interest rate risk. Obviously, 
+Silicon Valley Bank did not. But I'm afraid that is the most 
+insight I can offer you.
+    Mr. Gosar. So now, why would anyone keep their money in a 
+bank if they can make a return of 5.6 percent on one month's 
+Treasuries? Mr. Clements, can you answer that?
+    Mr. Clements. You know, I would probably go to Mr. Newell. 
+I'm not an expert on----
+    Mr. Gosar. I mean, 5.6 percent is a pretty good yield, 
+isn't it?
+    Mr. Clements. It is better than what you can get in a 
+typical bank account.
+    Mr. Gosar. Mr. Newell, do you have any answers?
+    Mr. Newell. Apologies, I did not come prepared to provide a 
+full assessment of the merits of Treasuries relative to bank 
+deposits. I would say that bank deposits have a variety of 
+other advantages, including transactional capabilities and so 
+on. But I'm afraid other than that, I cannot offer any real 
+insights for you.
+    Mr. Gosar. So, would you say that the Fed acted recklessly 
+by this action? Yes or no, Mr. Clements.
+    Mr. Clements. I'm just not qualified to discuss that.
+    Mr. Gosar. I guess, Mr. Newell, you are not qualified 
+either. How about you, Ms. Judge?
+    Ms. Judge. I think the Fed was pursuing price stability 
+which is an important mandate. And I think banks have the 
+obligation and should be able to, as most banks have, to be 
+able to handle changes in the interest rate environment as a 
+result of inflation that is global at the moment.
+    Mr. Gosar. Now, granted, the Committee has uncovered 
+concerning practices by Silicon Valley Bank, but I'm afraid 
+that the problem is deeper than the simple mismanagement of 
+just one or a couple of particular banks. It is the Federal 
+Reserve's unprecedented tightening in response to unprecedented 
+COVID-19 response spending that has caused a stock bond and 
+overall banking crisis. Would you agree with that, Mr. 
+Clements? Yes or no?
+    Mr. Clements. I cannot. I'm not qualified to.
+    Mr. Gosar. Above your paid grade. Yes or no, Mr. Newell?
+    Mr. Newell. Again, I do not think I have the expertise.
+    Mr. Gosar. Above your pay grade? Ms. Judge, you seem to 
+have the pay grade.
+    Ms. Judge. Qualified or not, I mean the Fed has a number of 
+different mandates. The core of those is managing to control 
+inflation. I think they are prioritizing that. That does put a 
+pressure on bank regulators and financial regulation for 
+stability.
+    Mr. Gosar. I hear you. I have got one other thing. In a 
+recent Senate hearing, Janet Yellen said the quiet part out 
+loud. Systemically important banks aka big ones with political 
+conditions will always be bailed out by the government, but not 
+smaller community banks. Yes, investors will lose their money 
+in most cases, like those who invested in Silicon Valley Bank, 
+but the depositors will always be safe. Is having bailout for 
+the big guys but not the small guys a fair policy? No, it 
+should not be. But we have already set the precedent now.
+    Does it make banks less likely or more likely to engage in 
+risky behavior, knowing that the depositors will never lose any 
+money? Hell, yes. Is this why community banks are disappearing? 
+People know big brother will swoop in to only save the big 
+guys, but leave the little guys all alone. There is something 
+more to this story, and the American public needs to be 
+protected. I yield back.
+    Mrs. McClain. Thank you, Gosar. The Chair now recognizes 
+Ms. Lee for five minutes.
+    Ms. Lee of Pennsylvania. Thank you, Madam Chair. You know, 
+sitting through this hearing, I cannot help but wonder where is 
+the leadership of Silicon Valley Bank? Are we really going to 
+let another corrupt and greedy financial executive sneak away 
+unscathed like in the aftermath of the 2008 financial crisis? 
+Our Republican colleagues seem to be blaming the government for 
+this bank collapse, but you cannot take away the teeth from the 
+regulatory agency and then cry foul when it does not function 
+properly.
+    We do remember that President Trump, along with the 
+Republican-controlled Congress gutted Dodd-Frank's financial 
+stability protection rules. No? Quick recap. In 2018, the Trump 
+Administration signed into law the Economic Growth Regulatory 
+Relief and Consumer Protection Act, rolling back key Dodd-Frank 
+reforms designed to protect Americans from a financial crisis 
+like in 2008.
+    In 2019, President Trump's regulators issued rules that 
+further undercut Dodd-Frank's protected standards. These same 
+Trump era reforms relax requirements for banks under a certain 
+size, allowing risks to run rampant at midsized banks like 
+Silicon Valley Bank.
+    Ms. Judge, how did the Trump era rollbacks of these 
+critical Dodd-Frank provisions create an opportunity for 
+excessive risk-tanking at SVB?
+    Ms. Judge. One of the greatest ways they did that was by 
+facilitating growth. Prior to that, you paid significant costs 
+in terms of heightened regulatory standards as you grew. We saw 
+that they managed to grow incredibly rapidly. They were subject 
+to modestly enhanced standards, but that was at an incredibly 
+slow rate. So, it enabled rapid growth and inadequate attention 
+to both the credit risk and the liquidity risk associated with 
+that growth.
+    Ms. Lee of Pennsylvania. Thank you. The Trump 
+Administration gutted the oversight of midsized banks, 
+encouraging the rapid, reckless business practices. Under Dodd-
+Frank, banks with more than 50 million in assets were subject 
+to enhanced standards to ensure financial stability. Under 
+Trump, the threshold skyrocketed to 250 billion in assets, 
+leaving midsized banks room to play fast and loose with 
+people's money and prioritize their own profits.
+    In 2015, Greg Becker, CEO of SVB, testified to the Senate 
+Banking Committee to urge increasing the threshold. Beaker or 
+Becker, I apologize for the mispronunciation of the name, 
+emphasized that midsized banks like Silicon Valley Bank do not 
+present systemic risk. He then reaped the rewards of those 
+relaxed regulations. He took risks with people's funds and 
+prioritized his personal bottom line while leading his bank 
+toward collapse, threatening our entire financial system in the 
+process.
+    Ms. Judge, what are the most important safeguards to ensure 
+that the interest of banks and bankers are aligned with the 
+interest of the public?
+    Ms. Judge. I think we know a lot of the toolset--and a lot 
+of it was the toolset that was previously in place. We need to 
+have the full set of prudential requirements, enhance 
+prudential requirements applicable to all large regional banks. 
+We need to be honest by the fact that any bank with more than a 
+$1 billion in assets is a very large bank, and that we now 
+know, unanimous, both Republican and Democratic members of the 
+FDIC board and the Federal Reserve Board of Governors, 
+recognize that they pose a potential threat to stability.
+    I also think we need to go forward and figure out how to 
+strengthen trust in us and otherwise make sure that there is 
+ongoing diligence to the regulatory standards and the 
+supervision of these institutions.
+    Ms. Lee of Pennsylvania. Could you describe how the 
+collapse of midsized banks such as Silicon Valley Bank can 
+destabilize the entire sector?
+    Ms. Judge. One of the things that I think was actually 
+unexpected for most of us was the destabilization risk, and yet 
+it was nonetheless broadly recognized. And I think largely it 
+is through both contagion. The possibility of failure of one 
+bank creating fears at other banks, particularly, because these 
+were, as was previously noted, the 16th largest and 29th 
+largest banks at the time they failed. So, you are talking 
+about incredibly, incredibly large banks. They also both had 
+incredible numbers of uninsured depositors. And once you have 
+depositors potentially losing money, you create fear. The 
+banking system is dependent on trust.
+    Ms. Lee of Pennsylvania. Thank you. Really quickly. When 
+Mr. Clements submitted testimony for today's hearing, he 
+stated, and I quote: From December 2018 to December 2022, SVB's 
+total assets more than tripled from 56 billion to 209 billion.
+    Mr. Clements, is it correct that despite this rapid growth, 
+the bank still did not meet the new higher threshold for 
+heightened oversight?
+    Mr. Clements. The prudential standards had been reduced. 
+So, the standards that would apply to a category 4 firm would 
+certainly have been less than for higher level firms.
+    Ms. Lee of Pennsylvania. So as a result, Silicon Valley 
+Bank avoided much of the rigorous stress testing that would 
+have been required under Dodd-Frank rules.
+    Ms. Judge, is it likely that earlier stress testing would 
+have flagged some of the warning signs that the bank was headed 
+toward collapse? Really quickly, since I'm running out of time.
+    Ms. Judge. It's hard to know, but more rigorous stress 
+testing would have potentially revealed the weaknesses in their 
+ability to foresee how they would fair under adverse 
+circumstances.
+    Ms. Lee of Pennsylvania. Thank you.
+    SVB aggressively and successfully lobbied for loosening of 
+Dodd-Frank. The bank then took advantage of the new lax 
+environment to engage in excessive risk-taking, which did 
+nothing but pad the pockets of greedy execs.
+    If we are going to conduct meaningful oversight over what 
+happened at SVB, we need to bring the bank's leadership in for 
+questioning as other Committees have.
+    Thank you to the panel. And I yield back.
+    Mrs. McClain. Thank you.
+    The Chair now recognizes Mr. Grothman for five minutes.
+    Mr. Grothman. Thank you.
+    I'm old enough to remember, like, the 2006 housing bubble, 
+and I think it is always important for those of us who have 
+control, or not direct regulatory authority over America's 
+business to remember that it is their property, not our 
+property, and we should not be abusing our position to self-
+righteously have fun in other people's expenses.
+    I thought of that because housing bubble was caused by the 
+leadership class or the government class, weighing in on 
+businesses and encouraging banks, other financial institutions 
+to make loans that they never would have made normally. And a 
+lot of people lost a lot of money, lost their jobs because 
+people felt it was their business to, like I said, self-
+righteously tell financial institutions to make loans they 
+would not have normally made that resulted in that crisis.
+    We have some of the same type of feeling going out now in 
+which the government is kind of weighing in to say that it 
+should make it easier for people to get loans who maybe will 
+have a hard time paying them off.
+    But we will start with Mr. Newell today. In your opinion, 
+when I see Mary Daly, the head of the San Francisco Fed, and 
+Greg Becker, the head of Silicon Bank, they both seem the type 
+of people who maybe are bored with banking and bored with 
+making money and like to take other people's money and play 
+around with equity or play around with climate initiatives.
+    In your opinion, has leadership of the San Francisco Fed 
+focused too much of its resources on these issues, maybe too 
+much of their time on ESG or equity and inclusion initiatives? 
+And, if so, does this focus distract the exam team and bank 
+management from what should be their primary goal, safety and 
+soundness?
+    Mr. Newell. Thank you, Congressman.
+    I think I would start by noting, as I did in my testimony, 
+it does seem the case that one of the core problems in the 
+supervision of SVB that is the supervisors were not properly 
+focused on the real material risks to the safety and soundness 
+of SVB. And so, I think understanding exactly why that was the 
+case is very, very important.
+    As to your specific question, I think it is hard to say at 
+this point exactly what they were distracted by. We do not have 
+from the Fed report a clear picture of what all the supervisory 
+priorities were at the Federal Reserve Board, at the San 
+Francisco Fed, at the exam team itself. And so, I actually 
+think, you know, one of the important things here is gathering 
+a much more complete picture so that we can fill in those 
+blanks.
+    And we know that their attention was not on identifying all 
+the right issues, but I do not think we have a full picture in 
+terms of why that was the case and all the things that were 
+necessarily distracting.
+    Mr. Grothman. I think it must be a psychological thing, and 
+I think I can guess. You know, socially it is more fun to say 
+at the cocktail party, I'm dealing--at my job with a bank, I'm 
+dealing with global warming. I'm dealing with racial equity. 
+It's more fun than saying, you know, I'm just doing what 
+bankers should do and maintaining a sound bank here.
+    But in any event, San Francisco Fed chief, Mary Daly, 
+openly touted her efforts to spearhead left-wing initiatives 
+and ESG policies through her work. Do you think--and she was 
+certainly a champion of this sort of thing among the Fed 
+chiefs.
+    Do you think these initiatives may have distracted the San 
+Francisco's--the Fed, itself, from what should be its 
+overarching mission?
+    Mr. Newell. Again, Congressman, I think, unfortunately, it 
+is hard to just give a definitive answer to that question just 
+because we do not have a complete picture, again, of where the 
+supervisors were focused and what may have been distracting 
+them. Again, I do think it is clear that they were not 
+appropriately focused on the core material risk to SVB's 
+financial integrity, but I do not think we have a full picture 
+of what the drivers of that were necessarily.
+    Mr. Grothman. What is--I know this Greg Becker here guy. He 
+was focused on combating racial inequities. What does he do? 
+What does that do? I mean, he took pride in it. How does he run 
+your bank differently if you want to focus on racial 
+inequities?
+    Mr. Newell. My apologies, Congressman. I'm not sure I can 
+speak to that question of what he may or may not have had in 
+mind.
+    Mr. Grothman. Why don't you--do the other two of you know 
+what you would be doing differently if that was one of your 
+focuses?
+    Mr. Clements. We focused on the liquidity and the risk 
+management, not the other aspects of the Fed supervision. So, I 
+cannot really comment on that.
+    Mr. Grothman. OK. He must have been doing something 
+different.
+    OK. Next thing, as far as climate change, do you know what 
+you would be doing if you were heading a bank and focusing on 
+climate change, which he seemed to think was important as well? 
+Do you have any idea?
+    I will ask another question because, obviously, we have got 
+to focus on this Mr. Becker character. How much money was he 
+making a year, do you know?
+    No idea. OK.
+    Any idea what any of the management team over there was 
+making?
+    Ms. Judge. We know it went up over 30 percent in just the 
+last couple of years, and it was in excess, I believe, of at 
+least $1 million, I think potentially more. It is in my written 
+testimony. But they were quite well-compensated, and their 
+compensation grew as the bank grew.
+    Mr. Grothman. Like what? Can you guess wildly?
+    I think it is something that is interesting for society.
+    But, in any event, thanks for giving me another half 
+minute.
+    Mrs. McClain. Thank you.
+    The Chair now recognizes Ms. Crockett from Texas for five 
+minutes.
+    Ms. Crockett. Thank you, Madam Chair.
+    The irony of today's hearing is not lost on me. A key 
+talking point of my Republican colleagues has always been heavy 
+deregulation and significantly less oversight of banks without 
+proper safeguards in place. It seems, however, that my 
+Republican colleagues have now seen the light, and I'm excited 
+about this. Nevertheless, today's hearing lets us have an 
+important and necessary conversation on oversight and the role 
+of regional and small banks in our communities.
+    Arguably, the most important responsibility of the Fed is 
+the ensuring of the financial stability of our banks and 
+upholding consumer confidence in the system. When SVB crashed, 
+it left customers at our banks worried about their money. 
+Herein lies the problem. Failing to oversee the actions of one 
+bank led to an avalanche of people wanting to pull their money 
+out of other banks.
+    What is the result? A catastrophic effect on small and 
+regional banks. Many people do not think about small regional 
+banks like Comerica and Amegy in my district and the vital role 
+they play in our communities. These banks provide locally 
+informed investments that enable small businesses and startups 
+to thrive in a challenging economy. Amegy, for example, has 
+2,764 small business customers in the Dallas area alone. They 
+provide loans and services to groups that have been 
+historically overlooked. For instance, Comerica provided a $1 
+million investment in the Dallas Small Business Diversity Fund 
+that supports women-and minority-owned businesses in Dallas 
+County.
+    Blaming SVB's collapse on environmental social governance 
+investing or diversity equity and inclusion initiatives is 
+nonsense. To quote experts from Harvard Business School, not 
+exactly a liberal bastion, blaming ESG of DEI or SVB's failure 
+reflects either, quote, ``a complete lack of understanding of 
+how banks work or the intentional misattribution of the cause 
+of the bank's failure.''
+    My Republican colleagues' continued focus on wokeness in 
+banking also suggests that they see improving economic 
+opportunities for people of color and investing in minority-
+owned businesses as a bad thing, and that is truly a shame.
+    I ask unanimous consent to introduce a New York Times 
+article titled ``No, `Wokeness' Did Not Cause Silicon Valley 
+Bank's Collapse.''
+    Mrs. McClain. Without objection.
+    Ms. Crockett. Thank you so much.
+    Now I would like to ask--well, small businesses and 
+everyday folk need to trust that their local bank is making 
+smart investment choices that are in their business interests. 
+So, when something like SVB happens, even if it is a different 
+bank entity, and even if it is in a different state, that has 
+enormous ripple effects.
+    And, to be honest, the first thing that I did the next 
+day--or the next business day after the collapse, was check to 
+see what the numbers looked like for the banks in my area 
+because I have a large banking industry. In fact, the regional 
+Fed is located in my district in Dallas County. And guess what? 
+I saw a 25 percent drop in the stock of Comerica alone that 
+first Monday when they opened, even though they had nothing to 
+do with SVB.
+    So, with that, Ms. Judge, how can the Fed work to restore 
+and buildup consumer confidence in regional and small banks, 
+given the reputational damage they have received from SVB?
+    Ms. Judge. I think it is one of the most important things 
+that they should be focused on. One of the things that have 
+actually been really comforting is that community banks, those 
+with less than $10 billion in assets, have come through 
+remarkably well. New research from the New York Fed shows that 
+they really have not lost any deposits, despite the interest 
+rate and despite the recent fears.
+    For regional banks, I think it has to mean appropriate 
+regulation. I think we did not just have one regional bank 
+fail, we had four regional banks fail. Three of them failed in 
+ways that resulted in significant losses to the Deposit 
+Insurance Fund, two required the systemic risk exception.
+    So, I think knowing that they are appropriately regulated 
+is the key first step to rebuilding that trust.
+    Ms. Crockett. Thank you so much.
+    Now, the final part of this is where I'm going to get a 
+little spicy here. I cannot help but to sit here and be 
+frustrated, because we are saying that we are concerned about 
+SVB and what banks are doing and what they are not doing. But 
+the big elephant in the room is the fact that we have this debt 
+ceiling issue that is looming over our heads right now. And 
+somehow, Democrats--I was not here, but what I hear happened 
+when Trump was President is that Democrats agreed to raise the 
+debt ceiling three times under his leadership, three times. In 
+my mind, I feel like that may be a record number of times.
+    I am curious to know how is it--if it will affect banking 
+if we fail to pass a clean debt ceiling limit? Are we concerned 
+that banks may end up suffering failing if we fail to do our 
+jobs in Congress? Anybody?
+    Nobody? Nobody wants to--I'm just going to tell you all the 
+answer. The answer is yes. And so, we need to focus on our work 
+here in Congress. Right now, we need to pass a clean debt 
+ceiling if we really care about the stability of banking in 
+this country and Americans.
+    Thank you so much for being here.
+    Mrs. McClain. Thank you, Ms. Crockett.
+    The Chair now recognizes Mr. Fry for five minutes.
+    Mr. Fry. Thank you, Madam Chair.
+    And just as a sort aside, I think it is important to note 
+that the American people spoke very clearly in the last 
+election about cutting spending in Washington. According to a 
+CNN poll recently, 60 percent of Americans want a debt ceiling 
+increased paired with cutting spending, to my colleague.
+    Thank you to our witness for being here today. I believe 
+that the collapse of SVB and others can in part be attributed 
+to a lack of confidence in our financial system. These three 
+banks all exhibited serious faults in oversight, senior 
+management, and risk management. Certainly, these banks were 
+outliers in a broader banking landscape as they catered 
+primarily to wealthy clients and startups and had unusually 
+high percentages of uninsured deposits, 94 percent to be exact.
+    But in the backdrop of all of the cast and characters of 
+these failures, rising inflation rates and exuberant spending 
+have an obvious role to play as well from the government side. 
+Just like every other bank, SVB and others were caught in the 
+whirlwind of an ever-increasing government spending and the 
+Fed's battle with interest rates and rising inflation.
+    The sheer amount of money that was pumped into the U.S. 
+economy since 2020, allowed for many banks to bolster their 
+investments and focus them on loans, technology, new branches, 
+and other assets. SVB, for an example, included in its 
+strategy, the massive acquisition of government bonds with 
+longer times of maturity. You talked about this in your 
+testimony. Normally, a bank keeps enough cash on hand for the 
+everyday ebbs and flows of incoming and outgoing deposits. But 
+it is important to highlight that any bank would have 
+tremendous difficulty withstanding a run on deposits the way 
+that these banks experienced.
+    With that, I want to start out with just kind of a premise 
+question. You talked about this. What forces within the bank, 
+with management, contributed to SVB's failures?
+    Mr. Clements, I'll start with you.
+    Mr. Clements. The challenges we saw were with liquidity and 
+risk management. Again, from the documents, from the San 
+Francisco Fed's documents, there were weak liquidity, weak risk 
+management. There were attempts by the bank to resolve the 
+challenges, but they were not successful.
+    Mr. Fry. Mr. Newell, anything to add to that, sir?
+    Mr. Newell. Yes. I think maybe what I would just 
+underscore, again, I think when you try to diagnose what went 
+wrong at SVB, first and foremost, you know, it is a function of 
+the interest rate risk that they took. They had a large 
+portfolio of government securities that, as folks have noted, 
+are very low credit risk but had very high interest rate risk 
+and, therefore, were exposed to serious losses once interest 
+rates increased rapidly, and then, once those losses did occur, 
+undermined public confidence in the bank and then very quickly 
+led to a run of the bank, which was difficult to stem, given 
+the overwhelming reliance on uninsured deposits at the bank.
+    So, I think it is really the combination of those two 
+factors, first and foremost, that was the case here.
+    Mr. Fry. All right. And what forces outside the bank's 
+control, right, so macro forces, regulatory forces contributed 
+to their demise?
+    Mr. Clements?
+    Mr. Clements. As Mr. Newell noted, the rising interest 
+rates had a negative implication for the portfolio. SVB did not 
+hedge that. You know, interest rates have gone up for all 
+banks. Most banks have not failed. SVB did not adequately hedge 
+those risks that it was facing.
+    Mr. Fry. Right. In looking at this, we have heard a lot 
+from the other side that there was no regulations, that people 
+could not oversee what was going on. But the Fed did have the 
+ability to look under the hood, so to speak, of SVB, did they 
+not?
+    Mr. Clements. The supervisory team, once SVB moved to the 
+large and foreign banking organization, was approximately 20 
+individuals. We certainly saw matters requiring attention. 
+Regulators were aware of the problem. You know, our point is 
+that they did not escalate, perhaps, to either in a formal or 
+informal enforcement action in time to address the problems.
+    Mr. Fry. Would you offer the same answer, sir?
+    Mr. Newell. Yes. I mean, I think the thing I would 
+particularly underscore, again, in terms of what the 
+regulators' tools were, because there has been a lot of debate 
+in terms of what the rules were, were any of them changed. Most 
+importantly, we have had, in our U.S. banking law, since 1966, 
+I believe, a core prohibition on engaging in unsafe and unsound 
+practices, along with a corresponding authority of the 
+regulators to order banks to cease and desist from unsafe and 
+unsound practices.
+    I think if you just look at the simple facts and the 
+interest rate risks that accrued at SVB's balance sheet, I 
+think in retrospect, it certainly looks to everyone like an 
+unsafe and unsound practice. So, I think it is unquestionably 
+true that they had that long-standing authority and could have 
+acted, but it just is not in the record.
+    Mr. Fry. Mr. Clements, just real quickly, obviously, there 
+were MRAs and others that were kind of flagged toward the bank. 
+They were given to the bank. At what pace do regulators receive 
+financial monitoring information from banks?
+    Mr. Clements. It will vary by the size of the institution.
+    Mr. Fry. And beyond that, is there anything that can be 
+done----
+    Madam Chair, with that I look like I'm out of time, but I 
+would yield back.
+    Mrs. McClain. Thank you, Mr. Fry.
+    The Chair now recognizes Mr. Burlison for five minutes.
+    Mr. Burlison. Thank you, Madam Chair.
+    We all kind of now know, you know, after the fact, what the 
+reasons for the banks' failures are. It is pretty easy to do 
+Monday morning quarterbacking, right?
+    But my question to you, Mr. Clements, is are there 
+similarities between the failures of Silicon Valley, and what 
+happened at Signature Bank, and at First Republic Bank?
+    Mr. Clements. We looked at detail at both SVB and Signature 
+Bank. I think the problems were similar. In both instances, the 
+regulators identified challenges, had MRIAs, MRAs, MRBAs in the 
+case of FDIC at Signature Bank. The concern was just the 
+escalation, when problems were not being resolved, once a 
+serious risk was identified and not taking enforcement action 
+on a timely and forceful-enough manner.
+    Mr. Burlison. Outside of those banks mentioned, what 
+other--how often do banks fail in the United States?
+    Mr. Clements. It is quite infrequent.
+    Mr. Burlison. Quite infrequent, but it does happen?
+    Mr. Clements. Within prior post-financial crisis, it 
+happens occasionally.
+    Mr. Burlison. And in those times, were the individual bank 
+holders, were they paid above the $250,000 limit? Were they 
+insured beyond that? Did the Fed ensure them beyond?
+    Mr. Clements. We have not done work to look at all of those 
+bank failures. In many instances, the FDIC will resolve an 
+institution to a purchase and assumption, and in that instance 
+the deposits will simply move to the new institution.
+    Mr. Burlison. OK. So, this is--I do not know if you can 
+answer this question. What message do you think this sends, 
+what the actions of the Fed, sends to the small banks across 
+America who pay these fees so that their clients are insured? 
+What message does--the events that happened, what does that 
+send?
+    Mr. Clements. I believe in the instance of SVB and 
+Signature failure, there was a systemic risk exception. So, the 
+FDIC needs to collect those funds through a special assessment. 
+We have not looked at the methodology that the Fed--or I'm 
+sorry--that the FDIC is using to gather that special 
+assessment. It does have the ability to target it to the 
+institutions that would benefit from the systemic risk 
+exception.
+    Mr. Burlison. Thank you.
+    Mr. Newell, during the Fed's postmortem report, it 
+considered all of the relevant factors. They tried to include 
+everything. Was there anything that they did not consider that 
+they should have been including?
+    Mr. Newell. I think if you look across the Fed report, 
+again, consistent with my comments to start, I do not think 
+they really appropriately consider the extent to which 
+examiners focus on processes and governance and issues that did 
+not really go to the sort of core material risk to SVB's 
+financial integrity that were the problem here. I do not think 
+there is a real assessment to the extent to which they were 
+focused in the wrong place.
+    Again, I think if you look across the Fed report, at least 
+the information that we have at this point, and the exam 
+materials, it pretty consistently points out, to me at least, 
+that, generally speaking, they were not identifying the real 
+problems. They were principally focused on other things. And 
+so, I think that is certainly an area that----
+    Mr. Burlison. And what were those other things they were 
+primarily focused on?
+    Mr. Newell. Well, again, I think if you look at the 31 MRAs 
+that existed when SVB failed, that is a good example. Again, 
+only seven of those had anything to do with the liquidity or 
+interest rate risks that really--that led to SVB's failure. 
+They were otherwise focused on information technology. I think 
+there's some BSAML, vendor risk management, trust management. 
+Again, we are not saying that these are areas that are 
+unimportant, but certainly relative to what we now know were 
+very clear interest rate liquidity risks, certainly second-
+order questions.
+    So, again, I think one of the gaps in the Fed Report is the 
+failure to really consider the extent to which that distraction 
+from core safety and soundness in terms of the supervisory 
+activities was part of the problem.
+    Mr. Burlison. OK. Thank you.
+    I yield back.
+    Mrs. McClain. Thank you.
+    I now recognize myself for five minutes.
+    There seems to be a lot of blame and back and forth, the 
+blame game going about what prevented the Fed from doing their 
+job. The Federal Reserve's autopsy lays a lot of blame at 
+Congress' feet because of changes that were enacted to Dodd-
+Frank in 2018.
+    Mr. Newell, can you help me understand what tools the 2018 
+law took actually away from the Fed?
+    Mr. Newell. Sure, I would be happy to do that, particularly 
+as I think there has been a lot of talk about, you know, these 
+enhanced prudential standards that were adjusted in the 2018 
+law, sort of a monolithic animal, when, in fact, it is a 
+toolkit. And the best way to talk about that, maybe, is to talk 
+about what changed in the aftermath of the 2018 law and what 
+did not.
+    Mrs. McClain. But were there any specific tools that said: 
+If you are under $250, you cannot do X?
+    Mr. Newell. No, absolutely not.
+    Mrs. McClain. OK. I just----
+    Mr. Newell. The 2155 was extraordinarily clear in terms of 
+granting the Fed with wide discretion.
+    Mrs. McClain. In fact, am I to understand it correctly, 
+that it moved it from $250, but at $250 it was mandated that 
+you do X. But if you were from $100 to $250, you still had all 
+of the tools in your tool belt, and it was up to you, the 
+regulator, depending on what the report--which from the report 
+I saw was, like, a lot, could have still used those same tools. 
+The regulators just chose not to do it.
+    So, we, technically, did not take away any tools. Am I 
+understanding that correctly?
+    Mr. Newell. Yes, that is exactly right. The----
+    Mrs. McClain. OK. Thank you.
+    Let me just go on.
+    Mr. Newell. Of course.
+    Mrs. McClain. Are there other tools available to the 
+examiners that would have allowed them to see this train wreck 
+coming? So, were there other tools that they could have used?
+    Mr. Newell. Certainly, I would maybe just start by pointing 
+to two. So, first, one of the enhanced prudential standards 
+that was left in place after the 2018 and 2019 changes was a 
+requirement that banks like SVB conduct internal liquidity 
+stress tests, and then the basis of the results of those tests 
+hold a sufficient buffer of liquid assets to survive a 30-day 
+period of stress.
+    As it turns out--and the Fed Report is quite clear--in 
+2022, SVB was running those tests, and they were failing those 
+tests. And sort of one of the----
+    Mrs. McClain. And what did the regulators do?
+    Mr. Newell. The regulators--again, none of the 31 MRAs or 
+MRIAs cite SVB for a violation of, again, that actual hard-
+coded requirement under Regulation YY. And, in fact, the Fed 
+explains the reason that they didn't do that is because they 
+were more focused on the MRAs they had issued the prior year 
+that were focused on, sort of, processes and procedures and 
+policies.
+    Mrs. McClain. So, on top of, right? Because I'm in 
+agreement with you on SVB Bank has a lot of ownership, right?
+    And I think, Ms. Judge, you even said, we need to hold 
+executives accountable. They need to not be able to walk away.
+    I'm actually the weird one that thinks we should actually 
+hold the regulators and the government agencies to the same 
+standards that we hold the businesses to. Yet, my god, we 
+cannot talk about that. And that, I think, lies the 
+frustration.
+    The regulators had the same tools. They just chose not to 
+use them and hide behind the Dodd-Frank rule, right? How about 
+we just do the job that you are getting paid to do.
+    So let me--I have one more question. A simple reading of 
+the Barr report implies Federal examiners felt the former head 
+of supervision wanted them to go lightly on the banks they were 
+charged to oversee.
+    We do not have access to the evidence that supposedly 
+supports this assertion. So, Mr. Newell, is it your opinion 
+that the Fed examiners are hindered from the former Vice 
+Chair's alleged lax regulatory oversight culture?
+    Mr. Newell. Yes. You point to a very interesting and 
+curious part of the Fed Report. It certainly makes that 
+assertion. It does not really support any evidence for that 
+assertion other than, I think, interview notes with some of the 
+staff involved. I think it is one of the things that absolutely 
+merits looking into further. It is sort of one of the places 
+where there are gaps in the Fed Report that could be filled.
+    But, again, I personally think it is very unlikely that 
+some unwritten sort of supervisory vibe for a more lax 
+environment was ultimately the downfall. I think there 
+certainly are unexplained delays and inactions over the 
+supervisory timeline. My suspicion is if one were to further 
+investigate it and do more digging, there are probably 
+alternative, more plausible explanations in terms of 
+dysfunctions within the Federal Reserve System.
+    Mrs. McClain. I appreciate that. I'm running out of time.
+    Mr. Clements, I'll direct my same question to you. Have you 
+observed that the Fed examiners are hindered by the former 
+Chair's allegedly lax regulatory oversight culture?
+    Mr. Clements. We had a single meeting with the Federal 
+Reserve. The issue of culture did not come up.
+    Mrs. McClain. Interesting.
+    With that, the Chair now recognizes Ms. Porter for five 
+minutes.
+    Ms. Porter. I'm going to read from the Federal Reserve's 
+report.
+    It says that SVB FG became subject to liquidity risk 
+management and internal liquidity stress testing requirements 
+that apply to category 4 firms starting in the third quarter of 
+2022.
+    But before that, before the third quarter of 2022, is where 
+the problem really got cooking, right? By the time we were into 
+the third and fourth quarter, and then they have time that they 
+have to comply with these requirements, by then the bank has 
+failed.
+    So, I want to step back and read from earlier. It says--and 
+I'm quoting from the Federal Reserve's report--The changes due 
+to EGRRCPA, which I will call S. 2155, the deregulation of 
+Dodd-Frank, the 2019 tailoring rule which was promulgated by 
+the Federal Reserve, they claim that Congress, quote, ``made 
+them do it,'' but that was up to them, and related rulemakings, 
+which to be clear were also the Fed's decisions, had a 
+significant impact on the level of requirements to which SVB FG 
+was subject in 2018 and beyond.
+    Had these changes not been made to the framework, SVB FG 
+would have been subject to enhanced liquidity risk management 
+requirements, full standardized liquidity requirements, like 
+LCR, enhanced capital requirements, company run stress testing, 
+supervisory stress testing at an earlier date, and tailored 
+resolution claiming requirements.
+    There is, in fact, in this report an entire table, table 
+12--which I would like to introduce into the record, Madam 
+Chair--that lists all of the requirements that they used to be 
+subject to, would have been subject to, and then, were no 
+longer subject to.
+    Ms. Porter. So, it seems to me, while there is no doubt 
+that the Federal Reserve may not have used the tools in the 
+toolkit, it is true that they just made very clear to--or that 
+SVB may not have used all the tools, the Fed told them that 
+they did not need to. The Fed told them, You do not need to 
+look at your LCR, that 70 percent is good enough. You do not 
+need to get to 100.
+    So, my question is, Mr. Clements, why does the Federal 
+Reserve not bear responsibility for not--for creating 
+requirements that led to the bank's failure? I mean, SVB would 
+not have met the LCR ratio, point-blank.
+    Mr. Clements. At this point, we have not looked at the 
+enhanced prudential standards. Again, what I would suggest is 
+that there were problems at the bank with the internal 
+liquidity stress testing that a trigger mechanism would have 
+forced action much quicker.
+    Ms. Porter. Mr. Newell?
+    Mr. Newell. Certainly. So, maybe, let us take a couple of 
+those items each in turn, because I just disagree with the 
+conclusion in the Fed Report that these changes of enhanced 
+prudential standards made a huge difference in the case of SVB.
+    So first, throughout the process, SVB was subject to the 
+requirement that it conduct internal liquidity stress tests, 
+which again, in 2022, it was not in compliance with. So, this 
+was a clear enhanced prudential standard----
+    Ms. Porter. But, Mr. Newell, reclaiming my time. The 
+Federal Reserve Board's own report says that they were not 
+subject to the internal liquidity test.
+    Are you saying the Feds were wrong about the regulation?
+    Mr. Newell. Yes, I do not believe that is the case. I'm 
+reasonably certain that they were----
+    Ms. Porter. I mean, I'm going to read to you from table 12: 
+``Silicon Valley Bank's requirements as a category 4 firm as of 
+March 1, 2023.'' Bullet point: ``No company run stress testing 
+requirement.''
+    Mr. Newell. Yes. So, that refers to the capital stress 
+testing exercise. It is very different than the internal 
+liquidity stress test.
+    Ms. Porter. Great. So, let us take liquidity. No LCR 
+requirement.
+    Mr. Newell. Yes, so that is right. Again, I think you have 
+to look at the enhanced prudential standards under 165 in their 
+totality. There was a liquidity requirement that applied to 
+SVB----
+    Ms. Porter. But it is 70 percent.
+    Mr. Newell. No, no. I'm actually not talking about the LCR. 
+This is an internal liquidity stress testing requirement----
+    Ms. Porter. OK.
+    Mr. Newell [continuing]. That requires the bank to run the 
+test and, after the test, to hold a sufficient buffer of liquid 
+assets to survive a 30-day period of stress. SVB was subject--
+--
+    Ms. Porter. So, did SVB do that?
+    Mr. Newell. They were subject to the requirement. They did 
+that. The results showed that they did not have enough 
+liquidity.
+    So, here we have directly on point an enhanced prudential 
+standard that was left in place about liquidity that SVB 
+remained subject to, did not comply with, and the supervisors 
+did not act.
+    Ms. Porter. OK. So, I just want to wrap up.
+    So, the rules were lousy, the regulators were lousy at 
+enforcing them, and the banks did not step up and take care of 
+it all by themselves. That seems like the takeaway. I do not 
+think it is a choice between these things. I think all three of 
+these things seem true.
+    I yield back.
+    Mrs. McClain. Thank you, Ms. Porter.
+    The Chair now recognizes Mr. Fry for five minutes.
+    Mr. Fry. Thank you, Madam Chair.
+    Round two, we are back at it again.
+    Mr. Newell, I was on this subject before I ran out of time 
+before. But we were talking about liquidity risks and the fact 
+that regulators were not aware until two days prior of the bank 
+ultimately failing. At what pace do regulators receive 
+financial monitoring information from banks?
+    Mr. Newell. Of course, thank you, Congressman.
+    That varies quite widely, depending on the size of the bank 
+and the particular bank involved. Certainly, with larger banks, 
+there are, you know, quarterly reports, monthly reports, in 
+some cases, daily reports. You know, I think I would have to 
+dig in to give you a precise answer in terms of exactly what 
+the cadence of information was in the case of SVB.
+    In addition to that, for a large bank like SVB that was 
+subject to what they called continuous monitoring, which is a 
+dedicated exam team always on the case, you know, there are 
+kind of routinely back-and-forth requests for information. So 
+there typically is a very steady cadence of information and 
+certainly a lot of ability for examiners on an ad hoc basis to 
+request more information.
+    Mr. Fry. Would the existing regulatory framework benefit 
+from real-time monitoring of these issues?
+    Mr. Newell. Certainly, more information and data is always 
+better. You know, I think to give you a fair answer, I would 
+need to think about it a little bit more. I'm happy to do that 
+and work with your office and get back to you. But certainly, 
+you know, more real-time information is better all things 
+equal.
+    Mr. Fry. What actions can regulators take if they identify 
+deficiencies or noncompliance in bank operations?
+    Mr. Newell. Certainly. So, they have a very broad toolkit, 
+and it sort of runs a spectrum of less informal activities to 
+all the way to sort of formal enforcement orders. At one end of 
+the spectrum, you have sort of just informal conversations. 
+Again, exam teams talk with banks all the time, you know, raise 
+issues in conversation all the time.
+    When there is a more serious issue, there is typically an 
+issuance of an MRA or MRIA, which is a sort of examiner 
+directing you, saying you need to fix the following problem by 
+the following date.
+    And then, when concerns are more serious or where there are 
+MRAs or MRIAs that have not been addressed for a long period of 
+time, there is a whole suite of various types of enforcement 
+actions and similar orders that regulators can take to demand 
+action.
+    Mr. Fry. Thank you.
+    Mr. Clements, in the GAO report that you were talking about 
+earlier from March 2023 related to the bank failure, in the 
+review, did you find that regulators failed to escalate 
+supervisory actions at their disposal in time to mitigate SVB's 
+failure?
+    Mr. Clements. That is correct, we certainly found that they 
+identified problems. But given the severity and long-term 
+nature of the problems, we did not think the escalation was 
+adequate.
+    Mr. Fry. Throughout the years, has GAO observed a pattern 
+of issues in supervisory action?
+    Mr. Clements. This pattern goes back to the savings and 
+loan crisis in 1991 of--the supervisors are good at identifying 
+problems. There appears to be a problem of using the full suite 
+of tools and especially the most forceful tools available to 
+them.
+    Mr. Fry. Thank you.
+    And, finally, does FDIC have the proper early warning 
+systems in place to detect high rates of uninsured deposits?
+    Mr. Clements. That I'm not sure. I would need to get back 
+to you on that.
+    Mr. Fry. Mr. Newell, are you aware of that at all?
+    Mr. Newell. I'm not sure about early warning system, but 
+certainly, I think the FDIC has access to lots and lots of data 
+in terms of what the composition of the deposit base in insured 
+banks is. And, you know, to what extent those are insured or 
+not insured, I think those are part of the typical call 
+reports.
+    Mr. Fry. Thank you, Madam Chair. And with that, I yield 
+back.
+    Mrs. McClain. Thank you, Mr. Fry.
+    The Chair now recognizes Ranking Member Porter for her 
+closing statement.
+    Ms. Porter. Thank you, Madam Chairwoman, for addressing 
+recent bank failures in this Subcommittee. This is an 
+incredibly important topic, and I wish I could say that this 
+was my first rodeo with bank failures, but this is actually my 
+third.
+    I hope you won't take it personally, Madam Chairwoman, when 
+I say that I'm tired of talking about what can be done to stop 
+bank failures. Back in 2018, when I was first running for 
+Congress, I publicly warned my future congressional colleagues 
+not to pass S. 2155, a bill that rolled back Dodd-Frank 
+regulations. I knew that deregulation would set our country up 
+for bank failure, and Republicans and too many Democrats didn't 
+listen.
+    When I got to Congress in 2019, I pushed Mr. Powell from 
+the dais to not reduce the regulatory standards, not reduce the 
+testing. And he assured me that, in fact, there was no such 
+reduction in regulatory tests.
+    Now here I am in my third term in Congress, and we have had 
+a string of bank failures, all starting with Silicon Valley 
+Bank. The Fed has affirmed one of the main contributing factors 
+to this failure was the lower supervisory standards that came 
+from passing S. 1255, their 2019 tailoring rule and their 
+related rulemakings. Surprise, surprise. We regulated after the 
+2008 financial crisis. We deregulated with bipartisan support 
+under President Trump, and now we are back at bank failure. 
+What is even worse is that we have too many members in both 
+parties who claim we do not know what to do to break this 
+vicious cycle.
+    I'm glad and grateful that there has been bipartisan 
+agreement that bank supervisors need to do a better job. I 
+might even say do their jobs. That is clear.
+    Bank regulators needed to better manage Silicon Valley 
+Bank's vulnerability and hold their management accountable more 
+quickly. In the future, bank regulators need to be more active 
+supervisors for all banks under their purview. But effective 
+supervision requires both good regulators and good regulations.
+    We do not have the right regulations. First, let us roll 
+back the worst part of the bank lobbyist bill that Congress 
+passed in 2018. Title IV of that law raised the asset threshold 
+at which a bank is considered and regulated as a systemically 
+important financial institution, exempting Silicon Valley Bank 
+and other similarly sized banks from enhanced liquidity and 
+other requirements. Because of the elusive restrictions, when 
+push came to shove, Silicon Valley Bank had not kept enough 
+liquid assets to pay out the dollars being drawn out. If Dodd-
+Frank had been kept intact for banks of this size, Silicon 
+Valley Bank would not have had the choice to choose to 
+prioritize its profits over stability.
+    I do not want to give banks this choice again. I urge all 
+of my colleagues to cosponsor my Secure Viable Banking, SVB 
+Act, and to roll back Title IV of S. 2155.
+    Second, let us stop bank executives from unjustly earning 
+millions in stock sales and bonuses while they mismanage their 
+banks into failure. That is exactly what my bipartisan Failed 
+Bank Executives Clawback Act would do.
+    Again, it is bipartisan, folks. I've got Representatives 
+Spartz, Gallego, Buck, Gluesenkamp Perez leading this bill with 
+me. I think everyone here can identify with at least one of 
+those members. This bill is something we can do now across 
+party lines.
+    Oversight is my bread and butter. It is important to hold 
+regulators to account, and I'm grateful for the Chairwoman's 
+partnership in that regard. But unless we can take what we 
+learn from oversight and translate it into effective policy, 
+regulations will continue to swing with the political tides. 
+Let us put regulations and regulators in place that keep our 
+economy growing and stable.
+    I yield back.
+    Mrs. McClain. Thank you, Ranking Member Porter.
+    I now recognize myself for a closing statement.
+    Thank you all for being here. Thank you for your testimony.
+    Today's hearing was very helpful in the first step in 
+understanding the many failures that led to Silicon Valley 
+Bank's collapse. The executives and the board at Silicon Valley 
+Bank clearly dropped the ball. I do not--I have not heard 
+anyone argue that different. Their incompetence has not been 
+questioned, and the markets have held them accountable.
+    But yet again, Federal bureaucrats fail at their jobs and 
+escape any accountability. What is their consequence to their 
+action? The fact that there have not been any resignations or 
+any firings at the top of the Fed and the FDIC is unfortunate, 
+but it is not surprising for this Administration. I mean, not a 
+single resignation or firing or reprimand. I mean, SVB was, 
+what, number 19? And no one's head is going to roll? Really? 
+Tell me how that would play out in the private sector. It does 
+not.
+    The lack of self-awareness or accountability knows no 
+bounds with this crew, but we were sent to Congress to hold 
+people accountable, especially on this Committee, and that is 
+what we are going to do through our investigations, our future 
+hearings, and our future legislation.
+    In closing, I want to thank our panelists once again for 
+their important testimony today.
+    And without objection, the Members will have five 
+legislative days to submit materials and submit additional 
+written questions for the witnesses, which will be forwarded to 
+the witnesses for their response.
+    If there is no further business, without objection, the 
+Subcommittee stands adjourned.
+    [Whereupon, at 3:42 p.m., the Subcommittee was adjourned.]
+
+                                 
+

@@ -1,0 +1,1977 @@
+
+ - U.S. PUBLIC MARKETS BUILT FOR THE 21ST CENTURY: EXPLORING REFORMS TO MAKE OUR PUBLIC MARKETS ATTRACTIVE FOR SMALL AND EMERGING COMPANIES RAISING CAPITAL
+
+[House Hearing, 118 Congress]
+[From the U.S. Government Publishing Office]
+
+
+
+
+
+
+ 
+                     U.S. PUBLIC MARKETS BUILT FOR
+
+
+                      THE 21ST CENTURY: EXPLORING
+
+
+                       REFORMS TO MAKE OUR PUBLIC
+
+
+                    MARKETS ATTRACTIVE FOR SMALL AND
+
+
+                   EMERGING COMPANIES RAISING CAPITAL
+
+=======================================================================
+
+                                HEARING
+
+                               BEFORE THE
+
+                    SUBCOMMITTEE ON CAPITAL MARKETS
+
+                                 OF THE
+
+                    COMMITTEE ON FINANCIAL SERVICES
+
+                     U.S. HOUSE OF REPRESENTATIVES
+
+                    ONE HUNDRED EIGHTEENTH CONGRESS
+
+                             FIRST SESSION
+
+                               __________
+
+                             MARCH 9, 2023
+
+                               __________
+
+       Printed for the use of the Committee on Financial Services
+
+                            Serial No. 118-8
+                            
+                 [GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]    
+                 
+                 
+                 
+                 
+                          ______
+
+             U.S. GOVERNMENT PUBLISHING OFFICE 
+ 52-363              WASHINGTON : 2023
+    
+                 
+                            
+                            
+
+                 HOUSE COMMITTEE ON FINANCIAL SERVICES
+
+               PATRICK McHENRY, North Carolina, Chairman
+
+FRANK D. LUCAS, Oklahoma             MAXINE WATERS, California, Ranking 
+PETE SESSIONS, Texas                     Member
+BILL POSEY, Florida                  NYDIA M. VELAZQUEZ, New York
+BLAINE LUETKEMEYER, Missouri         BRAD SHERMAN, California
+BILL HUIZENGA, Michigan              GREGORY W. MEEKS, New York
+ANN WAGNER, Missouri                 DAVID SCOTT, Georgia
+ANDY BARR, Kentucky                  STEPHEN F. LYNCH, Massachusetts
+ROGER WILLIAMS, Texas                AL GREEN, Texas
+FRENCH HILL, Arkansas                EMANUEL CLEAVER, Missouri
+TOM EMMER, Minnesota                 JIM A. HIMES, Connecticut
+BARRY LOUDERMILK, Georgia            BILL FOSTER, Illinois
+ALEXANDER X. MOONEY, West Virginia   JOYCE BEATTY, Ohio
+WARREN DAVIDSON, Ohio                JUAN VARGAS, California
+JOHN ROSE, Tennessee                 JOSH GOTTHEIMER, New Jersey
+BRYAN STEIL, Wisconsin               VICENTE GONZALEZ, Texas
+WILLIAM TIMMONS, South Carolina      SEAN CASTEN, Illinois
+RALPH NORMAN, South Carolina         AYANNA PRESSLEY, Massachusetts
+DAN MEUSER, Pennsylvania             STEVEN HORSFORD, Nevada
+SCOTT FITZGERALD, Wisconsin          RASHIDA TLAIB, Michigan
+ANDREW GARBARINO, New York           RITCHIE TORRES, New York
+YOUNG KIM, California                SYLVIA GARCIA, Texas
+BYRON DONALDS, Florida               NIKEMA WILLIAMS, Georgia
+MIKE FLOOD, Nebraska                 WILEY NICKEL, North Carolina
+MIKE LAWLER, New York                BRITTANY PETTERSEN, Colorado
+ZACH NUNN, Iowa
+MONICA DE LA CRUZ, Texas
+ERIN HOUCHIN, Indiana
+ANDY OGLES, Tennessee
+
+                     Matt Hoffmann, Staff Director
+                    Subcommittee on Capital Markets
+
+                    ANN WAGNER, Missouri, Chairwoman
+
+FRANK D. LUCAS, Oklahoma             BRAD SHERMAN, California, Ranking 
+PETE SESSIONS, Texas                     Member
+BILL HUIZENGA, Michigan              GREGORY W. MEEKS, New York
+FRENCH HILL, Arkansas                DAVID SCOTT, Georgia
+TOM EMMER, Minnesota                 JUAN VARGAS, California
+ALEXANDER X. MOONEY, West Virginia   JOSH GOTTHEIMER, New Jersey
+BRYAN STEIL, Wisconsin               VICENTE GONZALEZ, Texas
+DAN MEUSER, Pennsylvania             SEAN CASTEN, Illinois
+ANDREW GARBARINO, New York, Vice     WILEY NICKEL, North Carolina
+    Chairman                         STEPHEN F. LYNCH, Massachusetts
+MIKE LAWLER, New York                EMANUEL CLEAVER, Missouri
+ZACH NUNN, Iowa
+ERIN HOUCHIN, Indiana
+                            C O N T E N T S
+
+                              ----------                              
+                                                                   Page
+Hearing held on:
+    March 9, 2023................................................     1
+Appendix:
+    March 9, 2023................................................    33
+
+                               WITNESSES
+                        Thursday, March 9, 2023
+
+Bowers, Stacey L., Professor of the Practice of Law, University 
+  of Denver Sturm College of Law.................................     8
+Pinedo, Anna T., Partner and Co-Leader of Global Capital Markets, 
+  Mayer Brown LLP................................................     7
+Piwowar, Hon. Michael S., Executive Vice President, MI Finance, 
+  the Milken Institute...........................................     4
+Washer, Susan B., former CEO, Applied Genetic Technologies 
+  Corporation (AGTC).............................................     5
+
+                                APPENDIX
+
+Prepared statements:
+    Bowers, Stacey L.............................................    34
+    Pinedo, Anna T...............................................    48
+    Piwowar, Hon. Michael S......................................    57
+    Washer, Susan B..............................................    69
+
+              Additional Material Submitted for the Record
+
+Huizenga, Hon. Bill:
+    Written statement of the Investment Company Institute (ICI)..    72
+    Letter from the Securities Industry and Financial Markets 
+      Association (SIFMA)........................................    74
+Meuser, Hon. Dan:
+    Written statement of the American Securities Association 
+      (ASA)......................................................    77
+Sessions, Hon. Pete:
+    Written statement of the National Association of 
+      Manufacturers (NAM)........................................    82
+    Written statement of the National Venture Capital Association 
+      (NVCA).....................................................    84
+    Written statement of the U.S. Chamber of Commerce............    88
+Waters, Hon. Maxine:
+    Written statement of the AARP................................    93
+    Written statement of the Healthy Markets Association.........    95
+    Written responses to questions for the record submitted to 
+      Mr. Piwowar, Ms. Washer, Ms. Pinedo, and Ms. Bowers........   100
+
+
+                     U.S. PUBLIC MARKETS BUILT FOR
+
+
+
+                      THE 21ST CENTURY: EXPLORING
+
+
+
+                       REFORMS TO MAKE OUR PUBLIC
+
+
+
+                    MARKETS ATTRACTIVE FOR SMALL AND
+
+
+
+                   EMERGING COMPANIES RAISING CAPITAL
+
+                              ----------                              
+
+
+                        Thursday, March 9, 2023
+
+             U.S. House of Representatives,
+                   Subcommittee on Capital Markets,
+                           Committee on Financial Services,
+                                                   Washington, D.C.
+    The subcommittee met, pursuant to notice, at 10:04 a.m., in 
+room 2128, Rayburn House Office Building, Hon. Ann Wagner 
+[chairwoman of the subcommittee] presiding.
+    Members present: Representatives Wagner, Lucas, Sessions, 
+Huizenga, Hill, Emmer, Mooney, Steil, Meuser, Garbarino, 
+Lawler, Nunn, Houchin; Sherman, Vargas, Gottheimer, Gonzalez, 
+Casten, and Nickel.
+    Ex officio present: Representative Waters.
+    Chairwoman Wagner. The Subcommittee on Capital Markets will 
+come to order.
+    Without objection, the Chair is authorized to declare a 
+recess of the subcommittee at any time.
+    Today's hearing is entitled, ``U.S. Public Markets Built 
+for the 21st Century: Exploring Reforms to Make Our Public 
+Markets Attractive for Small and Emerging Companies Raising 
+Capital.'' I promise you that in the future, we will have much 
+shorter titles.
+    I now recognize myself for 5 minutes to give an opening 
+statement.
+    First of all, I would like to say thank you all for joining 
+us today. The subject of today's hearing couldn't be more 
+important. In a challenging and increasingly-competitive global 
+economy, the strength of our public markets is vital to our 
+long-term national prosperity and the financial well-being of 
+American families. Our public markets have long been recognized 
+as the, ``envy of the world,'' and it is our responsibility as 
+lawmakers on this subcommittee to ensure they continue to 
+thrive. However, the cost of entering our public markets has 
+doubled since the 1990s, and at the same time, the number of 
+publicly-traded companies has drastically decreased.
+    Today, there are fewer companies traded on the Nasdaq and 
+New York Stock Exchange than there were 3 decades ago. In 
+addition, fewer companies are choosing to enter the U.S. public 
+markets through initial public offerings (IPOs). When fewer 
+companies go public, it limits the investment opportunities 
+available to everyday Americans saving for retirement or their 
+children's education. According to a report by Ernst & Young on 
+IPO activity in the U.S., last year was the slowest it has been 
+in over a decade, with the number of IPOs falling by 78 percent 
+and the amount of capital raised in IPOs falling by 94 percent 
+compared with 2021.
+    Equally concerning is that while U.S. IPOs declined to 
+their lowest point in more than a decade, China saw more IPO 
+activity last year than anywhere else in the world. In fact, 
+China accounted for 39 percent of all global IPOs in 2022. The 
+declining number of public companies and slow U.S. IPO activity 
+limits opportunities for everyday investors to invest in the 
+next generation of successful businesses. It also stifles the 
+growth and progress of the U.S. economy, as public markets have 
+been a crucial source of funding for high-growth companies. 
+Additionally, the increasing IPO activity in China underscores 
+the need for urgent action to out-compete global adversaries. 
+Without smart, immediate action, the declining number of public 
+companies will worsen.
+    Most economists predict that high interest rates and 
+inflation will lead to at least a mild recession by the end of 
+the year, which will only further weaken the U.S. IPO market. 
+On top of an already-uncertain economic outlook, the SEC, under 
+Chair Gensler, has neglected its mandate to facilitate capital 
+formation and seems unlikely to take any reasonable measures to 
+strengthen our public markets.
+    Instead, the SEC has proposed a deluge of new rulemakings 
+that will raise costs and discourage companies from raising 
+capital in our public markets. These rulemakings are a solution 
+in search of a problem and fail to adequately consider the 
+compliance costs and the burden to smaller public companies. 
+Rather than put forward policies that will negatively impact 
+our markets and harm investors, the SEC should work with 
+Congress on proposals that encourage growth in our public 
+markets.
+    Nevertheless, I am optimistic that Congress will come 
+together to solve this critical issue. I have seen us do it 
+before when we passed the JOBS Act over 10 years ago under 
+similar circumstances. The blueprint is here. Each of the 13 
+proposals that are being considered here today have the 
+potential to make a significant difference and encourage 
+capital formation in our public markets. I look forward to 
+working with my colleagues in this subcommittee to ensure that 
+our public markets remain the most-attractive in the world.
+    The Chair is now happy to recognize the ranking member of 
+the subcommittee, the gentleman from California, Mr. Sherman, 
+for 5 minutes for an opening statement.
+    Mr. Sherman. Madam Chairwoman, thank you for holding a 
+series of three hearings focused on getting small businesses 
+the capital they need. There are two things we ought to be 
+doing that are outside the jurisdiction of the subcommittee: 
+one, allowing credit unions to make more business loans by 
+raising the cap; and two, allowing banks to make some loans at 
+prime plus three, or prime plus four without the bank examiners 
+regarding that loan as worthless. But there is one proposal 
+that is on the agenda to be considered at this hearing, and 
+that is the Access to Small Business Investor Capital Act, 
+which I, along with Mr. Huizenga, have put forward. We had 21 
+co-sponsors last year, and this will allow BDCs to provide an 
+awful lot more capital to our small businesses by making sure 
+that they are included in the indexes and mutual funds without 
+discrimination.
+    We are told that there aren't enough companies going 
+public. Part of that is because we made it so easy for them to 
+stay private with the JOBS Act of 2012. We are told that the 
+costs of going public have doubled since 1992. Madam 
+Chairwoman, you cited that statistic, but I haven't been able 
+to figure out whether that statistics has been adjusted for 
+inflation. Everything has doubled since 1992 in nominal terms. 
+The investors want investor protection. All over the world, 
+people send their money to New York and sometimes to London to 
+seek investments in a regulated market. They don't send their 
+money to Tonga. In Tonga, every company could offer anything, 
+no register, no costs, zero. Yes, there it is. Do you know why 
+companies don't go to Tonga to raise capital? Because investors 
+don't want to invest capital in Tonga.
+    I have been here on this committee for 27 years. Soon after 
+I got here, we experienced the big catastrophes, the big 
+frauds. The giant ones were here in the United States: Enron; 
+and WorldCom. More recently, we have cleaned that up, and the 
+big frauds have been Luckin Coffee in China, and FTX. I want to 
+give a shout-out to some of the bros in the crypto world who 
+sent their money to the Bahamas and now blame Gary Gensler for 
+not protecting them. We can only protect investors who invest 
+in the United States.
+    Some would describe it as lowering the barriers. Others 
+would talk about weakening the protection. The fact is that we 
+need the best blend of protection on the one hand, and access 
+to capital investment opportunities on the other. There are 
+those who say we should allow public light, that is to say more 
+and more companies that can be public companies without the 
+internal control audits. I will just point out that WorldCom 
+and Enron stand as reasons why we need those internal control 
+audits. They were enacted as part of the Sarbanes-Oxley Act, 
+and we see Mr. Oxley's picture smiling down upon us, a 
+Republican Chair of this Committee, who recognized that we need 
+internal control audits for our bigger companies.
+    Staying private is another option. There are over 1,000 
+unicorns, that is, billion-dollar companies with many 
+shareholders, but not publicly registered. They can have up to 
+2,000 shareholders. That is a big number, but what makes it a 
+giant number is our method of counting up to 2,000, where if 
+you have all of the investors of Merrill Lynch who invest in a 
+company, they are counted as one if the security is held in 
+street name, which is typically how it is done. Unfortunately, 
+one of the bills that we are considering today would prohibit 
+the SEC from rationalizing how we count the number of 
+investors. There are new disclosures that I think are important 
+for public companies to make, such as ESG. But in ESG, I see a 
+need for Scope 1 and Scope 2. If you still have to go to Scope 
+3 and even scope 4, you are probably a bridge too far.
+    And finally, I hope my colleagues will join with me in 
+introducing legislation so that our big public companies 
+identify their China risk. As a former Chair of the Asia 
+Subcommittee, I will simply point to the recent statements of 
+the Chinese foreign minister. He thinks we are headed toward a 
+breakdown in the business relationship. So, investors should 
+want to know if the companies they invest in are resilient, 
+and, more importantly, if our nation will want to prod our big 
+companies into competing for capital by creating a more-
+resilient company that can survive, if necessary_and I hope it 
+is not necessary_an interruption in the U.S.-China economic 
+relationship. I yield back.
+    Chairwoman Wagner. Thank you. We now welcome the testimony 
+of our witnesses.
+    First, the Honorable Michael Piwowar. Mr. Piwowar is the 
+Executive Vice President of the Milken Institute. He previously 
+served as a Commissioner at the SEC and was designated acting 
+Chairman of the Commission in 2017. He also served as the 
+Republican Chief Economist for the U.S. Senate Committee on 
+Banking, Housing, and Urban Affairs on the four SEC-related 
+titles of the Dodd-Frank Act and the JOBS Act.
+    Second, Sue Washer. Ms. Washer is a former CEO of Applied 
+Genetic Technologies Corporation (AGTC), a biotechnology firm 
+that develops genetic therapies for rare inherited conditions. 
+She has extensive experience in pharmaceutical management and 
+research and took AGTC public as an emerging growth company in 
+2013.
+    Third, Anna Pinedo. Ms. Pinedo is a partner in Mayer 
+Brown's New York office and co-leader of the Global Capital 
+Markets Practice. She specializes in securities and 
+derivatives, and has co-authored several leading capital market 
+treatises, including the JOBS Act QuickStart, and has been 
+involved in drafting American Bar Association comment letters 
+on securities offering reform and other matters.
+    Fourth, Stacey Bowers. Professor Bowers is a professor of 
+the practice of law at the University of Denver Sturm College 
+of Law, specializing in corporate law, and has been teaching 
+there since 2002. She has 15 years of experience in corporate 
+and securities law, including working at the U.S. Securities 
+and Exchange Commission, and holds a JD/BS in accounting, and 
+an MLIS and a Ph.D. in curriculum and instruction.
+    I want to thank each and every one of you for taking the 
+time to be here. Each of you will be recognized for 5 minutes 
+to give an oral presentation of your testimony.
+    And without objection, each of your written statements will 
+be made a part of the record.
+    Mr. Piwowar, you are now recognized for 5 minutes for your 
+oral remarks.
+
+ STATEMENT OF THE HONORABLE MICHAEL S. PIWOWAR, EXECUTIVE VICE 
+          PRESIDENT, MI FINANCE, THE MILKEN INSTITUTE
+
+    Mr. Piwowar. Good morning. Thank you, Chairwoman Wagner, 
+Ranking Member Sherman, and members of the subcommittee for 
+inviting me to testify here today. My name is Mike Piwowar, and 
+I am the Executive Vice President of MI Finance at the Milken 
+Institute.
+    Chairwoman Wagner, in your opening statement, you said the 
+JOBS Act provides a blueprint as this subcommittee looks at 
+additional ways to improve access to capital. I couldn't agree 
+more. And as you mentioned, I had the pleasure of serving as 
+Chief Economist on the Senate Banking Committee during the 
+passage of the JOBS Act, the overwhelmingly bipartisan JOBS Act 
+of 2012. After that, I served as Commissioner and acting 
+Chairman of the Securities and Exchange Commission as we 
+implemented rules required by specific provisions in the JOBS 
+Act. In both of those roles, I saw firsthand how the JOBS Act 
+improved access to capital and job creation by small businesses 
+in the United States. I also saw how it helped refocus the SEC 
+on the important third part of its mission, promoting capital 
+formation, so that capital markets work as intended and work 
+for everyone.
+    As this subcommittee explores reforms for making our public 
+markets more attractive for small and emerging companies 
+raising capital, I believe there is a great opportunity to 
+build on the success of the JOBS Act, particularly Title I. 
+Accordingly, my written testimony contains the following: a 
+background on the JOBS Act; recommendations for building on the 
+success of Title I of the JOBS Act; and recommendations for 
+improving equitable opportunities for investments in small and 
+emerging companies. I am happy to provide more information on 
+my recommendations and give my views on the various bills that 
+are included in today's hearing.
+    The U.S capital markets are the deepest, most liquid, and 
+most transparent in the world. They are the most efficient at 
+allocating capital by hardworking and saving Americans who are 
+saving for lifetime financial security and allocating that 
+capital to job-creating entrepreneurs, but we cannot take our 
+capital markets for granted. Hearings like this one help ensure 
+that American capital markets continue to run smoothly and, 
+Chairwoman Wagner, as you mentioned, remain the envy of the 
+world. These efforts will also support this subcommittee's 
+oversight role of the SEC by again refocusing the SEC on the 
+third part of its noble mission: promoting capital formation.
+    Chairwoman Wagner, thank you again for bringing attention 
+to reforms critical to ensuring that our public capital markets 
+work for every American. And thank you again for the 
+opportunity to testify here today, and I am happy to answer any 
+questions you may have.
+    [The prepared statement of Mr. Piwowar can be found on page 
+57 of the appendix.]
+    Chairwoman Wagner. Thank you, Mr. Piwowar. Ms. Washer, you 
+are now recognized for 5 minutes to give your oral remarks.
+
+   STATEMENT OF SUSAN B. WASHER, FORMER CEO, APPLIED GENETIC 
+                TECHNOLOGIES CORPORATION (AGTC)
+
+    Ms. Washer. Good morning, and thank you, Chairwoman Wagner, 
+for the opportunity to speak here today. As you mentioned, I 
+have developed a broad career with diverse experience in the 
+pharmaceutical industry, extensive corporate startup 
+experience, and significant community and industry association 
+leadership. At Applied Genetic Technologies, or AGTC, I secured 
+private and public investments of over $300 million, negotiated 
+and closed 2 major collaborations with top biotech companies, 
+resulting in an additional $160 million of cash inflows, and 
+led the company in efficiently completing numerous critical 
+scientific milestones, which culminated in the successful sale 
+of the company in November 2022.
+    Technical innovation is critical to the development of new 
+treatments for human disease, improved industrial practices, 
+and efficient agriculture. And access to capital is 
+exceptionally important due to the high costs of development, a 
+median of $980 million, and timelines as long as 12 years from 
+discovery to implementation in the market. Development is also 
+very risky, with only 8 to 10 percent of discovery-phase 
+products making it to the market. So broad, appropriate, and 
+geographically-widespread access to the public capital markets 
+needs to be maintained. The JOBS Act paved the way for smaller, 
+more geographically-dispersed, and diverse innovative companies 
+to access public markets in order to fund full development of 
+new products in biotechnology.
+    The recent constriction of the biotech markets, which 
+Chairwoman Wagner discussed, shows that the provisions of the 
+JOBS Act remain vital, especially for smaller innovative 
+companies in areas outside of New York, Massachusetts, and 
+California. Problems of access to capital are further 
+compounded for minority- and women-led companies. Seventy-eight 
+percent of entrepreneurs say access to capital is limiting the 
+growth of their business and the development of new 
+technologies. The flexibility afforded by the rules for small 
+and emerging growth companies, including exemptions, scaling, 
+and phase-ins for new requirements where appropriate, does 
+allow smaller companies to build their business and balance the 
+needs of the company with the needs of the investors while 
+promoting strong and effective U.S. public markets.
+    Smaller companies do not usually have the same immediate 
+and ongoing access to investors as do established entities. The 
+JOBS Act allowed AGTC to spend several months meeting with 
+multiple investors, which we believe helps investors as well as 
+companies. Further, the ability to phase in the more extensive 
+reporting and internal accounting procedures meant we were able 
+to spend more of our funds on product development.
+    A study by PricewaterhouseCoopers (PwC) says that the cost 
+of going public for smaller companies is up to $16 million, and 
+ongoing compliance costs are approximately $1.4 million, which 
+has recently increased by 27 percent. A lack of access to JOBS 
+Act provisions would only increase these numbers, and extending 
+the emerging growth company exemptions for another 5 years 
+would enhance capital utilization.
+    Even after a small company is public, staying public and 
+having ongoing access to capital can be challenging. From 1982 
+to June 2022, the number of small, listed companies drastically 
+declined from 4,144 to 1,587. Smaller companies have less 
+research coverage, poor access to meeting with investors, and 
+are more adversely affected by market downturns as investors 
+and research analysts focus their attention on the larger 
+monetary holdings. Legislators and regulators should continue 
+to recognize these differences when reviewing laws and 
+regulations in order to not take on a one-size-fits-all 
+approach.
+    In life sciences, the vast majority of small companies do 
+not become ready for the public capital markets without 
+substantial prior access to private funds, including seed 
+funding and venture capital. Therefore, it remains important to 
+promote a diverse ecosystem of investors, including support of 
+small, regional, and local funds, support of diversified pooled 
+investors, and a, ``do no harm,'' approach to any changes in 
+the current Reg D rules.
+    In conclusion, I believe that technology innovation is 
+important to the U.S. economy and its citizens' well-being, and 
+a broad and diverse ecosystem of capital markets is important 
+to the success of small innovative companies. Thank you.
+    [The prepared statement of Ms. Washer can be found on page 
+69 of the appendix.]
+    Chairwoman Wagner. Thank you very much, Ms. Washer. Ms. 
+Pinedo, you are now recognized for 5 minutes to give your oral 
+remarks.
+
+ STATEMENT OF ANNA T. PINEDO, PARTNER AND CO-LEADER OF GLOBAL 
+                CAPITAL MARKETS, MAYER BROWN LLP
+
+    Ms. Pinedo. Thank you. Chairwoman Wagner, Ranking Member 
+Sherman, members of the subcommittee, thank you very much for 
+inviting me to appear before you today. I have been a 
+securities lawyer for 30 years now, and I am a partner at Mayer 
+Brown in New York. My comments today are my views alone and not 
+those of the firm nor attributable to any client. I work with 
+private and public companies of all sizes, including 
+entrepreneurial companies as well as some of the largest 
+companies in the world, and I represent them in connection with 
+private placements, and public offerings, including IPOs, as 
+well as a variety of securities offerings, including complex 
+offerings.
+    Over the time that I have been practicing in the last 30 
+years, I have witnessed a dramatic change in the capital 
+markets. It was once the case that the capital-raising 
+trajectory for companies was very predictable. Entrepreneurial 
+companies raised money from friends, family, and angel 
+investors, and if they were successful, they went on to raise 
+money from venture investors. Entrepreneurs really aspired to 
+take their companies through an IPO. While the private markets 
+provided significant capital for growth, a company that really 
+wanted to succeed and wanted to raise capital did so through an 
+IPO. That is no longer the case.
+    While an IPO was once a signifier of success and an 
+important milestone for a company, most companies that pursue 
+IPOs now have other reasons for doing so, usually providing 
+liquidity for existing security holders. There used to be an 
+ecosystem, when I began practicing and for many years 
+thereafter, that supported smaller and medium-sized companies, 
+and that ecosystem included equity research analysts, coverage, 
+market makers, and institutional investors, all of whom 
+provided coverage and market-making in the secondary market.
+    As Chairwoman Wagner noted in the opening remarks, if you 
+look back at IPO statistics, you will see that there were a 
+significant number of IPOs and IPOs of smaller and medium-sized 
+companies in the 1990s and the early 2000s. We can't deny that 
+the market has changed. Exempting hybrid offerings has become 
+far more commonplace as the private markets have grown, and 
+that is largely due to the proliferation of private capital 
+sources. The shift away from IPOs and the shift away from the 
+public markets can also be attributed to an increase in 
+regulation from the Sarbanes-Oxley Act, and from the Dodd-Frank 
+Act, among other things.
+    As a result, again, as the chairwoman noted in her opening 
+remarks, there are significantly fewer public companies today 
+than in 2021. In 2021, we had 4,071 U.S. public companies 
+compared to 4,071 U.S. public companies in 1997. It is also 
+notable that the companies that are going public today are 
+significantly larger when they approach our public markets now. 
+For years now, reliance on private funding or the otherwise 
+exempt markets has outpaced reliance on SEC-registered 
+offerings. I think it is important to state that there is 
+nothing inherently wrong with having vibrant public markets, 
+and there is also nothing inherently wrong with fostering the 
+private markets.
+    Smaller and medium-sized companies would certainly benefit 
+from better access to the public markets and should benefit 
+from being public companies once they do undertake IPOs. 
+Although, companies should have the opportunity to stay 
+private. They should have the opportunity as well to go public 
+once they mature.
+    The way to increase the attractiveness of our public 
+markets is not by imposing regulation designed for public 
+companies on the private markets. That is only going to shrink 
+the size of our private markets and impede the ability of 
+smaller and medium-sized companies to obtain critical 
+financing, as Sue Washer pointed out. Instead, we need reforms 
+that tailor public company regulation to the circumstances of 
+smaller companies.
+    Smaller companies face a number of impediments not faced by 
+larger, more-established companies. That includes 
+disproportionately high regulatory costs, limited equity 
+research coverage, lack of liquidity in the market for their 
+securities, a significantly higher cost of capital, and limited 
+financing alternatives, even once they are public. All of these 
+things have to be addressed.
+    The bills proposed today for the subcommittee's 
+consideration help address many of these problems and would 
+strengthen the public markets. Perhaps most important among 
+today's bills is the extension of the well-known seasoned 
+issuer (WKSI) status to a broader array of seasoned issuers. 
+This would facilitate capital formation in the public markets. 
+And it would significantly reduce the cost of capital for 
+issuers.
+    Several bills would build on the success of the JOBS Act, 
+and these are particularly important because the JOBS Act has 
+been one of our most successful experiments. Today's proposed 
+measures are a step in the right direction. I thank you for the 
+opportunity to appear before the subcommittee, and I would be 
+happy to answer any questions you may have.
+    [The prepared statement of Ms. Pinedo can be found on page 
+48 of the appendix.]
+    Chairwoman Wagner. Thank you, Ms. Pinedo. Professor Bowers, 
+you are now recognized for 5 minutes to give your oral remarks.
+
+  STATEMENT OF STACEY L. BOWERS, PROFESSOR OF THE PRACTICE OF 
+         LAW, UNIVERSITY OF DENVER STURM COLLEGE OF LAW
+
+    Ms. Bowers. Chairwoman Wagner, Ranking Member Sherman, and 
+members of the subcommittee, thank you for the opportunity to 
+speak with you today. As Chairwoman Wagner noted, I am a law 
+professor at the University of Denver, but I am also of counsel 
+at a small law firm where I help companies and their executives 
+seeking to raise capital. I speak as both an academic and as a 
+practitioner who represents firms in the private capital 
+markets.
+    While we all know that strong capital markets are the 
+bedrock of a healthy economy, few seem to recognize that they 
+are also the product of Federal securities laws designed to 
+ensure that all investors have the information needed to make 
+informed decisions. But the securities laws are not just about 
+protecting investors. They are also about ensuring that 
+capitalism works. They are about preventing another Great 
+Depression or market meltdown. Disclosures and corporate 
+accountability are essential for that.
+    The securities laws intended to and initially did make the 
+public markets the primary method that companies used to raise 
+capital. As the number of public companies exploded, the U.S. 
+became the dominant market, attracting companies and investors 
+from around the world. Private offerings were relatively 
+limited, and the market was small. That is no longer the case. 
+Today, after decades of deregulation, coupled with the 
+expansion of exemptions from registration, the vast majority of 
+capital raised in the U.S. is through the private markets. Some 
+have claimed that this dramatic shift is because public 
+companies are overburdened with disclosures and accountability 
+requirements.
+    The proposed legislation being considered today is aimed at 
+generally reducing those requirements, ostensibly with a goal 
+of enticing more companies to go public. However, past efforts 
+along these lines have failed, and these will likely fail, too. 
+Not one of the bills noticed today would entice my clients to 
+forego a private offering for a public offering when they can 
+raise from hundreds or thousands of investors with limited 
+requirements. You can't lower the public company disclosures 
+and accountability enough to compete with that. Restoring the 
+public markets should focus on investors, the ones who are 
+providing the capital and the ones that the Federal securities 
+laws were meant to inform and protect.
+    Not only will the bills proposed today fail to spur more 
+public companies, they will also reduce investor confidence, 
+interest, and trust in our struggling capital markets. 
+Lessening the information investors have and its reliability 
+simply increases their risks and potentially makes them less 
+likely to invest. Investors around the world are increasingly 
+demanding more information and transparency, not less. China 
+has recently strengthened its disclosure requirements and 
+appears to be seeing results as a result of doing so.
+    We should not overlook market returns, particularly for 
+newer companies. The returns for these companies have been 
+dismal for years. Approximately 25 percent of the companies 
+that undertook a public offering in 2020 and 2021 trade at less 
+than $2 per share, putting them at risk of delisting. That is 
+potentially billions of dollars in losses for investors. The 
+beneficiaries of reducing disclosures and transparency are 
+certainly not the investors who funneled their precious savings 
+into public companies. It appears that the true beneficiaries 
+will be the companies that take advantage of the reduced 
+disclosure scheme, potentially wasting investors' capital, 
+capital that could have funded better and more-diverse 
+businesses.
+    If the goal is to revitalize the public markets and entice 
+more companies to participate, this committee should consider 
+other avenues of change. One idea would be to raise the bar for 
+companies in the private markets. Good companies will not go 
+public if they can raise the capital they need without facing 
+significant disclosure or accountability. The committee should 
+consider requiring public companies to provide basic 
+disclosures, at a minimum.
+    Separately, the path for companies into the public markets 
+is not perfect. One potential area to address would be 
+underwriters and their long-term practice of charging issuers 
+unreasonable fees as high as 7 percent of their overall deal 
+size. That is a huge cost to any small company.
+    In sum, restoring the public markets is not just about 
+lowering burdens on issuers. It is about making the markets 
+more attractive to both issuers and investors. That requires 
+improving access to information, not removing it. The 
+legislation and other efforts designed to reduce accountability 
+will be unlikely to entice my clients to undertake a public 
+offering. However, it will further undermine the standing of 
+the U.S. as the primary capital market in the world for both 
+companies and investors. The proposed legislation lowers 
+transparency at the same time that other countries around the 
+world are recognizing its importance.
+    Thank you for the opportunity to speak, and I look forward 
+to your questions.
+    [The prepared statement of Professor Bowers can be found on 
+page 34 of the appendix.]
+    Chairwoman Wagner. Thank you, Professor Bowers. We will now 
+turn to Member questions, and I will recognize myself for 5 
+minutes for questioning.
+    Mr. Piwowar, last year, the U.S. IPO market reached one of 
+its lowest points on record. According to a report by PwC, 
+there were only 93 traditional U.S. IPOs in 2022, of which only 
+19 raised more than $100 million. Without appropriate action, a 
+combination of economic factors such as inflation, high 
+interest rates, and a likely recession, on top of increased 
+costs to comply with an onslaught of new SEC rules, suggest 
+another slow year for IPOs in 2023.
+    Democrats and SEC Chair Gensler are almost certainly aware 
+of this problem. In December, even Fortune Magazine stated in 
+the title of an article that, ``The IPO drought will see little 
+relief in 2023.'' However, Chair Gensler's solution is to force 
+companies into public markets either by making private markets 
+less attractive or revising the definition of securities, 
+``held of record.''
+    Mr. Piwowar, as an economist and former SEC Commissioner, 
+can you please explain the problem with Chair Gensler's 
+approach and why we should instead focus on making our public 
+markets more attractive?
+    Mr. Piwowar. Thank you, Chairwoman Wagner, for that 
+question. You mentioned the onslaught of rules that the SEC is 
+trying to move forward. I am fond of what is called the, 
+``pebbles in the stream'' analogy. If you think of capital 
+flowing in our capital markets as a stream, and you start 
+throwing pebbles into that stream, if you start adding burdens, 
+any single pebble is not going to stop the flow of capital 
+flowing, but over time, if you have enough of those, it can 
+actually stop the public capital markets from working as 
+intended. And then, when you look back, you can't look back and 
+say that any one particular pebble was the one that actually 
+stopped the capital markets or made them less enticing. It is 
+actually the accumulation of all of those.
+    The SEC, even with its best efforts on any particular 
+rulemaking, does cost-benefit analysis on each one of their 
+rules, but there is no mechanism for them to look at the 
+cumulative effect of all of those rules. And that is why I 
+think it is important for this subcommittee, in particular, to 
+look at those cumulative effects and take that into account, 
+and help the SEC rebalance its focus on capital formation.
+    Chairwoman Wagner. Thank you. Ms. Pinedo, a lot of the 
+policies considered today are modest, incremental improvements 
+to existing law that when taken together, would have a 
+significant positive impact on our public markets, removing 
+some of those pebbles. Can you explain how some of the policies 
+considered today work together to facilitate capital formation 
+without compromising investor protection in our public markets?
+    Ms. Pinedo. Yes, I would be happy to. I think it would be 
+incorrect to say that the measures that are being considered 
+today would be deregulatory or would reduce the type of 
+information that is available to investors. I think that is 
+important to clarify because some of the statements that were 
+made earlier might suggest that investors might receive less 
+information, and that is not correct.
+    Today's bills codify some measures that the SEC already has 
+adopted. The SEC, for example, in 2017 extended the ability of 
+issuers to submit registration statements on a confidential 
+basis for IPOs and follow-on offerings. In 2019, the SEC made 
+it possible for issuers, through Rule 163B, to conduct test-
+the-waters conversations with institutional investors. Today's 
+bills would codify those measures, and that is important 
+because it would provide certainty to market participants. 
+Providing that certainty to all market participants is 
+important. It doesn't reduce the mix of information that is 
+available to investors.
+    Chairwoman Wagner. Thank you very much. Ms. Washer, from 
+your experience as a former CEO of an emerging growth company, 
+can you provide any real-world examples showing how companies 
+may benefit from testing-the-waters communications?
+    Ms. Washer. Yes. Thank you for the question, Chairwoman 
+Wagner. I think the testing-of-the-waters process is critically 
+important, especially to companies in the high-tech world where 
+our new technologies are very complex. Having the ability over 
+a long period of time to have one-on-one meetings with 
+institutional investors and really walk through and educate 
+them about our technologies and about the products we are 
+developing is critical to their understanding and their 
+decision-making as to whether or not to invest in the company. 
+And I think it is actually beneficial to the investors.
+    Chairwoman Wagner. Thank you very, very much. The Chair now 
+recognizes the ranking member of the full Financial Services 
+Committee, the gentlewoman from California, Ms. Waters, for 5 
+minutes.
+    Ms. Waters. Thank you very much, but before I begin my 
+questions, I ask for unanimous consent to enter into the record 
+three letters expressing various levels of concerns about the 
+bills posted for today's hearing. These letters are from AARP, 
+the Consumer Federation of America, and Public Citizen.
+    Chairwoman Wagner. Without objection, it is so ordered.
+    Ms. Waters. Thank you very much. I would like to direct my 
+question to Professor Bowers. Your testimony discusses the 
+dangers of misallocation of capital. This is when investors 
+make poorly-informed decisions in the absence of robust 
+disclosures to invest their hard-earned savings and investment 
+into companies that have little prospect of generating returns 
+on that capital, ultimately wasting their hard-earned money. 
+Your testimony also explains that deregulating our public 
+markets and reducing disclosures may drive U.S. investors to 
+companies or countries that have stronger disclosure regimes. 
+Could you please illustrate those two themes for us now?
+    Ms. Bowers. Thank you for that question, Ranking Member 
+Waters. As we continue to deregulate, we provide less 
+disclosure to investors, and they bear the brunt of that. They 
+need that information in order to make investment decisions 
+because they are the ones who have the potential to lose the 
+money. In order for them to feel comfortable and deploy that 
+hard-earned money, they need to trust what a company is telling 
+them. They need to feel secure that they are getting all of the 
+material information, that the financial statements are 
+audited, that they are reliable.
+    One thing that concerns me is that emerging growth 
+companies don't have to have an auditor attestation report on 
+their internal controls. Internal controls help to detect and 
+prevent fraud. Without that attestation, investors' money is 
+more at risk.
+    In regard to your second question about investors going 
+elsewhere, I think it ties together. If investors can't trust 
+the information that is out there and trust that the U.S. 
+markets are being transparent, they are likely to take their 
+funding elsewhere or to put it into safer avenues. While the 
+United States is currently looking at reducing levels of 
+transparency, other countries are increasing it, and I fear 
+that investors may take that into account when they make their 
+investments.
+    Ms. Waters. Why do companies choose to go public? 
+Republicans argue that the current rules in place for entering 
+the public markets limit the number of companies that go 
+public. However, according to the Council of Institutional 
+Investors, a trade association for pension funds, ``The number 
+of U.S. IPOs has little to do with overregulation, and the U.S. 
+capital market for emerging companies is vibrant.'' They 
+explain that new companies today are less reliant on public 
+markets due to other, more-attractive sources of capital 
+contained in the private markets. Do you agree with that?
+    Ms. Bowers. Thank you for that question. Yes, I do agree 
+with that. I think that the private markets have very few 
+regulations. They are very easy to enter. There is little 
+barrier of entry, and I think many companies choose to raise 
+their capital in the private markets for those reasons. I agree 
+that the JOBS Act increasing capital for small businesses was a 
+great idea, but that is now being abused. It is being abused by 
+institutional investors. It is being abused by venture capital 
+firms. Companies can go into the private markets, and they can 
+raise millions and billions of dollars from thousands of 
+investors, and yet have no accountability or disclosure 
+requirements. It is hard for us to compete with that. I am not 
+sure the public markets can compete against no disclosure and 
+very little accountability.
+    Ms. Waters. I agree with you. That was a bipartisan effort, 
+and now, I am very concerned with how you just described it. 
+Why is less disclosure bad for ordinary investors?
+    Ms. Bowers. I'm sorry. Excuse me, ma'am?
+    Ms. Waters. Why is less disclosure bad for ordinary 
+investors?
+    Ms. Bowers. Yes, thank you for that question. Ordinary 
+investors or retail investors don't have the same power as 
+institutional investors, particularly in the private markets. 
+The large investors are the companies, They have the ear of the 
+founders of the companies that are raising money. They often 
+negotiate better deals for themselves. The retail or the small 
+investor doesn't have that opportunity in the private markets. 
+So, what they really need is public markets where they can have 
+access to that particular information to be able to make 
+informed decisions. In reality, the private markets really 
+discount the retail investor, and their choice is to look to 
+the public markets.
+    Ms. Waters. So based on your testimony, you would agree 
+that for both retail and institutional investors, decreasing 
+security disclosures increases the risk of fraud as opposed to 
+investors?
+    Ms. Bowers. Absolutely. Reducing disclosures takes 
+information out of investors' hands, no matter who they are, 
+and increases the ability for there to be fraud. Thank you.
+    Ms. Waters. Thank you very much for your testimony here 
+today, and I yield back the balance of my time.
+    Chairwoman Wagner. The Chair now recognizes the gentleman 
+from Wisconsin, Mr. Steil for 5 minutes.
+    Mr. Steil. I always appreciate the true Luxembourgish 
+pronunciation of the name, Former Ambassador Wagner. Thank you 
+very much.
+    This is a really important topic, and I want to kind of 
+buzz through a handful of questions, because getting this right 
+for our U.S. capital markets is so absolutely important. So, 
+let us do a quick stage setting if I can with you, Mr. Piwowar. 
+We look back to the JOBS Act that created emerging growth 
+companies to give small companies or smaller companies an 
+ability to kind of navigate a regulatory framework. Could you 
+stage set very briefly why that was done, what was it intended 
+to solve, and is it working, in a short amount of time?
+    Mr. Piwowar. Sure, just very quickly, right. As we know, 
+companies going public face an incredible set of new burdens 
+that they have, regulatory legal burdens, and the costs were 
+quite high. So if the costs were here for a private company, 
+they immediately went up here for a public company. The intent 
+of Title I, and it has worked out to be that, is to provide an 
+onramp, so you have scaled disclosures until the companies can 
+get big enough to incur those fixed costs.
+    Mr. Steil. Do you think it is working or not working?
+    Mr. Piwowar. I absolutely think it is working. And if I 
+may, to address a concern that Professor Bowers mentioned that 
+somehow less disclosures could harm investors, I am a former 
+academic myself and I used to think about theoretical harms, 
+but I was also, as I mentioned, at the SEC for 5 years. I voted 
+on 3,458 enforcement actions, and not one of them involved any 
+particular company that was harming investors specifically 
+caused by Title I of the JOBS Act.
+    Mr. Steil. Thank you. Let me jump to Ms. Washer. One of the 
+questions then becomes, if it is working well, as Mr. Piwowar 
+states, and as I believe it is, what are the challenges? Are 
+companies falling out of this status too soon? Yes or no, and 
+maybe a couple of comments on it?
+    Ms. Washer. Yes, thank you for the question. And my answer 
+would be we are falling out too soon, especially in the 
+biotechnology space, where companies take up to 12 years, as I 
+stated, to reach revenue and to have a product approved. And I 
+think that we would benefit from raising that hurdle because 
+since the JOBS Act was enacted, companies have actually gotten 
+larger just due to inflation, so just indexing that to current 
+time would be helpful.
+    Mr. Steil. Ms. Pinedo, do you want to comment on that as 
+well?
+    Ms. Pinedo. Yes. I think the part of the JOBS Act emerging 
+growth compqny (EGC) definition that has the 5-year time 
+period_the 5-year time period is arbitrary. And so, among the 
+bills that you have for consideration today is one that would 
+allow companies to remain EGCs if they remain low revenue, if 
+they fit the other prongs of the EGC definition, regardless of 
+the 5-year period, to Sue's point. And I think that is 
+important because, to Mike's earlier comment, the whole 
+objective of the JOBS Act was right-sizing regulation. Five 
+years is arbitrary. Companies should face regulation when they 
+are prepared to undertake the costs of regulation, and we are 
+not deregulating anything. They are providing the same 
+disclosures that we have gotten accustomed to since 2012. The 
+investors are not receiving less or lower-quality disclosures.
+    Mr. Steil. Yes. I think we have a real opportunity, I think 
+you are spot on, to make sure we are modernizing this 
+definition. As you noted, there is a bill before us. In fact, 
+it is my bill, that would allow us to look at ways to modernize 
+how we are looking at this inside EGC companies to make sure 
+that we are getting more companies to take advantage of this 
+opportunity to go public. The more companies that are public, 
+the better off we are, because retail investors have an 
+opportunity to actually gain the growth value of companies 
+earlier rather than just letting the big boys on Wall Street 
+take away some of that benefit.
+    Let me shift gears pretty dramatically, and see if I can do 
+this in a minute. I am going to go to you again, Ms. Pinedo, if 
+I can. I just want to talk a little bit about the WKSI status 
+of an issuer. The construct is to help reduce costs and 
+complexity. Could you just comment very briefly on the 
+implications of lowering the thresholds for WKSI qualification?
+    Ms. Pinedo. Sure. One of the great things about being a 
+WKSI is the ability to file an automatically-effective shelf 
+registration statement. That is an incredibly powerful tool for 
+an issuer. An issuer needs volatile markets to be able to 
+access the capital markets when there is a window. They need to 
+be able to raise capital in a follow-on offering when there is 
+an ability to do so.
+    Mr. Steil. Quickly, please, cognizant of the fact that we 
+have about 10 seconds left.
+    Ms. Pinedo. Yes.
+    Mr. Steil. How impactful is that in reducing costs to 
+companies to be able to continue to access the public markets, 
+the costs?
+    Ms. Pinedo. It is hugely impactful. It reduces their cost 
+of capital because the alternative would be a private placement 
+as a public offering, and that comes with a liquidity discount. 
+So, this is enormous.
+    Mr. Steil. Thank you very much. There are huge costs, and 
+even an attorney who bills hours on this says that we can 
+actually reduce costs by looking at this regulatory burden. 
+Thank you for your time. I yield back.
+    Chairwoman Wagner. The Chair now recognizes the ranking 
+member of the subcommittee, the gentleman from California, Mr. 
+Sherman, for 5 minutes.
+    Mr. Sherman. I think we have seen something supernatural 
+happen right in this room. I have been coming here for decades 
+when I have seen the picture of Chairman Oxley smiling down on 
+us. And as we talk about jettisoning the idea of internal 
+control audits, he is not smiling anymore. We need internal 
+control audits for a huge chunk of our economy. I am not saying 
+that they are needed absolutely everywhere, but having lived 
+through Enron and WorldCom, the idea that we are finding 
+political slogans to justify less auditing is something we 
+should be skeptical of.
+    I am also a little concerned about the idea of codifying 
+something that has been a practice of the SEC, if it is a 
+stupid practice. I am familiar with counting. Believe it or 
+not, I think I can count up to 2,000. The idea of counting to 
+2,000, 1, 2, 3, well, there is another 3, there is another 3, 
+that one counts as part of 3, that is 3, you can see that is a 
+stupid way to count.
+    Professor Bowers, am I correct in saying that you could 
+have many thousands of beneficial owners, and under current SEC 
+rules, be told you have only 2,000 shareholders of record?
+    Ms. Bowers. Yes, that is a great question, and it is 
+absolutely true. When counting the ownership to determine if a 
+company should register as public, we look to record holders 
+versus beneficial owners. And as a result, a lot of private 
+companies, particularly unicorns, have many more than 2,000_
+    Mr. Sherman. I think there are now over 1,000 of these 
+unicorns. These are companies that are worth over a billion 
+dollars, and yet they are able to avoid making the disclosures 
+we require of public companies on the theory that, well, if you 
+go 1, 2, 3, oh, there is a 3, there is a 3, they have under 
+2,000 shareholders.
+    Ms. Bowers. That is correct.
+    Mr. Sherman. That is something I want to codify. Professor, 
+do we have fewer IPOs because it has become more burdensome to 
+go public or because it has become less burdensome to stay 
+private under the JOBS Act?
+    Ms. Bowers. That is a great question. Frankly, IPOs had 
+been on the decline well before the JOBS Act, and they have 
+continued since then. So, I don't think the JOBS Act has played 
+a role in increasing IPOs, and I do believe the ability to 
+raise capital_
+    Mr. Sherman. Yes, the JOBS Act should have decreased IPOs.
+    Ms. Bowers. _in the private markets, that is part of the 
+ease of doing that. That is why we are seeing less IPOs.
+    Mr. Sherman. If you were investing in a large company, 
+would you want to know what would happen to that company if 
+there was a disruption in the U.S.-China relationship, the 
+economic relationship?
+    Ms. Bowers. Yes. As a potential investor, I would want 
+access to all the necessary information I would need to make a 
+decision.
+    Mr. Sherman. Would you want to know whether they are 
+investing in their workforce? I know we require putting right 
+on the income statement the amount they spent on research. 
+Wouldn't you want to know the amount they had spent over a 
+period of time on employee education and training?
+    Ms. Bowers. That is a great question, and honestly, I don't 
+think it is up to me. I think it is up to all investors, and I 
+think investors want access to that information to make 
+informed decisions, and what they want should control what is 
+available.
+    Mr. Sherman. We have this idea for Regulation D of 
+accredited investors which goes back to 1982. The dollar 
+figures in that haven't even been indexed. I remember when a 
+million dollars was real money, metal. But does it make any 
+sense to think that because somebody has, what, I think an 
+income of over, correct me if I am wrong, $250,000, that they 
+somehow are a more sophisticated investor than someone who has 
+an income of $200,000?
+    Ms. Bowers. Thank you for that question, and I do think the 
+definition of, ``accredited investor,'' needs to be examined 
+and researched to see what would be the best fit and how to 
+potentially adjust that terminology to be more efficient in the 
+market.
+    Mr. Sherman. And we have heard that underwriters are taking 
+up to 7 percent. Is that new, or is that something that they 
+have been taking for a long time, and is it justified?
+    Ms. Bowers. Underwriters have taken significant fees in 
+IPOs since the beginning of time, and that hasn't changed. What 
+is interesting is that even with less disclosures, underwriters 
+are still taking the same type of percentages.
+    Mr. Sherman. I yield back.
+    Chairwoman Wagner. The Chair now recognizes the gentleman 
+from Pennsylvania, Mr. Meuser, for 5 minutes.
+    Mr. Meuser. Thank you very much, Madam Chairwoman. Madam 
+Chairwoman, I request unanimous consent to enter into the 
+record a letter in support of the policies discussed today from 
+the American Securities Association.
+    Chairwoman Wagner. Without objection, it is so ordered.
+    Mr. Meuser. Thank you.
+    And I thank all of our witnesses very much. It is certainly 
+an interesting and important subject. Markets in the U.S. have 
+become overregulated and overly-expensive. Just a few years 
+ago, it was normal to have hundreds of IPOs each year. Last 
+year, my information tells me that we had 74 companies going 
+public. This subcommittee is discussing the 10 years since the 
+JOBS Act, which clearly did some tremendous improvements to 
+this situation. Our public markets are, however, overregulated, 
+slowing our American economy. This makes it difficult, 
+primarily for small businesses, to raise capital by going 
+public.
+    Very simply, our discussions here are on raising of capital 
+in the public sector for creating the most-competitive economy 
+possible. But regulatory burdens, as you all know, have doubled 
+in the last, probably 10 years, but my notes here are telling 
+me 20 years. I think it is shorter than that. And these 
+regulatory burdens lead companies forced to raise capital 
+within the private markets, all things that we understand.
+    Mr. Piwowar, you have quite a background. The companies 
+obviously need access to capital. The public markets are 
+overly-expensive. This definitely impacts company behavior. 
+Companies are seeking many other methods for not expanding if 
+the capital is not available, or are going abroad, which is far 
+worse. So, what are your thoughts on the cost of regulation, 
+and litigation, and the risk associated with disclosure? Has 
+that, in your view, become a significant deterrent for a small 
+company to go public?
+    Mr. Piwowar. Yes, and I sort of alluded to this in my 
+answer to Congressman Steil, that when you think about 
+regulatory burdens that are applied to all companies, and those 
+have a fixed cost of regulation, that burden falls hardest on 
+the small companies, right? If you think of Sarbanes-Oxley 
+404(b), that was intended to deal with large companies like 
+Enron and WorldCom. And when those regulations come forward, 
+maybe they are quite appropriate for large, complex companies 
+like that, but when you look at the costs and benefits of those 
+things for smaller companies, the costs are much higher for 
+those. So, dealing on a cost-benefit analysis, that then leads 
+to potentially scaled disclosures or potentially exempting them 
+from various disclosures.
+    Mr. Meuser. Could you provide any sort of outline, maybe 
+not right now, on some of the solutions and suggestions you 
+have to minimize these regulations and costs?
+    Mr. Piwowar. Sure, absolutely. I think, as Chairwoman 
+Wagner mentioned, the EGC status in Title I of the JOBS Act is 
+a great blueprint.
+    Mr. Meuser. Sure.
+    Mr. Piwowar. And I know that there are a number of bills 
+that are on the subcommittee's radar screen looking forward as 
+tweaks to that, additions to it. I think it is entirely 
+appropriate 11 years later to look at some of those. In fact, I 
+will note it was exactly 11 years yesterday that the JOBS Act 
+was introduced to the House and then it passed less than a 
+month later.
+    Mr. Meuser. Thank you.
+    Ms. Washer, can you walk us through perhaps your compliance 
+cost of going public with your company and how that factored 
+into your decision-making process?
+    Ms. Washer. Thank you for the question. It is a very 
+important question, and we thought very carefully about the 
+costs of going public. We were a very small company when we 
+went public, with less than 30 employees, and only 2 people in 
+our finance and accounting department. So, the burdens of 
+disclosure, of walking forward, and the ongoing compliance 
+costs, which for our company were about $1.7 million on an 
+ongoing basis, was something we thought about distinctly.
+    I want to be clear that even as an emerging growth company, 
+when we did not have to have the auditor make an attestation 
+about internal controls, the management team still had to make 
+an attestation about internal controls, and we were held liable 
+for that. We also made regular disclosures every single 
+quarter, and we had fully-audited financial statements, even as 
+an emerging growth company, and that is what cost the $1.4 
+million to $1.5 million. Once we needed to follow the 404(b), 
+that almost doubled our accounting fees, so that is an 
+additional amount of money that would be spent on just 
+accounting rather than research and development.
+    Mr. Meuser. Thank you. I yield back.
+    Chairwoman Wagner. The Chair now recognizes the gentleman 
+from California, Mr. Vargas, for 5 minutes.
+    Mr. Vargas. Thank you very much, Madam Chairwoman. I 
+appreciate the opportunity to speak. First of all, I think that 
+this hearing has been great. It really has. I think we have had 
+a lot of good information, and I appreciate that very much. I 
+think each one of the people here testifying has given us a lot 
+of great information.
+    I do have some concerns. Some of the concerns involve the 
+issues with fraud, problems sometimes with lack of disclosures, 
+but there were a couple of things that caught my attention.
+    Ms. Pinedo, it caught my attention when you said no longer 
+is an IPO to raise money. Now, it is more for the liquidity of 
+investors. I think that is what you said. Could you expand a 
+little bit more on that?
+    Ms. Pinedo. Yes. I think that it is important to point out 
+that we are setting up a little bit of a false dichotomy in the 
+comments today. There is very little of a public ecosystem to 
+support smaller companies when they go public. If we are 
+saying, let's force all of these smaller companies to go 
+public, there is no ecosystem to support them once they are 
+public.
+    So, the companies that are going public these days are 
+much, much larger. They are waiting 12 to 15 years before they 
+go public. That is not necessarily by choice. It is that those 
+are the companies that succeed once they are public because 
+there aren't institutional investors that invest in small-cap 
+or micro-cap companies anymore. And the companies that choose 
+to go public go public largely because they want to provide 
+liquidity for their existing security holders. There are very 
+few equity research analysts that provide coverage on small cap 
+companies, so we are setting up a situation that is really a 
+myth. We are saying companies should go public earlier, but 
+there isn't any infrastructure anymore to support those 
+companies that we are saying should go public earlier.
+    Mr. Vargas. Thank you. Professor Bowers, it was interesting 
+for me to listen to you when you said that none of the changes 
+that are being proposed here today would actually change the 
+minds of your investors about staying private as opposed to 
+going public. It is a little bit different from what Ms. Pinedo 
+said, but in a sense, it is somewhat similar. Could you comment 
+on that?
+    Ms. Bowers. Thank you for that question. Yes, I represent 
+small companies that are raising capital, and some of them have 
+gotten the benefit of the JOBS Act, and I think they are using 
+it in the correct way. They are raising small capital from a 
+small number of investors, and there is no incentive to leave 
+those private markets. They don't have a lot of burdens. It is 
+very easy to enter them. There is little accountability. On the 
+flip side of that, it is dangerous for the investors. Even 
+though they are my clients, they are investing in companies 
+where there is not adequate disclosure. So, I do think it is 
+sort of the flip side of the same coin.
+    Mr. Vargas. Okay. Kind of switching gears here, I do want 
+to ask you about ESG. It is something I believe in, and I, for 
+a long time, have believed that climate is changing. I was in 
+the insurance business for a while, and certainly our actuaries 
+could tell you that the climate is changing, and the cost 
+associated with what was called catastrophes, or we call it 
+CATS, was supposed to happen every 25, 50, 100 years, and those 
+were happening every 5 years. And now, the cost of climate 
+insurance companies is gigantic. Could you comment a little bit 
+about ESG and disclosures for that?
+    Ms. Bowers. Yes. Thank you for that question. I think that 
+it doesn't really matter what I think. I think it matters what 
+the investors want, and the investors want ESG disclosures. 
+They want to know what is going on environmentally, and 
+socially. They want to understand the human capital of the 
+businesses in which they are investing. And I think it is 
+important to recognize that is information that investors want 
+to know and need to know to make an informed decision. As a 
+result, I think we should rely on the investors who are clearly 
+telling us they want that disclosure.
+    Mr. Vargas. Okay. Thank you. Dr. Piwowar, and I apologize, 
+if I mispronounced your name, could you comment on that, 
+because I imagine you probably have an opposite view?
+    Mr. Piwowar. Not necessarily an opposite view. The SEC is 
+charged with implementing the Federal securities laws, and 
+under those laws, information has to be disclosed to investors 
+if it is material, and the materiality standard is determined 
+by the Supreme Court. There is a decision, TSC Industries, Inc. 
+v. Northway Inc., which was written by Justice Thurgood 
+Marshall, which recognized that there is a balance here. On the 
+one hand, you want to provide the reasonable investor 
+information so that they can make informed decisions when 
+buying, selling, or voting their shares. On the other hand, you 
+don't want to overload them with an avalanche of information so 
+that it is impossible for them to find the right information 
+that is in there.
+    And the SEC has always operated under that materiality 
+standard. Let's take climate risk or environmental type of 
+disclosures. For some companies, those are very, very material 
+pieces of information, and those are already disclosed. For 
+others, it may not be, and so the SEC already has a disclosure 
+framework that works for that.
+    Chairwoman Wagner. The gentleman's time has expired.
+    Mr. Vargas. Thank you very much.
+    Chairwoman Wagner. The Chair now recognizes the Vice Chair 
+of the subcommittee, the gentleman from New York, Mr. 
+Garbarino, for 5 minutes.
+    Mr. Garbarino. Thank you, Madam Chairwoman. Thank you very 
+much for hosting this very important hearing, and thank you to 
+the witnesses for being here.
+    Ms. Pinedo, I was going to ask you what factors companies 
+consider when deciding whether to raise capital to go public, 
+but it sounds like, from what you have been saying, these 
+companies aren't going public to raise capital. They are going 
+public to diversify their investors. Is that what you were 
+saying?
+    Ms. Pinedo. It is not always the case. There are many 
+reasons that companies choose to go public, and it is often 
+dependent on the sector. For example, life sciences companies 
+have less access to capital in the private markets than do 
+companies in other sectors, and life sciences companies often 
+have to go public earlier than companies in other sectors. It 
+is differentiated by industry sector, so that is not always the 
+case.
+    As a general rule, and as I cited in my written testimony, 
+if you look at the statistics and the median age of companies 
+at the time that they have gone public over the last 10 to 12 
+years, yes, most companies that have gone public in the last 10 
+to 12 years are much more seasoned companies, and they have a 
+much larger market cap at the time that they are going public. 
+It has very, very little to do with the fact that there is less 
+regulation. As far as the private markets, it has much more to 
+do with the market structure changes that we have been talking 
+about today regarding the proliferation of private capital, and 
+the fact that there are many more private capital sources, and 
+that larger companies fare better once they are public.
+    Mr. Garbarino. Okay. In your opinion, though, now we have 
+larger companies that need to go there. They have a higher 
+market cap, and they will go public, but not necessarily for 
+capital purposes, or we have life sciences, which are younger 
+and they don't have the access to the capital in the private 
+markets. So in these two decisions, do regulatory burdens or 
+high compliance costs play a decision here?
+    Ms. Pinedo. Absolutely. They play an essential role, and 
+companies that are low-revenue companies should continue to be 
+able to go public, and we should continue to right-size 
+regulation. We should continue to phase in regulation and 
+continue to extend the benefits of EGC status for a longer time 
+period. We should continue to encourage the accommodations that 
+are available for EGCs for a longer period of time for those 
+companies that meet the EGC prongs. And we should continue to 
+look for ways to encourage smaller and medium-sized companies 
+to go public because, again, that is going to revitalize the 
+public capital markets. We should also look for ways, like the 
+WKSI bill, to allow existing public companies that are smaller 
+and medium-sized companies to continue to benefit from raising 
+capital, including follow-on offerings through follow-on public 
+offerings.
+    Mr. Garbarino. I am happy you talked about extending some 
+of the benefits of EGCs and the timelines that they have. EGCs 
+are allowed to use test-the-water communications with qualified 
+institutional investors and institutional accredited investors, 
+and I know we talked a little bit about this before. They use 
+this to gauge interest in registered securities offerings, 
+either prior to or when filing the registration statement. Can 
+you provide any real-world examples explaining how expanding 
+this accommodation to all issuers will benefit non-EGCs who 
+currently can't use this accommodation?
+    Ms. Pinedo. Sure. We have had this provision for quite some 
+time because the SEC has made this available through SEC 
+policy, so we have already seen the benefits of allowing all 
+issuers to test the waters. This has been a great benefit to 
+all companies because institutional investors have the ability 
+to engage in discussions with companies that may want to raise 
+capital in the public markets, and to understand the company's 
+business plan, to understand complex technologies that 
+sometimes require additional time. That may include life 
+sciences companies. It may include companies that focus on 
+cyber or artificial intelligence that have great innovations 
+that can benefit society, and that really take more attention 
+than can be explained in a 15-minute roadshow. So, yes, test-
+the-waters meetings work. We have seen that they work well_
+    Chairwoman Wagner. The gentleman's time has expired. The 
+Chair now recognizes the gentleman from Illinois, Mr. Casten, 
+for 5 minutes.
+    Mr. Casten. Thank you, Madam Chairwoman, and thanks to all 
+of our witnesses here. Before I came to Congress, I was in the 
+energy industry and I built a couple of companies. The most 
+recent one was from an idea that I turned into an $80-million 
+company, all with private equity. And I think, like all private 
+equity-backed CEOs, some days I was grateful to have access to 
+capital, and some days I was fed up by the hordes of young 20-
+somethings with fancy MBAs in my accounting department and my 
+human resources department, telling me that while my ideas on 
+strategy were interesting, if I wanted more capital, I was 
+going to have to listen to their strategic ideas. And at the 
+risk of saying something that is going to be clipped and used 
+against me in an attack at some point in the future, I have 
+deep sympathy for the struggles faced by CEOs whose lives are 
+burdened by disclosure.
+    [laughter]
+    Mr. Casten. At the same time, it looks good on your resume 
+to build an $80-million business. By rights, that was a small-
+cap company. I was too small to go public. When I talked to 
+friends who, had been a little bit more successful than me, 
+they said that going public has its own issues. Yes, it is 
+tempting to not have hordes of young 20-somethings running 
+through your business. On the other hand, there are different 
+disclosure obligations you have to have because you do have 
+this more diverse pool, and frankly, being a thinly-traded 
+small cap is not without its own challenges.
+    I guess my first question in light of that for you, 
+Professor Bowers, is, I don't think my experience would have 
+been possible if I was born 30 years earlier. So what I am 
+wondering is, from your perspective, how much of the story we 
+tell about declining participation in public markets really is 
+just a reflection of the successful growth of private markets 
+and the ability to provide a path for others? Is this really a 
+bad thing, or is it just that our markets have become more 
+diverse?
+    Ms. Bowers. I think that the private markets have drawn 
+companies away from the public markets. I think the access to 
+the capital, for instance, the situation you were talking about 
+with your company, that makes it much easier for a company to 
+stay in the private markets to grow significantly and to avoid 
+those disclosure requirements of the public markets. And what I 
+see is that the private markets are continuing to draw more and 
+more people away, when the goal of the JOBS Act was really to 
+bring emerging growth companies into the public markets and to 
+create a path for them. I don't think it has been successful at 
+that. I don't think this legislation is going to do that 
+either.
+    And again, I think these are risky companies, emerging 
+growth companies, so scaling back their disclosures concerns 
+me. And to just comment on one of the things that was said 
+here, the test-the-waters, yes, the SEC also had that 
+implemented, but I think maybe people are failing to realize 
+that by allowing all issuers to test the waters, and not just 
+emerging growth companies, you might actually be further 
+hurting emerging growth companies in being able to get the ear 
+of those potential institutional investors because now they are 
+competing with more-established companies and issuers.
+    Mr. Casten. One of the crazy things about this job is you 
+always think about the people who have sat in the chair you are 
+sitting in, before you sat in it. A couple of months ago at the 
+dais you are sitting at, we had John Ray talking about guiding 
+what he described as a paperless bankruptcy, and millions of 
+dollars lost and missing, couldn't track it because the company 
+was able to raise that money with QuickBooks as their 
+accounting system and audits. And it is a little bit head-
+rattling to now be sitting here saying that maybe disclosures 
+are a problem.
+    My second question for you, Ms. Bowers, is while we are 
+talking about public markets today, how concerned should we be 
+about the rise in access to larger pools of less-sophisticated 
+capital and private markets that allowed people to raise huge 
+amounts of money from companies, like Sequoia, without anybody 
+going out and actually having the kind of diligence that would 
+have protected those capital providers? Is that a concern we 
+should have because, again, speaking for our nation's CEOs, if 
+I could have a ton of dumb money with no accountability, boy, 
+that is sure tempting.
+    Ms. Bowers. I think that is a great question. I think the 
+private markets have created a situation where there are 
+millions and billions of dollars being invested with very 
+little disclosure. So companies, particularly unicorns, 
+billion-dollar valued companies can go out there and raise 
+capital from thousands of investors and not share information. 
+And what is even more frightening is that the institutions in 
+the private markets are getting access to information, but 
+retail investors, sort of those people who sit on the fringes 
+of accredited investor status, don't have that same kind of 
+power to demand access and information. So, I do think it is 
+concerning that those markets continue to be fairly 
+unregulated.
+    Mr. Casten. Thank you.
+    Chairwoman Wagner. The gentleman's time has expired.
+    Mr. Casten. I have more questions, but I'm out of time, so 
+I yield back.
+    Chairwoman Wagner. The Chair now recognizes the gentleman 
+from Texas, Mr. Sessions, for 5 minutes.
+    Mr. Sessions. Madam Chairwoman, thank you very much. Madam 
+Chairwoman, I request unanimous consent to enter into the 
+record letters in support of the policies that we are 
+discussing today from the U.S. Chamber of Commerce, the 
+National Association of Manufacturers, and the National Venture 
+Capital Association.
+    Chairwoman Wagner. Without objection, it is so ordered.
+    Mr. Sessions. Thank you very much, Madam Chairwoman. Before 
+I get too much into this, Ms. Pinedo, I would like to aim a 
+question at you, and I think it is fair to tell you ahead of 
+time rather than at the end and then you saying, please repeat 
+that question. Each of you have indicated how important it is 
+to have robust markets, markets that follow capitalism. If 
+there is one thing our young chairwoman stands for and our 
+Chairman McHenry stands for, and I think the Members on this 
+side, it is capitalism. A fair opportunity to make money, an 
+opportunity to have a balanced marketplace of rules and 
+regulations, I think each of you have affirmed that mostly. So 
+what I would like to do is to talk about something, and I plan 
+to introduce a bill in the next few days that would codify an 
+SEC no-action letter that allows broker-dealers to continue 
+accepting cash or hard-dollar payments for research reports in 
+order to comply with the EU directive.
+    The reason why this is important is because we believe that 
+if no action is taken by July, the SEC's Investment Management 
+Division Director has said that he will simply allow it to fade 
+away. I think each of you have delineated the things in rules 
+and regulations that have allowed not only the furthering of 
+information, but also get into the balance of these rules and 
+regulation, and this comes directly at the point. Would the 
+gentlewoman have a comment about that?
+    Ms. Pinedo. Yes, I do. I think it would be difficult to 
+overstate the importance of research for vibrant capital 
+markets. I think that codifying the SEC's no-action letter 
+relief for method two is extremely important. I think that the 
+broker-dealers in the United States are struggling with the 
+sunsetting of the relief. And it is important to understand 
+that this affects investment managers that are located both in 
+the European Union, in the United Kingdom, and elsewhere. And 
+if nothing is done, then it may subject broker-dealers to 
+regulation under the Investment Advisers Act, which is 
+completely different than the regulation to which broker-
+dealers are already subject to as registered broker-dealers 
+with the SEC and subject to regulation by FINRA. So, it is 
+really quite essential that action be taken.
+    Mr. Sessions. And it keeps those companies that can utilize 
+that data out of a regulatory environment that really puts 
+them, I think, at a disadvantage.
+    Ms. Pinedo. I would agree with that. And I think that 
+additional time is necessary in order for a framework to be 
+devised that is appropriate and that would allow for research 
+to continue. We have seen a reduction in the availability of 
+research since all of this has been announced, and any 
+diminution in research is bad for the capital markets.
+    Mr. Sessions. Thank you. Your colleague evidently has an 
+opinion on that. Sir?
+    Mr. Piwowar. Sure. Thank you, Congressman. I was at the 
+Commission when we approved the original no-action relief, and 
+we put it for 30 months to buy some time to allow the Europeans 
+to go back and reconsider their rules, and it has since been 
+extended, and as Ms. Pinedo mentioned, it ends in July unless 
+the SEC extends it. And I find it unconscionable that the SEC 
+would not extend it, for the reasons that Ms. Pinedo said, 
+especially when we are finally getting to the point where the 
+Europeans are actually thinking about walking back that 
+requirement, so I think it is now more than necessary. We need 
+to have that in place, and I think codifying it would be the 
+right thing to do in this situation.
+    Mr. Sessions. It is rather interesting that we find 
+ourselves having to pass a piece of legislation to get the SEC 
+to do what is probably very apparent to each of you. And this 
+is where we find ourselves in today's world, that seemingly 
+what is apparent to you and apparent to us that would help the 
+capitalist ideas to be able to gain this information that you 
+speak of, used effectively to the advantage of the investor.
+    I want to thank both of you. Madam Chairwoman, thank you so 
+much for not only calling this hearing, but for your attention 
+to the details therein. I thank the gentlewoman.
+    Chairwoman Wagner. I appreciate it.
+    Mr. Sessions. I yield back.
+    Chairwoman Wagner. The gentleman yields back, and the 
+gentleman from New York, Mr. Lawler, is now recognized for 5 
+minutes.
+    Mr. Lawler. Thank you, Madam Chairwoman. And thank you to 
+all of the witnesses for being here today and for sharing your 
+insights and your experiences with the committee.
+    Ms. Pinedo, based on your experience, what factors do 
+companies consider when deciding whether to raise capital 
+through a public offering?
+    Ms. Pinedo. Companies consider alternatives, first of all, 
+how much capital would be available in the public markets 
+versus the private capital markets. They consider their cost of 
+capital once they are public. They consider the regulatory 
+costs associated with being a public company. They consider how 
+having a listed equity security will benefit them, for example, 
+having acquisition currency, having the ability to reward 
+employees with stock-based compensation, and how that will 
+benefit the company through its growth. They consider as well 
+the additional prominence that comes with being a listed public 
+company. So, there are many factors that go into the 
+considerations associated with being public. And of course, 
+regulatory costs factor into that.
+    Mr. Lawler. So the regulatory burdens and the high 
+compliance costs play probably one of the most significant 
+roles in determining whether or not to go public?
+    Ms. Pinedo. Certainly, as well as liabilities associated 
+with being a public company. Those who are top of mind for 
+directors and officers, which we have not discussed, but yes.
+    Mr. Lawler. Would you like to elaborate on that a little 
+bit?
+    Ms. Pinedo. For directors and officers, and prospective 
+directors and officers, it is often difficult to consider or to 
+contemplate going public because we obviously, in the United 
+States, live in a very litigious society. And as we burden 
+public companies with often immaterial disclosures, those 
+burdens become more and more challenging, and that is something 
+that boards certainly consider.
+    Mr. Lawler. Thank you. Would any of the policies that have 
+been discussed today over the course of the conversation be key 
+to helping address the unnecessary regulatory burdens or 
+compliance costs, or otherwise make our public markets more 
+attractive?
+    Ms. Pinedo. First off, I want to say that we are not in the 
+proposed measures being considered today. None of the measures 
+would significantly reduce the amount of information available 
+to investors. That is important to say. All of the changes that 
+are suggested are incremental, and many of the changes are 
+codifications of existing SEC policy, and we have lived with 
+the existing mix of information that EGCs provide for many, 
+many years now, so it is something that investors are familiar 
+with as well as regulators. The changes that are being proposed 
+today would help companies and would help companies that are 
+considering the path to an IPO, particularly the ability to 
+preserve EGC status. If companies don't become large, 
+accelerated filers, and don't cross the revenue threshold, the 
+fact that they could remain EGCs for longer than the arbitrary 
+5 years is important.
+    For low-revenue issuers to be able to continue to forego 
+the Section 404(b) compliance is significant. The SEC's own 
+Office of the Advocate for Small Business Capital Formation has 
+shown in its 2022 report that the costs at 404(b) attestation 
+are relatively and disproportionately more significant for 
+smaller public companies. And there are many, many academic 
+studies that have shown that there is no necessary correlation 
+between the attestation and improved reliability of financial 
+statements.
+    Mr. Lawler. Terrific. Thank you. In the limited time I have 
+left, Ms. Washer, I know my colleague, Mr. Meuser, touched on 
+this with you. But the SEC estimates that the average cost of 
+achieving initial regulatory compliance for going public with a 
+traditional IPO is about $2.5 million, with an annual 
+compliance cost averaging $1.5 million thereafter. How did 
+these costs influence your decision to take AGTC public?
+    Ms. Washer. Thank you for the question. It is a very 
+important question. And my comment would be that I think that 
+those numbers are underestimated, and it really cost us much 
+more to go public, and our ongoing compliance costs were at 
+that until we lost ESG, and then they went up.
+    Chairwoman Wagner. The gentleman's time has expired. The 
+Chair now recognizes the gentleman from Michigan, Mr. Huizenga, 
+who is also the Chair of our Subcommittee on Oversight and 
+Investigations, for 5 minutes.
+    Mr. Huizenga. Thank you, Madam Chairwoman, and I am very 
+pleased that we are holding this hearing. And Ms. Washer, I 
+want to touch on something, and first comment that your 
+emerging growth company coming public in 2013 was exactly what 
+we intended with the JOBS Act, exactly what we intended, so I 
+want to explore that really briefly with you. At some point, 
+maybe offline, I want to talk to you about your experience with 
+the SEC Small Business Capital Formation Advisory Committee.
+    But what was the motivating factor for you? What was the 
+sort of thing that you made you say, aha, we have to do this? 
+And then, I am curious, can you talk about your employment and 
+what some of the benefits might have been?
+    Ms. Washer. Yes. Thank you so much for that question, Mr. 
+Huizenga. When we looked at being a biotech company that was 
+developing a novel technology from discovery through approval 
+by the U.S. FDA, that takes, in our industry, upwards of a 
+billion dollars. And there really is no way for the 
+biotechnology industry, which addresses human health, 
+agricultural growth, and industrial improvements to raise that 
+kind of money in the private markets. It is a risky business, 
+and there aren't enough people focused on the life sciences in 
+the private markets, and so it was really that access to 
+capital. And something else that my colleague mentioned was 
+also the recognition that when you become a public company, 
+there is more disclosure. And disclosure does have benefits, 
+and that is that there are more people who know about your 
+company and a potential wider pool of investors into your 
+company, and so those are the things we took into account.
+    However, the other side was that, as I mentioned earlier, 
+we only had 30 employees, and 2 people in our finance and 
+accounting department. So, we had to walk very carefully 
+through whether we could comply, and we determined we could 
+with our small staff. And then, the other thing I will mention 
+is the Directors and Officers (D&O) insurance issue. We had a 
+board that were private individuals and investors, and so to be 
+able to go public, we had to take on D&O insurance, which is 
+another added cost. Our D&O insurance towards the end was 
+almost $700,000.
+    Mr. Huizenga. Good grief.
+    Ms. Washer. And for a very small company, that was a 
+consideration, but all-in-all, for us, it was access to 
+additional capital.
+    Mr. Huizenga. Okay. So, you were at 30 employees?
+    Ms. Washer. Yes.
+    Mr. Huizenga. How quickly did it grow, your employment 
+base?
+    Ms. Washer. We doubled our employment almost immediately, 
+and when we sold_
+    Mr. Huizenga. I am sure these are entry-level jobs, right?
+    Ms. Washer. No.
+    Mr. Huizenga. Please, I am glad you caught my sarcasm on 
+that. I am assuming these are very high-paying jobs?
+    Ms. Washer. Yes. At the very low end of the salary range in 
+our company in biotechnology was $35,000 for, say, lab techs 
+who were cleaning the lab, but on average, our salaries were 
+over $100,000 because they are very high-level jobs. When we 
+sold the company in November 2022, we had over 120 employees, 
+so the access to the capital markets definitely increased.
+    Mr. Huizenga. Four times the size.
+    Ms. Washer. Yes.
+    Mr. Huizenga. Okay. I have a couple of minutes here, and I 
+have a few things I have to hit on. Last year, I introduced the 
+Improving Disclosure for Investors Act, a bipartisan bill that 
+directed the Securities and Exchange Commission to engage in 
+rulemaking that would allow registered investment companies to 
+deliver regulatory documents to investors using electronic 
+means.
+    Currently, the SEC permits electronic delivery of certain 
+documents under Federal securities law, subject to requirements 
+that a registrant provide notice that the information is 
+available electronically. The investor has effective access to 
+such information, and the registrant either obtains evidence to 
+show actual delivery or obtains information consent from the 
+investor. The SEC has not comprehensively updated the framework 
+in over 20 years. My legislation offers a simple solution: 
+promote positive investor engagement by making it easier for 
+investors to find information most relevant to them. And we are 
+not going to be discarding a whole lot of paper. That is 
+happening, and I think number of us believe that is a positive.
+    Having had older parents, I was also very sensitive to what 
+this meant for seniors and their investments. So, I worked with 
+Congressman Auchincloss to insert a provision that would 
+provide safeguards, allowing investors to once again receive 
+paper statements. Madam Chairwoman, I would like to ask 
+unanimous consent to enter into the record a letter from SIFMA 
+containing survey results of all of its members.
+    Chairwoman Wagner. Without objection, it is so ordered.
+    Mr. Huizenga. Thank you. Mr. Piwowar, I want to focus on a 
+couple of things from your testimony. First, you indicate that 
+Congress and this committee should consider legislation that 
+does not require SEC rulemaking. Yesterday, the Subcommittee on 
+Oversight and Investigations, which I chair, heard from the 
+SEC's Inspector General about the impact these rulemakings have 
+on the Agency with staffing, morale, and capacity. So, I am 
+wondering if you could quickly explain that, and we will see if 
+we can get to another question.
+    Mr. Piwowar. Sure. Just very quickly, if you look at the 
+JOBS Act overall, some of the titles required SEC rulemaking, 
+and Title I did not. It went in and surgically amended various 
+parts of the 1933 Act and the 1934 Act, and it was self-
+effectuating; it became effective immediately upon enactment. 
+That is one of the reasons it was so successful, and the SEC 
+was so far behind and actually screwed up some of the other 
+rulemakings. In fact, I even dissented on the crowdfunding 
+final rule because it was so far away from congressional 
+intent.
+    Chairwoman Wagner. The gentleman's time has expired. The 
+Chair now recognizes the gentleman from North Carolina, Mr. 
+Nickel, for 5 minutes.
+    Mr. Nickel. Thank you, Chairwoman Wagner, and thank you to 
+our witnesses for coming to testify today. The U.S. public 
+markets are frequently referred to as the envy of the world. 
+And I agree with my Republican colleagues that the strength of 
+U.S. public markets is essential for our economy to thrive, but 
+it is important to remember that securities laws are what make 
+our capital markets so strong. As Professor Bowers talked about 
+in her testimony, our regulatory framework ensures transparency 
+and fairness in trading, providing investors with confidence in 
+the marketplace.
+    Professor Bowers, North Carolina's Research Triangle Park 
+has a huge impact on my district. We have many small minority-
+owned biotech companies that face barriers to accessing capital 
+in public markets. Can you provide some insight on how 
+companies can overcome this issue, especially through the 
+public markets?
+    Ms. Bowers. Thank you for that question. I think one of the 
+ways to overcome that issue is to provide disclosures to 
+investors. I think the more investors know, the more likely 
+they are to invest in a company, whether it be a small company 
+or a large company. I would like to address one of the things 
+that was said about emerging growth companies and the idea that 
+some of these proposals don't extend, don't reduce disclosure. 
+But by allowing a company to be an emerging growth company for 
+10 years, you are effectively doing that, because during that 
+10-year time, which is now 5, they continue to have a pass from 
+those accountability requirements. So, allowing emerging growth 
+companies to remain in that category for 10 years, I think is 
+also significant as far as disclosures to investors.
+    Mr. Nickel. Professor Bowers, we had Fed Chair Jerome 
+Powell in just the other day, and he spent a lot of time 
+talking about the debt and the debt ceiling. Can you explain 
+how the consequences of the United States defaulting on our 
+debt would affect our capital markets?
+    Ms. Bowers. Thank you for that question. And I didn't have 
+time to completely prepare for that, but I think that if the 
+U.S. defaults on its debt ceiling, that trickle-down into our 
+public markets is going to have a drastic impact. I think stock 
+prices, which we are already seeing declining, are going to 
+continue to decline. I think that is going to impact emerging 
+growth companies even further and push many of them to the 
+brink of possibly having to delist. So I think as a result of 
+all of that, we will see billions of dollars being lost by 
+investors.
+    Mr. Nickel. Thanks so much. Madam Chairwoman, I yield back.
+    Chairwoman Wagner. The gentleman yields back. The Chair now 
+recognizes the gentleman from Iowa, Mr. Nunn, for 5 minutes.
+    Mr. Nunn. Thank you very much, Chairwoman Wagner, for 
+calling this timely hearing on how we can improve our public 
+markets to make them more attractive for both small and 
+emerging companies.
+    I would like to start by looking at the historical 
+statistics of last year, according to Ernst & Young. IPOs 
+basically crawled to a halt in 2022. The number of deals in the 
+U.S. fell roughly 78 percent from a year earlier. There were 
+only two IPOs on the U.S. exchange that had more than a billion 
+dollars of proceeds compared to 30 in 2021. Further, the number 
+of IPOs with proceeds under $50 million represented roughly 80 
+percent of the U.S. IPO activity in 2022. Let's put this in an 
+historical context. On average, over the last decade, 
+approximately 80 percent of U.S. IPO had proceeds under $50 
+million.
+    Now, I know that many factors can contribute to this, 
+including significant regulatory costs associated with initial 
+public offerings and ongoing reporting as a public company.
+    Director Piwowar, I would like to begin with you, sir. 
+First, thank you very much for spending a very busy schedule 
+with us here in the Financial Services Subcommittee on Capital 
+Markets. I also read that you are a former assistant professor 
+at Iowa State University.
+    Mr. Piwowar. Go Cyclones.
+    Mr. Nunn. There we go. Exactly. We will see how Bailey does 
+tonight, but thank you very much for coming in here and working 
+with us. As you were also the leading economist on the Senate 
+Banking Committee during the original JOBS Act, I would like to 
+ask you the following question. We talked about the declining 
+number of IPOs on numerous occasions today. With high interest 
+rates and a likely recession potentially by the end of this 
+year, and several new SEC regulations that will increase the 
+cost to issuers, the downward trend in IPOs will likely 
+continue. Could you share with us what a declining IPO means 
+for everyday investors, including folks from the heartland, 
+like those in Iowa?
+    Mr. Piwowar. Sure. You mentioned higher interest rates and 
+higher inflation going forward. Low interest rates is one of 
+the reasons why the private markets were so competitive vis-a-
+vis the public markets for so long. So if you think of private 
+equity firms investing in portfolio companies, a lot of times 
+they use debt to finance those purchases. And we are going to 
+see that the private markets are probably going to become less 
+competitive, and that is why it is even more important that the 
+public markets remain competitive.
+    To your question about why the public markets are so 
+important, Chairwoman Wagner had mentioned the fact that the 
+way that most everyday Americans actually save for their 
+retirement is by investing in public companies. In the interest 
+of comity, I was critical of my fellow witness, Professor 
+Bowers', views on one thing. I will say I agree with her that 
+we need to revisit the accredited investor definition because 
+so many Americans are locked out of investing in high-growth 
+private companies and companies that are staying private 
+longer, as Ms. Pinedo mentioned, and so everyday investors are 
+basically locked in, in many ways, to investing in the public 
+capital markets. So, that is why we need to do both. We need to 
+make sure that investors have more equitable access to 
+opportunities in the private market companies, but also we need 
+to make sure that our public markets remain competitive so that 
+the funds that are already invested there, they can use to save 
+for retirement and education.
+    Mr. Nunn. Very poignant to this. So from your perspective 
+both as an economist, but also, I think it is worth noting, as 
+a former SEC Commissioner, I want to talk about the pace of 
+rulemaking coming out of the SEC.
+    Mr. Piwowar. Yes.
+    Mr. Nunn. Will the magnitude of these rules raise the cost 
+in any way that makes our public markets less attractive for 
+those interested in raising that capital?
+    Mr. Piwowar. Yes. The pace of rulemaking_when I was there, 
+we had a high pace of rulemaking, but that was mandated 
+rulemaking by Congress. We had the Dodd-Frank Act, and then we 
+had the JOBS Act, and those were mandated rules. If you look at 
+what is going on at the Commission right now, it is 
+unprecedented in terms of the number of rulemakings that are 
+going through on a discretionary basis. And as I mentioned 
+earlier, it is the accumulation of all of the rules together, 
+right?
+    Mr. Nunn. Right.
+    Mr. Piwowar. On any individual basis, you may say, well, 
+the cost is maybe worth the benefits. But over time, we know 
+that it is the accumulation of those rules that could actually 
+gum up the markets.
+    Mr. Nunn. With the SEC basically doing the legislation that 
+has traditionally been done by Congress, let me ask you this: 
+Are there things that Congress needs to be doing now either to 
+rein in the SEC or to make this more effective or at least more 
+attractive for our public markets?
+    Mr. Piwowar. Yes. One is, we mentioned the bills that are 
+here. There are amendments to the JOBS Act and how the JOBS Act 
+actually helped the SEC refocus on the often-forgotten third 
+part of its mission, right? Everybody remembers protecting 
+investors, and maintaining fair, orderly, and efficient 
+markets. And over the past few years, we had the pandemic and 
+concerns about the markets running through that. We have had 
+the meme stock trading in 2021 that, really, the SEC on some of 
+the market structure stuff. Similarly, because of Dodd-Frank, 
+the SEC was mandated to do over 100 rulemakings, and that 
+returned them to the capital formation piece, and I think 
+similarly, amendments could do the same.
+    Mr. Nunn. Powerful. Thank you, Mr. Piwowar. With that, I 
+yield back.
+    Chairwoman Wagner. The gentleman yields back. The Chair now 
+recognizes the gentleman from Arkansas, Mr. Hill, who is also 
+the Chair of our Subcommittee on Digital Assets, Financial 
+Technology and Inclusion, for 5 minutes.
+    Mr. Hill. Over the past few weeks, under Chairwoman 
+Wagner's leadership, the subcommittee has examined ways 
+Congress can help improve capital formation in the United 
+States. We have investigated how expanding the definition of 
+an, ``accredited investor,'' can help increase inclusion in the 
+capital markets, and I am proud to have sponsored legislation 
+on that important topic and debate. We also examined how to 
+better direct venture capital and angel investors towards the 
+backbone of America: entrepreneurs and small businesses like 
+the ones back home in Central Arkansas.
+    Now, comes the last piece of the puzzle, which is, how do 
+we increase access to the public markets? Public markets in the 
+U.S. have moved further and further out of reach with initial 
+public offering levels declining each year. I would say 
+parenthetically, without the help of the emerging growth work 
+of the JOBS Act, that would be an even more despairing 
+statistic. In fact, in the 4 decades I have been involved in 
+investing in the markets, there are half the number of public 
+companies than they were when I started my career, which means 
+fewer options for 401(k) plans, fewer options for union pension 
+plans, and fewer options for everyday investors who are looking 
+for a good idea, and for people obsessed, and there are many 
+obsessed in the government with exchange-traded funds, fewer 
+options to go into an exchange-traded fund or into a mutual 
+fund. Bottom line, that is not smart. It is not good for the 
+U.S.
+    The SEC's mission is to protect investors, maintain fair, 
+orderly, and efficient markets, and facilitate capital 
+formation. The Commission's rulemaking has done nothing but 
+hamper capital formation in this Administration, and that hurts 
+the everyday investor. If Chair Gensler wants to fulfill those 
+core missions, then he should make it easier for companies to 
+enter the public markets, not harder.
+    The Commission estimated, and I think this is a dated 
+figure of going public, those out-of-pocket costs to be $2.5 
+million. I think that is low, but that is what we used 8 years 
+ago when I think we started talking about that number, with 
+annual compliance costs of $1.5 million. Well, you just heard 
+testimony that somebody's D&O insurance coverage is $700,000 a 
+year, and if you comply with Section 404 in Sarbanes-Oxley, you 
+are talking about $400,000 a quarter, so $1.5 million in 
+compliance costs annually seems like a joke to me. So, we need 
+public markets that welcome new companies and unlock the power 
+of public investment for our growing business enterprises, and 
+Republicans, under Chair Wagner's leadership, and under Chair 
+Huizenga's leadership, have certainly been there.
+    Commissioner Piwowar, it is good to see you. Thanks for 
+taking time out of your busy day to spend some time with us. 
+How do you assess those costs as the detriment to going public, 
+the upfront costs and the ongoing costs, and the higher those 
+costs are, of course, the higher the market cap has to be to go 
+public. When I started my career, it was a dream come true to 
+go public, and going public public at an $100-million to $200-
+million valuation was a no-brainer, and now we are talking way 
+over a billion dollars. Can you reflect on those costs, and 
+besides emerging growth companies, how could some of these 
+ideas lower those costs?
+    Mr. Piwowar. Yes. The costs have gone way up, and what that 
+means is for companies to be able to amortize those costs, they 
+have to get bigger before they go public, just as Ms. Pinedo 
+mentioned. And what is missing there is the ability for 
+everyday investors to invest in those companies during their 
+growth stage, because they are remaining private during those 
+particular growth stages. And I think one of the things that 
+Ms. Washer mentioned was that it is not just the cost in terms 
+of dollar amounts, but it is the opportunity cost of those 
+dollars that you mentioned. You add up millions of dollars in 
+compliance costs that could otherwise be used by R&D, otherwise 
+be used for drug trials to find the next cure for the next 
+disease and actually save lives. So, this is really about 
+saving lives.
+    Mr. Hill. I thank you for your testimony, as well as 
+everyone's written testimony on the panel. And let me just 
+publicly thank the Milken Institute for your work, not only in 
+the public capital markets, but for the work you are doing to 
+try to expand ownership for the millions of Americans who work 
+for private companies, which has grown so much over the last 40 
+years because of what we are talking about today, which is 
+there are so many cost barriers to going public. Thanks for 
+your time, and I yield back, Madam Chairwoman.
+    Chairwoman Wagner. The gentleman yields back. I think that 
+completes our questioning today. I want to thank the 
+subcommittee for very robust participation, and I would like to 
+thank our witnesses for their testimony today.
+    The Chair notes that some Members may have additional 
+questions for this panel, which they may wish to submit in 
+writing. Without objection, the hearing record will remain open 
+for 5 legislative days for Members to submit written questions 
+to these witnesses and to place their responses in the record. 
+Also, without objection, Members will have 5 legislative days 
+to submit extraneous materials to the Chair for inclusion in 
+the record.
+    This hearing is now adjourned.
+    [Whereupon, at 11:50 a.m., the hearing was adjourned.]
+
+                            A P P E N D I X
+
+
+
+                             March 9, 2023
+                             
+                             
+                             
+  [GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+                             
+                             
+                             
+

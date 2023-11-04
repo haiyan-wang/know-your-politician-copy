@@ -1,0 +1,1904 @@
+
+ - E, S, G, AND W: EXAMINING PRIVATE SECTOR DISCLOSURE OF WORKFORCE MANAGEMENT, INVESTMENT, AND DIVERSITY DATA
+
+[House Hearing, 117 Congress]
+[From the U.S. Government Publishing Office]
+
+
+
+
+
+ 
+                   E, S, G, AND W: EXAMINING PRIVATE
+
+                     SECTOR DISCLOSURE OF WORKFORCE
+
+                      MANAGEMENT, INVESTMENT, AND
+
+                             DIVERSITY DATA
+
+=======================================================================
+
+                             HYBRID HEARING
+
+                               BEFORE THE
+
+                  SUBCOMMITTEE ON INVESTOR PROTECTION,
+
+                 ENTREPRENEURSHIP, AND CAPITAL MARKETS
+
+                                 OF THE
+
+                    COMMITTEE ON FINANCIAL SERVICES
+
+                     U.S. HOUSE OF REPRESENTATIVES
+
+                    ONE HUNDRED SEVENTEENTH CONGRESS
+
+                             SECOND SESSION
+
+                               __________
+
+                            DECEMBER 8, 2022
+
+                               __________
+
+       Printed for the use of the Committee on Financial Services
+
+                           Serial No. 117-108
+                           
+                           
+                           
+                           
+                           
+ [GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+ 
+ 
+ 
+                        ______
+ 
+              U.S. GOVERNMENT PUBLISHING OFFICE 
+50-161 PDF             WASHINGTON : 2023                          
+                           
+                           
+                           
+                           
+
+                 HOUSE COMMITTEE ON FINANCIAL SERVICES
+
+                 MAXINE WATERS, California, Chairwoman
+
+CAROLYN B. MALONEY, New York         PATRICK McHENRY, North Carolina, 
+NYDIA M. VELAZQUEZ, New York             Ranking Member
+BRAD SHERMAN, California             FRANK D. LUCAS, Oklahoma
+GREGORY W. MEEKS, New York           BILL POSEY, Florida
+DAVID SCOTT, Georgia                 BLAINE LUETKEMEYER, Missouri
+AL GREEN, Texas                      BILL HUIZENGA, Michigan
+EMANUEL CLEAVER, Missouri            ANN WAGNER, Missouri
+ED PERLMUTTER, Colorado              ANDY BARR, Kentucky
+JIM A. HIMES, Connecticut            ROGER WILLIAMS, Texas
+BILL FOSTER, Illinois                FRENCH HILL, Arkansas
+JOYCE BEATTY, Ohio                   TOM EMMER, Minnesota
+JUAN VARGAS, California              LEE M. ZELDIN, New York
+JOSH GOTTHEIMER, New Jersey          BARRY LOUDERMILK, Georgia
+VICENTE GONZALEZ, Texas              ALEXANDER X. MOONEY, West Virginia
+AL LAWSON, Florida                   WARREN DAVIDSON, Ohio
+MICHAEL SAN NICOLAS, Guam            TED BUDD, North Carolina
+CINDY AXNE, Iowa                     TREY HOLLINGSWORTH, Indiana
+SEAN CASTEN, Illinois                ANTHONY GONZALEZ, Ohio
+AYANNA PRESSLEY, Massachusetts       JOHN ROSE, Tennessee
+RITCHIE TORRES, New York             BRYAN STEIL, Wisconsin
+STEPHEN F. LYNCH, Massachusetts      LANCE GOODEN, Texas
+ALMA ADAMS, North Carolina           WILLIAM TIMMONS, South Carolina
+RASHIDA TLAIB, Michigan              VAN TAYLOR, Texas
+MADELEINE DEAN, Pennsylvania         PETE SESSIONS, Texas
+ALEXANDRIA OCASIO-CORTEZ, New York   RALPH NORMAN, South Carolina
+JESUS ``CHUY'' GARCIA, Illinois
+SYLVIA GARCIA, Texas
+NIKEMA WILLIAMS, Georgia
+JAKE AUCHINCLOSS, Massachusetts
+
+                   Charla Ouertatani, Staff Director
+        Subcommittee on Investor Protection, Entrepreneurship, 
+                          and Capital Markets
+
+                   BRAD SHERMAN, California, Chairman
+
+CAROLYN B. MALONEY, New York         BILL HUIZENGA, Michigan, Ranking 
+DAVID SCOTT, Georgia                     Member
+JIM A. HIMES, Connecticut            ANN WAGNER, Missouri
+BILL FOSTER, Illinois                FRENCH HILL, Arkansas
+GREGORY W. MEEKS, New York           TOM EMMER, Minnesota
+JUAN VARGAS, California              ALEXANDER X. MOONEY, West Virginia
+JOSH GOTTHEIMER. New Jersey          WARREN DAVIDSON, Ohio
+VICENTE GONZALEZ, Texas              TREY HOLLINGSWORTH, Indiana, Vice 
+MICHAEL SAN NICOLAS, Guam                Ranking Member
+CINDY AXNE, Iowa                     ANTHONY GONZALEZ, Ohio
+SEAN CASTEN, Illinois, Vice Chair    BRYAN STEIL, Wisconsin
+EMANUEL CLEAVER, Missouri            VAN TAYLOR, Texas
+
+                            C O N T E N T S
+
+                              ----------                              
+                                                                   Page
+Hearing held on:
+    December 8, 2022.............................................     1
+Appendix:
+    December 8, 2022.............................................    33
+
+                               WITNESSES
+                       Thursday, December 8, 2022
+
+Allen-Ratzlaff, Cambria, Managing Director and Head of Investor 
+  Strategies, JUST Capital.......................................     5
+Honigsberg, Colleen, Professor of Law, Stanford Law School.......     7
+Rajgopal, Shivaram, Kester and Byrnes Professor of Accounting and 
+  Auditing, Columbia Business School.............................     9
+Seegull, Fran, President, U.S. Impact Investing Alliance.........    10
+Vollmer, Andrew N., Senior Affiliated Scholar, Mercatus Center at 
+  George Mason University........................................    12
+
+                                APPENDIX
+
+Prepared statements:
+    Allen-Ratzlaff, Cambria......................................    34
+    Honigsberg, Colleen..........................................    64
+    Rajgopal, Shivaram...........................................    73
+    Seegull, Fran................................................    77
+    Vollmer, Andrew N............................................    83
+
+              Additional Material Submitted for the Record
+
+Hill, Hon. French:
+    ``AON: Key Themes Emerge in the Second Year of Human Capital 
+      Management Disclosure for U.S. Companies,'' dated April 
+      2022.......................................................    90
+Huizenga, Hon. Bill:
+    Letter to Hon. Gary Gensler, Chair, U.S. Securities and 
+      Exchange Commission, dated December 7, 2022................   101
+Wagner, Hon. Ann:
+    Letter to Hon. Gary Gensler, Chair, U.S. Securities and 
+      Exchange Commission, dated November 28, 2022...............   103
+
+
+                   E, S, G, AND W: EXAMINING PRIVATE
+
+                     SECTOR DISCLOSURE OF WORKFORCE
+
+                      MANAGEMENT, INVESTMENT, AND
+
+                             DIVERSITY DATA
+
+                              ----------                              
+
+
+                       Thursday, December 8, 2022
+
+             U.S. House of Representatives,
+               Subcommittee on Investor Protection,
+             Entrepreneurship, and Capital Markets,
+                           Committee on Financial Services,
+                                                   Washington, D.C.
+    The subcommittee met, pursuant to notice, at 9 a.m., in 
+room 2128, Rayburn House Office Building, Hon. Brad Sherman 
+[chairman of the subcommittee] presiding.
+    Members present: Representatives Sherman, Foster, Vargas, 
+Gottheimer, Casten; Huizenga, Wagner, Hill, Mooney, Davidson, 
+and Steil.
+    Ex officio present: Representative Waters.
+    Chairman Sherman. The Subcommittee on Investor Protection, 
+Entrepreneurship, and Capital Markets will come to order. 
+Without objection, the Chair is authorized to declare a recess 
+of the subcommittee at any time.
+    Also, without objection, members of the full Financial 
+Services Committee who are not members of this subcommittee are 
+authorized to participate in today's hearing.
+    This is the last subcommittee hearing that I will chair for 
+at least 2 years. I look forward to working with the Republican 
+side next year.
+    Today's hearing is entitled, ``E, S, G, and W: Examining 
+Private Sector Disclosure of Workforce Management, Investment, 
+and Diversity Data.'' And this is a chance for us to look not 
+only at E, S, and G but also, ``W,'' for, ``workforce.''
+    I now recognize myself for 4 minutes for an opening 
+statement.
+    During today's hearing, we will examine a number of 
+important issues regarding the information that is disclosed to 
+investors. While a number of critical topics come in the areas 
+of environmental, social, and governance (ESG), and they will 
+be discussed here, we will also have a chance to look at 
+workforce (W). The lifeblood of any organization is its 
+workforce, and it is something about which investors are 
+concerned.
+    Since 1988, the European Union has required a report on 
+human capital investment in relation to salaries, bonuses, and 
+other benefits. But these disclosures are not required in the 
+United States and only 15 percent of the [audio malfunction] 
+official standards for defining the terms, determining what is 
+disclosed, tabulating the information, ensuring the internal 
+control of that tabulation, or auditing it.
+    Meanwhile, the U.S. economy has changed dramatically since 
+accounting standards were designed. It is not all on the 
+balance sheet anymore.
+    Back in my day, or before my day, if you wanted to look at 
+the book value of a company, you looked at the balance sheet. 
+They have a plant, they have a factory, they have some land; 
+that is their book value. Maybe they are worth 10 percent more 
+than that.
+    According to the Working Group on Human Capital Accounting 
+Disclosure, while in 1975, intangibles represented 17 percent 
+of the value of an S&P 500 company, today it is 90 percent. So, 
+90 percent of the value of what investors are looking at isn't 
+on the balance sheet. It is time to have a statement that at 
+least gives investors information about what is the most 
+valuable asset not on the balance sheet of most corporations, 
+and that is their workforce.
+    For over 5 years, a group of 26 institutional investors, 
+representing $3 trillion in assets, has petitioned the SEC for 
+a framework for disclosing information on human capital. And in 
+August of 2020, the SEC, under the leadership of Jay Clayton, 
+who was appointed by Donald Trump, adopted amendments to 
+Regulation S-K to require public companies to include a 
+description of human capital resources, but not in the kind of 
+form that those familiar with balance sheets and income 
+statements would recognize.
+    First, we need to define the terms so that it is parallel 
+from one company to another and understood by investors. And we 
+need to determine how that information is going to be 
+presented.
+    Second, we need to tabulate the information and do so in a 
+method that has internal controls so that we can rely on the 
+tabulation.
+    And finally, we need to audit adherence to the definitions, 
+the tabulation practices, and the internal control system that 
+leads to that tabulation. We do that for what is now the small 
+part of the balance sheet, the stuff we put on the balance 
+sheet. And we need to give investors information about 
+workforce.
+    Today, we will also look at the environmental and 
+greenhouse gas issues. And I know our witnesses, most of them, 
+are prepared to discuss that as well.
+    With regard to environmental disclosures, Scope 1 and Scope 
+2 being proposed by the SEC, I think make a lot of sense. It is 
+going to be hard to go into Scope 3, and that may be a bridge 
+too far. It may give us effects way beyond what we are trying 
+to achieve.
+    I look forward to learning more about how we can disclose 
+turnover rates, investment in workforce, and workforce 
+diversity. And we think we have outstanding witnesses who will 
+help us do that.
+    I now recognize the ranking member of the subcommittee, Mr. 
+Huizenga, for 5 minutes.
+    Mr. Huizenga. Thank you, Chairman Sherman.
+    And I appreciate the witnesses for being here and for your 
+testimony this morning.
+    I, frankly, I would be lying if I said I was surprised by 
+today's hearing topic. Sadly, today's hearing isn't about 
+investor protection, entrepreneurship, or capital markets. It 
+is about the Majority's latest attempt to legitimize the last 4 
+years of failed policy, most of that coming out of the SEC.
+    Unfortunately, or maybe fortunately for American small 
+businesses, Democrats have been unable to legislate their 
+climate and social policies. Instead, they have relied on 
+unelected regulators and bureaucrats to carry out that agenda.
+    And you don't have to go far to see this playing out. The 
+Securities and Exchange Commission's pending climate disclosure 
+rule is a primary example of overly-burdensome regulations done 
+by administrative overreach. Requiring the SEC to establish 
+mandatory disclosures on issues outside their expertise would 
+surely result in a complicated and confusing disclosure regime, 
+especially to the extent that information is not material for 
+the company. That is the watchword, ``materiality.''
+    Let's for a second focus on the topics at hand, E, S, and 
+G. And for this hearing, the Democrat Majority added, ``W,'' 
+which supposedly stands for, ``workforce.'' I would like to put 
+forward that maybe it stands for, ``woke.''
+    Specifically, I want to key in on corporate governance, 
+which refers to how an organization is managed and how 
+leadership performs and how stakeholder expectations are met.
+    I am also disappointed, frankly, that this committee--and I 
+have to take this moment to say that the committee has not 
+fulfilled its duty, not to mention its pledges, to me and 
+others on this committee and in the public to have SEC Chair 
+Gensler in front of this subcommittee or the Full Committee. It 
+has been over a year since he has appeared.
+    But under Chair Gensler, the SEC has experienced several 
+operational problems that have eroded public trust in the 
+Commission, preventing it from carrying out its statutory 
+mandate. Instead of meeting those stakeholder expectations, the 
+Agency has focused on pushing a far-left liberal agenda that 
+aims to impact every aspect of our capital markets.
+    According to an October 2022 inspector general report, 
+staff attrition at the SEC is at its highest rate in over a 
+decade. Not only does this diminish the SEC's ability to 
+protect investors and ensure adequate capital formation, it 
+reduces the quality of the SEC rulemaking being proposed, which 
+has been outsourced to temporary and inexperienced staff.
+    Coupled with consistent short comment periods, a technical 
+error that disrupted the public comment process, and a complete 
+lack of proposals that will facilitate capital formation, one 
+would have to give the SEC low marks for their corporate 
+governance and workplace management.
+    Lastly, I would like to provide some commentary on the 
+issue that has been front and center and, frankly, has caused a 
+lot of confusion and concern among marketplace participants. 
+This summer, Chair Gensler gave remarks in which he said, 
+``Retail investors have greater access to markets than at any 
+time in the past,'' but left open the possibility of 
+promulgating a rule on equity market structure reform, which we 
+learned yesterday will be added to the other 30 rule proposals 
+that he has given in the last 11 months. And that is going to 
+be released next week.
+    Retail participation in U.S. markets has grown across every 
+demographic, and today, self-directed retail investors make up 
+a specific portion of daily activity in our markets. The 
+current state of equity markets is the product of years of 
+private-sector innovation and prudent, fact-based, and data-
+driven public-sector rulemakings.
+    One of the SEC's chief mission objectives is to maintain 
+fair and orderly and efficient markets, which is something that 
+I wholeheartedly support. However, market reform should be 
+developed transparently with input from affected stakeholders 
+and with evidence that the proposed changes will achieve the 
+intended goal. We have yet to be given that evidence.
+    And without objection, Mr. Chairman, I would like to submit 
+a letter for the record to Chair Gensler from myself and Mr. 
+Gottheimer on market structure reform, outlining our concerns.
+    Chairman Sherman. Without objection, it is so ordered.
+    Mr. Huizenga. Thank you.
+    And, Mr. Chairman, Republicans on this committee have 
+warned our Democrat colleagues time and time again that there 
+would come a day when they couldn't protect this Administration 
+any longer. Fortunately, for small businesses and investors, 
+that day is coming.
+    I look forward to hearing from many of the officials who 
+have ignored these warnings and, frankly, ducked Congressional 
+oversight. That is certainly not going to happen anymore.
+    I look forward to working with all of my colleagues on this 
+subcommittee to achieve our shared objectives, making sure we 
+protect the investors, have fair and orderly markets, and 
+create market opportunity and capital formation. That is our 
+real goal and objective.
+    With that, I yield back.
+    Chairman Sherman. Thank you.
+    I now recognize the Chair of the Full Committee, Chairwoman 
+Waters, for one minute.
+    Chairwoman Waters. Thank you for holding this important 
+hearing, Chairman Sherman, and for your strong focus on 
+investor protection throughout your tenure as Chair of this 
+subcommittee.
+    Environmental sustainability and governance metrics, which 
+include human capital disclosures, are increasingly important 
+to investors. Earlier in this Congress, the House passed Mr. 
+Vargas' bill, H.R. 1187, the Corporate Governance Improvement 
+and Investor Protection Act, which would reform the disclosure 
+regime for public companies by requiring standardizing the 
+reporting of several important ESG metrics being discussed 
+today.
+    The SEC heard this body loud and clear and has moved 
+forward on a disclosure agenda that responds to the needs of 
+our nation's investors and workers. So, I look forward to 
+hearing the testimony today as we look to inform the SEC of its 
+work ahead.
+    Thank you, and I yield back.
+    Chairman Sherman. Thank you.
+    I want to thank the witnesses, not only for being here 
+today, especially today, because we had scheduled this hearing 
+for 2 days ago, and then, we had a series of 12 votes on the 
+House Floor. The witnesses rearranged their schedules, and we 
+appreciate their attendance.
+    We have a panel of distinguished witnesses: Cambria Allen-
+Ratzlaff, the managing director and head of investor strategies 
+at JUST Capital, and she is particularly focused on the, ``W,'' 
+in today's hearing, ``workforce,''; Dr. Colleen Honigsberg, who 
+has a Ph.D. in accounting and is a professor of law at Stanford 
+Law School--I thought I had a good background, being a CPA and 
+a graduate of Harvard Law, but a Ph.D. in accounting and a 
+professorship at Stanford shows me how much more I could have 
+tried to achieve; Dr. Shivaram Rajgopal, a professor of 
+accounting and auditing at Columbia Business School, and while 
+he is prepared to talk about both the, ``W,'' and the, ``E,'' 
+environment and workforce, I should point out that Dr. 
+Honigsberg is more focused here on the workforce; Fran Seegull, 
+the president of the U.S. Impact Investing Alliance, focusing 
+on environmental disclosures; and Andy Vollmer, a senior 
+affiliated scholar at the Mercatus Center at George Mason 
+University.
+    Witnesses are reminded that their oral testimony will be 
+limited to 5 minutes. You will be able to see a timer which 
+will indicate how much time you have left. I would ask you to 
+be mindful of the timer so that we can be respectful of both 
+your fellow witnesses' time and the time of the committee 
+members.
+    And without objection, your written statements will be made 
+a part of the record.
+    Also, without objection, I would like to enter into the 
+record a letter signed by the Working Group on Human Capital 
+Accounting Disclosure, dated June 7th, and signed by the last 
+two witnesses I introduced, since that letter is pretty much 
+the reason we are having this hearing.
+    Ms. Allen-Ratzlaff, you are now recognized for 5 minutes.
+
+STATEMENT OF CAMBRIA ALLEN-RATZLAFF, MANAGING DIRECTOR AND HEAD 
+              OF INVESTOR STRATEGIES, JUST CAPITAL
+
+    Ms. Allen-Ratzlaff. Thank you. Chairman Sherman, Ranking 
+Member Huizenga, and members of the subcommittee, good morning.
+    My name is Cambria Allen-Ratzlaff, and I am pleased to 
+appear before you today representing JUST Capital, where I am 
+managing director and head of investor strategies.
+    I also co-chair the Human Capital Management Coalition, now 
+a group of 37 large investors, representing over $8 trillion in 
+assets.
+    JUST Capital is an independent, nonprofit research 
+organization dedicated to measuring how America's largest 
+public companies create competitive value for their 
+shareholders, while serving their workers, customers, 
+communities, and the environment. Our view is that when 
+companies manage their stakeholder relationships well, 
+shareholders also benefit.
+    Every year we survey the American public to identify the 
+business issues that matter most to them. We then use publicly-
+available data to quantify performance of the Russell 1000 
+Index in meeting those priorities. The vast majority of this 
+data is hand-collected by our research team, taking 10,000 to 
+15,000 hours on average.
+    Once we have reviewed the data and assessed company 
+performance, we build our annual rankings. We also leverage the 
+data we collect to understand how performance translates into 
+investment returns. Our work goes where the voice of the 
+American public takes us.
+    Since 2015, we have engaged more than 160,000 Americans, 
+representative of the U.S. adult population. And we have found 
+that Americans are remarkably united in what they want 
+companies to prioritize: workers; wages; and jobs.
+    This holds across every single demographic group. Our 
+thesis is that companies that are better at managing their 
+stakeholder relationships tend to generate more returns for 
+their investors, and we have consistently observed this to be 
+true.
+    For example, if an investor purchased an equally-weighted 
+index of the top 100 companies in our rankings, which we refer 
+to as the JUST 100, the index would have generated over 6 
+percent in excess returns against the Russell 1000 from March 
+2019. If you were to invest in an index of companies scoring in 
+the top 10 percent of our worker stakeholder group from the 
+beginning of this year through December 1st, you would have 
+generated in excess of a 9.29 percent return.
+    As U.S. public companies are born from and an integral part 
+of American society, it is perhaps unsurprising that what is 
+good for workers, is good for investors. Our reporting system, 
+however, has been slow to adapt.
+    Consider this. The only line item data U.S. public 
+companies are required to disclose on their workforce is head 
+count. This reporting standard was set in 1973 when over 80 
+percent of the S&P 500 Market Cap was property, plant, and 
+equipment. Fast-forward 50 years to today, and 90 percent of 
+the S&P 500 is based on intangible assets. But it is human 
+capital, the collective knowledge, skills, and experiences of 
+the workforce powering economic growth.
+    But as our financial reporting standards have lagged, as 
+the Chair noted, this also means that up to 90 percent of 
+company value may not be reflected in companies' disclosed 
+financials, and investors have taken note.
+    Speaking on behalf of the Human Capital Management 
+Coalition, the Coalition has urged financial and accounting 
+standard-setters to improve access to workforce data through a 
+balanced approach where principles-based disclosures are 
+anchored by four foundational, decision-useful disclosures that 
+apply to all companies: one, the number of full-time, part-
+time, and contingent or contracted labor directly involved in 
+firm operations; two, labor costs; three, turnover; and four, 
+workforce diversity data sufficient to understand the company's 
+efforts to access and develop new sources of talent, as well at 
+how effective these efforts are.
+    Without this information, investors are flying blind, 
+unable to understand how well a company manages its work and 
+how it impacts a company's overall business risks and prospects 
+to most efficiently direct their financial capital to its 
+highest-value use.
+    Today, even attempting to get this information is 
+excessively time-consuming. When JUST Capital assessed 
+workforce disclosure at the 100 largest U.S. employers, it took 
+a team of 2 very skilled data scientists over 130 hours to 
+collect data on a discrete number of human capital metrics or 
+find the data completely unavailable.
+    If a sophisticated research organization like JUST Capital, 
+or large global institutions with billions of dollar in 
+capital, are unable to access decision-useful, comparable, 
+consistent, and reliable workforce data, small retail investors 
+are at even more of a disadvantage.
+    Simply put, companies that are best at harnessing the 
+awesome power of their workforces are also best-positioned to 
+generate long-term value for shareholders.
+    Thank you, and I look forward to your questions.
+    [The prepared statement of Ms. Allen-Ratzlaff can be found 
+on page 34 of the appendix.]
+    Chairman Sherman. Thank you.
+    Dr. Honigsberg, you are now recognized for 5 minutes.
+
+STATEMENT OF COLLEEN HONIGSBERG, PROFESSOR OF LAW, STANFORD LAW 
+                             SCHOOL
+
+    Ms. Honigsberg. Thank you, Chairman Sherman and Ranking 
+Member Huizenga, for the opportunity to testify before you 
+today.
+    To give you a sense of my background, as Chairman Sherman 
+had noted, I began my career with PricewaterhouseCoopers. While 
+I was there, I became very interested in accounting policy. So, 
+I returned to school, earning a J.D. from Columbia Law School 
+and a Ph.D. in accounting from Columbia Business School. I am 
+now a professor of law at Stanford Law School where I teach 
+classes on securities law, corporate governance, and 
+accounting. My recent scholarship focuses on the empirical 
+study of accounting questions such as human capital disclosure.
+    This past spring, I was delighted to join forces with my 
+colleague here today, Columbia Business School Professor 
+Shivaram Rajgopal, along with other esteemed academics, 
+including former SEC Commissioners Joe Grundfest and Robert 
+Jackson, to create the Working Group on Human Capital 
+Accounting Disclosure.
+    In June, our group petitioned the SEC to develop rules 
+requiring public companies to disclose sufficient information 
+for investors to assess the extent to which firms invest in 
+their workforce.
+    I want to highlight in my testimony today that prompt 
+action on labor cost disclosures is necessary due to two market 
+trends: the growth of human capital firms; and the increasing 
+prominence of net loss firms.
+    First, consistent with the comments of Chairman Sherman in 
+his opening remarks, let's consider the growth of the so-called 
+human capital firm in the 21st Century.
+    An increasing proportion of public companies derive much of 
+their value from intangible assets. Yet, only about 15 percent 
+of those firms even disclose information as basic as total 
+labor costs. As the chairman noted, in 1975, intangibles 
+represented 17 percent of the value of firms in the S&P 500. By 
+2020, intangibles represented 90 percent of those firms' value. 
+Yet, we are using largely the same accounting principles to 
+assess these assets' value.
+    Indeed, we can see a little legacy of these rules in 
+accounting today as different forms of investment are treated 
+differently. Investments in people receive what I would 
+consider to be the worst quality accounting treatment, as these 
+expenditures are neither capitalized nor disclosed.
+    This creates real problems for valuation of today's public 
+companies as investors are unable to determine what portion of 
+cash outflows should be considered an investment in the firm's 
+future growth and productivity and what portion of cash 
+outflows merely allow the firm to maintain its current level of 
+productivity.
+    Second, an increasing number of public companies report a 
+loss for accounting purposes, making analysis of firms' 
+operational costs, the most significant of which is likely to 
+be labor, more important than ever to understanding a firm's 
+value.
+    In 2020, for the first time, more than half of U.S.-listed 
+companies reported negative earnings. Many of these companies 
+are young, technology-driven firms, and investors are betting 
+on their future profitability. But commonly-used valuation 
+techniques like price-to-earnings ratios cannot be used to 
+value these firms. Instead, investors must project future 
+earnings, an analysis that requires reliable information about 
+costs, margins, and scaleability. But that information is 
+obfuscated under current accounting principles, as investors 
+don't get a sufficiently detailed breakdown of firms' cost 
+structures to identify contribution margins.
+    As I highlighted in my written testimony, that is why our 
+working group proposed three recommendations. First, managers 
+should be required to disclose what portion of workforce costs 
+they believe to be an investment in the firm's future growth.
+    Second, workforce costs should be treated in the same way 
+that research and development costs are: expensed but 
+disclosed. That would give investors the information they need 
+to capitalize workforce costs in their own valuation models, 
+should they choose to do so.
+    Finally, the income statement should be disaggregated to 
+give investors more insight into workforce costs.
+    As noted above, investors in loss-making firms need 
+information on costs, margins, and scaleability to estimate 
+future profitability. But under current accounting rules, 
+scores of costs are aggregated together under generalized 
+headers such as costs of goods sold or selling, general, and 
+administrative.
+    Rather than purely generalized categories, investors need 
+detailed information on specific operating costs, the most 
+important of which is labor. Without more detailed cost-level 
+information, it is difficult, if not impossible, to reliably 
+value these firms or to stress test the market's valuation of a 
+firm using fundamental analysis.
+    Thank you again for the opportunity to testify here before 
+you today, and I would be delighted to answer any questions 
+that you may have.
+    [The prepared statement of Dr. Honisberg can be found on 
+page 64 of the appendix.]
+    Chairman Sherman. Thank you so much.
+    Dr. Rajgopal, you are now recognized for 5 minutes.
+
+STATEMENT OF SHIVARAM RAJGOPAL, KESTER AND BYRNES PROFESSOR OF 
+       ACCOUNTING AND AUDITING, COLUMBIA BUSINESS SCHOOL
+
+    Mr. Rajgopal. Thank you.
+    Thank you, Chairman Sherman, Ranking Member Huizenga, Full 
+Committee Chairwoman Waters, and esteemed members of this 
+subcommittee for inviting me to speak today. It is an honor to 
+be here.
+    My name is Shivaram Rajgopal and I am the Kester and Byrnes 
+Professor of Accounting and Auditing at Columbia Business 
+School, and I was fortunate enough to be on the Ph.D. 
+committee, so my testimony touches mostly on the, ``E,'' and a 
+bit on the, ``W,'' part of the hearing. In summary, I express 
+support for the SEC's proposed climate risk disclosure rules. 
+But I do have mixed feelings about Scope 3 emissions. I also 
+underscore the need for mandatory disclosure related to 
+compensation, workforce turnover, and tenure on publicly-listed 
+U.S. companies.
+    Let's start with the SEC's proposed climate rules related 
+to, ``E.'' I support the SEC's attempt to mandate vigorous, 
+comparable, consistent data on greenhouse gas emissions across 
+companies.
+    My perspective is informed by a research project where my 
+colleagues and I tried to assess whether the so-called net-zero 
+pledges of 57 oil and gas companies are credible. These are 
+just 57 companies, but it took us 6 months to code what these 
+companies were doing. The underlying data is scattered across 
+press releases, websites, 10-Ks, and sustainability reports. 
+There is tremendous variation in the path followed to a net-
+zero promise, the GHC scope category the promise covered, the 
+reporting framework followed, and the verifiability, if any, of 
+the promised path to this net-zero idea.
+    Companies routinely follow multiple NGO-sponsored 
+frameworks such as the TCFD, the GRI, the CDP, and the SASB's 
+frameworks. On top of that, the four ESG ratings, ISS, 
+Sustainalytics, Bloomberg, and MSCI provide environmental 
+ratings that don't converge and are all over the map.
+    Without rigor, consistency, comparability, and 
+verifiability of climate risk disclosures, these companies, I 
+believe, cannot be held accountable for the promises they make 
+to investors in terms of carbon reduction. This concern is even 
+more pressing for the investors of ESG funds that claim to hold 
+publicly-listed stocks that are climate-friendly.
+    It is also useful to find out that disclosure frameworks 
+suggested by the SEC are agnostic with respect to investors' 
+preference about GHG. Comparable and consistent GHG disclosures 
+can also inform an investigator who wants to bet against, not 
+for, the direction of high-GHG emitters. If an investor wants 
+to buy stocks with high-GHG emissions, so be it.
+    But I do have mixed feelings about the SEC's requirement to 
+disclose Scope 3 data. Consider a case of a publicly-listed 
+pizza company that sells prepared pizzas to a retail 
+distributor. The retail distributor then uses delivery services 
+to get the pizza to the customers' homes. Asking the publicly-
+listed pizza company to calculate Scope 3 emissions related to 
+those deliveries can potentially be burdensome.
+    The other conceptual issue to worry about is the 
+significant double counting of emissions, if one were to add up 
+all of the emissions across companies. So if Chevron sells jet 
+fuel to, say, Delta Airlines, for use in a plane made by 
+Boeing, these are Scope 3 for Chevron and Boeing, and Scope 1 
+for Delta. And these emissions get counted 3 times, which is 
+problematic for any decent accounting system. Every Scope 2 or 
+Scope 3 emission is someone else's Scope 1 emission.
+    But having said that, if a company has promised a Scope 3 
+reduction to investors, we need disclosures to check whether 
+the promise is actually being met.
+    Let me use the last few minutes I have to touch on and 
+support the petition that Professor Honigsberg and I signed and 
+filed with the SEC. In a typical high school economics class, 
+we teach students that a company creates shareholder value by 
+combining materials, labor, capacity, and some managerial 
+talent. But if you take that high school economics model to a 
+modern-day income statement, it is virtually impossible to get 
+answers to any of these questions. We effectively have a six-
+line income statement. I don't know where materials are, 
+somewhere in cost of goods sold, but I don't know how much. 
+Labor is everywhere in every line item, except I don't know 
+what the labor costs are and what the composition across the 
+line items in the financial statement might be.
+    As Chairman Sherman mentioned, barely 15 percent of U.S. 
+companies tell us what labor costs are in their financial 
+statements.
+    In a sense, the information would help us in four concrete 
+ways: understanding intangibles; understanding the gains shared 
+between labor and capital; understanding substitution of labor 
+for AI, automation outsourcing; and understanding spikes in 
+abnormal turnover.
+    In summary, I support the SEC's climate risk disclosures 
+with qualified enthusiasm for Scope 3 disclosures. I also want 
+to reiterate support--
+    Chairman Sherman. Thank you.
+    Mr. Rajgopal. --for my joint statement with the--
+    Chairman Sherman. Thank you.
+    Mr. Rajgopal. --on human capital.
+    Thank you.
+    [The prepared statement of Dr. Rajgopal can be found on 
+page 73 of the appendix.]
+    Chairman Sherman. Ms. Seegull, you are now recognized for 5 
+minutes.
+
+  STATEMENT OF FRAN SEEGULL, PRESIDENT, U.S. IMPACT INVESTING 
+                            ALLIANCE
+
+    Ms. Seegull. Thank you to the subcommittee for convening 
+today's hearing.
+    And thank you to Full Committee Chairwoman Waters, 
+Subcommittee Chairman Sherman, and Ranking Member Huizenga and 
+the other esteemed members of the subcommittee for your 
+leadership.
+    Let me start by saying that markets can only exist and 
+operate efficiently when there is a free flow of information. 
+And that is particularly true of our capital markets.
+    It is core to the mission of the SEC to empower investors 
+by engaging and ensuring they are equipped with clear, 
+comparable, decision-useful data.
+    As a head of an organization representing a wide range of 
+investor perspectives, and a former chief investment officer, I 
+join you today to share our support for SEC action to create 
+standardized corporate disclosures on human capital management 
+factors.
+    I serve as president of the U.S. Impact Investing Alliance, 
+a nonpartisan organization committed to catalyzing the growth 
+of impact investing, by which we mean investments that create 
+financial returns alongside measurable and positive social, 
+economic, or environmental impact.
+    Members of our boards and councils include institutional 
+investors and individuals collectively owning hundreds of 
+billions of invested assets, in addition to asset and fund 
+managers collectively overseeing more than $1 trillion in 
+assets.
+    Impact investors are motivated by a range of objectives, 
+both financial and values-based. Some impact investors seek to 
+create economic opportunity in historically-underinvested 
+communities. Others look to foster the technology and 
+innovation that will drive a sustainable 21st Century economy. 
+But what unites all investors is the need for access to 
+corporate information that is material, reliable, and 
+comparable in order to express their individual or 
+institutional priorities and invest their assets accordingly.
+    With that context in mind, I would like to make five key 
+points for the subcommittee's consideration.
+    First, the U.S. Impact Investing Alliance and the investors 
+we work with strongly urge the SEC to pursue rulemaking on 
+corporate disclosures for human capital management factors. 
+This should include, among other things, the total number of 
+employees by type, and the total cost of a company's workforce, 
+turnover rates, and employee diversity demographics at each 
+level of the company.
+    Second, we support these standardized disclosures because a 
+company's workforce is one of its greatest assets, and the 
+success of all companies is dependent on its workers. As such, 
+investors are eager to understand how a company attracts, 
+manages, invests in, and retains its talent, factors that 
+relate directly to business performance.
+    Third, such a rulemaking is clearly consistent with the 
+SEC's mandate to protect investors. Transparency and 
+accountability are the hallmarks of efficient markets. But the 
+current lack of information creates market inefficiencies, 
+harming investors and weakening the financial system. It is in 
+the long-term interest of both individual companies and the 
+wider economy to be responsive in disclosing human capital 
+management factors to investors.
+    Fourth, such disclosures would improve market efficiency 
+and would not impose significant burdens on issuers. Corporate 
+leaders currently navigate a complex web of private disclosure 
+standards in order to meet investor demands. The SEC should 
+standardize these disclosures and thereby create clarity and 
+benefits for issuers, investors, and the broader markets alike.
+    Lastly, SEC action on human capital management disclosure 
+is a matter of American economic leadership and 
+competitiveness. Global regulators are moving forward with 
+their own disclosure frameworks, placing U.S. investors and 
+corporations at an information disadvantage if the U.S. does 
+not pave its own path forward.
+    We believe the clear and consistent disclosure of human 
+capital management factors will make existing U.S. issuers 
+stronger. It will also attract more capital into businesses and 
+industries that will, in turn, create pathways to economic 
+opportunity for American workers.
+    Collectively, these five points show how a streamlined and 
+standardized corporate disclosure framework on human capital 
+management factors from the SEC will fortify the transparency, 
+accountability, and efficiency of our capital markets and, in 
+doing so, enhance the competitiveness of the U.S. economy for 
+many years to come.
+    Thank you to the subcommittee for this opportunity to speak 
+on such an important topic for U.S. investors.
+    [The prepared statement of Ms. Seegull can be found on page 
+77 of the appendix.]
+    Chairman Sherman. Thank you.
+    Mr. Vollmer, you are now recognized for 5 minutes.
+
+  STATEMENT OF ANDREW N. VOLLMER, SENIOR AFFILIATED SCHOLAR, 
+           MERCATUS CENTER AT GEORGE MASON UNIVERSITY
+
+    Mr. Vollmer. Chairman Sherman, Ranking Member Huizenga, and 
+members of the subcommittee, thank you for inviting me.
+    My written statement addresses three topics and provides 
+some information about my background. In these oral remarks, I 
+would like to summarize a few main points.
+    As noted in my written statement, my comments are solely my 
+own and are not on behalf of the Mercatus Center or any other 
+person or organization.
+    The subcommittee is considering a possibility of requiring 
+additional disclosures on workforce management. The question 
+about new areas of disclosure by public companies comes up 
+regularly. When Congress or the SEC is considering the 
+possibility of adding to the already-extensive list of 
+disclosures required of reporting companies, it should be 
+guided by a set of basic principles. My written statement lists 
+several principles.
+    For example, Congress or the SEC should impose new 
+disclosure obligations only when it has data or evidence of a 
+strong need or a serious continuing harm that the private 
+markets will not solve and that a law could solve.
+    Congress should evaluate the costs and benefits of possible 
+new disclosure areas. One cost, of course, is compliance. 
+Another cost is that investors, even sophisticated investors, 
+find that disclosure documents under the current system are 
+already long, complicated, and difficult to understand. New 
+disclosure areas with detailed information make the problem 
+worse.
+    A further cost is that new required disclosures restrict 
+personal freedom. Congress should always bear in mind that new 
+laws can reduce liberty. That is a genuine cost to take into 
+account.
+    The bills and proposals for more disclosures in the 
+workforce or human capital management area raise questions 
+under these criteria. In particular, the need for more 
+disclosure is open to doubt. The SEC expanded required human 
+capital disclosures in 2020 and obliged companies to provide 
+additional quantitative and qualitative information.
+    It also deliberately decided not to require extra metrics 
+and statistical information so that each company could discuss 
+the workforce issues relevant to its own business.
+    Additional disclosures in the area would certainly raise 
+costs, especially costs of compliance, but would not 
+necessarily produce benefits greater than those produced by the 
+2020 SEC rule.
+    My written statement also covers two other topics. I 
+encourage the subcommittee to make progress on reforming the 
+statutes and rules on capital formation. Congress could reduce 
+obstacles set up by the public offering process, a complicated 
+set of exemptions from that process, and the lengthy and 
+burdensome set of disclosures that reporting companies must 
+make.
+    The final topic I touch on in my written statement concerns 
+the way the current SEC is managing and administering its work. 
+A majority of the Commission has proposed a long list of major 
+rules in quick succession, in ways that have disserved the 
+rulemaking process and the public. The accelerated schedule has 
+prevented the SEC staff from adequately developing and 
+preparing draft rules and has denied reasonable amounts of time 
+for the public to comment. That has diminished the quality of 
+the proposed rules, and has lowered staff morale and increased 
+staff departures.
+    Congress should consider systems to address these problems.
+    Those are the main points in my written statement. I would 
+be happy to answer questions.
+    [The prepared statement of Dr. Vollmer can be found on page 
+83 of the appendix.]
+    Chairman Sherman. Thank you.
+    I now recognize the Chair of the Full Committee, Chairwoman 
+Waters, for 5 minutes for questions.
+    Chairwoman Waters. Thank you very much.
+    I want to address this question to Ms. Seegull.
+    According to surveys of public company executives, a 
+majority of the CEOs identified human capital as one of the 
+most valuable assets within their companies. Although many 
+companies have taken the initiative to disclose human capital-
+related information on their own, including diversity 
+statistics, others have not.
+    Further, there are widespread differences regarding how 
+companies disclose investments in their workforce. For example, 
+firms in the European Union are required to report human 
+capital investments and salaries, bonuses, and other benefits, 
+as well as board diversity information. But because similar 
+disclosures are not required in the United States, only 15 
+percent of S&P 500 firms voluntarily do so.
+    According to the Embankment Project for Inclusive 
+Capitalism, however, those U.S. companies that do voluntarily 
+disclose this information outperform those that do not.
+    As your organization interacts with many investors, can you 
+please discuss why workforce, or human capital metrics, 
+particularly diversity-related information, is important to 
+investors?
+    Ms. Seegull. Thank you for the question, Chairwoman Waters.
+    In terms of investor demand among the network of investors 
+that we work with, in June of this year the U.S. Impact 
+Investing Alliance joined nearly 50 investor and business 
+organizations in writing to SEC Chair Gensler, encouraging the 
+Agency to prioritize standardized disclosures on human capital 
+management specifically. And that includes diversity data, 
+which it is worth noting, is already collected by companies in 
+their EEO-1 data. I think what we are asking here on diversity 
+in particular is the disclosure of data that is already being 
+disclosed.
+    I was reading and enjoying a Harvard Law School and IARS 
+Institute report on materiality that specifically talks about 
+human capital disclosure. It effectively is a metastudy of 92 
+empirical studies that examine the relationship between HR 
+policies and financial outcomes, including return on equity, 
+return on investment, and profit margins. And this metastudy 
+effectively concluded that there is sufficient evidence of 
+human capital materiality to financial performance to warrant 
+inclusion in standard investment analysis.
+    Specifically, as it relates to diversity across corporate 
+boards, senior management, and overall workforce, we know, 
+according to studies, that diversity corresponds with better 
+financial performance and resiliency, as well as a company's 
+ability to attract and retain talent.
+    And I will also mention on the diversity piece the 
+investors that we work with disclose workforce disclosure by 
+race, gender, and LGBTQ+ and disability status so that 
+investors can understand the diversity and the strength of 
+workforce as a way of assessing a company's strength and 
+allocating capital thereof.
+    Chairwoman Waters. Thank you very much.
+    I have a little time left, and I would like to direct this 
+question to Professor Rajgopal.
+    As you know, the SEC's proposed disclosure rule applies 
+only to publicly-listed companies. Would you comment on the 
+benefits of extending these disclosure requirements to 
+similarly-situated but privately-held operating companies that 
+issue unregistered securities, or operating companies that are 
+wholly and substantially owned by private equity funds, such as 
+Staples, which is owned by Sycamore Partners, and PetSmart, 
+which is owned by BC Partners?
+    Mr. Rajgopal. Thank you, Chairwoman.
+    Part of the problem with this ESG disclosure idea is that 
+if you mandate something for the publicly-listed companies, 
+there is always a possibility of transparency arbitrage. So, if 
+the rules become harder for public companies, you create 
+incentives for these people to go private. And then, the exact 
+problem that you were trying to solve in the public space just 
+migrates to a different area.
+    One has to be careful about this information arbitrage 
+idea, and this has been going on in other domains for a long 
+time. That is my concern.
+    Chairwoman Waters. Thank you.
+    I yield back.
+    Chairman Sherman. Thank you.
+    And I now recognize the ranking member of the subcommittee, 
+Mr. Huizenga, for 5 minutes.
+    Mr. Huizenga. Thank you.
+    Mr. Vollmer, is it a correct assertion that any of the 
+workforce management or diversity data items being considered 
+here today would already have been disclosed if they were 
+material to investors?
+    Mr. Vollmer. I think that is true, since the 2020 SEC 
+expansion of the rule.
+    Mr. Huizenga. Okay. And has the materiality standard, which 
+has been the recognized standard for decades, served the 
+American investors well?
+    Mr. Vollmer. It has served American investors extremely 
+well.
+    Mr. Huizenga. Okay. Is there a good reason to deviate from 
+that standard, as each of these bills do?
+    Mr. Vollmer. I think a materiality qualifier needs to be 
+included in any additional disclosures that Congress adopts or 
+the SEC adopts.
+    Mr. Huizenga. Just a short while ago, Ms. Seegull 
+actually--and I wrote this down--was talking about workforce 
+disclosures. And she said really what we are asking for is, 
+``the disclosure of data that is already disclosed.'' That 
+didn't make a whole lot of sense to me, other than maybe 
+mandating it in a certain form through the SEC. And, obviously, 
+there are costs when you are forcing companies to disclose 
+information that is not material to investors. Correct?
+    Mr. Vollmer. The cost can be extremely high.
+    If you go back to the very beginning when Justice Marshall 
+adopted the materiality standard for proxy statements in a case 
+called, TSC, he warned that a corporation and its management 
+could be subject to liability for insignificant statements or 
+misstatements and that shareholders could be buried in an 
+avalanche of trivial information.
+    Mr. Huizenga. Yes. And an expansion of that is lately, we 
+have seen some Democrat SEC Commissioners, in their speeches, 
+call for ESG disclosure mandates on private companies. And the 
+climate disclosure proposal would impose disclosure 
+requirements indirectly on private companies through the Scope 
+3 requirements--Professor Rajgopal had mentioned a pizza 
+delivery company.
+    I have Gerber Baby Food in my district, which is owned by 
+Nestle, a publicly-traded company. So, you are now going to go 
+and effectively require family-owned small farms that supply 
+the peas, the carrots, and the corn that is steamed and put in 
+a jar to now do a Scope 3 disclosure.
+    And as I talked to one of the farmers, he said, ``I am the 
+guy who does all the reports.'' They are struggling to make 
+sure they hit the organic versus the nonorganic, much less 
+having a compliance department. There is none. It is completely 
+unworkable, as has been discussed.
+    But a lot of these ESG mandates that are being discussed 
+are for publicly-traded, because that is who the SEC regulates. 
+But wouldn't these direct, much less these indirect disclosure 
+requirements on privately-held companies be concerning to you 
+as well?
+    Mr. Vollmer. I think trying to impose some of these broad 
+and extensive disclosure obligations on private companies would 
+be extremely unwise. Not only would you deter people from using 
+the securities systems to raise capital, but you are talking 
+about a group of investors for private companies that are 
+extremely sophisticated and know what information they need to 
+make investment decisions.
+    That is how the system operates at the moment. There is 
+really no need to require large sets of additional disclosures.
+    Mr. Huizenga. They are sophisticated investors apparently 
+until it comes to FTX, but that is another hearing that is 
+going to be coming up.
+    And I question, frankly, whether it is legal. How do you 
+have the legal ability to go in and force a privately-traded, 
+privately-held company to do these types of disclosures that 
+are not material?
+    I do want to also quickly touch on, in my last remaining 
+seconds here, Professor Honigsberg, you had talked about what I 
+viewed as accounting principles. That is very different than 
+SEC-mandated disclosures. And as we were chatting up here, I 
+think that is an area that we can and should discuss. But a 10-
+K or a 10-Q is very different than having the SEC come in on an 
+ESG mandate.
+    But we ultimately need to know how these mandates help 
+shareholders and how we make sure that we don't add additional 
+regulatory burdens on those returns, thus harming mom-and-pop 
+investors, as well as those institutional investors.
+    My time has expired, and I yield back.
+    Chairman Sherman. Thank you.
+    I would like to comment that I believe our ranking member 
+is more woke than he may realize.
+    He tells us that the, ``W,'' for today's hearing is for, 
+``woke,'' and the, ``W,'' for today's hearing is providing 
+workforce metrics. So, if it is woke to want workforce metrics, 
+an investor tries to evaluate a company, we here have to 
+evaluate the SEC. The gentleman does that, and he focused on 
+turnover and attrition at the SEC.
+    If he uses workforce metrics to evaluate entities that he 
+has to evaluate, why shouldn't investors have workforce metrics 
+to evaluate companies? And if it is woke to care about 
+workforce attrition, then I thank the--yes?
+    Mr. Huizenga. Will the gentleman yield?
+    I am just trying to fit in.
+    Chairman Sherman. Good.
+    Mr. Huizenga. So--
+    Chairman Sherman. And the fact is that workforce is 
+material to investors. My fear as an old accountant is that we 
+are doing a great job of reporting a tiny portion of the 
+information that is needed.
+    As the witnesses have pointed out, back in 1975 and 
+before--and keep in mind, the balance sheet, the income 
+statement we disclosed is 100-years-old. Back then, even in 
+1975, 90 percent of the value of the company was the stuff that 
+is on the balance sheet today. Now, it is 20 percent or less of 
+the value of the company is what is the balance sheet today. We 
+need a supplemental statement.
+    Mr. Vollmer tells us that investors have perhaps been 
+overwhelmed by too much information but, obviously, workforce 
+metrics ought to be included, and if you watch CNBC, you will 
+see that investors want more information.
+    The ranking member is concerned about our power to require 
+disclosures from public companies. I say we clearly have that 
+power under the Commerce Clause. And I would point out that we 
+ought to provide--that when we are talking about large 
+companies, we ought to require such disclosures just to keep 
+things even between the companies that investors are allowed to 
+invest in and the ones that are privately--that they can't 
+invest in.
+    Ms. Allen-Ratzlaff, studies have shown--and these studies 
+are impressive, at least to some investors--that companies make 
+better decisions when their decision-making group is diverse. 
+Should we disclose the diversity of the board, the executive 
+group, or the diversity of, say, the top 5 percent in 
+compensation at a company?
+    Ms. Allen-Ratzlaff. Thank you, Chairman Sherman, for that 
+question.
+    Looking at the totality of disclosures that we have 
+currently today, when you are talking about, for example, board 
+diversity, that is something that right now, some companies 
+disclose. Some do not. But investors certainly are looking for 
+that information. And right now what we have is a situation 
+where investors essentially are guesstimating more or less the 
+diversity of boards, even though to your point there is 
+research showing time and time again that diverse boards--and I 
+would say diversity across the board--are better at making 
+decisions. They create more value for shareholders. Period. 
+That is what shareholders care about.
+    And I would also point out that we were talking about the 
+S-K rules which went into effect in November 2020. And JUST 
+Capital's data shows that 32 percent of companies at the 
+beginning of 2021 disclosed some type of demographic data.
+    As of September 2021--
+    Chairman Sherman. I am going to interrupt. I have limited 
+time.
+    Ms. Allen-Ratzlaff. Yes.
+    Mr. Sherman. But, yes, all of these companies are telling 
+us things without universal definitions, tabular displays, 
+internal control, or auditing; they are just doing it on their 
+own.
+    And I would point out that Mr. Vollmer says that accounting 
+standards diminish liberty. We don't give companies the liberty 
+to decide what is on the balance sheet. We tell them at the 
+Financial Accounting Standards Board (FASB). And we should have 
+standards for disclosing other information.
+    I want to thank Professor Rajgopal for pointing out some of 
+the accounting difficulties of dealing with Scope 3. I know a 
+lot of environmentalists--I am always the only accountant in 
+the room--and they don't know how tough it is.
+    I want to thank one of the witnesses for pointing out that 
+if we in the U.S. don't provide information that at least some 
+investors want, we will lose out to other investment markets.
+    And, finally, I want to point out that the SEC has been 
+badgered in this room for the 26 years I have been here for not 
+getting their job done. Thank God, they are working hard. They 
+are getting their job done.
+    And I will now recognize Mrs. Wagner.
+    Mrs. Wagner. Thank you, Mr. Chairman.
+    I have been, along with many others, very troubled that the 
+SEC is deviating from its core mission of protecting investors 
+and facilitating capital formation. It is as simple as that.
+    In fact, I, too, sent a letter last Monday to Chair 
+Gensler, expressing my concerns with this proposed rule to 
+reform U.S. equity market structures. This soon-to-be proposed 
+rule appears to have been hastily developed without any 
+empirical evidence that there is a problem with the current 
+quality of U.S. equity markets for retail investors.
+    At a time when our equity markets remain the deepest, the 
+most-liquid in the world, and provide retail investors with 
+historically-high access to low-cost investment opportunities, 
+the SEC's recommendations will have negative consequences on 
+millions of mom-and-pop retail investors working to simply 
+secure their financial future.
+    And I would like to enter, Mr. Chairman, this letter into 
+the record.
+    Chairman Sherman. Without objection, it is so ordered.
+    Mrs. Wagner. And I so look forward to finally questioning 
+Chair Gensler on this matter in the next Congress. It is long 
+overdue.
+    I am further concerned that the SEC is attempting to 
+implement a partisan policy agenda through additional 
+government mandates.
+    Mr. Vollmer, you touched on this some. But would requiring 
+the SEC to establish mandatory disclosures on issues outside of 
+its expertise and its mission, such as the proposals before us, 
+result in a complicated and confusing disclosure regime for 
+investors and businesses?
+    Mr. Vollmer. Yes. It already has, and it will continue to 
+do so if they continue on the same path.
+    Mrs. Wagner. In your opinion, is the SEC the appropriate 
+entity for determining reporting metrics and industry standards 
+when it comes to workforce management and diversity?
+    Mr. Vollmer. I am not aware that they have that kind of 
+expertise. In particular, I think that some of the bills and 
+the proposals would require very detailed disclosures in many 
+different areas where I am quite sure the SEC lacks the 
+expertise. But certainly, there are some employee and workforce 
+areas where the SEC is competent.
+    Mrs. Wagner. Does piling on additional disclosure 
+requirements help increase capital formation and encourage 
+companies to go public?
+    Mr. Vollmer. Oh, I think there is a major concern with 
+raising the cost of compliance with the disclosures that the 
+SEC administers. It deters companies from going public.
+    Mrs. Wagner. Yes, it does.
+    Mr. Vollmer. And that deprives lots of retail investors of 
+opportunities, because the private market offerings exclude a 
+great many retail investors.
+    Mrs. Wagner. It is a huge problem currently.
+    Mr. Vollmer. I agree.
+    Mrs. Wagner. Mr. Vollmer, can you describe to us how the 
+SEC lacks statutory authority to adopt the rules in its climate 
+disclosure proposal?
+    Mr. Vollmer. I would be delighted, but I don't think you 
+have enough time. I wrote two separate submissions and filed 
+them with the SEC about their proposed climate change rules. 
+The first one is a rather lengthy legal analysis of their lack 
+of statutory authority. And the core of the point is, if you go 
+back to 1933, the Securities Act of 1933 set the disclosure 
+framework that has remained in place. It focuses on certain 
+subjects, and those subjects all relate to the valuation of the 
+company: financial performance; financial statements; the 
+business; and what securities are being offered. Congress was 
+very precise about these different categories of information. 
+And that approach has carried forward to today, and the SEC is 
+not permitted to vary it without Congress' consent.
+    Congress has not authorized--
+    Mrs. Wagner. And what kind of regulatory precedent would 
+that set for the SEC and for other Federal agencies if it would 
+do so?
+    Mr. Vollmer. We have already seen that the courts are very 
+concerned about agencies exceeding their statutory boundaries.
+    Mrs. Wagner. Right.
+    Mr. Vollmer. Because then you have regulation by a very 
+small group of unelected people, rather than having policies 
+set by this Congress.
+    Mrs. Wagner. Unelected bureaucrats. I thank you for your 
+testimony.
+    I am out of time, and I yield back.
+    Chairman Sherman. Thank you.
+    The gentleman from Illinois, Mr. Foster, who is also the 
+Chair of our Task Force on Artificial Intelligence, is now 
+recognized for 5 minutes.
+    Mr. Foster. Thank you, Mr. Chairman.
+    Our first 2 witnesses commented on the 90percent fraction 
+of intangibles in the valuation of companies. To me, this 
+raises questions or worries about whether there may be a 
+valuation bubble that may at some point be on the verge of 
+systemic collapse, perhaps triggering a financial crisis if it 
+is 90 percent of valuations.
+    I think it was back, roughly, in 2018 that a paper came out 
+of UC London called, ``Capitalism Without Capital,'' that got 
+play in The Economist magazine and elsewhere, and it described 
+the sudden collapse of an English construction firm, I think, 
+called Carillion, which had 40,000 employees, but apparently 
+very few tangible assets and very badly-mispriced intangibles.
+    A recent example of what might trigger this sort of 
+collapse is the incredible recent breakthroughs in GPT 
+chatbots, which you may be aware of, where these look like they 
+are very close to being able to replace computer coders, 
+Harvard lawyers, and a wide range of people who spend their 
+days staring at screens.
+    And this would immediately cause a massive revaluation of 
+the human capital part of the valuation of firms. There are 
+thoughtful commentators looking at the performance of these who 
+think that within a couple of years, Google is going to be 
+obsolete, that instead of searching the internet, you will 
+simply ask your chatbot to summarize the total content 
+available on the internet, and it will give you a nicely-
+formatted, concise summary of what you want to know. And this 
+will immediately--Google has all sorts of intellectual property 
+and intangibles and a great workforce around its search 
+business that will be vaporized.
+    So, how do you view this, and how worried should we be in 
+Financial Services about the potentially-volatile nature of the 
+valuation of human capital as AI accelerates its disruption of 
+the workforce?
+    I guess I will go in the order that you were called, since 
+you both mentioned the 90 percent.
+    Ms. Allen-Ratzlaff. Sure. Thank you so much for that 
+question. I think we absolutely should be concerned. I think 
+the 90 percent is huge. And the SEC's job is to make sure that 
+investors have the information they need to make decisions or 
+get out of the way. There is nothing more free market than 
+that. And investors have been raising the same issues that you 
+have, that we simply have no idea how well companies are 
+managing their workforces.
+    It is interesting--I know several years ago, there was a 
+rule adopted by the SEC on CEO-to-worker pay ratio, and 
+regardless of your personal or political views across the board 
+on that, we actually looked through a few of the disclosures. 
+And in 2 hours, we found 14 companies that said that they 
+actually have no idea and they cannot tell you what they spend 
+on their workforce.
+    Labor cost is a basic part of the income statement on which 
+every single financial statement is based. So, if there is 
+something wrong with that, it's the same with the balance 
+sheet.
+    Mr. Foster. Before I go on to the next witness, do you have 
+trouble untangling the cause and effect between profitable 
+companies and companies that treat their workforce well? 
+Because you can imagine that a company with a good line of 
+products is very profitable and is in a position to treat its 
+workers well, whereas one that is forcing external competition 
+simply may not be able to. And how do you deal with that?
+    I am getting nods from our second witness, so if you could 
+try to answer both of those?
+    Ms. Honigsberg. Congressman, those are both great 
+questions. And I think, consistent with my colleague here, I 
+would say this is all the more reason why we need to provide 
+this type of information.
+    For example, there is a recent study that I think is 
+relevant to your second question. And this study looked at both 
+capital expenditures and labor cost as a percentage of sales 
+over the period from 1991 to 2018. They found out capital 
+expenditures as a percentage of sales remained roughly constant 
+at about 10 percent. Whereas, labor expenses as a percentage of 
+sales increased from about 28 percent to close to 50 percent.
+    Now, this was done with European data. We wouldn't be able 
+to run this type of study in the U.S., but presumably we would 
+have a similar trend here.
+    And so for us, I think we really want to be able to 
+identify this information. How much are they spending on human 
+capital? If we see erosion because of AI, we would see that 
+number actually being able to decrease in a way that we can see 
+with European data but that we wouldn't be able to see right 
+now using our U.S. data.
+    Mr. Foster. Yes. Thank you. And if any of you have a 
+reading list for a Member of Congress that is sort of at the 
+level of the UC London paper, and you can submit it for the 
+record, I would very much appreciate it.
+    Thank you. I yield back.
+    Chairman Sherman. Thank you.
+    I now recognize the gentleman from Ohio, Mr. Davidson, for 
+5 minutes.
+    Mr. Davidson. Thank you, Mr. Chairman. And thank you to 
+everyone for being here. I greatly appreciate you being here, 
+but I think you have heard from us before, we really feel the 
+panel would be rounded out with Chairman Gensler here since he 
+is driving an awful lot of this or attempting to.
+    We are thankful, or at least I am, that not every sector of 
+the government was able to get someone in place. I am glad that 
+Sarah Bloom Raskin is not at the Federal Reserve. I hope the 
+Federal Reserve stays focused on its own lane.
+    But this whole idea of ESG dominating our capital markets 
+instead of fiduciary duty, I think is rightly troubling. I have 
+had constituents frustrated because they feel like their 
+pension fund isn't pursuing the best returns. I have had 
+financial advisors frustrated, and I have jhad ust had ordinary 
+people in business asking, why are my bigger customers pushing 
+us to do these things for disclosures net of mandates from 
+capital markets.
+    People want to run the business that they built. And if you 
+look at, say, the most alarmist predictions on sea level rise 
+or something like that, the idea that you couldn't possibly 
+make a loan that is for 5 years and understand the risk of 
+default is hard for people to comprehend.
+    Mr. Vollmer, when you look at fiduciary duty, has there 
+been a statutory change that we all missed somehow, that says, 
+no, ESG is now more important than a fiduciary duty?
+    Mr. Vollmer. No. There has not been a change. And I think 
+the foremost consideration of both fiduciaries, asset managers 
+but also corporate boards, is to produce the maximum returns 
+for shareholders.
+    Mr. Davidson. Yes. And as has been discussed already, a 
+materiality standard there, which could include some other 
+impacts. But in your testimony, you discussed the accelerated 
+rulemaking agenda within the SEC, which has led to all kinds of 
+problems there and problems potentially for our capital 
+markets. In light of West Virginia v. EPA, there are also 
+clearly problems for the fact that it is not legal.
+    Do you believe that an agency with the kind of morale, 
+staff retention, and leadership problems that the SEC has under 
+Gary Gensler adequately promotes capital markets in our 
+country?
+    Mr. Vollmer. I think that we need to return much more 
+attention to capital formation and capital access.
+    Mr. Davidson. Yes. Almost like we could focus on the 
+mission, not necessarily this other agenda. So yes, I really 
+appreciate that. I think that is a sentiment broadly shared, 
+but it's troubling that it is not shared by most of the 
+positions that the Biden Administration has appointed.
+    One of the important things is that the Biden 
+Administration has appointed people whose mean years of 
+private-sector experience is zero. They are all academia, 
+thought leaders down this movement.
+    And speaking of that, Ms. Honigsberg, earlier this year you 
+participated in a podcast with Joe Bankman, your colleague at 
+Stanford Law and the father of Sam Bankman-Fried, the now 
+disgraced and former CEO of FTX. In that podcast, you spent 
+time with Mr. Bankman trying to outline the importance of ESG 
+reporting requirements, and you even discussed an example where 
+a small group of investors was able to force a vote on 
+ExxonMobil to push for cleaner energy.
+    Speaking of Exxon and FTX, the FTX case poses some 
+interesting ESG questions. An analysis by TruG Labs gave FTX a 
+higher ESG rating than Exxon. As you know, it was largely due 
+to Mr. Bankman-Fried's approach to what he claimed was, 
+``effective altruism.'' Perhaps like Robin Hood. I don't know. 
+I don't know what his logic was.
+    But, Ms. Honigsberg, do you really feel that a higher 
+rating for a company like FTX is more merited than Exxon? And 
+if not, what is this ESG metric missing?
+    Ms. Honigsberg. That is a great question. And, first and 
+foremost, I really hope all the victims of FTX get the fullest 
+extent of justice that they can get under the law. I think we 
+all think that.
+    And in hindsight, clearly, it doesn't make sense that a 
+crypto company would have a higher rating than many other 
+companies. My understanding of the issue with that was that 
+Exxon was largely unreceptive to feedback and consideration. 
+And it also comes down to how we measure ESG, which is 
+terrible.
+    For example, Professor Rajgopal and I went through 4 
+different issuers, and we found that those 4 different issuers 
+disclosed 70 different metrics just on human capital alone. 
+Only one of them was disclosing comments. You just don't have 
+the information to where you can evaluate and companies are 
+able to cherry-pick.
+    Mr. Davidson. Yes. I agree that the way you do an ESG is 
+terrible. So, thank you.
+    Chairman Sherman. I look forward to next year when I am 
+sure the then-Majority will have Mr. Gensler here. It will make 
+my life more interesting and it will boost our ratings on C-
+SPAN3.
+    I now recognize Mr. Vargas from California.
+    Mr. Vargas. Thank you very much, Mr. Chairman. I appreciate 
+it. I want to thank Chairwoman Waters, of course, and you as 
+Chair, and the ranking member, for this hearing. I think it is 
+very, very important.
+    Before I get into my prepared remarks, I do want to ask Ms. 
+Seegull, you were quoted, and I think correctly, that disclosed 
+information is already disclosed. Within the context of what 
+you were saying, I thought what you meant to say was that 
+information is already collected, but maybe it wasn't. I do 
+want to give you a few seconds to clarify that.
+    Ms. Seegull. Thank you, Congressman Vargas. Yes. I 
+apologize if I misspoke.
+    What I meant to say, if I didn't say it, is that EEO-1 data 
+on workforce diversity is already collected by large companies 
+but not disclosed currently to investors. My point was: one, 
+that it should be disclosed to investors; and two, because the 
+information is already being collected, it would not impose 
+significant additional costs on issuers to disclose vital 
+information to investors.
+    Thank you.
+    Mr. Vargas. Thank you. That is what I understood. I think 
+you misspoke.
+    It's funny, if you were 80-years-old, they would say you 
+were senile, because that is what the other side says about the 
+President. But obviously, you are incredibly intelligent, and 
+you just misspoke a word, and that happens all the time. But 
+again, unfairness sometimes. You should have been given the 
+courtesy to correct that, and I am glad you did correct that.
+    With that being said, I know this hearing is focused on 
+workforce management, but Iwould like to look at the totality 
+of ESG-related disclosures. ESG disclosures are market-driven 
+initiatives to increase investor education and corporate 
+transparency information from ESG disclosures, help investors 
+gain greater insight into what companies are doing to reduce 
+their carbon footprint, and address important issues like 
+climate change, diversity, and labor rights, which I do think 
+are material.
+    Investors understand that ESG issues are material and need 
+to be accounted for when accessing market opportunities and 
+risks. In market economies, it is called complete information 
+when investors have all the needed metrics to make well-
+informed, ethical, and sustainable financial decisions. As a 
+matter a fact, the data shows, and today we heard testimony, 
+that corporations that implement sustainability strategies, I 
+should say, have experienced better financial information, such 
+as more innovation, higher operational efficiency, and better 
+risk management.
+    Additionally, a recent Ernst & Young survey states that a 
+majority of companies saw higher than expected financial gains 
+from their ESG initiatives. And companies that incorporate 
+financial metrics, employee well-being, and customer benefits 
+in holistic ESG programs saw increased environmental gains as 
+well.
+    Just to be clear, it is profitable to be in the business of 
+sustainability, root stewardship, environment, diversifying the 
+boardroom, limiting corruption, and taking care of your 
+workers. These factors materially impact companies' performance 
+communities and the lives of our constituents. And I applaud 
+Chairman Gensler and the SEC for their proposed ESG disclosure. 
+In addition, I am proud to announce that next year, I will be 
+working on the Congressional Sustainable Investment Caucus. I 
+look forward to working with Chairwoman Waters, and my 
+colleagues, hopefully on a bipartisan basis, to highlight the 
+role ESG plays in our economy.
+    Ten years ago when I got elected, my good friends on the 
+other side--and I do have some very good friends on the other 
+side; I shouldn't be beating then up so much--were all about 
+beating up the Dodd-Frank Act. Then, when the CEOs of the 
+banking industry came, they said Dodd-Frank was actually very 
+helpful. And when we heard from the academics, they said that 
+Dodd-Frank was very helpful, especially the capital standard. 
+So, they don't beat up on it anymore.
+    They used to beat up on the SEC, saying they were too hard 
+on crypto. In fact, it is kind of interesting, I saw a little 
+bit of backsliding here today. Because they said, why do they 
+have to have so many disclosures? Well, now we see why they 
+should have more disclosures.
+    But, anyway, all that being said, I do want to ask 
+Professor Ratzlaff, do you believe that ESG is material 
+information?
+    Ms. Allen-Ratzlaff. Thank you so much. And I would love to 
+say that I am a professor, but I am not. But I do believe that 
+factors which might be considered ESG--the definition is a 
+little bit difficult--are already being taken into account by 
+investors. And I also would like to state that materiality is 
+not necessarily a requirement. I know I have heard that from 
+colleagues many times on this panel, but it is simply not the 
+case.
+    If we used a materiality standard, we would never know 
+about executive compensation, for example. There are 
+materiality standards that are based on a certain percentage of 
+revenue. There are standards that are based off of just 
+information that investors have been saying is important. I 
+just wanted to be very, very clear that investors are looking 
+for this data.
+    And to your point, you mentioned FTX. We all saw the leaked 
+picture of their income statement, and what we don't want to 
+see is, ``Uh, I am not sure if this is accurate or not.''
+    Mr. Vargas. Thank you.
+    Chairman Sherman. The gentleman's time has expired.
+    I now recognize the gentleman from Arkansas, Mr. Hill, for 
+5 minutes.
+    Mr. Hill. Thank you, Mr. Chairman. And thanks to the panel, 
+a very informed, smart, good panel, and helpful to the 
+committee's operation.
+    Like all laws, there are good things and bad things in 
+those laws. So, there are plenty of things that House 
+Republicans still object to that were contained in Dodd-Frank, 
+and I could go into those in great detail, but we are not going 
+to do that today.
+    Professor Rajgopal, I thought you made a really good, 
+thoughtful statement about information arbitrage, which is a 
+classic in economics, and the Ph.D. in accounting even learns 
+about it. So, you have this perverse incentive of raising 
+agency costs and sending people from the public markets to the 
+private markets. But also, there is the issue of building up a 
+cost structure that is so high, that even if one's objective to 
+be a public enterprise is still number one, you are raising the 
+market cap to justify going public, reducing capital choice to 
+small and midsized and emerging growth companies, which is why 
+this Congress and this committee, on a bipartisan basis, has 
+passed two versions of the JOBS Act in order to drop those 
+agency costs and those burdens.
+    In this debate about whether it is the, ``E,'' in ESG or 
+the, ``S,'' a lot of this is about doing it in the right way 
+rather than the wrong way to diminish agency costs and not 
+deter capital formation. There is no use in here of people 
+calling people names about climate denier, nah, nah nah, blah, 
+blah, blah. So, I want to thank you for that comment. I thought 
+it was helpful.
+    Have you read the 2017 so-called Mark Carney-Bloomberg 
+Commission Task Force on Climate Disclosure?
+    Mr. Rajgopal. It is a long document, as I recall.
+    Mr. Hill. It is a long document. And it requires that those 
+disclosures be timely, accurate, comparable within industries, 
+measurable across industries, and not too costly. It has a 
+whole list of things that they say, and then they end up 
+saying, while these are great goals, it is going to be very 
+hard to do this. And, in fact, they say, don't do Scope 1, 
+Scope 2, or Scope 3. They have a whole metric in that 2017 
+report suggesting a different emissions-type definition
+    I think that is why we are not skeptics about doing 
+disclosure. We want to do it in the right way, in the least-
+costly way that brings the most benefit. Let me stop there and, 
+again, thank you for your comment.
+    And, Dr. Honigsberg, excellent comments as well. I share 
+those with the ranking member about accounting standards and 
+would love to get a memo from you on--a GAAP memo that 
+addresses workforce-related issues that I assume--do you know 
+that GAAP or FASB is entertaining working on that? And, really, 
+I don't want to say it has nothing to do with this committee, 
+but it is in a KQ disclosure per se, and we were both intrigued 
+by that.
+    What is the working group zone out in FASB land on that 
+topic?
+    Ms. Honigsberg. First, I would be delighted to work with 
+your staff on any of these issues.
+    Mr. Hill. Yes.
+    Ms. Honigsberg. Now, we have had conversations with FASB 
+about this. My understanding is that they are more focused and 
+are actually considering income statement desegregation.
+    Mr. Hill. Okay.
+    Ms. Honigsberg. They would look at, for example, breaking 
+out cost of goods sold into what portion is labor, and what 
+portion is other elements, but that is FASB. They have a 
+relatively slow timeline.
+    Mr. Hill. Yes, they do. We remember it when it was just a 
+suggestion.
+    Ms. Honigsberg. Exactly. So to the degree that we can help 
+them better focus on what would be helpful in valuation, I 
+think that would be great.
+    Mr. Hill. Thank you. I think in academics and also in the 
+coalition-type work, this is not a one-size-fits-all topic in 
+any way, shape, or form. And, Mr. Vollmer, you have made that 
+point. So, for industry groups making industry recommendations 
+to standard-setters is the way to go. It shouldn't be mandated 
+by Congress. It shouldn't be mandated by Gary Gensler. It 
+really shouldn't. That is not the way, over the years, that we 
+have developed this.
+    Mr. Vollmer, you were the Deputy General Counsel of the SEC 
+when Chair Clayton created this principles-based approach on 
+Reg S-K basing it on material information. In your view, has 
+there been a demonstrated need or market failure that 
+necessitates a more-prescriptive approach to this topic?
+    Mr. Vollmer. I think that the SEC's new rule in 2020, which 
+tried to balance some enhanced disclosures, including 
+quantitative disclosures but with flexibility, was reasonable 
+and we ought to give it some time to work.
+    Mr. Hill. Because people are now studying that. I just read 
+an Aon study--I would like to insert that into the record, Mr. 
+Chairman, if I could--the Aon study comparing the first 2 
+years.
+    Chairman Sherman. The time of the gentleman--
+    Mr. Hill. I have a motion. I am asking for your permission 
+to insert in the record an Aon study on the--
+    Chairman Sherman. Without objection, it is so ordered.
+    Mr. Hill. Thank you. I yield back, and I appreciate the 
+time.
+    Chairman Sherman. A vote has been called. We will adjourn 
+this hearing when 300 of our colleagues have completed voting.
+    And I will now recognize Mr. Casten for 5 minutes, and note 
+that he is the Vice Chair of this subcommittee.
+    I also want to note that we do have jurisdiction in this 
+subcommittee over FASB and PCAOB.
+    Mr. Casten. Thank you, Mr. Chairman. I will try not to talk 
+for 300 votes.
+    I want to focus on the, ``E,'' part of ESG. A 2020 CFTC 
+report said that climate change poses a major risk to the 
+stability of our financial system. In 2021, FSOC said basically 
+the same thing. The IPCC has recently said that if we stay on 
+the current trajectory, losses from climate change could 
+approach $23 trillion per year.
+    I see you nodding, Mr. Rajgopal.
+    That risk or any risk, if I am an investor and I am 
+concerned about that risk, I would like to know: number one, 
+who is contributing to the risk; number two, how do I hedge the 
+risk; and number three, who is most exposed to the risk, so I 
+can move my capital around appropriately.
+    Now, I think your answer is going to be yes. If you say no, 
+I am going to have to pivot to a friendlier witness, but in 
+general, Mr. Rajgopal, do you agree that, provided they have 
+sufficient information, that markets are actually a very 
+efficient way to allocate risk?
+    Mr. Rajgopal. Absolutely.
+    Mr. Casten. Okay. Good. We can move on then.
+    Going to who is the hedge against that risk. And I was just 
+sitting here Googling on my phone as of the close of last week. 
+First Solar is trading at a price earnings ratio of 189. 
+NextEra is trading at a price earnings ratio of 30. Tesla, as 
+much as their CEO is going crazy right now and tanking their 
+stock, they are still trading at a price earnings ratio of 55. 
+ExxonMobil is trading at 8. Chevron is trading at 10.
+    Given our agreement about capital markets, would you say 
+that capital markets are efficiently allocating market capital 
+in response to hedging out these climate risks or are they just 
+woke?
+    Mr. Rajgopal. My read of Exxon is probably similar to yours 
+in the sense that maybe they see that, in the future, 
+eventually, for all kinds of reasons, the demand for oil, 
+especially from transportation, will maybe stabilize, if not 
+abateeventually, and maybe that is what the markets are looking 
+at.
+    Mr. Casten. Yes. And I am not asking you to opine, but we 
+are actually seeing movements of capital, which is positive, 
+right? But every time we have seen an industry transition, some 
+companies have pivoted and adapted and some have whined. And we 
+know what happens when the markets pivot.
+    Now, I put this caveat on the front of, if we have complete 
+information--and this is all about markets moving to hedge the 
+risk and look at where it goes--when we look at the losses from 
+climate change, do you think we have sufficiently transparent 
+information now to make sure that investors can rationally 
+allocate their capital?
+    Mr. Rajgopal. Absolutely not.
+    Mr. Casten. Neither do I. And I ask that because this, 
+according to me, is about financial stability. It is not about 
+wokeness. It is about, if we don't have the information, of 
+course, there isn't an industry in the world that has ever come 
+to Washington and said, dear Members of Congress, would you 
+please make our industry more competitive and efficient. It 
+never happens. So, it is understandable that there is--and 
+please don't be woke, please don't stop our capital from 
+going--meanwhile, these losses are coming.
+    There is a recent study--and I am just picking on one 
+State. I am intentionally picking a State that we don't think 
+about in terms of flooding. We have sea level rise, you have 
+losses. West Virginia is not a State that you think about as a 
+super flood-prone risk. First Street Foundation recently 
+estimated that more than 400,000 properties in West Virginia 
+are at risk of being severely flooded in the next 30 years, 
+which represents more than one-third of all of the properties 
+in the State.
+    If I am an insurer, a mortgage provider, someone who is 
+holding the residual equity in those, do you think I actually 
+have enough information to understand and to hedge that risk 
+right now?
+    Mr. Rajgopal. Are you asking me if investors have the 
+information or do the insurers have the information?
+    Mr. Casten. Let me maybe reframe that.
+    If there is a lack of complete information--and we had this 
+conversation a few months ago with Jay Powell when I talked 
+about flood risk, and I asked, ``Do you think the sophisticated 
+players will spot this sooner and offload the risk onto the 
+unsophisticated players?'' And he said, yes--I am 
+paraphrasing--that would probably happen. That is a risk, I 
+think, to the stability of the financial system.
+    Do you see risks to the stability of the financial system 
+if we don't get this transparency of information? And we could 
+talk about floods. We could talk about fires. We could talk 
+about any number of climate risks.
+    Do we have complete information? If we don't, is there a 
+stability problem there?
+    Mr. Rajgopal. Let me, in 30 seconds, try to do the best I 
+can with that question. That is a very complicated question.
+    In my view, insurers, especially the property and casualty 
+(P&C) insurers, write 1-year policies. So, they have to worry 
+about risk for 1 year. If you are an equity investor or an 
+insurance company, you probably have a longer horizon. They are 
+completely different problems.
+    Mr. Casten. Of course.
+    Mr. Rajgopal. Like I said, a life insurance policy, where I 
+have to forecast whether the person I am writing the policy on 
+will live for 20 years or 30 years or 40 years, is a 
+fundamentally different kind of contract. Life insurance and 
+P&C are different, which makes this quite hard.
+    Mr. Casten. And the CFTC report I mentioned actually 
+observed that they saw an offloading risk onto Fannie Mae and 
+Freddie Mac in flood-prone areas.
+    Thank you.
+    Mr. Rajgopal. Thank you.
+    Mr. Casten. Professor Honigsberg, I was hoping to follow up 
+on this with you. If you would like to follow up offline, I 
+would love to connect with you.
+    But thank you, and I yield back.
+    Chairman Sherman. I thank the gentleman from Illinois.
+    I would point out that some 368 Members have not voted yet, 
+so we do have enough time.
+    We look forward to hearing the questions of the gentleman 
+from West Virginia for 5 minutes.
+    Mr. Mooney. Thank you, Mr. Chairman.
+    There has never been an Administration more hostile to the 
+fossil fuel industry and, by extension, my beloved State of 
+West Virginia, than the Biden Administration. When the Obama-
+Biden war on fossil fuels began in 2009, coal mining employed 
+nearly 28,000 West Virginians. Today, that number has shrunk to 
+half, about 14,000. And just last month, President Biden said, 
+referencing coal, that, ``we are going to be shutting these 
+plants down all across America.''
+    President Biden is putting West Virginians out of work and 
+suffocating our economy. Biden and his allies here in Congress 
+have not been able to pass many of their climate change, 
+climate priorities in Congress through the democratic process. 
+Instead, Biden is turning to his financial regulators to abuse 
+their authority and bypass Congress to enact them on his 
+behalf.
+    Despite businesses and these job-creating businesses that 
+are important to my State and all across the country saying it 
+would be costly and unworkable, the Securities and Exchange 
+Commission is pushing forward with a rule to require public 
+companies to disclose all of their emissions, including from 
+their upstream and downstream suppliers.
+    My question is for Mr. Vollmer: How is information about 
+climate emissions actually material to an investors' investment 
+decisions? In other words, is this just a way to name and shame 
+fossil fuel companies?
+    Mr. Vollmer. It is difficult to answer that question 
+generally because climate change information covers such a 
+broad range. But I think the better way to think about this and 
+the short version of the answer is, there are already extensive 
+required disclosures in the Federal securities laws. They go on 
+for pages in the Code of Federal Regulations, and they cover 
+all aspects of the financial performance and operations in 
+business of reporting companies. And they touch on all of the 
+matters that would be relevant or important to investors. So, 
+there is no need for a whole separate second set of disclosures 
+aimed at climate change risks.
+    Mr. Mooney. Thank you. Well put.
+    As a follow up to that, activists contend that ESG 
+investing is somehow the morally-responsible and more-
+profitable thing to do.
+    Mr. Vollmer, how do the returns for the families who invest 
+in ESG funds compare to non-ESG funds?
+    Mr. Vollmer. I am not current with all the recent research, 
+but the last time I looked at it, it is a highly controversial 
+and debatable point. The evidence is mixed, and it often 
+depends on how the questions are asked, how the studies are 
+done. I think we need to be careful of people who assert that 
+extensive disclosures in these various areas produce benefits 
+for investors or tell us more about the returns of some of the 
+reporting companies, because I am not sure that in the end, 
+that is really solid.
+    Mr. Mooney. Okay. Thank you.
+    I just want to state that under the strong leadership of 
+our State Treasurer in West Virginia, Riley Moore, we have led 
+the way in divesting from asset managers who focused on 
+appeasing woke activists rather than maximizing returns for 
+American families and retirees who depend on these returns to 
+pay their bills, their mortgages, their children's college 
+tution, and to put food on the table.
+    State Treasurers have a fiduciary responsibility to 
+maximize returns on investments. At a time when the number of 
+companies going public has dropped dramatically, the SEC and 
+congressional--my colleagues on the other side of the aisle 
+here, the Democrats, would be wise to focus on actions that 
+encourage business growth rather than pushing for irresponsible 
+environmental policies.
+    Thank you, Mr. Chairman. And I yield back.
+    Chairman Sherman. Thank you.
+    I want to thank the 320 Members of Congress who have not 
+voted yet because they give me an opportunity to recognize the 
+gentleman from New Jersey for 5 minutes.
+    Mr. Gottheimer. Thank you, Chairman Sherman. I am also 
+grateful. And thank you to all of our witnesses for being here 
+today.
+    A recent scandal uncovered that Sustainalytics, ESG 
+research, a subsidiary of Morningstar, has published ESG 
+ratings of companies based on information from the biased 
+United Nations Human Rights Council that has long promoted 
+anti-Semitism, undermined U.S. allies, including Israel and 
+Taiwan, and selectively ignored human rights abuses around the 
+world. Just this past October, the biased council refused to 
+even debate the treatment of the Uyghur population in China.
+    Americans choosing to invest in ESG-focused financial 
+products expect firms to provide unbiased and relevant data 
+about how their money is supporting specific ESG goals. 
+Morningstar's use of the biased United Nations' data is 
+completely unacceptable.
+    Ms. Allen-Ratzlaff, if I can ask you a question, please, 
+does JUST Capital use the United Nations' biased Human Rights 
+Council as a source for human rights-related ratings?
+    Ms. Allen-Ratzlaff. Not to my knowledge, no. Our ratings--I 
+should say that their relative rankings are based solely on 
+what we hear from the American people are their priorities.
+    Mr. Gottheimer. Good. It sounds like that is a, no. I am 
+happy to hear that.
+    Do you feel it is appropriate for ESG ratings firms to use 
+potentially-biased information from international organizations 
+to develop their scores?
+    Ms. Allen-Ratzlaff. I actually think that you point to an 
+important problem and issue within ESG in and of itself, that 
+there is no definition for it. We know that, ``E,'' stands for 
+environment, ``S,'' stands for social, and, ``G,'' stands for 
+governance, and that is about it.
+    That is a private company that has decided to use certain 
+metrics. Again, we use a relative ranking. I wouldn't view us, 
+JUST Capital, as a ratings firm. I would view us as looking at 
+how well companies satisfy the expectations of American 
+workers, and, again, that translates into value.
+    Mr. Gottheimer. Right. You have to be careful, because it 
+could be misleading to investors?
+    Ms. Allen-Ratzlaff. Actually, yes. Yes. Without any 
+definition, yes. Absolutely. And I think that is why 90 percent 
+of Americans, including 86 percent of Republicans, 98 percent 
+of Democrats, and 88 percent of Independents say it is 
+important that there are common standardized reporting 
+structures for companies. I think what we are seeing right now 
+is that, we start with the free market. That is great. But 
+right now, we are just not getting high-quality information.
+    I push back a little bit on the idea that what we are 
+looking at right now is not of use to investors. It absolutely 
+is. And to make sure that we are able to create value for, for 
+example, a beneficiary at a pension fund by telling that 
+pension fund, I am sorry, you can't consider factors that you 
+would have considered 30 years ago to understand how well, for 
+example, your companies that you have bought debt from are able 
+to pay back that debt. It just concerns me.
+    Mr. Gottheimer. Thank you.
+    Ms. Seegull, in your work with Impact Investors Alliance, 
+how do you help them evaluate ESG research to ensure that their 
+decisions are not inadvertently supporting outside efforts, 
+like the anti-Semitic Boycott, Divestment, and Sanctions, or 
+BDS movement, which the U.S. Congress has overwhelmingly 
+condemned, or other efforts that can undermine our allies?
+    Ms. Seegull. Cambria and others have brought up the rating 
+agencies and the methodologies that these rating agencies use. 
+The data comes from sustainability reports that are voluntarily 
+offered with the data points cherry-picked. And so,a what we 
+have in these ratings is publicly-available information, 
+unverified, and cherry-picked.
+    And what we encourage our investors to do is to take 
+ratings under advisement, to look at underlying methodology, 
+and to do their own primary research. The problem is that 
+without standardized, comparable data, which I think we are all 
+calling for from the SEC on material ESG factors, we are 
+reliant on these imperfect rating metrics we talked about.
+    Mr. Gottheimer. Right. And these metrics can be misleading, 
+and mislead investors and actually get them to support things 
+that are counter to their values. That is my concern.
+    And I yield back. Thank you so much.
+    Chairman Sherman. Thank you.
+    Mr. Huizenga. Mr. Chairman, I have a letter to submit for 
+the record that was sent to Chairwoman Waters and Ranking 
+Member McHenry from the Small Business Investor Alliance 
+concerning the negative impact increased disclosures could have 
+on small businesses.
+    Chairman Sherman. Without objection, it will be entered 
+into the record.
+    I want to thank our witnesses today and, again, for 
+changing their schedule so they could be here today even though 
+we were going to do this 2 days ago.
+    The Chair notes that some Members may have additional 
+questions for these witnesses, which they may wish to submit in 
+writing. Without objection, the hearing record will remain open 
+for 5 legislative days for Members to submit written questions 
+to these witnesses and to place their responses in the record. 
+Also, without objection, Members will have 5 legislative days 
+to submit extraneous materials to the Chair for inclusion in 
+the record.
+    The hearing is adjourned.
+    [Whereupon, at 10:46 a.m., the hearing was adjourned.]
+    
+                            A P P E N D I X                         
+
+
+
+                            December 8, 2022
+                            
+ [GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]                           
+                            
+                            
+                            
+                            
+

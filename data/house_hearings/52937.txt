@@ -1,0 +1,2021 @@
+
+ - PUTTING THE "STABLE" IN "STABLECOINS": HOW LEGISLATION WILL HELP STABLECOINS ACHIEVE THEIR PROMISE
+
+[House Hearing, 118 Congress]
+[From the U.S. Government Publishing Office]
+
+
+               PUTTING THE ``STABLE'' IN ``STABLECOINS'':
+                 HOW LEGISLATION WILL HELP STABLECOINS
+                         ACHIEVE THEIR PROMISE
+
+=======================================================================
+
+                                HEARING
+
+                               BEFORE THE
+
+                    SUBCOMMITTEE ON DIGITAL ASSETS,
+                         FINANCIAL TECHNOLOGY,
+                             AND INCLUSION
+
+                                 OF THE
+
+                    COMMITTEE ON FINANCIAL SERVICES
+
+                     U.S. HOUSE OF REPRESENTATIVES
+
+                    ONE HUNDRED EIGHTEENTH CONGRESS
+
+                             FIRST SESSION
+
+                               __________
+
+                              MAY 18, 2023
+
+                               __________
+
+       Printed for the use of the Committee on Financial Services
+
+                           Serial No. 118-25
+                           
+[GRAPHIC NOT AVAILABLE IN TIFF FORMAT]
+
+                               __________
+
+                                
+                    U.S. GOVERNMENT PUBLISHING OFFICE                    
+52-937 PDF                 WASHINGTON : 2023                    
+          
+-----------------------------------------------------------------------------------     
+
+                 HOUSE COMMITTEE ON FINANCIAL SERVICES
+
+               PATRICK McHENRY, North Carolina, Chairman
+
+FRANK D. LUCAS, Oklahoma             MAXINE WATERS, California, Ranking 
+PETE SESSIONS, Texas                     Member
+BILL POSEY, Florida                  NYDIA M. VELAZQUEZ, New York
+BLAINE LUETKEMEYER, Missouri         BRAD SHERMAN, California
+BILL HUIZENGA, Michigan              GREGORY W. MEEKS, New York
+ANN WAGNER, Missouri                 DAVID SCOTT, Georgia
+ANDY BARR, Kentucky                  STEPHEN F. LYNCH, Massachusetts
+ROGER WILLIAMS, Texas                AL GREEN, Texas
+FRENCH HILL, Arkansas                EMANUEL CLEAVER, Missouri
+TOM EMMER, Minnesota                 JIM A. HIMES, Connecticut
+BARRY LOUDERMILK, Georgia            BILL FOSTER, Illinois
+ALEXANDER X. MOONEY, West Virginia   JOYCE BEATTY, Ohio
+WARREN DAVIDSON, Ohio                JUAN VARGAS, California
+JOHN ROSE, Tennessee                 JOSH GOTTHEIMER, New Jersey
+BRYAN STEIL, Wisconsin               VICENTE GONZALEZ, Texas
+WILLIAM TIMMONS, South Carolina      SEAN CASTEN, Illinois
+RALPH NORMAN, South Carolina         AYANNA PRESSLEY, Massachusetts
+DAN MEUSER, Pennsylvania             STEVEN HORSFORD, Nevada
+SCOTT FITZGERALD, Wisconsin          RASHIDA TLAIB, Michigan
+ANDREW GARBARINO, New York           RITCHIE TORRES, New York
+YOUNG KIM, California                SYLVIA GARCIA, Texas
+BYRON DONALDS, Florida               NIKEMA WILLIAMS, Georgia
+MIKE FLOOD, Nebraska                 WILEY NICKEL, North Carolina
+MIKE LAWLER, New York                BRITTANY PETTERSEN, Colorado
+ZACH NUNN, Iowa
+MONICA DE LA CRUZ, Texas
+ERIN HOUCHIN, Indiana
+ANDY OGLES, Tennessee
+
+                     Matt Hoffmann, Staff Director
+                    SUBCOMMITTEE ON DIGITAL ASSETS, 
+                  FINANCIAL TECHNOLOGY, AND INCLUSION
+
+                    FRENCH HILL, Arkansas, Chairman
+
+FRANK D. LUCAS, Oklahoma             STEPHEN F. LYNCH, Massachusetts, 
+TOM EMMER, Minnesota                     Ranking Member
+WARREN DAVIDSON, Ohio                BILL FOSTER, Illinois
+JOHN ROSE, Tennessee                 JOSH GOTTHEIMER, New Jersey
+BRYAN STEIL, Wisconsin               RITCHIE TORRES, New York
+WILLIAM TIMMONS, South Carolina      BRAD SHERMAN, California
+BYRON DONALDS, Florida               AL GREEN, Texas
+MIKE FLOOD, Nebraska                 SEAN CASTEN, Illinois
+ERIN HOUCHIN, Indiana                WILEY NICKEL, North Carolina
+                            
+                            C O N T E N T S
+
+                              ----------                              
+                                                                   Page
+Hearing held on:
+    May 18, 2023.................................................     1
+Appendix:
+    May 18, 2023.................................................    35
+
+                               WITNESSES
+                         Thursday, May 18, 2023
+
+Hand, Delicia Reynolds, Director, Financial Fairness, Consumer 
+  Reports........................................................    11
+Homer, Matthew, Managing Member, the Department of XYZ, and 
+  former Executive Deputy Superintendent for Research & 
+  Innovation, New York State Department of Financial Services 
+  (NYDFS)........................................................     4
+Morgan, Robert, CEO, USDF Consortium.............................     6
+Portilla, David L., Partner, Davis Polk & Wardwell LLP...........     8
+Wang, Fennie, Founder and CEO, Humanity Cash.....................    10
+
+                                APPENDIX
+
+Prepared statements:
+    Hand, Delicia Reynolds.......................................    36
+    Homer, Matthew...............................................    41
+    Morgan, Robert...............................................    49
+    Portilla, David L............................................    59
+    Wang, Fennie.................................................    67
+
+              Additional Material Submitted for the Record
+
+Waters, Hon. Maxine:
+    Written statement of Americans for Financial Reform..........    77
+    Better Market Fact Sheet: ``Un'' Stablecoins and Risks to 
+      Investors, Consumers, and Economic Productivity............    84
+    Written statement of the National Association of Federally-
+      Insured Credit Unions (NAFCU)..............................    94
+    Written responses to questions for the record submitted to 
+      Fennie Wang................................................    96
+    Written responses to questions for the record submitted to 
+      Matthew Homer..............................................    97
+    Written responses to questions for the record submitted to 
+      David L. Portilla..........................................    98
+    Written responses to questions for the record submitted to 
+      Robert Morgan..............................................    99
+    Written responses to questions for the record submitted to 
+      Delicia Reynolds Hand......................................   100
+    Written statement of Steven L. Schwarcz, the Stanley A. Star 
+      Distinguished Professor of Law & Business, Duke University 
+      School of Law..............................................   101
+
+ 
+                       PUTTING THE ``STABLE'' IN
+                          ``STABLECOINS'': HOW
+                         LEGISLATION WILL HELP
+                         STABLECOINS ACHIEVE
+                             THEIR PROMISE
+
+                              ----------                              
+
+
+                         Thursday, May 18, 2023
+
+             U.S. House of Representatives,
+                    Subcommittee on Digital Assets,
+                              Financial Technology,
+                                     and Inclusion,
+                           Committee on Financial Services,
+                                                   Washington, D.C.
+    The subcommittee met, pursuant to notice, at 9:02 a.m., in 
+room 2128, Rayburn House Office Building, Hon. French Hill 
+[chairman of the subcommittee] presiding.
+    Members present: Representatives Hill, Davidson, Rose, 
+Steil, Timmons, Flood, Houchin; Lynch, Foster, Gottheimer, 
+Torres, Sherman, Green, Casten, and Nickel.
+    Ex officio present: Representative Waters.
+    Chairman  Hill. The Subcommittee on Digital Assets, 
+Financial Technology, and Inclusion will come to order.
+    Without objection, the Chair is authorized to declare a 
+recess of the subcommittee at any time.
+    Today's hearing is entitled, ``Putting the `Stable' in 
+`Stablecoins': How Legislation Will Help Stablecoins Achieve 
+Their Purpose.''
+    The Chair notes that votes are expected at 10:10, and it is 
+only one vote, so we will adjourn for that vote, and then come 
+back and continue our work.
+    I will now recognize myself for 4 minutes to give an 
+opening statement.
+    I want to thank all of you for joining our second 
+stablecoin hearing in the new Subcommittee on Digital Assets, 
+Financial Technology, and Inclusion. And although this is only 
+the second stablecoin hearing for the subcommittee, Member-
+level conversations have been going on since 2021, and the 
+committee has worked significantly with our Members on both 
+sides of the aisle and with the President's Working Group on 
+Financial Markets' report on stablecoins. Both sides of the 
+aisle have discussed key guideposts for an effective regulatory 
+framework for payment stablecoins, which were incorporated into 
+the stablecoin proposal in the last Congress, and into the two 
+proposals that were noticed for today's hearing.
+    For example, Treasury Under Secretary Liang made it clear 
+that any regulatory framework for stablecoins must have strict 
+requirements in place around reserves and capital to guard 
+against potential runs, so we included those requirements in 
+both of the proposals. The Under Secretary also made it clear 
+that disclosures and attestations are critical for creating 
+enhanced transparency among stablecoin issuers, and those were 
+included as well. To echo the Under Secretary, and the title of 
+today's hearing, we want stablecoins to be used as a payment 
+mechanism, which they really are not today. And also, the only 
+way we can do that is by passing the appropriate regulatory 
+framework legislation.
+    In 2022, we made extensive progress on bipartisan 
+stablecoin legislation, and we have continued to build on those 
+efforts by taking feedback from members and stakeholders, and 
+the legislation noticed today reflects that feedback. There are 
+clearly many areas where Members have different views, and you 
+can see that from the two proposals. But from my seat as 
+chairman of this subcommittee, I remain convinced that Members 
+on both sides of the aisle are actively working in good faith 
+to find agreement on these key points. We also agree on the 
+basic protections that must be included in any stablecoin 
+legislation--consumer investor protection--which is at the 
+heart of our bill.
+    So, I want to be clear that while we notice two different 
+legislative proposals today, we are not starting from scratch. 
+To do so would have ignored all of the effort that has been 
+made and the common ground that was found during the 
+negotiations on the previous proposal. In fact, Ranking Member 
+Waters' proposal is substantially similar to the September 
+draft that we noticed at the April hearing, apart from three 
+key changes. Not only that, but Republicans made the exact same 
+change in our proposal as well for one of those. So, while 
+there is still work to be done, and we should use today's 
+hearing to discuss those key areas, I want to emphasize that 
+the similarities between the two proposals are strong, and that 
+we are not that far apart.
+    Without action from Congress, however, offshore and opaque 
+projects will continue to thrive, and stablecoin issuers will 
+not feel confident to seek opportunities in the United States, 
+and to echo the hearing title, stablecoins will not be stable. 
+Thus, opposing legislation is not a vote in favor of consumer 
+protection. Rather it is a vote for putting consumers at risk 
+by allowing a regulatory environment that pushes stablecoins 
+further away from appropriate U.S. regulatory oversight. We 
+have the power to reverse this trend and cement the U.S. as the 
+leading place for safe payments innovation.
+    I look forward to the discussion today. I look forward to 
+hearing our witnesses' views on the two proposals, and to 
+ultimately bringing legal clarity and consumer protection to 
+the stablecoin ecosystem.
+    And with that, I now recognize the ranking member of the 
+subcommittee, Mr. Lynch of Massachusetts, for 4 minutes.
+    Mr.  Lynch. Thank you, Mr. Chairman, for holding this 
+hearing as we consider legislative options for regulating 
+stablecoins. I want to welcome all of the witnesses, and thank 
+you for attending to help this subcommittee with its work.
+    Last Congress, this committee came close to reaching a 
+bipartisan agreement led by then-Chair Waters. While the bill 
+was far from perfect, we had come to an agreement on some key 
+issues on stablecoins. Since then, however, much of the digital 
+assets space--including many stablecoin companies--has 
+collapsed. The recent bank failures have also taught us some 
+important lessons. It is clear that we need to ensure that 
+future legislation addresses the cracks that have deepened.
+    It appears that we have shifted further apart from a 
+bipartisan agreement and are now considering two different 
+pieces of proposed legislation. One is led by the Chair of the 
+Subcommittee, Chairman Hill, and the other by Ranking Member 
+Waters of the full Financial Services Committee. Ranking Member 
+Waters' bill and Mr. Hill's bill each address different issues 
+with stablecoins, taking various approaches. My hope is that we 
+can use this hearing to further discussion and to find some 
+alignment.
+    My concern with stablecoins remains the same as the last 
+time we held the hearing on this topic: stablecoin issuers 
+claiming their products are pegged to reserve assets and used 
+for the purpose of payments when we know that is not correct. 
+Eighty percent of stablecoin volume is dedicated to 
+facilitating the trading of cryptocurrencies and are instead 
+used as speculative instruments. I also continue to worry that 
+the stablecoins contain structural fragilities that make them 
+vulnerable to runs and pose risks to monetary policy, national 
+security, and financial stability. As we consider the recent 
+bank failures and threats to economic stability, we need to 
+ensure that any proposal provides adequate safeguards to our 
+financial system.
+    I do acknowledge and appreciate that my Republican 
+colleagues have attempted to address some of those issues that 
+we raised last time, such as disallowing non-bank issuer access 
+to Federal Reserve services, including master accounts and 
+access to the discount window. However, I still have concerns 
+about custody, the lack of acknowledgement of the SEC as 
+primary regulator, a lack of adequate consumer protection, and 
+the removal of exploration of a central bank digital currency 
+(CBDC).
+    Ranking Member Waters' bill gets us a step closer to 
+addressing some of those newer issues that have emerged. For 
+example, Ms. Waters' bill includes specific rules that require 
+issuers to protect assets they hold in custody from customers 
+and restricts the commingling of customer and company assets.
+    There are still a number of outstanding questions and 
+issues I would like to address. We need to reach an agreement 
+on the role of the States and of Federal regulators. I have 
+concerns about giving sole authority to States, because it 
+risks the possibility of States engaging in a race to the 
+bottom, and crypto companies seeking out jurisdictions with the 
+weakest regulation, which has been their practice.
+    I am going to take all 5 minutes, Mr. Chairman.
+    Chairman  Hill. Sure.
+    Mr.  Lynch. Yes. This also creates a moral hazard for 
+States wishing to attract crypto businesses. I believe it is 
+also important that all regulators weigh in and have a specific 
+role. We should ensure that there is alignment between the 
+Administration and financial regulators, and there needs to be 
+a specific role for the SEC and for the Consumer Financial 
+Protection Bureau (CFPB). While I understand there is some 
+agreement to allow non-bank companies to issue stablecoins, I 
+continue to have major concerns about access to deposit 
+insurance.
+    We must consider the lessons we have learned in recent 
+months regarding bank runs and losses. I must also reiterate 
+the need to separate digital assets from our banking system to 
+avoid the risk of exposure to our banking core. I am confident 
+that through discussions and input from regulators, advocates, 
+and banking experts, we can find alignment to address many of 
+the issues I have mentioned. Mr. Chairman, I yield back the 
+balance of my time.
+    Chairman  Hill. The ranking member yields back.
+    We now welcome the testimony of our witnesses. First, Mr. 
+Matt Homer. Mr. Homer is the managing member of The Department 
+of XYZ, an early-stage venture capital firm focusing on 
+blockchain. He is also the former executive deputy 
+superintendent for research and innovation at the New York 
+State Department of Financial Services.
+    Second, Mr. Robert Morgan. Mr. Morgan is the CEO of the 
+USDF Consortium, an association of insured depository 
+institutions working to build a blockchain network to support 
+interoperable bank minute tokenized deposits.
+    Third, Mr. David Portilla. Mr. Portilla is a partner at 
+Davis Polk & Wardwell, where he specializes in a range of 
+policy matters related to financial institutions.
+    Fourth, Ms. Fennie Wang. Ms. Wang is the founder and CEO of 
+Humanity Cash, which helped launch the community stablecoin in 
+Berkshire County, Massachusetts.
+    And finally, Ms. Delicia Reynolds Hand. Ms. Hand is the 
+director of financial fairness at Consumer Reports.
+    We thank each of you for taking the time to join us today. 
+Each of you will be recognized for 5 minutes to give an oral 
+presentation of your testimony. And without objection, each of 
+your written statements will be made a part of the record.
+    Mr. Homer, you are now recognized for 5 minutes.
+
+STATEMENT OF MATTHEW HOMER, MANAGING MEMBER, THE DEPARTMENT OF 
+XYZ, AND FORMER EXECUTIVE DEPUTY SUPERINTENDENT FOR RESEARCH & 
+  INNOVATION, NEW YORK STATE DEPARTMENT OF FINANCIAL SERVICES 
+                            (NYDFS)
+
+    Mr.  Homer. Good morning, Subcommittee Chairman Hill, 
+Subcommittee Ranking Member Lynch, and members of the 
+subcommittee, and thank you for the opportunity to participate 
+in this hearing. My name is Matt Homer. I was previously the 
+executive deputy superintendent for research and innovation at 
+the New York State Department of Financial Services (NYDFS), 
+where my responsibilities included overseeing the Department's 
+licensing supervision and examination of digital asset-related 
+companies. Earlier in my career, I was a Federal bank regulator 
+in the FDIC's Division of Depositor and Consumer Protection. 
+And today, I am an investor advisor to startup companies, and 
+the managing member of The Department of XYZ, a venture capital 
+firm that invests in early-stage companies building the next 
+generation of financial systems.
+    I first became familiar with stablecoins through my 
+experience regulating these products at the NYDFS. As this 
+committee is aware from prior testimony, New York State was one 
+of the first jurisdictions in the world to regulate the digital 
+asset space generally, as well as stablecoins specifically. My 
+experience as a regulator taught me that fiat-backed 
+stablecoins represent an important but incremental improvement 
+in the concept of money. In some ways, stablecoins are not so 
+different from the stored-value products many people already 
+use and are familiar with, such as gift cards or prepaid cards.
+    The question of how to effectively regulate stablecoins has 
+a more clear and straightforward answer than one may find in 
+considering how to regulate other parts of the digital asset 
+ecosystem. New York's experience shows that it is possible to 
+effectively regulate stablecoins using common sense and time-
+tested regulatory practices.
+    For example, New York's regulatory framework for 
+stablecoins includes three major prongs: first, reserve 
+requirements to ensure the assets backing stablecoins are held 
+on a segregated basis on behalf of customers, are fully 
+reserved on a one-to-one basis, and are comprised of cash 
+deposits or other cash equivalents; second, redemption rights, 
+ensuring that stablecoin users have the right to redeem their 
+stablecoins on a one-to-one basis for U.S. dollars in a timely 
+manner; and third, public transparency requirements, including 
+monthly attestations from independent CPAs. The stablecoin 
+issuers covered by these standards are also subject to robust 
+supervision and examinations.
+    I believe there are eight important principles that should 
+guide legislation on this topic and help payment stablecoins 
+achieve their promise. I will discuss three of these for which 
+my background offers unique insight.
+    First, stablecoin legislation and implementing regulation 
+should recognize the dual banking system as an inherent feature 
+of the American economy that benefits consumers, innovators, 
+and markets. The parallel system of State and Federal 
+regulations supports economic growth by providing innovators 
+and founders optionality that can reduce barriers to launching 
+new products on a small scale, before rolling them out at a 
+national scale. It benefits consumers by providing access to 
+financial services tailored to local needs, and protects them 
+because States are able to move more quickly to fill regulatory 
+gaps.
+    Finally, it benefits markets by encouraging healthy 
+competition. The legislative drafts I have seen preserve this 
+dynamic. It would establish a Federal floor in the form of a 
+national standard, but would allow States to license and 
+supervise stablecoin issuers and set even tougher rules within 
+their own jurisdictions.
+    Second, stablecoin legislation should promote competition 
+and the competitiveness of the U.S. system. The stablecoin 
+market so far has trended toward oligopoly. Today, two issuers 
+alone make up over 80 percent of the market for U.S. dollar-
+denominated stablecoins. Legislation should promote competition 
+by providing pathways for new players to enter the space and 
+challenge incumbents. One idea would be to create a safe harbor 
+for new entrants to test new products or services at limited 
+scale, and with limited customers, before requiring 
+comprehensive regulation, in order to expand to the general 
+public at greater scale.
+    I would also like to touch on competitiveness as a distinct 
+concept from competition. It is in the American interest to 
+ensure that issuers of U.S. dollar-backed stablecoins remain in 
+the U.S. so that we can regulate stablecoins on our own terms. 
+One way to promote this objective would be to add 
+competitiveness to the official mandates of Federal regulators 
+and to the set of criteria to be used by Federal regulators 
+when considering whether to license a stablecoin issuer.
+    Third, regulatory capabilities need to keep pace with 
+developments in the market. One of the aspects of regulating 
+digital assets that most intrigued me when I was at NYDFS is 
+the possibility of supervising the space more effectively using 
+digital tools and technologies. For example, I previously 
+mentioned monthly attestations of stablecoin reserves, but we 
+could conceivably move towards more real-time or near real-time 
+dashboards that provide insight into the backing assets of a 
+stablecoin, or even into the financial condition of the entire 
+issuing firm at any given moment in time.
+    I want to thank you again for the opportunity to be here, 
+and I look forward to your questions.
+    [The prepared statement of Mr. Homer can be found on page 
+41 of the appendix.]
+    Chairman  Hill. The gentleman yields back.
+    Mr. Morgan, you are now recognized for 5 minutes.
+
+        STATEMENT OF ROBERT MORGAN, CEO, USDF CONSORTIUM
+
+    Mr.  Morgan. Chairman Hill, Ranking Member Lynch, and 
+members of the subcommittee, thank you for the opportunity to 
+join you to represent the USDF Consortium and our member banks. 
+My name is Rob Morgan, and I am the CEO of the USDF Consortium, 
+which represents a group of community, mid-sized, and regional 
+banks that have come together to build blockchain 
+infrastructure for the responsible delivery of traditional 
+banking services.
+    Today's hearing comes at a critical moment. Distributed 
+ledgers hold tremendous promise to improve financial services 
+by offering faster, cheaper, and more-efficient products that 
+can help promote financial inclusion, drive growth in our 
+communities, and support the role of the U.S. dollar as the 
+global reserve currency. To date, most blockchain innovation 
+has occurred outside of the regulated banking sector, in novel 
+cryptocurrency markets. These markets have provided testing 
+grounds that have proven the efficiency and stability that 
+blockchain technology can deliver.
+    However, financial services only deliver value when they 
+facilitate real-world activity, such as helping small 
+businesses invest and grow, or helping families purchase a 
+home. To leverage blockchain for real-world transactions, you 
+first need a trusted form of digital money that exists natively 
+on blockchain. This is what led to the rise of stablecoins and 
+has driven the policy discussion around the creation of a 
+central bank digital currency (CBDC). The debate on how to 
+digitize the dollar is too often pitched as a binary choice 
+between these two options. We believe there is a third path 
+that leverages the way money already exists in our economy.
+    The U.S. dollar is already largely digital and exists 
+primarily in the form of bank deposits. Today, bank deposits 
+represent 73 percent of money in our economy. At its core, 
+blockchain is a ledger technology. Banks have long relied on 
+ledgers to record value and facilitate transactions. Over the 
+years, this technology has evolved from paper-based ledgers, to 
+on-premise servers, and now the cloud. We believe that 
+blockchain is the next evolution in ledger technology. By 
+recording a traditional bank deposit on blockchain, we can 
+bring many of the benefits of stablecoins to the real economy 
+while maintaining the numerous benefits and protections that 
+our two-tier banking system provides today.
+    Unlike stablecoins, tokenized deposits are not designed to 
+connect the broader crypto ecosystem to the real world. 
+Tokenized deposits are backend technology designed to improve 
+the delivery of traditional banking services. They will not 
+trade on exchanges, and in many cases will not be held directly 
+by the public. Like all bank deposits, they are a liability of 
+an insured depository institution.
+    Bank deposits are a cornerstone of our monetary and 
+financial systems that support the dominance of the U.S. dollar 
+around the world. They play a critical role in supporting a 
+bank's ability to lend into the communities they serve, driving 
+economic growth, and promoting social mobility. The value of 
+bank deposits is supported by stringent regulation and 
+proactive oversight, which includes capital and liquidity 
+requirements as well as technology risk management designed to 
+control for the risks associated with deposit taking.
+    Tokenizing deposits facilitates the creation of a real-time 
+blockchain-based payments infrastructure that can significantly 
+improve the delivery of banking services. It can facilitate 
+faster, cheaper payments, programmable payments, and atomic 
+settlement. We can only realize these benefits when innovation 
+is delivered responsibly and regulatory guidelines are clear, 
+certain, and consistently applied.
+    Legislation like that being discussed today is an important 
+step to ensuring stablecoins are delivered responsibly and that 
+consumers remain protected. It is important that these efforts 
+do not inhibit the adoption of blockchain for other 
+applications like tokenized deposits. To that end, we were 
+pleased to see that the draft legislation makes the critical 
+distinction between stablecoins and tokenized deposits, and 
+that it affirms a bank's ability to leverage blockchain for 
+traditional banking applications.
+    Unfortunately, there is not currently a clear regulatory 
+path for banks to adopt blockchain. Today, banks require formal 
+regulatory approval for any such project. We would encourage 
+Congress to work with the banking agencies to ensure there is a 
+clear and credible path for banks to adopt blockchain 
+technology. Competition breeds innovation, and we believe there 
+is a role for many forms of money, both novel and traditional. 
+We look forward to working with Congress to ensure there is an 
+appropriate regulatory framework for novel assets like 
+stablecoins, and to ensure there is regulatory clarity for 
+banks to adopt new technologies that benefit the customers and 
+communities that they serve.
+    Thank you for the opportunity to testify today. I would be 
+happy to answer any questions you may have.
+    [The prepared statement of Mr. Morgan can be found on page 
+49 of the appendix.]
+    Chairman  Hill. Thank you, sir.
+    Mr. Portilla, you are now recognized for 5 minutes for your 
+oral presentation.
+
+STATEMENT OF DAVID L. PORTILLA, PARTNER, DAVIS POLK & WARDWELL 
+                              LLP
+
+    Mr.  Portilla. Thank you, Chairman Hill, Ranking Member 
+Lynch, and members of the subcommittee. It is a pleasure to 
+have the opportunity to speak before you today. I commend all 
+of your diligent efforts and the progress that has been made to 
+develop stablecoin legislation. I believe a bipartisan 
+substantive consensus should be achievable.
+    These types of financial products are special because they 
+pose well-known risks, such as the risk of a run, that is, 
+request for redemption and loss that cannot be met due to a 
+mismatch in the liquidity of reserve assets. We can and should 
+proactively mitigate these risks by establishing a regulatory 
+framework now before the risks grow larger and scale makes that 
+change more difficult.
+    I cannot say with certainty whether stablecoins represent a 
+part of the future of payments, yet I feel quite confident that 
+the current legal framework is ill-suited to comprehensively 
+regulate payment stablecoins. Correspondingly, legislation that 
+enables fit-for-purpose regulation would help foster an 
+environment where this technology can develop and scale.
+    Some of the potential that payment stablecoins offer 
+include the programmability of money and additional means for 
+mobile-based, real-time payments for consumers, and the 
+creation of an additional payments infrastructure in which 
+further innovation can occur. If realized, all of these 
+developments may amplify the potential for building a more 
+efficient, competitive, and resilient payment system.
+    Legislation should establish privileges and 
+responsibilities along a spectrum. Greater privileges from the 
+government should be coupled with more-stringent regulatory 
+oversight; a more-tailored regulatory approach, on the other 
+hand, should be coupled with appropriately-calibrated 
+privileges from the government.
+    The remainder of my remarks will focus on what I believe 
+are the key outstanding issues that should be addressed in any 
+legislation.
+    One, who should be permitted to issue payment stablecoins? 
+Nonbanks should be permitted to issue payment stablecoins. 
+Within a banking organization, it makes the most sense for a 
+stablecoin to be issued by a non-bank entity within the 
+corporate group. The reason is that the common conception of a 
+payment stablecoin business, the issuance and redemption of an 
+instrument backed by a discrete pool of high-quality liquid 
+assets, is distinct from the traditional banking business 
+model.
+    Two, who should regulate payment stablecoins? Federal 
+regulation of stablecoin issuers would offer more uniform, 
+consistent rules, where a State regulation could promote more 
+diversity and innovation in regulation and supervision. The 
+answer to this question need not be binary. Many of the 
+legislative proposals released by Members of Congress to date 
+have followed the model of our dual banking system. that is, 
+they would establish a framework in which stablecoin issuers 
+could be regulated either directly at the Federal level, or 
+primarily at the State level with an overlay of Federal 
+oversight. There are many options, including providing Federal 
+regulation as a backup to State regulation, or an approach that 
+toggles based on the scale of an issuer.
+    Three, should non-bank payments stablecoin issuers be 
+provided access to the Federal Reserve's payment system or 
+discount window? Granting non-bank payment stablecoin issuers 
+access to master accounts could help them provide more-
+efficient services to their customers. Perhaps legislation 
+could grant non-bank stablecoin issuers access to Federal 
+Reserve Bank services, but limiting those services in both 
+scale and scope, or access to Federal Reserve Bank services 
+could be available as an option or based on the scale of an 
+issuer.
+    Four, to what extent, if at all, should payment stablecoins 
+be subject to, ``deposit insurance?'' Whether some form of 
+insurance is ultimately needed for stablecoins may turn on the 
+nature of the reserves that backed them, and relatedly, the 
+degree to which consumers expect their stablecoins to be 
+redeemable on demand at par.
+    Five, what insolvency standard should be applicable to 
+payment stablecoins? To the extent payment stablecoins are 
+designed or perceived to be effectively free of credit risk, it 
+would be prudent to provide stablecoin holders with structural 
+priority over an issuer's other creditors. In addition, 
+customers should know that the companies that help them hold 
+stablecoins do so in a safe way. Existing Federal and State 
+laws provide standards for custodians and should be useful in 
+this context.
+    Six, what other legal regimes should apply to payment 
+stablecoins and related products and services? Well, I focused 
+primarily on prudential issues. Payment stablecoins and related 
+products also present other common regulatory concerns such as 
+those related to consumer protection and illicit finance. All 
+of these considerations should be thoughtfully explored, but 
+this does not mean that the securities laws should apply to 
+payment stablecoins nor does it mean that we should be vexed to 
+paralysis in trying to answer questions that, frankly, permeate 
+traditional finance, such as how to regulate any service 
+provider that is adjacent to a regulated firm. Ultimately, 
+consumers in our financial system more broadly will be best-
+served by focusing on the issues I outlined, where I believe we 
+can find common ground.
+    Thank you.
+    [The prepared statement of Mr. Portilla can be found on 
+page 59 of the appendix.]
+    Chairman  Hill. Thank you, sir.
+    Ms. Wang, you are recognized for 5 minutes for your oral 
+presentation.
+
+    STATEMENT OF FENNIE WANG, FOUNDER AND CEO, HUMANITY CASH
+
+    Ms.  Wang. Good morning. Thank you, Chairman McHenry, 
+Chairman Hill, and Ranking Members Lynch and Waters for giving 
+me this opportunity to testify.
+    People like me rarely have this opportunity. I do not 
+represent a large corporation or an industry organization. I am 
+an independent lawyer and entrepreneur working with grassroots 
+organizations. While in my past life, I have worked for a Wall 
+Street bank and Wall Street law firms, the work I do now is a 
+labor of love, working with community organizations to design 
+local currencies that make money work harder for local 
+communities. Indeed, my company is called, ``Humanity Cash,'' 
+because we want to make money personal again.
+    During the pandemic, I studied the history of community 
+currencies, which are not legal tender, but they complement 
+national currencies as a local medium of exchange to ensure 
+more money circulates and stays within local communities. In 
+the United States, where we enjoy the world's reserve currency, 
+one downside is that the U.S. dollar sometimes works minimally 
+for local communities, with most of that money benefiting big 
+banks and large corporations. Therefore, the goal of a local 
+currency may be to promote patronage of small businesses and 
+local banks, which recirculate deposits back into the local 
+economy in the form of productive loans, creating a money 
+multiplier effect. This is the model of a local currency in The 
+Berkshires, Massachusetts.
+    During the pandemic, small businesses were under and 
+continue to be under pressure. The pandemic also accelerated 
+the shift towards contactless payments, which means that more 
+money is leaking out of local economies. Even if you shop 
+locally, if you pay with a credit card, the local economy loses 
+out on the money multiplier effect of that dollar being put to 
+work by local banks, as well as the 3- to 4-percent transaction 
+fees that are taken off the top. I saw this as an opportunity 
+to address a real-world problem for which blockchain was 
+suited. By digitizing a local currency, we can better compete 
+with credit cards, and reduce transaction fees, while ensuring 
+that the underlying dollar reserves remain deposited and, 
+therefore, invested in the local economy via local banks.
+    During the process of designing and launching additional 
+local currency, I interviewed small business owners, community 
+bankers, and ordinary citizens, whether in The Berkshires or 
+across the United States, from Puerto Rico to Hawaii to 
+Indiana. The people I have met are not interested in crypto as 
+a speculative investment, and neither is anyone in this room. 
+We are all deeply passionate about making money work for our 
+communities--that, ``we,'' includes a concrete mixer driver, a 
+retired accountant, community organizers who support Black-
+owned businesses, and a small business owner who produces 
+Massachusetts-made ukuleles.
+    As grassroots entrepreneurs and community innovators, we 
+need risk-appropriate regulations that will not be cost-
+prohibitive, while providing guardrails to protect us from bad 
+actors. Chairman McHenry's stablecoin proposal strikes a good 
+balance between these two needs. Importantly, it provides space 
+for local initiatives in innovation through State regulators in 
+a clear roadmap for implementation. This proposal also provides 
+the groundwork for community financial institutions as well as 
+non-bank institutions, such as Economic Development 
+Organizations, to staunch the flight of deposits from local 
+communities.
+    Payment stablecoins enable higher-quality deposits, as we 
+can transact amongst each other without needing to withdraw the 
+underlying dollars. The urgency of keeping deposits local is 
+more important than ever in light of the regional banking 
+crisis. The community banks we work with in Massachusetts 
+recirculate 70 cents of every dollar back into the local 
+economy, compared to just 20 cents for large banks.
+    Long term, blockchain technology can replace outdated 
+banking and payments infrastructure, which is currently 
+limiting the ability of smaller banks to innovate and compete 
+effectively against big banks and fintechs. With the right 
+policies, starting with the stablecoin proposals, we can enable 
+our financial system to be more competitive and more responsive 
+to local economies, a benefit that ordinary Americans deeply 
+desire. Thank you.
+    [The prepared statement of Ms. Wang can be found on page 67 
+of the appendix.]
+    Chairman  Hill. Ms. Reynolds Hand, you are now recognized 
+for 5 minutes for your oral presentation.
+
+    STATEMENT OF DELICIA REYNOLDS HAND, DIRECTOR, FINANCIAL 
+                   FAIRNESS, CONSUMER REPORTS
+
+    Ms. Hand. Thank you. Good morning, Chairman McHenry, 
+Ranking Member Waters, Subcommittee Chairman Hill, Subcommittee 
+Ranking Member Lynch, and members of the subcommittee, and 
+thank you for this invitation to testify. My name is Delicia 
+Reynolds Hand, and I serve as the director of financial 
+fairness at Consumer Reports, where I lead the organization's 
+work in digital finance. At Consumer Reports, we examine what 
+fintech products and services actually do for consumers and how 
+they rate alongside each other. Do they actually live up to 
+what they promise?
+    As I testified recently, the convergence of new 
+technologies and new forms of assets have made cryptocurrencies 
+particularly appealing for consumers whom traditional finance 
+has never appropriately served. In a volatile and stressed 
+economic environment, consumers and investors are at an even 
+greater risk in the absence of rules and noncompliance with 
+regulations to protect them and prevent the misuse or 
+exploitation of these assets. Since the last conversation on 
+stablecoins, Europe has succeeded in bringing crypto assets, 
+crypto asset issuers, and crypto assets service providers under 
+a regulatory framework, and today, we have two bills under 
+consideration. I hope we can land in a good place for 
+consumers.
+    Consumer Reports urges this committee to work together to 
+achieve effective and comprehensive regulation of stablecoins. 
+This is especially important for responsible innovation, 
+financial stability, and financial inclusion. Appropriate 
+regulation, supervision, and oversight needs to be implemented 
+before stablecoins become a greater risk to financial 
+stability, safety, and soundness, and the smooth functioning of 
+payment system.
+    To be clear, this space will be regulated, and new 
+frameworks will be developed. The question is, whether the 
+development will be driven by crisis or collaboration? We 
+support updates to the committee draft which include Federal 
+regulatory review to ensure the safety and soundness of 
+stablecoin issuers. And we encourage the adoption of provisions 
+in the bill granting the Federal Reserve Board authority to 
+reject State licenses. Not including these provisions creates 
+regulatory arbitrage, which could drive a race to the bottom 
+instead of a race to the top. These are lessons we have failed 
+to learn from the past. Keeping with the tradition of 
+congressional implication of the commerce clause, the law 
+should be the same across all 50 States.
+    The committee draft could also go further to include 
+specific key requirements which parallel requirements for 
+traditional banking. While both drafts retain some equivalent 
+requirements to provide information about the organizers, 
+senior management teams, and capital adequacy, we urge the 
+committee to also retain requirements to promote diversity and 
+inclusion in the compromise bill. We support the addition of 
+requirements for Federal regulators to issue rules related to 
+risk management infrastructure.
+    Second, while the committee bill outlines a role for 
+Federal oversight, it does not require entities that become 
+stablecoin issuers to be insured depository institutions. The 
+compromise bill, however, makes it clear that issuers shall not 
+represent stablecoins as insured depositors. We would encourage 
+adoption of this language. We are most concerned about the 
+removal of key text in the committee draft, maintaining 
+separation of banking and commerce, prohibiting non-financial 
+commercial businesses like Facebook or Walmart from owning a 
+payment stablecoin issuer. Additionally, we would encourage the 
+adoption of stronger consumer protections.
+    The bill sets up a regime to prove issuers of payment 
+stablecoins, but it doesn't outline adequate consumer 
+protections for payment activities conducted or facilitated by 
+issuers or their coins. We urge the committee to move forward 
+with the provisions in the compromise bill that require 
+stablecoin payment regulation to additionally be technology-
+neutral, to promote interoperability and to ensure stablecoin 
+arrangements share common features with the traditional 
+financial system.
+    We also request that the committee adopt language 
+associated with strong oversight of custodial wallets, as the 
+committee draft does not cover all assets held by custodial 
+wallets. We do not need another Lehman Brothers. And in the 
+event of another insolvency, a bankruptcy court could 
+reasonably view, as they have in Celsius, that commingled funds 
+are grounds for giving the company and its creditors priority 
+access to those funds rather than stablecoin holders, the 
+rightful owners. Lastly, we urge explicit clarification on how 
+and when the SEC can and should regulate in this space.
+    Thank you again for the opportunity to testify.
+    [The prepared statement of Ms. Hand can be found on page 36 
+of the appendix.]
+    Chairman  Hill. Thank you for your testimony. And we 
+appreciate all of the testimony from our witnesses. We will now 
+turn to Member questions.
+    The Chair recognizes himself for 5 minutes.
+    Mr. Homer, those were interesting comments you made about 
+validation of the reserves for a stablecoin, and you referenced 
+the ability to do that on an intraday basis versus the way the 
+bill is drafted. Is that technology readily available for a 
+stablecoin issuer to provide an intraday valuation of their 
+reserves and transparency on that?
+    Mr.  Homer. Thank you for the question, and, yes, the 
+technology is available. I think there will be two aspects of 
+it. One is the number of stablecoins that you have issued, 
+which is available publicly through the blockchain, and then, 
+the second aspect of it would be technology to show that the 
+backing assets match that on a one-to-one basis. And both of 
+those things can be accomplished,
+    Chairman  Hill. Right. And that would obviously be backed 
+up by the attestation and monthly financial reporting, and then 
+audits. Yes. Thank you. That is a good comment you made.
+    In our last hearing, we heard testimony from NYDFS 
+Superintendent Harris on the role of State regulators. She 
+described how State regulators can regulate payments, 
+stablecoin issuers, and how a regulatory regime could be built 
+on a well-established dual banking system that we have in our 
+country. I think it is important as we work through the drafts 
+that we strike the right balance there. I think it is a key, 
+effectively, a difference between these two drafts, and the one 
+that we are going to try to figure out between both sides of 
+the aisle as we work through this. And naturally, it is an area 
+that the Federal Reserve cares a lot about since they would be 
+the primary regulator for federally-qualified nonbanks. And in 
+our Republican draft, we have the Comptroller of the Currency 
+as the primary Federal regulator for national trusts.
+    Our September bill, from last fall, the Maxine Waters-
+Patrick McHenry bill, would require a State-chartered issuer 
+also registered with the Fed.
+    Mr. Homer, striking a balance there, what is your view on 
+making sure we get that balance right?
+    Mr.  Homer. Yes. As you pointed out, I think that balance 
+is very important to get right for a number of reasons, most 
+importantly, that we want a competitive marketplace. I have 
+been a Federal regulator, and I have been a State regulator, 
+and I think both regulatory systems are important to the 
+stability of our financial system. But I will say with 
+certainty that State regulators are much closer to the ground. 
+They know their local constituents much better. They are much 
+more able to effectively calibrate a regulatory environment 
+that meets local requirements. The State pathway is important, 
+because if you are someone who is starting a financial services 
+company, that is where you go to get licensed or chartered for 
+the first time.
+    Chairman  Hill. But you know the ranking member's concerns 
+about a race to the bottom, right? You have been a State 
+regulator and an FDIC employee. Can we strike that balance with 
+the way we have approached it in the Republican bill, do you 
+think?
+    Mr.  Homer. I think so. I think in both of these bills, 
+there is a strong Federal floor. I would argue that a race to 
+the bottom is not possible.
+    Chairman  Hill. Okay. Good. Thank you.
+    Let me turn to you, Mr. Portilla, on the issue of the OCC 
+charters. The Comptroller of the Currency had two digital asset 
+firms that they had given conditional approval to act as a 
+trust. And those conditional approvals now have lapsed, like so 
+many things, around our lack of a regulatory framework, adding 
+to the frustration here. The Republicans on the subcommittee 
+sent a letter to the Agency pointing out its inconsistent 
+approach in reviewing national trust bank charter applications. 
+Could you discuss the benefits of allowing the OCC to serve as 
+the primary regulator for any stablecoin issuers that receive 
+an OCC national trust charter, please?
+    Mr.  Portilla. Yes. Thank you for the question. I think the 
+main benefit of having the OCC serve as the primary Federal 
+regulator for a stablecoin issuer that has a national trust 
+charter is that you avoid multiple Federal regulators of the 
+same entity. And in addition, the OCC is at heart a supervisor 
+and an examiner of banks and trust companies, and so they are 
+well-qualified to do that.
+    Chairman  Hill. That is helpful. Let me yield back the 
+balance of my time, and call on my friend from Massachusetts, 
+the ranking member of the subcommittee, Mr. Lynch, for his 5 
+minutes of questions.
+    Mr.  Lynch. Thank you, Mr. Chairman. Mr. Homer, how many 
+stablecoins are registered in New York State?
+    Mr.  Homer. There are, I believe, currently three companies 
+that have been chartered to issue--
+    Mr.  Lynch. How many stablecoins are there?
+    Mr.  Homer. I believe it is five.
+    Mr.  Lynch. No, no. How many stablecoins are in existence 
+right now?
+    Mr.  Homer. There are probably--
+    Mr.  Lynch. 20,000, I think, yes.
+    Mr.  Homer. That would claim they are stablecoins.
+    Mr.  Lynch. Yes. So, 5 out of 20,000 are registered in New 
+York. I think that is evidence of a race to the bottom right 
+there, where stablecoins are trying to and crypto companies are 
+trying to go to the areas with the least amount of regulation. 
+I also worry, and I know you have done extensive work in New 
+York. We had Ms. Harris in yesterday, and I know people have 
+done a lot of good work in New York around this issue.
+    But the practice--a race to the bottom is not possible. A 
+race to the bottom is the practice, is the custom of this 
+industry, to go offshore and seek areas of least regulation. I 
+compliment the State of New York for the work that they have 
+done. However, my feeling is that if we directed this to the 50 
+States and the Territories, perhaps that practice would 
+continue, and cryptocurrencies would seek out those areas, 
+those jurisdictions that offer the best opportunity for them to 
+maximize their profit and avoid cumbersome and costly 
+regulation and disclosure. That is what I worry about here, 
+that we are not engaged in that type of practice where New York 
+would be penalized for having a robust regulatory system. They 
+would run elsewhere. There are other States that are in the 
+game here. We all know who they are, that are offering 
+themselves as safe havens, that offer us some real concerns.
+    But anyway, I do appreciate you all being here and helping 
+us. This is a learning process, and we are all trying to 
+understand this in a better way so that we can craft this 
+legislation and come to a meeting of the minds. I deeply 
+respect the chairman, Mr. Hill, and I know he is a good man, 
+and we are trying to get to a good situation on this. But, Ms. 
+Reynolds Hand, back in February of this year, the Fed Board of 
+Governors offered guidance on member banks regarding the use of 
+digital assets within the Federal banking ecosystem, and they 
+said they are offering this guidance because of rampant fraud.
+    The rule that they promulgated covered two directives. One 
+was to presumptively prohibit holding crypto assets out of 
+safety and soundness concerns, and the rule also noted 
+significant risks associated with the cryptocurrency sector, 
+including fraud, legal ambiguity and volatility. They also 
+said--and this really got me--that in the absence of a 
+fundamental use case, the value of most crypto assets is driven 
+largely by sentiment and future expectations, and not by cash 
+flows from providing goods or services outside the crypto asset 
+ecosystem.
+    So in light of so many of these stablecoins breaking the 
+buck, becoming de-pegged, wreaking havoc for those who hold 
+this because of the inability of depositors and investors to 
+get their money back in redemption, is this something that we 
+want to tie to a traditional financial system and give access 
+to the Federal Reserve discount window or access to Federal 
+Reserve services?
+    Ms. Hand. I would say we certainly shouldn't start there, 
+with so much volatility and disruption occurring. We shouldn't 
+open up the Federal purse, frankly, until industries are proven 
+to be safe and we cut down on rampant fraud and other abuses. 
+We should start first with clear rules of the road and strong 
+protections for consumers. Then, once proven, we should add the 
+additional programs in which companies are interested.
+    Mr.  Lynch. That is great. Thank you. Mr. Chairman, I yield 
+back.
+    Chairman  Hill. The ranking member yields back.
+    I now recognize Mr. Davidson of Ohio, who is the vice 
+chairman of this subcommittee, and the chairman of our Housing 
+and Insurance Subcommittee, for 5 minutes.
+    Mr.  Davidson. I thank the chairman. Thanks for our 
+witnesses, and, frankly, for the colleagues who are here to 
+help make good policy. I will try to stay calm and measured in 
+my responses here. But the whole point that we are trying to do 
+is provide a clear legal framework for the entire country so 
+that no one State can game the system or, frankly, so that 
+people aren't driven offshore, out of our capital markets and 
+our regulatory framework. Often, they are fleeing our markets 
+to find certainty, so it would be great if we would provide 
+some. I have been working on this for a long time, as have many 
+of you.
+    Speaking of efforts, people say, oh, there is a lack of 
+stability, that a lot of the same people are working to create 
+a lack of stability.
+    Mr. Homer, this year it has become fairly apparent to many 
+people in a bipartisan way that the traditional banking 
+industry has started taking a hostile position with digital 
+asset companies in the space in which they operate. When 
+Silicon Valley Bank failed, some people pointed to digital 
+asset companies, one of which was a stablecoin issue, and said 
+they held too much of their capital at one bank, Silicon Valley 
+Bank. When Signature Bank failed, people claimed that maybe it 
+had something to do with digital assets.
+    Barney Frank, a former chairman of this committee, said it 
+didn't have anything to do with that. The director of the New 
+York State Department of Financial Services, who was there for 
+the whole thing, said it didn't have anything to do with 
+digital assets. So, where are they going to go for banking? 
+Could you speak to the harm that comes with deep banking, the 
+industry, and the damage, and, frankly, the lack of stability 
+that it has caused?
+    Mr.  Homer. Yes. Thank you for the question. I think it is 
+something that has been a challenge, and it has become much 
+more difficult for companies in the space to find banking 
+services, even for the most basic of services, to find an 
+account for payroll, for example. I think, unfortunately, what 
+that will lead to is people looking for alternatives that are, 
+in some instances, offshore.
+    Mr.  Davidson. If you can't deposit your cash in America, 
+you are probably going to deposit your cash somewhere, right?
+    Mr.  Homer. Right.
+    Mr.  Davidson. So then, they will point to that and say, 
+see, they are offshore. Well, you drove them there, on purpose, 
+I might add. Let me just address this. Could a stablecoin go to 
+zero, a regulated stablecoin that is backed by high-quality 
+liquid assets, or, frankly, commodities, physical custody of 
+commodities, would that really go to zero?
+    Mr.  Homer. Under this proposal, it would be very difficult 
+to foresee a scenario.
+    Mr.  Davidson. There would have to be complete fraud. They 
+didn't have the assets, right? Could somebody in that case, 
+where you had full custody of the assets that you say you have, 
+whether they are level-one, high-quality assets or physical 
+custody of a commodity that backs it, could it possibly go to 
+less than the value unless there was actual fraud?
+    Mr.  Homer. It would be very difficult.
+    Mr.  Davidson. I think that is the case, and that is the 
+whole goal of the regulatory regime we are trying to put in 
+place here with stablecoins. As we confront the debt ceiling 
+and the fact that this town spends way more money than we 
+collect in revenue for a long, long period of time, we are 
+spending more money than anyone will even lend us, there seems 
+to be a shortage of demand for Treasuries, given that the most 
+frequent backing for a stablecoin so that it really is fully 
+backed is Treasuries.
+    Mr. Portilla, could you talk about the important linkage 
+that stablecoins would create for demand for U.S. dollar-
+denominated Treasuries?
+    Mr.  Portilla. Right, yes. Thank you for the question. I 
+think you are right. If stablecoins are required to hold their 
+reserves and high-quality liquid assets, which of course 
+includes short-term Treasuries, there would inherently be 
+increased demand for those assets from those issuers. So, I 
+think that is right.
+    Mr.  Davidson. Yes. I think it could actually help us solve 
+a number of problems. And then the last thing in terms of the 
+payment space, frankly, for a lot of people, is they look at a 
+stablecoin as in many ways superior to a fiat currency, because 
+while the fiat currency is backed by the full faith and credit 
+of the United States, and we could just print more money, you 
+have a hard time guaranteeing that it will buy the same amount 
+of goods. But in the case of a stablecoin, it is fully backed 
+and could be backed by physical custody of assets as well.
+    My time has expired. I hope we land on something in a 
+completely bipartisan way and that we can get this done. I 
+yield back.
+    Chairman  Hill. I thank the gentleman. Mr. Foster, who is 
+the ranking member on our Financial Institutions and Monetary 
+Policy Subcommittee, is now recognized for 5 minutes.
+    Mr.  Foster. Thank you. Mr. Homer, you mentioned real-time 
+monitoring of reserve balances versus tokens issued. Wouldn't 
+it be actually easiest and safest to simply require as part of 
+the minting process that digital attestation for the Federal 
+Reserve, that the amount of deposit in the relevant account at 
+the Fed exceeds the amount of tokens that are proposed to be in 
+circulation following any proposed minting operation? So 
+basically, that any proposed minting operation would not be 
+cryptographically valid until it was accompanied by a Fed 
+attestation that the assets are actually there on reserve. Do 
+you understand where I am going? It seems like this is a very 
+unburdensome operation to require for both the Fed and the 
+issuer.
+    Mr.  Homer. I think they could be complementary. If we are 
+thinking about trust in the market and how do we produce trust, 
+I think real-time dashboards could assist with that. But of 
+course, attestations from a regulator or required by a 
+regulator are important and probably not in addition to that. I 
+don't think they are mutually exclusive.
+    Mr.  Foster. I am worried about the sort of abuses that we 
+saw with flash loans and things where even, for a fraction of a 
+second, you can have weird things happening, and all of a 
+sudden, a giant fraud has taken place, whereas if you would 
+have simply said the minting is not valid until the Federal 
+Reserve says, yes, they are there, before, during, and after 
+the minting operation, you have some excess buffer of reserves. 
+It seems like that should be an absolutely solid way of 
+guaranteeing.
+    Also, that approach, it seems to me, really eliminates all 
+of the worries about monetary effects, because there is a one-
+to-one ratio in which you emphasize fraudulent issuance, runs 
+on stablecoins, and that would all just disappear if we adopted 
+that approach. So, I think there is a lot to be said for it.
+    Ms. Wang, in your testimony regarding Humanity Cash 
+projects, I see that you have kind of independently discovered 
+and implemented the two principles that I believe must be 
+included to have the controlled privacy and security that will 
+be needed to avoid fraudulent and criminal use of stablecoins.
+    First, in your testimony you state that the use of a 
+blockchain ledger can also cost-effectively and in transparency 
+meet part of the public reporting requirements under the 
+proposed stablecoin bill. For example, you can show in real 
+time that the number of tokens on a chain compared to the U.S. 
+dollar reserve balances is what we have just been talking 
+about.
+    But second, I was very pleased to see that you have also 
+attached what amounts to be automobile license plates on each 
+digital wallet, something that I have been advocating in this 
+committee for quite some time.
+    Then, in your testimony, you state that at the point of 
+wallet creation, we collect information regarding username and 
+contact information associated with each wallet, not available 
+to the public on a public ledger to preserve user 
+confidentiality, and then go on to explain why it would be to 
+the advantage of that system.
+    So, let us spend a moment looking through the privacy 
+implications of this to see if it is a comfortable place to 
+land. For example, if a person uses Humanity Cash to buy a 
+secret gift for their secret lover with no criminal activity 
+involved, can they expect that it will remain anonymous and 
+secret?
+    Ms.  Wang. Yes. The blockchain itself doesn't show any 
+personal identifying information, but we can also design 
+systems that preserve the balance between preserving your 
+privacy versus law enforcement needs. One of the other areas 
+that I have done work on is around digital identity. You can, 
+for example, have the DMV or a bank issue a digital token that 
+represents like KYC credential, right? So, your identity
+    Mr.  Foster. Yes. The so-called mobile ID or digital 
+driver's license?
+    Ms.  Wang. Right. And a wallet can hold that digital 
+identity token to signal that it has been checked, and then, 
+you are going to have safe transactions without needing to 
+actually know who that person is, unless there was a compliance 
+reason to reveal the underlying information.
+    Mr.  Foster. I know that. I am a huge fan of mobile ID as 
+well. Now, on the other hand, if there is a ransomware attack, 
+say attempting to use Humanity Cash as a payment and someone's 
+screen locks up and says that in order to decrypt your computer 
+files, we want you to transfer this much Humanity Cash to this 
+wallet, then I presume you can go to some judge somewhere, 
+prove a crime has been committed, and de-anonymize the owner of 
+that wallet. How does that take place? What is the mechanism 
+for control of de-anonymization?
+    Ms.  Wang. In our specific case, I think the chances of 
+that are pretty low because you would only be able to suspend 
+it--
+    Mr.  Foster. I understand, but we are talking about systems 
+at a scale.
+    Ms.  Wang. Right, but at a systems level, there will be 
+ways to prevent that. Instead, you would know exactly where the 
+money has been transferred. But you can freeze, for example, 
+compromised tokens and so they would no longer be transactable 
+after the point of attack. And then, you still have the 
+underlying real-world assets, the deposits in the bank, and all 
+of that remains safe, so we can then--
+    Mr.  Foster. Thank you. I think my time is up. Your project 
+may be small, but I think you have seen the future pretty 
+clearly.
+    Ms.  Wang. Thank you.
+    Chairman  Hill. Thank you, Dr. Foster. We now turn to the 
+gentleman from Tennessee, Mr. Rose, for 5 minutes.
+    Mr.  Rose. Thank you, Chairman Hill and Ranking Member 
+Lynch, for holding this hearing, and thank you to all of our 
+witnesses for your time today. I would like to also thank the 
+chairman for noticing Ranking Member Waters' stablecoin draft 
+to this hearing to give us the opportunity to discuss some of 
+the bad policies that it includes. For instance, it would 
+require each stablecoin issuer to disclose so-called diversity 
+statistics, which have nothing to do with the financial 
+stability of the issuer. Additionally, the Waters draft 
+proposes to push forward with a study on a central bank digital 
+currency, which has been called the single greatest assault to 
+financial privacy since the creation of the Bank Secrecy Act.
+    Since my time is limited, I want to dive directly into my 
+questions. Mr. Morgan, the U.S. dollar is the world's reserve 
+currency, accepted all around the world because it is backed by 
+the full faith and credit of the U.S. Government. In that 
+sense, it is the original utility token. I see the value in 
+U.S.-based stablecoins to facilitate payments. So, Mr. Morgan, 
+if we are going to use blockchain technology and crypto rails 
+to facilitate payments, is it essential to have a less-volatile 
+asset, like a U.S.-backed stablecoin, than, say, Bitcoin or an 
+Ethereum-based token?
+    Mr.  Morgan. Congressman, thank you for the question. We 
+think that stable asset is a critical piece of facilitating 
+real-world value. In particular, we believe tokenized deposits 
+are one path to do that. Today, bank deposits are 73 percent of 
+money in the U.S. economy. Stablecoins are separate and apart 
+from that, but we believe that competition from well-regulated 
+parties for the form of that money can only benefit the 
+economy.
+    Mr.  Rose. Thank you.
+    Mr. Portilla, the McHenry bill does not include a 
+requirement for a report on financial inclusion, which was 
+included as part of an earlier draft. It also does not require 
+regulators to consider financial inclusion when evaluating a 
+stablecoin issuer's application, which is also required in the 
+earlier draft. Mr. Portilla, does information pertaining to 
+diversity and financial inclusion have any bearing on whether 
+the stablecoin issuer is capable of operating a stablecoin in a 
+safe and sound manner?
+    Mr.  Portilla. Yes. Thank you for the question as well. No, 
+I think the safety and soundness factors in the proposed 
+legislation, both of the proposed pieces of legislation, are 
+different than what you might call the community benefit or the 
+financial inclusion standards. I think the financial inclusion 
+or community benefit standards are not going towards safety and 
+soundness. They are addressing other policy goals.
+    I think those are borrowed from our banking laws, where 
+those factors are required to be considered under the banking 
+statutes for mergers and acquisitions, for example, for 
+different reasons. For example, classic banking is taking 
+deposits and making mortgage loans, and Congress in the past 
+has worried about banks making decisions about whom they are 
+lending to. To me, that is not relevant to the business of a 
+stablecoin. They are not making those types of decisions. So, I 
+think there is a question of if that is the right piece of the 
+banking statutes to draw from for stablecoin legislation.
+    Mr.  Rose. Thank you. I agree.
+    Mr. Morgan, tokenized deposits have a role to play in 
+utilizing the benefits of the blockchain in our payment 
+systems. Can you address the benefits of tokenized deposits and 
+how they differ from traditional stablecoins?
+    Mr.  Morgan. Congressman, thank you for the question. We 
+believe that this is a critical distinction. Unlike 
+stablecoins, tokenized deposits are not designed to connect 
+that broader crypto ecosystem to the real world. Tokenized 
+deposits will not trade on exchanges, and in most cases, will 
+not be held by the general public. They are simply backend 
+infrastructure that can bring the innovations associated with 
+blockchain technology into the traditional banking space.
+    Mr.  Rose. Thank you.
+    Mr. Homer, how do we ensure that stablecoin issuers work 
+with their regulator to utilize an appropriate amount of on-
+balance sheet liquidity and concentration limits to offset the 
+risk of withdrawals in a stress scenario based on their risk 
+profiles?
+    Mr.  Homer. Thank you, Congressman, for the question. It is 
+a great question, and it really speaks to the importance of a 
+prudential supervisor being the primary regulator of 
+stablecoins. And that is the balance the stablecoin issuers 
+have to strike, a balance between stability and liquidity, and 
+prudential supervisors have an important role to play there in 
+helping them think through scenario planning to get that right.
+    Mr.  Rose. Thank you. I see my time is expiring, so I yield 
+back.
+    Chairman  Hill. The gentleman yields back. The gentleman 
+from California, Mr. Sherman, is recognized for 5 minutes.
+    Mr.  Sherman. I am here to channel Nancy Reagan. Just say 
+no to crypto and to so-called stablecoins, the biggest oxymoron 
+in the American language. Mr. Rose points out that the other 
+way to go here is with the digital dollar, and the reason he 
+opposes that is he wants to have financial privacy. That is 
+right. If you want to be a drug dealer, you need financial 
+privacy. If you want to evade our sanctions laws, you need 
+financial privacy. But the big market is the tax evaders. The 
+IRS has testified that we have a trillion dollars of 
+uncollected taxes, chiefly from billionaires, in this country. 
+That means they have to hide $3 trillion of income every year. 
+That is the big market for this.
+    I first got involved in crypto because it blows a giant 
+hole in what has been the most effective element of national 
+power, and that is our ability to impose sanctions. We differed 
+on the Iran nuclear deal, but we were able to order every 
+country in the world to not buy Iranian oil in excess of the 
+amount we specified for that country because of the role of the 
+U.S. dollar. Some would say that got us a great nuclear deal, 
+some would say it should have gotten us a better nuclear deal, 
+but if this works, we are not going to have that power anymore. 
+You can build a couple more aircraft carrier groups at great 
+expense, but it isn't going to give you the power that we had 
+at that time.
+    My concern is what happens if this works as a payment 
+system. It is designed to compete with the U.S. dollar. I think 
+Mr. Davidson had it right. Here in Congress, we spend money 
+like we are Democrats, we impose taxes like we are Republicans, 
+and we have a fiscal deficit that would make Argentina blush. 
+If we didn't have the U.S. dollar playing the role that it 
+does, our economy would be worse than that of Argentina, so if 
+this works, it is a problem. We have people here concerned with 
+either helping billionaires make money or maybe helping 
+consumers not get ripped off. All of the billionaires make the 
+money, but we don't have anybody on our panel concerned with 
+the power of the United States through its U.S. dollar.
+    Now, we have the McHenry bill, which allows you to go to 
+any one of the 50 States and make them your regulator. So, you 
+supposedly have one-to-one backing for your money, but you pick 
+your auditor out of any one of the 50, so it certainly gives 
+you the opportunity to have less oversight, and eventually not 
+to have support. Mr. Davidson points out that the inflation 
+means that the dollar is worth less. That doesn't mean these 
+stablecoins preserve value because these stablecoins are tied 
+to the value of the U.S. dollar. They are never worth more than 
+one-to-one. They can be worth less if you have fraud and you 
+invite fraud by saying, go to the State that has the least-
+effective audits.
+    Finally, there is the use of private wallets. Now, those 
+who talk about fiat currencies will say, hey, I have a private 
+wallet. You can't conveniently put a million dollars in this. 
+The Federal Government doesn't regulate it, but how much money 
+can you put in it? In contrast, we are going to have a 
+stablecoin system that is like an iceberg. Some will be above 
+the water and will see it, but then you will have private 
+wallets below the water that will be a lot more efficient for 
+tax evaders, drug dealers, and sanctions evaders.
+    I can't believe I still have an additional 40 seconds.
+    I will also point out that this stablecoin is not some hip 
+new thing. It is as hip as John Quincy Adams. We already had 
+this in the 1820s. Banks would issue their own currency, 
+similar to what Ms. Wang was talking about. I want to add one 
+more thing, and that is, we already have money market funds. 
+They work much better than stablecoin as a payment system now, 
+and we can make them much better than they are now. You can tie 
+them to a debit card. The only problem is they have Know Your 
+Customer (KYC) rules, and that means they are not good for tax 
+evaders and sanction evaders. I yield back.
+    Chairman  Hill. The gentleman yields back, and the Chair 
+reminds all Members that there is no loss of prestige by 
+yielding back in less than 5 minutes.
+    The Chair now recognizes the gentleman from Wisconsin, Mr. 
+Steil, for 5 minutes.
+    Mr.  Steil. Thank you very much, Mr. Chairman. Thanks for 
+holding today's hearing. I think it is a really important 
+topic.
+    Mr. Homer, one of the things I think a lot about is how we 
+make sure that the development of these products isn't 
+overseas, but rather, in the United States. A lot of times, I 
+think about the challenges that I have with Big Tech, but if I 
+look at all of the challenges that I have with Big Tech, I 
+think I can't even fathom to wrap my head around the challenges 
+that we would face if, instead of having U.S.-domiciled 
+companies at the forefront, if all of our Big Tech companies 
+were like TikTok and were developed outside the United States, 
+the challenges that we would face or the infancy in some ways 
+of this technological revolution.
+    I want to make sure it remains and is developed here in the 
+United States with our values rather than internationally, as 
+well as the jobs and value that will come from that. And so, as 
+I look at that, do you believe that the proposed McHenry 
+legislation will provide innovators with the certainty they 
+will need to invest here in the United States?
+    Mr.  Homer. I do, and I can--
+    Mr.  Steil. No, no, no. That is good. Okay. Straightforward 
+answer then. Singapore has enacted a regulatory framework for 
+stablecoins, so let's examine Singapore's experience as we 
+craft our own framework here in the United States. Is there 
+anything specifically we can learn from the Singapore 
+experience?
+    Mr.  Homer. Sure. I think one thing that is important now 
+is that stablecoins will happen regardless of whether we want 
+them to happen or not. The U.S. dollar dominates stablecoins. 
+There is nothing stopping offshore entities from doing this 
+already. We should have it done in the U.S. so we can regulate 
+it on our own terms.
+    We can learn a lot from stablecoin frameworks being 
+proposed in other countries like Singapore and the European 
+Union. In some ways, they mirror much of what is reflected in 
+this proposal regarding reserve requirements. I think one 
+feature that is different that you see in other markets is a 
+tiering. Under this proposal, someone who issues $5 of 
+stablecoins is regulated in the same way as someone who issues 
+$5 billion worth of stablecoins, and in other country's 
+proposals, we see a tiering in terms of regulatory 
+requirements.
+    Mr.  Steil. That is helpful. Thank you very much. Let me 
+stay with you, Mr. Homer, but let me shift gears somewhat 
+dramatically. The SEC recently issued a, ``Wells notice,'' to 
+Paxos that alleges the stablecoin, BUSD, is a security. We all 
+know one of the key prongs to the Howey test is that there will 
+be an expectation of profit. Could a purchaser of a stablecoin 
+have an expectation of profit?
+    Mr.  Homer. It is hard to understand how a user of a 
+stablecoin could have an expectation of profit.
+    Mr.  Steil. So, you would agree that stablecoins are not 
+securities, based on your answer, correct?
+    Mr.  Homer. Correct.
+    Mr.  Steil. Thank you. I think that is important for the 
+record. Let me shift gears, if I can, to you, Mr. Portilla. I 
+am assuming you have had an opportunity to review the ranking 
+member's alternative proposal ahead of this hearing?
+    Mr.  Portilla. I have.
+    Mr.  Steil. Did you review the section of the legislation 
+entitled, ``Risk Management for Contracted Services,'' which 
+requires Federal regulation of payment stablecoin issuers, 
+affiliates, and subsidiaries?
+    Mr.  Portilla. I did.
+    Mr.  Steil. And would you agree that the legislation 
+requires an entity without an existing Federal regulator to be 
+regulated by the Federal Reserve?
+    Mr.  Portilla. That is correct.
+    Mr.  Steil. So is it fair to say that entities that may not 
+issue stablecoins, but instead engaged in other market 
+activities, would end up being regulated by the Fed?
+    Mr.  Portilla. Correct, if they provide the services in 
+that section.
+    Mr.  Steil. And you agree that this is outside the scope of 
+the Fed's normal regulatory activities?
+    Mr.  Portilla. It would be a new responsibility for them, 
+right.
+    Mr.  Steil. Is this even in the Fed's area of expertise?
+    Mr.  Portilla. I don't want to speak for them, but to my 
+knowledge, no.
+    Mr.  Steil. It appears to me to be a bit of a question as 
+to why we would look for the Fed to engage in a regulatory 
+oversight role that is outside their area of expertise, so I 
+appreciate your feedback. I think it is broadly problematic. I 
+think it would further cause market confusion and potentially 
+conflict with other regulators. I appreciate your time.
+    Mr. Chairman, since you noted I could yield back time with 
+no disgrace, I will yield back to the Chair. Thank you.
+    Chairman  Hill. The gentleman from Wisconsin yields back in 
+a most gracious manner.
+    The Chair now recognizes the ranking member of the Full 
+Committee, Ms. Waters, for 5 minutes.
+    Ms.  Waters. Thank you very much, Mr. Chairman. Mrs. 
+Reynolds Hand, the Democratic compromise draft that I posted 
+for today's hearing includes several critical provisions that 
+are missing from the Republican draft. One of them would give 
+the Federal Reserve Board the option to decline any 
+registration of a State-approved stablecoin issuer. This aligns 
+bank and non-bank stablecoins issuers with the current process 
+we have for State-chartered banks and would ensure a strong 
+Federal floor for registration. This means that stablecoin 
+issuers could not engage in regulatory arbitrage. Can you 
+elaborate on the importance of giving a Federal agency, like 
+the Fed, a role to approve payment stablecoins before they are 
+issued?
+    Ms. Hand. Thank you for the opportunity, Ranking Member 
+Waters. In this country, there is a strong role for Federal 
+regulators in approving all banks, the backbone of consumer 
+finance, and the cryptocurrency and the Fed overlap when banks 
+hold cryptocurrency as an asset on their balance sheets. And in 
+the last couple of years, we have seen that when the 
+traditional banking system and decentralized finance (DeFi) 
+begin to intersect, it can create significant questions and 
+structural issues. For example, although stablecoins may peg 
+their value to the same real-world asset, stabilization 
+mechanisms vary greatly.
+    This is one of the reasons payment stablecoins can impact 
+the monetary system, and why we need a role for the Fed in the 
+same way that there is the role for Federal regulators to 
+approve State-chartered banks. There has to be a role for the 
+Fed to review applications and reject them if they don't meet 
+certain requirements.
+    Ms.  Waters. Thank you. That is an important issue that we 
+are dealing with, with stablecoins. Let me move on. One of the 
+most-devastating impacts of the FTX collapse resulted from the 
+intentional lack of customer asset segregation. The assets of 
+FTX's customers were used to fund personal loans for senior FTX 
+staff, and funneled into FTX founder, Sam Bankman-Fried's, 
+trading from Alameda Research. Customer funds were commingled 
+with the firm funds. When the exchange collapsed, commingled 
+customer assets largely vanished, and to this day are difficult 
+to recover. Some are unlikely to be recovered at all. However, 
+this is a different experience compared to FTX's Japanese 
+customers, who were largely made whole because Japan passed 
+strong regulations against the commingling of funds. 
+Unfortunately, only a few months after the FTX collapse, the 
+Republican stablecoin draft allows for the creation of 
+stablecoins but has no oversight of the wallets where they 
+would hold them.
+    Can you describe the importance of customer protections, 
+like the complete segregation of customer assets by issuers, 
+exchanges, wallet providers, and other entities? What are the 
+dangers presented by firms commingling customer assets with the 
+firm's own assets?
+    Ms. Hand. Briefly, custodial structures help protect 
+consumer funds, and it is important because if a firm goes 
+bankrupt, then consumers need to have a clear pathway to be 
+able to recover their funds. And as we saw in the court rulings 
+in Celsius, there is a clear gray area there, and we need clear 
+rules of the road, particularly around custodial wallets. We 
+need a segregation of consumer funds in these instances.
+    Ms.  Waters. So, commingling is a serious issue. Again, we 
+have seen it with FTX, and we should be aware of that, and that 
+is one of the issues we have to resolve in this legislation. 
+Thank you, and I yield back the balance of my time.
+    Chairman  Hill. The gentlewoman yields back. The gentleman 
+from Illinois, Mr. Casten, is recognized for 5 minutes.
+    Mr.  Casten. Thank you, Mr. Chairman. Mr. Homer, I want to 
+just run through some hypotheticals with you as I think about 
+some of the mechanics of this bill. If I am a broker-dealer of 
+conventional equities, am I legally allowed to unilaterally 
+halt trades on a volatile security, or do I need to have the 
+regulator's approval for that?
+    Mr.  Homer. I don't have the answer to that question right 
+now.
+    Mr.  Casten. It is a, ``yes.'' I hope you would agree that 
+we would not want to give broker-dealers that power, give them 
+the conflicts of interest. I asked the question, because from 
+March 10th to March 12th, Coinbase made a unilateral decision. 
+Coinbase was registered as a broker-dealer, and made a 
+unilateral decision to pause USDC conversions after Circle 
+disclosed that they had $3.3 billion in exposure to Silicon 
+Valley Bank and they lost their peg. So, exchanges that are 
+registered as broker-dealers in the crypto space, is there 
+something unique about crypto? Should they have authorities 
+that we do not give to other broker-dealers because of the 
+conflicts of interest? It is not a super-complicated question.
+    Mr.  Homer. I think that anyone who is registered as a 
+broker-dealer should experience a consistent set of regulatory 
+requirements.
+    Mr.  Casten. Okay. That is great, because the implication 
+of that is that cryptocurrency exchanges should comply with 
+securities laws and be registered with the SEC.
+    Second question. Mr. Homer, I was trying to read your 
+background, and I don't know how long you have been at this 
+firm, but you are the managing member of a venture capital 
+fund. Is that right?
+    Mr.  Homer. That is correct.
+    Mr.  Casten. And does your fund invest in crypto firms?
+    Mr.  Homer. In companies, yes. Not in tokens.
+    Mr.  Casten. Okay. Do you receive or buy cryptocurrency 
+tokens in connections with those investments?
+    Mr.  Homer. We have not.
+    Mr.  Casten. Would you be open to that possibility with the 
+right deal and the structure?
+    Mr.  Homer. I would not preclude it.
+    Mr.  Casten. Okay. So if you did, once your contractual 
+lockout ends, however long that is, you are then allowed to 
+sell those tokens to the public immediately, right?
+    Mr.  Homer. It depends on how it is structured, but in your 
+scenario, it sounds like yes.
+    Mr.  Casten. I am just saying, legally; I am not saying how 
+you might structure it. I am just saying, just as a venture 
+fund, when your lockout period is over, you can sell that back, 
+because if you were subject to SEC registration, those would 
+first have to comply with Section 5 of the Securities Act and 
+be registered with the Commission, right?
+    Mr.  Homer. I am guessing the answer is yes.
+    Mr.  Casten. And furthermore, if you are getting paid in 
+these crypto tokens, you don't have to comply with Section 
+12(a)(1), which would allow individuals who might feel that 
+they had been defrauded, to sue you if there was something that 
+they thought was a fraudulent conveyance or something else, 
+right?
+    Mr.  Homer. I am following.
+    Mr.  Casten. I raise all this because this lack of 
+regulation in the crypto space--and I am not saying anything 
+about you personally; it is just that you are the only venture 
+capital guy up here--allows crypto startups to bypass 
+regulations so that you could exit your position quicker even 
+if it is defrauding investors. I am not saying that is your 
+intent, but I am saying there are a whole lot of problems here 
+with this lack of regulation, and I, frankly, don't think that 
+either of these bills go far enough to address that.
+    The next piece is, do non-bank stablecoin issuers have a 
+fiduciary obligation to meet customer demands for redemption?
+    Mr.  Homer. Yes, they would.
+    Mr.  Casten. Okay. When Circle saw that SVB was going 
+under, they tried to pull the $3.3 billion out. They were 
+meeting their obligations to their customers, right?
+    Mr.  Homer. Yes.
+    Mr.  Casten. Okay. Now in the case of SVB, $3.3 billion 
+wasn't going to make a difference in the overall troubles that 
+they were facing. But it is really easy to imagine that money 
+being in a smaller bank or stablecoin succeeding the way we are 
+talking about, and it all of a sudden being a massively 
+destabilizing event on our fiscal system if you have this 
+obligation to pull, right?
+    Mr.  Homer. Yes. This is why I think prudential supervision 
+is important and prudential supervisors are the best set of 
+regulators.
+    Mr.  Casten. No, I think there is a different issue here. 
+There is a good case for blockchain. There is a good case for 
+Web3. There is a good case for distributed ledger. Why are we 
+creating a currency within that mix that has access to our 
+financial system? If you want to buy this pen for three magic 
+ponies, we can do that. That is a barter transaction. Why are 
+we connecting this to our financial system?
+    And Ms. Reynolds Hand, I guess I will just end with you, if 
+you have any final thoughts on what risks we expose ourselves 
+to?
+    Chairman  Hill. The gentleman's time has expired. I am just 
+sensitive to it since we have votes on the Floor, and I want to 
+get to Mr. Green. So, I yield to Mr. Green for 5 minutes, and 
+at the end of Mr. Green's questioning, the hearing will be 
+adjourned.
+    Mr.  Green. Thank you, Mr. Chairman. And I thank the 
+witnesses for appearing. Let me just start by indicating to you 
+that I am very much concerned about the stability of our 
+currency. There is a war for currency supremacy. This war for 
+currency supremacy is one that involves countries that don't 
+always have our best interests at heart, and our reserve 
+currency is preeminent. It is something that we treasure, but 
+opposition in the world is dependent, to a certain extent, on 
+the validity of our currency. People trust us because of the 
+validity of our currency. They invest in our country and our 
+Treasury because of the validity of our currency.
+    So, my concern emanates from this belief that we must 
+proceed with caution. And as we proceed with caution, we must 
+keep in mind that the system we have, has some flaws, but it 
+isn't bad, it isn't the worst system in the world, and I want 
+to be very careful about how we do things to impact a system 
+that is fairly efficacious. It seems to be something that 
+others would love to have. In fact, they try to create it on a 
+daily basis.
+    Here is my concern for you non-bank financial companies. 
+Non-bank financial companies can issue stablecoins. What kind 
+of power are we giving to non-bank financial companies when 
+they can issue stablecoins? In a sense, someone might say they 
+are issuing currency of a sort.
+    Why don't we just start with you, Ms. Reynolds Hand? Could 
+you kindly comment on what we will be doing when we do this?
+    Ms. Hand. Congressman, I completely share your concern. I 
+was on the Hill as a staffer during the last financial crisis, 
+and since then, we have continued to see the proliferation of 
+non-bank financial services, i.e., fintech, explode and 
+eclipse, in some parts, the traditional banking system. And 
+that is a primary reason why we do need some clear rules of the 
+road. Unfortunately, via the mobile phones that consumers walk 
+around with, consumers now have access to these digital assets, 
+but they severely lack protections. And that is the only reason 
+why there is a need for legislation and clear rules of the road 
+in this space, but I do share your concern about how we proceed 
+forward.
+    We have a strong financial system. We have some solid 
+principles around which that system is based, and yet, because 
+there are clear vagaries and gaps in terms of regulation and 
+rules, new entrants are always entering the space and engaging 
+with consumers without adequate protections.
+    Mr.  Green. Thank you.
+    Ms. Wang, just an additional predicate before you respond. 
+Our fiat currency is the envy of the world. Everybody wants the 
+dollar. If we allow circumstances to continue unabated without 
+the legislation, what can happen? Give me your opinions as to 
+how this can metamorphose into something.
+    Ms.  Wang. Thank you, Congressman, for the question. I 
+think, on a global level, countries want to de-dollarize. They 
+want to have the dollar be less influential in international 
+trade. So if there are competing stablecoin legislations 
+elsewhere, they are going to promote their own national 
+currency and de-emphasize dollar-denominated stablecoins, so 
+having this bill would allow us to stay competitive.
+    And as you said, the U.S. dollar is the reserve currency. I 
+believe that, and I understand the concerns you have, but don't 
+paint all of us with the same brush, because there are those of 
+us who may be non-bank financial institutions, but we are 
+community organizations. We are grassroots organizations. We 
+support the work of local community banks. And we are doing 
+that work to ensure that the U.S. dollar works harder, and by 
+allowing us an opportunity to also--
+    Mr.  Green. Let me recede. The chairman has been very 
+generous. Thank you, Mr. Chairman. Mr. Chairman, I am a 
+supporter of Ms. Waters' bill, and I am going to do what I can 
+to help us to have a good piece of legislation.
+    Chairman  Hill. I thank the gentleman from Texas. And I 
+thank our witnesses, and I appreciate your patience. We have 
+two votes on the House Floor. We have other Members who do have 
+some questions. It won't be that many. We ask your indulgence. 
+And the committee will stand in recess until after votes.
+    [recess]
+    Mr.  Timmons. [presiding]. The committee will come to 
+order. I now recognize myself for 5 minutes.
+    My colleagues across the aisle have asserted that all 
+stablecoin issuers must register with Federal regulators before 
+conducting business, including those that are regulated on the 
+State level.
+    Mr. Homer, although stablecoin issuers that go through the 
+State pathway are not also required to register with the 
+Federal Reserve under the McHenry proposal, would there still 
+be a significant role for the Federal Reserve to play, and what 
+would that role be under the McHenry proposal?
+    Mr.  Homer. Thank you for the question, Congressman. There 
+would be a significant role for the Federal Reserve to play in 
+that scenario, namely, in two ways, the first being backstop 
+supervision. The Federal Reserve would have access to the books 
+and records of the companies that are regulated by the States 
+and would have the ability to step in if they felt they were 
+not being properly regulated, and also would be able to take 
+enforcement actions.
+    Mr.  Timmons. Thank you for that. Both proposals noticed to 
+this hearing establish a list of factors that Federal 
+regulators must utilize when considering an application for a 
+given stablecoin issuer. Again, Mr. Homer, would you discuss 
+the factors in the McHenry proposal and how they provide the 
+bounds for what the banking regulators may and may not 
+consider?
+    Mr.  Homer. Yes. Thank you for the question. The factors 
+include the financial requirements, including reserve assets, 
+etc. It includes character and fitness of management and 
+includes an analysis of risks and benefits.
+    Mr.  Timmons. And what are the consequences of including 
+more open-ended or subjective factors, as contemplated in the 
+Waters proposal?
+    Mr.  Homer. There are tradeoffs associated with doing that. 
+For companies/applicants in the space, it makes it more 
+difficult to understand your requirements and to put together a 
+complete application, and for regulators, it would give them 
+significant discretion to reject applications based on a 
+potentially unlimited set of reasons.
+    Mr.  Timmons. And if our objective is to provide certainty 
+and a framework from which the market can operate, would the 
+McHenry or the Waters proposal accomplish that objective?
+    Mr.  Homer. Yes. I think that the first noticed proposal 
+would provide greater certainty.
+    Mr.  Timmons. Thank you. One risk identified in the 
+President's Working Group report on stablecoins was a lack of 
+transparency.
+    Mr. Portilla, would you describe how the draft legislation 
+attached to this hearing could help provide transparency and 
+how that transparency will in turn give consumers confidence in 
+stablecoins?
+    Mr.  Portilla. Yes, for sure. Thank you for the question. I 
+think both of the proposals noticed for the hearing include 
+provisions that would enhance transparency for stablecoin 
+issuers. In particular, there is a requirement to disclose the 
+issuers' redemption policy, to establish procedures for timely 
+redemption, to publish the monthly composition of the reserve 
+assets, and to provide attestations of the accuracy of the 
+report of those disclosures to the relevant regulators. And 
+there are, in fact, criminal penalties associated with false 
+attestations, which should provide significant incentive for 
+management to make sure those attestations are correct and 
+provide accountability for when they are not.
+    Mr.  Timmons. Thank you for that. Some claim that the State 
+regulatory framework under Chairman McHenry's legislation will 
+be insufficient to address anti-money laundering and financial 
+crime issues with stablecoins.
+    First of all, the bill requires all stablecoin issuers to 
+be treated as financial institutions for purposes of the Bank 
+Secrecy Act, which levels a number of requirements including 
+registering with the Financial Crimes Enforcement Network 
+(FinCEN) and submitting suspicious activity reports (SARs). 
+States may add additional enhanced requirements under their 
+framework.
+    Mr. Homer, again, can you describe how the New York DFS 
+considers anti-money laundering compliance when determining 
+whether to approve the application of a stablecoin?
+    Mr.  Homer. Yes. Thank you for the question, Congressman. 
+It is one of the most significant factors. New York is a 
+leading regulator in the space, but it is not an easy 
+regulator, and it is still very challenging for companies to 
+get approval in New York, and rightfully so. This risk area is 
+one of the most-significant areas, I would say, where it takes 
+companies a while to really adequately meet those requirements. 
+The requirements in New York are incredibly robust, and look at 
+the policies and procedures a company has related to this 
+issue, including ensuring that adequate KYC is being done at 
+the time of issuance and at the time of redemption of 
+stablecoins.
+    Mr.  Timmons. Thank you for that. I yield back.
+    And the Chair now recognizes Representative Nickel from 
+North Carolina for 5 minutes.
+    Mr.  Nickel. Thank you so much, and I want to thank 
+Chairman Hill and Ranking Member Lynch for holding today's 
+hearing, and thanks so much to our witnesses for being with us 
+here today. I am hopeful that we can come to a bipartisan 
+agreement on stablecoin legislation as the status quo is both 
+risky for consumers and stifling for innovation. We also have 
+the opportunity with stablecoins to reinforce the dominance of 
+the U.S. dollar as the global reserve currency, all while 
+making it stronger, more accessible, and more competitive.
+    We are already seeing challenges to the dollar's influence 
+with the share of dollars in global currency reserves 
+decreasing from 66 percent to 58 percent since 2015. If the 
+dollar were to lose its status, there would be negative impacts 
+across our economy, in addition to national security concerns. 
+The dollar is the asset underlying 98 percent of stablecoin 
+transactions. If stablecoin use increases, the dollar will only 
+get stronger. By passing bipartisan stablecoin legislation to 
+provide regulatory clarity and improve the infrastructure on 
+which the U.S. dollar travels, we can ensure it remains the 
+global reserve currency.
+    Mr. Homer, I would like to start with you. Can you please 
+describe the role of stablecoins in supporting U.S. dollar-
+dominance?
+    Mr.  Homer. Thank you for the question, Congressman. I 
+believe stablecoins are the most significant way in which the 
+U.S. Government can ensure continued dollar dominance in a 
+digital era. We are seeing a transformation of money from 
+analog to digitized, and we are moving toward a digital native 
+era which stablecoins represent, and we see that in the form of 
+users in other countries wanting to hold U.S. dollar-
+denominated stablecoins. If we want to maintain our ability to 
+engage in economic statecraft and use tools like sanctions, 
+having stablecoins be issued from the U.S. is essential to that 
+objective.
+    Mr.  Nickel. And you kind of touched on this in your answer 
+here, but I would like to hear more about the national security 
+implications of the dollar losing its status as the global 
+reserve currency. How would this impact the effectiveness of 
+our sanctions, having stablecoin legislation?
+    Mr.  Homer. Yes. Sanctions tools are only effective to the 
+extent to which payment instruments or payment systems are 
+denominated in dollars or involve U.S. leadership. And if 
+significant stablecoin issuance were to happen outside of the 
+U.S., it would lessen our ability to use sanctions tools in the 
+future.
+    Mr.  Nickel. I think we are really close on a lot of the 
+different forms of legislation that I am seeing, but I am 
+concerned about the Federal Reserve Board having a very broad 
+veto authority to decline registrations by State-regulated 
+issuers of stablecoins. Are there certain scenarios where you 
+think the Fed should have this veto? How can we narrow this to 
+keep a strong Federal floor while also preserving North 
+Carolina's ability to regulate stablecoins in our dual banking 
+system? Mr. Homer?
+    Mr.  Homer. I think we can look at some of what has 
+happened in other countries, places like the EU or even 
+Singapore, where there is a tiered approach, where issuers who 
+are below a certain threshold can be subject to subnational 
+regulation or a different regulatory regime. But once you have 
+reached a systemic or significantly-important level, then I 
+certainly think enhanced oversight would make sense.
+    Mr.  Nickel. Thank you so much, and I yield back.
+    Mr.  Flood. [presiding]. The gentleman yields back. And I 
+now recognize myself for 5 minutes. First of all, I want to 
+thank all of the witnesses who are here today.
+    My number-one concern on stablecoins is ensuring that there 
+is a robust State pathway for stablecoin issuers. Much like the 
+dual banking system, there should be an opportunity for 
+stablecoin issuers to be regulated at both the State and the 
+Federal level. This is important for a few reasons. First, it 
+makes it possible for States like Nebraska to come up with our 
+own regulatory frameworks for stablecoins. Over time, States 
+will learn from each other and adopt best practices from their 
+neighbors, reaching consensus on common issues and, ultimately, 
+better regulation across-the-board.
+    The problem with only Federal regulation is that it doesn't 
+undergo that natural iterative process. Instead, you have this 
+top-down approach that might be more difficult to change over 
+time, and that is not a system that fosters innovation. And it 
+is hard to argue that America's financial system built on this 
+two-tier Federal and State approach to regulation of banks 
+hasn't yielded great results for the United States. In the case 
+of stablecoins, we are talking about something that we may very 
+well have to revisit periodically as blockchain technology and 
+its use cases continue to develop. It is much better to have 
+several State regulators working in this area than just one or 
+two Federal regulators, who may require an act of Congress to 
+make technical changes.
+    Additionally, it creates opportunities for States to 
+develop specialization. Regulators can establish a reputation 
+as knowledgeable on a particular set of issues. Such a 
+reputation can then become a reason for a business to locate in 
+that State. My hope was to develop precisely that kind of 
+environment in Nebraska when, as a State senator, I wrote and 
+passed the Nebraska Financial Innovation Act.
+    Ms. Wang, in your testimony, you compared the State 
+regulatory pathway for stablecoins to the, ``laboratories of 
+democracy,'' that Constitutional scholars write about. Can you 
+elaborate on this point and on the importance of allowing 
+States to write some of their own rules?
+    Ms.  Wang. I think that the State regulatory pathway is 
+absolutely critical for grassroots innovation, without which we 
+would not be able to have true bottom up diversity and 
+inclusion of our financial system. These grassroots innovators 
+are for the community, of the community, and by the community, 
+and we should be allowed to experiment and to fail safely.
+    Under Chairman McHenry's proposal, we would already be 
+required to meet the minimum Federal guidelines for issuance 
+under Section 4, backstopped by the Federal Reserve Board in 
+the event of exigent circumstances. In my view, there is no 
+constitutional reason to preempt State regulation in the case 
+where not all stablecoins may necessarily implicate interstate 
+commerce.
+    Mr.  Flood. Thank you for that.
+    Mr. Homer, one of the claims we hear occasionally, and we 
+heard it today about a State pathway for stablecoin issuers, is 
+that it could lead to a so-called race to the bottom. As a 
+former New York State Department of Financial Services 
+executive deputy superintendent, would you mind just responding 
+to that claim?
+    Mr.  Homer. Yes. I think under the proposal, it would be 
+very hard to imagine a race to the bottom. A Federal standard 
+is established, which is basically the New York standard. New 
+York best practices that have been tried and tested and proven 
+would be established as a Federal floor.
+    Mr.  Flood. I would like to close by speaking just a little 
+bit on the two drafts noticed for this hearing. I am glad that 
+Ranking Member Waters and the Democrats have come forward with 
+a stablecoin proposal. I am hopeful that we can take serious 
+steps on this and lead because the United States needs to lead 
+here, not just for our country, but for the world.
+    However, when I look at Ranking Member Waters' bill, the 
+State pathway includes the following provisions: number one, 
+State-issued stablecoins must register with the Federal 
+Reserve, and the Fed is responsible for creating registration 
+requirements; number two, the Federal Reserve is directly 
+responsible for regulating and examining the State issuer; and 
+number three, the Federal Reserve may, if it chooses, enter 
+into a memorandum of understanding where it could delegate some 
+of the regulatory enforcement obligations to the State 
+regulator if they so choose.
+    To summarize, the Federal Reserve would be in charge of 
+processing applications, regulation, examination, and 
+enforcement. That is the whole ballgame. The Federal Reserve 
+would be responsible for all of the nuts and bolts of 
+regulating and overseeing State issuers, and they would 
+delegate some of their responsibilities only if they so choose. 
+To be frank, that is just not a State pathway in any meaningful 
+sense. And my number-one focus as a member of this subcommittee 
+is to maintain a State pathway, an opportunity for all of these 
+laboratories in our democracy, all of the different States to 
+be able to participate in a true two-tier system.
+    With that, I yield back. And I now recognize Mr. Torres.
+    Mr.  Torres. Thank you, Mr. Chairman . There has been a 
+suggestion that State regulators cannot be trusted to regulate 
+State-licensed stablecoins without parental supervision from 
+the Federal Reserve. If State regulators can be trusted to 
+regulate State-chartered banks, then why can they not be 
+trusted to have analogous authority with respect to 
+stablecoins? Regulating fractionally-reserved banks that take 
+on credit risk strikes me as far more complicated than 
+regulating a fully-reserved stablecoin that takes on no credit 
+risk at all.
+    So, Mr. Homer, can you explain to me why there should be a 
+strong State option for fractional reserve banking but no 
+strong State option for stablecoin issuance? Imagine you are 
+ChatGPT, and I am a 5-year-old. Please explain the logic that 
+underlies that criticism.
+    Mr.  Homer. It is really hard to make a rational argument 
+for that. I think, as you point out, fully-reserved stablecoins 
+and other forms of non-bank companies don't hold the same type 
+of risk as fractional companies. And States like New York have 
+really been the primary chartering entities or regulators for 
+non-bank companies in the history of the United States.
+    Mr.  Torres. So, it certainly should be possible to set a 
+Federal floor that prevents regulatory arbitrage that prevents 
+a race to the bottom without subordinating State regulators, 
+like DFS, to the Federal Reserve?
+    Mr.  Homer. Absolutely.
+    Mr.  Torres. Okay. And let's be crystal clear, State 
+regulators, like DFS, have been more effective at crypto 
+regulation than the Federal Government. The SVB collapse 
+happened under the watch of the Federal Reserve. The FTX Ponzi 
+scheme happened under the watch of the Federal Government. 
+Federal regulators, like the SEC, spent more time targeting Kim 
+Kardashian than Sam Bankman-Fried. So, the evidence is crystal 
+clear that we have been poorly served by the SEC's regulatory 
+ambulance chasing. As far as the lessons learned from FTX, 
+those lessons should inform the development of a Federal 
+framework for regulating stablecoins. A lesson learned, 
+stablecoins should be fully reserved, and those reserves should 
+consist of 100 percent cash or cash equivalents. Raise your 
+hand if you agree.
+    [Hands raised.]
+    Mr.  Torres. I imagine all of you agree. Lesson learned, 
+stablecoin reserves should be verified not only by self-
+attestation, but also by a third-party audit. Please raise your 
+hand if you agree.
+    [Hands raised.]
+    Mr.  Torres. Customers should have the right to immediately 
+redeem a stablecoin on a one-to-one basis. Please raise your 
+hand if you agree.
+    [Hands raised.]
+    Mr.  Torres. And stablecoin issuers should be prohibited 
+from lending, leveraging, or commingling customer funds. Please 
+raise your hand if you agree.
+    [Hands raised.]
+    Mr.  Torres. A federally-licensed stablecoin issuer should 
+have a single Federal regulator. Too many cooks in the kitchen 
+creates regulatory confusion and duplication. If a stablecoin 
+is a currency regulated by the Federal Reserve or trust 
+regulated by the OCC, it should not simultaneously be a 
+security regulated by the SEC. Do you agree with that, Mr. 
+Homer?
+    Mr.  Homer. I do.
+    Mr.  Torres. There is a common misconception that crypto 
+threatens the status of the dollar as the world's reserve 
+currency, but the experience of stablecoins has shown the exact 
+opposite. The fact that most stablecoins are pegged to the 
+dollar reinforces rather than challenges the reserve status of 
+the U.S. dollar.
+    Mr. Homer, you actually referenced competition. My 
+understanding is that, in the realm of financial technology, 
+China has largely been now competing with the United States. 
+The only fintech battleground on which the United States has 
+been now competing, China has been the domain of digital 
+currency, stablecoins. Dollar stablecoins have been far more 
+successful than China's failed attempt at a CBDC. Is that a 
+fair assessment?
+    Mr.  Homer. It is a fair assessment, and it is because that 
+is what people throughout the world want. People want U.S. 
+dollar-denominated stablecoins.
+    Mr.  Torres. And a common refrain heard from critics of 
+crypto in Congress is that crypto has no use case. But it seems 
+to me that blockchain enables real-time transactions, 
+stablecoin tokenizes the dollar, and the ability of a tokenized 
+dollar to move at the speed of the blockchain creates a better, 
+cheaper, and faster payment system, which would include the 
+potential for better, cheaper, and faster remittances for the 
+lowest-income Americans. Is that a fair assessment?
+    Mr.  Homer. A very fair assessment, and we are already 
+seeing that happen.
+    Mr.  Torres. Would anyone else like to comment on the use 
+cases of stablecoins?
+    [No response.]
+    Mr.  Torres. The enthusiasm is overwhelming, I know. The 8 
+seconds you have, okay. Other than that, I yield back.
+    Mr.  Flood. The gentleman yields back. I would like to 
+thank all of our witnesses for their testimony today.
+    The Chair notes that some Members may have additional 
+questions for this panel, which they may wish to submit in 
+writing. Without objection, the hearing record will remain open 
+for 5 legislative days for Members to submit written questions 
+to these witnesses and to place their responses in the record. 
+Also, without objection, Members will have 5 legislative days 
+to submit extraneous materials to the Chair for inclusion in 
+the record.
+
+                                  [all]
+

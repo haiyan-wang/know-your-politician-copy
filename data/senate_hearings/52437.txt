@@ -1,0 +1,1946 @@
+
+ - EXAMINING HEALTH CARE DENIALS AND DELAYS IN MEDICARE ADVANTAGE
+
+[Senate Hearing 118-144]
+[From the U.S. Government Publishing Office]
+
+
+                                                        S. Hrg. 118-144
+
+     EXAMINING HEALTH CARE DENIALS AND DELAYS IN MEDICARE ADVANTAGE
+
+=======================================================================
+
+                                HEARING
+
+                               BEFORE THE
+
+                PERMANENT SUBCOMMITTEE ON INVESTIGATIONS
+
+                                 OF THE
+
+                              COMMITTEE ON
+               HOMELAND SECURITY AND GOVERNMENTAL AFFAIRS
+                          UNITED STATES SENATE
+
+                    ONE HUNDRED EIGHTEENTH CONGRESS
+
+
+                             FIRST SESSION
+                               __________
+
+                              MAY 17, 2023
+                               __________
+
+        Available via the World Wide Web: http://www.govinfo.gov
+
+                       Printed for the use of the
+        Committee on Homeland Security and Governmental Affairs
+        
+                               __________
+
+                    U.S. GOVERNMENT PUBLISHING OFFICE
+                    
+52-437  PDF               WASHINGTON : 2023           
+
+
+        COMMITTEE ON HOMELAND SECURITY AND GOVERNMENTAL AFFAIRS
+
+                   GARY C. PETERS, Michigan, Chairman
+THOMAS R. CARPER, Delaware           RAND PAUL, Kentucky
+MAGGIE HASSAN, New Hampshire         RON JOHNSON, Wisconsin
+KYRSTEN SINEMA, Arizona              JAMES LANKFORD, Oklahoma
+JACKY ROSEN, Nevada                  MITT ROMNEY, Utah
+ALEX PADILLA, California             RICK SCOTT, Florida
+JON OSSOFF, Georgia                  JOSH HAWLEY, Missouri
+RICHARD BLUMENTHAL, Connecticut      ROGER MARSHALL, Kansas
+
+                   David M. Weinberg, Staff Director
+                    Zachary I. Schram, Chief Counsel
+           William E. Henderson III, Minority Staff Director
+              Christina N. Salazar, Minority Chief Counsel
+                     Laura W. Kilbride, Chief Clerk
+                   Ashley A. Gonzalez, Hearing Clerk
+
+
+                PERMANENT SUBCOMMITTEE ON INVESTIGATIONS
+
+                      RICHARD BLUMENTHAL, Chairman
+THOMAS R. CARPER, Delaware           RON JOHNSON, Wisconsin
+MAGGIE HASSAN, New Hampshire         RICK SCOTT, Florida
+ALEX PADILLA, California             JOSH HAWLEY, Missouri
+JON OSSOFF, Georgia,                 ROGER MARSHALL, Kansas
+
+                   Jennifer N. Gaspar, Staff Director
+                 Brian Downey, Minority Staff Director
+                      Kate Kielceski, Chief Clerk
+
+                            C O N T E N T S
+
+                                 ------                                
+Opening statements:
+                                                                   Page
+    Senator Blumenthal...........................................     1
+    Senator Johnson..............................................     3
+    Senator Marshall.............................................    18
+Prepared statements:
+    Senator Blumenthal...........................................    33
+    Senator Johnson..............................................    35
+
+                               WITNESSES
+                        Wednesday, May 17, 2023
+
+Megan H. Tinker, Chief of Staff, Office of Inspector General, 
+  U.S. Department of Health and Human Services...................     6
+Jeannie Fuglesten Biniek, Ph.D., Associate Director, Program on 
+  Medicare Policy, KFF...........................................     7
+Christine Jensen Huberty, Lead Benefit Specialist Supervising 
+  Attorney, Greater Wisconsin Agency on Aging Resources..........     9
+Lisa M. Grabert, Visiting Research Professor, Marquette 
+  University College of Nursing..................................    10
+Gloria Bent, Widow of Gary Bent, Medicare Advantage Enrollee.....    12
+
+                     Alphabetical List of Witnesses
+
+Bent, Gloria:
+    Testimony....................................................    12
+    Prepared statement...........................................    99
+Fuglesten Biniek, Jeannie Ph.D.:
+    Testimony....................................................     7
+    Prepared statement...........................................    45
+Grabert, Lisa M.:
+    Testimony....................................................    10
+    Prepared statement...........................................    87
+Huberty, Christine Jensen:
+    Testimony....................................................     9
+    Prepared statement...........................................    55
+Tinker, Megan H.:
+    Testimony....................................................     6
+    Prepared statement...........................................    37
+
+                                APPENDIX
+
+Chair Blumenthal Exhibit--Patient denied poster..................   104
+Chair Blumenthal Exhibit--Average 2021 Gross Margins per Enrollee 
+  poster.........................................................   105
+Chair Blumenthal Exhibit--2021 Medicare Advantage Price 
+  Authorization Denials..........................................   106
+Chair Blumenthal Exhibit--naviHealth Predict.....................    81
+Ranking Member Johnson Exhibit--Health Care: Who Pays Chart......   107
+Senator Marshall exhibits........................................   108
+Statements submitted for the Record:
+    American Academy of Dermatology Association..................   120
+    Alliance of Specialty Medicine...............................   126
+    American Hospital Association................................   131
+    Bristol Health...............................................   138
+    American Medical Rehabilitation Providers....................   145
+    Medical Group Management Association.........................   165
+
+ 
+     EXAMINING HEALTH CARE DENIALS AND DELAYS IN MEDICARE ADVANTAGE
+
+                              ----------                              
+
+
+                        WEDNNESDAY, MAY 17, 2023
+
+                                   U.S. Senate,    
+              Permanent Subcommittee on Investigations,    
+                    of the Committee on Homeland Security  
+                                  and Governmental Affairs,
+                                                    Washington, DC.
+    The Subcommittee met, pursuant to notice, at 2 p.m., in 
+room 562, Dirksen Senate Office Building, Hon. Richard 
+Blumenthal, Chair of the Subcommittee, presiding.
+    Present: Senators Blumenthal [presiding], Hassan, Ossoff, 
+Johnson, Scott, Hawley, Marshall, and Lankford.
+
+           OPENING STATEMENT OF SENATOR BLUMENTHAL\1\
+
+    Senator Blumenthal. I would like to call to order the 
+meeting of the Permanent Subcommittee on Investigations (PSI). 
+Our first hearing of this session. I want to recognize the 
+extraordinary and distinguished history of this panel in 
+rooting out waste and fraud and abuse in government, and thank 
+my Ranking Member, partner in this effort, Senator Johnson.
+---------------------------------------------------------------------------
+    \1\ The prepared statement of Senator Blumenthal appears in the 
+Appendix on page 33.
+---------------------------------------------------------------------------
+    It has been a bipartisan effort in the history of this 
+panel, and we are seeking to continue that tradition. When I 
+was appointed earlier this year, I pledged to continue the work 
+of this Committee in insisting on accountability.
+    Our work is already underway, and we are meeting today to 
+protect seniors who are enrolled in Medicare Advantage (MA) 
+plans who face unacceptable barriers in accessing necessary 
+care and treatment. Medicare is the safety net that ensures 
+that all American seniors receive the health care they need.
+    Medicare Advantage, run by insurance companies, is becoming 
+an increasingly integral part of that program. As of 2023, more 
+than 30 million Americans were enrolled in Medicare Advantage 
+plans, representing more than half of Medicare eligible 
+Americans. This number is only continuing to grow. I want to be 
+clear, I support Medicare Advantage programs, the flexibility 
+that they provide for seniors across the country.
+    Many seniors are very happy with Medicare Advantage and 
+want to continue with them. But the reason we are here today is 
+that all too often the big insurance companies that run 
+Medicare Advantage plans have been failing seniors when they 
+need treatment and care.
+    Medicare Advantage insurers are required to provide 
+beneficiaries with the same minimum level of coverage as 
+traditional Medicare. Yet we have seen evidence indicating that 
+in many instances, they are failing to do so.
+    In fact, failing entirely because they are denying or 
+delaying care. Tragically we have heard from many families who 
+faced denials in the middle of major medical crises, forcing 
+them and their loved ones to fight even as they are fighting 
+for their lives. The fight for insurance coverage is detracting 
+from the fight for their health.
+    Perhaps most troubling of all, there is growing evidence 
+that insurance companies are relying on algorithms, rather than 
+doctors or other clinicians, to make decisions to deny patient 
+care.
+    In a report released last year, the Inspector General (IG) 
+of the Department of Health and Human Services (HHS) identified 
+a large number of instances where Medicare Advantage companies 
+refused to authorize treatment for care that clearly met 
+Medicare coverage requirements. In one case,\1\ a cancer 
+patient had a common scan, needed to determine if the disease 
+had spread, delayed by their insurer for more than a month.
+---------------------------------------------------------------------------
+    \1\ The poster referenced by Senator Blumenthal appears in the 
+Appendix on page 104.
+---------------------------------------------------------------------------
+    Another an insurer refused a walker to a 76 year old 
+patient. The insurance company argued that this patient had 
+been provided a cane within the past 5 years and therefore did 
+not need a walker. In each of these cases, the insurer's 
+decision overlooked the treating physician's assessment of what 
+their patient needed.
+    Our Subcommittee has been hearing from patients and 
+providers alike who have stories of care being delayed or 
+denied. Many of these stories involve patients who have been 
+hospitalized for serious medical issues, and who need nursing 
+home or rehabilitative care before they are ready to return 
+home.
+    These denials have become so routine that some patients can 
+predict the day on which they will come. Advocates who have 
+helped patients appeal denials of medically necessary care have 
+uncovered documents showing that these decisions are not being 
+made by doctors or other trained professionals at all. Instead, 
+companies are using algorithms that have been programed to 
+predict how much care a patient needs without ever meeting a 
+patient or their doctor.
+    Insurers may refer to these algorithms as tools used for 
+guidance, but the denials they generate are too systematic to 
+ignore. All too often, black box algorithms--artificial 
+intelligence (AI) and algorithms have become a blanket 
+mechanism for denial, and the insurance companies insist that 
+those AI mechanisms are proprietary.
+    But part of what needs to happen is to make them more 
+transparent so that patients and providers know, along with the 
+public, how they are being used. Major insurance companies who 
+run Medicare Advantage plans are making record profits. Gross 
+margins for Medicare Advantage\2\ enrollees are well over 
+double those for individual market, group market, or Medicaid 
+managed care enrollees.
+---------------------------------------------------------------------------
+    \2\ The Gross Margin poster referenced by Senator Blumental appears 
+in the Appendix on page 105.
+---------------------------------------------------------------------------
+    The largest Medicare Advantage provider, even said in its 
+most recent report, that a major reason for their increase in 
+revenue between 2021 and 2022 was, in fact, the growth of 
+Medicare Advantage. This chart speaks volumes about the 
+burgeoning profits of Medicare Advantage plans, in part because 
+of the denial or delay of care.
+    Insurers are, in effect, denying Americans necessary care 
+in order to fatten and pad their bottom lines, and that 
+phenomenon is unacceptable. The information that this 
+Subcommittee has uncovered so far, and that we will hear today, 
+demonstrates the need for additional investigation into the 
+practices of these powerful insurance companies.
+    I want to put these companies on notice. If you deny 
+lifesaving coverage to seniors, we are watching. We will expose 
+you. We will demand better. We will pass legislation if 
+necessary, but action will be forthcoming. Today, we sent 
+bipartisan letters to the nation's largest Medicare Advantage 
+insurers, UnitedHealth, Humana, and Consumer Value Store (CVS).
+    They collectively cover more than 50 percent of Medicare 
+Advantage beneficiaries. We are asking for internal documents 
+that will show how decisions are made to grant or deny access 
+to care, including how they are using AI. Our nation's seniors 
+should not have to fight to receive medically necessary care. I 
+look forward to hearing from today's witnesses.
+    I want to thank each of you for being here, because each of 
+you has an important aspect of this story to illuminate. Again, 
+I want to thank the ranking member for his involvement and 
+contribution and turn to him now for his comments.
+
+                  STATEMENT OF SENATOR JOHNSON
+
+    Senator Johnson. Thank you, Mr. Chairman. I want to welcome 
+you to the Permanent Subcommittee on Investigations. This is a 
+long bipartisan tradition of uncovering waste, fraud, abuse, 
+and outright corruption.
+    The Subcommittee's previous work provided much needed 
+transparency to the public, and I look forward to continuing 
+that tradition with you as the new chairman. What I would like 
+to do is enter my prepared remarks in the record\1\ and speak 
+extemporaneously here.
+---------------------------------------------------------------------------
+    \1\ The prepared statement of Senator Johnson appears in the 
+Appendix on page 35.
+---------------------------------------------------------------------------
+    The hearing today is going to be focusing on what I would 
+consider an issue caused by a third-party payer system. When I 
+was in the private sector, I would be renewing my insurance 
+coverage year after year. It was amazing how every year had to 
+talk to the insurance agent, OK, what is been excluded this 
+year. It never made any sense.
+    But that is what insurance carriers are trying to do, they 
+are trying to exclude things based on the actuarial tables to 
+try and limit the cost of the insurance. We see the exact same 
+phenomenon when insurance carriers, in this case Medicare 
+Advantage carriers, are trying to limit the abuse potentially 
+of some services. They get into this pre-certification process.
+    But what I would argue is that we will probably addresses 
+this through some kind of government bureaucratic action, which 
+I would say probably is not going to work. Part of the problem 
+here is a trend over time, where we have pretty well removed 
+the benefit of free market competition from health care.
+    I was trying to point out there are two areas of our 
+economy that we are habitually dissatisfied with, health care 
+and education. They are largely monopolies. We have driven the 
+benefit of free market competition out of them. To reiterate 
+what free market competition does, it generally guarantees--it 
+is not perfect, but it generally guarantees the best possible 
+price, the best level of customer service, the best quality of 
+service.
+    That is what a free market does. We are not getting that in 
+Medicare Advantage necessarily. We are not getting it 
+oftentimes in education. I do have the chart\1\ right here, 
+shows you the trend over time.
+---------------------------------------------------------------------------
+    \1\ The chart referenced by Senator Johnson appears in the Appendix 
+on page 107.
+---------------------------------------------------------------------------
+    As you go further back in time, this is even more stark, 
+but these are numbers are pretty solid. Back in 1949, $0.68 for 
+every dollar in health care was paid for by the patient, and 
+$0.32 was paid by some third-party payer, primarily back then, 
+some kind of insurance system. Now, only $0.11 of every health 
+care dollar is paid for by a consumer and $0.89 is paid for 
+largely by government or by third party payer insurance 
+companies.
+    When you have consumers not worried about the cost of 
+things, the prices go out of control. If we had the same 
+system, for example, operating in food, we would all be eating 
+filet mignon every night, or in autos, we would all be driving 
+Maseratis.
+    We need to look at the root cause. The root cause of this 
+problem, truthfully, is we have driven consumerism out, which 
+has then driven insurance carriers to have these pre-
+authorization programs, pre-certification, and they are always 
+far from perfect. Yes, I am going to try and continue in this 
+Subcommittee to focus on the root cause and actually fix these 
+problems rather than always be looking at very expensive Band-
+Aids.
+    We have a lot of problems. I think the Coronavirus Disese 
+2019 (COVID-19) pandemic exposed an awful lot of problems 
+within our medical establishments and our Federal health 
+agencies who have been captured by big pharma.
+    Talking to the Chairman, I think there is an awful lot of 
+agreement we have. I am highly concerned about the negative 
+impact of pharma companies spending billions of dollars, 
+capturing our media, as they have captured our health agencies 
+as well.
+    I fully support what we are doing here in this hearing. 
+Taking a look at the abuses of the pre-certification process 
+and denials, of unnecessary treatment in Medicare Advantage, 
+but there is so much more we have to look at, and I really hope 
+that we can work together in a nonpartisan fashion because 
+these are problems we need to fix for the American public. 
+Again, thank you. Look forward to your testimony.
+    Senator Blumenthal. Thank you very much. Let me introduce 
+the witnesses, and then as we customarily do, I am going to 
+swear you in before your testimony. Welcome to Megan Tinker, 
+Chief of Staff of the Department of Health and Human Services, 
+Office of Inspector General (OIG). In that role, Ms. Tinker 
+serves as the Deputy Inspector General for the IOG's immediate 
+office, and oversees OIG Office of Congressional Affairs, 
+Office of Communications, and Office of Operations.
+    Dr. Jeannie Fuglesten Biniek is Associate Director of the 
+Program on Medicare Policy at Kaiser Family Foundation (KFF). 
+Dr. Fuglesten Biniek previously worked as an Economist on the 
+Staff of the Senate Budget committee and has held positions 
+with an economic consulting firm and numerous nonprofit policy 
+organizations.
+    Christine Jensen Huberty is the Lead Benefit Specialist 
+Supervising Attorney for the Greater Wisconsin Agency on Aging 
+Resources (GWAAR). Ms. Huberty provides free legal assistance 
+to seniors in Northern Wisconsin on issues including Medicare, 
+Medicaid, Social Security, Supplemental Nutrition Assistance 
+Program (SNAP) benefits, housing law, and consumer law.
+    She has represented numerous seniors who have faced denials 
+of care in their Medicare Advantage plans.
+    Lisa Grabert is a visiting Research Professor at Marquette 
+University College of Nursing. Her research focuses on Medicare 
+with an emphasis on post hospitalization. She has previously 
+handled health care policy while on the staff of the House's 
+Ways and Means committee.
+    Gloria Bent is the widow of Gary Bent, a Medicare Advantage 
+plan enrollee. Ms. Bent is a former registered nurse, a retired 
+director of religious education, and the mother of four 
+children. Ms. Bent was married to Gary Bent for 56 years until 
+his death on March 3 of this year. During his life, Gary Bent 
+served as an ordinance corps officer in the United States Army, 
+high school physics teacher, and he spent 23 years as a 
+professor in the physics department of the University of 
+Connecticut.
+    Ms. Bent spent much of her time during Mr. Bent's last year 
+of life advocating for him to receive needed benefits under his 
+Medicare Advantage plan, and we look forward to hearing more 
+from her about that experience today.
+    If you would, please rise, I will swear you in. Do you 
+swear that the testimony that you are about to give will be the 
+truth, the whole truth, and nothing but the truth so help you, 
+God?
+    Ms. Tinker. I do.
+    Dr. Fuglesten Biniek. I do.
+    Ms. Huberty. I do.
+    Ms. Grabert. I do.
+    Ms. Bent. I do.
+    Senator Blumenthal. Thank you. Ms. Tinker, why don't you 
+begin.
+
+  TESTIMONY OF MEGAN H. TINKER,\1\ CHIEF OF STAFF, OFFICE OF 
+INSPECTOR GENERAL, U.S. DEPARTMENT OF HEALTH AND HUMAN SERVICES
+
+    Ms. Tinker. Good afternoon, Chairman Blumenthal, Ranking 
+Member Johnson, and other distinguished Members of the 
+Subcommittee. I am Megan Tinker, Chief of Staff for the HHS 
+Office of Inspector General. I appreciate the invitation to 
+discuss OIG's important Medicare Advantage work.
+---------------------------------------------------------------------------
+    \1\ The prepared statement of Ms. Tinker appears in the Appendix on 
+page 37.
+---------------------------------------------------------------------------
+    Today, I will highlight a critical issue assessed by OIG 
+reports, potential barriers seniors may face when accessing 
+care under Medicare Advantage. Based on data released this 
+month, 30 million individuals, or 50 percent of all Medicare 
+enrollees are now in Medicare Advantage. That is a significant 
+number of Americans who rely on plans to authorize and pay for 
+the care they need.
+    This expansion has been rapid. A decade ago, only 29 
+percent of Medicare enrollees were in Medicare Advantage. Fast 
+growth has increased vulnerabilities and the need for robust 
+program integrity measures. OIG work has demonstrated that the 
+risks of fraud, waste, and abuse in managed care are 
+significant.
+    Last month, Inspector General Christy Grim spoke to a group 
+of managed care plan executives. She emphasized that Medicare 
+Advantage plans need to step up their efforts and focus on 
+preventing the types of issues OIG work continues to find. One 
+area of concern highlighted by OIG work and raised by this 
+Subcommittee, are plan practices that impede access to care. I 
+would like to highlight some of OIG's work on this topic.
+    In an evaluation published in April 2022, OIG found that 
+Medicare Advantage plans sometimes delayed or denied enrollees' 
+access to medical care, even though the care was needed and met 
+Medicare coverage rules.
+    In other words, these services likely would have been 
+approved by original Medicare. For many of these denials in our 
+review, Medicare Advantage plans used internal clinical 
+criteria that are not required by Medicare. For example, a plan 
+denied a request for a computerized tomography (CT) scan that 
+was medically necessary to rule out a life-threatening 
+aneurysm. The denial was because the beneficiary did not first 
+have an X-ray.
+    But Medicare has no such requirement. In another case, a 
+plan denied a request for a walker for a 76-year-old patient 
+with post-polio syndrome. Having a right knee that buckled, the 
+patient was at risk for falls, and denying the claim went 
+against Centers for Medicare & Medicaid Services (CMS's) policy 
+to cover equipment that is medically necessary.
+    Medicare Advantage plans' internal criteria are supposed to 
+be no more restrictive than original Medicare. However, the 
+capitated payment system in Medicare Advantage creates a 
+potential incentive for insurers to deny access to services for 
+enrollees. Plans are paid a fixed amount of money each month 
+for each enrollee, regardless of the number or cost of services 
+that are provided.
+    To address these issues, OIG recommended that CMS issue new 
+guidance on the appropriate use of clinical criteria and that 
+CMS assess the use of these criteria in its audits of Medicare 
+Advantage plans. OIG work has already had impact. Last month, 
+CMS issued a final rule that puts in place new requirements to 
+protect enrollees from an inappropriate use of prior 
+authorization.
+    The rule streamlines prior authorization requirements and 
+strengthens protections against denials for medically necessary 
+services. OIG appreciates and shares your interest in ensuring 
+that Medicare Advantage enrollees get the medical care they 
+need. However, with our limited resources, comprehensive 
+oversight of HHS programs is challenging. We only have $0.02 to 
+oversee every $100 HHS spends.
+    We conduct efficient, consequential, high impact oversight 
+work with our limited resources, but much more needs to be done 
+to thwart fraud, identify misspent funds, and protect people 
+from harm. To be candid, without more resources, we will be 
+unable to keep pace with the threats to the department's 
+programs.
+    That is especially true for Medicare Advantage. OIG is 
+turning down between 300 and 400 viable, criminal and civil 
+health care fraud cases each year. These uninvestigated cases 
+represent unchecked fraud and the potential for patients to be 
+put in harm's way, including individuals enrolled in Medicare 
+Advantage.
+    Notwithstanding rigorous efforts by OIG, HHS, and Congress, 
+serious fraud, waste, and abuse continue to grow and threaten 
+HHS programs. If enacted, the President's Fiscal Year (FY) 2024 
+requested resources for OIG would go a long way toward 
+addressing shortfalls, particularly with respect to combating 
+fraud and increasing our oversight of Medicare Advantage plans. 
+Thank you, and I am happy to answer any of your questions.
+    Senator Blumenthal. Thanks, Ms. Tinker. Ms. Fuglesten 
+Biniek.
+
+   TESTIMONY OF JEANNIE FUGLESTEN BINIEK, PHD,\1\ ASSOCIATE 
+           DIRECTOR, PROGRAM ON MEDICARE POLICY, KFF
+
+    Dr. Fuglesten Biniek. Good afternoon, Chairman Blumenthal, 
+Ranking Member Johnson, and Members of the Subcommittee. Thank 
+you for inviting me to testify today about Medicare Advantage, 
+including the prior authorization, payment, and appeals 
+process. I am Jeannie Fuglesten Biniek, an Associate Director 
+in KFF's program on Medicare policy.
+---------------------------------------------------------------------------
+    \1\ The prepared statement of Dr. Fuglesten Biniek appears in the 
+Appendix on page 45.
+---------------------------------------------------------------------------
+    KFF provides nonpartisan health policy analysis, polling, 
+and journalism. We are not affiliated with Kaiser Permanente. 
+My testimony will describe the Medicare Advantage market today, 
+the use of prior authorization by Medicare Advantage insurers, 
+and gaps in data that make our understanding of the impact of 
+prior authorization on Medicare Advantage enrollees difficult.
+    In recent years, as has already been mentioned a couple of 
+times today, Medicare Advantage enrollment has grown rapidly, 
+and as of January this year, over half of all eligible Medicare 
+beneficiaries are enrolled in a private Medicare Advantage 
+plan. As enrollment has grown, so has the number of plans 
+available.
+    This year, the average Medicare beneficiary has 43 Medicare 
+Advantage plans to choose from offered by 9 different insurers. 
+The increase in enrollment and the number of plans is due to 
+several factors, but largely the attraction of extra benefits 
+usually offered for no supplemental premium and the potential 
+for lower cost sharing drives Medicare beneficiaries to these 
+plans.
+    Medicare Advantage insurers are able to offer plans with 
+extra benefits and potential for lower out-of-pocket spending 
+because they are supported by a generous payment system. 
+According to Medicare Payment Advisory Commission (MedPAC), 
+Medicare Advantage insurers receive $2,300 per person above 
+their costs of covering Medicare covered services.
+    They use this money to pay for extra benefits like vision, 
+dental, and hearing, lower cost sharing, and reduced premiums, 
+as well as add to their profits. Medicare Advantage plans are 
+able to have lower costs than traditional Medicare for Medicare 
+covered services, in part because they use tools that are 
+rarely, if ever, employed in traditional Medicare to manage 
+utilization. One example is prior authorization.
+    Virtually all Medicare Advantage enrollees are in a plan 
+that requires prior authorization for at least some services. 
+Usually, high-cost services like chemotherapy or skilled 
+nursing facility (SNF) stays, services that people use at some 
+of the most medically fragile points in their lives.
+    We used data reported to CMS to examine the use of prior 
+authorization and Medicare Advantage. We found that in 2021, 
+over 35 million prior authorization requests were submitted to 
+Medicare Advantage insurers, of which 2 million were denied, or 
+6 percent.
+    Though a small share, 11 percent, were appealed. When 
+Medicare Advantage insurers reconsidered their initial 
+decision, they overturned that decision more than 80 percent of 
+the time. The low rate of denied prior authorization requests 
+may mean that the prior authorization process is not well 
+targeted.
+    Additionally, the high success of appeals suggests that 
+maybe more of those initial decisions should have been 
+favorable to the enrollee in the first place. The process is 
+thus potentially leading to inefficiencies and the use of 
+provider staff, resources, and time, unnecessary delays in 
+patient care, and increased burden on Medicare Advantage 
+enrollees during a point in their lives when they are 
+potentially in very poor health.
+    The publicly available data on prior authorization and 
+Medicare Advantage has substantial gaps that limit transparency 
+into how the program is performing. For example, there is no 
+information about what services are denied, whether certain 
+beneficiaries are denied prior authorization requests more 
+often, or how long it takes the Medicare Advantage insurers to 
+respond to a prior authorization request.
+    As a result, policymakers do not have the information they 
+need to conduct oversight. Importantly, Medicare beneficiaries 
+are left without important information when making a decision 
+between traditional Medicare and Medicare Advantage, or between 
+Medicare Advantage plans.
+    CMS finalized a rule recently to clarify coverage of prior 
+authorization in Medicare Advantage, the coverage criteria, and 
+the duration for which those authorizations have to be valid. 
+However, it will be difficult to assess both the current impact 
+of prior authorization policies, as well as changes on 
+enrollees without better data.
+    As enrollment in Medicare Advantage continues to grow, 
+better information about prior authorization, as well as other 
+tools to manage utilization and contain costs will be 
+necessary. Thank you.
+    Senator Blumenthal. Thank you very much. Ms. Huberty.
+
+    TESTIMONY OF CHRISTINE JENSEN HUBERTY,\1\ LEAD BENEFIT 
+ SPECIALIST SUPERVISING ATTORNEY, GREATER WISCONSIN AGENCY ON 
+                        AGING RESOURCES
+
+    Ms. Huberty. Thank you, Chairman Blumenthal, Ranking Member 
+Johnson, and Members of the Subcommittee. My name is Christine 
+Huberty, and I have served as an Attorney at the Greater 
+Wisconsin Agency on Aging Resources since 2015.
+---------------------------------------------------------------------------
+    \1\ The prepared statement of Ms. Huberty appears in the Appendix 
+on page 55.
+---------------------------------------------------------------------------
+    As an advocate for senior residents of Wisconsin, part of 
+my job is to provide legal assistance to residents experiencing 
+Medicare coverage denials. I am here today to share my 
+experiences with Medicare Advantage plans routinely denying 
+coverage of skilled nursing facility stays, which endangers the 
+health and safety of beneficiaries, causes unnecessary stress 
+and financial hardship, and many times shifts expenses to the 
+State's Medicaid program.
+    Skilled nursing facilities are intended to be a temporary 
+rehabilitation or nursing care facility after a hospital stay. 
+For example, if a person breaks a hip and needs surgery, their 
+doctor generally recommends several weeks in a skilled nursing 
+facility until they are ready to safely go home.
+    If a senior has Original or Traditional Medicare, they can 
+expect to receive up to 100 days of coverage for their stay 
+with no hassle. If a senior has a Medicare Advantage plan, 
+however, they can expect to receive a denial well before their 
+doctors even say they are ready to go home. This is despite the 
+requirement that has been discussed that Advantage plans must 
+offer the same benefits and apply the same coverage criteria as 
+Original Medicare.
+    When a patient first receives a denial, they are thrown 
+into a maze of red tape that is dizzying even to our 
+experienced legal team. The initial denial is made not by the 
+Advantage plan, but a third-party contractor using an 
+algorithm. A computer determines what a patient's predicted 
+length of stay (PLOS) should be based on millions of past 
+beneficiary data points, not the patient's plan of care or the 
+advice of their doctors.
+    Then, at each additional level of appeal--if the patient 
+actually chooses to fight it--the denials are upheld by quality 
+improvement organizations with little to no explanation. If a 
+patient is successful with an appeal while still in the 
+facility, they can expect a new round of denials to start in a 
+matter of days.
+    Patients caught in this maze are forced to make a 
+devastating decision: stay in the rehab facility and pay 
+thousands of dollars out of pocket, or go home against medical 
+advice. In Wisconsin, we have a unique legal services program 
+with attorneys able to take these cases at no cost.
+    When we represent clients at Federal hearings, more often 
+than not, the denials are overturned. But this is after months 
+of document gathering, preparation of summary briefs, rounding 
+up witnesses, and a telephone hearing against a team of 
+representatives brought by the Advantage plans, if they show up 
+at all.
+    Even if a patient is successful at hearing, it can still 
+take well over a year to get reimbursed. This issue has even 
+hit me personally. This past holiday season, a family member 
+called me and explained that his 89-year-old mother had fallen, 
+was hospitalized, and entered a skilled nursing facility for 
+rehab.
+    They received a denial after a week, and they did not know 
+what to do because her doctor said she still was not ready to 
+go home. My first question was, does she have an Advantage 
+plan? When the answer was yes, my heart sank because I knew 
+immediately what this family was going to be up against.
+    After a total of three falls, two hospital stays, and 
+repeated denials, she ultimately went home against medical 
+advice and decided that the appeals process was too stressful 
+to pursue. Fortunately, this family had enough money to pay for 
+the denied charges and lived close enough to help locate safe 
+housing options and home care.
+    But what does this situation look like for an individual 
+with no family or friends or legal representation? In 
+Wisconsin, the average cost of just 1 day in a skilled nursing 
+facility is over $300. The individuals who cannot afford to 
+stay will likely be advised to spend down their assets, forcing 
+poverty to qualify for the State's Medicaid program.
+    Now, these are not uninsured individuals. These are 
+individuals who have chosen and paid for a Medicare product 
+that was heavily marketed and aggressively sold to them. They 
+are not getting the coverage that they paid for, and they are 
+met with hurdles at every turn.
+    Nor are these patients abusing the system. No one truly 
+wants to be in a skilled nursing facility. Patients are 
+actively trying to get home. In the case examples that I have 
+provided your investigative team, you will note that in nearly 
+all situations the patients returned home on the timeline 
+prescribed by their doctors and sometimes even earlier.
+    Not the unrealistic--at times unconscionable timeline 
+forced upon them by their Medicare Advantage plan. Our most 
+vulnerable citizens are up against an impossible system, and I 
+want to thank you for your time to investigate these practices. 
+Thank you.
+    Senator Blumenthal. Thanks so much. Lisa Grabert, please.
+
+ TESTIMONY OF LISA M. GRABERT,\1\ VISITING RESEARCH PROFESSOR, 
+            MARQUETTE UNIVERSITY COLLEGE OF NURSING
+
+    Ms. Grabert. Chairman Blumenthal, Ranking Member Johnson, 
+and Members of the Subcommittee, I am Lisa Grabert, a visiting 
+Research Professor in the College of Nursing at Marquette 
+University. I am a former congressional staffer for the U.S. 
+House of Representatives Committee on Ways and Means, and I am 
+honored to testify before the Subcommittee today.
+---------------------------------------------------------------------------
+    \1\ The prepared statement of Ms. Grabert appears in the Appendix 
+on page 87.
+---------------------------------------------------------------------------
+    Medicare Advantage is an important part of the Medicare 
+program. Two weeks ago, MA enrollment surpassed fee for service 
+(FFS) for the first time in the history of the program. 
+Medicare beneficiaries are voting with their feet and are 
+increasingly revealing their preference for MA, which now 
+represents 50.2 percent of the market.
+    Beneficiaries select MA for a variety of reasons, including 
+improved financial protections, additional benefits, prior 
+experience with managed care, and choice simplicity. As part of 
+the tradeoff of receiving a comprehensive benefits package, MA 
+beneficiaries accept a provider network and some utilization 
+review requirements, such as prior authorization.
+    It is important to remember the context of the deployment 
+of utilization review. Our country spends a significant portion 
+of its economic power, nearly one-fifth of our gross domestic 
+product (GDP) on health care.
+    The MA program was designed to shift financial risk from 
+the government to private plans. In exchange for taking that 
+financial risk, MA plans are also afforded tools such as prior 
+authorization to assist in managing that risk. If those tools 
+are altered, risk will shift back to the taxpayer in the form 
+of higher costs.
+    This is the economic dynamic in the Medicare program, and 
+it is our expectation that a Medicare beneficiary has a basic 
+understanding of this when they elect their choice of coverage. 
+However, it may not be clear to beneficiaries what they are 
+agreeing to when it comes to prior authorization.
+    Further, it may not be clear to a variety of stakeholders 
+what prior authorization exactly is. There is no statutory 
+definition, and until a month ago there was no regulatory 
+definition of prior authorization. On April 12, CMS finalized 
+new regulatory changes for prior authorization, which will 
+become effective for the first time on June the 5th of this 
+year.
+    Now that the rules of engagement on prior authorization 
+have been clearly articulated, it is worthy to note, without a 
+healthy push from Congress, CMS may not have been motivated to 
+make these changes. In the 117th Congress, two companion bills, 
+the Improving Seniors Timely Access to Care, were introduced.
+    The Senate version was introduced by a Member of this 
+Subcommittee, Senator Marshall. These bills focus on many of 
+the same changes CMS recently finalized, as well as changes 
+included in a separate proposal by CMS for an electronic 
+system.
+    Prior to advancing the bill in the House, the Congressional 
+Budget Office (CBO), released a budgetary score for the bill of 
+$16.2 billion over the 10-year budget window. CBO score 
+represents a warning that tinkering with utilization review 
+tools such as prior authorization can have significant 
+financial downsides to the solvency of the Medicare program.
+    H.R. 3713 alters the economic agreement between the MA 
+plans and the Federal Government. To better understand the 
+unintended consequences of this policy change, we need to 
+examine some failures in the fee for service side of Medicare.
+    The testimony provided by Megan today provides the 
+necessary background on a service frequently targeted by prior 
+authorization, inpatient rehab facilitation (IRFs) facilities. 
+On an annual basis, CMS spends $60 billion on fee for service 
+post-acute care.
+    In the last decade, three of the four post-acute payment 
+systems have been comprehensively reformed, including home 
+health, nursing homes, and long-term care. IRFs have yet to be 
+reformed. To receive the highest level of payments, IRFs must 
+maintain a 60 percent of their annual census, treating patients 
+across 13 complex medical conditions, including stroke, 
+traumatic brain injuries, and spinal cord injuries.
+    Yet policymakers have questioned the so-called 60 percent 
+rule and have recommended it be increased to 75 percent. 
+Policymakers have also questioned the profitability of IRFs. 
+The fee for service IRF Medicare margin is 13.5 percent.
+    Compare this margin to long term care hospitals (LTCHs), 
+IRF's closest competitor, with a margin of just 2.9 percent. 
+The difference between these two hospital types is that 
+Congress has done the hard work to reform LTACHs, but not IRFs. 
+Where fee for service has failed, Medicare Advantage has filled 
+the gap with prior authorization.
+    We do not know the median American Medical Association 
+(AMA) compliance rate for these 13 conditions, and I strongly 
+recommend the Subcommittee compels CMS to publicly release this 
+information. If the median MA compliance rate is higher than 
+the fee for service rate, Congress should consider altering the 
+60 percent rule.
+    Such a policy change would ensure parity between fee for 
+service and MA and would obviate the need for additional prior 
+authorization of IRF discharges. Thank you for the opportunity 
+to share my perspective with the Subcommittee. I look forward 
+to continuing to work with you on these important issues.
+    Senator Blumenthal. Thank you very much, Ms. Grabert. Ms. 
+Bent.
+
+   TESTIMONY OF GLORIA BENT,\1\ WIDOW OF GARY BENT, MEDICARE 
+                       ADVANTAGE ENROLLEE
+
+    Ms. Bent. Thank you, Chairman Blumenthal, Ranking Member 
+Johnson, and Members of the Subcommittee for the opportunity to 
+come here today and speak on behalf of my late husband. You ask 
+in your invitation if seniors enrolled in Medicare Advantage 
+plans face barriers accessing necessary care and treatment.
+---------------------------------------------------------------------------
+    \1\ The prepared statement of Ms. Bent appears in the Appendix on 
+page 99.
+---------------------------------------------------------------------------
+    My answer based on our experience of getting and 
+maintaining rehabilitation and skilled nursing care for my 
+husband is yes, yes, they do. The barrier we encountered was a 
+third-party company hired by our Medicare Advantage plan to 
+authorize or deny care and treatments.
+    My husband had been treated with immunotherapy for 2 years 
+for melanoma. A year passed without treatment and no sign of 
+melanomas returned. We thought we were in a major remission, 
+and we celebrated.
+    Then last Memorial Day, when he could not remember how to 
+tie his shoes, my husband asked to be taken to the emergency 
+room. In the emergency room, we learned that there was a lesion 
+in his brain, and it was bleeding.
+    The lesion and the hematoma were removed surgically on June 
+1st, and pathology confirmed what we all feared. It was 
+melanoma. Gary came out of surgery with significant cognitive 
+and mobility deficits. He had upper body weakness. He could not 
+walk. He had left neglect. That means that his brain no longer 
+registered that he had a left side to his body. He was 
+heartbreakingly confused and disoriented.
+    His neurosurgeon wanted him transferred to an acute 
+rehabilitation and skilled nursing hospital for intense 
+physical, occupational, and speech therapy. Acute 
+rehabilitation services were denied. The third-party 
+authorization party determined that my husband could not 
+withstand intense therapy, even though his neurosurgeon felt it 
+was appropriate.
+    A transfer to short term rehab and skilled nursing was 
+approved and he was transferred there on the 14th of June. But 
+before the staff of the facility could even evaluate my husband 
+or develop a plan of care, I was contacted by someone who 
+identified themselves as my naviHealth care coordinator and 
+told that my husband would be discharged on July 4th.
+    My job, she told me, was to find the safest possible 
+location for him to be brought home to on that discharge date. 
+She strongly suggested that we consider he would be permanently 
+wheelchair bound, and therefore highly recommended a skilled 
+nursing facility, self-pay.
+    If I lived in a home that was not handicapped accessible, 
+which ours was not, then I needed to move. I shared my concern 
+about the July 4th discharge date with the Seabury staff, and I 
+was told that I had entered a battlefield that I was going to 
+be on in an attempt to keep my husband at that facility as long 
+as he needed to be there.
+    They told me that I could expect regular reviews of his 
+health notes, that I could expect a series of notices of denial 
+of Medicare payment accompanied by a discharge date--that would 
+be 2 days after I got that notice, and they told me that I 
+could appeal.
+    But if we won a couple of appeals, then we could expect 
+that the frequency with which these denials were going to come 
+would increase. In the 7 weeks that Gary was at the Seabury 
+Health Services Center, we received three of those notices of 
+pending Medicare nonpayment.
+    The last two came 4 days apart. We won two of the appeals. 
+We lost the third. My husband was discharged on August 7th. He 
+came home by ambulance and was accompanied by an emergency 
+medical technicians (EMT) who told us he seemed to have a low-
+grade fever and had complained about headaches and neck pain 
+with every bump in the road.
+    He was disconnected, disoriented. He was experiencing great 
+difficulty in making the transfers from chair to walker to bed 
+that he had mastered at Seabury. The next morning, we had to 
+call emergency services because my husband did not know who he 
+was, where he was, or who we were.
+    He was taken to the University of Connecticut Health 
+Center, where he was admitted and where he stayed for 3 weeks 
+because he was discharged with bacterial meningitis. The 
+reappearance of melanoma in 2022 pulled a rug out from under my 
+husband and my family. Then came the added trauma, which piled 
+on steadily, of having to fight to keep him receiving the care 
+he needed.
+    This should not be happening to families and patients. It 
+is cruel. Our family continues to struggle with the question 
+that I hear you asking today, why are people who are looking at 
+patients only on paper or through the lens of an algorithm 
+making decisions that deny the services judged necessary by 
+health care providers who know their patients and are 
+interacting with them personally, and in some cases, have been 
+working them for months or even years. Thank you for your time.
+    Senator Blumenthal. Thank you, Ms. Bent. I am going to 
+begin with questions. We are going to have 7-minute question 
+rounds. We are in the middle of votes right now, as you may 
+have gathered.
+    You will see Members come and go, including myself and 
+Ranking Member Johnson. If we need to take a brief recess, we 
+will. But this is a really important panel on a critically 
+significant topic.
+    Thank you for being here and thank you for bearing with us. 
+Ms. Bent, I particularly appreciate your powerful story of the 
+real-world consequences, as you have put it so well, of this 
+broken system.
+    It is a system that is failing people like yourself, your 
+husband, and your entire family. Because as you have put it so 
+well, the trauma hit not just your husband, but your entire 
+family----
+    Ms. Bent. Yes.
+    Senator Blumenthal. You were on a battlefield, as you have 
+called it. A battlefield that involved not only your husband's 
+fight for his recovery, but your fight for the resources 
+necessary to provide care.
+    One of my questions is whether you were ever given an 
+explanation by this naviHealthcare coordinator for the reasons 
+that he was discharged against the advice of your surgeon.
+    Ms. Bent. The denial of the acute rehabilitation services, 
+I did get a letter after he was in Seabury telling me why that 
+service had been denied. It was that he could not withstand the 
+intense therapy.
+    The other denials, I would appeal through Kepro, and the 
+response I got was from them, which was a reiteration of what 
+the paperwork from naviHealth, I guess, had said about my 
+husband, and then whether the reviewer agreed or disagreed.
+    Senator Blumenthal. I do not know whether you know, but 
+naviHealth actually relies on algorithms, not on a clinician's 
+review, not on a physician or a surgeon examining the medical 
+records of your husband, but on an algorithm.
+    Ms. Bent. Right.
+    Senator Blumenthal. In fact, a lot of money has been made 
+as a result of selling naviHealth and its system from one 
+company to another. Now UnitedHealthcare, where it is a 
+subsidiary. You mentioned the possibility of an appeal.
+    I want to show you a poster\1\ which sets forth the numbers 
+given by Ms. Fuglesten Biniek. They may have been noticed less 
+than they should have been when you mentioned them in your 
+testimony, but I think they are probably the most important 
+numbers that we will consider today, at least for me as a juror 
+here, sitting in judgment of this system.
+---------------------------------------------------------------------------
+    \1\ The poster referenced by Senator Blumental appears in the 
+Appendix on page 106.
+---------------------------------------------------------------------------
+    Thirty five million requests for care, 2 million were 
+denied completely. Only 11 percent of those denials were 
+appealed. But, of the number appealed, 80 percent were granted. 
+In other words, the vast majority of appeals were found 
+meritorious, but only a small percentage had the wherewithal, 
+the patience, the time, the resources, or the simple fortitude 
+in the face of this battlefield, as Ms. Bent has described it, 
+to actually take it to an appeal. What do those numbers tell 
+you?
+    Dr. Fuglesten Biniek. The relatively small share of 
+appeals, I think can point to several things. People may not 
+know how to appeal. They may not believe they have a case to 
+appeal. People are often very ill when they are doing this, and 
+if they do not have a caregiver or somebody else to assist 
+them, or access to legal services, going through that process 
+can be difficult.
+    It is a strikingly low number once you see how many are 
+granted upon appeal. Of course, if all of them were appealed, 
+80 percent may not be favorably determined. We do not know what 
+would happen in the cases for those that were not appealed.
+    But it is striking that such a large number--we looked 
+across insurers and this was consistent across nearly every 
+insurance firm that offers Medicare Advantage plans. They 
+overturned the vast majority of their initial decisions upon 
+appeal.
+    Senator Blumenthal. Striking is the right word. Actually, I 
+think it is shocking and stunning. Ms. Huberty, with your 
+practical experience, what do these numbers tell you?
+    Ms. Huberty. They confirm everything that we see on a daily 
+basis, absolutely. We are usually involved in that bottom 80 
+percent. When clients are able to come to us, we can explain 
+the appeal process and we can walk with them through it.
+    If they have an advocate who has been able to access our 
+services and speak for them, and help again while they are 
+injured or ill, we can be that support system. But that is 
+absolutely what we see in our practice.
+    Senator Blumenthal. The denials, those 2 million, that are 
+then successful in being overturned when they are appealed, are 
+often the result of algorithms. Could you talk about how you 
+have seen in your practical experience, the real-world effects 
+of these algorithms?
+    Ms. Huberty. Right. You mentioned the naviHealth system and 
+their use of algorithms. The only reason I know about the 
+document and that use of algorithms is because of taking these 
+cases to the Federal hearing stage, the Administrative Law 
+Judge (ALJs) hearings.
+    It is only then when I have requested the hearing file, the 
+case file that would have been provided by the advantage plan, 
+that I have seen that document. But now that I have seen it, 
+and I know what it looks like and how it is referenced, I see 
+it referenced often when the Advantage plans do work with a 
+medical reviewer or a medical director, they will often 
+reference that predicted length of stay.
+    You will see the acronym PLOS, and you will also notice it 
+too, it is decimal points. A predicted length of stay of 16.6 
+days, and they will receive the denial on the 17th day. We see 
+that repeated.
+    Senator Blumenthal. In fact, I am going to hold up a 
+document that I am going to ask to be included in the 
+record,\1\ without objection.
+---------------------------------------------------------------------------
+    \1\ The information referred to by Senator Blumental appears in the 
+Appendix on page 81.
+---------------------------------------------------------------------------
+    It refers to an anticipated stay in length of days of 16.6, 
+and that is the date, in fact, on the 17th day when in one case 
+you were handling a discharge resulted. Does this reflect your 
+experience?
+    Ms. Huberty. Yes. Yes it does.
+    Senator Blumenthal. Ms. Bent, you were never shown a 
+document like this, and you were never given an explanation 
+about how the algorithm was the basis for a decision regarding 
+your husband?
+    Ms. Bent. No.
+    Senator Blumenthal. My time has expired on this first 
+round. I am going to turn to the ranking member.
+    Senator Johnson. Thank you, Mr. Chairman. First of all, let 
+me describe this as a real problem. My definition of real 
+problem is something that does not have an easy solution. First 
+of all, Ms. Bent, my sincere condolences on the passing of your 
+husband.
+    It seems to me, and I have years of experience buying 
+private health care, watching these exclusions being added to 
+the policies, trying to bring the cost down--I have all kinds 
+of questions, and I am trying to figure out how to zero in.
+    My overall question is, how does this kind of prior 
+authorization compare with private insurance, and truthfully, 
+what people try to do with normal Medicare as well? I had in-
+laws that were being booted out of hospitals way before they 
+were supposed to be on Medicare.
+    I do not think that is Medicare Advantage. Can somebody 
+speak to how this compares to private insurance and how it 
+compares to Medicare.
+    Dr. Fuglesten Biniek. I can start. I have colleagues that 
+have looked at similar questions in the health insurance 
+marketplaces, but what we have found is that the data are not 
+comparable.
+    You cannot actually figure out how things compare. They 
+have other data that would be nice to have in Medicare 
+Advantage, such as the reason for the denial of payments, but 
+the data for your first question simply is not available.
+    Senator Johnson. Let me ask about the services being 
+denied. It seems like an awful lot of what we are talking about 
+here is long term rehabilitation care. Is that most of the 35 
+million requests, or what else is being pre-authorized and 
+being denied?
+    Dr. Fuglesten Biniek. So that data does not tell us the 
+particular services. I think other people on the panel can 
+speak from other data they have looked at, or their experience, 
+what they have seen with that data. One of the big gaps is it 
+doesn't tell us the services.
+    Senator Johnson. We are always missing information. Ms. 
+Tinker, what can you add?
+    Ms. Tinker. When we looked at this data, we took a month in 
+June 2019, and we really looked very closely at those prior 
+authorization denials, and what we found is they fell into sort 
+of three main buckets.
+    One was post-acute care, which you were just mentioning, 
+transfers from hospitals to either skilled nursing facilities 
+or inpatient rehabilitation facilities. Another bucket that we 
+found was significant or imaging services, specifically things 
+like computed axial tomography (CAT) scans and magnetic 
+resonance imaging (MRIs).
+    Then the last was injections generally for issues dealing 
+with pain along the spine. In addition, when we looked at our 
+work and tried to make that comparison against original 
+Medicare, what we found was with those prior authorization 
+denials, 13 percent of them actually met original Medicare 
+requirements.
+    One of the Medicare Advantage requirements is that it 
+provide the same level of service that original Medicare does.
+    Senator Johnson. Again, I am trying to get to why are these 
+services chosen for prior authorization? I would think with 
+long term rehabilitative care, that is a big dollar amount, 
+correct, in Medicare Advantage?
+    The other two buckets you mentioned do not necessarily fit 
+in that category, or some of these services are generally 
+abused or used when they are not needed?
+    Ms. Tinker. We have other evidence that shows that there 
+are issues around fraud in the injection space, and so that may 
+be one reason that prior authorization is there. That is not 
+something we looked at explicitly in that particular study. But 
+yes, it is not as expensive as issues around post-acute care.
+    Senator Johnson. Are you seeing similar types of problems 
+in primary Medicare?
+    Ms. Tinker. We do not have any work that looks specifically 
+at primary Medicare on those particular issues, and prior 
+authorization is not used as prevalent.
+    Senator Johnson. Right. But denial of service or being 
+booted out of a hospital early. Those are probably issues of 
+Medicare as well, correct?
+    Ms. Tinker. Specifically in the report that we did in the 
+study from April 2022, what we did, though, is looked at 
+Medicare Advantage prior authorization denials and how they 
+compared to the rules in original Medicare.
+    The findings that 13 percent of the time, original Medicare 
+would have paid, raised significant concerns.
+    Senator Johnson. Is that 13 percent in appeals, or is at 13 
+percent across the board in terms of the denials?
+    Ms. Tinker. That was across the board in terms of denials.
+    Senator Johnson. OK. Ms. Grabert, I think you were putting 
+your finger on why this is occurring. People trying to control 
+costs. Do you have any idea in terms of what the total dollar 
+amount that is at stake? I know you mentioned one figure. If 
+you can kind of restate that.
+    Ms. Grabert. Sure. If you take one of the examples that 
+Megan just illustrated in post-acute care, we do not know the 
+full amount on the Medicare Advantage side, but on the fee for 
+service side, that is about $60 billion in annual spending.
+    If it is a 50/50 kind of figure, that is the same 
+equivalent on the Medicare Advantage side. You are probably 
+looking at a total of roughly $120 billion in annual spending 
+just in post-acute care.
+    Senator Johnson. The chairman pointed out how much money 
+Medicare Advantage is making per patient. If you wiped out 
+those profits, kind of what would happen to Medicare Advantage, 
+where would they try and make things up?
+    Ms. Grabert. They might try to make it up on the fee for 
+service side.
+    Senator Johnson. Describe that a little bit more.
+    Ms. Grabert. On the fee for service side, and in my 
+testimony, I referenced some of the margins that providers 
+enjoy from the fee for service rates. There is certainly a 
+discrepancy there as well.
+    I think the Medicare Advantage plans are paying attention 
+to that on the fee for service side, and they are using tools 
+like prior authorization to get at making changes and to bring 
+some of those margins down.
+    That is their ability to do that, on the Medicare Advantage 
+side. Whereas on the fee for service side, we cannot really get 
+at those costs and inefficiencies in the Medicare program 
+unless Congress authorizes it.
+    Senator Johnson. Are they also using the savings to the 
+prior authorization and then denial? Either justify denial or 
+unjustified. They are using that to fund the other benefits 
+like dental and vision, that type of thing.
+    Ms. Grabert. Yes, they are reinvesting the money that they 
+get from the Medicare program in a variety of different things. 
+Supplemental benefits such as vision, dental, and hearing, and 
+a whole host of other things that are offered to beneficiary on 
+the Medicare Advantage side that they are not able to get on 
+the fee for service side.
+    Senator Johnson. A solution to this problem would be, first 
+of all, we are not going to let Medicare Advantage plans do 
+prior authorizations. We are not going to allow them to deny 
+coverage based on prior authorizations.
+    What would end up happening is what probably one or two 
+things. Either the cost to the taxpayer could go up pretty 
+dramatically or Medicare Advantage plans would have to pare 
+back in terms of what they cover. I would think those are the 
+two most likely scenarios, correct?
+    Ms. Grabert. Yes, I would say that both of those things 
+would happen.
+    Senator Johnson. OK. I have no further questions. Thank 
+you.
+    Senator Blumenthal. We will turn to Senator Marshall. I am 
+going to go vote. Hopefully, I will be back before he finishes. 
+Senator Johnson is going to stay and preside while I run or 
+walk to vote.
+
+             OPENING STATEMENT OF SENATOR MARSHALL
+
+    Senator Marshall. Thank you, Mr. Chairman. Let me start by 
+thanking you for co-sponsoring our legislation on prior 
+authorization that would help solve some of the problems here. 
+Thank you for your leadership, and many other folks from this 
+Committee as well. Ms. Bent, thank you for sharing your 
+harrowing story.
+    I cannot imagine in your worst days, what it would be like 
+to have a 600-pound, 2,000-pound gorilla that you were fighting 
+with as well. Standing beside your husband, as your vows said 
+that you would do.
+    I just cannot imagine what that was like. I want you to 
+know that you have some fighters up here that are fighting for 
+this issue. It was probably 10, 12 years ago, I was leaving the 
+office and my nurse told me, hey, by the way, your surgery for 
+tomorrow was canceled. Your 7:30 case.
+    I said, oh, really? How come? Is the patient sick? They 
+said, no, her insurance company canceled it. I said, why? They 
+said, it is canceled, and you have to make an appointment to 
+talk to a person to see if they will approve it. What was the 
+name of the doctor that disapproved?
+    It was not a doctor. It was some type of a clerical person 
+that had canceled the case. I want to submit for the record a 
+couple of documents.\1\ One is from a doctor, Ronald Chen, who 
+was one of the most respected radiation oncologists in the 
+Nation. He is a regular caller of our office, needing help with 
+this issue.
+---------------------------------------------------------------------------
+    \1\ The documents submitted for the Record by Senator Marshall 
+appears in the Appendix on page 108.
+---------------------------------------------------------------------------
+    All cases--an 85-year-old man with bladder cancer who had 
+completed radiation and chemotherapy but needed a CAT scan. 
+Again, this is a doctor who follows the guidelines. Radiation 
+oncology.
+    There are specific guidelines to standard of care to get a 
+CAT scan, 6 months after that therapy that was denied. Another 
+69-year-old man with metastatic prostate cancer, the wanted 
+proton therapy it was denied. A 74-year-old person with 
+aggressive prostate cancer was denied proton therapy. Another 
+79-year-old with prostate cancer that needed a follow up 
+position emission tomography (PET) scan that were all denied. 
+Here are some other ones.
+    Patient with cancer denied bloodwork. Patient with heart 
+disease denied an electrocardiography (EKG). Heart disease, 
+EKG, imagine that. Patient recovering from a stroke, denied 
+physical therapy. A patient with multiple sclerosis (MS) and a 
+tibia fracture denied a wheelchair. A patient with glaucoma, 
+denied eye exam and treatment.
+    A patient with breast cancer denied reconstructive surgery. 
+I could not imagine. I remember 1 month I had to tell three 
+women in there, one was 29, two were 32, that they had 
+metastatic breast cancer.
+    I could not imagine having to argue why these women wanted 
+reconstructive surgery done at the same time as their 
+treatment. Someone who never went to medical school, someone 
+who has never touched a patient making decisions.
+    That is why we have been fighting for this issue now, up 
+here for, I believe, 4 years. In our legislation, Improving 
+Seniors Timely Access to Care Act, is bipartisan, it is 
+bicameral. I believe it is the most co-sponsored bill and 
+endorsements of any legislation up here. But unfortunately, it 
+got a CBO score of $10 billion, and we will maybe have time to 
+talk about that later.
+    Ms. Tinker, I want to thank you for your professionalism, 
+your understanding and an in-depth knowledge of this has helped 
+us to take what we thought was good legislation and make it 
+better. That is the way the process up here is supposed to 
+work, and we appreciate your help as well.
+    As you know, our bill requires--and this is for you Ms. 
+Tinker. As you know, our bill requires you to MA plans to 
+report on detailed metrics related to prior authorization 
+delays. By the way, that is how prior authorization is being 
+used now. It is being used to delay care and deny care.
+    That is what it has become a tool to be, is to delay care, 
+hoping the patient dies so they do not have to give anymore 
+care, I guess. Our bill requires MA plans to report on detailed 
+metrics related to prior authorization delays, denials, and 
+appeals, in the aggregate, at the individual service. The 
+proposed rules, however, merely require aggregate data.
+    In light of your work, do you think reporting by current 
+procedural terminology (CPT) code and, or individual service 
+level would help the Office of Inspector General better assess 
+and ensure that MA plans are complying with Medicare coverage 
+rules? That is a complex question. Sorry.
+    Ms. Tinker. That is a very complex question. Thank you very 
+much. I would say anytime we can have more data and more 
+information that is timely, complete, and accurate, it will 
+help us to do a better job.
+    Very recently, we issued a report that specifically noted 
+that denial of data is not included in Medicare Advantage 
+encounter data, and that that hampers the ability of both OIG 
+and other law enforcement agencies to do their jobs and to 
+truly look at the data and find areas where fraud, waste, and 
+abuse is occurring.
+    Senator Marshall. I think the misconception is the 
+physicians office are very willing to do some type of pre-
+approval process, but most of this is streamlined. Ninety 
+percent of my procedures are the same procedure. The same 
+prerequisites. When should you replace someone's knee? When 
+should you replace someone's hip? That we could do this all 
+electronically. My next question, Dr. Fuglesten Biniek, help me 
+out. I want to get it right.
+    Simple question for you, in your statement, you noted that 
+the Kaiser Family Foundation analysis on prior authorization in 
+MA demonstrated a significant difference in the denial rates 
+reported by the MA plans.
+    Do you agree that more detailed individual service level 
+reporting on delays and denials would help seniors better 
+navigate which plans will meet their personal health care 
+needs?
+    Dr. Fuglesten Biniek. Yes.
+    Senator Marshall. You want to extrapolate?
+    Dr. Fuglesten Biniek. Yes. Right now, Medicare 
+beneficiaries can choose from 43 plans. That is a lot, and the 
+information that is available right now, you have to dig very 
+deep to get any information on whether a prior authorization 
+may or may not be required. It is certainly not at the service 
+level.
+    Now, with 43 plans, it might still be pretty difficult to 
+compare across plans, but it would be a step in a direction 
+that would help for people who were or interested, who knew 
+they needed certain services, had particular conditions to at 
+least be able to start on that endeavor.
+    Senator Marshall. Thank you. Ms. Grabert, are you aware of 
+the Support Act?
+    Ms. Grabert. I am not.
+    Senator Marshall. OK. Anyway, it requires CMS to establish 
+electronic prior authorization in Medicare Part D. CBO said it 
+would be negligible. Further, CMS estimated that implementing 
+the regulations would produce savings for plans and providers. 
+Faxes have to be more expensive, and the appeals process even 
+more expensive.
+    Just want to make sure that to be clear, that our bill does 
+not limit prior authorization, it streamlines it. Do you 
+believe that making the system more efficient is better and 
+cost effective for patients, providers, and health plans?
+    Ms. Grabert. Yes, I do. Also, I believe in the regulation 
+that CMS just finalized in April, they were prohibiting the use 
+of prior authorization for prescription drugs.
+    Senator Marshall. OK. Thank you. Ms. Grabert, I will stay 
+with you. Senators Thune, Brown, Sinema, and I are circulating 
+a letter to CMS urging them to finalize the prior authorities, 
+modeled after our bill.
+    As a former congressional staffer, congratulations. I do 
+appreciate it. It is a tough life up here. I appreciate you 
+going on and taking that skill set to what you are doing now. 
+You understand the CBO scoring, which I do not. The proposed 
+rules reduce the score to $10 billion. When finalized, and if 
+they do adopt a real time decisions and transparency 
+requirements, we think it will be $0.
+    Here is our question, how do you consider this a warning 
+sign for Medicare if the regulations, which produce savings, 
+change the baseline so the score would drop down to something 
+negligible? Good luck.
+    Ms. Grabert. I was going to say first, I think what you 
+told me may not be publicly available because I did not know 
+about the reduction in score to $10 billion. Also, I have not 
+been privy to those conversations with CBO, so I do not know 
+that the score would go down to $0. The only thing that I had 
+available to me was a publicly available $16 billion score from 
+the bill that was scored last Congress.
+    Senator Marshall. Do you understand their logic and how 
+they came up with those types of numbers?
+    Ms. Grabert. I certainly do. Usually, CBO will discount the 
+scores that they issue when CMS has an active proposed rule in 
+place, which they do right now for the electronic system, which 
+is my assumption as to how they got from $16 billion down to 
+$10 billion.
+    If CBO were to finalize it, it may drop further. We do not 
+know what their assumptions are to get in there. If CMS was not 
+to finalize that verification rule, I would assume that the 
+score would go back up to $16 billion over time again.
+    Senator Marshall. In my mind, I cannot figure out where the 
+CBO would think that this would cost the government money. It 
+is a more efficient process. How did they come up with, you 
+think, with the $16 billion? Where is the cost coming from?
+    Ms. Grabert. They assumed that the restrictions and the 
+reporting requirements may encourage plans to change their 
+behavior, so they will be doing less prior authorization. Less 
+prior authorization will result in more costly services and 
+services being billed.
+    It might change, actually, the bid rates that Medicare 
+Advantage plans submit on an annual basis, all of which is 
+greater cost to the taxpayer. Those are the assumptions that 
+CBO built into their score.
+    Senator Marshall. OK. Thank you. Let me review my notes. I 
+will be yielding back about right now, but I think I am about 
+ready to wrap things up. I am going to move to recess, then it 
+sounds like. We will see if anyone else is coming back. Thank 
+you so much, everybody. We will see if anybody else is coming 
+back from voting. The staff will let you know soon.
+    [Recess.]
+    Senator Johnson. This gives me a good opportunity here. 
+What I would like to do with the witnesses is go through the 
+basic problem-solving process. I come from a manufacturing 
+background, do this all the time. We have taken the first step. 
+We have admitted we have a problem here.
+    I think the next step is find the problem. If we have time, 
+what is the root cause of that, and then what are the 
+solutions? Again, if the first of you gets the definition 
+right, you don't have to redefine it, but I guess I would like 
+to start with you, Ms. Tinker. How would you define the 
+problem?
+    Ms. Tinker. What our work showed is that prior 
+authorization was being used at times when original Medicare 
+would have paid for the service.
+    Senator Johnson. Do you think prior authorization itself is 
+the problem, or just not administered properly, people are not 
+following the guidelines?
+    Ms. Tinker. Our work looked at and showed that while prior 
+authorization is useful as a tool in Medicare Advantage, it is 
+that 13 percent of the time when original Medicare would have 
+in fact paid for those services that created the problem.
+    Our recommendations are really key toward how do you make 
+prior authorization work better, and how do you eliminate those 
+times when original Medicare would have paid.
+    Senator Johnson. Ms. Fuglesten Biniek, would you agree with 
+that definition? Would you change it slightly?
+    Dr. Fuglesten Biniek. I agree with most of what Ms. Tinker 
+just said.
+    I would also add that from the perspective of policymakers 
+conducting oversight, I think there is a lack of information to 
+really then narrow in on what types of policies you might 
+propose or other types of oversight you might do, because we do 
+not know the specific services unless you go and get the very 
+detailed data and conduct a very labor intensive audit who is 
+being affected, how often they are being affected, are things 
+being denied because they are deemed not medically necessary, 
+or providers are not providing sufficient documentation?
+    Those lead to very different solutions, and without that 
+information, it is hard to know how to solve the problem.
+    Senator Johnson. You have a sub-problem here. You do not 
+have enough information to really define the problem properly 
+and then find a solution. Again, we are honing in on it. 
+Actually, Ms. Huberty, you missed this. Ms. Grabert, we are 
+going through the problem-solving process, trying to figure out 
+what is the definition of this problem. Ms. Grabert.
+    Ms. Grabert. Yes, I think there are certainly problems on 
+the fee for service side that need to be addressed because MA 
+plans are using prior authorization to actually get at some of 
+those things. I do not think the problem is necessarily prior 
+authorization. I think there is some fee for service things.
+    Senator Johnson. Now, when you say fee for service, is that 
+you are going into the private sector, or just fee for 
+service--and I mean, describe what you are talking about there.
+    Ms. Grabert. Fee for service is the option in Medicare that 
+beneficiaries elect, that allow them to get services directly 
+without having a plan put together----
+    Senator Johnson. That is traditional Medicare is what you 
+are talking about then.
+    Ms. Grabert. Yes.
+    Senator Johnson. OK.
+    Ms. Grabert. But I would also maybe challenge the 13 
+percent number that Megan offered. Thirteen percent does not 
+actually seem all that high to me in the way that she is using 
+it. For example, for inpatient rehab facilities, 19 percent of 
+what they are billing is actually on the fee for service side 
+is an error every year.
+    A lot of the services in the 13 percent number that Megan 
+used come from an audit for at least four of those services 
+were for inpatient rehab facility. If you are looking at the 19 
+percent that I mentioned on the fee for service side versus 13 
+percent on the MA side, I feel a little bit more comfortable 
+with that 13 percent because it is less error than what we are 
+actually observing for some of those same services on the fee 
+for service side.
+    Senator Johnson. Ms. Bent, having gone through this, how 
+would you define this problem?
+    Ms. Bent. I would say that for my family, when this first 
+came up, I went to the Medicare website and looked at what I 
+might expect for my husband, and I saw the figure of 100 days. 
+I think you can imagine how surprised I was when I was told 
+after a considerably smaller number of days he was going to be 
+discharged. For me, the problem becomes an issue of trust.
+    Senator Johnson. Even 100 days is the limit. What would 
+happen after 100 days? Do you get discharged to a long-term 
+care facility where there is no hope for rehab? What is the 
+next step then?
+    Ms. Bent. These ladies could all correct me if I am wrong, 
+but what I read was after 100 days, we would have had the 
+option of leaving him there and there would have been a co-pay 
+that came into place.
+    Senator Johnson. OK.
+    Ms. Bent. I would have had the option of saying, yes, I can 
+cover this percentage of this fee and he can stay there.
+    Senator Johnson. Ms. Huberty, do you want to take a crack 
+at how you define the problem we are dealing with here today?
+    Ms. Huberty. I think the main issue is that the Advantage 
+plans are deferring the decisionmaking to a lot of third 
+parties. None of those third parties are the doctors that are 
+meeting with the patients or their treating therapists. They 
+are rarely even looking at their medical records.
+    Often it is that algorithm that starts the process, and 
+there is very little oversight. They are rubber stamped denial 
+as they go through the process.
+    Senator Johnson. I think you are kind of making the point I 
+was making earlier in terms of our entire health care financing 
+system is, we are deferring all these decisions to a third 
+party. What we are saying is, we want it all, we want the best, 
+and we do not care what it costs. That is a problem.
+    I will throw out kind of a guideline or an outline of a 
+solution first. Try and reintroduce consumerism into health 
+care as best as possible. For my examples, that would be the 
+low end. The things you can really make a choice on, and say, I 
+know I had an MRI last week and I would like another one this 
+week, but it is not worth it, OK.
+    Then have high deductible insurance plans that are actually 
+insurance plans, healthy exclusions, without pre-authorization 
+plans that are being violated and denied. That is kind of the 
+thought process that goes through my head.
+    But, do you all acknowledge that this really is a problem? 
+We are spending so much, and in the end, people do not care 
+what it is costing because either the government is paying for 
+it up to a point or the insurance. We are best at causing costs 
+to run higher than really any other country in the world. That 
+is a real problem, a real issue here.
+    I threw out my outline of a solution. What are your overall 
+solutions? I will start with you, Ms. Bent. By the way, I have 
+all the sympathy in the world because we have had, my in-laws--
+my parents, fortunately did not have--my mother passed within 
+24 hours, a massive stroke.
+    But my mother-in-law and father-in-law just went through 
+hospitalization after hospitalization, and getting booted out 
+before they certainly felt they were ready to go home. It is a 
+horrible process. You have my deepest sympathy. But what do you 
+think?
+    Ms. Bent. I would like to see the people who are actually 
+giving the care and know the patient, not being overridden in 
+their decisions by a third party that is perhaps using software 
+to make their decisions.
+    Anecdotally, I will tell you that when it was time to stop, 
+my husband's primary care was very clear with him and us about 
+that. He knew when it was time to stop treating and stop 
+pursuing an elongation of something that was not going to 
+change. I think they are trustworthy. I would go with them.
+    Senator Johnson. The pushback would be that there are going 
+to be some people that are going to game the system. They might 
+have some financial gain by having people there. But I would 
+agree with you.
+    I think you are making that point is, we ought to put trust 
+in the doctors and nurses who are going to abide by the 
+Hippocratic Oath, have the primary responsibility to the 
+patient, not to Medicare, not to Medicare Advantage plan, but 
+let them make the call. I think that is what most Americans 
+would agree with.
+    Then we have to address the cost at a different level. Then 
+we have to figure out, that is where I keep going down to the, 
+high deductible plans that are true insurance, and you really 
+let the care providers do that. Then try and bring consumers 
+into the process for the little stuff, where you do have time--
+you can make a decision.
+    You say, OK, I will take the generic drug, or I will do 
+this. This is going to work, but it is a lot cheaper than that. 
+Does that make sense to you? Ms. Grabert, what do you think?
+    Ms. Grabert. I am going to stick to my theme on looking at 
+fee for service Medicare again, because that is the part of the 
+program that has very little consumerism.
+    Right now, beneficiaries who are in fee for service 
+typically elect a Medicare plan for supplemental coverage as a 
+wraparound service for them.
+    There is absolutely no consumerism built into that model 
+because they are shielded from almost all of the costs and out-
+of-pocket that you are looking at within that model.
+    Medicare Advantage really is well above fee for service in 
+that respect. If you really want to put consumerism in, I would 
+say target Medigap plans on the fee for service side.
+    Senator Johnson. What is the cost per enrollee--again, I do 
+not have this on top of my head. I always heard that Medicare 
+Advantage is really popular because it offers better benefits, 
+but it costs in general the government more because it has 
+that. Is that true?
+    Dr. Fuglesten Biniek. Yes. MedPAC estimates this year it is 
+about 106 percent of what traditional Medicare were spend on 
+similar beneficiaries. It is about $27 billion in one year.
+    Senator Johnson. OK. I would have thought maybe it is 
+higher than 6 percent, but, OK.
+    Dr. Fuglesten Biniek. To be fair--enrollees get something 
+for that. They get lower cost sharing. They get extra benefits. 
+But plans also benefit from that. The key question is how much 
+of the savings they generate, should they get to keep? Should 
+enrollees benefit and should the government get back? Right 
+now, the government gets none of it.
+    Senator Johnson. Again, what you are saying Ms. Grabert is, 
+rather than trying pinch pennies and resolving the kind of 
+abuses that Ms. Bent had to put up with, you would rather focus 
+on traditional Medicare and try and bring some kind of 
+consumerism, some kind of cost saving measures there. Now, you 
+do not want to apply the same thing. You want to figure out a 
+better way of controlling costs. Ms. Huberty, what do you say?
+    Ms. Huberty. I think we have touched a lot on the 
+differences between what fee for service or original Medicare 
+is paying versus Advantage plans. The biggest issue that we are 
+seeing and that has been highlighted too, is that the standards 
+are being applied so drastically differently.
+    If you have an original Medicare plan and you had the 
+situation that she had or a supplement, her husband would not 
+have gone through that. There has to be some sort of oversight 
+or we have to be able to know why they are applying these 
+standards differently and why someone with original Medicare is 
+getting a better benefit that Advantage plan with this 
+particular service.
+    Senator Johnson. What standards because there is no prior 
+authorization with fee for service. There are standards or is 
+this simply whether Medicare is going to reimburse, regardless 
+of whether it is preapproved. This is just whether you get 
+reimbursed as a provider. Is that what you are talking about, 
+in terms of the standards?
+    Ms. Huberty. You might be able to speak better to the 
+provider reimbursement, but in terms of standards for a skilled 
+nursing facility stay, it is very basic where if a person needs 
+5 days a week of physical therapy or any types of therapy, they 
+get coverage under original Medicare. If they have an Advantage 
+plan, they might get a denial and that no one is even looking 
+at the records. No one is even counting the days.
+    Senator Johnson. A different question. As a consumer, when 
+you get to be an old guy like me, what are you going to choose?
+    If it was the same plan today, would you take traditional 
+Medicare or would you take Medicare Advantage?
+    Ms. Huberty. Choosing a health insurance plan is a highly 
+individualized process. I do not know enough about your medical 
+history.
+    However, what I will say, though, is if, and this would be 
+to anyone with an Advantage plan, I would say that can be 
+great, and they are important, and they do offer those 
+supplemental benefits at times.
+    But if you ever need skilled rehab the way that Ms. Bent's 
+husband did, do expect this to happen. Do absolutely expect it.
+    Senator Johnson. Is that the main problem in rehab? I mean 
+in terms of definition of a problem here today, is that the 
+main problem?
+    Ms. Huberty. I am here today to speak on that because our 
+agency has become overwhelmed with these cases to the point 
+that we have started turning them away. For me here personally, 
+yes, this is a huge problem for beneficiaries.
+    Senator Johnson. We are seeing the baby boom generation. 
+You look like you wanted to say something, Ms. Grabert.
+    Ms. Grabert. I was going to say I would choose Medicare 
+Advantage today, and I put both of my parents in Medicare 
+Advantage.
+    Senator Johnson. OK. Anybody else have a different opinion 
+to that? Would you also take Medicare Advantage? I don't think 
+it could be held to the standard of giving advice to consumers. 
+I am stalling for time here. No, I really was not.
+    Mr. Chairman, I was going through the problem-solving 
+process here, OK. Asking them to define it, to find the 
+problem. I think, we pretty well came to the conclusion that it 
+really is this prior authorization not necessarily following 
+the rules, seems mainly with rehabilitative cares is the main 
+issue.
+    We were starting to talk through some solutions. Again, I 
+appreciate your absence. Gave us some opportunity.
+    Senator Blumenthal. I apologize for my absence. I got 
+stalled on a train that stopped and then we had a second vote. 
+I have now voted twice. Senator Johnson will have to leave at 
+some point, but maybe I can pick up a little bit where we left 
+the conversation on the new CMS rules.
+    I have looked at those rules. I have a hard time making 
+sense of them. Maybe somebody can explain to me what those 
+rules actually do, because I will read you the summary.
+    The new rules include the following requirements. Prior 
+authorization may only be used for one or more of the following 
+purposes, to confirm the presence of diagnoses or other medical 
+criteria that are the basis for coverage determinations for the 
+specific item or service, or for basic benefits, to ensure an 
+item or service is medically necessary based on standards 
+specified in Section 422.101[c][1], or for supplemental 
+benefits, to ensure that the furnishing of a service or benefit 
+is clinically appropriate.
+    I do not see how those rules guarantee that everything 
+covered under Medicare will be covered under Medicare Advantage 
+without the rigmarole and the runaround that people have been 
+experiencing. Ms. Tinker, maybe you can enlighten me.
+    Ms. Tinker. In response, in part to our report from April 
+2022, CMS issued a rule in April of this year. That rule 
+confirms that Medicare Advantage Organizations (MAOs) must 
+comply with original Medicare criteria. In addition, some of 
+the recommendations we made in our report were that those same 
+issues be incorporated into the audits that CMS does of 
+Medicare Advantage plans. Checking to make sure, in fact, those 
+things are occurring.
+    Senator Blumenthal. But there is nowhere in this rule that 
+says you have to get everything under Medicare Advantage that 
+you would under Medicare. In fact, as we have heard, because I 
+think, looking at my notes, Dr. Fuglesten Biniek said it, we do 
+not have enough data to know at this point. Is that right?
+    Dr. Fuglesten Biniek. Yes, I think it is challenging to 
+assess.
+    Senator Blumenthal. Challenging to assess, is absolutely 
+right. For people in Ms. Bent's position, that is going to have 
+real world consequences in terms of uncertainty, unknowability, 
+unenforceability, and potentially more appeals, more red tape. 
+Correct?
+    Dr. Fuglesten Biniek. Yes, potentially.
+    Senator Blumenthal. Ms. Huberty, could you give me your 
+assessment of whether these rules are going to clarify and 
+solve all these problems?
+    Ms. Huberty. I do not know enough about the proposed rules 
+or the enacted rules to speak on that, but I do not know that 
+it needs to clarify, because it is already a rule that Medicare 
+Advantage plans must provide at least the same benefits as the 
+original Medicare.
+    Senator Blumenthal. That is exactly my point. That it is 
+not a problem with rules, it is a problem with compliance and 
+enforcement. In other words, the Medicare Advantage plans 
+basically have been flouting their obligations under existing 
+law without a new rule. Correct?
+    Ms. Huberty. Absolutely correct. Yes.
+    Senator Blumenthal. A new rule is only as good as their 
+being willing to change their real-world practices and CMS 
+enforcing those obligations, which it has been failing to do. 
+Correct?
+    Ms. Huberty. Correct. Yes.
+    Senator Blumenthal. Ms. Grabert, Senator Johnson asked you 
+a question about--let me hold up the profits poster.\1\ He 
+asked you in effect whether Medicare Advantage might be taking 
+some of their additional revenue and putting it into dental and 
+vision and other services that come with Medicare Advantage but 
+not with Medicare. Correct?
+---------------------------------------------------------------------------
+    \1\ The poster referenced by Senator Blumenthal appears in the 
+Appendix on page 105.
+---------------------------------------------------------------------------
+    You remember your testimony and you said that was true. But 
+the additional profits from going to Medicare Advantage are 
+after those expenses, are they not?
+    Ms. Grabert. Yes, they are.
+    Senator Blumenthal. OK. They have already made the 
+investment, and they are in fact, let me put it in layman's 
+terms, they are making a ton more money than those other 
+categories of insurance, even after the benefits that they 
+provide.
+    Ms. Grabert. I guess I would need clarification on your 
+response because I do not really understand the methodology. I 
+do not know what the actuarial value is for dental, vision, and 
+hearing. I do not know that those things could have been taken 
+into consideration and removed from those numbers.
+    Senator Blumenthal. If I tell you that the profits, and I 
+think this point is largely un-contradicted, that profits for 
+Medicare Advantage exceed those in other types of plans, 
+despite having invested in those additional services.
+    It leaves me to conclude that they could maybe reduce some 
+of their profits and provide some additional services, for 
+example, to Ms. Bent's husband, and still make pretty good 
+profit, but just not as large as they would otherwise. Does 
+that make sense?
+    Ms. Grabert. Yes, certainly. I think there are a number of 
+different policies that Congress can take on. For example, the 
+quality bonus payments that are made to Medicare Advantage 
+plans that were instituted in the Affordable Care Act (ACA) 
+really led to a lot of those numbers.
+    Congress could address some of those policies to reduce 
+some of those profit margins if they so choose to.
+    Senator Blumenthal. We could reduce the profits for 
+Medicare Advantage? Would you recommend that?
+    Ms. Grabert. I think there is a lot of people that would 
+encourage Congress to specifically look at those quality bonus 
+payments that were included in the Affordable Care Act, yes.
+    Senator Blumenthal. But as an alternative, maybe Medicare 
+Advantage plans could include care for Ms. Bent's husband, 
+which is what they promised to do. Correct?
+    Ms. Grabert. Certainly.
+    Senator Blumenthal. OK. Let me ask you, in your report, Ms. 
+Tinker, a central concern that you expressed was about payment 
+models like the one used for Medicare Advantage, as you know, 
+and the, as you call it, potential incentive for insurers to 
+deny access to services, or for payments in an attempt to 
+increase their profits, which we have been discussing.
+    KFF has analyzed how much insurers make for each Medicare 
+Advantage enrollee as compared to enrollees in other kinds of 
+insurance, as we have demonstrated here. Can you tell us why 
+insurers have that incentive?
+    Ms. Tinker. Yes. In original Medicare, providers are paid 
+based on the specific services they provide. However, in 
+Medicare Advantage, Medicare Advantage plans are paid a 
+capitated rate, so a single amount per member per month, to 
+provide services regardless of the cost or the number of the 
+services. As a result, unlike in original Medicare, plans make 
+more money by providing fewer services.
+    Senator Blumenthal. I am going to interrupt my questions to 
+let Senator Johnson----
+    Senator Johnson. I am sorry, I apologize. I have to go 
+vote, then Speaker Paul Ryan is getting his portrait unveiled, 
+so I have to go to that ceremony. But real quick, going back to 
+the profit per enrollee, it sounds like there is a reasonably 
+robust competitive market, though.
+    You have 9 companies, 33 different plans. Are they 
+colluding to drive up profits or do we need to encourage more 
+competition as opposed to trying to lower costs by some 
+government edict? I mean, generally competition works pretty 
+well.
+    Dr. Fuglesten Biniek. I will say this market has exploded 
+in the last several years. The 43 plans this year is twice as 
+many as was available in 2018. In some markets, the same 
+insurer offers a dozen or more different plans. I do not think 
+more plans is probably the answer.
+    Some places have 80 plans. It is really helping the 
+beneficiary figure out what the meaningful differences are 
+between those plans and what would best suit their needs and 
+preferences.
+    Senator Johnson. It is not one company having 10 plans. It 
+is nine different companies----
+    Dr. Fuglesten Biniek. Having 7 to 10 plans.
+    Senator Johnson. If it is only one company in a region, 
+that is not competition. Is that what is happening?
+    Dr. Fuglesten Biniek. No, most markets, over 50 percent of 
+markets have at least nine different firms participating and 
+offering plans.
+    Senator Johnson. I am scratching my head. Then what does it 
+look like if there is better competition in this thing? But 
+anyway, appreciate the indulgence. Again, thanks for holding 
+this hearing, and thank all the witnesses. Take care.
+    Senator Blumenthal. I will follow up on that question. The 
+insurers make more than double for each Medicare Advantage 
+enrollee, than for other insured individuals, like people in 
+employer sponsored plans. All of these so-called competitors 
+know they can make more money with Medicare Advantage plans. Is 
+that right?
+    Dr. Fuglesten Biniek. Yes.
+    Senator Blumenthal. OK. If their goal is to make money, 
+they are all going to, in effect, benefit from the products 
+while their beneficiaries are put at a disadvantage by the 
+prior authorization.
+    Dr. Fuglesten Biniek. I will also add that they compete for 
+their enrollees by offering these extra benefits. The way they 
+are able to offer the extra benefits is by lowering the bid for 
+Medicare covered services. To the extent they can use prior 
+authorization or networks, referrals, other types of 
+utilization and cost management tools, they will be able to get 
+a larger rebate from CMS and be able to offer more extra 
+benefits.
+    Senator Blumenthal. It is a kind of bait and switch plan. 
+They bait people to come in with the promise of providing more. 
+But in fact, many of the beneficiaries receive less. Correct?
+    Dr. Fuglesten Biniek. I certainly would not put it that 
+way.
+    Senator Blumenthal. I am going to put it in the way that 
+one of your clients, Ms. Huberty, put it, which is, after the 
+denial, I read in one of the articles about the work that you 
+do that--I think it was one of your clients, said it works 
+until you need the big stuff. Maybe you can explain what that 
+means.
+    Ms. Huberty. Yes, absolutely. To the point of the 
+supplemental benefits, enticing people into taking them, that 
+is the short term. We all have short term goals. It is easy to 
+save money at the beginning and to say, I am going to get these 
+extra things that original Medicare does not cover.
+    That is really enticing for me to take this plan. There 
+might be a low premium as well, but most of us do not think 
+about the larger problems when they are actually going to need 
+help. Like in Ms. Bent's case, they looked, and they saw 100 
+days of coverage.
+    That is what they expected to need when the time came. 
+Absolutely, I would say it is a bait and switch because you get 
+to that point when you do actually need those bigger things and 
+you are denied.
+    Senator Blumenthal. It looks like a good plan as long as 
+all you need is dental or vision. Everybody needs dental or 
+vision. Nobody plans on melanoma.
+    Ms. Huberty. Correct, yes.
+    Senator Blumenthal. Or on other kinds of acute, 
+rehabilitative, or long-term rehabilitative care.
+    Ms. Huberty. Yes, that is correct.
+    Senator Blumenthal. Ms. Bent, when you signed up for 
+Medicare Advantage, obviously you had no idea that this tragedy 
+was going to befall your family.
+    Ms. Bent. Actually, Gary was a retired State employee, and 
+his benefits are determined by the Office of the State 
+Comptroller. Looking at the website for State retirees, it 
+appears to me that if you are of an age that makes you eligible 
+for Medicare, you are on a managed Medicare plan.
+    Senator Blumenthal. That was almost automatically as a 
+result of your being on the state--
+    Ms. Bent. Correct. Someone else made the decision for us 
+that we would be on a Medicare Advantage plan. Periodically, 
+someone else makes the decision for us that that plan will be 
+administered by a different company.
+    Senator Blumenthal. Your husband taught physics at the 
+University of Connecticut when he retired?
+    Ms. Bent. Yes, he was at the University of Connecticut for 
+23 years.
+    Senator Blumenthal. By the way, I am a retiree from 
+University of Connecticut as well.
+    Ms. Bent. Yes. You have some of the same issues.
+    Senator Blumenthal. I want to go back to the appeal 
+questions, Ms. Huberty, because I think we began talking about 
+them, and I am not sure that you had the opportunity to explain 
+what the barriers and the hurdles are to overcoming a denial. 
+Maybe explain a little bit why only 11 percent of people 
+actually appeal when the results are seemingly so positive.
+    Ms. Huberty. In the cases of skilled nursing facility 
+denials, you are getting the denials and the appeal 
+instructions in real time.
+    In Ms. Bent's case, they are getting them as they are 
+trying to recover from the illness. It is not like you get an 
+x-ray, and then 3 months later you get the bill, and then you 
+try to deny it at that time or try to appeal that denial at 
+that time.
+    You have people who are very vulnerable, who are very sick, 
+very ill, trying to recover, trying to get back home, getting 
+appeals thrown at them, not knowing usually what they are 
+signing or what is being asked of them. They will do whatever 
+is thrown at them. Usually, it is appealing by phone.
+    Once you get to those first two levels of phone appeals, 
+generally, because those are handled immediately, the next step 
+is requesting a Federal administrative law judge hearing. I 
+would say most people assume that they need an attorney to do 
+that, or if they do not realize that, they just think that 
+process sounds far too daunting to continue.
+    Again, they are trying to recover. They are trying to get 
+better. Ms. Bent and I were speaking before the hearing, and it 
+sounded like my experience is exactly what she experienced, 
+too. Even if you are successful in an appeal while you are 
+still in the facility, you can expect another denial in a 
+matter of days, and that review will continue about every 3 
+days.
+    Senator Blumenthal. Even if you are successful in appealing 
+on a first round, you can be stuck on later rounds with the 
+same algorithm driven denial.
+    Ms. Huberty. Generally, the algorithm is first applied when 
+the person is first admitted in the skilled nursing facility. I 
+have not seen it come up since then.
+    But what happens is it is almost once you have been flagged 
+as someone who might need to leave now or does not meet these 
+care coverage criteria anymore, you are kind of in the system 
+for those denials and they are having these reviews.
+    I believe it is between naviHealth and the provider as 
+well, are going through reviews every 3 days.
+    Senator Blumenthal. As far as the potential for competition 
+is concerned. My understanding is that there are a small number 
+of companies that dominate this market. Is that correct?
+    Ms. Huberty. In terms of the third-party contractors?
+    Senator Blumenthal. Exactly.
+    Ms. Huberty. Yes. I know of two.
+    Senator Blumenthal. We are going to have to leave it now, 
+but you have given us a lot of really good information. This 
+investigation will continue. There is a lot here that needs to 
+be known. We are going to investigate within the goal of not 
+only making Congress know it, but also the public, and people 
+like Ms. Bent and everyday Americans who have a real stake, 
+real world stake, in what the outcomes are.
+    We have been talking a lot here at a 30,000-foot level, but 
+many of you, Ms. Huberty, Ms. Bent, have seen it up close and 
+how it impoverishes and deeply impacts people, impoverishes 
+them financially, but also spiritually when they have to be on 
+the battlefield, when at the same time their loved ones are 
+fighting for their lives. The battlefield simply should not be 
+there.
+    They should not have to fight an insurer at the same time 
+as their loved one is fighting for his life. We want to know 
+how these algorithms work, how these profits are so high, why 
+people are potentially deceived into thinking that Medicare 
+Advantage will be there for them, because the fact of the 
+matter is, it works until you need it. It works fine, so long 
+as you do not need it for the big stuff like melanoma, like 
+long term care, like certain kinds of injections and other 
+kinds of needs that everyday Americans have.
+    We are going to adjourn this hearing. The record will 
+remain open for 15 days for any additional comments or 
+questions by any Subcommittee Member. I would invite any of 
+you, if you have additional thoughts or responses to questions 
+that have been asked here that maybe you feel you did not get 
+an opportunity to answer fully, I encourage you to submit 
+written response as well.
+    Thank you all very much. The hearing of this subcommittee 
+is adjourned.
+    [Whereupon, at 3:49 p.m., the hearing was adjourned.]
+
+                            A P P E N D I X
+
+                              ----------                              
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+                                 [all]
+

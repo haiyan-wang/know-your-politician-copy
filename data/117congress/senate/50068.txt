@@ -1,0 +1,2620 @@
+
+ - EXAMINING DIGITAL ASSETS: RISKS, REGULATION, AND INNOVATION
+
+[Senate Hearing 117-600]
+[From the U.S. Government Publishing Office]
+
+
+
+
+
+
+
+                                                        S. Hrg. 117-600
+
+                       EXAMINING DIGITAL ASSETS:
+                   RISKS, REGULATION, AND INNOVATION
+
+=======================================================================
+
+                                HEARING
+
+                               before the
+
+                       COMMITTEE ON AGRICULTURE,
+                        NUTRITION, AND FORESTRY
+
+                          UNITED STATES SENATE
+
+                    ONE HUNDRED SEVENTEENTH CONGRESS
+
+                             SECOND SESSION
+
+                               __________
+
+                            February 9, 2022
+
+                               __________
+
+                       Printed for the use of the
+           Committee on Agriculture, Nutrition, and Forestry
+
+
+
+
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+
+
+
+
+                  Available on http://www.govinfo.gov/ 
+                  
+                  
+                  
+                  
+                             _________
+                              
+                 U.S. GOVERNMENT PUBLISHING OFFICE
+                 
+50-068 PDF               WASHINGTON : 2023 
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+           COMMITTEE ON AGRICULTURE, NUTRITION, AND FORESTRY
+
+
+                 DEBBIE STABENOW, Michigan, Chairwoman
+PATRICK J. LEAHY, Vermont            JOHN BOOZMAN, Arkansas
+SHERROD BROWN, Ohio                  MITCH McCONNELL, Kentucky
+AMY KLOBUCHAR, Minnesota             JOHN HOEVEN, North Dakota
+MICHAEL F. BENNET, Colorado          JONI ERNST, Iowa
+KIRSTEN E. GILLIBRAND, New York      CINDY HYDE-SMITH, Mississippi
+TINA SMITH, Minnesota                ROGER MARSHALL, Kansas
+RICHARD J. DURBIN, Illinois          TOMMY TUBERVILLE, Alabama
+CORY BOOKER, New Jersey              CHARLES GRASSLEY, Iowa
+BEN RAY LUJAN, New Mexico            JOHN THUNE, South Dakota
+RAPHAEL WARNOCK, Georgia             DEB FISCHER, Nebraska
+                                     MIKE BRAUN, Indiana
+
+               Joseph A. Shultz, Majority Staff Director
+               Mary Beth Schultz, Majority Chief Counsel
+                    Jessica L. Williams, Chief Clerk
+               Fitzhugh Elder IV, Minority Staff Director
+                 Fred J. Clark, Minority Chief Counsel   
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                            C O N T E N T S
+
+                              ----------                              
+
+                      Wednesday, February 9, 2022
+
+                                                                   Page
+
+Hearing:
+
+Examining Digital Assets: Risks, Regulation, and Innovation......     1
+
+                              ----------                              
+
+                    STATEMENTS PRESENTED BY SENATORS
+
+Stabenow, Hon. Debbie, U.S. Senator from the State of Michigan...     1
+Boozman, Hon. John, U.S. Senator from the State of Arkansas......     2
+
+                               WITNESSES
+
+Behnam, Hon. Rostin, Chairman, Commodity Futures Trading 
+  Commission, Washington, DC.....................................     4
+Ro, Sandra, Chief Executive Officer, Global Blockchain Business 
+  Council-USA, Pottstown, PA.....................................    22
+Bankman-Fried, Samuel, Founder and Chief Executive Officer, FTX-
+  US, Chicago, IL................................................    23
+Boring, Perianne, Founder and Chief Executive Officer, Chamber of 
+  Digital Commerce, Washington, DC...............................    25
+Werbach, Kevin, Professor, The Wharton School, University of 
+  Pennsylvania, Philadelphia, PA.................................    26
+                              ----------                              
+
+                                APPENDIX
+
+Prepared Statements:
+    Behnam, Hon. Rostin..........................................    44
+    Ro, Sandra...................................................    49
+    Bankman-Fried, Samuel........................................    58
+    Boring, Perianne.............................................    97
+    Werbach, Kevin...............................................   115
+
+Document(s) Submitted for the Record:
+Stabenow, Hon. Debbie:
+    U.S. Commodity Futures Trading Commission....................   132
+Werbach, Kevin:
+    Joint Economic Committee testimony on November 17, 2021, 
+      statement for the Record...................................   139
+
+Question and Answer:
+Behnam, Hon. Rostin:
+    Written response to questions from Hon. Debbie Stabenow......   168
+    Written response to questions from Hon. John Boozman.........   169
+    Written response to questions from Hon. Raphael Warnock......   171
+    Written response to questions from Hon. Roger Marshall.......   172
+Ro, Sandra:
+    Written response to questions from Hon. Debbie Stabenow......   175
+    Written response to questions from Hon. John Boozman.........   177
+Bankman-Fried, Samuel:
+    Written response to questions from Hon. Debbie Stabenow......   180
+    Written response to questions from Hon. John Boozman.........   181
+    Written response to questions from Hon. Roger Marshall.......   184
+Boring, Perianne:
+    Written response to questions from Hon. Debbie Stabenow......   185
+    Written response to questions from Hon. John Boozman.........   186
+Werbach, Kevin:
+    Written response to questions from Hon. John Boozman.........   188
+
+ 
+      EXAMINING DIGITAL ASSETS: RISKS, REGULATION, AND INNOVATION
+
+                              ----------                              
+
+
+                      WEDNESDAY, FEBRUARY 9, 2022
+
+                                       U.S. Senate,
+         Committee on Agriculture, Nutrition, and Forestry,
+                                                    Washington, DC.
+    The Committee met, pursuant to notice, at 10 a.m., via 
+Webex and in room 106, Dirksen Senate Office Building, Hon. 
+Debbie Stabenow, Chairwoman of the Committee, presiding.
+    Present or submitting a statement: Senators Stabenow, 
+Brown, Klobuchar, Bennet, Gillibrand, Smith, Booker, Warnock, 
+Boozman, Hoeven, Ernst, Marshall, Tuberville, Grassley, Thune, 
+Fischer, and Braun.
+
+STATEMENT OF HON. DEBBIE STABENOW, U.S. SENATOR FROM THE STATE 
+    OF MICHIGAN, CHAIRWOMAN, U.S. COMMITTEE ON AGRICULTURE, 
+                    NUTRITION, AND FORESTRY
+
+    Chairwoman Stabenow. The Committee on Agriculture, 
+Nutrition, and Forestry will come to order, and good morning. 
+Welcome to today's hearing on digital assets. This is such an 
+important hearing today. Thank you to Ranking Member Boozman 
+and his staff for working so closely with us on this important 
+bipartisan hearing.
+    Welcome to Chairman Behnam and our witnesses, and we are 
+really looking forward to today's discussion.
+    Thirteen years ago, Bitcoin was introduced to the world as 
+a new form of digital money that people could exchange online 
+without going through a bank. This novel technology aims to 
+democratize our financial system and offer new tools for those 
+who do not have access to traditional banks and reliable 
+currencies.
+    Since then, thousands of digital assets, as we know, 
+sometimes called cryptocurrencies, have sprung up. Unlike 
+traditional fiat currencies, however, cryptocurrencies are not 
+backed by the full faith and credit of a central bank, and wild 
+swings in value can make digital assets a risky form of payment 
+and unreliable store of value.
+    Given its instability, you cannot reliably use Bitcoin or 
+other digital assets to pay your mortgage or other everyday 
+purchases.
+    This is not to say that digital assets are without promise. 
+Every American, whether or not they have a bank account, should 
+be able to send money to their loved ones quickly and easily, 
+and our financial markets should be accessible to the average 
+investor, not just the wealthy. It is worth pursuing technology 
+that will make the financial system work for everyone, but to 
+truly work for everyone we need to ensure appropriate 
+protections.
+    Americans are buying and selling digital assets using 
+online exchanges, many of which are unregulated or not held to 
+the same standards as traditional financial institutions. This 
+poses unacceptable risks to consumers and could lead to 
+instability in our financial markets. Fraudsters have already 
+stolen billions of dollars in assets, leaving customers with no 
+recourse, and some platforms fail to prohibit abusive 
+activities like insider trading.
+    Last month, we saw the value of digital assets plummet, 
+wiping out more than $1 trillion in wealth, and one-third of 
+Americans who have traded digital assets earned less than 
+$60,000 a year.
+    New technologies are making it easier for Americans to buy 
+crypto with the press of a button. However, this ease of access 
+can backfire when their assets drop in value overnight.
+    Finally, we cannot overlook the outsized climate impacts of 
+Bitcoin and other digital assets. Astonishing amounts of energy 
+are currently being used to mine certain digital assets. When 
+those sources of energy are fossil fuels, digital assets 
+threaten our progress in fighting the climate crisis. The 
+carbon footprint of this technology must be addressed.
+    Digital assets may have been designed to democratize the 
+transfer of money, but that does not mean they should operate 
+without rules. History has shown us, time and again, that this 
+is a mistake.
+    The good news: regulation and innovation are not mutually 
+exclusive. If they were, our financial markets would not be the 
+strongest in the world. We cannot afford to wait until the next 
+crisis. Congress must work with regulators and the Biden 
+administration to design a framework that protects consumers 
+and our environment and keeps our markets fair, transparent, 
+and competitive.
+    The Commodity Futures Trading Commision (CFTC) will play a 
+key role in that effort. It currently regulates digital asset 
+derivatives and polices fraud in the spot market. I look 
+forward to hearing from Chairman Behnam about the work his 
+agency is doing in this area, the challenges it presents, and 
+what we can do to make these spot markets safer for everyone.
+    Now I would like to turn to my friend and Ranking Member, 
+Senator Boozman, for his opening remarks.
+
+ STATEMENT OF HON. SENATOR JOHN BOOZMAN, U.S. SENATOR FROM THE 
+                       STATE OF ARKANSAS
+
+    Senator Boozman. Well thank you very much, Madam Chair, it 
+is great to be here, and we want to thank the panel for 
+participating. I want all of you all to be extra special nice 
+to Senator Tuberville today. He is kind of grouchy. The coach 
+is grouchy. Arkansas got after the No. 1, Auburn, basketball 
+team yesterday in Fayetteville. I am happy, he is a little 
+grouchy, but he will get over it.
+    I am pleased to join Chairwoman Stabenow today as we 
+examine the ways in which digital assets and blockchain 
+technology are impacting financial markets. As this industry 
+continues to grow, questions remain as to the proper role the 
+Federal Government and regulators should play in encouraging 
+further innovation in this space while ensuring market 
+integrity and customer protection.
+    Digital assets and blockchain technology have already, and 
+will continue to, change the way global markets function. 
+Currently, digital asset spot or cash markets are subject to a 
+patchwork of regulations at the State and the Federal level. It 
+is, therefore, critically important we think carefully about 
+how we move forward in this area.
+    Last month I was pleased to join Chairwoman Stabenow along 
+with both the Chairman and Ranking Member of the House 
+Agriculture Committee in sending a letter to Chairman Behnam. 
+That letter inquired about the scope and the size of digital 
+asset markets and whether the CFTC is currently working with 
+other Federal financial regulators to both support and police 
+this growing financial ecosystem.
+    Yes, it is true--bicameral, bipartisan collaboration can 
+still exist, and we are demonstrating that at the Agriculture 
+Committees, despite what else may be going on in Washington. 
+This must be the way we address issues relating to these 
+markets going forward, because they are complicated and they 
+touch so many of us, whether we appreciate it or not.
+    I hope today's hearing provides an opportunity for both 
+Chairman Behnam and our esteemed industry stakeholders, that 
+are present with us, to weigh in on the questions we posed in 
+our letter. I also believe today's hearing is important because 
+it begins addressing the growing calls for Congress and 
+regulators to work together to provide market participants 
+certainty over which digital assets are securities versus 
+commodities.
+    Further, we need to assess whether expanding the CFTC's 
+regulatory footprint to overseeing digital asset commodity spot 
+markets is possible or prudent. I am confident the CFTC can 
+rise to the challenge to be the right fit for an expanded role 
+in digital asset spot markets. However, it is imperative that 
+as Congress weighs legislative options we make certain to 
+include exchanges, consumer protection advocates, and other 
+market participants in the discussion to ensure that the rules 
+and regulations work for all stakeholders.
+    The digital asset market has grown to nearly a $2 trillion 
+global market. That is a staggering number and one which 
+demands our careful consideration. It is unquestionable that 
+digital assets will continue to play an important role in the 
+global economy for years and decades to come.
+    In closing, I believe it is imperative that both Congress 
+and regulators alike work with the industry and academics to 
+further educate ourselves about these markets. As we develop 
+laws and regulations establishing guardrails and rules of the 
+road for market participants, we do so in a transparent and 
+clear manner so everyone knows what those rules are.
+    Thank you, Madam Chair. I look forward to today's 
+discussion, and with that I yield back.
+    Chairwoman Stabenow. Well thank you very much, and welcome 
+back Chairman Behnam, and congratulations on your unanimous 
+Senate confirmation. You are no stranger to the Agriculture 
+Committee, as we all know. Chairman Behnam has extensive 
+experience with financial and agricultural markets. During his 
+tenure as a CFTC chair and commissioner he has been in the 
+forefront of issues critical to global market stability.
+    Chairman Behnam was one of the first financial regulators 
+to ring the alarm on the climate crisis. He has created a 
+dedicated climate unit at the agency, focused on addressing the 
+significant risks climate change poses to the financial system.
+    The CFTC also has significant experience regulating digital 
+asset derivatives and prosecuting fraud and abuse in digital 
+asset markets. Given the increasing size and scope of the 
+market for digital assets, many of which are commodities, we 
+are looking to the CFTC to advise us on how to best protect 
+consumers and markets.
+    I look forward to getting your perspective, Mr. Chairman, 
+on the benefits and risks prevented by these emerging 
+technologies and the role of the Commission in regulating this 
+market.
+    I will turn it over to you for opening comments and then we 
+will look forward to questions. Mr. Chairman.
+
+   STATEMENT OF THE HON. ROSTIN BEHNAM, CHAIRMAN, COMMODITY 
+           FUTURES TRADING COMMISSION, WASHINGTON, DC
+
+    Mr. Behnam. Thank you, Chairwoman Stabenow. Good morning to 
+both you, Chairwoman Stabenow, Ranking Member Boozman, and 
+members of the Committee. I am honored to appear before you 
+today for the first time as Chairman of the Commodity Futures 
+Trading Commission. I appreciate the opportunity to share my 
+views on digital assets and look forward to working with this 
+Committee as we collectively address the many issues related to 
+this emerging technology.
+    For over a century, the derivatives markets have played an 
+integral role in the U.S. economy, facilitating risk management 
+and price discovery and contributing to financial stability and 
+predictability of prices that impact the daily lives of all 
+Americans.
+    As part of the CFTC's role in ensuring the integrity of 
+derivatives markets, the agency understands a great deal about 
+underlying reference cash markets, where producers, including 
+farmers and ranchers, manufacturers, institutional investors 
+directly exchange agricultural commodities, energy products, 
+previous metals, and even digital assets.
+    While the CFTC does not have direct statutory authority to 
+regulate cash markets, it does have fraud and manipulation 
+authority. Accordingly, when the CFTC becomes aware of 
+potential fraud or manipulation in an underlying market, either 
+through regular oversight or surveillance programs, or through 
+other means such as a whistleblower tip or referral, we address 
+the misconduct through our enforcement authority.
+    This is not to diminish the fact that many cash commodity 
+markets benefit from Federal oversight. However, the digital 
+asset market, which at present is most directly supervised 
+through State money transmitter licenses, is unique and 
+presents many novel issues for the CFTC, given our limited 
+authority to police these volatile markets.
+    In fact, there is no one regulator, either State or 
+Federal, with sufficient visibility into digital asset 
+commodity trading activity to fully police conflicts of 
+interest and deceptive trading practices that impact retail 
+investors.
+    Although the CFTC's core responsibility is regulating the 
+commodity derivatives market, there are several unique elements 
+of the digital asset commodity cash market that distinguish it 
+from other cash commodity markets, suggesting it would benefit 
+greatly from more CFTC oversight.
+    A few examples. Unlike most cash commodity markets, the 
+cash market for digital assets is currently characterized by a 
+high number of retail investors, mostly engaged in price 
+speculation. Many investors regularly take on high levels of 
+leverage when trading, leading to heightened price volatility, 
+often exacerbated by cascading liquidations during price 
+downturns.
+    Most investors in the cash market entrust their digital 
+assets to the platforms upon which they trade, failing to 
+differentiate this type of custody agreement from that offered 
+by traditional regulated banking industry participants.
+    I believe these unique characteristics, combined with the 
+growing size and customer, operational, and potential future 
+financial stability risks associated with the cash market 
+necessitate a proactive Federal regulatory approach to ensure 
+that the standards that American investors have come to expect 
+from our financial markets are equally present in digital 
+markets.
+    If, in fact, the future of global economy holds a place for 
+digital assets, tokenization, blockchain technology, 
+decentralized finance, and other elements of the fintech 
+ecosystem, then the need to uphold American leadership and 
+stewardship of this technology is clear.
+    The digital asset industry in the U.S. does not fall under 
+a single, comprehensive regulatory regime. Instead, the CFTC 
+and other Federal agencies and State regulators have all been 
+responsible for collectively establishing the existing and very 
+incomplete regulatory environment.
+    Since 2014, the CFTC has been aggressive in using its 
+limited fraud and manipulation authority in the digital asset 
+space. The CFTC has brought nearly 50 enforcement actions, 
+overseen an increasing number of registrants offering digital 
+asset-based derivatives products, and established dedicated 
+internal functions to stay abreast of the technical innovations 
+fueling this market.
+    However, many challenges remain, and the digital sector now 
+demands more and more of the CFTC's attention and time, which I 
+believe necessitates additional resources to adequately address 
+these issues and risks. The CFTC is well suited to play an 
+increasingly central role in overseeing the cash digital asset 
+commodity market. Fundamentally, the CFTC is a market regulator 
+that ensures market integrity and vibrancy aimed at supporting 
+financial stability while ensuring individual customer 
+protections through principles-based oversight of exchanges, 
+clearinghouses, data repositories, and market participants. We 
+now stand ready to do the same within the digital asset 
+commodity market.
+    As Chairman, I will ensure that the CFTC continues to use 
+our enforcement authority to its fullest extent in the digital 
+asset commodity space to protect customers from fraud and 
+manipulation. The nature of this innovation results in impacts 
+to more than just financial markets. We are seeing several 
+government agencies consider how this technology impacts 
+Federal policy related to payments, custody, illicit activity, 
+national security, and a host of other issues.
+    Additionally, reports regarding energy usage resulting from 
+mining are staggering, oftentimes being compared to that of 
+entire countries. On this note, I believe any regulatory 
+response to digital assets must include measures to bring 
+additional transparency to the conduct that makes this 
+innovation possible. Internally, I have directed the CFTC's 
+Climate Risk Unit and LabCFTC to examine the climate 
+implications of digital assets.
+    Since its inception, the CFTC and its markets have been at 
+the forefront of innovation and technological development. We 
+have also been a forceful and disciplined cop on the beat. The 
+continued emergence of digital asset technology presents risks 
+and opportunities, and the CFTC stands ready to leverage its 
+expertise and experience to confront both.
+    Thank you for your time, and I look forward to answering 
+your questions.
+
+    [The prepared statement of Mr. Behnam can be found on page 
+44 in the appendix.]
+
+    Chairwoman Stabenow. Well thank you very much, Mr. 
+Chairman. We will begin five-minute rounds of questioning from 
+the Committee. I do believe we have folks that joining us, 
+members joining us virtually as well, and so we look forward to 
+everyone's questions.
+    Let me first thank you for your response to the letter that 
+we sent as Chairs and Ranking Members of the House and Senate 
+Agriculture Committees. I think it was important, as Senator 
+Boozman, indicated, this was a significant sign that we had all 
+four corners signing a letter to you and expressing interest in 
+having more discussion with you on what the role is for the 
+CFTC.
+    I would ask unanimous consent to enter your letter into the 
+record. So ordered, without objection.
+
+    [The letter can be found on page 132 in the appendix.]
+
+    Chairwoman Stabenow. In the letter I was struck by your 
+statement that it is hard to estimate how many U.S. and retail 
+participants are trading digital assets because the agency has 
+limited visibility into this market. I wonder if you could talk 
+more and describe the CFTC's ability to surveil the digital 
+asset spot market for fraud and manipulation, and what 
+implications this has right now for the agency.
+    Mr. Behnam. Thank you, Senator. You are absolutely right. 
+The authority is limited. It is limited to fraud and 
+manipulation. As I pointed out in my statement, this is a 
+product of the relationship between derivatives markets and 
+cash markets.
+    We have a number of exchange-traded derivatives on crypto 
+assets, on several registered CFTC exchanges, but the 
+visibility into the underlying market is limited, at most, and 
+we use our existing surveillance tools to work through some of 
+the futures products and see if we can see participants, 
+volumes, volatility.
+    In essence, this is an unregulated market. As I mentioned, 
+we rely on State money transmitter licenses. There is so much 
+that we are not able to see because of this limited authority. 
+I would point out the fact that the enforcement actions we 
+brought since going back to 2015, have largely relied on tips 
+and whistleblowers. In essence, we are relying on retail 
+customers who are defrauded through Ponzi schemes or pump-and-
+dump schemes to bring information to us.
+    We do not have the regular tools that we, as a market 
+regulator, have in terms of pre-trade transparency, post-trade 
+transparency, a concentrated order book, surveillance tools, 
+market intelligence. We do not have any of these very advanced 
+tools to monitor markets, so it is giving us a very, very 
+narrow lens into what is actually happening in the market. This 
+is why I think, you know, as you contemplate more regulatory 
+authority for the CFTC, bringing this market into the light, so 
+to speak, and more transparency will only allow us to see what 
+is going on underneath the hood.
+    Chairwoman Stabenow. I could not agree more. This is very 
+concerning to me, at the moment, the lack of transparency and 
+ability to see what is happening.
+    We are seeing an explosion, also, of advertisements 
+marketing crypto assets to retail investors, and it is getting 
+easier to buy and sell digital assets through apps on our 
+phones. I am concerned we are not doing enough to educate 
+people about the risks of trading crypto assets, particularly 
+under the scenario that you are describing, in terms of limited 
+oversight.
+    What should Congress consider in terms of customer 
+protections as these technologies reach more people?
+    Mr. Behnam. Thank you, Senator. I would say, you know, at 
+the onset, we are doing what we can with what we have, and in 
+terms of customer protections we are using our Office of 
+Customer Education to put out brochures and pamphlets and 
+mailings and alerts about some of the fraud and manipulation 
+that is occurring but also some of the risks that are involved 
+with digital assets.
+    More importantly, and to more directly answer your 
+question, the single best action that Congress can take to 
+address customer protections is bringing a regulatory structure 
+to this market. Not unlike any other market, whether it is 
+securities or derivatives, market structure tends to be pretty 
+singular in scope in the sense that, as I mentioned earlier in 
+your previous question, if we can embed pre-trade transparency, 
+post-trade transparency, which is reporting, having this 
+concentrated order book where we can see bids and offers, and 
+then having rules of the road for execution, for custody, for 
+clearing, and for settlement, these are the main foundations 
+and pillars of a well-functioning, transparent market.
+    In essence, the repercussions and the consequences of this 
+are customer protections, is visibility, is information flow, 
+so investors know how they are allocating their capital, and 
+they can feel confident that as a regulator we have enforcement 
+authority and the rule of law to back us up if there is 
+continued fraud or manipulation or anti-competitive behavior.
+    Chairwoman Stabenow. Thank you. Listening to, and from a 
+consumer standpoint, as well as everyone involved in the market 
+but from a consumer standpoint, looking at what needs to be 
+done to create the protections and so on, does the CFTC have 
+the resources necessary to take on an additional responsibility 
+with respect to the digital asset market?
+    Mr. Behnam. Senator, the short answer is no. I cannot 
+precisely put a number on it, but I have thought about this 
+quite a bit in the past few months. I think the best sort of 
+benchmark to think about is what the CFTC went through in the 
+past 10 years, after the financial crisis. As you know well, 
+this Committee gave authority to the CFTC to regulate the then 
+over-the-counter derivatives markets. We now have broad swaps 
+onto exchanges with a series of regulatory changes that have 
+brought, again pre-trade transparency and post-trade 
+transparency to the swaps market. Just looking at numbers, in 
+2011, our budget appropriation was about $200 million, and now 
+we are just slightly over $300 million. Depending on the size 
+of the registrant pool that we may get if you were to authorize 
+regulation of digital asset commodities, I would think, at a 
+minimum, that $100 million mark is probably a starting point to 
+look at, as a reference.
+    Chairwoman Stabenow. Thank you very much. Senator Boozman.
+    Senator Boozman. Thank you, Madam Chair. Chairman Behnam, 
+as you testified both today and during your confirmation 
+hearing, you indicated that if Congress so decided, the CFTC 
+would welcome expanded authority over digital asset spot 
+markets. Why are current State-based regulations inadequate, 
+and why do you believe the CFTC is uniquely positioned to 
+regulate the markets? Why you?
+    Mr. Behnam. Thanks, Senator Boozman. I will tell you, as a 
+former investigator at the Bureau of Securities in the New 
+Jersey Attorney General's Office I will be the biggest advocate 
+of State regulators within financial markets. They serve an 
+invaluable tool for customers at the State level, whether it is 
+customer protections, customer education, and certainly 
+enforcement.
+    From a market regulatory standpoint, from a market 
+oversight standpoint, I think it is very important that we have 
+as few regulators as possible, we have as little fragmentation 
+as possible, and single points of entry into the market. 
+Fragmentation will likely create price dislocations, will have 
+different sets of rule books, which could, in the end, create 
+risk for investors.
+    As we think about the role and the coordination between 
+State and Federal, I think there is a strong place for that. As 
+I said, States play a key role in financial market stability 
+and protecting customers. However, from a market standpoint, I 
+think it is important, given if, at a minimum, the national 
+scope of these markets but the international scope that we 
+have, single regulators at the Federal level, to be that single 
+point of entry for market oversight, for surveillance, and for 
+a level playing field so that everyone is playing from the same 
+rules.
+    Senator Boozman. Should the CFTC be given an expanded role 
+in regulating digital asset spot markets? How would you respond 
+to any concern that this might open the door to future mission 
+creep by the CFTC into traditional commodity spot markets, 
+which I do not think would be appropriate or welcomed by myself 
+or important ag stakeholders.
+    Mr. Behnam. Thank you, Senator. I unequivocally agree with 
+you. I do not mean to suggest at all that this should be the 
+start of the CFTC's role in a larger pool of cash commodity 
+markets. As I said in my statement, many cash commodities, 
+including in the agricultural space and the energy space, have 
+existing Federal regulatory oversight, to some extent. This 
+particular market is so unique because of the retail-facing 
+element of it and the fact that there is no oversight 
+currently.
+    I think from a congressional standpoint, as we think about 
+this going forward, there is a way to legislatively limit the 
+expansive or expansion of authority for the CFTC and make very 
+clear that the direction you are giving us is very limited, 
+surgically limited to just digital commodity assets and no 
+other commodities.
+    Senator Boozman. Very good. Cybersecurity, particularly the 
+safety of customer assets, continues to play a large role in 
+conversations focusing on the digital asset markets. If the 
+CFTC is given more regulatory authority over spot markets, what 
+cybersecurity and customer protection measures could help 
+combat vulnerabilities we have observed in this space?
+    Mr. Behnam. Thank you, Senator. One of the things that I 
+have been most impressed about, as both commissioner and 
+chairman, is the role that we play collectively within the 
+whole government in terms of cyber risks. We certainly take 
+cues from agencies across the Federal Government, most notably 
+DHS. We work together. We have a lot of partnerships to make 
+sure that we are using the same tools and resources to the 
+extent that we can root out cyberthreats. I do not think this 
+would be generally different if you were to give us more 
+authority over the digital asset space in terms of our 
+coordinating effort.
+    One of the things that does concern me in terms of our 
+current authority, as you pointed out there just seems to be 
+frequent thefts, cyberattacks that are causing coins moving 
+around in significant numbers. We would have to think about the 
+relationship of the CFTC to third parties and the relationship 
+between the registrant and whoever it relates to or enters into 
+a contract with. This is synonymous to a third-party vendor.
+    I think as we think about potential legislation, ensuring 
+that we have the right amount of authority to look through just 
+the direct registrant and not necessarily only skim what cyber 
+protections or what principles that registrant might be using. 
+Those are risks that I think we would have to be very cognizant 
+of addressing, given the nature of the technology and its 
+international nature as well.
+    Senator Boozman. Thank you. Thank you, Madam Chair.
+    Chairwoman Stabenow. Thank you very much. We will now turn 
+to Senator Tuberville.
+    Senator Tuberville. Thank you very much. Chairman, good to 
+see you back. Congratulations on your confirmation.
+    I appreciate your reply to my letter on the need to include 
+State securities regulators in the digital asset working group. 
+Thank you very much for that. I also appreciate you taking time 
+to meet with the leadership of the Alabama Securities 
+Commission, which I understand you will be doing later this 
+month. As you know, State regulators have valuable insights to 
+offer.
+    A question. We have got to make sure the dollar remains the 
+world's reserve currency. Do we need to develop a digital 
+dollar to do that?
+    Mr. Behnam. Senator, I would not want to jump to 
+conclusions about whether or not that is the solution to 
+maintaining the dollar as the reserve currency, but I do think 
+what I am hearing from my colleagues across the government, 
+most notably the Fed, the Federal Reserve, is that we are in a 
+process of thinking about how we would implement this.
+    This is, as you would imagine, no simple task, but as with 
+all of this technology we will need to be very deliberate and 
+cautious as we integrate this technology into the traditional 
+financial system.
+    I certainly support the efforts that are being made. I 
+think the approach and strategy is correct, but I do not think 
+we should rush to anything at this time. Depending on where 
+this technology takes us--and I said this in my comment--we 
+have to be prepared for it being a part of our larger macro and 
+micro economy, and if it is, in fact, going to be that way, in 
+five years, 10 years, or longer, we need to prepare now.
+    I think the steps that my colleagues are taking over at the 
+Federal Reserve and other agencies are appropriate, but I would 
+just be mindful of the speed with which we do it and not 
+getting into a race where we feel we have to catch up with 
+other countries. As we have done in the past, we have been 
+deliberate, and I think that has proven to be a successful 
+strategy for the United States.
+    Senator Tuberville. Thank you. You know, I am a believer 
+that every lawful business ought to have access to banking 
+services, and I think you are too, regardless of the type of 
+business they are in. For example, no oil or gas company or 
+firearms manufacturer should be discriminated against when they 
+are trying to open a bank account or get a loan. I have heard 
+reports of regulators pressuring banks to cutoff financial 
+services to legitimate crypto businesses. Are you aware of 
+this, and would you agree that it is wrong if it is happening?
+    Mr. Behnam. Senator, the short answer is I am not aware of 
+this. However, I agree with you that we should not be cutting 
+off certain services from the traditional banking system. 
+However, I firmly believe this. I think the record is pretty 
+clear that I think we need to address the climate crisis as 
+soon as possible, and that is a collective action problem.
+    As much as we should not cutoff companies or institutions 
+or individuals from traditional banking services, I think we 
+need to make individuals aware of what is coming and what we 
+need to do to manage the transition risk of moving away from 
+carbon-intensive energy sources.
+    Senator Tuberville. How could foreign adversaries like 
+China, Iran, and Russia use crypto-related cybercrimes to harm 
+our citizens and our national interest, and what is your agency 
+doing to address these threats?
+    Mr. Behnam. Senator, this is a problem. I mean, this is the 
+limited scope of visibility we have into the market. I would 
+just point to, you may be aware but the Justice Department just 
+seized $3.5 billion of Bitcoin yesterday from a hack that 
+occurred in 2016. I think the lessons from that announcement 
+from the Justice Department are that this technology is 
+traceable, that we can work through the web of sources and the 
+movement of these funds, but it takes time, and that the 
+technology is going to be incrementally improving over the next 
+few years.
+    That said, as we face adversaries across the globe who will 
+use this technology to move money around and to take action 
+that will negatively affect the United States, I firmly believe 
+that bringing transparency through a regulatory structure to 
+financial markets will only be a positive step in shedding more 
+light and giving our prosecutors, whether it is at Justice 
+Department or at the State level, more access to information of 
+individuals, institutions, and the flow of this digital 
+commodity so that we can root out fraud and bad actors and find 
+these individuals who are trying to do harm to the United 
+States.
+    Senator Tuberville. Yes. I understand the White House is 
+working on a digital asset Executive Order. Have you or your 
+staff been part of these discussions?
+    Mr. Behnam. They have been a part of the discussions and 
+they have been working with the White House quite frequently 
+over the past several months. I am not aware of the exact 
+timing of the issuance of a potential Executive order, but to 
+answer your question, we have been participating and working 
+with the White House.
+    Senator Tuberville. Thank you. Thank you, Madam Chair.
+    Chairwoman Stabenow. Thank you very much. I believe we have 
+Senator Smith with us virtually.
+    Senator Smith.
+    [Pause.]
+    Chairwoman Stabenow. We shall see. Senator Smith, are you 
+with us? Speaking of technology, digital technology.
+    [Pause.]
+    Chairwoman Stabenow. We will come back to her, and at this 
+point we will go to Senator Marshall.
+    Senator Marshall. Well thank you, Madam Chair. This morning 
+I am sitting here between an Auburn Tiger and an Arkansas 
+Razorback and I just wanted to congratulate both those teams 
+and remember why we celebrate the thrill of victory and the 
+agony of defeat, and what a great blessing it is to have 
+college sports. Congratulations to both of those teams. A great 
+game last night.
+    Madam Chair, if I could I just wanted to publicly request 
+that we get Secretary Vilsack in front of us sometime. I am 
+certainly concerned. I think we have some questions that 
+Americans want to ask him about. Back home, the price of 
+fertilizer is certainly an issue, and we would like to ask 
+Secretary Vilsack's opinion on that and how is that going to 
+impact the SNAP budget. The 30x30 program back home certainly 
+has farmers alarmed, so we would love to have him in front of 
+us sometime.
+    Chairwoman Stabenow. Happy to offer an invitation. Senator 
+Boozman and I will work on that.
+    Senator Marshall. Thank you so much. Chairman, welcome back 
+to the Committee as well.
+    As I have been allowed to travel and meet some folks in 
+foreign countries and leadership and visit our embassies every 
+one of those visits, at some point in time, talks about their 
+concerns about cryptocurrencies, specifically how it is being 
+used in human trafficking and drug running as well. That is the 
+bad news.
+    The good news is we have been meeting with companies like 
+Coinbase, who were purchasing CFTC-regulated exchanges to 
+voluntarily be regulated. A little bit of background on the 
+banking industry. I always wonder, well who is our customer? 
+Specifically, what would the CFTC's role be in helping regulate 
+a company like Coinbase, or, you know, how do we ensure that we 
+know who our customers are right now and what does that look 
+like going forward to you?
+    Mr. Behnam. Thank you, Senator Marshall. You know, with 
+respect to that particular acquisition--and that has not been 
+the only one in the past few years--my understanding is that 
+they will use that entity that has a CFTC license to trade 
+derivatives. I do not know if that will evolve or change, but 
+we do have a number of onboarding processes and requirements in 
+our law and rules that we implemented off of the law to ensure 
+that there are appropriate anti-money laundering, know-your-
+customer requirements, proper capital requirements, and that as 
+a general matter--and these have developed over decades, as you 
+can imagine--that know your customer both from an individual 
+retailer, institutional investor standpoint, to a broker or an 
+FCM, to the exchanges, the clearinghouses, and the data 
+repositories.
+    I am confident we have a very robust system in place. We 
+work closely with the exchanges and our SROs, most notably the 
+National Futures Association, to ensure that we are doing our 
+best to identify individuals who may be bad actors or 
+participating in illicit activity.
+    Senator Marshall. Would you agree with me, though, if they 
+are not in an exchange of some sort with monitoring that they 
+do not know who their customer is right now?
+    Mr. Behnam. Absolutely.
+    Senator Marshall. Do you agree with the folks who are 
+telling me that there is a significant concern that this is 
+being used for human trafficking and drug smuggling?
+    Mr. Behnam. I do agree.
+    Senator Marshall. What would the CFTC's role--what would 
+you do to put meat on the bones to make sure that we are able 
+to control that? What could you do if you were given more 
+authority?
+    Mr. Behnam. Senator, I think it is literally bringing this 
+market into the regulatory fold, and it is not unlike what I 
+was saying earlier to Senator Tuberville about the Justice 
+Department case yesterday. If this ecosystem exists out of the 
+regulatory fold, all of these steps, all of these processes 
+that we have built over decades to protect investors, protect 
+individuals from illicit activity are unregulated.
+    Now to some extent these institutions do these things, but 
+it is not enough. I think we need the full power of the Federal 
+Government, the rule of law and our enforcement authority to 
+send a message to both deter this activity but root it out if 
+it occurs.
+    I do not think it would require anything new or different 
+than what we do with respect to our regulated entities. We just 
+need to bring it into the regulatory fold.
+    Senator Marshall. Certainly my farmers and ranchers back 
+home are not my grandparents' farm. They use CFTC markets to 
+hedge bets, as a risk management tool. That is the best way to 
+describe it, a risk management tool. Do you see an opportunity 
+for these cryptocurrencies to offer them another risk 
+management tool?
+    Mr. Behnam. You know, some of the coins are stores of 
+value. You know, Bitcoin has been most notably compared to gold 
+or as a store of value. We have seen a direct correlation 
+between the price movements of Bitcoin and traditional assets 
+as opposed to a safe haven asset.
+    I do not want to get into too many details there, but I 
+could see, in the future, depending on the development of the 
+coins, that some of these tools could be used as a risk 
+management tool against certain movements in currency or other 
+commodities. We would need a lot more time to see sort of the 
+movement of the coins relative to other commodities or 
+currencies to see how it might be a risk management tool.
+    Senator Marshall. Last question. Bitcoin smells like a 
+commodity, it looks like a commodity, it tastes like a 
+commodity. Is Bitcoin a commodity?
+    Mr. Behnam. Per an Eastern District of New York Federal 
+District Court ruling in 2018, it is a commodity.
+    Senator Marshall. Thank you. I yield back.
+    Chairwoman Stabenow. Thank you very much. I will now turn 
+to Senator Gillibrand, who I believe is with us virtually, and 
+then we have Senator Hoeven who is with us virtually, and then 
+Senator Klobuchar is here.
+    Senator Gillibrand.
+    Senator Gillibrand. Hi, Madam Chairwoman. Mr. Behnam, I 
+understand that cryptocurrency exchange markets differ from 
+many commodity markets that the CFTC oversees, in that unlike 
+commodity markets for grain and oil, for example, 
+cryptocurrency exchange markets often welcome individual retail 
+investors.
+    I am glad to see that these new opportunities will be open 
+to everybody and not just institutional investors. Given this 
+fact that many everyday Americans will become involved in this 
+emerging financial market, I want cybersecurity to remain a 
+priority as we promulgate regulations. Cyberattacks have become 
+a major threat throughout the world and could result in a 
+massive swing in valuation, lost intellectual property, or 
+significant market disruptions through hacks or other targeted 
+cyberattacks.
+    How do you view the Commission's current ability to 
+effectively oversee the marketplace and prevent cyberattacks?
+    Mr. Behnam. Thank you, Senator. We simply do not have 
+enough authority to oversee the cash commodity digital asset 
+marketplace. I think both regulators and customers would 
+benefit from a traditional market structure, one that we have 
+implemented on the derivatives markets, and that is not 
+dissimilar to what we see on the securities side. More 
+importantly, the marketplace, the institutions, the 
+technologists would benefit from it too.
+    I do think customers would benefit greatly, as I have said 
+before, transparency would be brought into the marketplace, and 
+individuals who wanted to allocate capital toward digital 
+assets would benefit from the security, the safety, and the 
+comfort of knowing that these are regulated markets, with the 
+rule of law and enforcement authority behind it so that if 
+there are bad actors, which there always are, those individuals 
+or institutions will be held accountable for their actions.
+    In terms of----
+    Senator Gillibrand. I hear you saying--excuse me--I hear 
+you saying that you do not have the authority to do this. If 
+you did have the authority can you elaborate on whether CFTC 
+has the ability to manage and guard proprietary information, 
+and what steps, if any, can we in government take to prevent 
+cyberattacks in this sector of the economy if you did have the 
+authority?
+    Mr. Behnam. Senator, it is no different than what we do 
+right now with respect to derivatives markets. We take private 
+information and confidential information very carefully. We 
+handle it very carefully. It is a critical element of our 
+surveillance tools as we overlook a very broad market. We 
+interact with market participants and registrants regularly to 
+ensure that the steps that we are taking to protect 
+information, whether it is PII or data or market information, 
+is held confidential and is held in a safe place.
+    I do think that this technology poses new challenges and 
+new risks, given the nature of it vis-a-vis traditional 
+markets, but these would be questions that I would certainly 
+welcome the opportunity to talk to you about so that we could 
+see a reduction, hopefully, in these cyberattacks and thefts 
+which, unfortunately, happen all too often.
+    We need to bring this technology and this market into a 
+regulatory fold, at a minimum to start reducing some of these 
+risks that exist and then take progressive steps forward to 
+ensure that we are if not ahead of the game, at least moving 
+with the marketplace, which, as you know, moves very quickly.
+    Senator Gillibrand. Yes, and I appreciate your answers, but 
+you are not answering the fundamental question of whether you 
+have the ability to guard proprietary information and deal with 
+cyberattacks in this sector, given the differences between your 
+current regulatory framework. It is a very specific question. 
+Do you have the ability and the competency to manage the market 
+for proprietary information but also prevent cyberattacks in 
+the sector? If you answer is you do not know, that is fine. I 
+just want to know, do you have the technical expertise and 
+ability to guard cyber markets?
+    I sit on the Intelligence Committee and the Armed Services 
+Committee. Being able to subvert and prevent cyberattacks is 
+difficult for every industry. As you are a critical 
+infrastructure I am really pushing down on do you have the 
+technical capability to do this if we give you the authority?
+    Mr. Behnam. The answer is no, we do not have it, because 
+this is----
+    Senator Gillibrand. That is what I wanted to know. Thank 
+you.
+    Okay. Given how resource intensive the cryptocurrency 
+mining process is, I am particularly interested in promulgating 
+regulations that are consistent with our goals to stem climate 
+change. There is a company in my home State that recently 
+reopened a power plant. That plant used to meet demand surges 
+but this company has connected it to a natural gas pipeline and 
+is planning to greatly expand its historical operating 
+capacity, using it to generate electricity for their 
+cryptocurrency mining operation.
+    How can we make sure that the correct incentives or 
+regulations are in place so we can simultaneously support the 
+growth of this new technology without sacrificing the important 
+work we are doing to stem climate change?
+    Mr. Behnam. As I mentioned in my statement, I have asked 
+the Climate Risk Unit, which is a group of staff that I formed 
+last year, to look into this issue and see if we can come up 
+with policy directives or ideas for you to consider as well as 
+the agency. I have also asked staff within LabCFTC, which has 
+been our sort of innovative hub for the past few years, to 
+think about this issue. We have been engaging with stakeholders 
+and asking them to bring us ideas.
+    My gut reaction, without having a conclusive set of ideas 
+for you, but I look forward to bringing those to you, is that 
+something that has served markets well are disclosures, 
+disclosures in both the derivatives markets and securities 
+markets and all other financial markets. If we can continue to 
+raise awareness about this very staggering issue and let end 
+users and consumers know what is happening in the 
+disproportionate demand and need for energy as it relates to 
+mining Bitcoin or other coins, those bits of information, that 
+type of information, that disclosure will hopefully create 
+incentives to move market participants and stakeholders away 
+from that method of mining and toward either renewable energy 
+sources, and most importantly, away from carbon-intensive 
+energy sources.
+    Senator Gillibrand. Thank you so much. Thank you, Madam 
+Chairwoman.
+    Chairwoman Stabenow. Thank you very much. Senator Hoeven I 
+believe is with us digitally.
+    Senator Hoeven. Thank you, Madam Chair, and Chairman 
+Behnam, would you characterize cryptocurrency as a commodity, a 
+currency, or a security, and why?
+    Mr. Behnam. Senator, there are thousands, if not hundreds 
+of thousands of digital assets and cryptocurrencies so I would 
+not want to identify them collectively. There are certainly a 
+large number of coins that are commodities, including two of 
+the biggest which are Bitcoin and Ether, but given the vast 
+number there is no doubt in my mind they are also security 
+coins. This is a big, big issue and one that I think we 
+collectively should work on as we think about the regulatory 
+environment, if at all, is to draw very clear, distinct rules 
+of the road of what might constitute a commodity versus what 
+might constitute a security.
+    Senator Hoeven. Should there be a lead agency for 
+regulating cryptocurrency?
+    Mr. Behnam. From a markets perspective I do not think this 
+issue that we are facing is much different than what the CFTC 
+and most notably the SEC have faced for the past 40 to 50 
+years. There are futures that are regulated by the SEC, a bulk 
+obviously being regulated by the CFTC, the swaps market, which 
+this Committee knows well, when Dodd-Frank was passed we had to 
+create a line between traditional swaps and security-based 
+swaps.
+    We have a great relationship. I do not think this is any 
+different, it would require a lot of hard thinking, novel 
+questions, legal implications. I certainly think we could end 
+up in a place where both regulators, both agencies have 
+jurisdiction over cash markets, us, the CFTC, having it over 
+commodities, the SEC having jurisdiction over securities.
+    Senator Hoeven. CFTC, SEC, Treasury should all be 
+regulating cryptocurrency in different ways, as they do in 
+other financial markets.
+    Mr. Behnam. Well, so from a markets perspective the only 
+market regulators we have within the Federal Government are the 
+Commodity Futures Trading Commission and the Securities and 
+Exchange Commission. I would very clearly say those would be 
+the only two market regulators over digital asset markets. 
+Naturally, given the vast number of issues, whether it is 
+illicit activity, national security issues, trade, and any 
+number of issues that will emerge if this technology continues 
+to take root will require an all-hands-on-deck effort by the 
+government, because it implicates expertise from different 
+agencies.
+    Senator Hoeven. What should Congress be doing right now in 
+terms of legislation to help make sure that the right 
+regulatory oversight structure is in place as this industry 
+develops?
+    Mr. Behnam. Senator, given our limited authority, which I 
+have mentioned before is very narrow to fraud and manipulation 
+in cash markets, my recommendation to you and your colleagues 
+is that we need authorization and a regulatory structure over 
+cash digital assets. That will not be structurally much 
+different than the current markets that we oversee.
+    There will obviously, like I said earlier, be novel issues 
+and questions we have to ask around custody and settlement, 
+given the digital nature of these assets. In terms of general 
+market structure we need to embed core principles like pre-
+trade transparency, centralized and concentrated order books, 
+post-trade transparency, and clear, consistent rules around 
+custody, settlement, clearing, and other elements of the 
+trading process.
+    Senator Hoeven. Given the newness and the complexity of 
+cryptocurrency, is there an understanding in terms of how that 
+should be done and what it should entail?
+    Mr. Behnam. I think there is a general understanding, and 
+this goes to my previous answer, and I say this with a bit of 
+caution, but markets are markets, and what we have observed, to 
+the extent that we can, is that these assets, regardless of the 
+fact that they are so unique from traditional derivatives or 
+securities, they function and trade just like any other asset 
+would on a marketplace.
+    I do think the decades of experience we have within the 
+United States going back well over 100 years will inform us 
+nicely in terms of what market structure we need to start with, 
+in terms of what the framework would look like. However, time 
+will pressure us to force all of us, collectively, to ask very 
+difficult questions and novel questions about the technology, 
+about the traceability, about the sourcing that will go most 
+notably to custody issues but also what exactly are we 
+identifying as a reportable transaction, what information do we 
+need, and ensuring that it is similar and consistent globally, 
+above all else. These are questions that I am welcome to ask 
+and discuss with you.
+    Senator Hoeven. I note my time here. You think that this is 
+going to continue to grow and be a very pervasive source of 
+executing financial transactions?
+    Mr. Behnam. Senator, I would be hard pressed to say no to 
+that question. I am very cautious in what I say about what the 
+future may hold. As the Chairman of the CFTC I do think my 
+responsibility is to assume that it will continue to take root 
+and that this technology will continue to emerge and wind 
+itself into traditional finance. If we do not approach the 
+technology that way we run the risk of stability and safety and 
+soundness issues, even in a few years, let alone 10 or 20 or 30 
+years.
+    I think we have to work under the assumption that it could 
+and it will, and whether or not it does, whether it is parts or 
+the whole sort of concept of digital assets, is irrelevant. I 
+think the important thing is to focus on the assumption that it 
+does and start to build the building blocks of a regulatory 
+structure now so that we do not run into continued problems and 
+risks, whether it is cyber, theft, illicit activity, or 
+financial stability risks in the future.
+    Chairwoman Stabenow. Thank you very much. Thank you, 
+Senator Hoeven.
+    Senator Hoeven. Thank you, Madam Chairwoman.
+    Chairwoman Stabenow. Senator Klobuchar.
+    Senator Klobuchar. Well thank you very much, Chairman 
+Stabenow. Thank you, Senator Boozman, for having this important 
+hearing. Thank you, Mr. Chairman. You know what they say in the 
+Senate--everyone has said it but I have not. I am going to ask 
+you a few followup questions that I heard my colleagues, and I 
+appreciate your answers.
+    As you noted, there is no one regulator at either the State 
+or the Federal level with sufficient visibility and authority 
+into digital asset trading to fully go after some of the 
+conflicts or deceptive trade practices impacting retail 
+customers. Can you speak to the existing gaps between the CFTC 
+and the SEC in the regulation, and do you have recommendations 
+how to bridge that? I know you just gave some recs to Senator 
+Hoeven, but that particular issue. The final thing is, gaps, 
+recs, and do you think the CFTC is well suited to assume a 
+larger role over spot markets for digital assets, and what 
+authorities do you need to do it?
+    Mr. Behnam. Thanks, Senator Klobuchar. In terms of gaps, 
+the most noticeable gap is clarity around what constitutes a 
+security and what constitutes a commodity. I think the 
+Securities and Exchange Commission has more authority than we 
+do certainly in terms of cash market regulation, but the 
+question in terms of defining what and which of these digital 
+assets are securities becomes the hardest question for both the 
+agency and also market participants.
+    For us, the bigger challenge, obviously, in addition to 
+find out what and which coins constitute commodities is this 
+cash market regulation, which segues nicely into your second 
+question. We are a derivatives market regulator. We do not 
+regulate cash markets. We would need more congressional 
+authority to regulate cash markets. I firmly believe we are 
+well suited to do this. We have a long history of looking into, 
+examining, and working with the digital asset marketplace. At 
+its core, we are a market regulator.
+    As I have said several times this morning, the core 
+principles of a market are similar across all assets, and we 
+are well suited. We have great expertise. We would certainly 
+buildup expertise to the extent we need it in certain places, 
+referencing Senator Gillibrand's question, but I do think we 
+are well suited to do it, and we are prepared as well.
+    Senator Klobuchar. Are there parallels between how Dodd-
+Frank established a split regime for swap instruments and the 
+need for regulation of digital assets today?
+    Mr. Behnam. Absolutely, and it is a perfect example and a 
+perfect analogy, because this was, you know, a point of 
+friction 12, 15 years ago, but we figured it out. Congress 
+helped us figure it out. You gave us clear directives, and the 
+two agencies did that over a number of years. I could say 
+pretty confidently that the market is well functioning and each 
+of the agencies have relative jurisdiction over different types 
+of swaps, and we can do the same thing here.
+    Senator Klobuchar. We know, and I know there have been 
+discussions about this, we have seen exponential growth arising 
+from a market capitalization in cryptocurrency from $1.6 
+billion in 2013 to nearly $2 trillion today. The popularity of 
+these assets has been attributed to their ability to diversify 
+investment portfolios. We know about hedge against risk.
+    With the growing popularity, as I mentioned, of spot market 
+trading, how does the CFTC go about disseminating information 
+to the general public about scams and things, and getting it 
+out there, because this is a brand-new frontier for many 
+people, and my past experience as a prosecutor I know when 
+there are brand-new frontiers the scammers are there.
+    Mr. Behnam. They are, and we are seeing the traditional 
+methods used, whether it Ponzi schemes, pump-and-dumps. I will 
+note that we even put out a notice earlier this week or late 
+last week about dating apps and scams happening through dating 
+apps. It is no different than what we have seen. They are just 
+using this new asset class as a tool to prey on vulnerable 
+individuals. We are using our Office of Customer Education and 
+Outreach to do as much as we can with what we have to let the 
+public know about the risks associated both with the assets but 
+also with the scams that are happening.
+    You know, as you would know as well as anyone, we have to 
+rely on tips and whistleblowers to bring some of these fraud 
+and manipulation cases, which is extremely helpful but it is so 
+limited. I fear that there is a well of fraud and manipulation 
+happening and individuals losing money that we are just not 
+aware of because this market is very opaque.
+    Senator Klobuchar. Thank you.
+    Chairwoman Stabenow. Thank you so much. I believe we have 
+Senator Booker with us virtually.
+    Senator Booker.
+    Senator Booker. Yes, you have me. Thank you very much. This 
+is a really exciting hearing. I want to thank our Chairwoman 
+for hosting it.
+    I actually believe there is some urgency that we act in 
+this space. I think that we can create a more sensible 
+regulatory framework. I have always been concerned about the 
+technology moving. The lack of government's ability to move at 
+the speed of technology undermines the ability for Americans to 
+apply this technology.
+    I came into the Senate on the Commerce Committee, and I 
+remember the FAA was regulating drones in such a horrible way 
+that other countries like France were using drones for 
+dangerous missions, from fixing poles and wires to doing mining 
+work, where we in the United States were still seeing death 
+rates that could have been avoided with technology but the FAA 
+was so overregulating this new technology. I said to the then 
+chairperson of the FAA that if you were around during the time 
+of Orville and Wilbur Wright we would have never gotten off the 
+ground.
+    This is one of those cases where we are already seeing some 
+of the hopeful, optimistic possibilities in cryptocurrency. It 
+has a democratizing of force. Minorities are overrepresented in 
+using that, and obviously it represents, with traditional 
+banking or underbanked traditional.
+    For me these intermediation possibilities, the 
+democratizing possibilities offer a lot of hope, but I do think 
+this Committee has a bit of some urgency to act in this space 
+and create some frameworks and guardrails to protect against 
+the things some of my colleagues have already brought up like 
+fraud.
+    I would like to ask the chairman right away, what makes you 
+hopeful and optimistic in this space, one, and then two, can 
+you State quite clear--because I believe you are, this agency 
+is--why is this the best agency to provide that needed 
+framework and the right regulation to allow this space to 
+potentially thrive and achieve that vision that you might have 
+about the possibilities of this area?
+    Mr. Behnam. Thank you, Senator Booker. Answering your first 
+question about my optimism or what the technology holds, I do 
+not view this any differently than the series of milestones we 
+have seen over the past 100 years in terms of technological 
+development, and this is creating a potential avenue for 
+quicker, better, more efficient access to capital and the 
+transfer of value between individuals at a peer-to-peer level.
+    We have to be very careful and cautious and deliberative as 
+we approach this technology, as you pointed out, both from a 
+regulatory standpoint but I think from a market standpoint. 
+There are shifts in terms of market structure and how folks 
+access capital and how they transfer capital that 
+disintermediate the guardrails that have been built up over 
+decades to protect customers, whether it is AML, money 
+laundering, or know-your-customer, and other very, very 
+beneficial attributes of our financial system and the 
+guardrails that have been built up over time.
+    I think this is naturally just the next steps. It provides 
+a lot of opportunity for our country to take a leading role, 
+but we have to be deliberate and cautious as we approach it, 
+and be patient so that we do it right and that we do not have 
+any unintended consequences.
+    Regarding your second question, you know, I will just lean 
+on the fact twofold is one, we are a market regulator. We have 
+been doing this for many, many years, and regardless of the 
+fact that we oversee derivatives assets we know market 
+structure. We know surveillance. We know enforcement. We know 
+the core components and foundations and pillars of what makes 
+markets work, what makes markets transparent, and most 
+importantly, what protects customer money. We will continue to 
+use that as the foundation to push forward on a potential 
+marketplace, a regulated marketplace, for this technology.
+    The second element of that question, or response to your 
+question, is we have been uniquely exposed to digital assets 
+for over five or six years, which does not seem like a lot of 
+time but relative to other agencies is actually quite long. It 
+is because of our role as a commodity regulator, because of the 
+emergence of regulated futures products that reference digital 
+assets, it is the creation of our LabCFTC many years, and then 
+as Senator Marshall mentioned earlier, it is what we are seeing 
+in the marketplace in incumbent digital asset companies 
+starting to purchase traditional CFTC entities or license 
+entities.
+    I think we are well positioned. We have a lot of 
+experience. We have great enforcement lawyers and surveillance 
+attorneys, market intelligence experts, and I think we are a 
+few steps ahead and ready to run with this if that is what this 
+Committee and Congress desires.
+    Senator Booker. Well, I appreciate those sage and wise 
+words from another bald New Jerseyan.
+    I do just want to say thank you again to the Chairwoman. I 
+do believe we really need to move quickly to control for some 
+of the worries that we have, but also to seize upon a 
+regulatory framework that will help this. As I said earlier, if 
+you just look at the demographics it is already having a bit of 
+a leveling field. This is an area where 16 percent of all 
+Americans are involved in crypto, and that is growing. Already 
+you see 18 percent of African Americans, 20 percent of Latinos, 
+you see the majority of crypto owners do not have college 
+degrees and they are engaging in this space.
+    I just think this is a time for us to act, act quickly, and 
+I am excited to do that in a bipartisan way, through this 
+Committee that I believe has real jurisdiction in this space.
+    Thank you, Chairwoman.
+    Chairwoman Stabenow. Well thank you, Senator Booker. We do 
+have a real bipartisan opportunity to do something I think is 
+important and urgent at this time. Thanks very much.
+    I am going to say thank you, Chairman Behnam, and I know we 
+have other members that will be submitting questions to you in 
+writing. As usual, there are multiple hearings going on today 
+at the same time, but much interest in working with you and 
+getting your thoughts on an area that needs a lot of 
+thoughtfulness and careful discussion about how to move 
+forward.
+    Thank you very much. I look forward to working with you.
+    I am going to call forward our next panel. We have four 
+witnesses who we are anxious to hear from. I am going to also 
+just indicate that, as usual, we are going to be running up 
+against some votes that are scheduled to start at 11:30, two 
+votes. We will just be flexible here on how we move forward.
+    As you come to sit down I am going to begin introductions, 
+in the interest of time.
+    I want to welcome the four members of our second panel. All 
+four of you are leaders and educators in the digital asset 
+marketplace, and we look forward to hearing from you about this 
+market, including the current regulatory landscape as we 
+consider what the future might look like, should look like.
+    First of all, Ms. Sandra Ro, CEO of the Global Blockchain 
+Business Council. With her experience in investment banking, 
+currency markets, and digital assets, Ms. Ro is a frequent 
+university guest lecturer and educates lawmakers, businesses, 
+and the media on blockchain technology. Ms. Ro is an appointee 
+to the New York State Digital Currency Task Force and serves on 
+various international advisory councils, including the World 
+Economic Forum's Digital Currencies Governance Consortium. 
+While at the CME Group she led the exchange's work on 
+developing a Bitcoin futures contract and filed CME's first 
+crypto derivatives patents.
+    Second, Mr. Sam Bankman-Fried is the Co-Founder and CEO of 
+FTX, one of the world's largest digital asset trading 
+platforms. He co-founded the company in 2019, and formed FTX.US 
+in 2020, to service U.S. customers. Its affiliate, FTX.US 
+Derivatives, is one of the first crypto-based exchanges to be 
+registered with the CFTC to offer digital asset derivatives.
+    Prior to his involvement in the digital asset space, Mr. 
+Bankman-Fried was a quantitative trader at Jane Street Capital.
+    Mr. Kevin Werbach is a professor at The Wharton School and 
+the Director of the Wharton Blockchain and Digital Asset 
+Project. He is the author of a book titled ``Blockchain and the 
+New Architecture of Trust.'' As an educator, he focuses on the 
+business, legal, and public policy implications in emerging 
+technologies, including digital assets.
+    Mr. Werbach participated in the development of technology 
+policy initiatives as part of the Obama Administration's 
+Presidential transition team, and he served as counsel for new 
+technology policy at the Federal Communications Commission.
+    Now I am going to turn to Ranking Member Boozman for our 
+fourth witness introduction.
+    Senator Boozman. Thank you, Madam Chair. It is a pleasure 
+to introduce Ms. Perianne Boring. Ms. Boring is the Founder and 
+Chief Executive Officer of the Chamber of Digital Commerce, the 
+world's largest trade association representing the blockchain 
+industry. The chamber's mission is to promote the acceptance 
+and use of digital assets and blockchain-based technologies. 
+Working with policymakers, regulatory agencies, and the 
+industry, the chamber advocates for a pro-growth environment 
+that fosters job creation, innovation, and investment.
+    Perianne was named one of America's Top 50 Women in Tech by 
+Forbes and one of the 10 Most Influential People in Blockchain 
+by CoinDesk. She appears regularly in the financial media to 
+share insights on digital asset and blockchain innovations and 
+is an active participant in public policy discussions.
+    Prior to forming the chamber, Perianne served as a 
+television anchor for an international finance program that ran 
+in more than 100 countries and reached over 650 million 
+viewers. She began her career as a legislative analyst in the 
+U.S. House of Representatives, advising on finance, economics, 
+tax, and health care policy.
+    Thank you again for joining us today.
+    Chairwoman Stabenow. Well thank you again to each of you. 
+You clearly have a tremendous amount of experience and 
+knowledge in this space. We will ask each of you to give five 
+minutes of opening testimony and then we will go to questions, 
+and we will start with Ms. Ro.
+
+    STATEMENT OF SANDRA RO, CHIEF EXECUTIVE OFFICER, GLOBAL 
+         BLOCKCHAIN BUSINESS COUNCIL-USA, POTTSTOWN, PA
+
+    Ms. Ro. Thank you. Thank you, Chair Stabenow, Ranking 
+Member Boozman, and members of the Committee. Thank you for 
+inviting me to testify.
+    My name is Sandra Ro, and I am the CEO of the Global 
+Blockchain Business Council, the leading not-for-profit 
+industry association for blockchain technology ecosystem, 
+representing nearly 400 institutional members.
+    I began my career as a financial engineer at Deutsche Bank 
+and Morgan Stanley. Subsequently, I led CME Group's 
+digitization team where we pioneered some of the earliest 
+regulated cryptocurrency products, for example, the CME Bitcoin 
+futures today on which U.S. Bitcoin ETFs trade.
+    At CME, my team worked together closely with the CFTC, and 
+these close relationships were critical to our ability to 
+innovate effectively and responsibly.
+    Today I will share three blockchain use cases that are 
+moving our society in a more secure, transparent, and equitable 
+direction. First, as requested by the Committee, I will start 
+with some basics.
+    The Bitcoin whitepaper, published in 2008, outlined a peer-
+to-peer electronic cash system using a consensus mechanism 
+known as Proof of Work. On the Bitcoin ledger, transactions are 
+arranged in consecutive blocks. Simply put, Proof of Work 
+requires members of a network, known as miners, to solve a 
+mathematical puzzle to secure the network. Once a miner solves 
+and confirms a transaction, it is assigned to a block. The 
+block is time-stamped and added linearly to the blockchain. For 
+this work, the miner that first solved the puzzle receives 
+compensation in the form of a block reward.
+    Since Bitcoin's creation, a variety of other consensus 
+mechanisms have been created, most popular among them something 
+called Proof of Stake. Proof of Stake is a consensus mechanism 
+where users offer their digital assets as collateral for a 
+chance to validate a transaction. It is estimated that the 
+energy required to participate in a Proof of Stake network is 
+roughly equivalent to the energy required to operate a home 
+computer.
+    Each consensus mechanism has benefits and drawbacks. 
+Regardless of the consensus mechanism, most blockchains share 
+the following attributes.
+    Blockchains help us move ``data as value'' in a secure, 
+lower-cost, peer-to-peer model. Blockchains necessitate to 
+collaboration. Blockchains facilitate a permanence of records, 
+which makes cooking the books or tapering with records 
+extremely difficult. Finally, blockchain transactions are 
+traceable. Most ledgers are pseudonymous, making it possible to 
+track the flow of funds.
+    What does this look like in practice? The First National 
+Bank of Omaha is working with a consortium of partners to 
+create Cattle ID, a system that uses blockchain to create 
+unique digital identifiers for cattle, and enables cattle 
+ranchers to add health and treatment records to each animal.
+    Another company, Circular, is tokenizing critical mineral 
+and metals to track their journey from mine to factory to 
+recycling. These materials are essential to the technology and 
+automotive industries. Enhanced tracking and tracing of these 
+materials could increase accountability and reduce the 
+exploitation of people and planet.
+    Finally, the InterWork Alliance, Microsoft, and others, are 
+working to create transparent and functional voluntary carbon 
+credit markets by creating common standards that are helping 
+markets reduce fraud, improve discovery, and create more 
+accurate calculations of carbon offsets and credits.
+    Harnessing this technology to solve real-world problems and 
+expand economic opportunities will be a generational effort. It 
+is not too late for the U.S. to lead.
+    I look forward to answering your questions today.
+
+    [The prepared statement of Ms. Ro can be found on page 49 
+in the appendix.]
+
+    Chairwoman Stabenow. Thank you very much. Next, Sam 
+Bankman-Fried. Welcome.
+
+STATEMENT OF SAMUEL BANKMAN-FRIED, FOUNDER AND CHIEF EXECUTIVE 
+                  OFFICER, FTX-US, CHICAGO, IL
+
+    Mr. Bankman-Fried. Thank you, Chair Stabenow, Ranking 
+Member Boozman, and members of the Committee. Thanks so much 
+for having me here today.
+    I am Sam Bankman-Fried, the CEO and Co-Founder of FTX. We 
+are a global digital asset exchange. We were founded in 2019, 
+and today we have roughly $15 billion of volume that trade 
+daily on the platform.
+    One of the big things that I want to point to in the 
+digital asset industry is the equitable access that it provides 
+to users, which is somewhat unique to this industry. 
+Traditionally, in order to get access to market data, you need 
+to pay millions or tens of millions of dollars per year, often 
+separately to each venue, such that only the largest and most 
+sophisticated trading firms are even allowed to see the order 
+book that they are sending their orders to. Intermediaries 
+obscure the data, obscure the transparency.
+    In the cryptocurrency industry and on FTX in particular, 
+all of our market data is 100 percent free for everyone. It is 
+available on our website for users, for regulators, for press, 
+and any other interested parties. We do not charge licensing 
+fees. We do not charge registration fees. We do not charge data 
+fees. It is all available for free.
+    In addition to that, in traditional market structures most 
+consumers do not have the same access to liquidity that the 
+most sophisticated investors do. While the largest trading 
+firms can go straight to an exchange, sending orders directly 
+into the best price matching engine, most consumers are forced 
+to go through many different intermediaries, each of which add 
+latency, increase fees, reduce transparency, reduce the 
+flexibility of the orders that they can send, and result in a 
+very different market structure and a less-favorable market 
+structure that the less sophisticated members are allowed to 
+access.
+    On FTX, and in general in the digital asset ecosystem, 
+everyone who is registered is allowed to send orders directly 
+to our exchange in the same way. Whether you are doing it 
+through our mobile app or website or our API, they all have the 
+same access directly to our matching engine, and every user, 
+from the consumer to the sophisticated trading firm, gets 
+equitable access to our liquidity.
+    Talking a little bit about what our U.S. business looks 
+like today, we have a spot or cash market that offers digital 
+asset commodity transactions, for instance, a Bitcoin versus 
+U.S. dollar spot marketplace. We also have a CFTC license 
+digital asset derivatives exchange, formerly LedgerX, now FTX 
+US Derivatives, which has numerous licenses from the CFTC to 
+offer futures and options on digital assets and follows the 
+same general model as the rest of our systems do, with 
+equitable access and free market data.
+    The spot business, as has been mentioned here earlier 
+today, is not chiefly overseen by a Federal markets regulator, 
+although the CFTC does have some amount of anti-fraud 
+investigative authority. It is instead overseen by a patchwork 
+of State money transmitter and money service business 
+organizations.
+    Looking at the regulatory landscape today for digital 
+assets, there are some holes, and one that I want to point to 
+in particular, which has been brought up earlier today, is 
+around spot commodity transactions. With commodity futures, the 
+CFTC unambiguously have regulatory oversight and authority. 
+With securities markets, the SEC clearly has authority.
+    With cash commodity markets, it is substantially less 
+clear, and those are the markets that spot Bitcoins trade on 
+today in the United States, without a clear Federal regulator. 
+This leads to all the standard risks with having not enough 
+Federal oversight, risks to consumers, potential systemic 
+risks, and a lack of clarity for the industry.
+    This has led to the State we are in today, where despite 
+the majority of the intellectual property for the digital asset 
+industry originating from the United States, 95 percent of 
+volume occurs offshore. The majority of assets are not 
+accessible at all from the United States. It would be great to 
+be able to move that liquidity, that business, back onshore, 
+and providing Federal oversight and clarity would be great for 
+that.
+    I think that the CFTC is in a very strong position to do 
+this. The CFTC has extensive experience regulating digital 
+asset markets through their cryptocurrency futures markets that 
+they list. They have extensive markets regulatory activity, 
+they understand the cash markets, and they have extensive 
+experience monitoring the cybersecurity of their registrants. 
+We, and other registrants, go through very extensive protocols 
+by them to ensure the safeguarding of assets. I would love to 
+see that jurisdiction expand to be able to provide Federal 
+oversight for the cash markets, similar to how they do for 
+derivatives markets today, both to provide consumer protection, 
+protecting systemic risks, and to provide a clear and 
+consistent framework for the industry to be able to bring much 
+of this back onshore.
+    Thanks, and I am excited to answer any questions that you 
+guys have for me today.
+
+    [The prepared statement of Mr. Bankman-Fried can be found 
+on page 58 in the appendix.]
+
+    Chairwoman Stabenow. Thank you very much. Ms. Boring, 
+welcome.
+
+   STATEMENT OF PERIANNE BORING, FOUNDER AND CHIEF EXECUTIVE 
+      OFFICER, CHAMBER OF DIGITAL COMMERCE, WASHINGTON, DC
+
+    Ms. Boring. Thank you for inviting me to participate in 
+today's hearing.
+    I first learned about Bitcoin right here when I was working 
+as a congressional staffer in 2011. After seeing the financial 
+crisis of 1908 rock my community, I left my home State of 
+Florida to work on public policy for a more sound and inclusive 
+financial and monetary system. I am convinced that this 
+technology is our best hope for achieving that.
+    Bitcoin, other digital assets, and blockchain technology 
+represent American values like democratization at its core. Its 
+distributed nature should be embraced, not feared. These 
+technologies will play a key role in the financial services 
+industry and will soon be considered critical infrastructure as 
+we move toward a digital economy. Many nations around the world 
+understand this, and they are competing to be leaders of 
+exponential technologies like blockchain. As we look across the 
+global stage, we see many nations, most notably the Communist 
+Party of China, who have made blockchain technology a top 
+national priority.
+    We find ourselves in a new space race. It is the cyber 
+space race of controlling the systems and the governance that 
+will power the digital economy, and I fear that we are so far 
+behind that we have not even acknowledged that there is a race 
+underway. As the world's largest economy, the stakes cannot be 
+higher.
+    With that said, our Nation has experienced these challenges 
+before, whether it was the space race or internet innovation, 
+and our experiences show us that we do best when we recognize 
+the private sector is our greatest strength. As the first and 
+the largest blockchain policy organization, we have over eight 
+years of experience in understanding the nuances and the 
+complexities of digital asset policy frameworks. It is from 
+this position that I urge the Committee to consider two key 
+issues: regulatory clarity and regulatory cohesion.
+    Digital asset innovators have been operating in an unclear 
+regulatory environment for far too long. In order for American 
+businesses to be able to compete on the global stage they need 
+to know what the rules of the road are.
+    Today our regulatory structure is fragmented. There are 
+regulators that police fraud and market integrity such as the 
+CFTC and the SEC. There are consumer protection regulators, 
+including the CFPB and the FTC. There are prudential and 
+monetary bank policy regulators, such as the Fed, the OCC, and 
+the FDIC. There is another category of regulators that consist 
+of financial policy and anti-crime orgs, including FinCEN and 
+the Department of Justice. Then, on top of all of this, there 
+are a number of State-level regulators that have a purview over 
+digital assets as well.
+    This fragmentation has led to a lack of regulatory clarity 
+and is hampering innovation and impacting American global 
+competitiveness. We have members who have been waiting for 
+action by the regulators for over five years, only to take 
+their products elsewhere. It is time for the U.S. and for this 
+Committee to begin putting in place policies that create 
+clarity and spur innovation and blockchain and economic growth 
+and opportunity for all.
+    We urge this Committee to work with other policymakers to 
+first adopt the chamber's 2019 National Action Plan for 
+Blockchain, which proposes that U.S. blockchain policy should 
+take a holistic government approach, with clearly articulated 
+support for the private sector development of innovation 
+required to grow emerging industries.
+    Second, provide regulatory clarity by identifying a lead 
+regulator. We believe the CFTC is well positioned to assume 
+that role. The CFTC is a market regulator that has a long 
+history of taking on the regulation of new and innovative 
+products with a strong track record of enforcing cases of 
+fraud, market manipulation, and other illegal activity. The 
+CFTC already regulates Bitcoin and Ether, which accounts for 
+about 60 percent of the market today. It has spot market anti-
+fraud and manipulation enforcement authority, and it has a 
+history of vetting and approving new types of innovative 
+products, and most recently digital assets.
+    Finally, the CFTC's principles-based regime has a mandate 
+to promote responsible innovation. A principles-based model is 
+effective in the regulation of new assets classes because it 
+allows the regulator to set desired outcomes but gives the 
+market the flexibility to innovative on how those outcomes are 
+achieved. I am confident a similar policy framework will 
+achieve the same results for blockchain and for our country.
+    Thank you. I look forward to your questions.
+
+    [The prepared statement of Ms. Boring can be found on page 
+97 in the appendix.]
+
+    Chairwoman Stabenow. Thank you very much. Last but 
+certainly not least, Mr. Werbach.
+
+  STATEMENT OF KEVIN WERBACH, PROFESSOR, THE WHARTON SCHOOL, 
+          UNIVERSITY OF PENNSYLVANIA, PHILADELPHIA, PA
+
+    Mr. Werbach. Chair Stabenow, Ranking Member Boozman, 
+members of the Committee, thank you for the opportunity to 
+testify before you. I will discuss four issues which are 
+addressed at greater length in my written statement: first, 
+what digital assets; second, how should we think about 
+regulating them; third, what are some of the major risks; and 
+fourth, what can we learn from the development of internet 
+regulation?
+    Digital assets have the potential to increase efficiency, 
+improve equity, promote privacy and individual freedoms, and 
+broadly, create more competitive, fair, and transparent 
+markets. I emphasize, though, the word ``potential.'' The 
+vision of a decentralized Web3, replacing centralized 
+platforms, is a beautiful dream that many are passionately 
+working toward, but we must separate dreams from present 
+reality.
+    While the technical foundations are complex and important, 
+the basic concepts here are straightforward. Most people do not 
+understand how the internet actually works either. Digital 
+assets are simply things of value represented through digital 
+tokens used in valid transactions on a blockchain ledger. 
+Blockchain diffuses the trust that previously resided in 
+central entities.
+    However, this does not mean trust goes away. Having 
+confidence that a digital representation on a public shared 
+ledger is actually worth something, potentially millions of 
+dollars in the cases of certain non-fungible token, is 
+fundamentally an exercise in trust. Moreover, the absence of 
+centralized trust creates burdens as well. If you lose the 
+cryptographic keys associated with your digital assets, they 
+are effectively gone. Platforms such as Coinbase and FTX 
+generally take custody of users' assets, similar to traditional 
+exchanges, because they are efficiencies of central 
+intermediation. Decentralized finance, or DeFi, which removes 
+these custodial relationships, raises its own challenges. We 
+must examine carefully where risks and opportunities for abuses 
+arise.
+    Too much of the conversation around digital assets started 
+with a mistaken assumption they are currently unregulated. Just 
+because something is a new kind of derivative or security does 
+not mean those frameworks no longer apply. Addressing digital 
+assets will not be the task for any one regulator any more than 
+internet policy is. The CFTC should be given authority where 
+the market activity involved is something it is well suited to 
+address.
+    Even more important, the divide between agencies should not 
+be a reason for gaps in the regulatory regime. Someone needs 
+clear authority over spot markets and digital assets that are 
+not considered securities over exchanges that are now among the 
+most valuable and prominent firms and financial services, 
+including some that are nominally offshore, and stablecoins 
+that claims reserves in the tens of billions. The only way, 
+over the long run, to promote trust in legitimate firms is to 
+distinguish and take down the bad actors.
+    According to Chainalysis, cryptocurrency crime reached an 
+all-time high in 2021, with $14 billion sent to known illicit 
+addresses. It is worth nothing this represented only 0.15 
+percent of transaction volume. However, $14 billion is not a 
+small number, and hacks draining tens or hundreds of millions 
+of dollars, such as the recent Wormhole attack, are 
+distressingly common.
+    Moreover, practices that are routinely banned for other 
+asset classes, such as wash trading, pump-and-dump schemes, 
+fake assets, and hidden conflicts such as exchanges listing 
+tokens they previously invested in, are widespread. The 
+stablecoin Tether continues to play an outsized role in the 
+digital asset world, despite having been found to have lied 
+about its backing and engage in other illegitimate practices.
+    There is something wrong when sizable attacks and fraud are 
+so common. Yet investors and major firms appear to shrug them 
+off entirely. Failing to lose trust in untrustworthy platforms 
+suggests investors may not rationally be assessing risks. That 
+could be a recipe for disaster.
+    I helped develop the U.S. approach to internet regulation 
+in the 1990's, in the Clinton Administration. The policy then 
+was to avoid unnecessary restrictions on innovation while 
+critically addressing the policy issues that arose. Most 
+internet activity then did not involve regulated activities. 
+When it did, such as communication services under the 
+jurisdiction of the FCC, regulators took action to avoid 
+situations where quirks in technology would undermine 
+legitimate public policy goals.
+    Many times I have heard that regulatory hurdles and digital 
+assets would cause the U.S. to fall behind. Yet here we are, 
+2022, the U.S. is home to a large, diverse, and growing 
+industry of digital asset and blockchain firms and investors, 
+thanks to the dynamism of our economy and also to the trust in 
+our markets.
+    That said, the sooner the gaps in legal authority or ill-
+fitting rules can be addressed, the better. This is already a 
+$2 trillion market. This Committee should ensure the CFTC has 
+the legal authority and resources to engage in active fact-
+finding, rulemaking, and enforcement in the digital asset 
+space, in concert with other regulators at the Federal and 
+State level.
+    I look forward to your questions.
+
+    [The prepared statement of Mr. Werbach can be found on page 
+115 in the appendix.]
+
+    Chairwoman Stabenow. Thank you very much. We appreciate the 
+testimony of all of you. Let me start with questions and ask 
+Mr. Bankman-Fried, you have supported increased regulation for 
+the spot digital asset market. One of the concerns that I have 
+is that without additional resources this will put the CFTC in 
+a situation where they are being pulled away from its 
+traditional areas of responsibility, regulating the derivatives 
+markets including the markets critical for our agricultural 
+producers.
+    I wonder if you might speak to how Congress should ensure 
+that the CFTC has adequate resources to continue to oversee the 
+markets at its core of its jurisdictions while expanding their 
+responsibilities.
+    Mr. Bankman-Fried. Thank you, Chair Stabenow. I completely 
+agree. I would love to see the CFTC play a more active role in 
+licensing and regulating the digital asset space, and I agree 
+that that will likely involve increasing its scope and an 
+increased need for resources.
+    There are, of course, a lot of ways to address that. You 
+can imagine addressing it through appropriations, through other 
+means.
+    I think one way could be contributions from the digital 
+asset industry as well. If that were the preferred approach, I 
+know that we would be completely comfortable participating in 
+that, so long as it was a reasonable framework. Obviously, we 
+do not want it to be a blank check of infinite size. You know, 
+assuming that it is a well thought out and reasonable framework 
+for supporting the licensing activity of the CFTC in the 
+digital asset ecosystem I think that would be healthy, and I 
+think we would be happy to play a part, and I suspect that 
+other members of the digital asset industry would as well.
+    Chairwoman Stabenow. All right. Thank you very much. I 
+think this is going to be important, and certainly as in other 
+areas and financial entities and so on where there are fees, 
+something where folks are contributing. I think that is going 
+to be important to be able to give the CFTC the additional 
+resources to do what you and others are suggesting. I 
+appreciate that.
+    Ms. Ro, Bitcoin mining is, as we have talked about, 
+extremely energy intensive. The United States is now home to 
+one-third of the world's Bitcoin mining, much of which is 
+powered by fossil fuels. I am concerned this is going to 
+threaten our ability to combat the existential threat of 
+climate change and strain our electrical grid.
+    Can mining become more sustainable, and if so, what can 
+Congress do to encourage this transition?
+    Ms. Ro. Absolutely. Thank you very much for that question, 
+Chair Stabenow. First, if we go back five, six years, we had a 
+different challenge in the crypto mining sector. Most of crypto 
+mining occurred in places like China and Russia, where we had 
+very little visibility around what was going on in the mining 
+sector, and often, also, not good energy sources, or dirty 
+energy sources.
+    What we have today is actually an opportunity. Most of the 
+mining has shifted to the U.S., to Canada, and to the Nordic 
+countries. Why? Because people will go where they can find 
+energy at the cheapest level possible, and when you think about 
+the bans that have occurred in China and in Russia and various 
+other places, that is actually a net positive, especially for 
+the U.S.
+    What we should do is to encourage the crypto mining firms 
+to set up, in an observed and obviously having proper oversight 
+environment, where we champion the move toward increasing 
+renewable usage, but we bring this industry to the U.S., and to 
+Canada and to other peers. Why? Because we need that oversight 
+and that visibility of what is going on in such an incredibly 
+important sector.
+    There are a few things going on right now that policy can 
+accelerate. Private sector is already looking to adopt more 
+renewables. Private sector is also agreeing with States on 
+caps. Meaning if there is a peak load occurring in any given 
+State that mine shut down. They no longer mine, and they wait 
+until the peak load has come down. These are creative and very 
+sensible, practical ways of then transitioning to a place where 
+we are mostly renewable.
+    I really encourage a rethink around how we embrace this 
+sector and encourage the positive use of renewable energy.
+    Chairwoman Stabenow. Thank you very much. Ms. Boring, what 
+is the Chamber's view of this issue?
+    Ms. Boring. First and foremost, all industries and all 
+technologies use energy. We have very good visibility into the 
+energy uses of Bitcoin today. Bitcoin mining consumes about 
+0.12 percent of the world's energy production. If this went 
+away we would still have very significant conversations and 
+issues to work out as it relates to climate change and energy 
+usage.
+    Two differences between Bitcoin mining and other energy 
+producers are, one, we have very strong visibility into the 
+energy and the cost and the resources based on the transparency 
+of the blockchain. Second, this energy--this sector of Bitcoin 
+mining is leading the transition to renewable energy sources. 
+Today the industry is powered 59 percent by renewable sources. 
+It is one of the most sustainable, if not the most sustainable 
+industries in the world today.
+    Chairwoman Stabenow. Thank you very much. I see my time is 
+up. Senator Boozman has gone to vote as we are taking turns 
+back and forth here, so I am going to turn to Senator Sherrod 
+Brown, who has multiple hats, including chairing the Banking, 
+Housing, and Urban Affairs Committee. Welcome.
+    Senator Brown. Thank you, Madam Chair, and I really 
+appreciate your question about the environment. Saying that, 
+well, we do not do it in China anymore, that is what makes us 
+environmentally principled and conscious, does not really take 
+us really take us where we need to. Thanks for raising the 
+issue, Madam Chair.
+    We hear a lot about innovation. I am concerned that digital 
+assets create big risks for consumers, and our committee, the 
+Banking and Housing Committee, we have been looking at 
+cryptocurrency for years. We are going to continue to make sure 
+consumers are protected in these markets. Next week, Under 
+Secretary of the Treasury Liang will testify about their 
+resident President's Working Group report on stablecoin. I look 
+forward to coordinating with Chair Stabenow, and Senator Booker 
+is very interested in this, and a number of others. Senator 
+Smith and Senator Warnock sit on both committees, so we have 
+work to do there.
+    A question, Mr. Werbach, and then a question, Mr. Bankman-
+Fried. Mr. Werbach, digital assets make it easier to conduct 
+transactions outside the regulations that keep criminals and 
+terrorist from using our financial system. Yesterday, the 
+Justice Department announced an investigation into two 
+individuals that allegedly tried to launder more than $3 
+billion of stolen Bitcoin.
+    Big risk here. How do we approach bringing digital assets 
+within a BSA/AML, anti-money laundering framework?
+    Mr. Werbach. Thank you, Senator. It is a very important 
+question. There are all sorts of illicit activities that happen 
+using digital assets, and there is a need to bring this whole 
+ecosystem within the frameworks that we have established for 
+illicit finance and to figure out new technological means to do 
+that. Much of this involves finding mechanisms for entities to 
+know their customers and to communicate that information and to 
+provide surveillance capabilities for regulators.
+    Now the exact way that this happens may be different for 
+digital assets, but in recent years there has been movement in 
+this direction. The Financial Action Task Force globally has 
+adopted something called a Travel Rule for communicating 
+information between virtual asset exchanges, and industry has 
+started to work on coming up with the technological means to 
+implement that in a way that is not inconsistent with 
+regulation.
+    Ultimately it comes back to the fundamental issue that 
+regulators need to have oversight. These need to be exchanges 
+and other entities that are subject to market regulators like 
+the CFTC and the SEC, that can figure out how to implement 
+those kinds of requirements, because there is no question, 
+there is far too much financial crime going on. There is 
+financial crime outside of crypto, of course, as well, but 
+there is far too much going on using these assets.
+    Senator Brown. Thank you, Professor.
+    Mr. Bankman-Fried, if we turn on the TV these days there 
+are ads for crypto everywhere. I understand this Sunday FTX 
+will have an ad in the Super Bowl. I heard they are not cheap. 
+There is no question that crypto companies want working people 
+to put money on the line--that is who you are reaching out to. 
+Last week, hackers stole $320 million from a crypto platform, 
+Wormhole. In this case, investors got lucky. The trading firm 
+behind it came to the rescue. We know we cannot always count on 
+those trading firms. There just is not that much money.
+    Crypto.com--that is the one we see if you watch college 
+football; you see Matt Damon on just about every college 
+football broadcast--crypto.com lost $30 million last month. 
+Scams and hacks are everywhere in crypto.
+    Mr. Bankman-Fried, is it reckless for crypto companies to 
+get rich by selling Americans such a dangerous, risky product?
+    Mr. Bankman-Fried. Thank you, Senator Brown, for the 
+question. I think what this highlights is the need for Federal 
+oversight of the cryptocurrency industry, and as you pointed 
+out there have been a number of hacks and scams historically. 
+Most of this has happened on unregulated venues.
+    There are really sophisticated tools that the CFTC and 
+other Federal agencies have to help mitigate this risk. The 
+CFTC has a really extensive cybersecurity and anti-hacking 
+program that all of their registrants go through, and there has 
+been a very good track record of those companies. I think that, 
+you know, digital assets exchanges being subject to that level 
+of oversight would be entirely appropriate and would help to 
+mitigate the exactly risks that you are pointing to there.
+    I think that when you look at the sort of another instance 
+of this that you brought up, which is scams, often on rather 
+than the platform side but the asset side, the individual 
+assets, that moving toward a world where there is a Federal 
+registration regime for digital assets, that involve the same 
+level of disclosure and anti-fraud protection that we see for 
+securities today, would be entirely appropriate, and would help 
+to protect against scams, Ponzi schemes, pump-and-dumps, and 
+other similar activity there.
+    I think that it will have to be a little bit different than 
+any registration forms that currently exist because there are 
+some nuanced differences between digital assets and current 
+assets, but many of the same anti-fraud principles apply in 
+exactly the same way. I think that having a Federal oversight 
+through that system could help address that piece of it as 
+well.
+    Senator Brown. Thank you. Madam Chair, thank you.
+    Chairwoman Stabenow. Thank you very much. I look forward to 
+working with you on this. Senator Boozman.
+    Senator Boozman. Thank you, Madam Chair.
+    Ms. Boring, there are over 17,000 digital assets. Can you 
+briefly explain what digital assets are generally used for and 
+how they are regulated? Further, what is the real-world 
+application of digital assets, particularly Bitcoin and Ether, 
+which represent about 60 percent of the digital market? We are 
+hearing a lot about the potential for fraud, the fraud that is 
+going on, and this and that, but tell us, so many people are 
+confused as to what this really represents.
+    At the hearing today we are digging a little bit deeper, 
+but for a lot of our colleagues this is something that, you 
+know, they have heard about but they do not really understand. 
+What is the real-life purpose of getting these things on the 
+market?
+    Ms. Boring. Yes, so to really understand the purpose of 
+this technology you have to understand the problem that it 
+solves in internet architecture. The internet was supposed to 
+be a place for peer-to-peer transfers. It works for 
+communications. It works for media. It does not work for things 
+of value.
+    For example, if I take a picture on my cellphone and I go 
+to send it to you, peer-to-peer, directly, so we are not using 
+an intermediary for me to deliver that to you, like the Postal 
+Service. When I send it, there will be a copy of that picture 
+on your device and there will still be a copy of that picture 
+on my device.
+    Okay, great. That works for photos but does not work for 
+money. If I am sending you money it is really important that 
+when I send it to you it leaves my control and it is only in 
+your custody. That is the innovation that Bitcoin solves. That 
+problem is called the double-spending problem, and it was not 
+until 2009, with the launch of Bitcoin, that we knew how to do 
+that.
+    Previously, financial services were being retrofitted to 
+sit on top of the internet. You can think about this in a way 
+of taking a picture of the front page of The Washington Post, 
+for example, and just hosting that picture on a website. Is the 
+news online? Technically, but are we using that infrastructure 
+and that architecture to transform the way that we are sharing 
+that information? No. Financial services is just now starting 
+to see that technological boom in peer-to-peer direct 
+transfers.
+    What is this used for today? There are many different 
+cryptocurrencies, as you noted. Bitcoin has the largest market 
+cap out of all of them, and it is used as a digital store of 
+value. The Chairman of the Fed, Jerome Powell, has testified in 
+Congress before comparing it to a digital gold. That is its 
+main purpose.
+    Other cryptocurrencies, like Ether and Proof of State 
+networks are smart contracts applications. Those are two very 
+different things, a store of value versus smart contracts.
+    Senator Boozman. Very good. Thank you. If each one of you 
+all would--this is a question for all of you, but you have only 
+got about 30 seconds to answer it or the Chairwoman will yell 
+at me, which is not a good thing.
+    I guess the question, or the heart of the matter is, do you 
+believe it is necessary for Congress to provide market 
+participants greater certainty when it comes to regulation of 
+digital asset, spot markets, and if so, what should be 
+considered as that framework is developed?
+    We will start with you.
+    Ms. Ro. Ranking Member Boozman, thank you very much for 
+that question. In terms of what we have talked about today, I 
+think the urgent first step is to provide the CFTC with the 
+authorization and the resources and funding needed to oversight 
+certain parts of the market, and it is pretty clear that 
+derivatives and crypto derivatives fall in that that, but then 
+the next question is the spot markets, with relation to what is 
+identified and defined as commodity within the digital assets. 
+I am going to emphasize that again--not all digital assets 
+would be commodities. It would be subset. Making very clear 
+what that is and that demarcation will be very important to the 
+markets.
+    Senator Boozman. Okay.
+    Ms. Ro. That first step alone will do wonders to really 
+help move forward on the clarity point.
+    Senator Boozman. Very good.
+    Mr. Bankman-Fried. I think that it would be great to have 
+congressional action here, and I think providing clarity on the 
+regulatory framework would be appropriate and helpful for the 
+industry and for oversight.
+    I also think that there is some actions that could be taken 
+without a new bill passing. I think that when you look at 
+retail commodity spot transactions with some amount of 
+financing, that is an example of an area where I think the CFTC 
+already has some regulatory authority. I think for cash markets 
+more generally, it would be great to get congressional action 
+and clarity on that point.
+    Senator Boozman. Go ahead.
+    Ms. Boring. Our ask, in terms of what this Committee can 
+do, and the biggest issues impacting our space, as I Stated in 
+my oral regulatory clarity and regulatory cohesion. To start, a 
+good first start would be to create a joint working group 
+between the CFTC, the SEC, and the industry. We are pleased to 
+see that there has been bipartisan support for that, and we 
+would further encourage that here on the Senate side as well.
+    I mentioned the National Action Plan for Blockchain. We 
+have eight regulatory principles that we outline in the 
+National Action Plan. We would be happy to collaborate with 
+that on you further. We also think that the CFTC is well 
+positioned to a lead regulator in this space.
+    Senator Boozman. Good. Go ahead, sir.
+    Mr. Werbach. I would agree, Senator, with what everyone 
+else has said, that spot market authority for crypto 
+commodities is essential. More broadly, Congress needs to look 
+to where there are gaps in the regulatory structure. Not all of 
+them are within the purview of this Committee, but stablecoins 
+are one that have been identified, central bank digital 
+currencies, some of the energy and climate-related issues where 
+tax policy or other methods may provide incentives, and more 
+broadly tax issues around digital assets or situations where it 
+has become clear that the existing legal frameworks need some 
+updating.
+    Over the long term, this is the future of financial 
+services. There certainly is an urgency to make these kinds of 
+modifications, but I think Congress needs to start the process 
+of thinking about how might we restructure fundamentally our 
+financial regulatory system, given the kinds of innovations and 
+changes that these technologies herald.
+    Senator Boozman. Thank you, Madam Chair. Thank you.
+    Chairwoman Stabenow. Thank you very much. Senator Booker.
+    Senator Booker. Thank you, Chairwoman. I agree with so much 
+of what is being said on both sides of the aisle about the 
+concerns and the worries and about the urgent need for a clear 
+regulatory framework. I want to try to highlight right now some 
+of the things that I think are important to drive home.
+    Ms. Boring, Mr. Bankman-Fried, could you both comment on 
+why America right now, if we were just unfurling our 
+patriotism, is losing out on a lot of opportunity that this 
+industry right now is mostly overseas and not here at the 
+center of the global markets? What are the opportunities that 
+are missing out and the dangers, in fact, of not creating a 
+clear regulatory framework that would have these transactions 
+and more being done here in America? If the two of you could 
+address that.
+    Ms. Boring. America, global competitiveness is a huge 
+concern of mine. This technology, the digital technology, does 
+not see national borders. It is a global technology, by its 
+nature. Companies are going to operate in areas where they have 
+legal certainty. We have members today, started by Americans, 
+U.S. small businesses, they are not comfortable operating here 
+because they do not understand the rules of the road, and they 
+are going overseas.
+    Having legal certainty and regulatory certainty is 
+absolutely essential, and this Committee has a key role to play 
+in that conversation. Then as I mentioned earlier, you have 
+this issue of regulatory fragmentation. The issue is not a lack 
+of regulation. It is that you have so many cooks in the 
+kitchen, and stakeholders, all pulling to have purviews over 
+different areas of this asset class, and it adds a lot of 
+bureaucracy and red tape to running a business here, 
+particularly a small or medium-sized business, in these digital 
+assets in the United States.
+    Regulatory clarity and having a cohesive strategy for 
+businesses is essential to promoting economic growth here in 
+the United States.
+    Senator Booker. Thank you.
+    Mr. Bankman-Fried. I agree with most of that. Thank you for 
+the question, Senator. I think, you know, first, briefly, you 
+know, 95 percent of volume is offshore. Most tokens are traded 
+exclusively offshore, because of the lack of clarity today. 
+That poses a real threat to the States. I would love to see 
+that come back onshore.
+    You look at the majority of digital asset transactions are 
+conducted by U.S. dollar-backed digital assets right now, 
+stablecoins. That could change to a different currency if the 
+United States does not take a lead on providing a clear pathway 
+and oversight for digital asset transactions. You could see the 
+center of the digital economy being somewhere other than the 
+United States, unlike the center of most other marketplaces and 
+economies.
+    In terms of what I think the promise is, I think there is a 
+ton. You look at the unbanked, the underbanked, it is not 
+shocking that minorities disproportionately use digital assets. 
+It is not shocking that those who do not have equitable access 
+to our current financial infrastructure disproportionately use 
+digital assets. It is one of the first times that people have 
+direct access to their own finances, that people are not forced 
+to wait five days for a transfer to clear, getting overdraft 
+charges every day along the way. It is one of the first times 
+that people can get clarity on what is going on without having 
+to hire lots of accountants to keep track of their own ledger.
+    It is also, I think, something that provides a lot of hope 
+for other areas of our economy and of our Nation. I think when 
+you look at social media, I think one thing that has become 
+clear are the dangers of having really any approaches to 
+centralized social media control and censorship, and there are 
+no right answers sometimes.
+    One thing that I would be really excited to see would be 
+blockchain technology providing an agnostic messaging protocol, 
+which would allow interoperability between different social 
+media platforms, break down some of the network effects, break 
+down some of the barriers, and allow competition and allow 
+different types of moderation to play on the same messaging 
+protocol without holding captive the users and the content. I 
+think that is another area where we could see real good 
+produced by----
+    Senator Booker. Mr. Bankman-Fried, I am going to interrupt 
+you because I have only got 30 seconds left, and I am offended 
+that you have a much more glorious afro than I once had.
+    Really quick, I got into politics because, as a city 
+councilman in a neighborhood I still live in, low-income Black 
+and Brown community, and I was appalled at the banking 
+industry. When I was mayor we did a lot to try to 
+disintermediate the banks. We brought Kiva into Newark to try 
+to get direct loans. They had better repayments to Kiva loans 
+than the banks but they did not use their same opportunity. I 
+see what overdraft fees have done, and we fought with our local 
+banks to get them to eliminate these fees.
+    You are right that Black and Brown people right now are 
+overrepresented in this space. I have concerns, whenever you 
+have large money, large industry getting into something, but 
+you could close me out by saying to me that the best view of 
+the future, and how this could really empower the communities 
+that all of us on this Committee probably are really focused 
+on, and that I got in politics to make sure I serve?
+    Mr. Bankman-Fried. Absolutely. I completely agree with 
+that, Senator. I think that it could help provide direct, 
+clear, equitable access to financial services to minorities, to 
+economically disadvantages, to the underbanked. It could help 
+get them, for the first time, in an area without discrimination 
+from the underlying technology and also where they have just 
+clear transparency on what their finances are, on what their 
+assets are, where they have control but they are not beholden 
+to institutions who are charging them fees while delaying on 
+providing services. I think you could do a lot to help serve 
+those communities, and I think I am really excited for that 
+vision of the future.
+    Senator Booker. Mr. Chairman, thank you very much, Sir.
+    Senator Boozman.
+    [Presiding.] Thank you.
+    Senator Booker. I hear rumors that you had a great afro 
+back in your day too, sir.
+    Senator Boozman. Lots of hair. Senator Thune.
+    Senator Thune. Thank you, Mr. Chairman, and I assume that 
+all of you are going to be the life of the Super Bowl party, 
+because when Matt Damon comes on and says ``Fortune favors the 
+brave'' you can start riffing about cryptocurrencies.
+    You know it is mainstream when professional athletes, some 
+of whom will be participating in this weekend's Super Bowl, 
+like Odell Beckham, are getting their compensation, or at least 
+part of their compensation in the form of crypto.
+    I am interested, obviously, as most of my colleagues are, 
+in what is the best approach to make sure that we are not 
+stifling innovation but that we are regulating digital asset 
+technology in a way that appropriately reflects the risks.
+    Mr. Werbach, in your view, what would a risk-based approach 
+of digital asset regulation look like?
+    Mr. Werbach. Thank you, Senator. That is a very healthy way 
+to look at this, because there are a variety of technologies 
+here, and any entity involved needs to think about what are the 
+different kinds of risks. There were some questions before 
+about the banking system and the way that certain banks have 
+been unwilling to take on cryptocurrency clients. Fundamentally 
+that should be a risk-based process in terms of assessing what 
+are the concerns, what are the dangers here, and what are the 
+mechanisms for addressing those kinds of concerns.
+    It is easier to do all of that within an overarching 
+structure where regulators provide some level of general 
+guidance, provide some oversight and surveillance of markets, 
+but then allow entities to devise the risk-based structures 
+that make the most sense for them.
+    This is actually a very diverse market with different kinds 
+of assets, different kinds of exchanges. It is changing very 
+fast. A very specific, prescriptive approach, requiring one set 
+of requirements may not work, but there needs to be some 
+encouragement and some guidance about what a risk-based 
+approach would look like. Again, that is starting to happen, 
+bottom up, in certain areas where regulators are pushing, but 
+it needs to start with that requirement that will get 
+participants in the industry to move forward.
+    Senator Thune. Mr. Bankman-Fried and Mr. Ro, you both make 
+it sound like the United States is not particularly competitive 
+when it comes to attracting the digital asset industry, which 
+begs the question about what other countries are doing and how 
+the U.S. regulatory framework of digital assets compares with 
+that of other countries. Could you talk about why other 
+countries are more attractive and why the United States is not 
+particularly competitive, and does it have to do with a 
+regulatory framework in those countries?
+    Mr. Bankman-Fried. Yes. Thank you, Senator, for your 
+question. I completely agree.
+    Now it is worth noting there are a lot of countries in the 
+world. Each has a different approach, and many other countries 
+are also not competitive on this, but many of them are. I think 
+the big differences that you see, it is not on whether 
+regulation is stringent or lax. It is on whether regulation is 
+clear or unclear.
+    The biggest thing that we see with countries that have done 
+a really good job at attracting the digital asset industry is 
+having clarity from the regulators about what licenses one 
+should be pursuing, about what the oversight is on those, who 
+the overseeing body is, about how one registers and things that 
+need to be registered.
+    Providing a pathway forward with sufficient oversight is 
+the hallmark of the countries that have done very well at this, 
+and I think the biggest problem in the United States, I think 
+``patchwork'' has been a word that has been used a few time 
+here, it is the patchwork of regulation, that there are 
+simultaneously too many sort of cooks in the kitchen, and yet 
+not enough oversight, because there is a diffusion of 
+responsibility. I think having a clear framework with clearly 
+communicated--you know, whether they are prescriptive 
+guidelines or maybe more appropriately sort of principles-based 
+guidelines, but a clear regulator in charge of those or clear 
+cooperation between regulators on it, clear licensing and 
+registration pathways that are not lax but that are clear I 
+think is the single biggest thing that is missing.
+    Ms. Ro. If I may add to that--thank you, Senator--there are 
+two countries I want to highlight that we may want to borrow 
+part of their playbook, maybe not all their playbook. 
+Switzerland. FINMA is a regulator that has been very early, to 
+be very clear about how things are defined, whether something 
+is a utility token or a security token. Whatever token it is, 
+whey have made very clear definitions.
+    Further, they have come out in front on how they deem 
+different classifications of activities and what falls under 
+their oversight or not. They were also one of the first to come 
+out with a licensing regime for these crypto funds, and this is 
+what happens when you do that. There is a little town called 
+Zug. Crypto valley. It has that name--no one ever heard of Zug 
+eight years ago, but it is now home to hundreds, if not 
+thousands, of crypto companies. These people do not all live 
+there but they have set up shop there. I think that is 
+something we should think about.
+    Estonia. I will leave you with Estonia. That was an 
+interesting one as well. They have an E-resident program, and 
+they have digitized a large chunk of their government services. 
+What is interesting, as an entrepreneur, about setting up in 
+Estonia, I do not need to go there either. I need to prove my 
+identity. I need to obviously have the requisite capital to 
+invest. Everything else I can do digitally. I can even have 
+encrypted signatures for legal documents.
+    It is a very interesting model, and so we should be looking 
+at those types of things to encourage business to come here. 
+They do not necessarily physically have to come here, but to 
+set up shop and to create jobs here.
+    Senator Thune. Thank you. Mr. Chairman, if I could just 
+have Ms. Boring take this one for the record, because my time 
+has expired and I have to run over and vote. You mentioned 
+examples of blockchain technology in use today, and in 
+particular I appreciate you pointing out applications in 
+agriculture.
+    You mentioned livestock ownership, recordkeeping use, and I 
+would like to have you, if you could for the record, tell us 
+more about that use and how it affects American farmers and 
+ranchers.
+    Ms. Boring. Yes, happy to, and thank you for the question. 
+Blockchain technology is providing security and transparency to 
+supply chains, and it is ultimately arming our farmers, 
+ranchers, as well as consumers with better information and data 
+about agriculture products.
+    One example of this is a company called BeefChain. They are 
+based in Wyoming. They are a small business here in the U.S., 
+and they are a pioneer of this technology. Cattle is tagged 
+with an RFID and given a unique digital identifier. That 
+cattle's unique ID, as well as other information that is 
+collected throughout the supply chain, such as where it was 
+born, has it received hormones or not, when it was sold, where 
+it was sold, all that information is collected, secured, and 
+stored using blockchain technology.
+    Blockchain technology is bringing other benefits to supply 
+chains, such as making them more efficient. It is helping 
+increase trust in different brands, especially small farmers 
+and ranchers here throughout the U.S. It is helping with 
+sustainability goals, food freshness, food safety. It helps 
+prevent fraud as well as food waste.
+    Senator Thune. Thank you, and thank you, Mr. Chairman. 
+Thank you all for being here. I appreciate your insight.
+    Senator Boozman. Senator Braun.
+    Senator Braun. Thank you, Mr. Chairman. As an entrepreneur 
+and business owner, probably most fresh off the street here in 
+the Senate, this is an interesting area to me. I also came from 
+the world of economics so long ago.
+    We talk about a lot of that stuff, including our budget 
+that is now the worst it has ever been in the history of our 
+country, $1.5 trillion a year, gives a lot of fuel for non-
+sovereign currencies. Some of the stuff that anybody would be 
+worried about, where we have been the reserve currency for so 
+long, due to some of the predictability when we used to balance 
+our budgets, when we used to not have inflation. I will not get 
+into that. It would take up too much time.
+    I have got a question about the new technology--I will 
+start with Ms. Boring--when it comes to Elon Musk, who loves 
+the idea of all of this but quit accepting cryptocurrency due 
+to the environmental impact. Is there something down the road 
+that would, through economy of scale make the energy use less, 
+you know, for all the benefits that it looks like it may give 
+us someday, because that is going to be an increasingly 
+significant issue. What is your take on that, and do you 
+believe Elon Musk had something there, in citing how energy 
+intensive and expensive it is to establish blockchain?
+    Ms. Boring. Yes, thank you for that question. It has been 
+interesting to see Elon Musk's stance of digital assets. While 
+they decided to stop accepting certain digital assets, they 
+still own it and it is still sits on Tesla's balance sheet. 
+Think actions speak as a part of the approach as well.
+    Specific to energy concerns, we have seen a number of 
+groups and people and Members of Congress express concerns 
+about the energy uses of certain digital assets, specifically 
+those that use Proof of Work. The point that I made earlier is 
+what is important about what we are seeing in the Bitcoin 
+mining industry and other Proof of Work blockchains is that 
+this industry is leading the transition to renewables.
+    We represent companies that are publicly traded and listed 
+here in the United States that are partnered with renewable 
+plants like solar and wind, throughout the U.S. These 
+partnerships between the renewable industry and the Bitcoin 
+mining industry is bringing new investments and innovation into 
+renewables, and that needs to be an incredibly important part 
+of the conversation as we look at policy responses to those 
+concerns.
+    Senator Braun. I think when you look at what a small 
+percentage it is currently of transactions, and with the 
+increasing emphasis on maybe the cleanest, least expensive 
+fuel, I think down the road, hopefully, both of those converge 
+in the right direction. I think there is going to be plenty of 
+demand for something in addition to sovereign currencies that 
+look a little shaky and risky for, you know, what the 
+dependability was there in the past.
+    I have got a question for Mr. Werbach. When it comes to 
+this emerging technology, kind of analogous to the internet. We 
+did not know where that was going to go, and look where it has 
+come. Now its biggest susceptibility is from cyber thieves. I 
+think many would wonder about using blockchain and 
+cryptocurrencies, you know, when it is in that realm of can it 
+be hacked. Is it something that can give you peace of mind and 
+security for all the reasons I have mentioned already?
+    How do you draw a comparison between this and the internet 
+in terms of concerns, fledgling industry, and then what about 
+its long-term safety and security when it based upon a 
+technology that many of us do not know much about?
+    Mr. Werbach. Senator, that is a very important question, 
+and we forget that back in the 1990's, people said, ``How would 
+you buy something on the internet? You mean you are going to 
+type in your credit card number to a computer and it is going 
+to go off somewhere in the ether, and you are going to believe 
+that someone is not going to steal your credit card?'' 
+Americans were worried about e-commerce for exactly that 
+reason, and to some extent for good reason.
+    What happened? Part of what happened was technology 
+evolved. There were various technical mechanisms to ensure that 
+your credit card was protected. Part of it is regulation, that 
+there is oversight of the credit card industry, so if, in fact, 
+your credit card is stolen, your entire balance is not at risk. 
+It is capped by the issuers. Part of it had to do with 
+regulation and oversight of these industries as a consumer 
+protection matter.
+    Ultimately people got confident. I focus on the idea of 
+trust. That is the title of my book, and that is the 
+similarity. People learned to trust the internet as they had 
+good experiences with it, and the same thing is possible here.
+    The ironic thing is that the blockchain technology itself 
+is incredibly secure. It is cryptographically secure. Bitcoin 
+is a trillion dollars at its peak in assets, and no one has 
+successfully been able to hack that ledger because it is so 
+secure, based on the underlying cryptographic structures.
+    The problem, though, is that you are holding keys at the 
+edge of the network, you have to secure your own keys. You 
+cannot rely on the bank or the intermediary providing all that 
+security, and that is what has opened up the opportunity for 
+all these hacks.
+    Again, we need to move forward with industry working and 
+identifying technologies and best practices as well as having 
+oversight and regulatory mechanisms to ensure that there are 
+basic standards.
+    Senator Braun. Thank you. Interesting new horizons, I would 
+say.
+    Senator Boozman. Senator Tuberville.
+    Senator Tuberville. Thank you, Senator Boozman. Thanks for 
+being here today. I think you will all agree that it is 
+critical for the United States to be the undisputed leader in 
+the digital asset game. Up to this point we have led the world 
+in financial innovation. Under the previous administration, 
+regulators understood the importance of encouraging innovation 
+and took a light-touch regulatory approach to the digital 
+assets industry.
+    We have seen a dramatic shift over the course of the past 
+year, and I am concerned about the regulation of enforcement 
+mentality that is starting to take hold. If this keeps up, 
+innovators are going to leave the U.S. and move overseas to 
+places like the UK and Singapore. We cannot let that happen, 
+and we certainly cannot allow China to get ahead of us in the 
+financial innovation.
+    Sam, you built a great company and had tremendous success. 
+I am a free market guy who happens to think that is a good 
+thing. What do regulators and those of us serving in Congress 
+need to do to keep companies like yours operating in the United 
+States, and how can we encourage more innovation here?
+    Mr. Bankman-Fried. Thank you, Senator, for the question and 
+for the kind words. I completely agree that it is imperative 
+that we allow the current industry to stay here, and hopefully 
+much of the current offshore industry to move back into the 
+United States as well. Again, we are in a situation where 95 
+percent of volume is offshore today, and it would be great to 
+see a lot of that move back into the United States.
+    The biggest things that we need are regulatory clarity, and 
+again, it not so much a matter of are regulations stringent or 
+lax. It is much more a question of are they clear, and is there 
+a regulatory pathway forward for registration and licensing?
+    To maybe name a few specific areas there, getting clarity 
+on the cash cryptocurrency markets, the spot markets, would be 
+really great for the industry. Much of the institutional 
+capital is sitting on the sidelines waiting for that. I think 
+the CFTC would be an appropriate regulator for spot digital 
+commodity transactions.
+    I think a second thing, and this is one of the bigger 
+things, is on the token registration. A lot of activities 
+taking place outside of the United States right now is because 
+there is not a clear registration process for tokens in the 
+United States. I think it is appropriate to have a registration 
+process, to have anti-fraud controls and other similar things 
+that we see in other marketplaces. You know, you cannot just 
+exactly copy-paste the registration process for a security or 
+something like that to a digital asset because there are some 
+differences, even if many of the same principles do still 
+apply.
+    I think a similar principles-based system but one which 
+acknowledges the unique aspects of digital assets and can 
+provide that same clarity but allow them to actually register 
+in the United States and be offered on U.S. platforms would be 
+really important for bringing a lot of the industry back 
+onshore, because again, most tokens are not accessible at all 
+in the United States because there is no clear registration 
+pathway today.
+    I think that those are two of the biggest things to 
+address, and I think addressing those two, plus a regulatory 
+framework for stablecoins, which I think is going to be coming 
+to a head soon, and I think having some sort of auditing 
+framework for it as well would do an enormous amount to provide 
+clarity, so that people could get licensed in the United 
+States, could get registered here, and could conduct their 
+business activity here rather than going to jurisdictions 
+outside of here who had developed frameworks for it.
+    Senator Tuberville. Thank you. Of the thousands of digital 
+assets out there, what percentage would each of you say are 
+commodities versus securities, and I would like for everybody 
+to just give an estimate. Ms. Ro?
+    Ms. Ro. There are so many that are out there, I think the 
+digital asset definition basically means any asset that is 
+digitized. If we take a subset of the different 
+classifications, you have to put aside all of the CBDCs, 
+central bank digital currencies--that is another category--you 
+have got your tokenized physical things, as I like to call 
+them. When you tokenize or digitize real eState or gold or 
+actual physical things, that is its own subcategory, and they 
+have their own kind of demarcations, depending on what physical 
+thing they are.
+    Some of the rest could actually probably fall under the 
+commodities bucket, and that is where it gets complicated.
+    I cannot give you an exact percentage, but I would start 
+classifying things into sub-buckets, and then we will be able 
+to parse out how much of that is actually commodities.
+    Senator Tuberville. Sam?
+    Mr. Bankman-Fried. If you weight by volume or market cap I 
+think the vast majority of activity is in commodities. If you 
+instead weight by number of tokens, I think that some of them 
+are clearly commodities. I think some of them are unclear and 
+have some properties of a number of different asset classes and 
+do not fit into any bucket. I think it is sort of a split by 
+those, if you look at number of tokens rather than market cap 
+or volume.
+    Senator Tuberville. Ms. Boring?
+    Ms. Boring. I agree with Mr. Bankman-Fried. If you go by 
+market cap, the vast majority are commodities. Bitcoin and 
+Ether today compose over 60 percent of the market 
+capitalization of the entire digital asset ecosystem, and they 
+have been defined as a commodity by the CFTC today.
+    There are other categories. We kind of talked about 
+categories of digital assets. Another one is intentional 
+digital asset securities. That is another area that is a 
+nascent and emerging piece of the ecosystem but has yet to 
+really fully be realized because of the lack of regulatory 
+clarity by the policymakers.
+    Mr. Werbach. Digital assets do not have a fundamental 
+attribute. The question is how they are used. It is true--the 
+vast majority of digital assets are used in investment schemes, 
+are used as a form of fundraising, which is the attributes 
+under the Howey Test of a security. There are situations that 
+are in the middle. Ether, the SEC has suggested is a commodity 
+today but may well have been a security when it was originally 
+issued back in 2014-2015. Bitcoin, because there is no entity 
+that is issuing Bitcoin that is raising money, it makes sense 
+to think about it as a commodity. You are not contributing to 
+some investment scheme through the efforts of others. It is a 
+decentralized network.
+    I would agree with what the other speakers have said about 
+if you just look at the market today, but the important 
+question is really what is going on. What is the nature of the 
+activity that is involved? That is going to change and develop. 
+The same asset may, in different circumstances, be in more than 
+one category.
+    Senator Tuberville. Thank you. Thank you for such a complex 
+issue that we are all heading toward, and your expertise, and 
+thanks for coming here today. Senator Boozman.
+    Senator Boozman. Thank you very much, and again, a special 
+thanks to all of our witnesses and our Committee members and 
+staff for really a very informative hearing that I think has 
+helped us as we go forward.
+    On behalf of Senator Stabenow and myself, as you can see 
+there is no shortage of questions on this issue. We appreciate 
+your testimony, which will help us get a better grasp on the 
+potential and the risk of digital assets. As of now, there is a 
+gap in the oversight of digital assets. This poses a danger to 
+the American consumers and could threaten the resiliency of our 
+financial markets if left unchecked.
+    I want to reiterate that regulation and innovation are not 
+mutually exclusive, and that is what we are all working to 
+achieve. We have an opportunity here to broaden participation 
+in our financial markets, but this must be paired with 
+consistent rules of the road that protect investors and their 
+markets.
+    You have given us a lot to consider, and we look forward to 
+further discussions in this Committee, and with that, that 
+concludes our hearing today. The record will remain open until 
+tomorrow at 5 p.m. for members to submit additional questions 
+or statements.
+    With that the hearing is adjourned.
+
+    [Whereupon, at 12:26 p.m., the Committee was adjourned.]
+
+      
+=======================================================================
+
+
+                            A P P E N D I X
+
+                            February 9, 2022
+
+=======================================================================
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+
+      
+=======================================================================
+
+
+                   DOCUMENTS SUBMITTED FOR THE RECORD
+
+                            February 9, 2022
+
+=======================================================================
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+
+
+      
+=======================================================================
+
+
+                         QUESTIONS AND ANSWERS
+
+                            February 9, 2022
+
+=======================================================================
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+
+                                 [all]
+

@@ -1,0 +1,2591 @@
+
+ - THE CONSEQUENCES OF SCHOOL CLOSURES: INTENDED AND UNINTENDED
+
+[House Hearing, 118 Congress]
+[From the U.S. Government Publishing Office]
+
+
+
+
+
+                  THE CONSEQUENCES OF SCHOOL CLOSURES: 
+                        INTENDED AND UNINTENDED
+
+=======================================================================
+
+                                HEARING
+
+                               BEFORE THE
+
+            SELECT SUBCOMMITTEE ON THE CORONAVIRUS PANDEMIC
+
+                                 OF THE
+
+               COMMITTEE ON OVERSIGHT AND ACCOUNTABILITY
+
+                        HOUSE OF REPRESENTATIVES
+
+                    ONE HUNDRED EIGHTEENTH CONGRESS
+
+                             FIRST SESSION
+
+                               __________
+
+                             MARCH 28, 2023
+
+                               __________
+
+                           Serial No. 118-14
+
+                               __________
+
+  Printed for the use of the Committee on Oversight and Accountability
+
+
+
+
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+
+
+
+
+
+
+                       Available on: govinfo.gov,
+                         oversight.house.gov or
+                             docs.house.gov 
+                             
+                             
+                             _________
+                              
+                 U.S. GOVERNMENT PUBLISHING OFFICE
+                 
+51-719 PDF               WASHINGTON : 2023
+                             
+                             
+                             
+                             
+                             
+                             
+                             
+                             
+                             
+                             
+                             
+                             
+                             
+                             
+                             
+                             
+                             
+                             
+                             
+                             
+                             
+                             
+                             
+                             
+                             
+                             
+               COMMITTEE ON OVERSIGHT AND ACCOUNTABILITY
+
+                    JAMES COMER, Kentucky, Chairman
+
+Jim Jordan, Ohio                     Jamie Raskin, Maryland, Ranking 
+Mike Turner, Ohio                        Minority Member
+Paul Gosar, Arizona                  Eleanor Holmes Norton, District of 
+Virginia Foxx, North Carolina            Columbia
+Glenn Grothman, Wisconsin            Stephen F. Lynch, Massachusetts
+Gary Palmer, Alabama                 Gerald E. Connolly, Virginia
+Clay Higgins, Louisiana              Raja Krishnamoorthi, Illinois
+Pete Sessions, Texas                 Ro Khanna, California
+Andy Biggs, Arizona                  Kweisi Mfume, Maryland
+Nancy Mace, South Carolina           Alexandria Ocasio-Cortez, New York
+Jake LaTurner, Kansas                Katie Porter, California
+Pat Fallon, Texas                    Cori Bush, Missouri
+Byron Donalds, Florida               Shontel Brown, Ohio
+Kelly Armstrong, North Dakota        Jimmy Gomez, California
+Scott Perry, Pennsylvania            Melanie Stansbury, New Mexico
+William Timmons, South Carolina      Robert Garcia, California
+Tim Burchett, Tennessee              Maxwell Frost, Florida
+Marjorie Taylor Greene, Georgia      Becca Balint, Vermont
+Lisa McClain, Michigan               Summer Lee, Pennsylvania
+Lauren Boebert, Colorado             Greg Casar, Texas
+Russell Fry, South Carolina          Jasmine Crockett, Texas
+Anna Paulina Luna, Florida           Dan Goldman, New York
+Chuck Edwards, North Carolina        Jared Moskowitz, Florida
+Nick Langworthy, New York
+Eric Burlison, Missouri
+
+                       Mark Marin, Staff Director
+             Mitchell Benzine, Subcommittee Staff Director
+                        Marie Policastro, Clerk
+
+                      Contact Number: 202-225-5074
+
+                Miles Lichtman, Minority Staff Director
+
+            Select Subcommittee On The Coronavirus Pandemic
+
+                     Brad Wenstrup, Ohio, Chairman
+Nicole Malliotakis, New York         Raul Ruiz, California, Ranking 
+Mariannette Miller-Meeks, Iowa           Minority Member
+Debbie Lesko, Arizona                Debbie Dingell, Michigan
+Michael Cloud, Texas                 Kweisi Mfume, Maryland
+John Joyce, Pennsylvania             Deborah Ross, North Carolina
+Marjorie Taylor Greene, Georgia      Robert Garcia, California
+Ronny Jackson, Texas                 Ami Bera, California
+Rich Mccormick, Georgia              Jill Tokuda, Hawaii  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                         C  O  N  T  E  N  T  S
+
+                              ----------                              
+                                                                   Page
+Hearing held on March 28, 2023...................................     1
+
+                               Witnesses
+
+Mr. David Zweig, Author and Investigative Journalist, The 
+  Atlantic, New York Magazine, The Free Press
+Oral Statement...................................................     5
+Ms. Tracy Beth Hoeg, M.D., Ph.D., Physical Medicine & 
+  Rehabilitation Specialist, Epidemiologist, Private Practice 
+  Physician
+Oral Statement...................................................     6
+Ms. Virginia Gentles, Director, Education Freedom Center, 
+  Independent Women's Forum
+Oral Statement...................................................     8
+Ms. Donna Mazyck, R.N., Executive Director, National Association 
+  of School Nurses
+Oral Statement...................................................    10
+
+Written opening statements and the written statements of the 
+  witnesses are available on the U.S. House of Representatives 
+  Document Repository at: docs.house.gov.
+
+                           Index of Documents
+
+  * Author Manuscript, HHS Public Access, ``Effectiveness of Mask 
+    Wearing to Control Community Spread of SARS-CoV-2''; 
+    submitted by Rep. Dingell.
+  * Morbidity and Mortality Weekly Report, HHS/CDC, 
+    ``Effectiveness of Face Mask or Respirator Use in Indoor 
+    Public Settings for Prevention of SARS-CoV-2 Infection, 
+    California, February-December 2021''; submitted by Rep. 
+    Dingell.
+  * Article, Pediatrics, Volume 149, number 6, Month 2022, 
+    ``School Masking Policies and Secondary SARS-CoV-2 
+    Transmission''; submitted by Rep. Dingell.
+  * Presentation to Hon. Bruce D. Voss from Superintendent Keith 
+    T. Hayashi, State of Hawaii Department of Education, 
+    ``Measuring Student Achievement: Pandemic Impacts and 
+    Recovery''; sbmitted by Rep. Tokuda.
+  * Article, Contemporary Pediatrics, ``Pediatric speech disorder 
+    diagnoses more than doubled amid COVID-19 pandemic''; 
+    submitted by Rep. Miller-Meeks.
+
+Documents are available at: docs.house.gov.
+
+ 
+                  THE CONSEQUENCES OF SCHOOL CLOSURES: 
+                        INTENDED AND UNINTENDED 
+
+                              ----------                              
+
+
+                    Tuesday, March 28, 2023
+
+                        House of Representatives
+
+               Committee on Oversight and Accountability
+
+            Select Subcommittee on the Coronavirus Pandemic
+
+                                                   Washington, D.C.
+
+    The Subcommittee met, pursuant to notice, at 10:06 a.m., in 
+room 2154, Rayburn House Office Building, Hon. Brad Wenstrup 
+(Chairman of the Subcommittee) presiding.
+    Present: Representatives Wenstrup, Comer, Malliotakis, 
+Miller-Meeks, Lesko, Cloud, Joyce, Greene, Jackson, McCormick, 
+Ruiz, Raskin, Dingell, Mfume, Ross, Garcia, Bera, and Tokuda.
+    Dr. Wenstrup. Good morning. The Select Subcommittee on the 
+Coronavirus Pandemic will come to order. I want to welcome 
+everyone.
+    Without objection, the Chair may declare a recess at any 
+time.
+    I now recognize myself for the purpose of making an opening 
+statement, and before we get started, I do want to take a brief 
+moment of silence for the lives lost, students and teachers, in 
+Nashville yesterday.
+    [Moment of silence.]
+    Dr. Wenstrup. Thank you. While we are thankful for the 
+quick actions of law enforcement, we pray and grieve for the 
+families of those that lost their lives in this tragedy. May we 
+someday discover the underlying events in someone's life that 
+leads to senseless violence so that perhaps we may prevent 
+great harm in the future.
+    Today is the Select Subcommittee's first hearing evaluating 
+impacts and consequences of prolonged pandemic-era school 
+closures. Early on in this coronavirus pandemic, there was not 
+a lot known. COVID-19 was clearly a novel virus. It was not 
+acting like SARS or the annual flu. And unfortunately, China 
+and the World Health Organization seemed to obfuscate facts in 
+real time. It appeared that our health agencies had gone 
+through decades of unpreparedness. Taking this into account, 
+some decisions made early on were made with the best intentions 
+and made with the prevailing science at that time. Through the 
+chaos and over time, it seemed that many states and districts 
+gave up or gave in and failed to put the students' well-being 
+first. Long-term closing of schools proved to be harmful to 
+students, their academic, mental, physical and social 
+development, and overall success. We need to make every effort 
+to not let this happen again for the sake of our future.
+    Preparing this Nation's education system to effectively 
+address a future pandemic starts with holding ourselves and our 
+agencies accountable and being honest about it. It is fair and 
+just to recognize our errors and misjudgments. Good judgment, 
+retrospective or otherwise, should be acknowledged as well. The 
+intent of this hearing is to examine school closures related to 
+the COVID-19 pandemic response in order to enable the Select 
+Subcommittee to conduct further investigations, learn from 
+policy failures, discover and apply best practices, and improve 
+readiness for future pandemics.
+    As we look back, I believe each state and district should 
+have asked themselves, schools need to be open, students need 
+in-person instruction. How can we achieve that? Many schools 
+did just that. In full perspective, and indeed retrospectively, 
+the baseline should have been to keep schools open and to ask 
+how that gets done to best protect the health of students and 
+teachers, but also provide the in-person learning and social 
+interaction that children need in order to develop normally. 
+Preparing a Nation's education system to effectively address a 
+future pandemic starts with holding our health agencies 
+accountable and to expect an open scientific process, steep in 
+accurate data in order to drive sound policy decisions. Who 
+knows? The next pandemic may affect children more than adults. 
+Will we be prepared to minimize harm?
+    In the case of COVID-19 pandemic, the lingering negative 
+effects have been many: academic, mental, economic. There are 
+also secondary harms of prolonged school closures that fell 
+upon children, for example, abuse and poor nutrition among 
+them. We must strive to be prepared to never let this happen 
+again. Our children have paid the price and are continuing to 
+pay the price. Let's make sure that those involved with policy 
+decisions were not motivated in some way to put themselves 
+above our children and their futures. This is not a question of 
+right or left. Opinion differences are one thing. Right and 
+wrong is yet another. It is upon us to fully investigate 
+whether officials truly placed the best interest of our 
+Nation's children first or were there other factors at play. 
+Honesty is non-negotiable. Our students and our families 
+deserve answers.
+    I look forward to working with my colleagues on both sides 
+of the aisle to deliver the truth to the American people so 
+that we can better prevent, prepare, protect, and maybe even 
+predict when it comes to our pandemic response in the future.
+    I would now like to recognize Ranking Member Ruiz for the 
+purpose of making an opening statement.
+    Dr. Ruiz. Thank you, Mr. Chairman. Let me begin by also 
+expressing my condolences to the parents and families who lost 
+their loved ones yesterday at Covenant School in Nashville. And 
+as we grieve the loss of another six lives to the epidemic of 
+gun violence in America, we must act beyond condolences and 
+enact commonsense reforms that put our children and communities 
+first. I will now turn my attention to another issue of 
+critical importance for our children's health, safety, and 
+well-being.
+    Over the last three years, the impact of COVID-19 pandemic 
+on our Nation's children has weighed heavily on the minds of 
+parents, students, educators, and Americans all across the 
+country. As a physician and a father, it has certainly been at 
+the top of my mind. Today, I hope that we make progress on 
+identifying evidence-based solutions to help America's children 
+live and learn healthily and safely. In this work, our goal 
+must be to make our schools resilient for the next highly 
+contagious lethal virus so that we can keep schools open, 
+protect students and teachers, prevent outbreaks, and reduce 
+transmissions of the virus in our communities.
+    We must help children cope with the anxiety, depression, 
+and trauma they experienced during the pandemic, which continue 
+to impact their mental health and academic performance to this 
+day. And my heart breaks for the many suffering from anxiety 
+and depression and families who lost a son or a daughter from 
+suicide. We must also identify ways to help students not only 
+catch up in school, but also excel in the future. To do right 
+by our Nation's parents, students and educators, we must have 
+an honest conversation today, one that is objective, guided by 
+compassion, and led by facts and science. That includes taking 
+a comprehensive approach to examining actions taken throughout 
+the entire days of this public health crisis, including the 
+earliest days.
+    From the beginning, President Trump and his Administration 
+did not act with the urgency needed to reduce transmission, 
+communicate honestly with the American people, and equip our 
+schools with the resources they needed. Instead of working to 
+efficiently manufacture PPE, scale up testing, and promote 
+basic public health measures, like masking and social 
+distancing, President Trump chose to politicize this virus, 
+calling it a hoax and downplaying its severity, saying, ``It 
+would go away just like the flu.'' But as the coronavirus 
+reached pandemic proportions, public officials of all political 
+persuasions had to act to suspend in-person learning, slowing 
+the transmission of an airborne virus that easily spreads in 
+close, confined spaces, like classrooms.
+    The Trump Administration's early failures resulted in the 
+prolonged suspension of in-person learning, so much so that 
+when January 2021 rolled around, less than half of America 
+schools were open for full time in-person learning. President 
+Biden took a different approach. The Biden Administration took 
+swift action to develop evidence-based guidance for schools, 
+and congressional Democrats enacted the American Rescue Plan to 
+help kids in schools get back in school safely and responsibly. 
+The results speak for themselves.
+    One year after President Biden was sworn into office, 
+efforts more than doubled the number of schools opened for full 
+time in-person learning to 95 percent. And schools did not just 
+reopen, they stayed open. Today, more than 99 percent of 
+schools in the United States have safely and responsibly 
+reopened for in-person learning. That is a direct result of the 
+American Rescue Plan, targeted investments in childhood 
+education to keep students healthy and safe while they learn.
+    In fact, key funding from the American Rescue Plan is 
+already at work rebuilding schools' crumbling infrastructure, 
+upgrading their ventilation systems, and getting students the 
+resources that they need. I will give you an example. Coachella 
+Valley Unified School District, where I went to school, is 
+putting $2 million of their funding toward making critical 
+updates of air purification systems that can filter out viruses 
+so that kids can breathe cleaner air in their classrooms.
+    The American Rescue Plan also included strong provisions to 
+not just get kids back in school, but also to make up for the 
+lost classroom time requiring that 20 percent of all funds go 
+toward addressing learning loss. Again, CVUSD in my district is 
+investing nearly $600,000 for instructional support and over 
+$1.8 million for emotional and behavioral health support. We 
+should look to build on this progress.
+    So let us not turn our backs on lifesaving public health 
+measures that reduce transmissions in schools, in our 
+communities, including vaccines, which have saved more than 3 
+million lives and prevented nearly 120 million COVID-19 
+infections in the United States as shown in a Commonwealth Fund 
+study. Social distancing, which, if not in place at the time, 
+would have resulted in a 35 times greater spread of COVID-19 
+between March and April 2020, according to a peer-reviewed 
+report in Health Affairs, and effective mask wearing, which 
+researchers at Duke University found, was associated with a 72-
+percent reduction of in-school COVID-19 cases.
+    We should aim to put people over politics and work together 
+to prioritize our children's health and well-being both inside 
+and outside the classroom because when we do just that, we will 
+set our kids up for success and help them thrive now and into 
+the future. Thank you.
+    Dr. Wenstrup. Pursuant to Committee on Oversight and 
+Accountability Rule 9(g), the witnesses will please stand and 
+raise their right hands.
+    Do you solemnly swear or affirm that the testimony that you 
+are about to give is the truth, the whole truth, and nothing 
+but the truth, so help you God?
+    [A chorus of ayes.]
+    Dr. Wenstrup. Thank you. Let the record show that the 
+witnesses all answered in the affirmative.
+    Our witnesses today are Mr. David Zweig. Mr. Zweig is an 
+investigative journalist and author writing for The Atlantic, 
+New York Magazine, and the Free Press. He has investigated and 
+written extensively regarding pandemic-related school closures 
+and their intersection with available science and outside 
+influences. He is the author of the forthcoming book titled, An 
+Abundance of Caution, about American school closures during the 
+COVID-19 pandemic. Dr. Tracy Beth Hoeg. Dr. Hoeg is a physician 
+and holds a doctorate in epidemiology. She currently practices 
+in Northern California and works at the University of 
+California at San Francisco in the Department of Epidemiology 
+and Biostatistics.
+    Ms. Virginia Gentles. Ms. Gentles is the director of the 
+Education Freedom Center at the Independent Women's Forum. She 
+has previously served in the Florida Department of Education 
+and the U.S. Department of Education. Ms. Donna Mazyck. Ms. 
+Mazyck has been the executive director of the National 
+Association of School Nurses since 2011 and is actually 
+retiring next month. Congratulations. Prior to that, she was a 
+school health nurse--thank you--and served in the Maryland 
+Department of Education.
+    The Select Subcommittee certainly appreciates you all for 
+being here today and we look forward to your testimoneys. Let 
+me remind the witnesses that we have read your written 
+statements, and they will appear in full in the hearing record. 
+Please limit your oral statements to five minutes. As a 
+reminder, please press the button on the microphone in front of 
+you so that it is on and the members can hear you. When you 
+begin to speak, the light in front of you will turn green. 
+After four minutes, the light will turn yellow. When the red 
+light comes on, your five minutes have expired and we would ask 
+that you please wrap up.
+    I would now like to recognize Mr. Zweig to give an opening 
+statement.
+
+STATEMENT OF DAVID ZWEIG, AUTHOR AND INVESTIGATIVE JOURNALIST, 
+        THE ATLANTIC, NEW YORK MAGAZINE, THE FREE PRESS
+
+    Mr. Zweig. Good morning, and thank you Chairman Wenstrup, 
+Ranking Member Ruiz, and members of the Subcommittee for 
+inviting me to testify today. Since the spring of 2020, I have 
+been researching and writing about the nexus of children and 
+schools and COVID. I have conducted more than 100 interviews 
+with experts in a wide range of fields, from infectious 
+diseases, to pediatrics, to epidemiology to psychology, and 
+more about this topic. I am currently writing a book for MIT 
+Press within which I will explore and explicate the decision-
+making process behind school closures.
+    I would like to offer my overview of some of the 
+consequences of school closures and learning interruptions 
+during the pandemic. The place to begin is by asking a 
+question, is school an essential service? If the answer is yes, 
+then that means there is harm if it is denied to children. In 
+America, the option of free school is a long-cherished right. 
+In March 2020, out of an abundance of caution, that right was 
+taken away from more than 50 million children. The country was 
+facing a novel and deadly virus and in the eyes of many this 
+was a reasonable action. Yet caution does not only run in one 
+direction. Recognizing this, at the end of April and in early 
+May, many schools throughout Europe began reopening. In the 
+United States, however, with rare exception, they remained 
+closed for the rest of the academic year.
+    While most of our focus will be on the effects of closures 
+through the 2020-2021 school year, looking back to spring of 
+2020, it can be easy to lose sight of the fact that a three 
+months' school closure was in itself unprecedented and not 
+without repercussions. In the fall 2020, things took a 
+consequential turn. Millions of American children began going 
+back to school while millions of their peers did not. Many of 
+them in California, Virginia, Maryland, among many other 
+states, did not step foot into a school building for more than 
+a year.
+    Within those states, a child could find herself in school 
+full time while her best friend down the block was confined to 
+her bedroom. Millions of children in private schools also 
+attended in-person while peers in the same cities and towns did 
+not. Still millions of other children were enrolled in hybrid 
+learning where schools were listed as ``open,'' yet students 
+only attended part time, some as little as one-half day each 
+week. If you believe that school is an essential service, as I 
+do, then the circumstances I just described were broadly 
+inequitable. When the option of school was taken away from only 
+some children, it did not remedy whatever inequities that 
+already existed. Rather, it exacerbated them.
+    Numerous analyses from Ohio State, Brown University, 
+Harvard, among many other institutions, have repeatedly found 
+direct correlations between time out of school and learning 
+loss. They found that remote instruction was more prevalent 
+among Black and Hispanic students, and that it was a primary 
+driver of widening the achievement gaps. Outside of academics, 
+the effects are harder to quantify. They are no less real. 
+Perhaps the most heartbreaking consequence of the closures is 
+the associated increase in child abuse. Educators represent 
+around 20 percent of all official reports of child abuse and 
+neglect. When kids were prevented from attending school, 
+teachers were no longer there to act as that safety net. As a 
+consequence, reports dropped massively. At a Virginia Safety 
+Center, calls plummeted by around 70 percent, and when they did 
+get calls, more of them were for injuries so horrific that it 
+was only because an adult had to seek medical help.
+    Isolation from peers and inactivity of remote learning had 
+broad mental health consequences for children and teens as 
+well, numerous studies showing depression and anxiety spiking 
+in relation to the closures. There were physical harms. A study 
+from the CDC found that the rate of body mass index increased 
+approximately doubled during the pandemic compared to a pre-
+pandemic period. Outside of statistics, there are far more 
+nebulous effects. School closures also meant the end of sports. 
+Student athletes, many in low-income families with few 
+prospects, lost their chance of getting recruited to college. 
+Many of these boys simply disappeared, one coach told me. It is 
+impossible to quantify how life trajectories are altered by an 
+infinite number of downstream effects.
+    Last, harm should not only be calculated or considered 
+through the lens of long-term effects. Children suffered in 
+real time--and that alone matters--but were the harms of the 
+closures worth it? Not surprisingly there are numerous analyses 
+of the impact of transmission from school closures. One study 
+published in Nature Medicine found that the case rates were not 
+statistically different in counties with in-person learning 
+versus those without.
+    In the same study, however, in the South, the authors did 
+find that counties with open schools had an increase of roughly 
+10 to 20 more cases per 100,000 people each week than those in 
+remote. Are 10 cases out of 100,000 people a reasonable 
+tradeoff for kids to be able to attend school? This is the type 
+of question many policymakers did not address during the 
+pandemic, but is the type of cost benefit question I urge them 
+to consider moving forward. Thank you.
+    Dr. Wenstrup. Thank you. I now recognize Dr. Hoeg to give 
+an opening statement.
+
+STATEMENT OF TRACY BETH HOEG, M.D., PH.D., PHYSICAL MEDICINE & 
+  REHABILITATION SPECIALIST, EPIDEMIOLOGIST, PRIVATE PRACTICE 
+                           PHYSICIAN
+
+    Dr. Hoeg. Hi. Good morning. My name is Tracy Beth Hoeg. I 
+am a Ph.D. epidemiologist, currently working at the University 
+of California, San Francisco, and I am a practicing physician 
+in Northern California. I have thus far published 13 scientific 
+publications related to COVID-19, looking at COVID-19 
+transmission within schools, how COVID affects children, our 
+COVID-19 mitigation strategies in children, and what are the 
+evidences we use for those as well as harm benefit analyses in 
+children and young people.
+    I appreciate the opportunity to be here today to discuss 
+something that has been very important to me for the last three 
+years. I want the American people to understand that the harms 
+that were inflicted upon children in the U.S. with school 
+closures were unnecessary. I am not saying this is a COVID 
+minimizer. I am saying this as a physician scientist who 
+watched very closely the data out of Wuhan first about how 
+children had a greater than 1,000fold decreased mortality 
+compared with elderly adults, and then out of Europe that 
+spring of 2020 which showed no corresponding increase in 
+community transmission related to the school reopenings and 
+very little transmission within the school setting.
+    I had moved from Denmark with my family five years prior to 
+the pandemic and watched the Danes on the news excitedly reopen 
+their schools just six weeks after closing them, April 2020, as 
+the first step of reopening their economy. Soon their neighbors 
+and most of Europe followed suit. There was an implicit 
+understanding across Europe that children must have a safe, 
+happy environment to return to before parents can return to 
+work. Where was that sentiment in the U.S.? Not only do I think 
+that Americans reopening adult activities like bars, movie 
+theaters, restaurants, fitness centers, before school sent the 
+message that education was inessential but may have had the 
+unintended consequence of children viewing themselves as less 
+valuable.
+    Looking into the fall of 2020, in stark contrast to Europe, 
+the CDC set reopening guidelines to put greater than 90 percent 
+of the country in the most restrictive tier for reopening based 
+on arbitrary community transmission levels, which we had 
+already seen from Europe were not necessary to reopen schools. 
+So, this resulted in less than 25 percent of students across 
+the U.S. returning to full time in-person school. But I knew 
+from my experience in California as a medical adviser to a 
+large diocese in Sacramento that this did not have to be the 
+case because we were able to reopen full time, August 2020, by 
+applying for a permit to be a daycare. So, we were able to find 
+a way around Governor Newsom's very strict guidelines for 
+reopening, and we never closed the schools again, and 
+experienced very limited in-school transmission with minimal 
+mitigation strategies and a simple procedure for reopening.
+    I went on to research in-school transmission in Wood 
+County, Wisconsin, and published with the CDC, finding that in-
+school transmission in Wood County, Wisconsin, was minimal over 
+the fall semester of 2020, and there was a 37 percent lower 
+rate of cases in the schools than in the surrounding community. 
+So it never made sense, and we knew this from Europe, to keep 
+our children out of school when they had a higher risk of 
+transmission outside of school than in school.
+    In disbelief, I watched the CDC that spring release their 
+new guidelines, again putting greater than 90 percent of the 
+country in the most restrictive tier for school reopening, 
+often requiring greater than six feet of distance between 
+students, which made no sense considering this was a 
+predominantly aerosolized virus and the CDC director, Rochelle 
+Walensky, had previously only required three feet in her own 
+district in Massachusetts, so it was unclear why she was now 
+requiring six feet for students to return to the classrooms in 
+February 2021. It is unclear if this was based on 
+recommendations from teachers' unions affecting the wording of 
+the CDC guidelines. That is my own suspicion based on a 
+whistleblower, and I think that this should be investigated.
+    School closures were highly regressive policy and are 
+likely the worst public health decision we will see in our 
+lifetimes. Students in poverty levels and higher levels of 
+poverty were more likely to be kept out of school. And we have 
+seen the academic achievement fall nationwide to levels where 
+they were over two decades ago in both math and reading scores, 
+and academic losses have been the greatest among students with 
+the highest poverty levels. And there has been a striking dose 
+response relationship between the length of school closures and 
+the academic achievement declines. We have seen increasing 
+absenteeism, and we have seen decreasing rates of community 
+college enrollment, decreased lifetime earnings projections, 
+increased weight gain, decreased physical activity. AAP has 
+declared a mental health crisis, and we have seen that those 
+kept out of school the longest have suffered some of the worst 
+mental health consequences.
+    In conclusion, we have known from the spring of 2020, from 
+international data, that we should keep schools open as Europe 
+did, yet we chose to risk our children in an attempt to protect 
+adults. But this consequentialist, deeply unethical decision 
+failed. We gambled with our children and gained nothing for 
+adults, but our children lost so much. Thank you.
+    Dr. Wenstrup. Thank you. I now recognize Ms. Gentles to 
+give an opening statement.
+
+  STATEMENT OF VIRGINIA GENTLES, DIRECTOR, EDUCATION FREEDOM 
+               CENTER, INDEPENDENT WOMEN'S FORUM
+
+    Ms. Gentles. Chairman Wenstrup, Ranking Member Ruiz and 
+members of the Subcommittee, thank you for having me here 
+today. My name is Virginia Gentles, and I am the director of 
+the Education Freedom Center at Independent Women's Forum.
+    We are here today to discuss the consequences of school 
+closures. Despite children being COVID's lowest risk 
+demographics, school district leaders endangered elementary and 
+secondary children academically, emotionally, and physically by 
+closing and refusing to open schools, decisions that lead to 
+devastating learning loss, significant mental health issues, 
+developmental delays and persistent discipline challenges.
+    School district superintendents, school board members, and 
+state leaders knew early on that children were extremely low 
+risk and school closures were an ineffective strategy for 
+preventing the spread of the virus, but many feared the 
+political consequences for prioritizing to open schools. Let us 
+be honest. Schools stayed closed primarily because the 
+teachers' unions in our country have enormous political power, 
+and parents do not.
+    My community of Arlington, Virginia school closure disaster 
+unfolded similarly to many blue areas around the country. 
+School district leaders refused to open schools fully for a 
+year and a half. Students received no instruction in the spring 
+of 2020 and low-quality remote instruction for the 2020-2021 
+school year as Arlington initially planned to open two days a 
+week in fall of 2020, but reneged just before the school year 
+began. Teachers were not trained to teach remotely, and online 
+instructional materials were not created.
+    Some students were allowed to return for a shortened two 
+days a week in the spring of 2021, but many were placed in 
+front of screens with teachers remaining remote. At the end of 
+the utterly wasted 2020-2021 school year, the Arlington Parents 
+for Education, my community's open schools' advocates, tweeted, 
+``The worst part, it did not have to be like this.'' Arlington 
+then reneged on plans to offer summer school to high-need 
+students.
+    When schools finally opened their doors for five-days-a 
+week full-day instruction in the fall of 2021, onerous testing 
+and quarantine policies further disrupted students' learning. 
+The district's callous policies denied students with 
+disabilities essential federally mandated services and 
+accommodations. The damage to the young children who did not 
+receive early intervention services is permanent. When district 
+staff summoned me in summer of 2020 to discuss abandoning my 
+daughter's Individualized Education Plan, or IEP, I knew it was 
+our time to leave.
+    Unfortunately, my community's story mirrors parents' 
+experiences in school districts across the country, and the 
+2022 Nation's Report Card, or NAEP scores, exposed the 
+widespread catastrophic failure of the Nation's K-12 education 
+systems: irresponsible pandemic-era policies. The NAEP scores 
+showed the largest decline in fourth grade reading since 1990, 
+the first-ever decline in fourth grade math. Seventy-four 
+percent of eighth grade readers are not proficient in math, and 
+69 percent cannot read proficiently. The average public school 
+student grades 3 to 8 lost the equivalent of half year of 
+learning in math and a quarter year of learning in reading, and 
+many lost much more. Because schools with large numbers of low-
+income and minority students were closed the longest, school 
+closures resulted in the largest increase in educational 
+inequity in a generation.
+    The closures also caused social and behavioral skills, 
+missed opportunities to develop those. As a direct result, 
+pervasive discipline and mental health issues are creating an 
+unsafe environment for students and teachers. Fifty-six percent 
+of schools reported a rise in classroom disruptions because of 
+student misconduct last year, and one-third of teachers report 
+being verbally harassed or threatened with violence by a 
+student. Too many students remain disengaged from learning with 
+hundreds of thousands missing. Districts across the country are 
+reporting alarmingly high rates of chronic absenteeism. These 
+COVID-era policies condemned these children to low literacy 
+skills, limited employment opportunities, higher rates of 
+poverty and incarceration, and bleak futures.
+    In contrast, private schools reopened quickly and stayed 
+open. In the fall of 2020, 43 percent of traditional public 
+schools and 92 percent of Catholic schools welcomed students 
+back to classrooms. As a result, students in Catholic schools 
+are about a year-and-a-half grade levels ahead of public school 
+students in fourth grade reading and two grade levels ahead in 
+eighth grade reading. State policymakers noticed the stark 
+contrast between public and private school priorities during 
+the COVID era and began introducing and passing universal 
+education freedom programs. These popular programs empower 
+parents to enroll their children in options committed to 
+educating students. School district leaders, however, are not 
+taking the learning loss crisis that they created seriously.
+    The Federal Government bequeathed $190 billion of 
+supplemental educational funding in the states and districts, 
+but unfortunately, much of the ESSER funding remains unspent or 
+was allocated unwisely. Rather than addressing the learning 
+loss crisis, school districts around the country have wasted 
+ESSER funds on expenses like football fields, sound systems, 
+and unused online platforms. Irresponsibly, many school 
+districts, despite declining enrollment, are creating perilous 
+fiscal cliffs by hiring and paying new staff members with 
+temporary ESSER funds.
+    It is time to take drastic measures to address the learning 
+loss and discipline crisis caused by school closures. School 
+district and state departments of education are awash in 
+supplemental Federal funding and must make student-focused and 
+bold investments to redeem themselves as educators and put 
+students' needs first.
+    Dr. Wenstrup. Thank you. I now recognize Ms. Mazyck to give 
+an opening statement.
+
+ STATEMENT OF DONNA MAZYCK, R.N., EXECUTIVE DIRECTOR, NATIONAL 
+                  ASSOCIATION OF SCHOOL NURSES
+
+    Ms. Mazyck. Chairman Wenstrup, Ranking Member Ruiz, thank 
+you for inviting me to testify today. I also acknowledge 
+Chairman Comer and Ranking Member Raskin. I offer testimony 
+today as executive director of the National Association of 
+School Nurses, or NASN, on behalf of 95,000 school nurses 
+across the country who work to support student learning and 
+academic success by making sure students are healthy and safe. 
+School nurses are critical members of student support teams, 
+serving at the nexus of education and public health.
+    In 2020, the U.S. Census Bureau reported 4.3 million 
+children were uninsured. For many children living in or near 
+poverty, the school nurse may be the only healthcare 
+professional they access regularly, and access to a school 
+nurse advances health equity. School nursing practice focuses 
+on student-centered care that occurs in the context of the 
+student's family and school community. Health and learning are 
+linked, which is why all students should have their health 
+needs met during school hours.
+    In addition to education, schools are places where 
+healthcare happens and an essential part of our Nation's public 
+health infrastructure. The pandemic wasn't the first time that 
+schools and school nurses responded to infectious disease 
+outbreaks that included school closures. In fact, in April 
+2009, a school nurse identified the first cluster of H1N1 among 
+students. At that time, schools and local health authorities 
+collaborated on when to close schools.
+    During the pandemic, schools and local authorities were 
+called upon once again to evaluate the need to close schools 
+due to infectious disease, this time, a rapidly shifting novel 
+coronavirus. The intended consequence of the Nation's school 
+closures was to minimize spread of COVID-19. Just as with H1N1, 
+at the time of the pandemic, NASN emphasized the need for 
+localities to monitor community transmission, vaccination 
+coverage, screening, testing, and occurrence of outbreaks to 
+guide their decisions on the level of layered prevention 
+strategies to use.
+    With layered mitigation strategies, we can keep students in 
+school communities safe. We knew this before the pandemic, and 
+we know it now. A modeling study on transmission of COVID-19 in 
+schools noted that the use of multiple mitigation strategies, 
+along with contact tracing by school leaders, staff, and 
+parents would reduce COVID transmission by at least 69 percent. 
+As the novel coronavirus caused schools to shut down, school 
+nurses continued to serve students and families.
+    NASN places priority on equitable in-person learning 
+located in healthy and safe school environments. We called on 
+Congress and the Administration to reopen schools in the late 
+spring and summer of 2020, understanding that it was essential 
+for children to be back in school. Decisions to return to in-
+person learning needed to be based on public health data, 
+including data at community levels where coronavirus 
+transmission rates varied and adequate resources and plans 
+needed to be available, including PPE, cleaning and 
+disinfecting supplies, testing strategies, and contact tracing, 
+as well as adequate staffing to support the implementation of 
+these measures.
+    School nurses are critical to the implementation of 
+mitigation strategies in schools. While NASN's vision is that 
+all students are healthy, safe, and ready to learn, the reality 
+is a bit different. It is estimated that 1 in 4 students in the 
+United States have a chronic health condition, and 
+approximately six percent of those students have multiple 
+chronic health conditions. A recent study in JAMA Pediatrics 
+found that schools are the de facto mental health system, 
+providing services to 57 percent of adolescents who needed care 
+before the pandemic. Prior to the pandemic, schools were 
+already understaffed with school support personnel, including 
+student mental health support and 25 percent of school students 
+did not have school nursing services.
+    School closures due to the pandemic highlighted the cracks 
+in the foundation that have now grown to be large fissures. To 
+support students' social, emotional, and mental health needs at 
+school, NASN called for more investments in specialized 
+instructional support personnel, such as school counselors, 
+nurses, psychologists, and social workers. The pandemic 
+highlighted the interdependence of health and learning. It also 
+created a historic opportunity to build systems that better 
+support the whole child and their communities. All students 
+deserve to have their health needs met while at school. School 
+health services provide equitable support for all students 
+being in school, healthy and ready to learn. Thank you.
+    Dr. Wenstrup. I want to thank you all for your testimoneys, 
+and I am going to yield time for me to ask questions. But I do 
+want to start by saying I really appreciate Ms. Mazyck and Mr. 
+Zweig, in particular, talking about the essential need for 
+children to be in school and all that comes with it, and, as I 
+said in my opening statement, the importance of why we should 
+be striving, regardless of what is going on with the pandemic, 
+striving to find every possible way we can to have kids in 
+school. So, I appreciate your testimoneys on that.
+    But aside from the debate on whether the schools should be 
+open or closed, just for a minute, I want to discuss the 
+differences between the schools that were open and the schools 
+that were closed. So Mr. Zweig, you mentioned that school is an 
+essential service. I want to talk about the inequity in how 
+school was delivered during the pandemic, if you will, and 
+combine that with whether states and districts prioritized in-
+person instruction, and did they perform better than those that 
+were remote. So, I'm kind of combining a few things here, if 
+you don't mind. And were the districts that stayed remote 
+longer more likely to be in already disadvantaged districts? 
+Did you find that? I can repeat those if you want me to, but--
+--
+    Mr. Zweig. I think I got it. Thank you for the question, 
+Chairman. There are a number of analyses that looked at 
+comparing the academic achievement related to the amount of 
+time that children were in or not in school. You may hear talk 
+about certain scores at a state level where they found that 
+there wasn't a large difference through that particular lens. 
+But what is interesting to understand about that is, that is 
+very crude data when you are looking at states, but the 
+analyses that actually drilled down at the district or county 
+level did find very stark differences. So, there was an 
+analysis by Vladimir Kogan at Ohio State University. He found 
+that districts with fully remote instruction experienced test 
+score declines up to three times greater than districts that 
+had in-person instruction for the majority of the school year.
+    Moreover, the research showed that disadvantaged students 
+had disproportionate learning declines during the academic 
+year. There are similar analyses by Emily Oster at Brown 
+University, and there is a huge 36-page report that came out of 
+Harvard University's Center for Education Policy Research, and 
+this is on more than 2 million students. It found that remote 
+instruction was more prevalent among Black and Hispanic 
+students and that it was the primary driver of widening 
+achievement gaps. They also found that high-poverty schools 
+spent more weeks in remote instruction than low and mid-poverty 
+schools.
+    So, there certainly was evidence that we can look at now 
+and that, in my view, was quite manifest even in real time that 
+there were going to be very dramatic repercussions from keeping 
+kids out of school, in particular, those who lacked resources. 
+I know plenty of people who had the money and the wherewithal 
+to hire tutors or go to special pod programs, which I wrote 
+about for The New York Times and for other things, but the kids 
+who lacked those resources in the homes where the parents both 
+had to go to work, they weren't able to be there. This created 
+an extraordinary circumstance for them where you had either 
+young children left home alone with a device all day, or they 
+then went to daycare centers or maybe a relative's home. This 
+is kind of the core element of when we think about what did 
+closing schools or do these hybrid programs, what do we achieve 
+from that.
+    For me, when you look at the science, one of the things 
+from talking with numerous epidemiologists, like Dr. Hoeg, and 
+with infectious disease physicians and implementation 
+scientists is that these children did not operate in a vacuum. 
+So even if the schools were closed, over time, they were going 
+to interact with people anyway, and in some cases, in a more 
+potentially dangerous fashion because you are mixing with kids 
+from five different communities in a daycare center versus had 
+they been in school with their own individual cohort.
+    Dr. Wenstrup. Alright. I just want to ask a ``yes'' or 
+``no'' question, I guess. We talked about the inequities, about 
+how school was delivered during the pandemic, and seek your 
+opinion. To me, this is a great opportunity for us to learn 
+some valuable long-term lessons. Would you agree with that?
+    Mr. Zweig. I certainly would.
+    Dr. Wenstrup. OK. Thank you. Ms. Gentles, can you discuss 
+the academic impacts of the prolonged school closures, 
+specifically to the academics and also the children's social 
+and behavioral development, and compare the two, open or closed 
+schools?
+    Ms. Gentles. Right. Well, I mentioned in the testimony we 
+have got clear data from NAEP scores and the public schools and 
+the Catholic schools. The public schools, half of them 
+essentially closed until fall of 2021, half of students not 
+attending school full time, and Catholic schools that were 
+essentially 92 percent fully open starting in the fall of 2020, 
+and you see a huge difference in the fact that the Catholic 
+school performance is a year-and-a-half to two years ahead. So, 
+that is one measure.
+    Drilling down to Arlington Public Schools, where I live, 
+the majority of Black students, Hispanic students, and students 
+with disabilities started this school year, 2022, with testing 
+below basic in the 2022 math inventory. So, we have got the 
+NAEP scores, we have got the state assessment scores, and then 
+we have got the local inventories and the assessments they do 
+multiple times a year, all showing that the academic 
+performance of the public school students in areas where they 
+were closed dropped precipitously in contrast to schools that 
+were open.
+    You asked about discipline and mental health consequences, 
+social and behavioral. Well, NCES, National Center for 
+Education Statistics, has been gathering discipline statistics 
+that definitely is worth taking a look. The spikes in reports 
+in classroom disruptions, violence, incidents of violence, 
+disrespect toward teachers, threats toward teachers has gone up 
+considerably in public schools and that is very clear. In 
+addition to that, the American Psychological Association did a 
+survey of teachers, and they are reporting significant 
+increases with these discipline issues. Eighty percent of 
+teachers also reported that their students are behind social 
+and behaviorally, developmentally, where the students were in 
+2019, 80 percent.
+    Dr. Wenstrup. Thank you. I now recognize the Ranking 
+Member, Dr. Ruiz from California, for five minutes of 
+questions.
+    Dr. Ruiz. Thank you all for being here. I really appreciate 
+that you are testifying here before us. Let me just make it 
+very clear. The goal of all of us on this side of the panel, 
+and I am assuming on both sides, is to keep schools open even 
+in the next pandemic by equipping them with the tools, and the 
+protocols, and all of the equipment necessary in order to help 
+reduce transmission, as well as keeping our students, the 
+teachers, the nurses, and everybody safe. And that should be 
+the goal of this Committee is to figure out how do we make our 
+schools resilient.
+    As Chair of the Congressional Hispanic Caucus, we dove deep 
+into the disparities of school closures and how it affected 
+African-Americans, Latinos, Native Americans, more than others. 
+And the reason why we saw this disparity is because of the 
+underlying inequities and disparities that we see in our 
+healthcare system to begin with. Public schools and schools 
+where you have African-Americans, Latinos are overcrowded 
+compared to private and Catholic schools. They are underfunded 
+compared to private and Catholic schools. And in those 
+communities, those workers live in overcrowded housing.
+    So the risk of increased transmission, as borne out by the 
+data in African-American and Latino communities, was much 
+higher. So, in the moment where we didn't have the vaccine or 
+the healthcare tools that we needed, there was reason to 
+practice more social distancing in those schools. And schools 
+that had an abundance of funding were able to quickly bring 
+their students back. They were able to comply with some of the 
+guidelines and had the equipment necessary.
+    And then you see the cycle of disparities and inequities 
+that we see not just in the healthcare system, but also in our 
+educational system, which, combined, that saw a higher rate of 
+mortality and morbidity due to this pandemic in Black and 
+Latino students. That is why, and I must say that in the 
+infrastructure law that we supported, in the Inflation 
+Reduction Act that we supported, in the omnibus that we 
+supported, there was equity built into the funding in order to 
+address the public health, schools, and the communities that 
+have historically been under resourced for whatever reason, in 
+order to prevent and stop this transmission and to protect the 
+communities so they can have an equal playing foot in education 
+and keeping their schools open, and in having to build 
+resilient communities to begin with.
+    That was built in the piece of legislation to address the 
+type of disparities that you are speaking of now, and that is a 
+reason of many that when President Biden took office, his 
+Administration hit the ground running to get kids back in 
+schools. The President knew kids belonged in schools to learn 
+and grow, and he understood that we needed to get kids back in 
+school safely and responsibly and open schools safely and 
+responsibly, equipped with public health tools. That was 
+crucial to putting our Nation on firmer footing in its pandemic 
+recovery. Within one year of President Biden taking office, the 
+number of schools that were safely reopened more than doubled 
+to 95 percent, and thanks to the Biden Administration's 
+decisive action, more than 99 percent of America schools remain 
+fully open for in-person learning.
+    Ms. Mazyck, when President Biden took office in January 
+2021, just 46 percent of public elementary and middle schools 
+were fully reopened for in-person learning. Is that correct?
+    Ms. Mazyck. That is the data I see.
+    Dr. Ruiz. And so, prior to when President Biden took 
+office, had the Federal Government provided the necessary 
+guidelines, tools, and resources to facilitate kids' safe 
+return to the classrooms?
+    Ms. Mazyck. There have been investments in bringing 
+students into schools.
+    Dr. Ruiz. Before the Biden Administration, or was it with 
+the Biden Administration taking office?
+    Ms. Mazyck. There were some CARES Act funds, and then there 
+was the ESSER funds and other funds to provide in-person 
+learning because we know that in-person learning promotes 
+overall student health and wellbeing.
+    Dr. Ruiz. And what was lacking at that time before 
+President Biden that we needed to do in the American Rescue 
+Plan?
+    Ms. Mazyck. Specifically, what was lacking around the 
+health of students?
+    Dr. Ruiz. Around the response to get our kids safely and 
+responsibly back into schools.
+    Ms. Mazyck. Yes. One of the issues that was concerning was 
+the equipment, the supplies. PPE was in short supply. 
+Healthcare does happen at schools, and to provide healthcare in 
+schools, there was a need for equipment such as PPE, cleaning 
+and disinfectant, and ventilation in schools.
+    Dr. Ruiz. So, less than one month after President Biden 
+ordered the Department of Education and HHS to develop these 
+evidence-based guidance, the CDC issued comprehensive guidance 
+for testing matching vaccination to support the safe return to 
+in-person learning. Ms. Mazyck, how did these resources bolster 
+local policymakers and public health officials' efforts to 
+reopen schools?
+    Ms. Mazyck. Well, with vaccination, there was an ability to 
+protect the community. They were layered mitigation strategies 
+that were available as the novel coronavirus. We understood 
+what it was doing, how to deal with it, especially from a point 
+of mitigating factors with vaccination being one of the first 
+lines.
+    Dr. Ruiz. I thank the Chairman for his grace. I just have 
+one more question. What lessons can we learn from our response 
+to the COVID-19 pandemic to minimize the impact of future 
+pandemics on our Nation's children?
+    Ms. Mazyck. Well, I believe that one of the lessons we 
+learn is that keeping children in school is important. We know 
+that that is important, and in order to do that, we need to 
+bolster the supports that they need in order to be in school 
+learning. They need health, public health. They need the 
+supports from a specialized instructional support personnel to 
+help them be available for their learning.
+    Dr. Wenstrup. I now recognize the Chairman of the full 
+Committee, Mr. Comer, from Kentucky for five minutes of 
+questions.
+    Chairman Comer. Thank you, Mr. Chairman. As the parent of 
+three kids in the public school system, a school system that 
+had a prolonged shutdown that did almost a full year of virtual 
+learning, I think my wife and I share the frustration of many 
+parents in America, and can testify to the fact that our 
+children are behind as a result of virtual learning versus in-
+person learning.
+    On February 12, 2021, the Biden Administration released its 
+first guidance for schools entitled, ``The Operational Strategy 
+for K-12 Schools Through Phased Prevention.'' Now, according to 
+Director Walensky herself, this guidance when issued 
+recommended keeping 90 percent of America's schools closed. And 
+I think it is very clear the Biden Administration wanted to 
+keep our kids out of the classroom and completely switch to 
+virtual learning versus in-person learning. Ms. Mazyck, did the 
+National Association of School Nurses consult with the CDC 
+regarding the CDC's February 12, 2021, K-12 operational 
+strategy prior to its release?
+    Ms. Mazyck. That is something I would have to look back and 
+see. I don't have an answer for you today.
+    Chairman Comer. You can't remember if they consulted with 
+you prior to----
+    Ms. Mazyck. In February 2021. I would have to look and see.
+    Chairman Comer. So, do you remember if the National 
+Association of School Nurses provided any suggested edits or 
+revisions to the CDC?
+    Ms. Mazyck. Chairman Comer, I would have to be able to look 
+and see. It is 2021. That is----
+    Chairman Comer. Right.
+    Ms. Mazyck. I received a letter today from Chairman 
+Wenstrup that there is a desire to find out this information, 
+and I acknowledge receipt of that letter and fully intend to 
+cooperate with that. But right now, in this moment to say what 
+I did related to a document in 2021 is something I can't answer 
+with specificity.
+    Chairman Comer. Well, let me ask you this. How often was 
+the National Association of School Nurses, how often were you 
+all called upon to consult with the CDC or either Presidential 
+administration?
+    Ms. Mazyck. The National Association of School Nurses has 
+had a cooperative agreement with a branch of the CDC to do 
+programming around COVID, making sure that students were 
+healthy and safe in school, and also that they would have the 
+mental health supports that they would need.
+    Chairman Comer. So, I guess I am still unclear. I am just 
+trying to get a picture of how often you all consulted with 
+this guidance. I mean, this is important guidance that the 
+Administration will be putting out that has had a negative 
+impact on public education in America, and I don't think 
+anybody would disagree with that. I think everyone's heart was 
+probably in the right place, but I am trying to determine who 
+all provided input on this. If it was, you know, we have 
+suspicions, but we were wondering if the National Association 
+of School Nurses were able to provide any input because you all 
+would obviously be on the front lines of this.
+    Ms. Mazyck. School nurses are very definitely on the 
+frontlines of this pandemic. You are asking for two different 
+things. The National Association of School Nurses, like many 
+public health folks, looked to the CDC for guidance to see what 
+was involved. That is what the National Association did, 
+certainly. In turn, whether or not----
+    Chairman Comer. But they didn't ask your all's opinion on 
+anything.
+    Ms. Mazyck. In terms of consulting for the documents, that 
+is not something that I can tell you definitely. I think that 
+in my complying with the request of the letter that came today, 
+I would be able to determine that.
+    Chairman Comer. Dr. Hoeg, that document that I have 
+referred to recommended schools require the universal masking 
+with children and six feet of physical distancing. Were those 
+necessary to keep schools open?
+    Dr. Hoeg. So, we had evidence prior to the pandemic that 
+masks were largely ineffective at preventing community 
+transmission of influenza and other upper respiratory viruses, 
+and we did not obtain any new high-quality evidence during the 
+COVID-19 pandemic that masks are effective mitigation strategy 
+in schools or outside of schools. We have a number of 
+confounded observational studies, many of which were actually 
+published by the CDC that have serious flaws in them that I 
+think, unfortunately, led people to believe that masking 
+children was going to be effective and actually necessary to 
+keep children in schools. But the highest quality data that we 
+have, for example, from a Cochrane review of randomized studies 
+has not found out evidence of that masks----
+    Chairman Comer. So, that wasn't scientifically sound. The 
+mask guidance was not----
+    Dr. Hoeg. So correct, it wasn't science based, and the six 
+feet of distancing was arbitrary. That was based on basically 
+just looking at how far certain size droplets spread. It wasn't 
+based on actual transmission of disease. And we knew very early 
+on that COVID-19 was predominantly aerosolized and airborne 
+transmission, so we ended up getting some pretty good 
+observational data not finding correlation between amount of 
+distancing 6 versus 3 feet and case rates in schools. So, it 
+wasn't necessary, and it wasn't evidence based. We should have, 
+by default, been keeping our schools open, but instead we were 
+sort of requiring these non-evidence based mitigation 
+strategies as a prerequisite for getting our children back in 
+school. That ended up being a very harmful prerequisite, so.
+    Dr. Wenstrup. I now recognize the Ranking Member of the 
+full Committee, Mr. Raskin from Maryland, for five minutes of 
+questions.
+    Mr. Raskin. Mr. Chairman, thank you very much. COVID-19 was 
+a catastrophe for our country as Donald Trump presided over a 
+historic debacle of a public health response, and you don't 
+need to go to the American Medical Association or the American 
+Hospital Association, American Nursing Association to conclude 
+that Trump's lethal recklessness and lying led to hundreds of 
+thousands of unnecessary deaths. You just have to go to Donald 
+Trump's own COVID-19 advisor, Dr. Deborah Birx, who said that 
+by undermining mass testing, not more aggressively coordinating 
+vaccination and treatment, not seriously implementing mask 
+mandates, the Administration failed to save at least 130,000 
+lives and probably a lot more than that. She testified we 
+probably could have decreased fatalities into the 30 percent 
+less to 40 percent less range, which translates into the lives 
+of several hundred thousands of Americans. That is Trump's own 
+COVID-19 advisor.
+    Beyond the million-plus Americans killed in this plague, 
+the public health orders closing our public schools set our 
+educational process back dramatically and undermined the 
+academic, athletic, emotional, and intellectual progress of 
+millions of children across the country. No one can seriously 
+dispute that. And as an educator and a father, I have been 
+horrified by what this plague and the Nation's catastrophically 
+ineffectual response to it have done to learning and education 
+among young people.
+    But was it the fault of the Governors, Republican and 
+Democratic, who closed the schools in the middle of this 
+emergency, the superintendent struggling to contain this out-
+of-control pandemic? Was it the fault of the teachers on the 
+front lines, at least 530 of whom died during COVID-19 
+according to the American Federation of Teachers? Was it the 
+fault of the school children or young people under 18 
+themselves, more than 1,300 of whom themselves died of COVID-
+19, or would it be the fault of the President who let the 
+plague run loose and left the Nation without a unified, serious 
+plan for managing the crisis, a President who praised China, 
+China's Central Communist Party and President Xi, in handling 
+of the epidemic on 37 different occasions?
+    Well, let us take PPE for example. The Trump Administration 
+knew as early as January 2020 that the U.S. would not have 
+enough PPE for the pandemic. Instead of taking steps to bolster 
+domestic supply chains, Trump consistently dismissed the impact 
+of COVID, repeatedly assuring the country that China and Xi 
+were doing a great job and had everything under control, and 
+famously predicting that the pandemic would be over by Easter. 
+When it became clear that he was wrong and the country 
+desperately needed PPE, Trump put his unprepared and 
+unqualified son-in-law, Jared Kushner, in charge of obtaining 
+PPE. Instead of working with procurement experts in the Federal 
+Government, Kushner hired a handful of 20-something friends 
+working in finance in New York and none of whom had any 
+significant procurement experience in order to source and 
+distribute PPE.
+    Ms. Mazyck, you are a school nurse with the National 
+Association of School Nurses headquartered in Silver Spring, 
+Maryland, so you understand the lengths to which schools went 
+to keep kids safe throughout the pandemic. What did it mean for 
+schools when they could not access the PPE they needed to 
+protect the school children against the deadly virus in the 
+spring of 2020?
+    Ms. Mazyck. The unavailability of sufficient PPE, Ranking 
+Member Raskin, was a concern because of the healthcare workers, 
+the school nurses who were working with students, and most 
+immediately with the healthcare that was happening throughout 
+the Nation, healthcare professionals were advised to use PPE. 
+That needed to happen for the school nurses, No. 1.
+    Mr. Raskin. Thank you. Let us look at testing. It took 
+months for the CDC to develop and distribute a reliable test. 
+First, the Trump Administration rejected a protocol test design 
+offered by the World Health Organization in January 2020, but 
+the Administration didn't take any action to incentivize test 
+manufacturing here at home, leaving us defenseless and 
+floundering. And when there were widespread design and 
+contamination issues with the CDC's tests, the Administration 
+failed to provide public health centers with any guidance on 
+how to proceed. This meant by the end of February 2020, the 
+entire United States had conducted fewer than 500 tests 
+compared to more than 65,000 in South Korea, for example. How 
+did schools use testing as a tool allowing them to remain open 
+during the pandemic, when they have the tests?
+    Ms. Mazyck. Schools collaborated with local health 
+departments, local health authorities to be able to offer 
+testing, and some of them did that testing in school buildings. 
+Some did it in testing centers.
+    Mr. Raskin. All right. Mr. Chairman, in category after 
+category, that Administration got an F, and I yield back to 
+you.
+    Dr. Wenstrup. I now recognize Ms. Malliotakis from New York 
+for five minutes.
+    Ms. Malliotakis. Thank you, Mr. Chairman, for hosting this 
+important hearing to discuss the mass lockdowns and the school 
+closures that in New York City lasted a year and a half. It 
+resulted in economic loss for parents, emotional and 
+developmental harms to communities, and, of course, a great 
+loss for our young people. New York City prohibited students, 
+even after the schools reopened, from participating in sports 
+and extracurricular activities. They even went so far as to 
+mask preschool kids for extended periods of time. But in terms 
+of the loss in social, emotional difficulties, we saw that 
+suicide rate sharply increased, the rate of BMI and increased 
+weight gain among children doubled. New cases of type 2 
+diabetes among children nearly tripled. Others were set back 
+months, even years in their development.
+    Now New York is lowering standards for standardized test 
+scores in reading and math following 2022 where less than 50 
+percent passed their reading exam and 30 percent passed their 
+math exam. We also know that these policies were directly 
+influenced by powerful groups, groups like the American 
+Federation of Teachers, to keep schools closed and made it 
+nearly impossible to keep them open even with all the resources 
+that have been provided to them by Congress.
+    As a matter of fact, the inflationary American Rescue Plan, 
+which the Democrats passed in March 2021 with their one-party 
+rule, was billed as a necessity for reopening schools after the 
+COVID-19 pandemic. They decided to spend this money despite a 
+trillion dollars sitting there unused from the previous 
+packages. This ARA provided another $122 billion for elementary 
+and secondary schools. It was so critical, they needed this 
+money, they could not open the schools without it. Guess what? 
+As of November, only 15 percent of that money has been spent.
+    They then created another fund, an additional $5.5 billion 
+in relief funds for private schools with low-income students 
+severely impacted by the pandemic. And we know, though, there 
+was a clause in there, of course, so the Governors, including 
+one like mine, could raid that money and use it for all sorts 
+of different purposes. So to date, out of that pot, $157 
+million has already been diverted to pay for other programs. 
+Currently, $736 million has yet to be allocated to the private 
+schools, and it is at risk again of being raided by the 
+Governors.
+    In total, $190 billion was allocated to aid schools across 
+the country since 2020. Instead of using that funding for its 
+original intent, we see states like New York spending it on all 
+sorts of stuff, right? New York City allocated $12 million to 
+go for restorative justice programs. They did implicit bias, 
+anti-racism training. New York State Ed decided to put more 
+money in diversity, equity, and inclusion programs. I don't 
+know what that stuff has to do with COVID. I am not sure what 
+it has to do with reopening our schools either.
+    So, I guess my first question is, knowing what we know now 
+and what we learned during the pandemic specifically about how 
+the virus posed such a low risk to children, was it necessary, 
+that excessive $190 billion in spending, to reopen schools? Yes 
+or no. Go down the line.
+    Mr. Zweig. No. Sorry. There we go.
+    Ms. Gentles. The CARES Act was understandable in March 
+2020. That is just now being spent down three years later, so 
+the subsequent two bills, no.
+    Ms. Malliotakis. Just say a ``yes'' or ``no.''
+    Ms. Mazyck.
+    [No response.]
+    Dr. Hoeg.
+    [No response.]
+    Ms. Malliotakis. OK. I gave examples of what New York did. 
+Would anyone like to comment on any awareness that they have of 
+what other states may have done with that money?
+    Ms. Gentles. We definitely have heard too many examples of 
+the funds being expended on athletic endeavors and 
+infrastructure. The funds were flexible. This isn't illegal or 
+fraudulent that the districts and states are directing the 
+funds to these endeavors, but it obviously reveals their 
+priorities. We are dealing with a once-in-a-lifetime academic 
+crisis. We need to be shouting from the rooftops that the funds 
+need to be focused on academic recovery. You all put in the 
+requirements that 20 percent needed to be going to academic 
+recovery, and that is being done at a minimum. That needs to 
+stop.
+    Ms. Malliotakis. I am running out of time here. One last 
+question. Should the Federal Government audit that money to 
+find out where it went? Yes or no.
+    Dr. Hoeg. Yes, definitely.
+    Mr. Zweig. Yes.
+    Ms. Malliotakis. And should the states be forced to repay 
+that money if it is unspent still?
+    Dr. Hoeg. Yes.
+    Ms. Malliotakis. OK. Thank you very much for your time.
+    Dr. Wenstrup. I now recognize Mrs. Dingell from Michigan 
+for five minutes of questions.
+    Mrs. Dingell. Thank you, Mr. Chairman. I want to do a 
+couple of things before I get into my questions, and one is to 
+set the record straight on masks. I think that too many people 
+criticize commonsense precautions for students and staff in 
+classrooms and in everyday life, and I say that as one of the 
+people that wore her mask longer than anybody. The study 
+referred to today did not examine whether masks are effective 
+at preventing infection. Instead, the study examined the 
+effectiveness of masking interventions, which are contingent 
+upon whether people wear them.
+    In fact, the editor-in-chief of the Cochrane Library, which 
+published the study that was referenced, issued a statement 
+saying exactly that. Dr. Karla Soares-Weiser said, ``Many 
+commentators have claimed that a recently updated Cochrane 
+review shows that masks don't work, which is an inaccurate and 
+misleading interpretation. The overwhelming body of scientific 
+evidence indicates that wearing masks, particularly well-
+fitting masks like KN95, is effective at preventing COVID-19.''
+    For example, one study published in February 2022 found 
+that wearing a surgical mask resulted in a 66 percent reduction 
+in testing positive for COVID-19, and wearing a KN95 or N95 
+mask resulted in an 83 percent reduction. Another study 
+published by researchers at Duke found that the effective mask 
+wearing was associated with a 72-percent reduction of in-school 
+COVID-19 cases. And a February 2021 article published in The 
+Journal of the American Medical Association compiled 11 
+different studies evaluating the efficacy of masks, each of 
+which has independently demonstrated that masks reduced the 
+spread of COVID-19. And, Mr. Chairman, I would like to provide 
+copies of those for the record without objection.
+    Dr. Wenstrup. Without objection.
+    Mrs. Dingell. Thank you, sir. And I also want to say again 
+that as we talk about funds and other things, that just three 
+weeks after President Biden took office, the CDC issued 
+comprehensive guidance on how to safely reopen schools, which 
+resulted in 60 percent of schools reopening in a matter of 
+months and more than 95 percent reopening one year into the 
+Administration. And Ms. Gentles, I agree with you about what is 
+happening in our schools. Unfortunately, I think it was 
+happening before COVID began, and it is a reflection of what is 
+happening in our society. And we should all care about 
+civility, treating each other with respect, and trying to 
+reduce this tension and division we see between too many 
+people.
+    But while there is still much that we don't know about the 
+pandemic's long-term effects on our Nation's youth, we are 
+beginning to learn more, and I think we are all going to agree 
+on something here. According to a January 2023 McKinsey report, 
+we have been set back two decades of progress in learning 
+because of this pandemic and the early missteps that forced 
+schools to close and delayed getting kids back in the classroom 
+sooner.
+    Now, in large part thanks to the American Rescue Plan and 
+this Administration's leadership in getting our Nation's 
+schools the resources to safely bring students back to the 
+classrooms, more than 99 percent of schools are open for full-
+time in-person learning. But the American Rescue Plan wasn't 
+just about getting schools to reopen. We just talked about it. 
+It also took a forward-looking approach to pandemic recovery 
+that we should look to replicate, including by requiring that 
+schools use 20 percent of all funds allocated through the ESSER 
+fund to address learning loss.
+    Ms. Mazyck, you and school nurses all across the country 
+have been on the front line of this pandemic's impact on 
+America's students. How are schools working now to ensure 
+students can learn in a healthy environment and catch up on 
+lost classroom time from the height of the pandemic?
+    Ms. Mazyck. Thank you. School nurses bring public health 
+expertise as well as real-time view of conditions in schools. 
+We believe that the best practice ensures that school nurses 
+have a seat at the table when decisions are made. School nurses 
+are helping students and families catch up with routine 
+vaccinations that were delayed due to the pandemic and 
+shutdowns of healthcare offices. School nurses are making sure 
+that immunizations are done either in school or in the 
+community. School nurses support the school community through 
+constant surveillance of student and staff conditions to 
+prevent and control spread of communicable disease and to 
+respond in emergencies.
+    Mrs. Dingell. Thank you. I am going to try to get one more 
+question and then have some for the record for all of you. 
+Nearly 8 million students have lost a parent or caregiver 
+during COVID-19. There is no doubt that that kind of loss is a 
+cause for stress, anxiety, and depression that impacts a 
+child's ability to learn. Ms. Mazyck, what is the connection 
+between students' mental health and their learning, and how can 
+we better support them with emotional and behavior health 
+support?
+    Ms. Mazyck. The health of children, physical and mental, 
+and learning are inextricably linked. They are connected 
+together. And so, it is important for students to have learning 
+supports through specialized instructional support personnel 
+who are able as counselors, nurses, school psychologists, 
+school social workers to provide what the needs are for those 
+students. I heard today that some students came back to school, 
+and they do not know how to be with one another because they 
+had time in isolation. Social/emotional learning is important 
+for them. They need the social skills to develop that may have 
+been delayed. They also need the care for any anxiety, any 
+depression, any of the bereavement, any of the emotional and 
+mental health concerns that they have, and they need the 
+personnel in the school building to help them.
+    Mrs. Dingell. Thank you, Mr. Chairman.
+    Dr. Wenstrup. I now recognize Dr. Miller-Meeks from Iowa 
+for five minutes of questions.
+    Dr. Miller-Meeks. Thank you, Mr. Chair, and thank you to 
+the witnesses who are here. As a physician and a former 
+director of the Iowa Department of Public Health, in March 
+2020, as a state senator, our legislature went into pause. At 
+that time, I recommended to our Governor and to our legislators 
+that we not close schools, especially elementary, because the 
+scientific data we had at that time indicated that children 
+were of minimal risk and did not seem to be good transmitters 
+of the virus.
+    Later, I submitted to our Senate the American Journal of 
+Pediatrics article in June or July 2020 that indicated that 
+there was very low transmission and, at that time, recommended 
+that schools should not be closed. But the CDC did not follow 
+that guidance. So, beginning in March 2020, schools across the 
+Nation began closing, which seemed to be not, you know, 
+unprecedented given that we did not have as much data about the 
+SARS-CoV-2. That led to a complete transmission of classrooms 
+to virtual classrooms.
+    The impact of those decisions are no secret. The Pediatric 
+Journal of the American Medical Association reviewed 36 
+different studies comprising almost 80,000 children and 
+adolescents as well as 18,000 parents, and concluded that 
+school closures were related to adverse mental health 
+conditions, distress, anxiety, health behaviors, and obesity 
+among children and adolescents.
+    I argued at the time in my first year in Congress numerous 
+times before this Committee, and before Dr. Walensky and Dr. 
+Fauci and others, that schools reopened in Nevada. A published 
+article: Schools reopened in January 2021 because between March 
+16 and June 30, there were six youth suicides. Between July 1 
+and December 31, there were 12 youth suicides, the youngest of 
+whom was nine. So Dr. Hoeg, are children less susceptible to 
+COVID-19 infections than adults?
+    Dr. Hoeg. So, early on in the pandemic, we saw that they 
+were less likely to be infected, but they have always been much 
+less likely to experience severe outcomes. And I discussed that 
+is greater than a thousandfold difference between children and 
+older adults, and that continues to be the same in terms of 
+severe outcomes, that children are much, much less impacted. 
+And it is comparable to a typical seasonal flu year, their 
+infection fatality rate from COVID-19 to seasonal influenza. 
+So, we should have been taking that into account from the 
+beginning, and it is even lower now from COVID-19 considering 
+the amount of immunity children now have.
+    Dr. Miller-Meeks. And do we close schools or require mask 
+wearing for children during the influenza season?
+    Dr. Hoeg. No, we do not. Yes.
+    Dr. Miller-Meeks. Thank you. And do children transmit 
+COVID-19 to adults at a high rate?
+    Dr. Hoeg. So, children do transmit COVID-19 to adults. What 
+we saw, especially early on in the pandemic when we were doing 
+contact tracing, is that children were much less likely to 
+transmit to others outside of the home. They could transmit to 
+adults outside the home, but at a lesser rate. And in school, 
+the transmission rate to adults was minimal to almost none. In 
+numerous studies from Europe, from the United States, from my 
+own work in Wood County, Wisconsin, we saw no transmission from 
+students to teachers in our Wood County, Wisconsin study over 
+the fall semester, and we had the same experience in California 
+with that.
+    Dr. Miller-Meeks. Yes. When we had Dr. Walensky before us 
+in testimony, I asked her if she inquired in other places other 
+than the American Federation of Teachers Union about school 
+closures, and she said she did. I asked her to submit data that 
+had not been submitted to this Committee. I also specifically 
+asked her if she checked with the state of Iowa. Iowa reopened 
+its schools in the fall of 2020. There was not big drivers of 
+community spread. And did you see other schools that were 
+drivers, especially elementary school drivers of community 
+spread?
+    Dr. Hoeg. No, and I think it is important that we actually 
+look at data from Europe that, you know, independent of what 
+the mitigation strategies were or what the country was, there 
+was no relationship with the school reopening and the community 
+case levels. And we also saw that in Brazil with community case 
+levels and with severity of disease outcomes that whether or 
+not they opened or closed schools had no impact on community 
+transmission.
+    Dr. Miller-Meeks. Yes. And we asked if the CDC and FDA both 
+would look at real-world evidence of other countries as they 
+developed policy. When did this data become clear? And if you 
+could answer very quickly because my time is almost up.
+    Dr. Hoeg. In the late spring and early summer of 2020.
+    Dr. Miller-Meeks. Thank you for that. I would like to have 
+entered into record an article from Contemporary Pediatrics, 
+March 23, 2023, ``Pediatric Speech Disorder Diagnoses More Than 
+Doubles Amid COVID-19 Pandemic.'' That is related to mask 
+wearing. Did they need to wear PPE?
+    Dr. Hoeg. No. We have found no evidence from the best 
+studies that we have that masking children provides a benefit. 
+The best study we have actually is from Spain, a regression 
+discontinuity study that found no evidence of benefit, and 
+children in Scandinavia were not masked under the age of 12. 
+So, it is important to keep in mind.
+    Dr. Miller-Meeks. Thank you so much. Mr. Chair, I yield 
+back.
+    Dr. Wenstrup. And without objection, your entry will be 
+submitted for the record.
+    Dr. Wenstrup. I now recognize Mr. Mfume from Maryland for 
+five minutes of questions.
+    Mr. Mfume. Thank you very much, Mr. Chairman. I want to 
+thank you and Ranking Member Ruiz for giving us all an 
+opportunity to discuss this matter, but, more importantly, to 
+set the record straight on a number of different things. And I 
+would caution all of us against Monday morning quarterbacking. 
+So, in this case, I guess it would be Tuesday morning 
+quarterbacking.
+    It is so easy after the fact to assign blame and to talk 
+about what should have, could have, or did not happen, but we 
+run the risk of failing our jobs and we run the risk also of 
+tainting history. In case no one remembers, COVID and those 
+days of COVID were dark, dreary, desolate, and disconcerting. 
+All the evidence we have now we did not have at the time of 
+COVID. It was a learning process that we were all going 
+through. And I would also caution against this notion of always 
+comparing what we did in the U.S. against what they did in 
+Europe to suggest somehow or another that it should have been 
+the same. United States is one country. Europe is 44 nations. 
+So, let us be real careful about how we compare apples to 
+apples or oranges to oranges and make sure that we are talking 
+about the same thing here.
+    On January 21, the day after the inauguration of President 
+Biden, the President signed an executive order directing that 
+the Department of Education and the Department of Health and 
+Human Services develop additional evidence-based guidance to 
+assist schools in determining how they could safely reopen and 
+remain open for in-person learning. And I say additional 
+evidence-based guidance because it was Mr. Trump and Dr. Birx, 
+who was advising him, as Mr. Raskin pointed out earlier, who 
+had already given guidance. And her testimony on the record, as 
+the Ranking Member stated, was that we could have saved over 
+100,000 lives, we could have done more than what we were doing, 
+and that we were doing what we should do with respect to 
+masking and taking precautions. That was her testimony to the 
+President and to the Nation, so let us not really forget about 
+that.
+    So, two months later, fast forward, after the President 
+signs the executive order, he signs the American Rescue Act, 
+which included $122 billion investment in special ed, in 
+curriculum development and renovations to school, increased 
+ventilation, and other forms to ensure school districts, again, 
+across the country could return children to classroom and 
+return them there safely. Thanks to those efforts, Baltimore 
+City Public Schools was one of the first large school-based 
+districts in the state of Maryland and one of the first urban 
+districts nationwide to reopen in a safe in-person learning 
+environment.
+    Many of my colleagues who sometimes seek to assign blame 
+and suggest that there was some sort of weird evil plan in 
+effect are the same persons who have a long track record of 
+pushing draconian cuts to programs that support American 
+schools and American children, but I appreciate these newfound 
+expressions of concern for poor Black and poor White and poor 
+Latino kids. We just need to make sure we maintain that 
+throughout the course of every year. At the end of last year, 
+200 of those same persons voted against the Consolidated 
+Appropriations Act, which had basic funding for K through 12 
+education as well as funding for child nutrition programs. And 
+then, as we all know, at the end of last year, 40 of those same 
+colleagues voted against extending free lunches to schools in 
+the summer.
+    Ms. Mazyck, I am going to ask you a couple of things 
+related to nutrition, or at least one. I want to, first of all, 
+just say my hat is off to the school nurses and all nurses 
+everywhere who helped us get through a harrowing time in our 
+Nation's history. Can you just give an example or your 
+estimation of how does limiting access to nutritious food 
+programs undermine a child's learning and cognitive 
+development? Because I think that is just as important.
+    Ms. Mazyck. Yes, it is. Thank you. So, we know that health 
+and learning are connected, and we also know that there are 
+social determinants to children being healthy. And when they 
+cannot get the food that they need, they live in housing that 
+does not support their wellbeing or in neighborhoods the same, 
+that impedes their learning. So, with the meals that students 
+need, one of the things that school nurses found when schools 
+were shut down was that children needed the meals. They were 
+missing meals because school was no longer open where they had 
+two meals, generally breakfast and lunch. That nutrition is 
+absolutely necessary for learning to happen.
+    Mr. Mfume. Thank you. My time has expired, Mr. Chairman.
+    Dr. Wenstrup. I now recognize Mrs. Lesko from Arizona for 
+five minutes of questions.
+    Mrs. Lesko. Thank you, Mr. Chairman. Mr. Zweig, you asked a 
+great question, are schools an essential service? Yes. My 
+answer is yes, and so it boggles my mind that we had grocery 
+stores open, Walmart open, and all these other businesses 
+deemed essential services that were open, yet we closed 
+schools. Sweden kept daycare and schools open throughout the 
+spring of 2020 for all children ages 1 through 15 without 
+social distancing, masks, or testing.
+    As of June 2020, among the 1.8 million children in this age 
+group, zero died from COVID-19 and only a few were 
+hospitalized. In May 2020, the Center for Global Development 
+released a report that failed to find any increase in community 
+COVID-19 case rates related to school reopenings 
+internationally. On August 7, 2020, the CDC itself published an 
+MMWR study based on COVID-NET data, which clearly established 
+the low risk to American children. In August 2020, Australia 
+and South Korea data showed that secondary infection rates were 
+very low in schools.
+    Yet, even with all this data showing that children were at 
+low risk of having serious COVID effects and low transmission 
+risks to adults, the CDC set guidelines in the fall of 2020 
+that would keep 99 percent of American schools closed. 
+Evidence, as shown by emails between the teacher union and the 
+CDC, show that the CDC was greatly influenced by the teacher 
+union and in fact, added language verbatim suggested by the 
+teacher union. Mr. Zweig, why do you think the CDC seemed to 
+listen more to input from the teacher unions than from 
+scientific data from other countries and from their own 
+scientific report?
+    Mr. Zweig. Thank you, Congresswoman. I can't speak to the 
+mindset of the people in charge of the CDC, but the broader 
+context of your question, I think, is highly relevant. And with 
+all due respect to the other Congress member, I think it is 
+entirely appropriate to look at what happened in Europe and 
+elsewhere. Those are human beings. They are children. They are 
+in schools. I have lived in Europe. They have very crowded 
+cities. They do not have sophisticated HVAC systems in all of 
+their schools. That is real evidence in front of us.
+    And I think we are talking about the difference between 
+looking at models, looking at projections over empirical data, 
+looking at theory over what we actually were observing. And I 
+think that is incredibly important, and it is one of the things 
+that I have been studying and been so fascinated by is this 
+sort of very, very myopic, American-centric idea that nothing 
+else was happening outside of our bubble. We had actual real-
+world evidence from schools in countries throughout Europe with 
+cities very similar demographics to our cities. The class sizes 
+were not, you know, three kids in a giant room, and that 
+evidence, for complex reasons, was disregarded.
+    Mrs. Lesko. Thank you. Ms. Gentles, in Arizona and 
+elsewhere, school districts created in-person hubs where low-
+wage staff monitored in-person students who sat in front of 
+their laptops while the teachers still worked remotely. This 
+happened in Arizona to my grandkids. The Governor put out an 
+executive order saying that students needed to have a place to 
+go if their parents had to work and they had no place else to 
+go. So my question is, if it was safe for low-wage workers to 
+be in the presence of children in schools, why was it unsafe 
+for teachers to be in the schools with the children?
+    Ms. Gentles. Yes, this happened in Virginia where I live. 
+It happened in California. It happened all around the country. 
+Schools turned into daycares with low-wage workers who were not 
+unionized, and I think that is the essential issue here. The 
+teachers unions had made a decision that they needed to control 
+the instructional hours that were offered whether or not 
+schools were open and teachers were going to teach in the 
+classroom. And I am speaking about the unions, not the 
+individual classroom teachers. The unions were going to do that 
+until the American Rescue Plan came forward with 122 additional 
+billion Federal dollars.
+    So, there were three big bills that offered the ESSER funds 
+that we have been talking about: the supplemental Federal 
+emergency funding, March 2020, and then winter, December, 
+January, and then again, March 2021, that final ARP. They were 
+waiting until that final $122 billion ARP funding came through, 
+and then schools could open up and the unionized teachers could 
+return to classrooms fully that fall.
+    Mrs. Lesko. Thank you, and I yield back.
+    Dr. Wenstrup. I now recognize Ms. Ross from North Carolina 
+for five minutes of questions.
+    Ms. Ross. Thank you, Mr. Chairman, and thank you to our 
+witnesses for being here. As part of the American Rescue Plan, 
+which we were just hearing a little bit about, congressional 
+Democrats included a historic investment of more than $122 
+billion dollars of ESSER funds, or the Elementary and Secondary 
+School Emergency Relief Fund, which distributed that funding to 
+schools and communities across the United States. These dollars 
+could be used to facilitate academic recovery, modernize school 
+facilities, bridge the digital divide, address staffing 
+shortages, and provide physical and mental health services to 
+students. The legislation also made sweeping investments in 
+vaccines, testing, and other critical resources to restore our 
+way of life. For example, the American Rescue Plan provided $10 
+billion in Federal funding to scale up COVID-19 testing in K 
+through 12 schools across the country.
+    Ms. Mazyck, why is it so important to invest in the tools 
+to ensure that schools could return safely to classrooms, and 
+how did communities use these investments to do so? I know my 
+school district in Wake County, which, by the way, does not 
+have a union, used it for testing, for laptops for kids, for 
+tablets, and for a wide variety of things to not only address 
+immediate learning problems but also to bridge gaps in learning 
+from before the pandemic.
+    Ms. Mazyck. Thank you for your question. We know that in-
+person learning promotes overall student health and wellness, 
+and so the funds that were provided enabled buildings to be 
+healthy, funding for ventilation. Many schools are older, and 
+they needed help with having good ventilation. Also, schools 
+were a nexus in communities for COVID testing, and that funding 
+was helpful for that, in addition, making sure that students' 
+mental health needs, which were prevalent prior to the 
+pandemic, making sure there was support personnel who would be 
+available to help students was paramount, and schools have used 
+fundings for that.
+    Ms. Ross. Could you tell us about any learning loss 
+programs that were also funded?
+    Ms. Mazyck. I am not able to speak to the learning loss 
+programs.
+    Ms. Ross. OK. How do you think these dollars have helped 
+fortify our Nation's schools and communities for the 
+possibility of a future public health crisis?
+    Ms. Mazyck. I think we have learned lessons from this 
+pandemic, and I will say that this pandemic has been fraught 
+with the novelty of the coronavirus that shifted throughout the 
+time over the past three years in how it performed and how it 
+reacted. Right now, we know that schools and local health 
+authorities need to work together to be able to make the 
+decisions about health and safety in schools. And the funding 
+that has happened--that has been available to schools--has 
+enabled those entities to connect and collaborate. We have seen 
+school-located vaccination clinics provided in schools so that 
+students are caught up with their routine vaccinations. That 
+happened because of funding.
+    Ms. Ross. And just finally, do you have any thoughts or 
+information about the impact of the coronavirus on teachers and 
+teaching assistants and school personnel?
+    Ms. Mazyck. I don't have those data with me.
+    Ms. Ross. OK. I will submit a question for the record.
+    Ms. Ross. Thank you, Mr. Chairman, and I yield back.
+    Dr. Wenstrup. I now recognize Mr. Cloud from Texas for five 
+minutes of questions.
+    Mr. Cloud. Mr. Zweig, there has been a lot of talk about 
+the fact that this, you know, understanding of what COVID was 
+happening over the last few years has certainly changed, and 
+that is true. What we know now is certainly a lot more than 
+what we knew then. My understanding is you were actually more 
+at the beginning in favor of school closures and the like--
+maybe that is not true--but as data became available that your 
+thoughts had developed. Anyway, I was wondering if you could 
+walk through that process. You know, the talking point we are 
+hearing is that we know now more than we did then, which is 
+true, but we did know early on how this affected children. 
+Isn't that correct?
+    Mr. Zweig. Thank you for your question. Yes, I was probably 
+the first journalist from a major publication in America in the 
+very early days of May 2020 to write an investigative piece 
+reviewing all of the data. I have two kids myself, and I 
+watched at the end of April as they were stuck in their 
+bedrooms staring at screens, and crying, and all sorts of 
+craziness happening, because it is not a good thing for them to 
+be stuck in a bedroom staring at a screen for eight hours. It 
+wasn't working, and I knew from all the other parents.
+    And I saw that schools began opening in Europe at the end 
+of April and the beginning of May, and that sort of set me on 
+my course, and we knew very early that schools could open 
+safely. The education ministers at the EU met not once, but 
+twice that spring and announced that they saw no evidence that 
+the reopening of schools there led to any sort of meaningful 
+difference in case rates. That is profound that they said that, 
+and that still was ignored, so that is why I wrote about it.
+    Mr. Cloud. Yes.
+    Mr. Zweig. So the idea that this is all revisionist 
+history, you know, this is Monday morning quarterback is false. 
+We, of course, gained more information as time goes on. The 
+evidence was there, it was literally happening in front of us, 
+and it was ignored.
+    Mr. Cloud. Not only was it ignored, we actually had 
+taxpayer-funded government agencies spreading the opposite 
+information and clamping down on the accurate information. Dr. 
+Hoeg, I see you smiling. You are actually a doctor. Could you 
+speak to some of this?
+    Dr. Hoeg. Yes. I mean----
+    Mr. Cloud. Your microphone.
+    Dr. Hoeg. David and I really kind of came to the similar 
+conclusions at about the same time, and I started writing about 
+it at the same time because I, being Danish, I had also watched 
+what happened in Denmark, and I saw that they reopened their 
+schools there after six weeks of closures in April 2020. There 
+were no major outbreaks, and the pattern was the same across 
+Europe.
+    And so, I do feel like even over the course of the summer 
+of 2020 that we got increasingly disparate messages from our 
+American CDC and from Europe because across the U.S., we were 
+getting more sort of fear mongering messaging about the risks 
+of COVID-19 to children and how often they transmitted the 
+virus that we were seeing in the media. And on the other hand, 
+there was this hopeful message in Europe about children are not 
+spreading COVID-19 in the schools as much as we had feared and 
+were able to reopen the schools.
+    And in Europe, there was this fundamentally different 
+philosophy that schools should be open by default, whereas I 
+don't know what happened in the United States with our 
+messaging, where somehow it became the normal thing to have 
+schools closed until proven otherwise that it was safer to have 
+them in than outside of school. We should have always assumed 
+they should be in school, figure out how to do it because we 
+know the harms of keeping them out of school. And then we 
+should have been studying what to do to decrease the 
+transmission while they were in school.
+    And so really, you know, the U.S. had a fundamentally 
+different philosophy than Europe that, you know, ended up 
+hurting the children. And we shouldn't be focusing on the 
+differences in demographics between Europe and here, even 
+though they do exist. Europe, like David said, is very diverse. 
+I was a teacher in France in very crowded classrooms, and I 
+knew from Denmark that the students were also in crowded 
+classrooms. It is not like they have much smaller classrooms 
+than we do here in the United States. And like I said, in 
+Scandinavia, they weren't even wearing masks, and in Sweden, 
+early on they weren't testing, so----
+    Mr. Cloud. Yes. And to that point, Ms. Gentles, you kind of 
+started to make this comment that some teachers unions came out 
+specifically, like in California and other states that were 
+really kind of adamant, like, we are not going back to the 
+classroom, but it wasn't really until the science changed. It 
+wasn't until they got money passed in a sense. You know, we see 
+this a lot here in the Federal Government in the sense we 
+create a problem and then we march in to be the white knight in 
+shining armor to allegedly fix the problem we created. And here 
+we have the government in a sense locking down schools, but 
+then trying to ride in. Your thoughts to what happened there?
+    Ms. Gentles. Well, I think the fear mongering is really 
+important to emphasize that the union role was not just limited 
+to influencing and editing the CDC guidance February 2021. We 
+saw in spring of 2020 that unions were telling teachers not to 
+provide new instructions or materials to students. And then 
+throughout the summer, we saw----
+    Mr. Cloud. So, they were actually putting pressure on the 
+teachers who wanted to go educate kids.
+    Ms. Gentles. Right.
+    Mr. Cloud. Yes.
+    Ms. Gentles. And then we saw throughout the summer that 
+unions were sending body bags, and hearses, and draft 
+obituaries to Governors and to other leaders to let them know 
+that death would be on their hands, blood would be on their 
+hands if they chose to open schools in the fall. And then as 
+parents, I am sure we all saw on the Facebook community groups 
+fear mongering and threats to parents who tried to speak up and 
+express interests in open schools. Fear mongering was 
+everywhere. It was pervasive throughout 2020.
+    Mr. Cloud. Thank you. Thank you, Chairman.
+    Dr. Wenstrup. I now recognize Mr. Garcia from California 
+for five minutes of questions.
+    Mr. Garcia. Thank you very much, Mr. Chairman. I want to 
+make some clarifications and then definitely have a couple of 
+thoughts and questions. Just for starters, I know we have been 
+hearing this here from some of my Republican colleagues. I 
+think it is important to note that the CDC constantly engages 
+with numerous groups, of course, during any sort of major 
+crisis or process. There were stakeholders that were brought in 
+to talk about how we return to the classroom. This was very 
+common.
+    I think there is obviously an attack going on here on 
+teachers associations and teachers unions, and generally 
+teachers as a whole. And so, I think that is very distracting 
+considering that the Biden Administration, within three weeks 
+of being in office, put together a plan to reopen schools.
+    As we may need to remember that schools were closed during 
+the tenure of President Trump. That is when most of the school 
+closures actually happened, and so I just want to put in 
+perspective that the Biden Administration did put in a plan to 
+reopen schools. Now, that resulted, of course, 60 percent of 
+schools reopening in a matter of months and more than 95 
+percent of schools reopening one year into his Administration. 
+And so, it is important to be critical, but also to make sure 
+that we are being fair in when schools closed and when they 
+actually reopened.
+    It is standard practice for the CDC to engage with 
+impactful organizations, like teachers unions and others, to 
+get feedback to ensure guidance is comprehensive and 
+implementable. I mean, at the end of the day, the teachers are 
+the workers on the ground in the classrooms. Their opinions, 
+and particularly opinions on safety, is important, and so I 
+think that is critical. Teachers and teacher associations are 
+one of more than 50 different organizations ranging from 
+parents, superintendents, business groups, and others that all 
+were a part of these decision-making processes as it relates to 
+schools opening and closing. So, I just want to make those 
+notes.
+    And with that, I want to just turn to some other thoughts. 
+This is a very important topic. I want to thank, of course, all 
+the witnesses that are here, and it is important that we always 
+engage with teachers, staff, parents, most importantly, as we 
+have these decisions in serious crises.
+    So, I was the mayor of Long Beach before being on this 
+panel. I served at the height of the pandemic. It was horrible 
+and really difficult to see, of course, not just school 
+closures, but business closures, and the single largest of 
+death event, where we lost over a million Americans, happened 
+over the last couple of years. We have to always put this 
+crisis in context of the lives that were lost. Back in Long 
+Beach, we were the first large city in the state of California 
+to actually vaccinate all of our public school teachers. We 
+were also the first large school district to reopen our schools 
+because all of our public school teachers were actually 
+vaccinated.
+    The White House actually called the Long Beach vaccination 
+process a national model because we were committed to safe 
+reopening of schools and working with our teachers on the 
+ground. And this was all, by the way, in spite of very little 
+support that we received from the Trump Administration early 
+on, no plan on how we are going to reopen schools. And so 
+again, I think it is important that we look at the totality of 
+what happened during the pandemic. Someone that was on the 
+ground in California can tell you that the lack of concern from 
+the Administration, from many colleagues in Congress, some of 
+which continue to serve, was very distressful for mayors on the 
+ground. But we are serious today, and I am glad the Committee 
+is serious about addressing the impacts of the pandemic and 
+school closures.
+    And I wanted to turn this real quickly to Ms. Mazyck. I 
+will see if you can answer a couple of quick questions. Is it 
+safe to say that a reckless reopening process without vaccines 
+or safeguards would have been damaging, particularly to the 
+health and possibly lives of folks, not just in our schools, 
+but those with family members back home?
+    Ms. Mazyck. Yes.
+    Mr. Garcia. And is it also true that during the pandemic, 
+families that were impacted oftentimes the most were low-income 
+families, communities of color, where there weren't choices 
+about being able to quarantine in separate bedrooms? Perhaps 
+you had multifamily living in the same apartment. You had kids 
+that could have been in school and bringing back the virus to 
+grandparents or the parents. Isn't that also true?
+    Ms. Mazyck. That is true.
+    Mr. Garcia. Thank you. As we move forward to put in better 
+safeguards, do you have a couple of additional pieces of advice 
+for schools or school leaders that could keep us healthy as we 
+move forward?
+    Ms. Mazyck. I think it is important to understand that 
+preparation for a pandemic or any emergency health situation is 
+a must, and schools need to bring together stakeholders in the 
+community, including health departments, but also making sure 
+that the right people are at the table. We have had a lot of 
+lessons that we have learned over the past three years on how 
+to layer mitigations, how to make buildings safer, how to keep 
+people safe. And it is incumbent upon us to begin those 
+planning conversations, making sure families are at the table 
+and all the other stakeholders who would be involved.
+    Mr. Garcia. Thank you so much, and I yield back.
+    Dr. Wenstrup. I now recognize Dr. Joyce from Pennsylvania 
+for five minutes for questions.
+    Dr. Joyce. Thank you for yielding, Mr. Chairman, and thank 
+you for our witnesses for appearing. You know, I look back at 
+the devastating impacts that COVID-19 pandemic and our U.S. 
+response have had, and perhaps none is more tragic and also 
+more avoidable, tragic and avoidable, than what happened to our 
+kids.
+    This is from the New York Times from last September: ``This 
+year, for the first time since the National Assessment of 
+Education Progress tests began tracking students in the 1970's, 
+nine-year-olds lost ground in math and scores, and reading fell 
+by the largest margin in more than 30 years. The decline 
+spanned almost all races and income levels and were markedly 
+worse for the lowest performing students. While top performers 
+in the 90th percentile showed a modest drop--three points in 
+math--students in the bottom 10th percentile dropped by 10 
+points in math, four times the impact.'' And the sad truth of 
+matter is it didn't have to be this way.
+    From the earliest days of the pandemic, we knew that the 
+risk to kids for both transmission and severe illness from 
+COVID-19 was low, and yet, at the urging of the AFT and other 
+powerful unions, kids were kept home far too long. This dynamic 
+was further exacerbated by the Biden Administration's first 
+guidance on school reopening that recommended leaving 90 
+percent of students in remote settings, and now we are facing 
+the consequences in learning loss and mental and physical 
+health declines.
+    Ms. Gentles, as a parent in a blue school district, you 
+faced some of the most restrictive school closure policies. Can 
+you please speak on the impact on students learning, 
+particularly as we address these losses in math and reading 
+scores?
+    Ms. Gentles. Well, I think sometimes we get numb to these 
+scores and we think, well, they were already low before the 
+pandemic and now they are lower, but when we talk about these 
+huge drops, we have to think about the individual students. And 
+we have to recognize in a community like mine that is divided 
+by a highway, North Arlington versus South Arlington, when 
+schools closed, the parents in North Arlington, which is a more 
+well-to-do part of the county, were able to afford tutors, and 
+learning pods, and resources to ensure that their students 
+didn't fall behind. The kids in South Arlington less so. And 
+so, when you look at the data for the Title I schools, the 
+schools that have more low-income kids, it is heartbreaking to 
+look at the number of students that failed the math and reading 
+state assessments in those schools.
+    Dr. Joyce. Do you feel that there are policies that we 
+should be pursuing as far as educational testing requirements 
+to ensure the students get back on track and that we mitigate 
+these severe losses that we have seen?
+    Ms. Gentles. Well, a proven strategy is high-dosage 
+tutoring. Unfortunately, a lot of school districts needed to 
+quickly push money out the door. They had so much money, 
+millions in cases, billions in some of the larger school 
+districts, so they quickly signed contracts with online 
+tutoring platforms that don't actually reach the kids and have 
+low participation rates. When districts have invested in high 
+dosage tutoring, one-on-one tutoring multiple times a week, 
+that can have a real impact on children's lives and address the 
+learning loss. Other places have----
+    Dr. Joyce. If I may, my time is limited, but let us pivot 
+from educational losses to healthcare losses, and this is 
+where, Dr. Hoeg, I think that your expertise comes into play. 
+According to CDC data, in 2021, 37 percent of high school 
+students reported experiencing poor mental health during the 
+COVID-19 pandemic, and 44 percent reported that they 
+persistently felt sad or hopeless during the past year compared 
+to 36 percent in 2019. Suicide attempts increased sharply for 
+adolescents and suicide attempts for 12-to 17-year-old girls 
+were rising over 50 percent again comparing 2021 with 2019 
+statistics. Do you feel that school closures played a role in 
+these alarming statistics, and how do we repair this?
+    Dr. Hoeg. Yes. So, I think it is actually very difficult to 
+establish closing schools as causal in the increase in mental 
+health issues, but we do have some good data that was published 
+in the Journal of American Medical Association showing that 
+there was a significant association between school closures and 
+increasing mental health issues such as anxiety and depression. 
+And we have data showing increased suicide rates as well in the 
+Journal of Pediatrics that especially affected males, 
+adolescent males and younger males as well, and the increase 
+really started in the summer and fall of 2020, those suicide 
+rates.
+    And so whether or not it was schools, whether or not it was 
+the access to sports through schools, or some other factor, it 
+is difficult to say, but we see across the board these 
+accelerating increasing mental health issues correlating with 
+the closures of the schools. And so, I think it is not a 
+stretch of the imagination, you know, to see how isolating 
+children, keeping them out of school, keeping them away from 
+their peers, keeping them away from adults they can confide in 
+and in a safe environment, you know, for them, that that could 
+be correlated with worsening mental health issues.
+    Dr. Joyce. So as a physician, as a doctor, do you feel that 
+the school closures accentuated long-term mental health issues 
+in children?
+    Dr. Hoeg. I am concerned that they did because of the 
+correlation we saw----
+    Dr. Joyce. In school-related activities, whether it was 
+being on the soccer field----
+    Dr. Hoeg. I mean, we have seen also evidence that sports 
+activities, the decreased participation in sports activities 
+have been associated with increased depression rates 
+specifically during the pandemic, and we know that many 
+children get access to sports and physical activity through 
+school. It would be extremely difficult to say that the school 
+closures had no impact on this mental health crisis that we are 
+seeing right now in our youth.
+    Dr. Joyce. Thank you for your insight, and I yield.
+    Dr. Wenstrup. I now recognize Ms. Tokuda from Hawaii for 
+five minutes of questions.
+    Ms. Tokuda. Thank you, Mr. Chair. I ask to insert into the 
+record a March 2023 report from Hawaii State Superintendent on 
+measuring student achievement pandemic impacts and recovery 
+without objection, Mr. Chair.
+    Dr. Wenstrup. Without objection.
+    Ms. Tokuda. Thank you. I am a mother of two school-aged 
+boys who attend public schools in Hawaii, and like many parents 
+across our country, I wanted to get my children back into 
+classrooms with their teachers and their peers as soon and 
+safely as possible. But like all of us, we watched the 
+infection and death tolls rise across our country. You have 
+heard it today, the millions of lives that were lost right here 
+in the United States. Over 1,700 minors lost their lives. Over 
+200,000, and by some accounts more, children lost a parent or a 
+secondary caregiver. That is 1 in 360 kids losing a parent or a 
+loved one that cares for them. Some assessments have brought it 
+even closer to 1 in 260 youth.
+    Ms. Mazyck, you testified that during the Trump 
+Administration, we lacked basic public health infrastructure, 
+PPE, ventilation systems, testing capabilities. We didn't even 
+have a vaccine. Lacking these things, was it a safe environment 
+for our students to return to? Yes or no.
+    Ms. Mazyck. No.
+    Ms. Tokuda. And despite the state of the pandemic, the 
+Trump Administration tried to bully our schools into reopening 
+by threatening to withhold greatly needed Federal funds unless 
+they did so, all for Donald Trump's political gain. On July 8, 
+2020, President Trump tweeted about America's schools, noting 
+that he ``may cut off funding if not open.'' Less than a week 
+later, Trump's Education Secretary, Betsy DeVos, told Fox News 
+that if schools weren't going to reopen, ``They shouldn't get 
+the funds.'' Ms. Mazyck, how would cutting off Federal funds, 
+greatly needed Federal funds, for our Nation's schools in the 
+middle of the pandemic have undermined our children's 
+education? What impact would that have had further on learning 
+loss, and would it have done absolutely anything to improve 
+student mental health or reduce the rates of abuse that rose 
+during the pandemic?
+    Ms. Mazyck. I will speak specifically to one aspect of 
+education that is in the Every Student Succeeds Act, the 
+education law, and that is a provision for specialized 
+instructional support personnel, the school counselors, nurses, 
+psychologists, social workers, and others who are there to 
+support students so that they have what they need in order to 
+access their learning. That would have been difficult for 
+schools to move forward because they would not be able to 
+provide equitable healthcare and mental health needs to 
+students.
+    Ms. Tokuda. Thank you. And so, a lot of the talk we have 
+had today about the fact that learning loss took place, that 
+the mental health of our students were severely impacted, 
+access to opportunities that were overlooked, rates of abuse 
+increased, none of this would have helped. In fact, it would 
+have been made worse by the threats and the actions of the 
+prior President.
+    Ms. Mazyck. Thank you.
+    Ms. Tokuda. So, you know, I just want to go off a little 
+bit about what we are hearing today. You know, we have talked a 
+lot about learning loss, and, yes, we lost a lot during the 
+pandemic, and we need to start to refocus our support on 
+schools and our educators in order to overcome this. But let me 
+be clear about this as a mother of two boys who were in our 
+public school system during the pandemic and are still in our 
+public school system. The loss of a child, a child's loss of a 
+parent, a caregiver, a classmate, a teacher, no amount of money 
+or political pandering can make up for that. We lost a lot, as 
+I said, during this pandemic, but we also learned a lot from 
+this experience.
+    I asked to insert Hawaii's report into the record. We are 
+one of the largest school districts in the country, despite our 
+small geographic size. We were amongst the most conservative in 
+reopening our schools and businesses. And while we suffer from 
+health disparities and have a number of vulnerable communities 
+even before this pandemic, we were one of the best-performing 
+states in this country when it came to mortality rates, 
+vaccination rates, hospital capacities.
+    Was there learning loss amongst our children? Did I worry 
+about my two sons? Yes, as there was across our country in 
+every school district in every single state. But recent 
+findings that we have seen from an independent analysis shows 
+that thanks to smart and targeted use of ESSER funds, these 
+very funds that were threatened by the former President, our 
+students and schools' recovery was exceptional. ``It is 
+exceptional compared to other states.''
+    That being said, we have much work ahead. But if we are 
+going to take anything meaningful away from this tragedy and 
+from this hearing today, it is that funding like ESSER, funding 
+from the Federal Government, not reckless reopening and 
+threatening of funding, funding works. I am glad to see 
+colleagues across the aisle care so much about our kids, about 
+learning, about their mental health, and I look forward to them 
+supporting us in increasing funding, in fact, for our public 
+schools, for our teachers, for mental health services to our 
+school districts to help them combat the learning loss they 
+have experienced. Thank you, Chair. I yield back my time.
+    Dr. Wenstrup. I now recognize Ms. Greene from Georgia for 
+five minutes of questions.
+    Ms. Greene. Thank you, Mr. Chair. We are hearing a lot 
+about funding from Democrats today as we are preparing our 
+budget here in the House of Representatives. And I would just 
+like to point out, we don't have a revenue problem in 
+Washington. We have a spending problem. And there was a lot of 
+misuse of COVID funds during the shutdowns and a lot of waste, 
+fraud and abuse, and that is why we are here on the Oversight 
+Committee today.
+    I also wear another hat other than a Congresswoman. I am a 
+mother, and I have three children, and I have children in 
+school, or at least one of them has graduated. The other two 
+are now in college. But my youngest, my son, he graduated in 
+the class of 2022. Now thankfully, I am from a red state where 
+his high school opened up quickly, his activities resumed, but 
+my three children did suffer during that time. All three of 
+them lost their part-time jobs. My daughter, who was a D1 
+athlete in college, her sport was completely suspended for an 
+entire season. They lost many things. But I will say that 
+thankfully, because our schools reopened quickly, my son's 
+education did not fall behind, but many's education did fall 
+behind.
+    We have talked about ACT scores. For example, approximately 
+42 percent of the graduate test takers from the high school 
+class of 2022 failed to meet the benchmark scores in English, 
+reading, science, and math. The average of that class was 19.8 
+out of 36 on the ACT. This is a failure and a direct result of 
+school closures.
+    I would also like to talk about, you know, I hear a lot 
+from my colleagues on the other side talking about vulnerable 
+children, and children in poverty, and children that are at 
+risk, especially with learning disabilities. That is something 
+else I know about. Children with autism, Down syndrome and 
+other disorders, they went without their therapies, tutoring, 
+and many other things that they were used to receiving when 
+they were in person and education in schools. That was 
+detrimental. I have a family from my district whose daughter 
+with autism completely quit speaking after years and years of 
+therapy that she had finally begun to speak, and she quit 
+speaking again when her therapies were discontinued. I think 
+that is a complete failure.
+    But the most devastating effect that I think that we all 
+saw was the suicide increase in children. It is unthinkable to 
+me that any child would commit suicide, and I know, all of you 
+on the panel agree with that. But here we saw suicide increase 
+to 6,000 suicides among the ages 10 to 24, 51-percent increase 
+in suicide attempts in girls ages 12 to 17. But boys were the 
+ones that so tragically were actually getting the job done with 
+the largest rate of suicide in an average of eight percent 
+increase, and so it is just completely devastating.
+    But another thing I would like to point out that we haven't 
+really talked about here is that the gigantic impact on mental 
+health of our kids while they were being forced to stay home, 
+many of them alone by themselves sitting in front of a screen 
+for most of their waking hours as they were trying to educate 
+themselves with online learning, which was a failure for many. 
+But they were also spending their time on TikTok and Instagram, 
+which are two poison pills for our children's minds. And since 
+this time, the school closures, we have seen a dramatic 
+increase in trans-identifying children, which is something that 
+was not normal nor common many years before this, and I think 
+that is completely devastating. But I would also like to point 
+out the AFT, the teacher's union, were the teachers that, by 
+the way, were getting paid to stay home and didn't have to go 
+work, were the ones talking to the CDC about when should 
+schools reopen, and then we had Governors of blue states. So, I 
+would like to ask each of you, and each of you take your turn.
+    If you had the chance to explain with your experience and 
+knowledge that you have about the horrific failures of the 
+COVID shutdowns, what would you say to Randi Weingarten, who I 
+would prefer to be on this panel today--I think that is who we 
+should be talking to--or what would you say to CDC Director, 
+Rochelle Walensky, who I also think we should be questioning 
+today? Mr. Zweig, if you had questions for her, what would you 
+ask? And then I would like to hear from each witness. Thank 
+you.
+    Mr. Zweig. I would ask Dr. Walensky why the evidence that 
+existed in front of us, real-world observational evidence, was 
+dismissed or ignored, and instead we focused on projections and 
+models about what would happen. That is against sort of 
+fundamentals in the hierarchy of evidence when you look at, and 
+we chose to look at a lower form of evidence and prioritized 
+that over real-world evidence that was occurring. I would like 
+to understand why that happened.
+    Ms. Greene. Thank you. Dr. Hoeg?
+    Dr. Hoeg. Yes. So, I would like to discuss with Randi 
+Weingarten about the perceived risks both to teachers and 
+children as I do think that there was a misunderstanding and a 
+miscalculation about the many risks that children face, and 
+about the risks that teachers faced also from children. But I 
+would like to ask Dr. Walensky, you know, why, when she was 
+creating the guidance for reopening the schools in February 
+2021, that she was using the wording of the teachers unions in 
+terms of requiring six-feet of distance and not actually 
+consulting the scientists and physicians who were doing the 
+actual research looking at amount of distancing and 
+transmission in schools, and why it seemed like the teachers 
+unions had had a more dominant voice in creating those 
+guidelines then then the scientist.
+    Ms. Greene. Thank you. Ms. Gentles?
+    Ms. Gentles. Yes. I think that if I had the opportunity to 
+speak with Randi Weingarten, I would ask her about what her 
+conversations are like with teachers in urban districts that 
+were closed and did not serve students. What is it like to talk 
+to teachers in Baltimore at schools that have zero percent 
+students proficient? Zero. And what is it like to talk to 
+teachers in Newark that have less than two percent of their 
+students proficient in math? What is she advising those 
+teachers now when they say what do we do? How do we teach these 
+kids? How do we turn this around? She has to take 
+responsibility for keeping those schools closed and creating 
+the situation for her members, for her teachers. What is she 
+going to tell them to do now?
+    Ms. Greene. Excellent. Ms. Mazyck?
+    Ms. Mazyck. I will speak from a public health perspective 
+from the Federal, state, and local level, and ask for a way to 
+communicate lessons learn after-action plans are very common in 
+dealing with emergencies. I think that needs to happen on all 
+levels so that we know what to do the next time we have a 
+pandemic.
+    Ms. Greene. Thank you very much. I yield back the remainder 
+of my time.
+    Dr. Wenstrup. I now recognize Dr. Jackson from Texas for 
+five minutes of questions.
+    Dr. Jackson. Thank you, Mr. Chairman. Thank you for our 
+witnesses. Thank you for being here today.
+    A lot of this has already been said, but I am going to 
+state it anyways because I do think it is important, but early 
+on, COVID was a black box. No one really knew how infectious it 
+was. We didn't know what the true morbidity and mortality of 
+this disease was. No one knew who the truly vulnerable 
+populations were. But we started pretty quickly to figure this 
+out, and one thing that we learned very early on was that 
+children were not the at-risk group in this disease. They 
+didn't get COVID easily. They didn't spread it. And if they did 
+get it, they did not get seriously ill and die from it despite 
+some of what we heard.
+    We also knew that masking and school closures were having a 
+devastating effect on social development, academic performance, 
+and rise in youth depression and suicide. Despite that, there 
+was no course correction. And the White House, Democrats at all 
+levels of government, and the public health sector, which, by 
+the way, has lost all credibility and trust of the American 
+people at this particular point, all doubled down on these 
+destructive policies. Why? Why were these decisions being made? 
+Who was actually driving these bad decisions? You have to ask 
+yourself.
+    We know now that the teachers union, and specifically AFT 
+and its president, Randi Weingarten, were aggressively pushing 
+this destructive agenda. Why were they doing that? You ask 
+yourself. Well, No. 1, my opinion is because there were 
+billions of dollars at play here, billions, billions of dollars 
+which would ultimately be controlled by the teachers union. 
+Since 2020, Congress has actually allocated $190 billion to the 
+schools. Seven million dollars of that went to the teachers 
+union, the intent of which the $190 billion was to reopen our 
+schools and get back to normal. However, that did not happen, 
+and the teachers union continued to support school closures.
+    Liberal politicians continue to advocate for more money and 
+support of the union--why--and more government money for this 
+purpose. Well, I will tell you why. It is because a large part 
+of that money was going right into the reelection campaigns, in 
+the coffers of those very Democrats. In fact, the teachers 
+union gave $20 million to Democrats in the 2020 election cycle 
+alone. This, in my opinion, was the biggest driver of all of 
+this. However, it didn't help at all that the teachers, 
+administrators, and other school employees were being paid to 
+stay home as well. And the teachers union was once again 
+promoting this for political reasons with complete disregard 
+for the health and the wellbeing of our children.
+    A perfect example of this, recently published, this CDC 
+report. The CDC admitted that there were errors in their CDC 
+reporting. These errors, they resulted in exaggerating the 
+severity and the risk for children. They also resulted at the 
+time and they continued CDC recommendations to keep kids at 
+home. These recommendations we now know were developed in 
+conjunction with the teachers union. This is politics, not 
+science.
+    Ms. Mazyck, I wanted to ask you. Are you a member of the 
+teachers union?
+    Ms. Mazyck. I am not.
+    Dr. Jackson. You are not.
+    Ms. Mazyck. National Association of School Nurses is a 
+501(c)(3) member organization.
+    Dr. Jackson. Thank you. You are the executive director of 
+the National Association of School Nurses. Is that correct?
+    Ms. Mazyck. That is correct.
+    Dr. Jackson. Were you the director in February 2021?
+    Ms. Mazyck. I was.
+    Dr. Jackson. OK. And I know this question has been asked, 
+but I think it is important, but I want to ask one more time. 
+Were you consulted by the CDC or the White House or anyone else 
+regarding recommendations for in-person learning?
+    Ms. Mazyck. The term ``consultation'' means that I really 
+need to look at data and documents. I received a letter----
+    Dr. Jackson. Did you get a phone call? Did you receive a 
+letter? Did you remember having any conversations?
+    Ms. Mazyck. I received a letter today from the Chairman----
+    Dr. Jackson. Not today before----
+    Ms. Mazyck [continuing]. Asking for me to provide 
+information from our association.
+    Dr. Jackson. I am not talking about that today. That is 
+fine. We will get that letter. We would love to find that 
+information. Now what I am asking is at the time when these 
+recommendations were being made, did you receive any phone 
+calls? Did you get any letters? Did you have any communication 
+with somebody at the White House or somebody at the CDC 
+regarding in-person learning?
+    Ms. Mazyck. You are asking me to go by my memory, and----
+    Dr. Jackson. I am asking you, you were the executive 
+director. This is the organization that you were in charge of, 
+and you can't remember if you had any type of conversation 
+about that?
+    Ms. Mazyck. Sir, I will fulfill what the letter asks me 
+for, and I ask that you would respect that.
+    Dr. Jackson. I will be happy to look at that letter when we 
+get it. I think it is very concerning that you can't remember, 
+as the executive director, whether you had any type of 
+conversation or any type of communication about that at all. I 
+mean, I think you could easily say I did, I don't know the 
+detail. I can't relate to you the extent of which this 
+conversation took place. I will get that to you in writing. But 
+you are saying you do not remember having any of those 
+conversations.
+    Ms. Mazyck. No, I don't. What I do know is that the 
+National Association of School Nurses depended on the guidance 
+that was issued from the CDC.
+    Dr. Jackson. I understand that. What I want to know is did 
+they participate in developing that guidance along with the 
+teachers union. I think this is a very important question. This 
+is just the beginning. We are just starting to scratch the 
+surface of what happened here. When we see something that 
+doesn't look like it is not right, usually follow the money and 
+you can figure out exactly why this stuff happened. So I am 
+excited about looking into this and finding out exactly what 
+drove all of this, where that money went and who made these 
+decisions. Thank you, Mr. Chair, I yield back.
+    Dr. Wenstrup. Thank you. I would now like to yield to 
+Ranking Member Ruiz for a closing statement if he would like to 
+make one.
+    Dr. Ruiz. Thank you, Mr. Chairman, and thank you again to 
+all of our witnesses for your participation. It is clear, in-
+person learning is critical to our children's health and well-
+being, both inside and outside the classroom. It is very clear 
+that we have to do our utmost best to ensure that every school, 
+regardless if you are in an affluent community or an indigent 
+community, where, if you have kids with affluent parents or 
+hard-working poor parents, that they all have the equal 
+opportunity to stay in school, a school that is resourced well, 
+that is well equipped, and then has all the provisions 
+necessary not only to stay healthy, but also to learn during 
+and not during a very highly infectious airborne virus to keep 
+them safe, to keep them in school, and to keep them learning, 
+and also in a way that helps reduce transmission in a 
+community.
+    Before we wrap up today, I would like to take the 
+opportunity to correct the record regarding some 
+characterizations of the comparisons between when America 
+schools reopened versus other countries that we have heard 
+throughout the hearing.
+    Look, when other countries took the virus seriously, they 
+acted quickly to rapidly boost with the tools necessary to 
+catch up or do measures to help reduce the transmission. And 
+when you have a highly transmittable virus with an R0 of 4, 
+which we had early on in the pandemic based on some high 
+transmission rate cities, like New York City and others, 
+whatever you do on a highly infectious pandemic, the effects of 
+what you do has some latency. So, the higher the transmission 
+rate, the infectivity, the longer the latency of your actions 
+on the pandemic.
+    So, the lack of urgency, the downplaying of the virus, and 
+under the previous Administration our schools were left under 
+resourced and under prepared to keep kids and their community 
+safe and healthy. And that lack of urgency led to delays in 
+reopening our schools, led to the ill-equipped schools in the 
+hardest hit communities having to delay returning to schools, 
+and commonsense measures to ensure kids could learn safely in 
+classrooms were politicized for President Trump's partisan gain 
+during the election year.
+    In contrast, you know, on his first full day in office, 
+President Biden took decisive action to reopen our Nation's 
+schools by issuing an executive order calling on the Department 
+of Education and Department of Health and Human Services to 
+issue long-awaited guidance on safely returning to in-person 
+learning. And just three weeks later, CDC issued this 
+comprehensive guidance on vaccines, testing and masking, paving 
+the way for 95 percent of schools to reopen by fall of 2021.
+    Now schools are 99 percent open, and yet this does not 
+erase the need to make sure that we address learning loss and 
+make our education system more resilient for the next highly 
+contagious lethal virus, protecting students and teachers and 
+keep schools open in the event of another public health crisis. 
+That is our goal, and we must do all this with compassion for 
+the heavy toll the pandemic took on our Nation's children, 
+families, and educators. And we must do all this with a focus 
+on ensuring America's children can live and learn healthily, 
+and safely now and into the future.
+    And I think one of the biggest lessons learned and takeaway 
+is to act with urgency, to beef up testing and PPEs to make 
+sure our schools, especially our underfunded schools, now have 
+the resources they need to make sure that we have more school 
+nursing, more protocols, more air purifiers, more ability to 
+keep our students safe from any future pandemic, to keep our 
+teachers safe, to keep our school workers safe, and to keep 
+their community safe so that in our hardest-hit communities, 
+the schools that exist that are underfunded in those highly hit 
+communities do not contribute to transmissions, albeit in other 
+affluent communities, those transmission rate may be smaller. 
+But we need to look at all of these things, and I am glad that 
+we are having these conversations. And so, with that, I yield 
+back.
+    Dr. Wenstrup. Thank you. In closing, I would like to thank 
+our panelists once again for their important and insightful 
+testimony here today, and I am going to make my closing 
+statement.
+    What are some of the things we heard today? Instead of 
+schools being the last to close and the first to open, they 
+were the first to close and the last to reopen, yet bars and 
+liquor stores, they were open. We talked about Europe, and we 
+saw in Europe that there were some places where the rate of 
+transmission/infection outside of the school was greater than 
+inside the school. Dr. Ruiz and Mr. Mfume talked about these 
+aren't apples to apples, and I get that. That makes sense, but 
+we can learn from them, and it doesn't mean we should ignore 
+them altogether, which is seemingly what we did, very little 
+discussion, very little input from what we were finding from 
+data from around the world.
+    Mr. Garcia talked about schools being reopened. Well, were 
+they fully reopened? Were they partially reopened? Were there 
+restrictions on them? Were there restrictions that limited the 
+education of the children? We have to discuss that, too. You 
+can't just say they reopened and expect to really be able to 
+guide us further. Now we heard about, well, teachers went back 
+when they were vaccinated. Well, that is great, but vaccinated 
+people get COVID too. We knew that from the trials. That is not 
+new, so why was that the factor? This is kind of hard to 
+imagine.
+    Mr. Garcia also mentioned that many groups were asked to 
+provide input, stakeholders, if you will, and that is a good 
+thing to give that to the CDC. So, the question is, if we find 
+out the school nurses gave some wonderful advice based on their 
+medical experience especially, did it have more say or more 
+influence than what the teachers union had to say, with no 
+medical background? We need to know that. It is important to 
+know that because what influence did it have on the guidelines 
+that CDC put out?
+    You know, during either administration, actions were taken, 
+actions that are being questioned, that were questioned at the 
+time. Most of the actions were being taken by public health 
+officials or public health agencies. The question is, what was 
+done? What wasn't done? Was it helpful, or was it hurtful, or 
+did it make no difference whatsoever? That is what we need to 
+be talking about.
+    You know, we look at the idea of restricting travel from 
+China. Well, I would say that is pretty much the ultimate 
+contact tracing there when that was called for, and it 
+certainly was extreme social distancing, which was recommended. 
+Yet, it was ridiculed, deemed hatred. And why? Obviously, it 
+was political reasons. We didn't need political influence on 
+what we are doing here then, and we don't need it now if we are 
+to be successful in the mission of this Committee.
+    We heard a lot about the American Rescue Plan today. We 
+heard about the dollars spent, but what we haven't determined 
+fully is whether it made a difference, whether it was 
+necessary, what it did, what it didn't do. You know, I heard 
+well, we were able to get more money for vaccines for the 
+children. We don't know fully if they needed it. I mean, a lot 
+of data would show they don't need to be vaccinated. They are 
+not at risk. They may have infection-acquired immunity.
+    All of these things, you know, if somebody says, hey, Dr. 
+Wenstrup, we got you some more blood pressure medicine. Well, I 
+don't have high blood pressure, so it really doesn't matter. So 
+was this worthwhile to give me more blood pressure medicine 
+when I don't need it? Those are the questions we have to ask 
+and be serious about it. You know, our job is oversight, and 
+whether it is the bills that we passed in a bipartisan fashion, 
+or the American Rescue Plan, we have an obligation to see if it 
+was effective, if it was helpful. Are we spending money wisely? 
+Are we actually producing something that has made America 
+better, healthier?
+    Ms. Mazyck, I appreciate what you said. You said after 
+action. I have been saying that from the start that this is 
+what this Committee is about. It is an after-action review, 
+lessons learned, build a path forward, not only for school 
+children, but for all of America, and, for that matter, for the 
+globe. We can do great things, but only if we are courageous 
+enough and able to honestly and smartly critique ourselves and 
+our political allies. That is when we can have success. And 
+with that, I yield back.
+    And without objection, all members will have five 
+legislative days within which to submit materials and to submit 
+additional written questions for the witnesses, which will be 
+forwarded to the witnesses for their response.
+    Dr. Wenstrup. If there is no further business, without 
+objection, the Committee stands adjourned.
+    [Whereupon, at 12:27 p.m., the Subcommittee was adjourned.]
+
+                                 [all]
+

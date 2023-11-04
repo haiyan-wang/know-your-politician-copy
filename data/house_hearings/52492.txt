@@ -1,0 +1,2218 @@
+
+ - ELECTRONIC HEALTH RECORD MODERNIZATION DEEP DIVE: PHARMACY
+
+[House Hearing, 118 Congress]
+[From the U.S. Government Publishing Office]
+
+
+                        ELECTRONIC HEALTH RECORD
+                   MODERNIZATION DEEP DIVE: PHARMACY
+
+=======================================================================
+
+                                HEARING
+
+                               BEFORE THE
+
+                SUBCOMMITTEE ON TECHNOLOGY MODERNIZATION
+
+                                 OF THE
+
+                     COMMITTEE ON VETERANS' AFFAIRS
+
+                     U.S. HOUSE OF REPRESENTATIVES
+
+                    ONE HUNDRED EIGHTEENTH CONGRESS
+
+                             FIRST SESSION
+                               __________
+
+                          TUESDAY, MAY 9, 2023
+                               __________
+
+                           Serial No. 118-12
+                               __________
+
+       Printed for the use of the Committee on Veterans' Affairs
+       
+       
+                  [GRAPHIC NOT AVAILABLE IN TIFF FORMAT]       
+       
+                      Available via http://govinfo.gov
+                      
+                               __________
+
+                    U.S. GOVERNMENT PUBLISHING OFFICE
+                    
+52-492                     WASHINGTON : 2023                         
+                      
+                      
+                                            
+                      
+                     COMMITTEE ON VETERANS' AFFAIRS
+
+                     MIKE BOST, Illinois, Chairman
+
+AUMUA AMATA COLEMAN RADEWAGEN,       MARK TAKANO, California, Ranking 
+    American Samoa, Vice-Chairwoman      Member
+JACK BERGMAN, Michigan               JULIA BROWNLEY, California
+NANCY MACE, South Carolina           MIKE LEVIN, California
+MATTHEW M. ROSENDALE, SR., Montana   CHRIS PAPPAS, New Hampshire
+MARIANNETTE MILLER-MEEKS, Iowa       FRANK J. MRVAN, Indiana
+GREGORY F. MURPHY, North Carolina    SHEILA CHERFILUS-MCCORMICK, 
+C. SCOTT FRANKLIN, Florida               Florida
+DERRICK VAN ORDEN, Wisconsin         CHRISTOPHER R. DELUZIO, 
+MORGAN LUTTRELL, Texas                   Pennsylvania
+JUAN CISCOMANI, Arizona              MORGAN MCGARVEY, Kentucky
+ELIJAH CRANE, Arizona                DELIA C. RAMIREZ, Illinois
+KEITH SELF, Texas                    GREG LANDSMAN, Ohio
+JENNIFER A. KIGGANS, Virginia        NIKKI BUDZINSKI, Illinois
+
+                       Jon Clark, Staff Director
+                  Matt Reel, Democratic Staff Director
+
+                SUBCOMMITTEE ON TECHNOLOGY MODERNIZATION
+
+              MATTHEW M. ROSENDALE, SR., Montana, Chairman
+
+NANCY MACE, South Carolina           SHEILA CHERFILUS-MCCORMICK, 
+KEITH SELF, Texas                        Florida, Ranking Member
+                                     GREG LANDSMAN, Ohio
+
+Pursuant to clause 2(e)(4) of Rule XI of the Rules of the House, public 
+hearing records of the Committee on Veterans' Affairs are also 
+published in electronic form. The printed hearing record remains the 
+official version. Because electronic submissions are used to prepare 
+both printed and electronic versions of the hearing record, the process 
+of converting between various electronic formats may introduce 
+unintentional errors or omissions. Such occurrences are inherent in the 
+current publication process and should diminish as the process is 
+further refined.
+
+                         C  O  N  T  E  N  T  S
+
+                              ----------                              
+
+                          TUESDAY, MAY 9, 2023
+
+                                                                   Page
+
+                           OPENING STATEMENTS
+
+The Honorable Matthew M. Rosendale, Sr., Chairman................     1
+The Honorable Sheila Cherfilus-McCormick, Ranking Member.........     2
+
+                               WITNESSES
+
+Mr. Neil Evans, M.D., Acting Program Executive Director, 
+  Electronic Health Record Modernization Integration Office, U.S. 
+  Department of Veterans Affairs.................................     4
+
+        Accompanied by:
+
+    Mr. Thomas Emmendorfer, Pharm.D., Executive Director, 
+        Pharmacy Benefits Management Services, Veterans Health 
+        Administration, U.S. Department of Veterans Affairs
+
+    Mr. Robert Silverman, Pharm.D., Chairman, Pharmacy Council, 
+        Veterans Health Administration, U.S. Department of 
+        Veterans Affairs
+
+Mr. Mike Sicilia, Executive Vice President, Global Industries, 
+  Oracle.........................................................     6
+
+        Accompanied by:
+
+    Mr. James Ellzy, M.D., Vice President Federal, Health 
+        Executive, Oracle
+
+Ms. Carol Harris, Director, Information Technology and 
+  Cybersecurity, Government Accountability Office................     8
+
+                                APPENDIX
+                    Prepared Statements Of Witnesses
+
+Mr. Neil Evans, M.D. Prepared Statement..........................    35
+Mr. Mike Sicilia Prepared Statement..............................    39
+Ms. Carol Harris Prepared Statement..............................    49
+
+ 
+       ELECTRONIC HEALTH RECORD MODERNIZATION DEEP DIVE: PHARMACY
+
+                              ----------                              
+
+
+                          TUESDAY, MAY 9, 2023
+
+             U.S. House of Representatives,
+          Subcommittee on Technology Modernization,
+                            Committee on Veterans' Affairs,
+                                                   Washington, D.C.
+    The subcommittee met, pursuant to notice, at 3:02 p.m., in 
+room 360, The Capitol, Hon. Matthew M. Rosendale, Sr. (chairman 
+of the subcommittee) presiding.
+    Present: Representatives Rosendale, Mace, Self, and 
+Cherfilus-McCormick.
+    Also present: Representatives Balderson and Carey.
+
+      OPENING STATEMENT OF MATTHEW M. ROSENDALE, CHAIRMAN
+
+    Mr. Rosendale. Good afternoon. I would like to bring this 
+subcommittee to order. A great deal has changed since our last 
+hearing. The VA is finally acknowledging that the Oracle Cerner 
+electronic health record system is not fully functional and is 
+not suitable to any other facility.
+    After nearly 3 years of pressing forward, despite the 
+mounting consequences to veterans' safety, staff burnout and 
+billions of dollars wasted, Secretary McDonough and Dr. Evans 
+have become realistic about the future of this ill-conceived 
+project. That is encouraging. It has been painful and very 
+expensive to watch this disaster unfold. It has been 
+frustrating to argue and plead with VA not to march off the 
+cliff, only to be ignored or stonewalled.
+    Thankfully, the Department is now listening to what 
+veterans, it is on employees, and this committee have been 
+saying for so long. It is far past time to look under the hood 
+of the Electronic Health Record (EHR) and see if it can be 
+fixed and whether progress is even being made. Be assured, that 
+is exactly what we are about to do. We are here today to take 
+an in-depth look at one particularly dysfunctional aspect of 
+the EHR and that is pharmacy.
+    Pharmacy is crucial to veterans' health and well-being. 
+Unfortunately, it is one the most error ridden and dangerous 
+parts of the system. First and foremost, we need to listen to 
+the VA pharmacists who use it every day. To that end, the 
+subcommittee sent questionnaires to each of the five medical 
+centers using Oracle Cerner. We received responses from 
+Spokane, Walla Walla, Columbus and Roseburg.
+    The situation they describe is outrageous and dangerous. 
+The pharmacists cannot trust the system so they have to work in 
+a constant State of hypervigilance. The Spokane medical center 
+has been live on Oracle Cerner EHR for 2-1/2 years. Yet, they 
+continue to discover new problems every week.
+    Across these sites patient safety reports are up over 300 
+percent since the EHR went live. About a quarter of these 
+incidents are directly related to pharmacy. The medical centers 
+have added on average of 20 percent more pharmacy employees to 
+perform the same workload on top of relying on support from 
+remote pharmacists.
+    Columbus even had to dedicate a pharmacist to manage the 
+Cerner help desk tickets full time. They created a management 
+position in the pharmacy just to deal with the EHR. All 
+together the pharmacy operations at Spokane, Walla Walla and 
+Columbus have seen a more than $9 million deficit from 
+increased staffing costs and lost copays and collections. On 
+average, the staff's struggles with the EHR have shaved about 
+22 points off of these medical center scores in the best places 
+to work survey.
+    The pharmacists are in distress and they do not feel their 
+concerns are being taken seriously. That is deeply unfortunate 
+because they, not the VA central office, not Cerner, have been 
+doing the crucial work to document the system's flaws since the 
+very beginning. It was the Spokane pharmacists who wrote the 
+initial 57-page patient safety domain report in August 2021.
+    It was the pharmacists at these medical centers who 
+identified the 79 business requirement change requests and 
+continue to track them. Some of their findings went into the 
+improvement sprint report that Dr. Evans' office released in 
+March but appears that much more was excluded.
+    Oracle Cerner released pharmacy updates in February and 
+late April and another one is slated for August. The 
+pharmacists believe some of these updates have been successful 
+and produced incremental improvements. As for the more 
+significant updates, they seem to have created as many new 
+complications as they even resolved.
+    VA and Oracle Cerner are barely scratching the surface, 
+tackling only a handful the high priority issues from a list 
+that is approaching 100.
+    I appreciate all of our witnesses joining us today so we 
+can dig into these pharmacy updates and their trajectory for 
+improvement. We expect the VA pharmacists to give our veterans 
+world class service and we owe them fully functional technology 
+to do that.
+    With that, I would yield 5 minutes to Ranking Member 
+Cherfilus-McCormick for her opening statement.
+
+OPENING STATEMENT OF SHEILA CHERFILUS-MCCORMICK, RANKING MEMBER
+
+    Ms. Cherfilus-McCormick. Thank you, Mr. Chairman. Thank you 
+to our witnesses for being here today to discuss the critical 
+project at the Department of Veterans Affairs. I want to start 
+off by saying that I wholeheartedly support the VA's decision 
+to delay any further go lives while they fix the issue at five 
+sites currently live on he Cerner system.
+    I am a cosponsor along with Chairman Bost and Ranking 
+Member Takano on the Electronic Health Record Program 
+Restructure, Enhance, Strengthen, and Empower Technology (EHR 
+RESET) Act. I look forward to working with my colleagues to 
+ensure that we do not go live at any future sites until we fix 
+the issue in this system. These sites have born the brunt VA's 
+to properly manage this project from the very beginning and we 
+owe them our focus.
+    That being said, I have a number of concerns with the 
+delay. VA has not provided the committee a timeline for when 
+they expect the work to be completed at the live sites. I am 
+also very concerned that the VA has still not established a 
+baseline EHR. Without a baseline, every future go live will 
+bring more changes to the system.
+    Constant change requests have and will continue to have 
+major impact on the cost and timeline the project and will 
+force staff at the active sites to continually adjust their 
+workflows. I have already heard from the staff that they feel 
+like they are being repeatedly bashed into rocks by the waves 
+of change. The change fatigue associated with constant 
+adjustment is detrimental to staff morale and will have lasting 
+effects on the VA's ability to recruit and retain high quality 
+staff and by extension on the veterans' access to health care.
+    The VA much shore up its governance process to ensure that 
+any changes to the system are both necessary and the best 
+interest of our veterans and VA providers. Electronic Health 
+Record Modernization (EHRM) cannot be allowed to go the way of 
+Veterans Health Information Systems and Technology Architecture 
+(VistA) where every faculty is operating a different system.
+    We hear frequently from the VA employees and they continue 
+to feel like their concerns are not being addressed and are 
+bothered by the lack of information on the path forward. 
+Communication with frontline staff must improve in VA if VA 
+expects them to adopt the change.
+    Also, there must be more emphasis on empowering employees 
+in the decisionmaking process and having their issues fixed 
+faster. There is an entire workforce at VA informatics that are 
+being underutilized.
+    In this project that could be empowered to manage local 
+configuration changes which would drastically improve the 
+timeline of these needs. I think this would also go a long way 
+toward improving user satisfaction.
+    Finally, I want to address recent reports of patient harm 
+caused by the new EHR. I have spent much of my career in 
+healthcare and I understand that it is not as simple as saying 
+Cerner hurts veterans. However, the fact is that the EHR did 
+play at least some role in these tragic incidences. I hope that 
+both the VA and Oracle Cerner are looking at the system and the 
+work flows and the policy of proactively identifying areas 
+where there is potential for patient harm instead of reactively 
+patching these places where harm has already occurred.
+    On a more positive note, I am cautiously optimistic that 
+the new leadership team has made progress in the short time 
+that they have been in place.
+    The attitude and experience of Dr. Evans has brought to his 
+role is refreshing. I am encouraged that the VA has chosen a 
+practicing physician from the system to help turn the system 
+around. Dr. Evans, your work--Dr. Evans, you and your work are 
+cut out for you. I look forward today to that conversation. I 
+am encouraged to hear from everybody on how we can help make 
+this EHR a reality for all of our VAs. Thank you so much.
+    I yield back to you, Mr. Chairman.
+    Mr. Rosendale. Thank you so much, Ranking Member Cherfilus-
+McCormick.
+    I will now introduce the witnesses on our first and only 
+panel today. First from the Department of Veterans' Affairs we 
+have Dr. Neil Evans, acting executive director of the 
+Electronic Health Record Modernization Integration Office. We 
+also have Dr. Thomas Emmendorfer, the executive director of the 
+pharmacy benefits management services and Dr. Robert Silverman, 
+the chairman of the EHRM pharmacy council.
+    Next we have from Oracle Mr. Sicilia, executive vice 
+president for global industries and Dr. James Ellzy, vice 
+president for Federal Health. Finally we have Ms. Carol Harris, 
+the director of information technology and cybersecurity at the 
+Government Accountability Office.
+    I ask the witnesses to please stand and raise your right-
+hands.
+    [Witnesses sworn.]
+    Mr. Rosendale. Thank you. Let the record reflect that all 
+the witnesses have answered in the affirmative.
+    Dr. Evans, you are now recognized for 5 minutes to deliver 
+your opening statement.
+
+                    STATEMENT OF NEIL EVANS
+
+    Dr. Evans. Chairman Rosendale, Ranking Member Cherfilus-
+McCormick, and distinguished members of the subcommittee, thank 
+you for the opportunity to testify in support of the VA's 
+initiative to modernize its electronic health record system.
+    Today, as mentioned, I am accompanied by my VA colleagues, 
+Dr. Thomas Emmendorfer, executive director of pharmacy benefits 
+management, and Dr. Robert Silverman the pharmacy co-chair of 
+the council, the pharmacy council for Electronic Health Record 
+Modernization.
+    Before I speak about the impact of our electronic health 
+record modernization efforts and the intersection with VA's 
+pharmacy services, I would like to first spend a few moments 
+discussing our recent decision to halt deployment activities of 
+the Federal electronic health record in VA, as part of the 
+larger program reset. We have been listening to veterans and 
+the VA staff who are using the new electronic health record a 
+the medical centers, VA clinics, and remote supporting 
+locations associated with our health system in Spokane and 
+Walla Walla, Washington, Roseburg and White City, Oregon and 
+Columbus, Ohio.
+    We have also been listening to Congress, including this 
+subcommittee. The new electronic health record is not meeting 
+our expectations. VA is electing to take the time to get things 
+right.
+    The program we set follows an extended pause and 
+deployments that began in July 2022, culminating in an effort 
+to assess and address a more narrow set of issues deemed to be 
+the most impactful selected through the lens of patient safety. 
+The VA is already working with Oracle to address the issues 
+identified. Together with Oracle during this reset we will be 
+able to more comprehensively address both these issues and a 
+broader set of changes necessary for program success.
+    Additional deployments will not be scheduled until the VA 
+is confident the new EHR is highly functioning at current sites 
+and is ready to deliver for veterans and VA clinicians at 
+future sites. This readiness will be demonstrated by clear 
+improvements in clinician and veteran experience. Sustained 
+high performance and high reliability of the system itself, 
+improved levels of productivity at sites where the EHR in use 
+and more.
+    When the reset period concludes, the VA plans to release a 
+new deployment schedule. The only exception to the full stop 
+deployment activities is at the capital James A. Lovell Federal 
+Health Care Center in north Chicago, a fully integrated VA and 
+Department of Defense facility. To ensure that all veterans and 
+servicemembers who are cared for at this facility are covered 
+by one her system deployment activities there will continue 
+with at planned deployment in 2024. That deployment will of 
+course also leverage the improvements made during the 
+concurrent program reset.
+    I would like to now turn to the focus area of the this 
+hearing, a deep dive into pharmacy and the new electronic 
+health record. The top priority of our pharmacy program at VA 
+is to serve and honor the men and women who are America's 
+veterans by delivering pharmacy programs founded on pillars of 
+safety, quality and value.
+    In addition, customer service is a hallmark of VA pharmacy 
+services. One example is the consolidated mail out patient 
+pharmacy program that VA runs that provides prescription 
+fulfill to over 350,000 veterans every day. He leads the mail 
+order pharmacy business was validated externally by the annual 
+J.D. Power & Associates national pharmacy studies and has 
+achieved the highest customer satisfaction score in 10 of the 
+last 14 years.
+    Managing over 146 million total prescriptions a year at VA, 
+pharmacists and pharmacy staff are fully integrated into our 
+care teams as first-class members of the team. The division 
+that exists between the health system and retail pharmacies in 
+the private sector does not exist in VA.
+    Our pharmacy achieve success by cultivating a culture of 
+continuous improvement. I want to acknowledge and thank our 
+pharmacy community for using the same approach to identify the 
+improvements that are needed in the Oracle Cerner pharmacy 
+system and the electronic health report.
+    The main concerns identified by our pharmacy community have 
+been related to select acts aspects of an Oracle Cerner 
+pharmacy application called Med Manager retail, as well as its 
+interaction with a core Cerner electronic health record, Cerner 
+Millennium and specifically PowerChart.
+    A series of development efforts underway by Oracle to 
+improve the visualization of medications for both pharmacists 
+and ordering provider to improve synchronization between Med 
+Manager retail and PowerChart and to improve the efficiency of 
+the work flow for pharmacy staff as they process prescriptions 
+and refills.
+    Some improvements are recently delivered in a series of 
+software updates over the past few months and the remainder are 
+planned for delivery between now and February 2024. The 
+feedback from or pharmacy community on the recently deployed 
+enhancements is that the improvements have been small and 
+incremental.
+    Although these improvements are appreciated, VA pharmacy 
+staff and providers need an accelerated delivery of upgrades to 
+eliminate the burden of the more labor intensive human 
+mitigation strategies that are currently in place. Furthermore, 
+the current pace the new requests for upgrades and enhancements 
+exceeds the delivery schedule of changes to address those 
+requests. This way one of our focus areas during the months to 
+come as we work with Oracle Cerner to optimize and accelerate 
+efforts where possible.
+    Chairman Rosendale, Ranking Member Cherfilus-McCormick and 
+members of the committee, I thank you again for this 
+opportunity to testify today and for all your continued support 
+of our Nation's veterans and their caregivers.
+
+    [The Prepared Statement Of Neil Evans Appears In The 
+Appendix]
+
+    Mr. Rosendale. Thank you, Dr. Evans. The written statement 
+of Dr. Evans will be entered into the hearing record.
+    Mr. Sicilia, you are now recognized for 5 minutes to 
+deliver your opening statement.
+
+                   STATEMENT OF MIKE SICILIA
+
+    Dr. Sicilia. Chairman Rosendale, Ranking Member Cherfilus-
+McCormick and members of the subcommittee, thank you for 
+inviting us here today. I am joined by Dr. James Ellzy from our 
+Federal EHRM team and we look forward to this discussion about 
+pharmacy capabilities for the new VA EHR.
+    First, with VA's announcement on April 21 of the reset for 
+the EHRM program I want to State again that Oracle is proud to 
+continue to work together with VA to modernize its EHR system. 
+We support VA's plan to improve the operation of the EHR at the 
+current sites and take the necessary time to institute 
+governance, change management, and standardization changes to 
+ensure the success of future VA deployments, similar to what 
+Department of Defense (DOD) did a few years ago. DOD's 
+modernization is now nearly complete, on time and on budget. We 
+will continue to closely coordinate with VA to provide 
+enhancements and updates to the EHR as we have since we closed 
+our acquisition of Cerner last June. Since then we have made 
+significant progress on many critical issues that were 
+impacting the EHR system, including its pharmacy capabilities. 
+Overall the system performance has significantly improved from 
+where it was last summer.
+    At the five currently live sites on average more than 
+200,000 prescriptions are being filled each month. To date 2.8 
+million prescriptions have been filled through the mail system 
+Consolidated Mail Outpatient Pharmacy (CMOP). When a veteran 
+can send to get a prescription the average window turnaround 
+time across the currently live sites is 25 minutes, which is 
+below the 30-minute key performance metric set by the VA.
+    The VA's pharmacy system does not operate the same as 
+commercial healthcare systems, as Dr. Evans noted, where the 
+EHR enables a provider to order a prescription but the 
+receiving pharmacy then utilizes its own software for the 
+dispensing of the medication. In the VA healthcare system VA is 
+both the ordering party and the dispensing party through its 
+own VA pharmacy whether outpatient or by mail. Therefor the her 
+needs to support the supplying components to fill 
+prescriptions. Its fundamental difference is the reason that 
+pharmacy enhancements were needed to tighten the integration 
+between the outpatient pharmacy application and the provider 
+ordering application.
+    Shortly after the acquisition closed I came to the Hill and 
+met with many Members who were interested in this program. In 
+every single meeting I heard about pharmacy and the need for 
+these enhancements. Members were unhappy that Cerner had 
+provided a timeline of up to 3 years to do the work once VA 
+finally settled on it requirements. That was clearly 
+unacceptable. Once the requirements for the enhancements were 
+delivered to us in VA, by VA in August we built and deployed 
+the top three enhancements to VA in 4 months. There are seven 
+total enhancements and their order was prioritized by the VA.
+    The remaining four enhancements will be delivered this year 
+for deployment in 2023 and early 2024. That is a significantly 
+faster overall timeframe--timeline. We hope it shows you that 
+the Oracle is a highly, capable partner for VA and whether it 
+is pharmacy enhancements or other fixes we have put tremendous 
+engineering rigor and resources into getting the work done well 
+and quickly.
+    We have also read the survey results around the recently 
+delivered pharmacy enhancements. We are not completely 
+surprised given the first three enhancements delivered as 
+prioritized by the VA were focused more on improving--ordering 
+provider experience. The next set of enhancements are focused 
+more on improving the pharmacist experience. We believe that 
+once delivered and implemented then pharmacists will be in a 
+position to provide very variable feedback.
+    One other point about the pharmacy system I would like to 
+highlight is the new opioid adviser tool included with the EHR. 
+This tool allows clinicians to simultaneously check data from 
+47 State prescription and drug monitoring programs and 
+Department of Defense facilities to prevent improper 
+prescribing in controlled substance.
+    The opioid adviser tool has automatically alerted providers 
+to avoid prescribing opioids to high-risk patients nearly 1,800 
+times since November 2020. With the opioid adviser the other 
+modern features of the EHR and the enhancements completed and 
+in process we believe that the pharmacy system will provide a 
+high degree of safety for veterans as they received their 
+medications.
+    However, we will continue to review it together with VA, 
+especially given the reset period that we are now in. We will 
+continue to work with VA to make sure that enhancements which 
+are forthcoming are delivered on or ahead of schedule. We 
+continue to prioritize our work in pharmacy so that we are 
+confident veterans will receive the cases they need when 
+needed.
+    Thank you.
+
+    [The Prepared Statement Of Mike Sicilia Appears In The 
+Appendix]
+
+    Mr. Rosendale. Thank you, Mr. Sicilia.
+    The written statement of Mr. Sicilia will be entered into 
+the hearing record.
+    Ms. Harris, you are now recognized for 5 minutes to deliver 
+your opening statement.
+
+                   STATEMENT OF CAROL HARRIS
+
+    Ms. Harris. Chairman Rosendale, Ranking Member Cherfilus-
+McCormick, and members of the subcommittee, I am pleased to 
+participate in today's hearing on the pharmacy-related 
+functions of VA's new EHR system.
+    As requested, I will briefly summarize the findings from 
+our recently completed review of this mission critical system. 
+The results are applicable to the EHRM program as a whole 
+including to the pharmacy-related concerns discussed today. As 
+you know, VA provides healthcare services to roughly 9 million 
+veterans and their families and relies on a legacy system 
+called VistA to do so.
+    In June 2017, the Department initiated the EHRM program to 
+replace VistA and has obligated at least $9.4 billion on this 
+program to date. This is also VA's fourth attempt at replacing 
+the legacy system and the implementation thus far has been just 
+as challenging as the last three attempts, if not even more so. 
+As such we support VA's recent decision to pause future 
+deployments in order to focus on making improvements at the 
+five sights where the system is currently in use.
+    In our most recent work, we detailed VA's gaps to 
+effectively manage organizational change as well as the extreme 
+dissatisfaction among users and system issues. This afternoon I 
+will highlight three key points that VA should address during 
+this reset period.
+    The first is more needs to be done to adequately address 
+VA's organizational change management challenges. Our recent 
+review detailed eight leading practices for change management. 
+VA had partially implemented seven and did not implement one. 
+These gaps occurred for a number of reasons. Most notably, the 
+Department lacked a VA driven strategy for how its efforts 
+would supplement the contractor-led change management 
+activities. As such the activities focused on system 
+deployment, not on user challenges with transitioning to new 
+work flows.
+    The results of VA's own post-deployment questionnaires 
+highlight the need for more attention for this area. On a scale 
+of zero to 100 with 68 being average, users rated their 
+abilities to use a new EHR system somewhere between 23 and 32. 
+We made seven recommendations to VA to address the gaps in 
+their change management activities.
+    Now to my second point, users of the new EHR system are 
+generally dissatisfied and this needs to be fully addressed 
+before deployments resume. The VA is well aware that its users 
+are unhappy with the system. Their 2021 and 2022 user 
+satisfaction survey showed this. For example, about 6 percent 
+of users agreed that the system enabled quality care.
+    Roughly 4 percent of users agreed that the system made them 
+as efficient as possible. I have been auditing for over 20 
+years now across the Federal Government, these are the lowest 
+scores that I have seen in government, hands down.
+    With regard to the pharmacy module, users told us 
+processing prescriptions took much longer in the new system, 
+leading to increased backlogs and decreased efficiency which 
+led to patient safety concerns because the pharmacy could not 
+full prescriptions in a timely fashion.
+    The pharmacy Department at one facility increased from 15 
+to 60 staff to manage increased workloads associated with the 
+system. There were also multiple instances of double 
+prescriptions and incorrect medication orders and the list goes 
+on.
+    Furthermore, VA has not established goals to assess user 
+satisfaction. Having such goals in place would provide the 
+department with a basis for determining when satisfaction has 
+improved and also help ensure that the system is not 
+prematurely deployed to additional sites which could risk 
+patient safety. Accordingly, we recommended that VA set these 
+goals and also demonstrate improvement toward meeting them in 
+prior to future system deployments.
+    Now to my final point. The VA did not adequately identify 
+and address EHRM system issues. The VA has not conducted an 
+independent operational assessment of the new system and as of 
+January did not plan to do so. This critical evaluation 
+performed by a third party would enable VA to systemically 
+catalogue, report on and track resolution of assessment 
+findings with greater rigor transparency and accountability. We 
+recommended that VA make plans to have the independent 
+assessment done.
+    In summary, the successful implementation of a new system 
+across VA will require a level of program management, 
+adaptability to change and sustained system performance that 
+the department and contractor have yet to demonstrate. 
+Continuance of the EHRM is not without risk but with strong 
+oversight from this committee in addition to improved VA 
+program management and contractor system performance we can 
+increase the odds for success.
+    Mr. Chairman, that concludes my statement. I look forward 
+to your questions.
+
+    [The Prepared Statement Of Carol Harris Appears In The 
+Appendix]
+
+    Mr. Rosendale. Thank you very much, Ms. Harris. The 
+statement of Ms. Harris will be entered into the hearing 
+record.
+    Before we proceed to questioning I ask unanimous consent 
+from Representative Mike Carey and Troy Balderson to 
+participate when they are able to get here.
+    Hearing no objection, so ordered.
+    I now recognize myself for 5 minutes for questioning.
+    Dr. Evans, are you committed to making the Oracle Cerner 
+pharmacy software and the EHR as a whole fully, functional 
+before restarting any go lives?
+    Dr. Evans. Yes. I mean that is--the purpose of our program 
+reset at the highest level is no have a single minded focus on 
+the system improvements. Frankly also the process improvements 
+that are necessary for us to have the confidence that we can 
+move forward with further deployments.
+    Mr. Rosendale. Are you willing to rely upon the input from 
+the directors of the facilities that the system is fully 
+functional in order to account for that recognition.
+    Dr. Evans. Yes, absolutely. I just was in Columbus last 
+week meeting with facility leadership in Columbus and I look 
+forward to meeting with the facility leadership of all the 
+facilities that are currently using EHR.
+    Mr. Rosendale. Pharmacy is just one aspect of EHR's 
+problems, but its very important because it directly affects 
+veterans. What is necessary to make the system fully 
+functional?
+    Dr. Evans. As was mentioned by Mr. Sicilia, we talk about 
+pharmacy, there are three main stakeholders. There is the 
+ordering provider who is ordering the prescription. There is 
+the pharmacist and pharmacy staff who need to process that 
+prescription and interact with the ordering provider. Then of 
+course there is the veteran who is receiving the prescription. 
+When we talk about the health information technologies that 
+support and effective pharmacy operation, we need to take into 
+account all of those stakeholders.
+    One of the areas that you heard discussion about in some of 
+the opening remarks here was around supporting the efficiency 
+of pharmacists themselves to be able to safety and effectively 
+do their work, whether that be communicating with the ordering 
+provider or processing prescriptions and refills. At the top 
+level it is that efficiency and quality of processing 
+prescriptions and engaging with veterans that we are measuring 
+the success of this technology to meet our needs in the VA.
+    Mr. Rosendale. Thank you very much.
+    Mr. Sicilia, you testified to the Senate Veterans' Affairs 
+Committee in March. ``We believe from a performance and 
+scalability standpoint the system is ready for the resumption 
+of deployments.'' 5 weeks later Secretary McDonough halted all 
+future implementations. What is your definition of ready?
+    Mr. Sicilia. I was referring the to technical readiness of 
+the performance scalability of time. The clinical decisions 
+course belong to the VA.
+    Mr. Rosendale. Clearly you and Secretary McDonough have a 
+different definition of ready could we say?
+    Mr. Sicilia. I do not believe that the clinical areas of 
+the system are my responsibility. I am not a provider, I am not 
+a doctor. I do not make those decisions.
+    Mr. Rosendale. Okay. The VA has requested budgeted $1.8 
+billion for Fiscal Year 2024 based upon the old scheduled 
+rollout, which included facilities--10 more facilities. That is 
+been frozen and the original five are not fully functional 
+under the terms of the agreement. I have heard a lot of pledges 
+from Oracle over the last 6, 7 months about standing by their 
+product and being this large institution that is prepared to 
+take this on. The project has never performed as advertised. It 
+has caused so many problems the Secretary has delayed further 
+implementation. You cannot blame that on staff.
+    Do you think $1.8 billion for Fiscal Year 2024 is fair 
+compensation to Oracle for an EHR system that is not fully 
+functional in the five facilities that it is located in and in 
+the elimination of the 10 that were scrubbed.
+    Mr. Sicilia. Well. The total amount of money contemplated 
+includes lots of different things, software, plus go live 
+services. Obviously if the system is not going live we are not 
+going to be compensated for those services.
+    Mr. Rosendale. You would say that the $1.8 billion would be 
+excessive for Oracle to receive for compensation in Fiscal Year 
+2024 based upon the ten facilities that are not going to be 
+brought on and the five that are not functioning now.
+    Mr. Sicilia. If we are not going to resume go lives, then 
+sure, that is not going to be--that is not going to be the----
+    Mr. Rosendale. Okay. Do you think it is fair to enter into 
+a new contract and hold taxpayers responsible for a failing 
+system and sites that were never even added onto?
+    Mr. Sicilia. I would say that the system was core and 
+fundamentally flawed it would not be live at Walter Reed or Ft. 
+Belvoir. By the way we went live at the same time in parallel 
+at sites and the Department of Defense runs the same exact 
+system.
+    Mr. Rosendale. We are not talking about the Department of 
+Defense. In case you did not see the sign on the door--excuse 
+me, Mr. Sicilia. This is the House Veterans' Affairs Committee. 
+Do you think the taxpayers should pay $1.8 billion, which was 
+scheduled for 2024 a bill for 10 facilities that are not even 
+going to be utilized and for the five that are not fully 
+functional?
+    Mr. Sicilia. No, I do not think that they should because 
+the systems are obviously not going to go live.
+    Mr. Rosendale. Okay. That is fine. Thank you.
+    I will turn it over to Representative Cherfilus-McCormick 
+for 5 minutes of questioning.
+    Ms. Cherfilus-McCormick. Thank you so much, Mr. Chair.
+    My question is for Dr. Evans. Dr. Evans, how are pharmacy-
+related patient safety events reported and investigated at the 
+sites using Oracle Cerner?
+    Dr. Evans. Any patient safety related concern is reported 
+in the same way, regardless of whether it is really the 
+pharmacy or any other part of care delivery. It is--these are 
+reported by--they can be reported when a user is calling in and 
+reporting a ticket or entering a ticket. They are entered into 
+something called the Joint Patient Safety Reporting system.
+    Our National Center for Patient Safety, as well as within 
+VA, as well as patient safety experts within the Electronic 
+Health Record Modernization Integration Office, as well as 
+informatics patient safety experts and the Veterans Health 
+Administration take every one of those reports seriously, 
+evaluate what has been reported, investigate the issue and 
+identified solutions to address any findings that are there.
+    One of the things that is very important is we encourage 
+our end users to report concerns. We would rather have an over 
+reporting of concerns so that we can evaluate the possibility 
+and address items that do prove to have patient safety risk.
+    The second thing I would say is that--and I think there was 
+a mention of this in comments earlier--a prospective, forward-
+leaning approach to patient safety is also an important part of 
+this program. That is that as we are configuring the record and 
+improving the record that we are thinking about and evaluating 
+where there might be risk to patient safety in making those 
+decisions on the front end to mitigate or lessen the risk of 
+challenges down the line.
+    Ms. Cherfilus-McCormick. Specifically how does the VA 
+leadership receive the results of these investigations?
+    Dr. Evans. With regard to if--this is part of our routine 
+management of the system. With regard to--if we are talking 
+about patient safety reports or patient safety concerns there 
+are the changes we need to make to the system, but then there 
+are also if there is a concern that there might have been 
+patient harm our national center for patient safety will do a 
+root cause analysis and we have very regular discussions and 
+meetings with that group to identify what has been fond so that 
+we can take action to improve anything that is necessary within 
+the record.
+    Ms. Cherfilus-McCormick. How many actual patient harm 
+events have occurred at the Columbus center that you are aware 
+of?
+    Dr. Evans. I would have to take that for the record to give 
+you an exact number.
+    Ms. Cherfilus-McCormick. Do you know if any of them or how 
+many if you break it down in ratios were from pharmacy or 
+medical related?
+    Dr. Evans. I think when we talk about patient harm, patient 
+harm healthcare can be complicated. It is a complicated--we are 
+orchestrating delivery--a team of individuals taking care of 
+the veteran, imaging studies, orders getting placed, 
+medication. There is a lot that is happening in healthcare. In 
+general, when we look at patient harm, patient harm is almost 
+never singly attributed to an electronic health record. A 
+electronic health record can have a role in patient harm, but 
+it is often one of many facets.
+    When we think about patient harm, it is hard to say--to 
+answer your question to say how many--how many events of 
+potential patient harm, that is near misses or actual patient 
+harms can be directly and solely attributed to the electronic 
+health record.
+    Ms. Cherfilus-McCormick. I guess what I am trying to get at 
+is trying to identify are we really getting the numbers from VA 
+leadership of how many patients are harmed? How can we improve 
+it? That is the specificity that we are looking for. Do you 
+feel like you are getting the real number?
+    Dr. Evans. Yes.
+    Ms. Cherfilus-McCormick. Have you put together a pathway 
+for improvement?
+    Dr. Evans. Yes. I mean, I am seeing the real numbers on a 
+weekly if not daily basis. I am able to review the numbers that 
+are being evaluated. We have a process by which we take the 
+findings of what we learned to make the changes in the system 
+that are necessary to enhance safety.
+    Ms. Cherfilus-McCormick. Thank you so much, Dr. Evans. I 
+yield back.
+    Mr. Rosendale. Thank you, Representative Cherfilus-
+McCormick. I now yield to Representative Self from Texas for 5 
+minutes.
+    Mr. Self. Thank you, Mr. Chairman.
+    I brought this up in hearings before with the VA, that 
+currently it is not in my district but it is certainly in my 
+area--the Dallas Veterans Integrated Services Networks 
+(VISN),--which I think is the second largest in the system. 
+Even under the VistA system, I hear from veterans all the time 
+that their pharmacy prescriptions do not arrive, they arrive 
+infrequently, or they have to request them again. It is very 
+interesting to hear the Government Accountability Office (GAO) 
+brief that this is a human factor issue. My question is how 
+does--and we will get to VistA in just a second--this may be 
+for Dr. Emmendorfer, how do prescriptions get filled 
+differently under Oracle Cerner than they do under VistA, 
+because I assume you are using the same pharmacy human factors.
+    Dr. Emmendorfer. Thank you, Congressman Self.
+    Oracle Cerner, there are five Cerner sites the vast 
+majority of the prescriptions are filled with the same pathway 
+as our VA medical facilities. Across the Nation, 84 percent of 
+all our prescriptions go through our mail order pharmacy 
+system.
+    The difference with our Cerner sites is what you heard from 
+the different folks at the panel today is the increase in 
+staffing for our Cerner sites. For example, in a Cerner site 
+from visiting with our staff it takes approximately three times 
+as long to process a prescription in Cerner. It is our staff's 
+dedication to the mission to care for our Nation's veterans 
+that still insurers we are delivering high quality pharmacy 
+services to our veterans.
+    To my knowledge, I do not believe that there are 
+significant delays coming from prescription delivery services 
+from our CMOP from our mail order pharmacy whether it is Cerner 
+or from a VistA site. The big issue for our staff, our pharmacy 
+staff is the amount of time it takes to process a prescription 
+to get the medication to the veterans.
+    Mr. Self. If there is no difference in method then what is 
+the advantage and what is the value added from Cerner?
+    Dr. Emmendorfer. The value added to Cerner is if you look 
+globally at our pharmacy system, we do have elements of our 
+electronic health record system that do need to be modernized. 
+Just to give one example is we do - we have had a requirement 
+going back to the early 2000's where we do need a perpetual 
+inventory system.
+    A perpetual inventory system would be highly advantageous 
+to our enterprise because that would allow us the ability to 
+have--I could be sitting here in my office and be able to look 
+at the inventory that is on hand across the enterprise.
+    That would be one advantage regardless of modernization of 
+our electronic health record and how that happens that would be 
+one advantage that we would see in pharmacy.
+    Mr. Self. Wow, your testimonies have taken me to a higher 
+level than my questions. I guess I want to drop down to one of 
+my last questions. Is this a matter of will to make this 
+happen, because again, the human factors to me are fascinating. 
+If Oracle says the system itself is ready to go and yet the 
+human factors are not there, that is where we are failing. Is 
+this a matter of the will, because we have heard that its 
+incredibly more expensive to do this system and yet the VA, if 
+I heard the Oracle representative right, is where the human 
+factors have not been taken into account. Is this feasible 
+long-term? Does the VA want to do this?
+    Dr. Evans. I think I can help answer that. As Dr. 
+Emmendorfer would say, there are capabilities in the Oracle set 
+of capabilities that have been on our list of things we need to 
+modernize for a long time, perpetual inventory system as an 
+example. A graphical user interface with a modern graphical 
+user interface for pharmacists to use. Right now pharmacy 
+prescriptions are still processed in what we call a roll-and-
+scroll interface in VistA.
+    One of issues that you have heard laid out here is that 
+processing those prescriptions right now is not as efficient 
+for our pharmacy staff in part because we are--there are system 
+improvements that you have heard mentioned that need to be put 
+in place to allow us to deliver that more efficient operation. 
+Right, for the pharmacist. There is a human factor element, but 
+there are--but I would say the majority of this is that we need 
+to adapt the work flows, the how the system works for our 
+frontline pharmacists in processing prescriptions to be more 
+efficient to allow them to return to the same level of workload 
+that they were able to achieve in the VistA system.
+    Mr. Self. I yield back, Mr. Chairman.
+    Mr. Rosendale. Thank you, Representative Self. I appreciate 
+that.
+    Ms. Harris, we heard some testimony about the problem with 
+the clinicians, not the actual software itself and what is 
+going on is clinically related, if you will. We need to look at 
+that a little bit because we are coming up on the renewal 
+period for this contract and I have got major concerns about 
+how that is going to be addressed. If mechanically you have a 
+system that is functioning but the people that are supposed to 
+implement it are not able to do so and it requires additional 
+staffing, it requires workarounds, it has decreased morale 
+because of utilizing this new system to deliver the exact same 
+number of units. While it might be functioning, it clearly is 
+not the people who are delivering the work, if you will.
+    It is their problem because of something new that has been 
+addressed to them. How do we know if the EHR is fully 
+functional? How are we going to know when it is ready, in your 
+opinion.
+    Ms. Harris. What you just described is not a functioning 
+system. Yes, technically if the system were to work if the 
+users are extremely dissatisfied which is what we are seeing 
+now the system is doing to fail, because it is not sustainable 
+to have workarounds and, you know, ad hoc processes outside of 
+the system it is just not a sustainable solution. There will be 
+increased patient safety risk as a result.
+    What we have identified through or work is VA lacks set 
+goals for what constitutes a user satisfaction and that is what 
+we need to see. We need to see very clear objective measures 
+for what constitutes adequate user satisfaction. We need to 
+have that defined before and VA needs to demonstrate progress 
+against that before the reset period closes and before they 
+move forward with any future deployments. That is a major 
+issue. Changed management is also another significant issue.
+    VA lacks a VA-driven strategy for changed management. 
+Oracle Cerner has been doing quite a bit of work in training 
+users in the system itself, but users are not prepared to 
+change their business work flows because they just have not 
+been adequately trained and that is a major issue. The VA needs 
+to take a leadership role in leading that change management 
+effort so that users fully understand the expectations around 
+what--how they are business processes will change.
+    Mr. Rosendale. A real simple question, do you think that 
+this new EHR system that Oracle has rolled out offers either 
+safety, quality or value at this current time?
+    Ms. Harris. No.
+    Mr. Rosendale. Thank you very much.
+    Dr. Evans, in order to ever have confidence in Oracle 
+Cerner EHR we need to see that it is working well in Spokane, 
+Walla Walla, Columbus, Roseburg and White City. We are a long 
+way from that today. Maybe even more importantly the system has 
+to demonstrate some sort of value to justify the enormous 
+expense. It is not enough to merely swap EHR systems. How are 
+you reevaluating your strategic goal? How will this project 
+ever demonstrate a value proposition?
+    Dr. Evans. I wholeheartedly agree that simply changing from 
+one electronic health record to another electronic health 
+record is not strategy for value realization.
+    The electronic health record is an absolutely critical 
+element of the functioning of the modern healthcare system. It 
+is how one uses the electronic health record, how one 
+configures it, how one enhances its ability to meet your 
+business goals and frankly your customer service goals that 
+delivers the real value.
+    You know, and example of that is that we operate as an 
+enterprise healthcare system. You know, there are elements of 
+this transition that are actually frankly quite critical for us 
+to meet our strategic goals.
+    Mr. Rosendale. If they are functioning properly.
+    Dr. Evans. That is correct.
+    Mr. Rosendale. Okay.
+    Dr. Evans. If one of our strategic goals is for us to be 
+able to deliver care across the enterprise. Right now there are 
+tele critical care physicians. There are tele critical hubs 
+that are caring for patients remotely at 20, 30 different VA 
+medical centers. Using VistA they have 20 to 30 instances of 
+VistA open to do that. It would be great for them to have one 
+instance of the electronic health record open to be able to 
+deliver care.
+    To your point this is where we need to understand what we 
+are trying to achieve strategically to make sure that our 
+investment in the electronic health record is allowing us to 
+achieve those needs.
+    Mr. Rosendale. Thank you, Dr. Evans.
+    Representative Cherfilus-McCormick. I yield.
+    Ms. Cherfilus-McCormick. Thank you, Mr. Chairman.
+    My question is for Mr. Sicilia. We understand that an issue 
+has arisen with certain medication and allergy information from 
+Oracle sites not transmitting correctly to VistA, VistA 
+providers are receiving a warning to check through the joint 
+longitudinal view whether their patients has received the 
+medication and Oracle site.
+    If so the provider must check for all allergies and drug 
+interaction problems before prescribing any new medication. Are 
+you aware of this issue.
+    Mr. Sicilia. I am not personally aware of this issue but I 
+will ask Dr. Ellzy who is a clinician.
+    Dr. Ellzy. Yes, ma'am. I am aware of the situation and we 
+have actually rectified it for anything going forward. We have 
+come up with a remapping to make sure that what is going back 
+to the VistA sites is correct. We are still working with the VA 
+to do the retroactive work that needs to be done for thing that 
+were already transmitted.
+    Ms. Cherfilus-McCormick. When did you discover that and 
+what was the root cause?
+    Dr. Ellzy. Ma'am, unfortunately I would have to take that 
+for the record. Thank you.
+    Ms. Cherfilus-McCormick. Thank you. My any question is 
+going to be for Dr. Evans. Are you aware of this issue or were 
+you aware of this issue?
+    Dr. Evans. I am aware of the issue.
+    Ms. Cherfilus-McCormick. What was the mitigation plans that 
+you guys quickly went to before Cerner corrected their plan?
+    Dr. Evans. This is an issue that has to do with again I 
+actually would highlight this, it follows on with the theme 
+from Chairman Rosendale, it is important for VA that we operate 
+as an enterprise healthcare system. It is our expectation that 
+if an order--if a medication is ordered at any site that 
+regardless of what site it is ordered at we are doing drug 
+interaction checks, checking for allergies, that we are doing 
+the safe things for the prescription of that medication. With 
+this issue there was an interface bill between the Oracle 
+system and what we call our health data repository, which is 
+where we keep track of prescriptions that have been written 
+from across the enterprise.
+    When we realized there walls an issue there, we again gave 
+instructions to our end users at our VistA sites for how to 
+find the information they need and we have been working very 
+closely with Oracle to execute the technical fix, which has 
+already been done and now to fix the data that needs to be 
+adjusted in follow up to this event. Again, when we find an 
+issue like this, the answer to your question is it is all hands 
+on deck, all hands on deck to fix it.
+    Ms. Cherfilus-McCormick. Well, thank you. I wanted to 
+ensure that we had that communication in the lag time if we can 
+actually make sure that there is not a big lag time because 
+medications with allergies and intermixing is a deadly 
+combination which I am sure everyone here is aware of.
+    Issues like these have been a concern in the past and of 
+course are going to be a concern going forward for the 
+committee.
+    The EHR RESET Act would require VA to contract for 
+independent verification and validation of the EHR program. I 
+feel like this is the perfect example of why something like 
+this is needed.
+    My next question is for Dr. Evans. We understand that these 
+continue to be a problem with veterans addressing reverting to 
+their address in D-E-E-R-S. The question is this issue with 
+Defense Enrollment Eligibility Reporting System (DEERS) was 
+identified shortly after the first go lives, why does it 
+continue to be an issue?
+    Dr. Evans. As you are aware, the electronic health record 
+is a Federal electronic health record that is being used by 
+both the Department of Defense and the Department of Veterans 
+Affairs, the United States Coast Guard and soon National 
+Oceanic and Atmospheric Administration (NOAA) as well. DEERS is 
+the identify system used by the Department of Defense.
+    The system is architected with the dependency on DEERS 
+before VA was an involved with this project. This is an area 
+where we are continuing to work closely with the Department of 
+Defense. In fact, we have meetings scheduled even within the 
+next week and a half at a very senior level addressing issues 
+around some of these points of intersection to include DEERS 
+and its dependency on the system itself.
+    Ms. Cherfilus-McCormick. How has this affected the mailing 
+of medication? Are you aware instances where medication was 
+delivered to an incorrect address?
+    Dr. Evans. I am not personally aware of that. I will--I do 
+not know whether my pharmacy colleagues can speak to that.
+    Mr. Silverman. Thank you, Dr. Evans.
+    Ranking Member Cherfilus-McCormick, I am aware of some the 
+incidents in which medications was mailed to incorrect address 
+as a result of DEERS information being overwritten. It is my 
+understanding that with block 8, which was installed February 
+of this year, the ability for that to overwrite any VA data has 
+been addressed such that if the employees working on the EHR 
+are recognized by the system as VA that it will no longer take 
+DEERS information to overwrite the VA information.
+    Thank you.
+    Ms. Cherfilus-McCormick. Mr. Chairman, I yield back.
+    Mr. Rosendale. Representative Self, I recognize you for 5 
+minutes of questioning.
+    Mr. Self. Thank you, Mr. Chairman.
+    I want to go to the drop in average scores of best places 
+to work. These are dramatic as the GAO briefed. Did you see 
+similar drops in locations that were VistA only? What I am 
+trying to get at is that are there other factors or can we 
+point to Cerner alone?
+    Dr. Evans. I have not done that analysis with the level of 
+detail where I feel confident that I could answer that 
+question. However, I have read the reports from the pharmacy 
+and those numbers with regard to what the process are reporting 
+at these sites are compelling. I would agree.
+    Mr. Self. Okay. Then the next question is once something 
+gets engrained in a psyche of your organization, it is going to 
+be hard to overturn. Are you confident that you can overturn 
+these numbers, because believe you me across the VA system 
+people knows these numbers as well as we do. Will you be able 
+to recover regardless of how well you do in your human factor 
+advantages now that you are assuring us that you are going to 
+put this into place? Can you recover from the deep engrained 
+dissatisfaction in your five Cerner sites?
+    Dr. Evans. As Ms. Harris testified, it is not without risk 
+as we move forward, but I think so. When we----
+    Mr. Self. Why?
+    Dr. Evans. Well, when we think about what motivates VA 
+healthcare providers, I am one, I am a primary care provider, 
+what matters to me is not the EHR but how the EHR let is me 
+take care of my patients. What drives the heart and motivation 
+of VA healthcare providers and pharmacists who are healthcare 
+providers, but really all of those of us who come to work every 
+day to take care of patients in VA is taking care of the 
+veteran.
+    It is the delivery of healthcare, that is what we do. The 
+EHR needs to enable that. When, you know, I believe that if the 
+EHR is performing technically at the level that it should, that 
+is it is consistently up with the capabilities are working in 
+the system and that it is performing quickly from a reliability 
+standpoint, there are no hangs, crashes, lags.
+    When users see changes in the system that start to increase 
+their confidence that the system is going to be there. Frankly 
+it is going to get out of the way and let them take care of the 
+veterans that come to work to take care of that day. When they 
+start to see improved efficiency in using that EHR to get back 
+to talking to the veteran, they--that is what will drive 
+change, that is what drives using confidence. Confidence in a 
+tool occurs when that tool is something that is fit for 
+purpose, when it does what I want it to do.
+    Mr. Self. That is great, doctor, but you now have ingrained 
+a deep dissatisfaction with it. I see my time is going to close 
+real fast here, so I will say you look for new systems, you 
+look at cost, time to implement and productivity. I have not 
+heard a single positive out of this system in the several 
+briefings that I have been in. I think you need to examine that 
+real carefully, can you recover? It is simple as that.
+    Mr. Chairman, I yield back.
+    Mr. Rosendale. Thank you, Representative Self.
+    I yield 5 minutes to Representative Balderson for 
+questioning.
+    Mr. Balderson. I thank you, Mr. Chairman for allowing me to 
+ask questions today. Thank you all for being here.
+    My first question is for Dr. Evans. Sir, it has been 
+abundantly clear for about a year that the EHR system is unsafe 
+and has undermined healthcare delivery operations and morale in 
+Columbus. I heard this from employees and veterans at Chalmers 
+P. Wylie Veterans Outpatient Clinic when I toured last fall. 
+Unfortunately, it sounds like Washington and Oregon are 
+experiencing the same issues.
+    I understand you have been there and heard the same 
+concerns I have heard. If your improvement efforts are 
+successful, what should we expect to see at Chalmers and 
+elsewhere?
+    Dr. Evans. In fact, I was there just this past Tuesday. I 
+am incredibly grateful for the leadership and the frontline 
+staff in Columbus. They are leaning forward and have been doing 
+what--you know, have been raising their hands and pointing out 
+the issues that we need to fix.
+    A major part of the program reset is listening to our end 
+users and more rapidly addressing the issues. As I mentioned 
+before, what is the path to improvement? System reliability, 
+increased efficiency in using the system, a better 
+configuration that will allow improvements in the 
+configuration, and, you know, regular close-loop communications 
+around improvements.
+    That is what we are committed to do with all of our sites 
+as part of this reset.
+    Mr. Balderson. Okay. Thank you.
+    The next couple of questions I have are for anybody, and if 
+you want me to directly ask somebody, I can do that, but if 
+anybody would like to speak up, it is for any witness here 
+today.
+    We have heard from pharmacists in Columbus that there have 
+been over 730 Cerner help desk tickets logged, averaging over 
+three tickets per day for each pharmacist. Just keeping track 
+of the help desk tickets is literally someone's full-time job. 
+How do you justify the sheer administrative burden that has 
+been placed on the facility?
+    Dr. Silverman. Good afternoon, Congressman Balderson.
+    As you heard, I am co-chair for the pharmacy council. My 
+co-chair, Dr. Ladue, and I are aware of the volume of tickets, 
+and, in fact, it is part of our recommendation for there to be 
+a staff member of the pharmacy who is focused on addressing 
+those tickets and being able to centrally be aware of them; and 
+part of that is how the interaction plays between the reporting 
+staff at the pharmacy and the help desk staff by Oracle Cerner 
+that receive those.
+    We actually find that it is advantageous to have one person 
+or a manager of staff that are aware of those issues in order 
+to avoid the undesirable impact of two people reporting a 
+ticket of similar issue and then having two tickets being 
+worked concurrently with potentially not even the same results 
+on that.
+    We would like to give some appreciation to the Electronic 
+Health Record Modernization -Integration Office (EHRM-IO) 
+office for the funds that will allow Dr. Emmendorfer and myself 
+to travel to Columbus tomorrow, in fact, for an ongoing 
+discovery visit. Their team is already in place there this week 
+to learn and continue to address these issues.
+    I have no concern about if there need to be tickets 
+reported, we want that. We want to be accessible. We want to be 
+approachable about that, and then the tickets need to be 
+addressed to resolution.
+    Thank you.
+    Mr. Balderson. All right. Thank you.
+    My next question, again, is for anybody, and it is the 
+pharmacy piece, too. Maybe you just want to continue on, Dr. 
+Silverman.
+    They had to increase staffing by 20 percent. I mean, this 
+is pretty much what you just said. I am down to 40 seconds. I 
+appreciate you all being here, and I thank you for answering 
+the last question pretty thorough.
+    Mr. Chairman, I yield back my remaining time.
+    Mr. Rosendale. Thank you very much, Representative 
+Balderson.
+    Dr. Evans, I believe, I really do believe that the 
+physicians and the folks that are delivering the health care to 
+the veterans really do have a mission, a goal, and a life's 
+goal of making sure they deliver top quality health care to our 
+veterans. I really do believe that.
+    To use an analogy, if you are given new tools, and somebody 
+comes out and gives you a chain saw, and you are a lumberjack, 
+and he does not give you any gas, okay, you are better off 
+using the handsaw that you used to have. You will actually be 
+able to cut more wood than to sit there and try to make that 
+chain drag across the log. Okay?
+    This question is for--we are going to start with Dr. 
+Silverman. I am going to read you a quote from one of the 
+questionnaires: The Mann-Grandstaff VA has been live on Cerner 
+for 2 1/2 years, yet we all continue to discover new problems 
+weekly. The 79 change requests referenced earlier was a 
+starting point; however, it is critical to note that many more 
+issues have been identified since that time, and a list of 
+change requests continues to grow at a rate outpacing that of 
+resolutions being implemented, end of quote.
+    How could there be this many problems in just one area of 
+the EHR? How could the software be this ill-suited for the 
+pharmacists' needs?
+    Dr. Silverman. Thank you for that question, Chairman 
+Rosendale.
+    As you heard in the opening testimony, the pharmacy 
+solution that is part of the Millennium software is med manager 
+retail. It is designed for the traditional workflow in which 
+the prescriptions are sent to the pharmacy. They are processed 
+by the pharmacy and dispensed to the patient.
+    Because VA pharmacy operates on this very tight-knit, 
+closed-circuit operation of pharmacy interaction with the 
+prescribers. It is important to us to have that synchronization 
+between the systems so that the activities of the pharmacist 
+are then reflected in the PowerChart, the prescribers 
+application.
+    That is among those type priorities that you have heard 
+referenced for what we are seeking to work with, is the ability 
+for our pharmacy dispensing activities to show up in the 
+ordering profile.
+    Mr. Rosendale. If they are working that closely, which is 
+out of the ordinary from what you see in a typical setting in 
+the public sector, why would not it be easier to get this 
+sorted out instead of it being more difficult?
+    Dr. Silverman. For that, I would give an opportunity for--
+our partners from Oracle Cerner would like to comment as well 
+about what it would take to synchronize the pharmacy and 
+prescriber systems.
+    Dr. Ellzy. Chairman, if I understood your question 
+correctly, we had about 500 prioritized--or 500 things that 
+needed to be changed in the system. My pharmacist sat down with 
+the VA pharmacist to say: What is the top priority? They came 
+up with about 10 to say these are the first 10 we need to go 
+after.
+    It is not necessarily the fastest 10. These are the 
+prioritized 10, and that is the ones we went after that turned 
+into the seven projects that you have seen outlined where three 
+already went live. We have more--one that went in the cube, or 
+in block, and the next block and the block after block 10.
+    That was because that is what VA prioritized as the most 
+important to them to go after, not necessarily can you tell us 
+which ones you can do the fastest.
+    Mr. Rosendale. Okay. We are still having these issues. Dr. 
+Ellzy, do you believe the Cerner pharmacy software is 
+satisfactory right now?
+    Dr. Ellzy. Is it satisfactory to meet all the goals of how 
+the VA practices pharmacy right now? No, it is not.
+    Mr. Rosendale. Mr. Sicilia, you testified to the Senate 
+Veterans' Affairs Committee hearing in March that, quote, ``we 
+can achieve quite a bit of this by reconfiguring the system 
+without touching the code, and it can be done relatively 
+quickly. I am talking weeks, not months,'' end quote.
+    Does Oracle stand by the decisions you have made about when 
+to rewrite the software code and when to just reconfigure the 
+system?
+    Mr. Sicilia. Yes. Yes, we do. The pharmacy examples, of 
+which we are not finished, and I think that is the driver for a 
+lot of the dissatisfaction, because of the seven major things 
+that need to be fixed for pharmacy; three have now been 
+delivered. As I said in my opening statement, they are focused 
+on the provider side of a prescription, not the pharmacist 
+side. The next four are focused on pharmacists.
+    In terms of reconfiguring, my testimony during that hearing 
+was specific to the feedback that I heard in Columbus when I 
+was with Dr. Evans and the rest of--and some of the rest of the 
+team. I heard direct feedback around the workflows in the 
+system, not having anything to do with pharmacy but just 
+general workflows in the system, which the team described to me 
+as being too restrictive, too locked down, and not giving 
+enough, if you will, autonomy at the edge to configure those 
+systems.
+    I stand by my statement that should the VA choose to make 
+those statements, they are configuration changes that we can 
+make in weeks; not months, not years. The pharmacy piece--the 
+pharmacy piece is a recoding of the--recoding of functioning.
+    Mr. Rosendale. Okay. I am out of time here. I am going to 
+have to move on. Thank you for your comments.
+    Representative Cherfilus-McCormick.
+    Ms. Cherfilus-McCormick. Thank you, Mr. Chairman.
+    My question is for Dr. Evans.
+    As I said in my opening, I am concerned about the number of 
+change requests that are still showing up more than 2 years 
+after the first go live. I suspect that the VA's history of 
+allowing the medical facilities to operate independently of 
+each other has made this program complicated.
+    What is the status of establishing a baseline EHR that all 
+facilities would expect to adopt?
+    Dr. Evans. There are many layers to that question. I think 
+first one of the places where we do have opportunity is in the 
+devices and capabilities that connect to the electronic health 
+record. Again, in order to deliver a comprehensive solution 
+that allows us to have the technology necessary to deliver the 
+safe, high quality health care that we expect to deliver in the 
+VA, we need more than just an electronic health record.
+    We need bedside monitors in the Intensive Care Unit (ICU). 
+We need an intravenous pumps. We need laboratory equipment, 
+radiologic systems, what we call Picture Archiving and 
+Communication (PAC) systems, for reading imaging; and many of 
+those buying decisions have been made at the local level 
+traditionally because the interface of that system only had to 
+be plugged into the local instance of our electronic health 
+record, Computerized Patient Record System (CPRS) or VistA.
+    As we move forward with an enterprise health care system, 
+every one of those additional systems bears a cost for us, as 
+we have to interface it with the Federal electronic health 
+record. That is not technology that Oracle brings to the table. 
+These are technologies that we are buying to be able to run our 
+gastroenterology suites, et cetera.
+    We are working to establish a baseline, and we are close, 
+of what we believe would be the capabilities that--for which we 
+have existing interfaces so that plugging them into the 
+electronic health record is easier and faster as we move 
+forward with deployments.
+    The second part of the question is about a baseline around 
+workflows. How do you run a primary care clinic? How do you do 
+preoperative care? How do you take care of somebody after an 
+operation? What are the--what should the screens show? What are 
+the questions we are going to ask nurses or clinicians to 
+answer?
+    That is work that our councils assist us with and that, 
+frankly, the voice of the field is incredibly--of our end users 
+is incredibly important because we do need to increasingly 
+standardize what that looks like, but it needs to be a standard 
+that is workable from an efficiency standpoint in the delivery 
+of health care. Both of those areas are significant areas of 
+focus as we engage in the reset.
+    Ms. Cherfilus-McCormick. Presently, how have you evaluated 
+workflow and practices across the enterprise to ensure that the 
+baseline meets everyone's needs?
+    Dr. Evans. One of the ways we do that is through the 
+clinical councils. We have just recently made changes to how we 
+organize the clinical councils. The clinical councils are now a 
+part of the Veterans Health Administration. We actually have a 
+co-chair here. All of the councils are now co-chaired, 
+including field representation, and they all include existing 
+users of the new modernized EHR.
+    In part, what we need to do is make sure we have the voices 
+of--representing end users across the system in making those 
+standardized decisions. We are still learning, but this is an 
+area where I think we are seeing--we are seeing positive 
+movement in the right direction.
+    Ms. Cherfilus-McCormick. Ms. Harris, do you have anything 
+to add to this when it comes to the baseline EHR?
+    Ms. Harris. I think that that is--establishing a baseline 
+is critical if you are intending to standardize across an 
+enterprise, especially one as complicated as VA.
+    I think what I would like to note is that it is very 
+important that--increased rate at which Cerner addresses these 
+issues. I know, Mr. Chairman, you had mentioned the 79 business 
+change requests. I mean, to date--I mean, that was 2 1/2 years 
+ago. The list is growing. Only six have been completed. That is 
+a major issue.
+    The rate at which these issues are addressed need to--I 
+mean, Cerner needs to step up, as well as VA in terms of their 
+program management and contractor oversight as well.
+    Collectively, yes, the baseline is incredibly important. 
+Getting those user satisfaction scores to increase as well is 
+really critical to recovering from where we are today.
+    Ms. Cherfilus-McCormick. Mr. Chairman, I yield back.
+    Mr. Rosendale. Thank you.
+    Representative Self.
+    Mr. Self. Thank you, Mr. Chairman.
+    Mr. Sicilia, before I go on, I think I have heard you say 
+twice that it is not the pharmacists; it is the supply system. 
+Is that layman's terms?
+    Mr. Sicilia. The initial focus of the enhancement has been 
+on the provider side. In other words, the person ordering the 
+pharmacy not--we have not yet delivered enhancements that 
+pharmacists of the VA will consume. That is the next block of 
+delivery.
+    Mr. Self. Got it. Now I understand what you were saying.
+    There is a quote from one of your pharmacists: The 
+increased risks due to delays, inefficiencies, vulnerabilities, 
+manual workarounds, and the lack of responsiveness from Cerner 
+to identify patient risks, pharmacy staff must remain in a 
+constant state of hypervigilance to recognize and intervene on 
+those risks.
+    Hypervigilance by the pharmacists, can you comment on that, 
+because while this pharmacist used the word ``Cerner,'' there 
+are many factors. Address those concerns for me.
+    Mr. Sicilia. I would appreciate Dr. Ellzy's comments since 
+he deals with the clinicians.
+    Dr. Ellzy. Hypervigilance in pharmacy. Pharmacists are--I 
+am trying to find the PC way of saying it. They are very much 
+attention to detail-oriented when it comes to pharmacy, filling 
+medications. They want to make sure every I is dotted twice and 
+every T is crossed twice.
+    When you talk about hypervigilance and a pharmacist, that 
+is somewhat the norm. They are----
+    Mr. Self. Well, Doctor, that is not what this pharmacist is 
+saying. We are talking about staff burnout here under the new 
+system.
+    Dr. Ellzy. Sorry, sir. I do not understand your question to 
+me, though.
+    Mr. Self. The question is: Why do they think they have to 
+be hypervigilant under the Cerner system, as opposed to the 
+VistA system? Back to Dr. Ellzy's point, I, too, am a veteran, 
+and what I am hearing from the veterans is they are not getting 
+good pharmacy support under Cerner or VistA.
+    That is my question to you. Why do they have to be 
+hypervigilant under Cerner even more than VistA if what I am 
+hearing is VistA does not work that well either?
+    Dr. Ellzy. Sir, from my standpoint of where I sit, whenever 
+you change systems, you are going to not be as comfortable as 
+the system you have been working in for decades. It is going to 
+take time to learn the new system.
+    Mr. Self. Okay.
+    Dr. Ellzy. 2 years is not enough time to get comfortable in 
+the pharmacy sphere with a new system.
+    Mr. Self. Okay. Do you all have numbers as to the VistA 
+errors versus the Cerner errors on system-wide pharmacy errors?
+    Dr. Emmendorfer. Congressman Self, I do not have those 
+errors in front of me, but if I may just follow up a little bit 
+on the question that was just asked----
+    Mr. Self. Certainly. Go ahead.
+    Dr. Emmendorfer [continuing]. from a VA pharmacy 
+perspective?
+    Mr. Self. Please.
+    Dr. Emmendorfer. VA--pharmacists, in general, should not be 
+operating in a state of hypervigilance. We should be operating 
+within our well-established processes and procedures to safely 
+deliver prescription fulfillment services.
+    I've been a VA pharmacist for over 26 years, and I have 
+used our electronic health record over a portion of that 
+career, and I was--felt very safe and comfortable and not in a 
+state of hypervigilance.
+    VA takes a lot of pride in pharmacy, in what we do. We have 
+a very dedicated staff to the mission of our agency, which is 
+to care and serve our Nation's veterans, and that I just want 
+to say that I am very grateful for.
+    In regards to your question about the rates between VistA 
+and Cerner and the error rates, that is something I would have 
+to take back for the record, unless somebody else have those 
+rates in front of them.
+    Mr. Self. I would like to hear that.
+    Ms. Harris, do you have anything to add?
+    Ms. Harris. Well, the main thing that I want to add is 
+going back to your original question, which I think is so 
+important, which is: How do you recover?
+    In this particular situation, with where we are today with 
+the Cerner system or the new EHR system, implementing our 10 
+recommendations that we have open relative to increasing user 
+satisfaction, I mean, it is incredibly important that VA 
+establish goals to assess user satisfaction, number one. That 
+is the most important thing that they need to do and 
+demonstrate radical improvement before they move forward with 
+future deployments.
+    The second thing is to have VA really take ownership of the 
+change management strategy because all these things that we are 
+dealing with today, yes, there are system performance issues, 
+but, for the most part, it is so largely driven by that human 
+component where users have to understand exactly what it is 
+that they need to do in this new, changed environment. That is 
+really difficult to do.
+    VA needs to take that leadership role in getting their 
+users to be comfortable in this new environment.
+    Mr. Self. If the chairman will indulge me for one quick 
+question?
+    Do you have a recommendation? Can they do this?
+    Ms. Harris. I think that they can do this with very close 
+scrutiny and oversight from this committee. I think--as well as 
+through just really increased performance by both Oracle 
+Cerner, as well as through--as well as with VA as well.
+    Honestly, I was very disappointed to hear that while VA has 
+concurred with our recommendations, they expect to complete the 
+implementation of our recommendations by October 2023. That is 
+5 months away. To me, that suggests that they are unserious 
+about our recommendations and what it is going to take to 
+implement it.
+    If they do effectively implement them, I think they are 
+going to be in a much better footing for success.
+    Mr. Self. Thank you.
+    Mr. Chairman, I yield back.
+    Mr. Rosendale. Thank you, Representative.
+    Ms. Harris, while you have the microphone hot there, do you 
+think that it is too much to expect someone that has a new 
+system that is supposed to improve their output to be able to 
+learn it, understand it, and be able to deliver it in 2 1/2 
+years?
+    Ms. Harris. Sir, based on the current management of the 
+system, I think that 2 1/2 years is not enough time. I think 
+that it is going to take a much longer runway for VA to change 
+their culture.
+    I mean, we have 130 different versions of VistA. The users 
+at these different medical facilities are used to doing 
+business in a certain way that is tailored to their facilities, 
+and standardizing across the enterprise is going to be a very 
+challenging thing.
+    Again, it takes VA senior leadership to really ensure that 
+the change management is done and done properly where users 
+feel--where users are in a better position to understand what 
+they need to do in this new system.
+    Mr. Rosendale. Dr. Silverman, turning to the April release, 
+it is my understanding that it is supposed to synchronize 
+PowerChart and the Medication Manager Retail, MMR, by 
+automatically deleting prescription records in one system and 
+creating them in another, eliminating the time-consuming double 
+entry process.
+    Can you explain how this works and what it entails?
+    Dr. Silverman. Yes. Thank you, Congressman.
+    The intended synchronization from enhancement 3B is for 
+when the pharmacy at a VA Medical Center dispenses a 
+prescription, it is within common pharmacy practice that there 
+may be some subtle changes of the prescription to dispense and 
+honor the original intent.
+    Simply put, if you have a prescription for 40 milligrams of 
+a particular drug and the stock available is 20-milligram 
+tablets, we update the directions accordingly, update the 
+quantity accordingly, and dispense.
+    The intent of that enhancement is to make sure that that 
+information goes from MMR back to PowerChart automatically 
+rather than asking the pharmacist to both make the dispensing 
+process and go to PowerChart to document that update.
+    Mr. Rosendale. Very good.
+    Is it true that you discovered a serious flaw in this 
+enhancement involving prescription instructions, and you are 
+rolling back the software update?
+    Dr. Silverman. That is correct.
+    Mr. Rosendale. Dr. Silverman, this was supposed to be the 
+biggest, most important pharmacy improvement. According to the 
+questionnaires, many of the pharmacists were already concerned 
+that it would make what they see in the system even more 
+cluttered and confusing, but it sounds like it blew up right on 
+a launchpad.
+    Why did this happen? What does it say about EHR's prospects 
+to improve?
+    Dr. Silverman. Thank you for that.
+    In terms of why it happened, I would like to assure that 
+the council was in close cooperation with Oracle Cerner on the 
+initial testing, the evaluation in our nonproduction domains, 
+and made our contribution to the overall decision; yes, let us 
+deploy this with the cube release.
+    What I believe happened, Congressman, is that what we have 
+not been doing as a VA and what we need to introduce is a 
+longer testing process that would include what I will call end-
+to-end testing from the prescriber to the pharmacist reviewing 
+that prescription to simulated dispensing of that prescription 
+to our automated equipment.
+    Because we have not been testing to that thoroughness in an 
+environment that can adequately simulate our production, we did 
+not recognize what would happen with those patient 
+instructions. As soon as that issue was reported, and it was 
+reported through joint patient safety reporting system, as Dr. 
+Evans described, the council moved immediately toward request 
+and recommendation to disable the enhancement to give us the 
+time to analyze it.
+    Mr. Rosendale. Thank you. We appreciate that so that we did 
+not risk anymore safety to our veterans.
+    Mr. Sicilia, no offense, but do you think that it is fair 
+to use the VA and our Nation's heroes as a testing ground for 
+your products?
+    Mr. Sicilia. Well, I do not believe that we are.
+    Mr. Rosendale. Well, these are not coming off the shelf, 
+Okay. These are custom products. Do you think it is fair to use 
+the VA and our Nation's heroes as a testing ground for your 
+products?
+    Mr. Sicilia. We are not universally creating custom 
+products at our discretion. We are instructed and contracted to 
+do so by the VA. As Dr. Silverman just pointed out, there is a 
+testing process that happens so we are not rolling out 
+something that has not been tested and authorized by the 
+Veterans Health Administration (VHA).
+    In the event that issues are discovered after the rollout, 
+I do think Dr. Silverman's comments are correct. There has to 
+be more end-to-end testing. As something is discovered, we 
+quickly roll it back, as we do.
+    Mr. Rosendale. Thank you.
+    Representative Cherfilus-McCormick.
+    Ms. Cherfilus-McCormick. Thank you, Mr. Chairman.
+    Back to Ms. Harris.
+    My question, GAO has an extensive body of work on VA 
+struggles to implement large-scale Information Technology (IT) 
+projects. Specifically, on VA's struggle with program 
+management, can you elaborate on what GAO has observed and what 
+recommendations you have for the VA to be successful?
+    Ms. Harris. Sure.
+    What we have observed is--I think it stems back to poor 
+project--poor IT project management in general and not having 
+defined user requirements adequately upfront, and, also, not 
+really understanding the--or not having reliable cost and 
+schedule estimates for the--their IT initiatives. Those, in 
+general, have been many of the issues that we have identified 
+with IT programs, such as EHRM.
+    Now, in this particular case, we have made 15 total 
+recommendations related to the EHRM program. Ten of them are 
+priority and that comes from our most recent work. Again, it 
+goes back to increasing that user dissatisfaction and ensuring 
+that the satisfaction scores go up, that is critical to the 
+success of EHR, as well as improving their change management, 
+ensuring that their users are adequately trained in how to use 
+the system but also understanding the business process related 
+to the changes and the transformation that is happening 
+enterprise-wide relative to EHR.
+    Ms. Cherfilus-McCormick. In your testimony, you stated that 
+contractor change management activities focus on activities 
+required to deploy the system but did not address user 
+challenges when transitioning to new workflow processes.
+    Is there any reason why VA should continue to focus on and 
+fund training for Oracle Cerner system until they have focused 
+and standardized workflow processes?
+    Ms. Harris. Yes, I think that the priority should--or a 
+significant amount of their effort needs to be paid toward 
+training the users on the new business processes, the new 
+workflows, understanding what they need to do in the new 
+system, as well as understanding, as a whole, what they are 
+expected to do.
+    I think that at these facilities, I think that they are 
+team players. They want to--I think they want to--and they are 
+on board with changing. It is just that the systems--the EHR 
+system has a significant amount of issues, and, again, Cerner 
+also needs to step up, in addition to VA, in terms of 
+addressing those performance issues.
+    Again, I will go back to the 79 business change requests. 
+Only six have been addressed in 2 1/2 years. That pace is 
+unacceptable.
+    Ms. Cherfilus-McCormick. The EHR Reset Act required that 
+change management activities be led by VA rather than the 
+contractors. Is this consistent with your recommendation? Would 
+this benefit VA long-term to take greater control over the 
+change management activities?
+    Ms. Harris. Absolutely. Having an independent validation 
+and verification of the system post deployment is critical. It 
+is something that we have made a recommendation on so that VA 
+can have a third-party go and take a look and systematically 
+catalog what those issues are and then systematically address 
+those issues.
+    That is something that is called for by best practice. It 
+is also something that DOD did when they rolled out Military 
+Health System (MHS) Genesis. After their first deployment, they 
+paused the program, did the Independent Verification and 
+Validation (IV&V), and they did not deploy to future sites 
+until they addressed everything related to those issues in that 
+report.
+    Ms. Cherfilus-McCormick. Your testimony addresses issues 
+with user satisfaction and VA's lack of established targets. 
+Can you expand on your testimony and let the committee know why 
+not establishing user satisfaction goals is detrimental to the 
+future use of the program?
+    Ms. Harris. Yes, absolutely.
+    It is hard to tell how much progress has been made if you 
+do not have a baseline established for where you are and where 
+you need to be relative to user satisfaction. You have to have 
+those metrics in place so that you are measuring and being very 
+objective about the progress made and being in a position to 
+show that you have demonstrated adequate improvements before 
+you move forward with future deployments.
+    Ms. Cherfilus-McCormick. Thank you so much. Mr. Chairman, I 
+yield back.
+    Mr. Rosendale. Thank you, Representative Cherfilus-
+McCormick.
+    Okay. Dr. Evans, we have been hearing about many of the 
+unresolved issues described in the questionnaires for over a 
+year. I am not talking about technicalities. I am talking about 
+things with serious health and safety consequences, like 
+dispensing duplicate medication, refills have failed to be 
+created, and prescriptions that never reach the pharmacy 
+request file.
+    How are you going to implement these fixes without creating 
+more complications?
+    Dr. Evans. Well, first, I think, as you have heard Ms. 
+Harris testify, one of the--we need to balance an increased 
+velocity of delivering these fixes, as well as increased rigor 
+on the testing and understanding of--and prioritization of how 
+we deliver those fixes. That is something that is going to 
+require really tight collaboration between the council, our end 
+users who are using the system and know what it feels like and 
+is every day, Oracle, and the program as we execute this at the 
+larger level.
+    In part, it is about getting aligned and prioritizing what 
+the most important issues are and then executing those with 
+sufficient velocity. I agree that we are--I do not think we 
+have been executing with the velocity that we need to in order 
+to get where we need to get to have this system functioning in 
+a way that meets VA's needs, where the pharmacy--the 
+pharmacists and the providers are functioning as a single team, 
+reading from the same sheet of music, caring for the same 
+veterans.
+    Mr. Rosendale. Thank you.
+    Mr. Sicilia, making these enhancements to Oracle's pharmacy 
+software and the EHR in general, I apologize, but it seems 
+similar to constantly patching a leaking roof to me, okay, to 
+the general public. Is the only true solution to scrap the 
+pharmacy modules and buy or build new software?
+    Mr. Sicilia. I am sorry. I missed the end of that. Buy and 
+build new software?
+    Mr. Rosendale. Is the only true solution to scrap the 
+pharmacy modules and buy or build new software?
+    Mr. Sicilia. I do not believe so. I mean, I believe, as I 
+said in the beginning, you know, the VA process for pharmacy, 
+as we know, is different than the rest of the world, and we 
+have been working together to build the enhancements. As I 
+said, there are seven main things. Three of them are done. The 
+next for to go. I think it is early in the pharmacy process to 
+judge as to whether or not the end product is not so good.
+    I am not surprised to hear that right now people do not 
+like it, because it is not complete. It is not finished.
+    Mr. Rosendale. The problem is, though, Mr. Sicilia, is that 
+the taxpayers continue to pay for this experiment, and the 
+veterans continue to pay for this experiment. At what point is 
+Oracle going to either take possession of this obligation, this 
+responsibility that they entered into, that they took on, and 
+to stop laying the responsibility off onto everyone else?
+    Mr. Sicilia. I do not believe we are laying the 
+responsibility on everybody else. Ten and a half months ago 
+when we took this responsibility, the time--the estimated 
+timeframe to complete the pharmacy enhancements was 3 years. We 
+delivered the first three in 4 months. We will deliver the rest 
+of them this year.
+    Mr. Rosendale. All right.
+    Dr. Evans, Mr. Sicilia, is this a situation where we can 
+have it good or fast but not both?
+    Dr. Evans. I think that is a general--I mean, that is a 
+maxim, in general, right, but I do--I guess I would say I think 
+we are--you know, we are working together to identify what good 
+is. We have had a discussion about that during this hearing.
+    One of the reasons that together--you know, that the VA 
+announced a reset is to say we need to be able to turn our 
+attention toward these improvements; that is, turn all of our 
+attention to the improvements that are necessary. We are not 
+balancing both the significant effort of preparing for 
+deployments at new facilities and actually executing those 
+deployments with the improvements of the system.
+    I do believe that there is an opportunity for us, by 
+focusing just on the system improvements, for us to get more 
+people, more talent directed at making the improvements that 
+are necessary faster while preserving quality. I do think there 
+is a path to both good and faster.
+    Mr. Rosendale. Thank you. I appreciate that, but from my 
+standpoint, what I see is some things getting fixed at the top 
+of the list. This creates more problems that then get added to 
+the bottom of the list, and the list continues to get larger.
+    With that, I will yield to Representative Cherfilus-
+McCormick.
+    Ms. Cherfilus-McCormick. Thank you, Mr. Chairman.
+    Dr. Evans, earlier when we were talking about baseline EHR, 
+you seemed to indicate that VA was still developing it.
+    How do you expect to move forward with the program if the 
+baseline has not been establishing? It feels like we are 
+building a plane while flying the plane at the same time.
+    Dr. Evans. It is interesting you say that. That is actually 
+in the press release when we announced the reset is exactly 
+what I said, that we are building the plane while we are flying 
+it, and that is one of the reasons we have elected to say let 
+us focus on some of these significant program improvements that 
+are necessary to prepare us for the longer term success of the 
+program.
+    That is, let us stop flying the plane while also building 
+it. Let us build the plane as it needs to be, and a piece of 
+that is increased clarity around the system baseline to support 
+the delivery of an enterprise system, which is a big change for 
+VA, an important change and a big change.
+    That is partly what we are doing during the reset is doing 
+that important work.
+    Ms. Cherfilus-McCormick. Dr. Evans, in your testimony, you 
+mentioned that go live preparations are ongoing at the Lovell 
+Federal Health Care Center. My question is: Will the system 
+deployed at Lovell be more aligned with DoD's version of 
+Millennium or VA's?
+    Dr. Evans. Yes. The James A. Lovell Federal Health Care 
+Center, as you are aware, is a unique facility. It is a fully 
+integrated joint VA and DOD health care facility. The staff 
+there come from both the DOD and the VA, and they operate as a 
+single staff, caring for both veterans, servicemembers, and 
+beneficiaries of the DOD. Their needs are unique.
+    We--the deployment, the only path forward to a deployment 
+there is a synchronize deployment where we come together with 
+the DOD and the Federal Electronic Health Record Modernization 
+Office in support of the James A. Lovell Federal Health Care 
+System to deliver the capabilities that they need.
+    We will be looking at what the DOD's workflows are and what 
+the VA's workflows are and are reconciling that to allow us to 
+deliver a single experience to support care delivery at that 
+site.
+    I do not think I can predict exactly what percentage of 
+DOD-specific workflows will be chosen versus VA or what that 
+hybrid will look like, but what I can say is that we are fully 
+committed to that being an aligned path forward; again, 
+coordinated by the Federal Electronic Health Record 
+Modernization Office with DOD and VA driving the success there 
+at that facility.
+    Ms. Cherfilus-McCormick. If the system is not prepared to 
+be rolled out in any other VA facility, why are you planning to 
+deploy there?
+    Dr. Evans. By the time we get to the James A. Lovell 
+Federal Health Care Center, the system will have been deployed 
+across the entire Department of Defense health care system, 
+with the exception of the James A. Lovell Federal Health Care 
+System, again, a joint facility.
+    When we arrive there, the only DOD employees who will not 
+be using the system when we arrive there for the go live, the 
+only DOD employees will be those who are employees of the James 
+A. Lovell Federal Health Care System.
+    I think first we--it will be a system that is being used 
+across that entire enterprise.
+    Second, I anticipate we will benefit from this program 
+reset. The scheduled go live is not until 2024. We have 
+numerous months ahead of us that the improvements that we have 
+been talking about here as part of the reset will be able to be 
+delivered in anticipation of that go live. We will be adding 
+value to what has been a successful program in the DOD.
+    Ms. Cherfilus-McCormick. Ms. Harris, I have a quick 
+question. Do you have any recommendations for the VA before 
+undergoing this go live?
+    Ms. Harris. Yes, I think that taking very seriously the 
+recommendations that we have made is going to be critical. 
+Understanding the user's needs and what Dr. Evans has just laid 
+out I think is going to be very critical for VA. This 
+integration with DOD, ensuring that they are tightly committed, 
+which it sounds, according to Dr. Evans, is going well so far. 
+I think that that is going to be really important.
+    Again, ensuring that the users understand what it is that 
+they need to do in the new system and adequately training them 
+not just in the system itself but on the new workflows is 
+essential.
+    Ms. Cherfilus-McCormick. Thank you, Mr. Chairman. I yield 
+back.
+    Mr. Rosendale. Thank you, Representative Cherfilus-
+McCormick.
+    I am glad to recognize Representative Carey. Thank you for 
+joining us.
+    Mr. Carey. Thank you. Thank you, Mr. Chairman.
+    I sent a letter last November after two veterans who were 
+patients at the Columbus VA died. One of the veterans never 
+was--was never--received his antibiotic, and the other was not 
+contacted to reschedule after he had missed an appointment.
+    Dr. Evans and Dr. Silverman, the VA responded to our letter 
+in February and provided some information. It turns out that 
+the antibiotic was never actually mailed. The tracking number 
+in the system was misleading. The family never knew that they 
+were supposed to pick up the medication.
+    Can you explain how this happened and how is that being 
+corrected?
+    Dr. Evans. Dr. Silverman.
+    Mr. Carey. Either one of you.
+    Dr. Silverman. Thank you.
+    I am aware of the incident that you described. While I 
+cannot discuss the specifics of the patient case, the root of 
+the information was that a report in the system that identified 
+that tracking number was providing erroneous information. This 
+case identified that, and the report that provided that 
+misinformation has since been corrected.
+    Mr. Carey. It is not going to happen again?
+    Dr. Silverman. That will not happen again.
+    Mr. Carey. Let me ask you, in the other veteran case, one 
+of the VA staff was supposed to call and reschedule his 
+appointment. The system was supposed to remind them to do that. 
+Why was there no automated reminder? Absent of that, how do the 
+veterans fall through the cracks in situations like that?
+    Either one of you.
+    Dr. Silverman. Dr. Evans, if you do have information. I am 
+not familiar with that particular case.
+    Dr. Evans. I am not either. I can say that appointment 
+reminders are an important capability of the electronic health 
+record. They are really an ancillary capability. They are done 
+differently. Sort of the technical solution for appointment 
+reminders with the Oracle record has been different than how we 
+do appointment reminders in VistA; although, we are working to 
+align that back to a single, common approach to appointment 
+reminders.
+    I would have to take for the record to look into more of 
+the details of the specific case.
+    Mr. Carey. I missed a doctor's appointment, not one I 
+really wanted to do anyway, but I missed a doctor's 
+appointment, and I got like five reminders that I missed it, 
+not to mention the five reminders from my wife to tell me that 
+I missed an appointment. I mean, it was very simple. I got 
+emails. I got texts.
+    It just seemed very odd that there was no follow up on 
+that.
+    I appreciate it. Thank you, Mr. Chairman.
+    Mr. Rosendale. Thank you, Representative.
+    I am going to yield to Representative Cherfilus-McCormick 
+for some closing statements now.
+    Ms. Cherfilus-McCormick. Thank you, Mr. Chairman.
+    Thank you, everyone, for your testimony today. I thought we 
+had a productive discussion this afternoon. We spent a lot of 
+time talking about pharmacy issues today, but it is clear to me 
+that these issues are a symptom of something much bigger.
+    VA has a long history of failure when it comes to IT 
+modernization efforts, and most of those failures are because 
+VA lacks strong program management. VA--with VA's delay of 
+future go lives and EHR Reset Act, I am confident that we can 
+move the needle forward.
+    Thank you so much, Mr. Chairman. I yield back.
+    Mr. Rosendale. Thank you very much, Representative 
+Cherfilus-McCormick.
+    I want to thank all our witnesses for appearing today to 
+discuss pharmacy and the future of the electronic health record 
+modernization effort.
+    You are responsible for the well-being of millions of 
+veterans. As I said in the last hearing, this cannot be a 
+conversation just about IT systems. It has to be a conversation 
+about whether the VA health care is meeting our veterans' needs 
+and what policies and systems support them.
+    The only honest conclusion is the Oracle Cerner pharmacy 
+software is failing to do that, and that failure stretches far 
+beyond the pharmacy. The worst thing the VA could do is 
+continue down this dead-end road perpetuating the same failed 
+strategy and paying out billions of dollars. That would be 
+incredibly irresponsible.
+    The contract renegotiation deadline is coming up next week, 
+and I expect to see VA disentangle itself from this monopoly. 
+If there is a continued role for Oracle, it is in using its own 
+resources to improve its products to make the existing Oracle 
+Cerner sites whole.
+    Today's hearing gives us every indication that many of 
+those products simply are not capable of improving in the 
+timeframe that we need. The VA should cut their losses and move 
+on; otherwise, you are doing nothing more than continuing to 
+march down the same dead-end road and betraying the veterans 
+and the taxpayers that you are supposed to serve.
+    I want you to think about that very carefully.
+    Thank you all, again, for your participation in today's 
+hearing.
+    I ask unanimous consent that all members have 5 legislative 
+days to revise and extend their remarks and include extraneous 
+material.
+    Without objection, so ordered.
+    This hearing is adjourned.
+    [Whereupon, at 4:48 p.m., the subcommittee was adjourned.]
+
+      
+           
+      
+=======================================================================
+
+
+                         A  P  P  E  N  D  I  X
+
+=======================================================================
+
+
+                    Prepared Statement of Witnesses
+
+                              ----------                              
+
+
+                    Prepared Statement of Neil Evans
+
+    Good afternoon, Chairman Rosendale, Ranking Member Cherfilus-
+McCormick and distinguished Members of the Committee. Thank you for the 
+opportunity to testify today in support of VA's initiative to modernize 
+its electronic health record (EHR) system. I am accompanied by VA's 
+senior leaders critical to this initiative, Dr. Mark Upton, Deputy to 
+the Deputy Under Secretary for Health; Dr. Thomas Emmendorfer, 
+Executive Director of the Pharmacy Benefits Management Services; and 
+Dr. Robert Silverman, Veterans Health Administration (VHA) Pharmacy 
+Council Co-Chairman for the Electronic Health Record Modernization 
+(EHRM) Program.
+    I want to begin by thanking Congress and this Committee for your 
+continued support and your shared commitment to Veterans. Successful 
+deployment of a modern electronic health record (EHR) is essential to 
+the delivery of lifetime world-class health care and benefits for 
+Veterans. In the end, our goal is a unified, seamless, trusted 
+information flow between VA, the Department of Defense (DoD), the U.S. 
+Coast Guard and community providers that will empower Veterans and 
+their families, caregivers and survivors to achieve and sustain health 
+and wellness. Because Veterans are at the center of everything we do, 
+their health and well-being and ensuring they receive the care they 
+have earned is our highest priority.
+    We readily acknowledge there have been challenges with our efforts 
+to modernize VA's EHR system. On April 21, 2023, VA announced that, as 
+part of a larger program reset, future deployments of the new EHR will 
+be halted while we prioritize improvements at the five sites that 
+currently use the new EHR. The only exception to the full-stop on 
+deployment activities is the Captain James A. Lovell Federal Health 
+Care Center in Chicago, which is the only fully integrated VA and 
+Department of Defense health care system. During this reset, VA will 
+fix the issues with the EHR that were identified during the recent 
+``assess and address'' period, continue to listen to Veterans and 
+clinicians about their experience with the EHR, and redirect resources 
+to focus on optimizing the EHR at and on behalf of the sites where it 
+is currently in use: Mann-Grandstaff VA Medical Center (VAMC), Jonathan 
+M. Wainwright Memorial VAMC, Roseburg VA Health Care System, VA 
+Southern Oregon Healthcare System, and VA Central Ohio Health Care 
+System.
+    VA has an obligation to Veterans and taxpayers to get this right 
+and will take the time needed to do so. We understand the concerns of 
+this Committee regarding the EHR system and its impact on Veterans and 
+the care our health care personnel provide. We are committed to full 
+transparency, and we appreciate your oversight. We look forward to 
+further engagement with you and your staffs to ensure that this 
+modernization is successful. We commit to you that we are working 
+diligently to address identified issues and to implement enhancements 
+and improvements. In delivering world-class health care to Veterans, VA 
+strives to be a High Reliability Organization, and remains committed to 
+a goal of zero patient harm.
+
+EHR Readiness
+
+    Based on our recent assessments, including the ongoing ``assess and 
+address'' period and the Readiness Assessment, VA determined that the 
+new EHR is not yet ready for future deployments. Additional deployments 
+will not be scheduled until VA is confident that the new EHR is highly 
+functioning at current sites and ready to deliver for Veterans and VA 
+clinicians at future sites. This readiness will be demonstrated by 
+measurable improvements in the clinician and Veteran experience; 
+sustained high-performance and high reliability of the system; improved 
+productivity at the sites where the EHR is in use; and more. When these 
+criteria have been met and the reset period concludes, VA will update 
+and release a new deployment schedule and resume deployment activities.
+    As mentioned earlier, the only exception to the full-stop on 
+deployment activities is at the Captain James A. Lovell Federal Health 
+Care Center in North Chicago, where the new EHR is scheduled to go-live 
+in March 2024. This is a jointly run VA and DoD facility; the EHRM 
+program reset will allow VA to dedicate additional resources to this 
+joint deployment effort, to ensure that after the go-live, all patients 
+who visit this facility will be covered by one common Federal EHR.
+    VA has always said the EHR will not go live at any site with 
+unresolved or insufficiently mitigated safety-critical findings. We 
+also remain firm in our resolve to continue deployments of the 
+modernized EHR when it is ready. It is important to take the time now 
+to get things right--to provide a strong foundation for an executable 
+deployment schedule as the project proceeds. The continuous focus will 
+be on assessing and remediating any identified issues at live sites and 
+designing for safety and efficiency at future deployment sites.
+
+System Stability and Reliability
+
+    Corrective actions within the system data base configuration and 
+the architecture and management of overall set of technologies within 
+the Federal EHR have led to an overall improvement when it comes to 
+complete outages. Entering the month of April 2023, there had not been 
+an outage for 8 months. Unfortunately, there were two outages totaling 
+294 minutes in April 2023, resulting in EHR system downtime.
+    Improving system reliability and availability remains a critical VA 
+focus. Cerner is contractually obligated to meet 99.9 percent uptime 
+commitment per measurement period (monthly) for the EHR production 
+system, meaning that the system is functional and available for use. In 
+addition, our immediate target is to achieve at least 95 percent system 
+incident free time, which we define as the percentage of time in which 
+all solutions are functioning as intended for all users. As of April 
+2023, Cerner has achieved 95 percent or higher system incident free 
+time on 2 months out of the previous 12 months.
+    Because not all system interruptions are the result of Cerner 
+activity--issues with other systems that connect to the EHR can impact 
+it--VA continues to work with our partners at DoD and the Federal 
+Electronic Health Record Modernization office to reduce downtime with 
+the EHR enclave and connected systems.
+    VA established a Performance Excellence workgroup in March 2022 to 
+review technical performance issues with Cerner and resolve problems 
+with system stability, reliability and performance. The goal of this 
+workgroup is to remediate identified reliability and performance issues 
+before deployment of the EHR system to additional sites and minimize 
+any disruption to access of care.
+
+Pharmacy and Medication Management
+
+    On February 17, 2023, three priority pharmacy enhancements were 
+installed as part of the Block 8 upgrade to the EHR system. These 
+enhancements provide incremental improvements to system usability, 
+improving providers' visibility of available prescriptions, optimizing 
+system options for maintenance medications and expanding details on 
+prescription expiration dates--all of which are necessary to support 
+our health care personnel in delivering Veteran care. Demonstrating the 
+lessons we have learned from the past, these enhancements underwent 
+rigorous testing prior to installation.
+    The Pharmacy Benefits Management (PBM) program office, in 
+cooperation with the EHRM National Pharmacy Council, continues to work 
+toward additional system upgrades to further improve provider 
+visibility into prescription details. For example, the April 2023 
+``cube release'' included additional pharmacy capabilities and 
+features, reducing the number of clicks and complexity to users sending 
+prescriptions electronically to an outside (non-VA) pharmacy and 
+allowing clinicians to see the actual prescription status of the mail-
+order pharmacy in the EHR system. This is expected to be followed by 
+the August 2023 Block 9 update, with three more improvements for 
+pharmacy workflow and prescription refill processing. The Pharmacy 
+Council supports our sites already using the new EHR via regular office 
+hours calls and on-station visits and provides recommendations within 
+VHA through the Assistant Under Secretary for Health for Patient Care 
+Services (AUSH-PCS).
+    Despite this progress, ongoing support and planned future updates, 
+feedback from our pharmacy community on the recently deployed 
+enhancements to the pharmacy solution is that the improvements have 
+been small and incremental. Although these updates are gradually 
+improving the clinician experience, pharmacy staff need an accelerated 
+delivery of upgrades to the new EHR system to eliminate the burden of 
+the labor-intensive human mitigation strategies currently in place. As 
+the current pace of new requests for upgrades and enhancements exceeds 
+the planned delivery schedule of changes that address those requests, 
+the EHRM reset period will allow VA to focus on execution of system 
+updates and systematically resolve key issues before resuming future 
+deployments.
+
+Additional Program Improvements
+
+    VA has also made progress in completing implementation of many of 
+the VA Office of Inspector General's (OIG) recommendations for the EHRM 
+program. As of the date of this testimony, 45 of OIG's 68 
+recommendations are closed, including the final recommendation from the 
+Unknown Queue report that was closed in January 2023. Thirteen (13) 
+additional recommendations are targeted for closure by the end of May 
+2023. Twenty-three (23) recommendations remain open, including two from 
+the oldest report focused on access to care at Mann-Grandstaff VAMC. 
+These two recommendations relate to evaluating the EHR system's impact 
+on productivity and the impact of mitigation strategies on the user and 
+patient experience and are targeted for closure by June 2023. VA 
+continues to drive each to closure. We have established VHA EHRM 
+governance bodies and processes to ensure enterprise standardization 
+and health system decisionmaking. As part of this work, EHRM-IO 
+transitioned the EHRM National Councils to VHA to be incorporated into 
+VHA's governance process.
+
+Continued Engagement at Live Sites
+
+    VA continues active engagement with sites already using the new EHR 
+system, and supporting those sites will be our primary focus as we 
+reset the EHRM program. We are grateful for their hard work and 
+dedication to patient care. In fact, these sites have provided vital 
+feedback on challenges with the new EHR that have resulted in necessary 
+improvements.
+    For staff at the five sites where the EHR is currently in use, this 
+reset means that we are devoting our resources to improving the EHR 
+experience from the ground up. When EHR systems are at their best, they 
+are intuitive, responsive and reliable. Clinicians should not be 
+waiting for an EHR; it should always be ready for them. All too often, 
+the new EHR has not provided that type of seamless experience for VA 
+staff. We will ensure that the new EHR is delivering for VA clinicians 
+and empowering them to deliver world-class care to Veterans. VA 
+continues to actively work on issues impacting system reliability and 
+usability to include addressing system performance, testing, training 
+and functional optimization.
+    As we continue to support existing sites, VA has developed and 
+sustained a training regimen to ensure new hires are properly trained 
+and existing users are getting opportunities to optimize their 
+performance in the EHR system. We routinely communicate system changes, 
+planned maintenance events, upgrades and outages. We also leverage our 
+weekly User Impact Series, which is attended by over 200 super users, 
+site and VA leaders, and subject matter experts. The lessons learned 
+from these sites have enabled VA to improve the level of support 
+provided before, during and after go-live.
+
+Contract Update
+
+    VA's initial sole source contract award was awarded to Cerner on 
+May 17, 2018. The EHRM Indefinite Delivery/Indefinite Quantity (IDIQ) 
+contract was structured with an initial period of performance of 5 
+years, after which another 5-year option period is available to 
+exercise at the Government's discretion. The current period of 
+performance for VA's contract ends May 16, 2023. Our Office of 
+Acquisition, Logistics, and Construction, together with other 
+stakeholders in VA, has conducted acquisition planning and preparation 
+to support option period negotiations with Cerner. Those negotiations 
+began on March 13, 2023, and are ongoing. VA and Cerner are currently 
+working toward an amended contract that will increase Cerner's 
+accountability to deliver a high-functioning, high-reliability, world-
+class EHR system.
+
+Budget Overview and Cost Estimate
+
+    The VA EHRM program will not be seeking the 25 percent funding 
+withhold (totaling $439,750,000) of the VA EHRM budget line for FY 
+2023. As part of the reset, VA remains committed to working with 
+Congress on resource requirements for the agency's EHR Modernization 
+efforts. When the reset period concludes, VA will update its EHR 
+deployment schedule and program life cycle cost estimate and will 
+provide an updated version to Congress once completed.
+
+Conclusion
+
+    Our focus is keeping Veterans at the center of everything we do, 
+and our top priority remains and continues to be advancing a culture of 
+safety and high reliability, with the goal of zero incidents of patient 
+harm. Veterans deserve high-quality health care that is timely, safe, 
+Veteran-centric, equitable, evidence-based and efficient.
+    As improvements continue to be made throughout the duration of this 
+reset, VA will continually evaluate readiness and the EHR system to 
+ensure success. This includes close collaboration with EHRM-IO, VHA, 
+site and VISN leadership and other key stakeholders.
+    I again extend my gratitude to Congress for your commitment to 
+serving Veterans with excellence. With your continued oversight and 
+support, VA will realize the full promise of a modern, integrated 
+health record to cultivate the health and well-being of Veterans. We 
+are happy to respond to any questions that you may have.
+                                 ______
+                                 
+
+                   Prepared Statement of Mike Sicilia
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+                   Prepared Statement of Carol Harris
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+
+                                 [all]
+

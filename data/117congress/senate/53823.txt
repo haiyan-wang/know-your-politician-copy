@@ -1,0 +1,2936 @@
+
+ - THE CONSUMER FINANCIAL PROTECTION BUREAU'S SEMIANNUAL REPORT TO CONGRESS
+
+[Senate Hearing 117-761]
+[From the U.S. Government Publishing Office]
+
+
+                                                        S. Hrg. 117-761
+
+
+    THE CONSUMER FINANCIAL PROTECTION BUREAU'S SEMIANNUAL REPORT TO 
+                                CONGRESS
+
+=======================================================================
+
+                                HEARING
+
+                               BEFORE THE
+
+                              COMMITTEE ON
+                   BANKING,HOUSING,AND URBAN AFFAIRS
+                          UNITED STATES SENATE
+
+                    ONE HUNDRED SEVENTEENTH CONGRESS
+
+                             SECOND SESSION
+
+                                   ON
+
+    THE CONSUMER FINANCIAL PROTECTION BUREAU'S SEMIANNUAL REPORT TO 
+                                CONGRESS
+                               __________
+
+                           DECEMBER 15, 2022
+                               __________
+
+  Printed for the use of the Committee on Banking, Housing, and Urban 
+                                Affairs
+
+
+                  [GRAPHIC NOT AVAILABLE IN TIFF FORMAT]
+                  
+
+                Available at: https: //www.govinfo.gov /
+
+                               __________
+
+                    U.S. GOVERNMENT PUBLISHING OFFICE
+                    
+53-823 PDF                WASHINGTON : 2023   
+
+
+            COMMITTEE ON BANKING, HOUSING, AND URBAN AFFAIRS
+
+                     SHERROD BROWN, Ohio, Chairman
+
+JACK REED, Rhode Island              PATRICK J. TOOMEY, Pennsylvania
+ROBERT MENENDEZ, New Jersey          RICHARD C. SHELBY, Alabama
+JON TESTER, Montana                  MIKE CRAPO, Idaho
+MARK R. WARNER, Virginia             TIM SCOTT, South Carolina
+ELIZABETH WARREN, Massachusetts      MIKE ROUNDS, South Dakota
+CHRIS VAN HOLLEN, Maryland           THOM TILLIS, North Carolina
+CATHERINE CORTEZ MASTO, Nevada       JOHN KENNEDY, Louisiana
+TINA SMITH, Minnesota                BILL HAGERTY, Tennessee
+KYRSTEN SINEMA, Arizona              CYNTHIA LUMMIS, Wyoming
+JON OSSOFF, Georgia                  JERRY MORAN, Kansas
+RAPHAEL WARNOCK, Georgia             KEVIN CRAMER, North Dakota
+                                     STEVE DAINES, Montana
+
+                     Laura Swanson, Staff Director
+
+                 Brad Grantz, Republican Staff Director
+
+                       Elisha Tuku, Chief Counsel
+
+                 Dan Sullivan, Republican Chief Counsel
+
+                      Cameron Ricker, Chief Clerk
+
+                      Shelvin Simmons, IT Director
+
+                        Pat Lally, Hearing Clerk
+
+                                  (ii)
+
+
+                            C O N T E N T S
+
+                              ----------                              
+
+                      THURSDAY, DECEMBER 15, 2022
+
+                                                                   Page
+
+Opening statement of Chairman Brown..............................     1
+        Prepared statement.......................................    30
+
+Opening statements, comments, or prepared statements of:
+    Senator Toomey...............................................     5
+        Prepared statement.......................................    31
+
+                                WITNESS
+
+Rohit Chopra, Director, Consumer Financial Protection Bureau.....     8
+    Prepared statement...........................................    33
+    Responses to written questions of:
+        Senator Sinema...........................................    36
+        Senator Warnock..........................................    37
+        Senator Scott............................................    39
+        Senator Moran............................................    39
+        Senator Daines...........................................    45
+
+              Additional Material Supplied for the Record
+
+Semi-Annual Report of the Consumer Financial Protection Bureau--
+  Spring 2022....................................................    48
+
+                                 (iii)
+
+ 
+                   THE CONSUMER FINANCIAL PROTECTION
+                 BUREAU'S SEMIANNUAL REPORT TO CONGRESS
+
+                              ----------                              
+
+
+                      THURSDAY, DECEMBER 15, 2022
+
+                                        U.S. Senate
+           Committee on Banking, Housing, and Urban Affairs
+                                                    Washington, DC.
+    The Committee met at 10 a.m., in room 538, Dirksen Senate 
+Office Building, Hon. Sherrod Brown, Chairman of the Committee, 
+presiding.
+
+          OPENING STATEMENT OF CHAIRMAN SHERROD BROWN
+
+    Chairman Brown. The Committee on Banking, Housing, and 
+Urban Affairs will come to order. Our witness is in person. 
+Welcome, Mr. Chopra. The Committee is in hybrid format. Some 
+Members might do this remotely.
+    Let me start by talking about two of our colleagues who are 
+retiring at the end of this Congress.
+    Senator Toomey sat by my side, I by his side, for 87 of the 
+89 hearings the Committee held this Congress. We each missed 
+one. I was sick one day, and he had a family issue. I mention 
+that because it shows how seriously he takes this job, both as 
+Senator and as Ranking Member, and I will always, always 
+remember that and be grateful. I am sure there were many 
+hearings he did not want to sit through, but he did, and I give 
+him credit for that.
+    I have enjoyed getting to know him as we sat together and 
+got to know each other better for literally hundreds of hours 
+over the last 2 years. We moved dozens of nominees through the 
+Committee, we worked together on crucial national security 
+issues like China, most recently we have worked together on 
+FTX, and off the Committee worked on important maternal health 
+issues.
+    While we have our disagreements, there may be no other 
+Republican as passionate as Senator Toomey, and it is backed by 
+his strong world view and intellect, especially on financial 
+matters. He was a critical voice in our Committee's response to 
+the COVID crisis and the Congressional oversight afterwards. 
+The quality of debate and discourse in this Committee was 
+improved because Pat and his incisive intellect--I use that 
+word again--were engaged.
+    I also want to commend Pat's staff--Brad Grantz, Dan 
+Sullivan, John Crews. I thank them and the rest of the team for 
+their hard work and diligence.
+    I wish Pat, Kris, and their three children the best in the 
+next phase of Pat's career.
+    I have not known a Banking and Housing Committee without 
+Senator Shelby. I came to the Committee in 2007, in the middle 
+of the financial crisis, and Senator Shelby points out that on 
+his first day on the Committee, Senator Proxmire, of Wisconsin, 
+who was the predecessor to Senator Cole, was chairing this 
+Committee.
+    He has helped shape the agenda of the Committee for 35 
+years--during Enron, during Sarbanes-Oxley, the Great Recession 
+of 2008, Dodd-Frank, the COVID pandemic, and so many other 
+critical moments in the history of this Committee. He served in 
+leadership roles as either Chair or Ranking Member for more 
+than a decade, working as Chair with Senators Sarbanes, Dodd, 
+Johnson, and then finally me in the last 2 years as the leader 
+of this Committee. No one on the Republican side was a greater 
+proponent of strong capital at banks, something I always 
+admired about Senator Shelby's philosophy and work.
+    I wish you and Annette well in your retirement. Thank you.
+    Welcome back Director Chopra.
+    The Banking, Housing, and Urban Affairs Committee used to 
+be referred to simply as the Senate Banking Committee because 
+it was mostly all about Wall Street. When Democrats took 
+control, 19, 20 months ago, we changed that.
+    So it is fitting that this Committee's last hearing for the 
+117th Congress is the CFPB's Semi-Annual Report, because 
+fighting for consumers is one of the most important things we 
+can do on this Committee.
+    Since the CFPB first opened its doors 12 years ago, the 
+consumer agency has returned about $15 billion--with a B--$15 
+thousand million to consumers, including principal reductions, 
+canceled debts, and other relief. That is $14.9 billion. Over 
+183 million consumers have been eligible for that relief. The 
+CFPB has a track record of helping real people get real 
+compensation for real harm from financial institutions that 
+have wronged them.
+    In 2012, just over a year after becoming fully operational, 
+the CFPB ordered American Express subsidiaries to refund $85 
+million to an estimated 250,000 consumers for illegal credit 
+card practices, including charging unlawful late fees.
+    In 2014, the CFPB reached a settlement requiring Sallie Mae 
+to pay $60 million to an estimated 60,000 servicemembers 
+serving our country, for overcharging them on student loans.
+    In 2016, the CFPB fined Wells Fargo $100 million for 
+opening unauthorized accounts and ordered Wells to refund an 
+estimated $2.5 million in fees accrued.
+    This year, the CFPB fined Bank of America $10 million for 
+unlawfully garnishing consumer accounts.
+    When financial institutions illegally took consumers' hard-
+earned money through unlawful late fees, through too-high 
+interest rates, through unauthorized fees, and through improper 
+garnishment, the CFPB cracked down and ensured that consumers 
+keep their hard-earned money.
+    No other agency fights for consumers like the CFPB. It is 
+no wonder Wall Street hates the agency. Since the passage of 
+Dodd-Frank, Wall Street and its allies have aimed their fire at 
+the CFPB, trying over and over again to undermine and gut the 
+agency responsible for fighting for Main Street and consumers.
+    Republicans have proposed bill after bill to weaken the 
+CFPB, to take away the effective single director structure, to 
+put the agency's funding in the limbo of congressional 
+appropriations, or to simply undo the CFPB.
+    But Congress created it and specifically designed its 
+funding structure to make the agency an effective consumer 
+watchdog.
+    According to this Committee's report on Dodd-Frank, ``the 
+assurance of adequate funding, independent''--independent, my 
+emphasis--``of the Congressional appropriations process, is 
+absolutely essential to the independent''--again, that word 
+independent--``operations of any financial regulator,'' which 
+is why other financial regulators like the Federal Reserve, 
+OCC, FDIC, and NCUA are independently funded and not subject to 
+congressional appropriations.
+    And when Wall Street and Republicans in Congress, always 
+allies on these kinds of things, tried to put the CFPB out of 
+business, the public loudly and clearly said ``no.'' So even in 
+a unified, all-Republican President, House, Senate, they could 
+not put it out of business. It has remained intact because it 
+does its job--helping consumers.
+    Consumers know Wall Street does not have their best 
+interest at heart.
+    Consumers know that Wall Street needs a strong regulator to 
+keep it in check.
+    Consumers remember the damage that Wall Street wrought on 
+the economy, on their neighborhoods, and on their wallets. I 
+live in Cleveland, Ohio. My ZIP code had the highest number of 
+foreclosures in 2007 of any ZIP code in America. I know where 
+that damage comes from.
+    And consumers know that CFPB follows the facts. They go 
+after bad actors, from banks overcharging customers to 
+predatory payday lenders trapping consumers in debt. The CFPB 
+stands up to Wall Street. Director Rohit Chopra and the CFPB 
+use all of their powers to fight discrimination, and they 
+continue to go after financial institutions for their treatment 
+of Black and Brown consumers.
+    In 2021, the CFPB required a bank to pay $5 million to 
+address redlining that harmed Black consumers. This year the 
+agency announced that it will reexamine whether discrimination 
+violates the Dodd-Frank prohibition against unfair, deceptive, 
+and abusive acts and practices.
+    And in July, in response to a local lender's failure to 
+serve Philadelphia's majority-minority neighborhoods, the CFPB, 
+along with the DOJ's Combatting Redlining Initiative, brought 
+$18 million in funds to support home ownership in those 
+neighborhoods.
+    In total, the CFPB has gotten $637 million from 
+discriminatory financial institutions, tens of millions of 
+which have gone directly to minority consumers who experienced 
+that discrimination.
+    There is a reason why the civil rights community was 
+instrumental in the creation of Director Chopra's agency. They 
+knew that they needed an agency that was empowered and unafraid 
+to fight against discrimination. It is creating a fair, 
+transparent, and competitive economy.
+    Major and consequential CFPB rules like the Ability to 
+Repay rule not only provide protections for consumers buying 
+homes, but also create rules for financial institutions and the 
+broader economy.
+    That is why we created the CFPB, to ensure that the 
+financial marketplace is fair for everyone, and that 
+corporations cannot rig the system and get away with it. That 
+is the essence of capitalism.
+    Ranking Member Toomey.
+    Senator Toomey. Thank you, Mr. Chairman.
+    Mr. Chairman, if it is OK with you I would like to say a 
+few words about my time serving here with you. I would like to 
+say a couple of words about my time with former Chairman 
+Shelby, and then, if I could, yield to him for brief comments 
+before I go into the opening comments on the subject at hand.
+    Chairman Brown. Of course.
+    Senator Toomey. Thank you very much.
+    First of all, thank you, Mr. Chairman, for the kind words 
+that you said. The fact is, Chairman Brown and I actually have 
+more in common than many people might think. We both represent 
+big, complicated States. We both love baseball and politics, 
+probably in that order. We actually get along quite well, 
+despite the fact that we have diametrically opposed views of 
+the world, and his are mistaken but they are sincerely held.
+    And I have to say I do really appreciate the really good, 
+constructive working relationship that we have had. Sherrod 
+Brown is honest, he is a straight shooter, and we have our 
+disagreements. I think they have been cordial, and when it has 
+been possible to find agreement we have tried to do that, and I 
+think we have had some success.
+    I also want to personally thank your staff, the majority 
+staff on the Committee. These are very, very capable, smart, 
+hardworking and collegial folks, and I am grateful to them for 
+their hard work, as, of course, I am for my own staff. I think 
+we have had a terrific team, and in these 2 years they have 
+done tremendous work, and I will always be extremely grateful 
+to them.
+    And so my last wish is I wish you well, and 2 years from 
+now I wish you well as the Ranking Member of the Committee.
+    Chairman Brown. Which would suggest you are supporting my 
+reelection in 2024.
+    [Laughter.]
+    Senator Toomey. Well, that is an interesting inference.
+    Let me say a couple of things about Senator Shelby. He and 
+I also have some things in common, believe it or not, one of 
+which is we both had the good sense to marry women who are 
+smarter than we are. And that was the best decision I ever 
+made. I think Richard probably feels the same way.
+    But I am very grateful to him for the very, very long and 
+very distinguished career that he has had. I understand that he 
+has served on the Senate Banking Committee longer than any 
+other human being in the history of the Committee. He has 
+served as its Chairman. He has served as the Ranking Member. 
+His accomplishments are too numerous to enumerate, but for me 
+he has been a role model and an example of how to be a really 
+effective Senator and a great representative for his State.
+    Last, about Senator Shelby, I will always remember him as 
+simply too big to fail. Senator Shelby.
+    Senator Shelby. Thank you. Thank you. Chairman Brown, thank 
+you first for your kind remarks, and also I want to thank 
+Senator Toomey.
+    Thirty-six years ago--it is hard to believe--36 years ago I 
+came on this Committee. I think I was sitting way down there, 
+maybe on the other side of the TV, somewhere. I wanted to be 
+recognized one time--Senator Proxmire was the Chairman--and I 
+had to ask two or three times before he even looked my way. So 
+we go through this.
+    This is a great Committee. It covers everything. It is 
+essential. It is essential to our economy, everything that we 
+do here. It is also essential in the SEC, what the SEC, what 
+the Chairman coming before us today does, everything. But it is 
+essential to free markets because it is the banking system that 
+we have.
+    But 36 years is a long time. It seems like yesterday. I 
+have had the great privilege to, as the Senator said, to be 
+Ranking three different Congresses and Chairman three different 
+Congresses. It is an awesome responsibility. I have served some 
+good people on both sides of the aisle.
+    I remember the late John Heinz. He would have been Chairman 
+of this Committee but he had a big accident and lost his life. 
+Senator Proxmire was when I first came on, as the Chairman 
+mentioned. By gosh, he was a good Chairman, good, tough, fair.
+    Then Senator Riegle, then Senator D'Amato, and Senator 
+Gramm, Phil Gramm, and so forth. Senator Brown, Senator 
+Sarbanes. Senator Sarbanes, we worked together like you two. We 
+had our differences. We were good friends. We traveled 
+together. We ate together. We did some good things together, we 
+thought, for the American people. But I remember sitting here 
+with so many smart, good people, both sides of the aisle, both 
+sides.
+    But I want to say we have had, since I have been on the 
+Committee, smart staffers, good staffers. They flock to be on 
+this Committee from everywhere, on both sides, you know, our 
+staffs working together. And I want to thank all of them for 
+what they have done over the years. A lot of them have gone on, 
+as you know, to bigger and greater things.
+    But I will always miss this Committee I have served on. I 
+have chaired four Committees. This is a very interesting 
+Committee. That is why Senator Brown is Chairman and Senator 
+Toomey would have been Chairman.
+    So thank you for your kind remarks. I will miss you, but 
+carry on. Thank you very much.
+    Chairman Brown. Thank you. Senator Toomey.
+
+             STATEMENT OF SENATOR PATRICK J. TOOMEY
+
+    Senator Toomey. Thank you very much, Senator Shelby.
+    Today's hearing, of course, is about the CFPB. It would be 
+understandable if Director Chopra is pleased that it is the 
+last time he will be here dealing with me on this Committee. So 
+let me express my concerns.
+    The last time Director Chopra testified I did raise 
+concerns about the CFPB's overreach in pursuit of a politicized 
+agenda, and unfortunately, this behavior is nothing new for the 
+CFPB, and under Director Chopra, my concern is it is more out 
+of control than it has ever been. So I am disappointed, but not 
+surprised, to note, yet again, that the CFPB has continued this 
+pattern of overreach.
+    In our constitutional system of checks and balances, only 
+Congress has the power to appropriate money. James Madison 
+called this, and I quote, ``the most complete and effectual 
+weapon with which any constitution can arm the immediate 
+representatives of the people,'' end quote.
+    But the Dodd-Frank Act exempted the CFPB from 
+appropriations. It empowers the CFPB to simply take funds from 
+the Fed, which is itself also not subject to appropriations, 
+thereby doubly insulating the CFPB from any congressional 
+control.
+    I acknowledge there are other financial regulators not on 
+appropriations, and we can disagree about whether they should 
+be. But it is indisputable that Congress has precisely zero 
+leverage over the CFPB. It is very hard for me to imagine that 
+our Founders intended an agency to have the power of the 
+legislative branch, and precisely zero accountability to the 
+legislative branch. And in any case, clearly the CFPB is 
+overreaching and does not seem to care about Congress' view.
+    This is why the Fifth Circuit recently found the CFPB's 
+funding structure is, in fact, unconstitutional. The court 
+noted, and I quote, ``The Bureau's perpetual insulation from 
+Congress' appropriations power . . . renders the Bureau `no 
+longer dependent and, as a result, no longer accountable' to 
+Congress and, ultimately, to the people,'' end quote.
+    Well, what can we expect from an agency designed to be 
+unaccountable to Congress, if not overreach? For example, under 
+Director Chopra, the CFPB unilaterally decided that the Dodd-
+Frank's grant of authority to prevent unfair, deceptive, or 
+abusive acts or practices, known as UDAAP, now includes 
+controversial disparate impact liability. It announced this 
+change by fiat, without rulemaking. It ignored not only the 
+text of Dodd-Frank but also the fact that Congress never 
+contemplated that UDAAP would encompass disparate impact. 
+Congress took the UDAAP language from the FTC Act. For nearly a 
+century, the FTC never interpreted that language to include 
+discrimination or disparate impact. Finally, the CFPB willfully 
+ignored the fact that Congress overturned the CFPB's disparate 
+impact guidance for auto lending in 2018.
+    So it is extremely implausible to think that an agency that 
+was dependent on Congress for appropriations would engage in 
+activity so clearly contrary to Congress' intent.
+    In addition, the CFPB has publicly targeted businesses for 
+taking lawful actions, like its smear campaign against bank 
+fees for overdraft services. By the way, this campaign does 
+nothing for consumers. It will just cause banks to shift fees 
+to less transparent means of recouping the costs of providing 
+overdraft services.
+    This week, the CFPB doubled down on its use of name-and-
+shame tactics with a new proposed rule. It would create a 
+public database of enforcement orders, judgments, and 
+settlements, against nonbank financial institutions, obtained 
+by Federal and State regulators and attorneys general, 
+including under State consumer laws that are not applicable 
+nationwide. Now maintaining such a list may well make sense, 
+but making it public is different, and would create the false 
+impression that the orders of the most activist States are the 
+nationwide standard.
+    What is more, the proposal would require a senior official 
+of certain nonbanks to attest to the CFPB that they are 
+complying with these orders. That would effectively give the 
+CFPB enforcement power over other agencies' orders for 
+violations of State and Federal laws. The CFPB has no 
+jurisdiction to enforce. And there is no limiting principle to 
+stop the CFPB from extending this rule from nonbanks to all 
+financial institutions.
+    These examples are just some of the symptoms of an agency 
+that is out of control and knows Congress cannot do a thing 
+about it. That is why I am introducing legislation, along with 
+Senator Hagerty, to place the CFPB on appropriations. The best 
+way to make the CFPB accountable to Congress is through 
+appropriations.
+    Through its rulemaking, the CFPB can exercise legislative 
+power, and it does. What is ambiguous about the first line in 
+the first paragraph of the first article of the Constitution? 
+It says, and I quote, ``All Legislative powers herein granted 
+shall be vested in a Congress of the United States,'' end 
+quote. At the very least, Congress should carry out the 
+responsibility that the Constitution assigns to us, and 
+exercise control over agencies like the CFPB that exercise 
+legislative power.
+    But that is not all our legislation will do. It will also 
+replace the agency's single director with a five-member, 
+bipartisan commission, like the SEC and the FDIC. This 
+structure will ensure that the CFPB considers a diversity of 
+voices when it forms policy. And it is not a new idea. 
+Bipartisan legislation to convert the CFPB into a commission 
+has been repeatedly introduced. These accountability measures 
+will help make the agency more responsible, more balanced, and 
+more measured, and Congress will have to accept the 
+responsibility for what the CFPB does, as it should.
+    What is more, if Congress does not put the CFPB on 
+appropriations, the Supreme Court may very well do it for us. 
+The Court is expected to consider, and I think might very well 
+uphold the Fifth Circuit's decision that the CFPB's funding 
+structure is, in fact, unconstitutional. If it does, I have no 
+doubt Congress will act swiftly to provide the CFPB with 
+appropriate funding. After all, Congress has plenty of 
+experience at appropriations.
+    But, by acting now, through legislation, Congress can 
+ensure the smoothest possible transition. This is in the best 
+interest not only of the CFPB and Congress, but also consumers 
+and the economy. That is why I call on my colleagues, Democrats 
+and Republicans, to join me in supporting this sensible reform. 
+Thank you, Mr. Chairman.
+    Chairman Brown. Thank you, Ranking Member Toomey. I will 
+introduce today's witness.
+    The Honorable Rohit Chopra is Director of the Consumer 
+Financial Protection Bureau. Director Chopra previously served 
+at the Federal Trade Commission commissioner after the passage 
+of Dodd-Frank. He joined the CFPB as Assistant Director and 
+then was appointed as the CFPB student loan ombudsman. He 
+subsequently served as a special advisor in the Department of 
+Education.
+    Director Chopra, welcome, and please proceed. Thank you.
+
+    STATEMENT OF ROHIT CHOPRA, DIRECTOR, CONSUMER FINANCIAL 
+                       PROTECTION BUREAU
+
+    Mr. Chopra. Thank you so much, Chairman Brown, Ranking 
+Member Toomey, and Members of the Committee.
+    Our economy and our consumer finance markets are truly in 
+transition, out of a pandemic and further into a digital era. 
+Given the economic uncertainties in today's markets, the CFPB 
+is focused on monitoring these markets carefully, to prevent 
+the type of widespread harms that we saw in the financial 
+crisis more than a decade ago.
+    Over the last year we have recovered hundreds of millions 
+of dollars in victim redress and penalties, and in our 
+enforcement program we have sharpened our focus on repeat 
+offenders, to protect both consumers and law-abiding 
+businesses. Congress has directed the CFPB to implement several 
+rules, and we have prioritized getting these done.
+    While we continue to address the challenges consumers face 
+today, the CFPB is also preparing for the future. When 
+companies can take on incumbents and when consumers can easily 
+switch providers in a decentralized market structure, we are 
+all better off.
+    In October, the CFPB kicked off a rulemaking process under 
+Section 1033 of the Consumer Financial Protection Act. The 
+proposals under consideration would require that financial 
+firms provide consumers access to their own financial data. 
+Consumers would then be able to provide permissions to this 
+data safely and securely to other financial firms.
+    The CFPB is also focused on refinance markets, including an 
+auto, credit card, and mortgage, and have been making it a 
+priority to identify ways to lower barriers to entry to small 
+banks and small firms and to foster innovation that addresses 
+important market gaps.
+    We are taking a hard look at how big tech and other 
+technology conglomerates are entering payments in consumer 
+finance, and the threats they pose to relationship banking and 
+free choice.
+    Over the past year we have had discussions with members 
+from both chambers and on both sides of the aisle on reforms 
+that can be advanced on a bipartisan basis. First, I would 
+really urge Congress to take action to protect our payment 
+system. Facebook's Libra proposal, in 2019, was a wakeup call 
+to regulators around the world when it came to virtual 
+currencies. There is now growing concern about how a small 
+group of payment platforms, including Google, Apple, PayPal, 
+Venmo, and others, are gaining a greater foothold in the 
+payment system. Large tech firms are now the conduit for 
+trillions of dollars in transactions, and the CFPB is 
+conducting an ongoing study into how these companies are 
+playing a role in the payment system.
+    The rise in dominance of a small group of these firms 
+raises questions about how they can suppress, suspend, or even 
+discriminate against some users over others. The CFPB has heard 
+considerable concern about payment apps kicking off users or 
+even fining users for their speech, and we have also heard 
+concerns from dominant firms abusing their positions to hike 
+fees on small banks, merchants, and consumers. Our Nation's 
+payment system serves as core economic plumbing that should be 
+nondiscriminatory and neutral.
+    Second, Congress needs to do more to strengthen financial 
+privacy protections. More than 20 years ago, Senator Shelby and 
+others on this Committee began raising concerns about the 
+creation of behavioral profiles, using our credit and debit 
+card data. Today, with the rise of tech platforms and e-
+commerce that monetize user behavior with lots of data, these 
+concerns are even more acute. I worry that the notice-based 
+privacy regime of the Gramm-Leach-Bliley Act is ineffective in 
+the modern world. Privacy policies for financial services are 
+often all or nothing, and consumers must choose to accept the 
+company's terms wholesale or decline to use the product 
+altogether.
+    So while Congress is looking at privacy protections across 
+all sectors of economy, I hope you will also consider looking 
+at the Gramm-Leach-Bliley Act to provide limitations on the 
+collection, use, and sharing of personal financial data. There 
+are a number of other opportunities for bipartisan efforts, and 
+the CFPB is eager to work with this
+    Committee on these and many other issues.
+    Thank you again for the opportunity to appear before you. I 
+look forward to your questions.
+    Chairman Brown. Director, thank you, and good to see you 
+again.
+    Protecting Americans from harmful medical debt, as you 
+point out and as your predecessors also pointed out, is a 
+priority for this Committee and for the CFPB. Earlier this 
+year, Experian, Equifax and TransUnion announced they would no 
+longer include some forms of medical debt on consumer credit 
+reports. But according to a recent report that your office 
+released, it sounds like the changes announced by industry will 
+not make as meaningful a difference as we had expected going 
+in. Your report said, quote, ``In terms of dollar amount, a 
+large majority of reported medical collections likely will 
+still remain.''
+    My question is your report clearly indicates that changes 
+on how medical debt is reported are not enough. How do we make 
+sure that medical debt on credit reports is not crippling far 
+too many Ohio, Pennsylvania, and American families?
+    Mr. Chopra. Well, medical debt is one of the top items now 
+in terms of collections on consumer credit reports and is a 
+major challenge when it comes to accuracy. You know, oftentimes 
+providers, patients, and insurance companies are going round 
+and round, and in many cases consumers are being asked to pay 
+something they already paid or never owed in the first place. 
+So we have to make sure that credit reports are not a tool to 
+coerce someone into paying something that they do not owe.
+    Accuracy issues in credit reporting are very, very acute in 
+medical debt. We are going to continue to look at ways to make 
+sure that medical debt does not, especially when it is 
+inaccurately reported, does not really harm a person's ability 
+to participate in the economy.
+    Chairman Brown. Thank you. Important answer.
+    To ensure consumers keep their money where it belongs, in 
+their purses, in their wallets, the CFPB issued guidance 
+advising financial institutions that surprise overdraft fees 
+may be unfair and unlawful. How are consumers being harmed by 
+surprise overdraft fees?
+    Mr. Chopra. Well, sometimes a consumer might expect just 
+one overdraft fee and then they see they get three or four, 
+even when their balance showed that they had enough money in 
+their account. This is the type of overdraft practice where, on 
+the back end, there can be not just mischief but illegal 
+practices. We have taken action. Other regulators have done so 
+as well, and in some cases institutions have ignored repeated 
+warnings and decided to do it anyway, and we are committed to 
+holding them accountable.
+    Chairman Brown. Did industry request additional guidelines 
+on this matter?
+    Mr. Chopra. Industry is actually always looking for more 
+information and more clarity. It is one of the reasons why the 
+CFPB has published so many advisory opinions and other 
+interpretations. We have continued the practice from my 
+predecessor, Director Kraninger, on the Advisory Opinion 
+program, and will continue to do so. Of course, guidance does 
+not create any new legal requirements but it seeks to provide 
+transparency on obligations under existing law.
+    Chairman Brown. And it speaks to--you were criticized, as 
+you know, by a number of particularly conservative lawmakers 
+and interest groups. But it does point to how you have tried to 
+build as cooperative a relationship with people as you possibly 
+can, and I think on that it shows.
+    Mr. Chopra. Yeah. I think there has been sometimes the term 
+``regulation by enforcement,'' and, of course, we have to 
+enforce existing law. But where we can provide more information 
+about what law-abiding businesses are trying to make good-faith 
+efforts to comply, we are going to do that. They might not 
+always like what existing laws require of them, but of course, 
+that is one of the best ways we seek to also protect law-
+abiding businesses and help them.
+    Chairman Brown. Thank you. One last question. Some 50 years 
+after passing the Fair Housing Act, 40 years after fair lending 
+laws, we know that redlining still exists in our housing 
+system. In July, CFPB helped to identify one lender in 
+Philadelphia that, through its office locations, through its 
+lending, and through the racist language of its employees 
+showed a clear pattern of discrimination. Because of CFPB's 
+actions, more borrowers in communities of color will have 
+access to a mortgage.
+    So my question is how is CFPB working with DOJ and other 
+agencies to make sure everyone has equal access to mortgage 
+credit?
+    Mr. Chopra. Well, one of the great things about that action 
+in Philadelphia was that it was not just the CFPB but also the 
+three State attorneys general of the Philadelphia metropolitan 
+area also participated, because their counties were impacted 
+too.
+    The Department of Justice and the Attorney General of the 
+United States have a redlining initiative, and we are not just 
+looking at traditional forms of redlining but also digital 
+redlining as well, and there is much more work to do there.
+    Chairman Brown. Thank you. Senator Toomey.
+    Senator Toomey. Thank you, Mr. Chairman.
+    Director Chopra, when you came before this Committee for 
+your nomination hearing you said that you preferred that the 
+CFPB not be on appropriations because you believed that 
+independent agencies are able to stay more clear of political 
+influence. Do you stand by that opinion?
+    Mr. Chopra. I do.
+    Senator Toomey. OK. Here is the problem. Under your tenure 
+at the CFPB it has become as politicized and as far left as I 
+have seen any Federal agency ever. It seems the only political 
+influence the CFPB is not subject to is the influence of the 
+elected representatives of the American people, which is 
+sometimes known as democracy.
+    Now some have suggested that the CFPB is accountable 
+because you were confirmed several years ago and because you 
+have to come up here twice a year and answer, or not answer, 
+questions from my colleagues and me. But let us be honest about 
+the reality here. We are going to raise a lot of concerns 
+today, and at the end of the hearing you are going to leave, 
+and if you want to, you can choose to just ignore everything 
+that is said here at this podium, and there is nothing anybody 
+here can do about it.
+    I would remind my colleagues the Fifth Circuit Court has 
+recognized this lack of accountability to be unconstitutional. 
+There is a very good chance the Supreme Court will as well. And 
+that is why I think it would be a good idea to begin 
+discussions now about legislation that would remedy this.
+    Quick, I think this is a yes-or-no question also, Mr. 
+Chopra. Do you believe that Congress should change the CFPB's 
+governance structure to that of a multimember commission?
+    Mr. Chopra. Well, that is really Congress' decision.
+    Senator Toomey. I get that. You are correct, 100 percent, 
+it is Congress' decision. But would you recommend it to 
+Congress?
+    Mr. Chopra. Well, my own experience, having served on both 
+a multimember and a single director, there are pros and cons of 
+each. I think there is more accountability with a single 
+director. With a commission you can point the fingers at others 
+when something does not get done----
+    Senator Toomey. I am about to run out of time. I get it. 
+But the suggestion that there is accountability, I am sorry, 
+that is hard to take seriously. There is no accountability 
+here. And at least if there were a commission there would be 
+multiple voices. There would be different points of view. There 
+would have to be a vote to advance various proposals. I think 
+that would make a lot of sense.
+    Mr. Chopra. Well, Senator Toomey, I think we take all of 
+the congressional oversight very, very seriously. In fact, a 
+lot of what we have done just in the past year is truly in 
+response to some of the things that you have shared as issues 
+with the CFPB as well as your colleagues.
+    We also think that for the long term there are so many 
+issues that we ultimately have to do together, and we try our 
+best to be responsive to all of that.
+    Senator Toomey. I appreciate that.
+    Mr. Chopra. In fact, Congress has passed laws many times--
+--
+    Senator Toomey. I am going to run out of time here. I 
+understand. I have no doubt that that is your impression, but I 
+know that you are aware that impression is not shared by most 
+Senators on my side of the aisle. So there is a difference of 
+opinion there.
+    Let me ask you a couple of questions about the new rule 
+that you proposed this week, and let me start with a 
+hypothetical. Let us say the California Department of Financial 
+Protection agrees to a consent order to settle an enforcement 
+action that it brought against a nonbank lender for violating 
+State consumer law, and in this case the CFPB is not involved 
+in the case in any manner whatsoever. It seems clear to me that 
+the CFPB has no authority to enforce California's consent 
+order.
+    But under the rules you proposed this week, the nonbank 
+would have to report the consent order to the CFPB to be 
+included in a new public database, and a senior executive of 
+this nonbank would have to attest as to whether or not their 
+institution was complying with this order.
+    Now here is my question. What would you do if this nonbank 
+said it was compliant with the order but you disagreed?
+    Mr. Chopra. So as a factual matter, what you are saying is 
+not exactly accurate. It is for certain supervised entities 
+that attestation would be required. So this is a proposed rule, 
+and what I would share is that in the proposal we outline what 
+are the consumer laws that in some ways are derivatives of 
+similar unfair, deceptive, or other consumer financial laws.
+    So generally speaking, this is really for States and all of 
+us to coordinate. Often you have an entity that violates the 
+law in one State and picks up and moves to someplace else. This 
+helps everyone coordinate and detect fraudsters, which often 
+rip off people----
+    Senator Toomey. So my concern is this could be used as a 
+hook to give the CFPB leverage to enforce other agencies' State 
+consent orders.
+    Mr. Chopra. Well, generally----
+    Senator Toomey. And that is not the authority----
+    Mr. Chopra. ----violations of law, some of these State 
+consumer laws, sometimes are often Federal law violations. But 
+I hear what you are saying and we will take the comments in the 
+record very seriously.
+    Senator Toomey. Well, that is a real concern that I have. I 
+am also concerned about--and I know I am out of time but let me 
+just make my point here, Mr. Chairman, and that is that the 
+CFPB is, in fact, implementing a disparate impact standard 
+without using that phrase, and I worry that the effect of that 
+is the possibility that the CFPB would not feel obligated to 
+observe the guardrails that the Supreme Court has imposed on 
+the application of disparate impact.
+    Mr. Chopra. May I respond, Mr. Chairman?
+    Chairman Brown. Of course.
+    Mr. Chopra. I think that is not accurate. If you look 
+carefully at the unfairness language in the statute that was 
+codified by Congress in 1994, in the FTC Act, and repeated in 
+the Consumer Financial Protection Act in 2010, that is not 
+about disparate impact. It is about injury, reasonable 
+avoidability, and countervailing benefits. I am happy to talk 
+with you more about that, Senator Toomey, but I just totally 
+disagree.
+    Senator Toomey. Well, I know you do, but in your press 
+releases and in the exam manual you refer to UDAAP authority 
+providing the prohibition on unfair practices and that it does 
+not require an element of intent. This starts to sound a lot 
+like the definition of disparate impact without using the 
+phrase ``disparate impact.'' And what concerns me is the 
+application of disparate impact is constrained by the Supreme 
+Court and you should follow that constraint if you were to be 
+implementing it.
+    And finally, UDAAP is a longstanding concept, in fact, 
+codified, and for 100 years nobody discovered that disparate 
+impact was somehow embedded. But----
+    Mr. Chopra. I think that reflects a fundamental 
+misunderstanding of unfairness, what Congress codified in 1994. 
+And again, I am happy to speak to you about it afterwards.
+    Senator Toomey. Thank you, Mr. Chairman.
+    Chairman Brown. Thank you, Senator Toomey.
+    Senator Reed, of Rhode Island, is recognized.
+    Senator Reed. Well, first let me begin by saluting Senator 
+Toomey for his service and dedication, his thoughtfulness and 
+professionalism. We have a major event in common. We both went 
+to the same high school, LaSalle Academy in Providence, Rhode 
+Island. What I do not have in common with Senator Toomey is I 
+was not first in the class and I was not accepted at Harvard 
+College. So you have got a couple of things up on me, Patrick.
+    Let me also say to Senator Shelby, congratulations for your 
+service. I arrived here 25 years ago, and he was a leader then, 
+and he is a leader now, and an extraordinary gentleman.
+    Now let me turn to the director. First, a question that has 
+come to mind as I have listened to the discussion. The decision 
+by the Fifth Circuit also calls on the question of validity of 
+the Federal Reserve. Is that correct?
+    Mr. Chopra. Well, the CFPB's funding is the same funding as 
+the Federal Reserve system. So I think yes, it certainly does, 
+and that is part of what the Solicitor General, in her petition 
+for cert to the Supreme Court, has articulated.
+    Senator Reed. So we should really start warning Wall Street 
+right now and get their reaction to a Federal Reserve that is 
+subject to congressional appropriations. And by the way, we are 
+trying to get that wrapped up a few months later than normal. 
+But I think that is something that should be at least on the 
+table and considered.
+    But let me direct my major attention to the Military 
+Lending Act because I was helpful in getting it passed. Can you 
+tell us, give us an update on what you have done this year with 
+supervision and enforcement of the Military Lending Act?
+    Mr. Chopra. Yes. We have actually taken a number of actions 
+including against repeat offenders of the Military Lending Act. 
+We have sued First Cash, the Nation's largest pawn lender. We 
+have taken action in a number of other places, including 
+Moneylion Technologies a few months ago.
+    Let me say pretty straightforwardly that when this law is 
+not adequately enforced the effects on the force are real. 
+People can lose their security clearances. They can face their 
+own financial distress for them and their families. So we are 
+very committed to fully prosecuting this law and being very 
+clear about our expectations.
+    Senator Reed. Let me shift to another piece of legislation. 
+That is the Servicemembers Civil Relief Act. When I was in the 
+service it was called the Soldiers and Sailors Civil Relief 
+Act. But it provides, among other things, a maximum interest 
+rate of 6 percent. And last week I believe CFPB published some 
+research findings. Can you provide us some details of that?
+    Mr. Chopra. Yeah. So what we identified is for 
+servicemembers' preservice obligations they are entitled to a 6 
+percent rate cap to ensure that, especially if they are 
+activated Guard or Reserve, that their financial life does not 
+move into disarray. So we identified that there are millions of 
+dollars in extra interest that servicemembers are paying when 
+they are activated, and we are particularly worried about the 
+Guard and the Reserve.
+    I will also say as interest rates in the economy go up, 
+that is bigger money when it comes to activations and what 
+happens to those families.
+    Senator Reed. Thank you, because I think you have made the 
+point quite clearly that this not just an issue of financial 
+transactions, it is an issue of military readiness and the 
+impact on families and individual servicemembers.
+    Let me shift gears again to the Buy Now, Pay Later 
+phenomenon which is going on. It is getting more and more 
+popular. Are these loans, Buy Now, Pay Later, being structured 
+to avoid the Military Lending Act?
+    Mr. Chopra. So I do not want to say that it is 
+intentionally done a certain way, but certainly the 
+applicability of the Military Lending Act gets trickier when it 
+comes to Buy Now, Pay Later. One of the things that we have 
+been working with Buy Now, Pay Later firms on is how can they 
+also get credibility and certainty in the market and make sure 
+that, you know, if it is a substitute for credit cards, how 
+might we make sure that disclosures and other protections are 
+equivalent?
+    I think we have seen what happens when there is no 
+credibility in a product, and it can be chaotic. I think Buy 
+Now, Pay Later is going to continue to be a major way people 
+borrow, and I think it is important we continue to think about 
+the servicemember and military protections in that.
+    Senator Reed. Thank you very much, Mr. Director, and keep 
+up your good work. Thank you.
+    Chairman Brown. Thank you, Senator Reed.
+    Senator Tester, of Montana, is recognized.
+    Senator Tester. Yeah. Thank you, Mr. Chairman, and before I 
+get to Mr. Chopra, which I appreciate being here today, I also 
+want to say thank you to Patrick Toomey. I remember the first 
+time we worked on a bill and we were in the dining room of the 
+Capitol, and I said, ``You are not nearly as crazy as the 
+scouting report indicates you are,'' and I think you said 
+something like, ``You want to keep that perception.'' So I 
+appreciate everything that you have done, and even though it 
+has ruined my career calling you a ``smart dude,'' I do want to 
+say that it has been good to work with you.
+    And in honor of Shelby, I will just let you know I have my 
+Roll Tide coffee cup, so it is all good.
+    Look, Rohit, you and I have discussed the importance of 
+making sure that we are holding big tech companies accountable 
+for how they are using consumers' data, especially when they 
+are providing services like those at local bank and other 
+regulated financial institutions traditionally provide.
+    So what are you seeing at the CFPB around big tech 
+companies and where they may be trying to skirt the law?
+    Mr. Chopra. Well, I think what we are seeing is that big 
+tech firms [technical issue] payment system, and they are 
+collecting an extraordinary amount of very detailed and 
+personal information.
+    We also know that some of the other big financial players 
+are getting into data assets that small banks would never 
+really even get near, and I think we have to address that 
+together.
+    Senator Tester. So how will the CFPB [technical issue] 
+standards that regulated financial institutions meet so that 
+consumers are protected?
+    Mr. Chopra. Well, Senator Toomey raised the issue of 
+nonbank registration. [Technical issue] they are subject to 
+supervision, and one of the big things they ask for the CFPB is 
+to make sure there is a level playing field. So we have focused 
+much of our supervisory attention on these nonbanks who are not 
+subject to the same oversight as normal banks.
+    Senator Tester. Senator Reed asked about the Military 
+Lending Act. For veterans and their families, what kind of 
+risks are you seeing from your chair?
+    Mr. Chopra. Generally, you know, I think veterans right now 
+[technical issue], you know, how long they have been out of 
+service. We have very serious issues with economic instability 
+among our veterans in our country. Many have a whole set of 
+issues with housing and credit and debt. Financial issues are a 
+major driver of challenges.
+    So, of course, the Military Lending Act [technical issue] 
+do not apply to those out of service. In particular, we see 
+medical debt being pretty severe. We worked [technical issue] 
+how the VA's own medical debt programs can be fair and not be 
+overly punitive and to really help veterans get through things.
+    So we have a lot [technical issue] but the challenge may be 
+growing.
+    Senator Tester. Is there anything Congress needs to be 
+doing?
+    Mr. Chopra. Well, I think as it relates to veterans and 
+credit and debt, especially medical debt, [technical issue] I 
+hate to see when veterans are not able to get through a tenant 
+screening [technical issue]. I hate to see when they cannot 
+pass an employment verification check because of coding issues 
+in their background.
+    So I [technical issue] that we can tangibly focus on 
+fixing. Of course, I also want to make sure that if there is 
+changes in the mortgage markets and housing prices [technical 
+issue] veterans be subject to unlawful foreclosures, the VA and 
+its mortgage program play a huge role in making sure that those 
+veterans can get loan modifications, that they are not subject 
+to churning. And so housing is going to be a big piece when it 
+comes to the veterans mortgage market.
+    Senator Tester. Just very quickly, [technical issue] in 
+contact with the VA on these issues on a regular basis?
+    Mr. Chopra. We do. I would say the Secretary himself is 
+also very supportive of thinking about financial issues that 
+our veterans are facing [technical issue] with them and you on 
+that.
+    Senator Tester. Thank you. Thank you, Mr. Chairman.
+    Chairman Brown. Thank you, Senator Tester.
+    Senator Hagerty, and I apologize. I did not see you come in 
+and I should have called on you before Senator Tester, so thank 
+you for joining us.
+    Senator Hagerty. No worries, Mr. Chairman. Chairman Chopra, 
+good to see you here today.
+    I really want to direct my comments, Mr. Chairman, toward 
+our Ranking Member today, if that might be OK. I have not known 
+you long [technical issue] I have a soft place in my heart for 
+you. Someone who was a derivatives trader at Chemical Bank and 
+Morgan, Grenfell. Your knowledge and depth of experience in the 
+financial [technical issue] experiences here in Washington I 
+feel have left an indelible mark. And if I think about how you 
+have been a leading voice, and really a staunch advocate for 
+conservative [technical issue] you helped us navigate through 
+some very uncertain times, particularly these past few years as 
+we have come into recession--we have seen inflation like we 
+have never seen, challenges to the economy that have [technical 
+issue]. You have been very strong in terms of making certain 
+that the policies that come from this Committee will have long-
+term and enduring benefits for hardworking Americans, for job 
+creators, and for our competitive [technical issue].
+    And on a personal level, I would just like to say this. 
+From my wife, Christy, and our kids, we have enjoyed getting to 
+know Chris. Patrick, Bridget, and Duncan are just treasures 
+[technical issue], and I think they are very happy you are 
+coming home, I am sure, and we are all looking forward to where 
+you career may take you next. Thank you for your wonderful 
+service.
+    Thank you, Mr. Chairman.
+    Senator Toomey. Mr. Chairman [technical issue] and the 
+respect and admiration is mutual.
+    Chairman Brown. And, Senator Hagerty, you have a couple of 
+minutes left if you would like to do a question or two.
+    Senator Hagerty. I yield my time back. Thank you.
+    Chairman Brown. Senator Menendez.
+    Senator Menendez. ----we have not always agreed, but I have 
+always known where you stood and your views and the way in 
+which you pursue it. We have enjoyed our relationship on behalf 
+of [technical issue]----the CFPB doing to ensure that MOHELA 
+provides an acceptable level of customer service to borrowers?
+    Mr. Chopra. Well, I cannot comment on a specific 
+supervisory [technical issue] to do so with----
+    Senator Menendez. Well, I would urge you to be robust about 
+it, because the consequence to consumers----
+    Mr. Chopra. Is enormous.
+    Senator Menendez. ----is enormous.
+    A 2021 report by the Financial Health Network found that 
+nearly 60 percent of all overdraft fees in 2020 were paid by 
+low- and moderate-income households, and about 25 percent were 
+paid by Latino households specifically. According to the CFPB, 
+the banks made $15 billion a year in overdraft and 
+nonsufficient funds. To put that into context, the banks 
+altogether made $71.7 billion in the third quarter of 2022.
+    Do overdraft fees appear to be a major source of revenue 
+for banks?
+    Mr. Chopra. So they certainly have been. What we are 
+seeing, though, is a shift in the market where they are finally 
+starting to compete, and some banks are drastically reducing 
+them, eliminating them. And the key consumer problem is 
+sometimes a consumer expects one overdraft fee but they get hit 
+with a ton of bricks and three fees, even though when they 
+looked in their balance they had enough money. We are trying to 
+take action to go after illegal overdraft practices to make 
+sure that these are not an unnecessary financial hardship and 
+that there is compliance with the law.
+    Senator Menendez. Yeah, it seems to me that these 
+institutions would be well successful in terms of their 
+financial wherewithal without these fees, and the particularly 
+affect the most significant in our society who are already at a 
+disadvantage. So I urge your continued engagement on this and 
+appreciate it.
+    I continue to hear story after story from New Jersey 
+constituents who have fallen victims to scams and fraud on 
+Zelle, and in many instances been denied relief by their banks. 
+I understand that the big banks that own Zelle are considering 
+a plan to require the network members to compensate victims of 
+certain kinds of scams. That would be [technical issue]. CFPB 
+was working on guidance regarding liability from Zelle scams. 
+Has that work progressed? Where are we at with that?
+    Mr. Chopra. Well, we have been talking to banks, small 
+banks and big ones, about how to reduce the scourge of fraud in 
+real-time payments. This is not just about Zelle. It is also 
+about other P2P apps, some small banks who are not part of the 
+ownership structure of Zelle and others are really wondering 
+how they too can make sure that they investigate what is going 
+on and get answers to their own customers. So we continue to 
+work to make sure that as our country moves to real-time 
+payments that we do not add more vectors of fraud where people 
+can run.
+    You know, in many cases these network rules are established 
+by the industry, and I hope that the industry too can set up 
+frameworks that actually reduce the total amount of fraud when 
+it comes to P2P apps and bank-owned solutions.
+    Senator Menendez. Well, I appreciate that. I know that 
+Senator Reed, myself, Senator Warren, and others have urged the 
+agency to continue to be engaged in this space, and it is 
+incredibly important.
+    And, Mr. Chairman, if I have one more minute, I just want 
+to note the bipartisan work we did here in Congress to shepherd 
+the Debt Bondage Repair Act into law. That bill was led by 
+Ranking Member McHenry in the House and [unclear] in the 
+Senate, and certainly I helped make it happen.
+    This helps the survivors of human trafficking have a 
+mechanism to remove negative marks associated with their abuse 
+from credit reports. In June you issued a final rule to 
+implement the legislation, and I want to thank you for the hard 
+work you put in to get that done. I think we should all be 
+reminded of the scourge of human trafficking, and in this case 
+how we can provide some relief to the victims.
+    Mr. Chopra. I would add that I have similar concerns about 
+impacts on victims of domestic violence and how credit 
+reporting can be used as a weapon. We are trying to think about 
+all of the ways in which all of your work on human trafficking, 
+other [unclear].
+    And by the way, Senator Menendez, this is another example 
+of one of the many times that Congress has passed a law and the 
+CFPB has faithfully implemented it. Every time Congress acts in 
+statute, the CFPB responds and is accountable for it.
+    Senator Menendez. One of the many reasons we need CFPB. 
+Thank you very much.
+    Chairman Brown. Thank you, Senator Menendez.
+    Senator Scott, of South Carolina, is recognized.
+    Senator Scott. Thank you, Chairman Brown. I wanted to stop 
+by as well to pay my regards to Ranking Member Toomey as well 
+as to former Chairman Shelby. We certainly will miss his 
+service from the State of Alabama. But Pat has been a great 
+friend of mine, and certainly a mentor as it relates to the 
+Banking Committee and all things financial. I will never forget 
+our work on the TCJA and the hours upon hours that we spent 
+trying to figure out how to make America healthier financially 
+and to look for ways to grow the small business community 
+through our economy, to focus on making sure that this great 
+land of opportunity, the United States, was open and 
+accessible, from a financial perspective, to all Americans. 
+Your hard work on this Committee, since I arrived in the 114th 
+Congress, is going to be sorely missed.
+    I know that this is not the end. It is just a new chapter 
+opening up for you. But we certainly [technical issue] the work 
+that you have started on this Committee to make sure that this 
+incredible country works for every single American and that we 
+continue to look for ways to strengthen our economy to increase 
+opportunities across this country. I will hear from you, 
+hopefully often, and we will stay in touch. But I thank you for 
+your years of service to this Committee, and frankly, your 
+philosophical wisdom [technical issue] left or the right on the 
+American people.
+    Senator Toomey. Mr. Chairman, if I could take just a moment 
+to say a big thank you to Senator Scott, a great friend, and a 
+great American. Your service to the State of South Carolina has 
+been tremendous, your contribution to the Republican Conference 
+has been tremendous, and you have an unlimited future in front 
+of you that I will be very eagerly watching.
+    Senator Scott. I have had the good fortune of being the 
+Ranking Member on the Aging Committee this year, and the 
+Committee has been meeting at the exact same time as the 
+Banking Committee. So I cannot think of a better place to serve 
+right now than in the Aging Committee, perhaps the Banking 
+Committee, and I look forward to coming back over here. It has 
+been a blessing to be there, and unfortunately I have missed a 
+lot over here, but will be here next year. Thank you.
+    Chairman Brown. Do you have questions?
+    Senator Scott. No, sir.
+    Chairman Brown. Senator Warren, of Massachusetts, is 
+recognized.
+    Senator Warren. Thank you, Mr. Chairman, and actually I 
+want to add my thanks as well to Senator Toomey. I want to say 
+thank you for your many years of public service and how well 
+you have served the people of Pennsylvania and the people of 
+the United States. I also want to say thank you for your 
+willingness to work across the aisle. We do not see eye to eye 
+on every issue, in fact very few, but where we can, we do, and 
+I appreciate that.
+    So let us talk about CFPB. Big businesses and their 
+lobbyists have spent the last decade trying their hardest to 
+take down the CFPB, and throughout it all, the CFPB has done 
+its job holding banks and giant corporations accountable. So it 
+is no wonder that the Chamber of Commerce and its corporate 
+clients have now launched a new campaign, spending hundreds of 
+thousands of dollars to attack the CFPB and to attack you, 
+Director Chopra. And that is on top of the many millions of 
+dollars it has already spent fighting for giant banks and 
+corporations in their right to cheat, trick, and discriminate 
+against consumers.
+    So I just want to talk about a few of the things that CFPB 
+does that big banks really seem to hate. Director Chopra, one 
+of the first things that you did when you took over the CFPB 
+was to launch an initiative against junk fees, you know, the 
+couple of dollars here, and a couple of dollars there, that 
+banks and other businesses are increasingly loading on families 
+in order to boost corporate profits. We are talking about 
+things like way-high overdraft fees, hotel resort fees, other 
+random fees that people cannot usually see until it is too 
+late.
+    Now the Bureau recently issued guidance to crack down on 
+junk fees. I just want to ask you, how much do you think 
+consumers will be able to save if you can get rid of these fees 
+in their lives?
+    Mr. Chopra. Well, our estimate is just on surprise 
+overdraft fees. There is about $1 billion that has already been 
+cut out, and when it comes to others in the market, $3 billion 
+in overdraft fees, and I think the list is going to go on and 
+on and on.
+    Let me just say this. If you believe in a market system 
+where people can compete with each other, when you hide fees or 
+jam fees onto people that they cannot reasonably avoid, that is 
+not really a market system.
+    Senator Warren. That is right. All right. So when financial 
+institutions insist on continuing to saddle consumers with junk 
+fees, you have been successful in taking enforcement actions 
+against them. I see one here, Regents Bank, for example, was 
+found to have charged surprise overdraft fees to its customers. 
+So how much money did CFPB recover for cheated consumers once 
+it took on Regents Bank?
+    Mr. Chopra. Just in that one we got $141 million in victim 
+restitution, and then a $50 million civil penalty. And it is a 
+repeat offender so we had to take it seriously.
+    Senator Warren. Yeah, and that is money that stays in 
+people's pockets because of your work.
+    Let me turn to another example. CFPB has also been working 
+to protect student loan borrowers. You identified student loan 
+servicers engaging in deceptive practices and tricking teachers 
+and firefighters and nurses out of the opportunity to access 
+loan forgiveness under the Public Service Loan Forgiveness 
+Program.
+    Director Chopra, is the CFPB action going to put money back 
+in the pockets of public services like nurses and firefighters 
+and teachers?
+    Mr. Chopra. Yes. They will have, in many cases, their 
+financial lives will be completely [unclear].
+    Senator Warren. All right. So let us take a look then at 
+housing. The CFPB has been looking into shoddy tenant screening 
+services that too often result in families of color being 
+unfairly denied rental housing. Earlier this year, the Bureau 
+issued guidance warning tenant screening companies to clean up 
+their practices. Director Chopra, will CFPB's work on this 
+issue help reduce barriers to affordable quality housing?
+    Mr. Chopra. Yes, and it will also be good for landlords 
+too, who want to be able to find a tenant that works for them 
+and not be shut out because of erroneous background reporting.
+    Senator Warren. OK. So once again, making markets work 
+better, just making them work for consumers as well.
+    I am going to do one more quick example here. Many people 
+pay more for car loans, for credit cards, and for mortgages 
+because they have unpaid medical bills that that tarnish their 
+credit ratings. So in March, the CFPB issued a report showing 
+just how severe this problem is, and here is what I love. 
+Before you even had to deliver some kind of rule around this, a 
+few weeks later, the three big credit reporting agencies 
+announced they would eliminate nearly 70 percent of medical 
+collection debt from consumers' credit reports. Director 
+Chopra, how many families will this change impact?
+    Mr. Chopra. Millions, I think. Inaccurate credit reporting, 
+especially on medical debt, can be a blockade to so much, and I 
+think our work on credit reporting will continue to pay 
+dividends for families and individuals.
+    Senator Warren. Well, I want to say thank you. Now there we 
+have. Junk fees, student loans, housing, medical debt--I could 
+keep going on if we had more time--all of the things that CFPB 
+has accomplished under your first year at the helm. The CFPB is 
+saving tens of millions of families a lot of money.
+    I know that big banks and their lobbyists may hate that, 
+but I am glad American families have a cop on the beat who is 
+working for them.
+    Thank you. Thank you, Mr. Chairman.
+    Chairman Brown. Thank you, Senator Warren.
+    Senator Daines, of Montana, is recognized.
+    Senator Daines. Mr. Chairman, thank you for your remarks 
+and I have a few questions. I too want to recognize Ranking 
+Member Toomey. I remember my days at Procter and Gamble. One of 
+my earlier mentors told me, ``When you hire, you look for 
+people that can check three boxes: integrity, intelligence, and 
+initiative.'' Everything else you can coach, but you have got 
+to have those three fundamental attributes.
+    Senator Toomey, you have truly modeled that for me 
+personally, as you have served in the U.S. Senate, as you have 
+led so well as the Ranking Member on this Committee. You will 
+be dearly missed. Thank you for your sacrifice, your service 
+for our country, and for your strong leadership, and I, too, 
+echo Senator Scott's comments. I will never forget the work we 
+did together on the tax cut bill, and cutting taxes for small 
+businesses as well as other businesses. But it was a moment, we 
+did a big thing together, and thank you for that.
+    In a petition to the Supreme Court on November 14th, the 
+CFPB asked the Court to reverse the Fifth Circuit Court of 
+Appeals ruling that determined that CFPB's unprecedented power 
+to defund itself was unconstitutional. The petition claims that 
+the CFPB's funding is constitutional because Dodd-Frank 
+authorized the CFPB director to unilaterally decide how large 
+its budget can be and mandates that Federal Reserve transfer 
+the requested funds. However, the Constitution prohibits 
+Federal agencies such as the CFPB from spending Federal 
+Treasury without, quote, ``appropriations made by law,'' end 
+quote.
+    In its decision, the Fifth Circuit writes that ``an 
+expansive agency, insulated from Congress' purse strings, 
+expressly exempt from budgetary review, and headed by a single 
+director removable the President's pleasure is the epitome of 
+the unification of the purse and the sword of the Executive.'' 
+I believe it is highly likely that the Supreme Court ultimately 
+reviews this case and upholds the Fifth Circuit decision.
+    My Republican colleagues and I have continually asked for 
+our colleagues on the other side of the aisle to join us in 
+reforming the CFPB. That offer sincerely remains on the table.
+    And now turning to my questions. Director Chopra, during 
+your last appearance before the Committee you stated, following 
+a question of mine, that, quote, ``Consumers benefit from a 
+transparent and competitive market. A transparent and 
+competitive market will help develop lower-cost, small-dollar 
+loan products,'' end quote.
+    Director Chopra, under your leadership what steps has the 
+Bureau taken to create an open and competitive market for 
+consumers to ensure continued access to small-dollar loan and 
+financing products?
+    Mr. Chopra. That is a great question. Two things come to 
+mind. One is that we have really put an effort to make sure 
+that our credit card market is extremely vibrant. Credit cards 
+are the biggest source of small-dollar loans in America. It is 
+a place where so many people are able to afford things, even if 
+they may not have the liquidity. We are looking at ways for 
+small banks and credit unions to be able to play a bigger role 
+in the credit card market, to be able to help refinance credit 
+card debt, and much more.
+    We have also proposed implementing a long-dormant authority 
+called Section 1033. This is how fintechs, nonbanks, and small 
+banks may be able to access customers at lower customer 
+acquisition costs by allowing permission data. So you would be 
+able to move your data and use it as a way to be underwritten 
+potentially for lower-cost credit elsewhere.
+    So I really see that technology, we can harness it in a way 
+that creates more opportunities for new entrants, more 
+opportunities for small players. Because right now, small-
+dollar lending and credit cards, it is dominated by just a 
+handful of the largest. The truth is local banks would be very 
+good at serving people in that market, and we are looking for 
+more ways to support them doing that as well.
+    Senator Daines. Thank you, Director Chopra. And I want to 
+go to another lane here and that is about abusive practices. In 
+late September, the U.S. Chamber of Commerce filed a lawsuit 
+challenging the legality of CFPB's changes to the Unfair, 
+Deceptive, or Abusive Acts or Practices, UDAAP, Exam Manual. 
+While lawmakers such as myself and many here expect the CFPB to 
+enforce legislation that protects consumers against 
+discrimination, it seems as though the Bureau has unilaterally 
+decided, without congressional oversight, that UDAAP now 
+includes disparate impact liability.
+    In the 12 years since Dodd-Frank was enacted, neither 
+Congress nor the CFPB has claimed that the legislation 
+authorizes disparate impact under UDAAP. Unfortunately, instead 
+of implementing these changes in an open and very transparent 
+rulemaking process, your Bureau simply issued a press release 
+announcing a very controversial change.
+    Back in 2018, the CFPB disparate impact guidance for auto 
+lending was overturned by Congress after the Bureau's 
+enforcement methodologies were found to be flawed and, 
+importantly, not authorized by statute. Now it appears as if 
+your Bureau is attempting to implement disparate impact 
+guidance not just for lenders but for all consumer financial 
+products and services, and we are hearing a lot about that.
+    Putting aside whether this tactic is legal or not, which I 
+do not believe it is, do you think the CFPB's implementation of 
+disparate impact guidance through a press release, without 
+congressional authorization or a notice and comment rulemaking, 
+is a transparent way to make policy changes?
+    Mr. Chopra. So I appreciate the question, Senator Daines. 
+This is not a disparate impact. Senator Toomey has claimed this 
+many times and it is just not true. I am happy to talk you 
+through the legal details of it, but I want to answer the 
+question you really posed at the end, which is about 
+transparency.
+    One of the things that Senator Toomey and others have 
+really expressed is that they worry about regulation by 
+enforcement, the sense that firms should know what is obligated 
+of them under existing law. So one of the things we have done 
+is we have tried our best to find lots of different ways to 
+issue guidance that does not have the force of law but it gives 
+entities a sense of what does the current law require.
+    In the case you mentioned of the exam manual, that is 
+really also about consistent examination. The manual is 
+guidance for examiners, that when they are investigating 
+potential discriminatory or other unlawful conduct, how might 
+it implicate some of the existing laws that Congress has 
+authorized and prohibited? In many situations, illegal conduct 
+can violate multiple laws.
+    But I want to figure out, and I am happy to work with you 
+to figure out what is the way to be transparent but also how to 
+best----
+    Senator Daines. I am way over time. One last sentence. I 
+appreciate you expressing interest in supporting community 
+banks, smaller banks, and competition. I think it is important 
+you get the feedback early in that rulemaking process, from all 
+entities, including these smaller banks and community banks.
+    Thank you. Mr. Chairman, thanks for your patience.
+    Senator Smith. I am Senator Smith.
+    [Laughter.]
+    Senator Smith. Thank you, Chair Brown.
+    Senator Toomey, Pat, we wish you the best in whatever 
+adventures you have before you. I am sure they will be 
+exciting, and thank you for your service to Pennsylvania and to 
+the United States of America through the Senate. So we wish you 
+the very best.
+    Senator Toomey. Thank you very much, Senator Smith.
+    Senator Smith. Thank you.
+    So Director Chopra, thank you so much for being with us, 
+and I appreciate your testimony and your answers to the 
+questions today.
+    You know, markets need to work for consumers as well as the 
+private sector businesses that serve those consumers. It needs 
+to be fair and transparent so that people are not taken 
+advantage of. And I want to thank you for the work that you and 
+CFPB do to make that value real. And it does seem like there 
+are new scams that hop up constantly.
+    Here is an example that I want to ask you about. In 
+November, ProPublica and the Sahan Journal copublished a story 
+describing practices targeting the Somali community in 
+Minnesota. Real estate investors are apparently pitching 
+contracts for deed, sometimes known as land contracts or seller 
+financing, as an interest-free way of purchasing a home, and 
+this is, of course, particularly attractive to Somali buyers, 
+many of whom have religious tenants, forbidding paying 
+interest.
+    Under these arrangements, a buyer pays a seller directly in 
+installments and there is no mortgage or bank, and there are 
+also very few consumer protections for buyers, and the 
+contracts are often structured to contain large, unmanageable 
+balloon payments. And so this is what happens. Families end up 
+defaulting on their mortgages and are at risk of losing their 
+homes. The stories are really terrible when you read them.
+    So I to just ask if you are aware of this issue, have you 
+heard about this, and what could you do in response to these 
+practices to protect these consumers?
+    Mr. Chopra. Well, I saw this report and one of the things 
+that I think I have shared with some of you before is this 
+issue of exploiting religious beliefs----
+    Senator Smith. Yes.
+    Mr. Chopra. ----I think is very pernicious. And I think to 
+the extent to which--I do not know all the facts to see if it 
+violates the law. It certainly raises red flags when there may 
+be deception or, frankly, taking someone's home without the 
+appropriate safeguards in place.
+    I want to make sure that--the CFPB is not in the business 
+of projecting the future of the economy, but we are always 
+paranoid about what could come. And I think housing and housing 
+insecurity and evictions and all of the associated rules, we 
+need to make sure that we can stop some of these before they 
+really go nationwide.
+    Senator Smith. Exactly, before they take off. And that is 
+my concern too, that what is happening here is bad actors 
+exploiting this prohibition amongst Muslim folks to not pay 
+interest, and then taking advantage of them.
+    Similarly, I am also concerned about recent reports about a 
+new deceptive practice that seems specifically designed to 
+deceive homeowners. It is related to contracts for providing 
+up-front cash to homeowners in exchange for an exclusive right 
+by a real estate firm to serve as their listing agent for out 
+to 40 years. And so this up-front cash is described as a loan 
+alternative, and the only way that a homeowner can exit this 
+arrangement is to pay 3 percent of the home value back to the 
+realtor company, and then that is enforced as a lien against 
+the property. It is just another example of the way, just as 
+you say, the way that this huge challenge that we have around 
+housing in our country is being taken advantage of, it appears, 
+by these bad actors.
+    Mr. Chopra. And I also, in that situation, particularly 
+worry about older homeowners who are often sitting in homes 
+they have lived in for a long time, and often that is their 
+core source of wealth and their ability to finance their 
+retirement.
+    I will say on this issue we have seen the Florida AG; we 
+have seen other AGs take actions. Sometimes it implicates our 
+authorities. Other times it does not. But that is part of the 
+reason we want more State AG and State regulator coordination 
+with us, because often if it does not trip our laws it may trip 
+theirs, and that is why we have really put a premium on 
+investing in those State AGs, and I want to commend your State 
+for really being part of that work.
+    Senator Smith. Yes. Our Attorney General does excellent 
+works and keeps consumer protection at the forefront of his 
+efforts, so I appreciate that.
+    Thank you, Mr. Chair.
+    Chairman Brown. Thank you, Senator Smith.
+    The Senator from Nevada is recognized.
+    Senator Cortez Masto. Thank you. Thank you, Mr. Chair, and 
+Ranking Member Toomey, again, as I said yesterday in the 
+Banking hearing, I just wish you all the best and it has been a 
+pleasure to know you and be able to work with you. Thank you.
+    Senator Toomey. Thank you very much. The feeling is mutual.
+    Senator Cortez Masto. Director Chopra, it is great to see 
+you. You know how I feel, as a former Attorney General. The 
+work that you do is just so important, and that partner with 
+the AGs across the country, like you said, is key to really 
+address some of the consumer challenges that we are seeing. 
+Every time there is a law that is passed, usually there is some 
+predatory actor trying to figure out another way to take 
+advantage, and so we have to stay diligent and be on top of all 
+of these issues.
+    One of them that has been important to me, and Jack Reed 
+has talked a little bit about this, is our servicemembers and 
+their families. I know in 2021, our servicemembers and their 
+families submitted more than 42,000 complaints to the Consumer 
+Bureau. The most common type of complaint, more than 60 
+percent, were about credit reporting and debt collection. I 
+know also that servicemembers have complained to the Bureau 
+about billing inaccuracies and that debt collectors use 
+aggressive tactics to recover allegedly unpaid medical bills.
+    So how has the Bureau protected servicemembers and their 
+families from unfair practices? Can you talk about what you are 
+trying to do to address that?
+    Mr. Chopra. Yes. We have actually taken a number of 
+enforcements actions on the Military Lending Act. Last week we 
+released a report about the Servicemembers Civil Relief Act, 
+which provides important protections.
+    Let me just say, more broadly though, the impact of the 
+credit report for a servicemember, it is different than for 
+civilians, because when they are moving a lot or when there are 
+certain life events, they need to be able to rely on that, 
+sometimes even for security clearances. So credit reporting 
+issues are really tough.
+    Senator Cortez Masto. Or continuation in the military.
+    Mr. Chopra. That is right.
+    Senator Cortez Masto. This is an important thing, and this 
+is what I hear from our servicemen and women in the State of 
+Nevada.
+    Mr. Chopra. And one of the things that I worry, too, is 
+they are more likely to be victims of identity theft. So the 
+issue of servicemember data and privacy and their credit 
+reports I think is going to continue to be a top issue. I know 
+this is also a place where the Federal Trade Commission has put 
+in work, and they have authorities, and we are going to 
+continue to work with them.
+    The DoD has been a very good partner in figuring out other 
+indicia of military family readiness, and so there is more work 
+which we can brief you on.
+    Senator Cortez Masto. Please do. I look forward to it. I 
+know Jack talked about, and you addressed the Civil Relief Act 
+and the concern that our active-duty, particularly our Reserve 
+and National Guard, are paying an extra $9 million in interest 
+every year. And so I appreciate your work in addressing it.
+    Let me jump back to just, in general, credit reporting. For 
+years the top complaint from consumers, in general, and this is 
+even when I was Attorney General, has been inaccurate credit 
+reports. And thanks to the Bureau's efforts we are seeing some 
+improvements with getting real and timely responses to the 
+complaints.
+    Can you talk about that progress that the Consumer Bureau 
+has had with improving responsiveness from some of these credit 
+reporting companies, but also what else do we need to be doing 
+and what can Congress do to address this issue?
+    Mr. Chopra. Well, I think that the three credit reporting 
+conglomerates obviously do not face the same competitive 
+constraints that a normal business does. Consumers are not 
+their customer often. So consumers are the product, and I think 
+that is a fundamental market failure that requires us to make 
+sure that they are taking accuracy and disputes seriously. It 
+is clear that for some of them they are willing to pay the 
+occasional fine or class action lawsuit, but ultimately there 
+is a serious issue when it comes to their incentives.
+    I want to share that I also worry about the new generation 
+of data broker and background screeners that are even 
+collecting data on small businesses, collecting data on others. 
+We need to make sure that those secret dossiers that 
+individuals have rights to make sure they are accurate and they 
+can dispute wrong issues.
+    Senator Cortez Masto. I do too, and I will just say, you 
+know, as a former Attorney General dealing with the subprime 
+mortgage crisis, I cannot tell you how many homeowners I even 
+heard from that they were trying to work with a credit 
+reporting company and they were being punitive against them. It 
+is an area that we really have to focus on.
+    Mr. Chopra. And that lingers with people for so long. And 
+often if one of your three reports has problems, you are shut 
+out.
+    Senator Cortez Masto. That is right. It is devastating. So 
+thank you again. Thank you for the work, and I look forward to 
+continuing that work with you and the Bureau, and your 
+incredible staff.
+    Chairman Brown. Thank you, Senator Cortez Masto.
+    Senator Ossoff, from Georgia, is online from his office.
+    Senator Ossoff. Thank you, Mr. Chairman, and thank you, 
+Director Chopra, for your service and your testimony here 
+today.
+    Building on what Senator Cortez Masto was just discussing 
+in terms of the impact that adverse credit reports can have on 
+Americans, let us talk about how this can impact veterans and 
+what you can do, Director Chopra, to protect veterans from 
+improper billing and collections from providers of community 
+care services referred by the VA. You published the Office of 
+Servicemember Affairs 2022 Annual Report. It noted that you 
+receive many complaints from veterans who incur medical debt as 
+a result of a community care health care provider that is a 
+third-party provider, to whom the veteran is referred by the VA 
+for some outpatient services, who trust that those community 
+care providers will bill the VA, but instead they bill the 
+veteran improperly, and then it gets referred for collections, 
+and then suddenly this veteran has collectors coming after 
+them, maybe an adverse credit reporting event.
+    The report that you issued, Director Chopra, recommended 
+that medical providers and third-party billing companies should 
+have adequate systems in place to serve veterans. Of course, 
+they should.
+    What else can you do with the powers at your disposal to 
+protect veterans who are at risk of becoming trapped by medical 
+debt, having adverse credit reports because of the failures of 
+these health care providers to properly bill the VA?
+    Mr. Chopra. Let me just say that credit reports should not 
+be a tool to extort money out of someone who does not really 
+owe it. And I think for many veterans, and frankly, many 
+Americans, they end up just paying it because it is such a 
+headache.
+    We have already taken a few steps. One, we have put some 
+focus on nursing home debt collection. This is a place where we 
+want to make sure that debt collectors who are collecting on 
+nursing home debt know that when there might be indicia that 
+those debts are invalid.
+    This issue of outpatient referrals from the VA, we are 
+really pleased to work with the VA on how they are dealing with 
+credit reporting. They have updated some of their rules about 
+when medical debts will be reported. It will drastically reduce 
+the number that are reported. Because ultimately, I think we do 
+not want to penalize veterans for getting medical care for 
+which the law entitles them to receive as benefits of their 
+service.
+    So, Senator Ossoff, I think there are other places in 
+credit reporting and debt collection that we continue to find 
+concrete solutions to address these issues.
+    Senator Ossoff. I appreciate that, Director Chopra. Let us 
+talk about new mothers and the costs of pregnancy and 
+childbirth. A University of Michigan study published last year 
+found 24 percent of pregnant and postpartum women report unmet 
+health care needs due to cost. One in 5 parents receive an 
+unexpected charge, averaging $744, on their hospital bill 
+following childbirth. That is on top of $4,500 in out-of-pocket 
+spending, on average, that each woman spends on care from 12 
+months before to 3 months after delivery. We know, and we have 
+been discussing, the impact that medical debt can have on 
+families. We are talking about families with new children.
+    How do you address the impact that this can have on 
+pregnant women and new mothers? What more can you do to protect 
+them?
+    Mr. Chopra. I think that there are big concerns about how 
+big medical events can often trigger personal bankruptcy. It is 
+a financial distress that is often--an underpinning is often 
+medical issues. And I think the last thing we would want is to 
+see that, you know, pregnancy and new mothers having to deal 
+with mistaken credit reporting, surprise billing.
+    Of course, the CFPB's role is really on credit reporting 
+and debt collection. But of course, we are happy to brief you 
+further on the work with the Department of Health and Human 
+Services, the work we do with others to address this really 
+complex and convoluted system of medical billing and how it is 
+becoming the No. 1 collection item over time on individuals' 
+credit reports.
+    Senator Ossoff. Director Chopra, thank you, and I think 
+that these issues faced by veterans and new mothers speak to 
+the essential role that the agency plans in protecting 
+consumers.
+    My final question is about servicemembers who, for example, 
+are undergoing security clearance investigations. Your Office 
+of Servicemember Affairs report found that in 2021, credit 
+reporting companies were ``not responsive to servicemembers' 
+requests for investigations, jeopardizing their security 
+clearances, job security, and promotion eligibility.'' They are 
+not getting timely responses from the credit reporting 
+companies when, for our military servicemembers, their jobs and 
+clearance is on the line.
+    What more can your agency do to ensure that credit 
+reporting companies respond in an efficient and effective 
+manner to these servicemembers' requests and when 
+servicemembers bring complaints to you?
+    Mr. Chopra. Well, we have certainly seen a bit of an uptick 
+in their responsiveness, but ultimately we are going to have to 
+assess them for legal compliance too. They have requirements to 
+assure maximum possible accuracy, using reasonable procedures, 
+and I think that is a place where we are very, very focused on 
+whether they are meeting their legal obligations on dispute and 
+accuracy.
+    So of course their compliance with the law has huge ripple 
+effects on all segments of the population across the country, 
+and so we will continue to do work when it comes to the Fair 
+Credit Reporting Act, including exploring potential rules.
+    Senator Ossoff. Thank you. And Mr. Chairman, I know my time 
+is up. I will just say this, Director Chopra. The Congress 
+authorized your agency to undertake these activities, 
+explicitly in statute, precisely so that you could protect 
+consumers, such as we have discussed today.
+    Thank you for your testimony.
+    Chairman Brown. Thank you, Senator Ossoff.
+    We will close. Senator Toomey has some parting words.
+    Senator Toomey. I will be brief. Mr. Chairman, thank you 
+very much. I just want to remind my colleagues of the 
+legislation that Senator Hagerty and I have proposed does two 
+things. It would change the governance of the CFPB to a 
+bipartisan commission, and it would change the funding of the 
+CFPB to funding through appropriations.
+    This in no way would end the CFPB. It would in no way 
+prevent the CFPB from carrying out its mission. But what it 
+would do is it would restore much more accountability than we 
+have today. The Constitution is so unambiguously clear that all 
+legislative powers are to be vested in the Congress. We hand 
+over powers to write rules which have the force of law to the 
+CFPB. That is a legislative power. It really only makes sense 
+that we actually exercise some control over this body to which 
+we have delegated our own responsibility.
+    So I would urge my colleagues to consider supporting our 
+legislation, and I thank you, Mr. Chairman.
+    Mr. Chopra. Chairman Brown, can I just offer one thing?
+    Chairman Brown. Very briefly.
+    Mr. Chopra. I did not get to do this, but I also want to 
+thank Senator Toomey, over the past few years. Congratulations 
+on finishing your service and returning to Pennsylvania, or 
+wherever you may go. And also to Senator Shelby, who over the 
+past decade I have had the chance to work with him and his 
+staff on so many things. You know, many years ago he was very 
+clairvoyant about data and data privacy, and so I again want to 
+thank him too for all his work.
+    Senator Toomey. Thank you.
+    Chairman Brown. Thank you for those kind words, Director. A 
+moment about accountability and then I will adjourn.
+    The CFPB director can be fired by the President. We know 
+that. The director is confirmed by this body. The CFPB submits 
+quarterly financial reports to OMB. CFPB's operations and 
+budgets are subject to a private sector, independent audit. It 
+is subject to numerous additional audits by the Office of the 
+Inspector General and GAO. It is the only independent banking 
+regulator with a cap on its funding, and annually audits the 
+financial transactions, the GAO does, of the CFPB, and the 
+director appears, as you know, painfully or not, in front of 
+this Committee twice a year.
+    These are just some of the accountability measures the CFPB 
+complies with. It is clearly accountable. It is not really the 
+objection here. It is the fact that CFPB is such an effective 
+watchdog for consumers, to the detriment of Wall Street. That 
+is why the CFPB is under attack.
+    Thank you, Director, for being here today. Senators who 
+wish to submit questions, those questions are due 1 week from 
+today, on Thursday, December 22nd. Director, please submit your 
+responses to questions for the record within 45 days from when 
+you receive them.
+    And as I adjourn, again thanks to Senator Toomey. It is our 
+87th hearing together, and I appreciate his public service and 
+his attention to detail and his good, intellectual, and 
+principled insight, and I learn from him on all kinds of 
+issues.
+    So Pat, thank you. Director, thank you. The Committee is 
+adjourned.
+    [Whereupon, at 11:37 a.m., the hearing was adjourned.]
+    [Prepared statements, responses to written questions, and 
+additional material supplied for the record follow:]
+              PREPARED STATEMENT OF CHAIRMAN SHERROD BROWN
+    Today's hearing is in a hybrid format. Our witness is in-person, 
+but Members have the option to appear either in-person or virtually.
+    Let me start by talking about two of our colleagues who are 
+retiring at the end of this Congress.
+    Senator Toomey sat by my side for 87 of the 89 hearings the 
+Committee held this Congress. We each missed one. I mention that 
+because it shows how seriously he takes this job--both as Senator and 
+as Ranking Member. I'm sure there were many hearings he didn't want to 
+sit through. But he did.
+    I've enjoyed getting to know him as we sat together for hundreds of 
+hours over the last 2 years. We moved dozens of nominees through the 
+Committee, we worked together on crucial national security issues like 
+China, most recently we've worked together on FTX, and off the 
+Committee worked on important maternal health issues.
+    While we have our disagreements, there may be no other Republican 
+as passionate as Senator Toomey, and it's backed by his strong 
+worldview and intellect, especially on financial matters. He was a 
+critical voice in our Committee's response to the COVID crisis and the 
+Congressional oversight afterwards. The quality of debate and discourse 
+in this Committee was improved because Pat and his incisive intellect 
+were engaged.
+    I also want to commend Pat's staff--Brad Grantz, Dan Sullivan, John 
+Crews, and the rest of the team for their hard work and diligence.
+    I wish Pat, Kris and their three children the best in the next 
+phase of his career.
+    I have not known a Banking and Housing Committee without Senator 
+Shelby. I came to the Committee in 2007 in the middle of the financial 
+crisis.
+    Senator Shelby helped shape the agenda of the Committee for 35 
+years--during the Enron scandal, Sarbanes-Oxley, the Great Recession of 
+2008, Dodd-Frank, the COVID pandemic, and so many other critical 
+moments in the history of this Committee and our country. He served in 
+leadership roles as either Chair or Ranking Member for more than a 
+decade, working with Senators Sarbanes, Dodd, Johnson, and me.
+    There was no one on the Republican side who was a greater proponent 
+of strong capital at banks, something I always admired.
+    Senator Shelby, I wish you and Annette well in your retirement.
+    Welcome back Director Chopra.
+    The Banking, Housing, and Urban Affairs Committee used to be 
+referred to as the Senate Banking Committee because it was all about 
+Wall Street. When Democrats took Control in the 117th Congress, we 
+changed that.
+    So it's fitting that this Committee's last hearing for the 117th 
+Congress is the CFPB's Semi-Annual Report--because fighting for 
+consumers is one of the most important things we can do on this 
+Committee.
+    Since the CFPB first opened its doors in 2011, the consumer agency 
+has returned $14.9 billion to consumers, including principal 
+reductions, canceled debts, and other relief. That's $14.9 billion, 
+with a B.
+    Over 183 million consumers have been eligible for that relief.
+    The CFPB has a track record of helping real people get real 
+compensation for real harm from financial institutions that have 
+wronged them.
+    In 2012, just over a year after becoming fully operational, the 
+CFPB ordered American Express subsidiaries to refund $85 million to an 
+estimated 250,000 consumers for illegal credit card practices, 
+including charging unlawful late fees.
+    In 2014, the CFPB reached a settlement requiring Sallie Mae to pay 
+$60 million to an estimated 60,000 servicemembers for overcharging them 
+on student loans.
+    In 2016, the CFPB fined Wells Fargo $100 million for opening 
+unauthorized accounts and ordered Wells to refund an estimated $2.5 
+million in fees accrued.
+    This year, the CFPB fined Bank of America $10 million for 
+unlawfully garnishing consumer accounts.
+    When financial institutions illegally took consumers' hard-earned 
+money through unlawful late fees, through too high interest rates, 
+through unauthorized fees, and through improper garnishment, the CFPB 
+cracked down and ensured that consumers keep their hard-earned money.
+    No other agency fights for consumers like the CFPB.
+    It's no wonder Wall Street hates the agency. Since the passage of 
+Dodd-Frank, Wall Street and its allies have aimed their fire at the 
+CFPB, trying over and over again to undermine and gut the agency 
+responsible for fighting for Main Street and consumers.
+    Republicans have proposed bill after bill to weaken the CFPB, to 
+take away the effective single director structure, to put the agency's 
+funding in the limbo of congressional appropriations, or to simply undo 
+the CFPB.
+    But Congress created the CFPB and specifically designed its funding 
+structure to make the agency an effective consumer watchdog.
+    According to this Committee's report on Dodd-Frank, ``the assurance 
+of adequate funding, independent of the Congressional appropriations 
+process, is absolutely essential to the independent operations of any 
+financial regulator.''
+    Which is why other financial regulators like the Federal Reserve, 
+OCC, FDIC, and NCUA are independently funded and not subject to 
+congressional appropriations.
+    And when Wall Street and Republicans in Congress tried to put the 
+CFPB out of business, the public loudly and clearly said ``no''.
+    The CFPB has remained intact because it does its job: helping 
+consumers.
+    Consumers know Wall Street does not have their best interest at 
+heart.
+    Consumers know that Wall Street needs a strong regulator to keep it 
+in check.
+    Consumers remember the damage that Wall Street wrought on the 
+economy, on their neighborhoods, and on their wallets.
+    And consumers know that CFPB follows the facts. They go after bad 
+actors, from banks overcharging customers to predatory payday lenders 
+trapping consumers in debt.
+    The CFPB stands up to Wall Street. Director Rohit Chopra and the 
+CFPB use all of their powers to fight discrimination. And they continue 
+to go after financial institutions for their treatment of Black and 
+Brown consumers.
+    In 2021, the CFPB required a bank to pay $5 million to address 
+redlining that harmed Black consumers.
+    This year the CFPB announced that it will examine whether 
+discrimination violates the Dodd-Frank prohibition against unfair, 
+deceptive, and abusive acts and practices.
+    And in July, in response to a local lender's failure to serve 
+Philadelphia's majority-minority neighborhoods, the CFPB, along with 
+the Department of Justice's Combatting Redlining Initiative, brought 
+$18.4 million in funds to support home ownership in those 
+neighborhoods.
+    In total, the CFPB has gotten $637 million from discriminatory 
+financial institutions, tens of millions of which have gone directly to 
+minority consumers who experienced discrimination.
+    There is a reason why the civil rights community was instrumental 
+in the creation of the CFPB. They knew that they needed an agency that 
+was empowered and unafraid to fight against discrimination, wherever it 
+may be found.
+    The CFPB is creating a fair, transparent, and competitive economy.
+    Major and consequential CFPB rules like the Ability to Repay rule 
+not only provide protections for consumers buying homes, but also 
+create rules for financial institutions and the broader economy.
+    That's why we created the CFPB--to ensure that the financial 
+marketplace is fair for everyone, and that corporations cannot rig the 
+system and get away with it. That's the essence of capitalism.
+                                 ______
+                                 
+            PREPARED STATEMENT OF SENATOR PATRICK J. TOOMEY
+    Today's hearing is about the CFPB.
+    The last time Director Chopra testified, I raised concerns about 
+the CFPB's overreach in pursuit of a far-left agenda. Unfortunately, 
+this lawless behavior is nothing new for the CFPB, and under Director 
+Chopra, it's more out of control than ever before. Today, I'm 
+disappointed--but not surprised--to note, yet again, that the CFPB has 
+continued this pattern of overreach.
+    In our constitutional system of checks and balances, only Congress 
+has the power to appropriate money. James Madison called this: ``the 
+most complete and effectual weapon with which any constitution can arm 
+the immediate representatives of the people.''
+    But, the Dodd-Frank Act exempted the CFPB from appropriations. It 
+empowers the CFPB to simply take funds from the Fed, which is itself 
+also not subject to appropriations, thereby doubly insulating the CFPB 
+from any congressional control.
+    I acknowledge there are other financial regulators not on 
+appropriations--and we can disagree about whether they should be. But, 
+it's indisputable that Congress has precisely zero leverage over the 
+CFPB. It's hard for me to imagine our Founders intended an agency to 
+have the power of the legislative branch, and precisely zero 
+accountability to the legislative branch. And, in any case, clearly the 
+CFPB is overreaching and doesn't care.
+    That's why the Fifth Circuit recently found the CFPB's funding 
+structure is unconstitutional. The court noted: ``The Bureau's 
+perpetual insulation from Congress's appropriations power . . . renders 
+the Bureau `no longer dependent and, as a result, no longer 
+accountable' to Congress and, ultimately, to the people.''
+    What can we expect from an agency designed to be unaccountable to 
+Congress, if not overreach and hubris? For example, under Director 
+Chopra, the CFPB unilaterally decided that Dodd-Frank's grant of 
+authority to prevent unfair, deceptive, or abusive acts or practices--
+known as UDAAP--now includes controversial disparate impact liability. 
+It announced this change by fiat, without rulemaking. It ignored not 
+only the text of Dodd-Frank, but also the fact that Congress never 
+contemplated that UDAAP would encompass disparate impact. Congress took 
+the UDAAP language from the FTC Act. For nearly a century, the FTC 
+never interpreted that language to include discrimination or disparate 
+impact. Finally, the CFPB willfully ignored the fact that Congress 
+overturned the CFPB's disparate impact guidance for auto lending in 
+2018.
+    It's extremely implausible to think that an agency that was 
+dependent on Congress for appropriations would engage in activity so 
+clearly contrary to Congress' intent.
+    In addition, the CFPB has publicly targeted businesses for taking 
+lawful actions, like its smear campaign against bank fees for overdraft 
+services. This campaign does nothing for consumers, it just causes 
+banks to shift fees to less transparent means of recouping the costs of 
+providing overdraft services.
+    This week, the CFPB doubled down on its use of name-and-shame 
+tactics with a new proposed rule. It would create a public database of 
+enforcement orders, judgments, and settlements, against nonbank 
+financial institutions, obtained by Federal and State regulators and 
+attorneys general, including under State consumer laws that are not 
+applicable nationwide. While maintaining such a list may well make 
+sense, making it public is different, and would create the false 
+impression that the orders of the most activist States are the 
+nationwide standard.
+    What's more, the proposal would require a senior official of 
+certain nonbanks to attest to the CFPB that they're complying with 
+these orders. This would effectively give the CFPB enforcement power 
+over other agencies' orders for violations of State and Federal laws 
+that the CFPB has no jurisdiction to enforce. There's no limiting 
+principle to stop the CFPB from extending this rule to all financial 
+institutions.
+    These examples are just some of the symptoms of an agency that's 
+out of control and knows Congress can't use the power of the purse to 
+rein in its overreach. That's why I'm introducing legislation--along 
+with Senator Hagerty--to place the CFPB on appropriations. The best way 
+to make the CFPB accountable to Congress is through appropriations.
+    Through its rulemaking, the CFPB can exercise legislative power. 
+What's ambiguous about the first line in Article I of the Constitution: 
+``All Legislative powers herein granted shall be vested in a Congress 
+of the United States''? At the very least, Congress should carry out 
+the responsibility that the Constitution assigns to us, and exercise 
+control over agencies like the CFPB that exercise legislative power.
+    But that's not all this legislation will do. It will also replace 
+the agency's single director with a five-member, bipartisan commission, 
+like the SEC and FDIC. This structure will ensure that the CFPB 
+considers a diversity of voices when it forms policy. And it's not a 
+new idea. Bipartisan legislation to convert the CFPB into a commission 
+has been repeatedly introduced.
+    These accountability measures will help make the agency more 
+responsible, balanced, and measured. And Congress will have to accept 
+some responsibility for what the CFPB does.
+    What's more, if Congress does not put the CFPB on appropriations, 
+the Supreme Court will likely force us to. The Court is expected to 
+consider and uphold the Fifth Circuit's decision that the CFPB's 
+funding structure is unconstitutional. If it does, I have no doubt 
+Congress will act swiftly to provide the CFPB with appropriate funding. 
+After all, Congress is experienced at the appropriations process.
+    But, by acting now, through legislation, Congress can ensure the 
+smoothest possible transition. This is in the best interest not only of 
+the CFPB and Congress, but also consumers and the economy. That's why I 
+call on all of my colleagues, Democrats and Republicans, to join me in 
+supporting this sensible legislation.
+                                 ______
+                                 
+                   PREPARED STATEMENT OF ROHIT CHOPRA
+             Director, Consumer Financial Protection Bureau
+                           December 15, 2022
+    Chairman Brown, Ranking Member Toomey, and distinguished Members of 
+the Committee, I am pleased to present the Consumer Financial 
+Protection Bureau's (CFPB) submission of the Semiannual Report to 
+Congress.
+    Our economy and our consumer finance markets are truly in 
+transition, out of a pandemic and further into the digital era. I will 
+offer some observations about the state of the economy today, as well 
+as what the CFPB is doing to prepare for the future, especially as we 
+confront the challenges of Big Tech in banking. I will also highlight a 
+number of opportunities for bipartisan reforms. \1\
+---------------------------------------------------------------------------
+     \1\ Statement Required by 12 U.S.C. 5492; The views expressed 
+herein are those of the Director and do not necessarily reflect the 
+views of the Board of Governors of the Federal Reserve System or the 
+President.
+---------------------------------------------------------------------------
+The Current State of the Economy and Household Finance
+    The CFPB's market monitoring and supervision of financial 
+institutions provides one lens into the state of the economy. Consumer 
+demand has rebounded as our country transitions out of pandemic 
+conditions. While the labor market remains strong, household debt has 
+increased rapidly. The rise in household payment burdens from auto 
+loans and credit cards has been particularly pronounced, given rising 
+interest rates, the cost of vehicles, and the impact of inflation on 
+other goods and services in the economy.
+    As consumers continue to navigate the economic impacts and ripple 
+effects of the pandemic, their financial patterns have adapted and 
+responded to changing conditions--as have the companies that serve 
+them. For example, the CFPB has observed a notable increase in use of 
+Buy Now, Pay Later products over the past few years. As interest rates 
+on credit cards increase--and correspondingly, outstanding balances--a 
+low- or no-interest Buy Now, Pay Later product that spreads the cost of 
+goods over four payments can be particularly appealing. The CFPB's 
+recent study on Buy Now, Pay Later noted a significant increase in use 
+of these products to fund essential goods and services. The CFPB is 
+working to ensure that Buy Now, Pay Later lenders adhere to the same 
+protocols and protections as other similar financial products to avoid 
+regulatory arbitrage and to ensure a consistent level of consumer 
+protection.
+    Homeowners and home buyers are likewise adjusting to today's 
+economic environment, which is characterized by higher interest rates 
+and softening home prices. With interest rates above 6 percent for 
+fixed-rate mortgages and average monthly mortgage payments on the rise, 
+weekly mortgage applications for purchases are down 40 percent from the 
+same time last year. Adjustable-rate mortgages have increased from less 
+than 5 percent to nearly 10 percent of mortgages in just the last 3 
+years, suggesting that buyers seeking lower interest rates may be 
+increasingly looking for alternatives to fixed rate mortgages.
+    Unsurprisingly, refinancing volumes have declined substantially. 
+Given the importance of the mortgage market to both consumers and the 
+economy, we will continue to assess trends closely, identify risks that 
+require attention by regulators, and keep the public informed of their 
+options. Medical debt continues to be a significant pain point for many 
+Americans. Our analysis of consumer credit reports revealed that 
+approximately 43 million credit reports contained a medical debt 
+collection item. Given the complexities of medical billing in the 
+United States, there are serious questions about the accuracy of 
+medical debt credit reporting. The three major credit reporting 
+companies are voluntarily making changes that will lead to reductions 
+in the number of credit reports with medical debt items. We continue to 
+examine how medical debt burdens are impacting household balance 
+sheets.
+    Given the outlook for the global economy, we are also working 
+across Government to be prepared if the macroeconomic environment 
+deteriorates. We will be closely monitoring any impacts on U.S. 
+consumer finance markets and the effects on household debt and 
+household financial stability.
+Promoting Competition and a Decentralized Market
+    In an open and competitive market, consumers can choose products 
+and services that meet their needs and shift away from providers that 
+treat them poorly. When new companies can challenge incumbents and when 
+consumers can easily switch in a decentralized market structure, we are 
+all better off. That's one of the reasons why Congress charged the CFPB 
+with ensuring that consumer finance markets are competitive.
+    In recent years, Big Tech companies and other digital giants have 
+leveraged their existing platforms to expand their reach into banking 
+and finance. While new entry is typically welcome news, Big Tech's 
+entry raises broader concerns about competition and user choice. The 
+CFPB has been closely studying these firms' expansion into consumer 
+finance markets, particularly with respect to payment platforms, like 
+Apple Pay, Google Pay, PayPal, and Venmo. We also continue to examine 
+the effects of large technology conglomerates entering payments and 
+financial services in other jurisdictions, like in China, where Alipay 
+and WeChat Pay have extraordinary reach.
+    Big Tech firms can tie their payment platforms to their social 
+media offerings or their mobile operating systems. Users may be 
+restricted in how they make contactless payments (like ``tapping'') 
+outside of the proprietary app affiliated with that operating system. 
+Since there are strong network effects from payment systems, other 
+payment apps have a strong incentive to leverage their scale to harvest 
+data for purposes other than moving money from one party to another.
+    We have issued orders to a number of these firms to determine what 
+data they are extracting from transactions and whether they can use 
+that data to preference their other business lines. We are also 
+particularly interested in how these payment platforms implement 
+existing consumer protections, as well as how they make decisions on 
+account approvals, freezes, and terminations.
+    In addition to identifying emerging risks to competition, the CFPB 
+is working to proactively create conditions for small firms and start-
+ups to challenge incumbents. One way to prevent excessive 
+centralization is to accelerate the shift to open banking and open 
+finance. That is why it is a key priority for the CFPB to expand 
+personal financial data rights through a rulemaking under section 1033 
+of the Consumer Financial Protection Act. This long dormant authority, 
+once implemented, can give consumers more control over their personal 
+financial data.
+    In October, the CFPB launched the rulemaking process. The proposals 
+under consideration would require that financial firms provide 
+consumers access to their own financial data on deposit accounts, 
+credit cards, and other transaction accounts. Consumers would then be 
+able to provide permissions to this data safely and securely to other 
+financial firms. We are also exploring how to limit firms from sharing 
+or misusing this sensitive data.
+    I am encouraged by the positive reactions this rulemaking process 
+has elicited from across the consumer finance ecosystem, and I look 
+forward to continuing the rulemaking process over the coming months.
+    We are also focused on promoting competition and new entry in 
+refinance markets, including in mortgage, auto, and credit cards, and 
+we have made it a priority to identify ways to lower barriers to entry 
+and to foster innovation that addresses important market gaps.
+Bipartisan Action Needed by Congress
+    Over the past year, the CFPB has had productive discussions with 
+members from both chambers and on both sides of the aisle. There are a 
+wide range of issues where I expect commonsense reforms can be advanced 
+on a bipartisan basis.
+Protect the Neutrality of the Payments System
+    The transfer of money in commerce is at the core of a market-based 
+economy. Digital technology is driving greater ease for individuals and 
+small businesses to transfer funds in a fast and frictionless way.
+    Facebook's Libra proposal in 2019 was a wake-up call to regulators 
+around the world. While the proposal was largely scrapped, it was an 
+important reminder of the power and potential that tech giants hold, 
+and of the duties of financial regulators to carefully monitor how 
+large tech conglomerates and other platforms enter the payments system 
+and financial services.
+    Analysts estimate that payment apps from large tech firms are the 
+conduit for trillions of dollars in transactions. There is growing 
+concern that a small set of players, including some of the largest tech 
+companies, are gaining a greater foothold in the payments system.
+    The rise in dominance of a small group of payment platforms raises 
+questions about how firms can suppress, suspend, or discriminate 
+against certain participants over others. The CFPB has heard 
+considerable concern about payment apps kicking off users, or even 
+claiming the ability to reach into their accounts and fine users 
+without a clear reference to any legal infraction. For example, the 
+operator of a major payment network recently suggested that it could 
+impose fines on users for their online speech. Policymakers need to 
+determine whether it is appropriate for platforms to shut off a user's 
+account access without suspicion of fraud, money laundering, or other 
+illicit activity.
+    Public commenters also raised concerns that dominant payment 
+players will abuse their positions by substantially increasing fees on 
+small banks, merchants, and consumers.
+    Congress must ensure that payments systems are neutral and 
+nondiscriminatory, by eliminating the incentive for firms to use their 
+control over payments to favor their other interests. This could 
+require, for example, separations between payment utilities and 
+ancillary businesses. In the coming months, the CFPB will be sharing 
+more results from its study with this Committee and others in Congress.
+Strengthen Financial Privacy Protections
+    More than 20 years ago, legislators began raising concerns about 
+the creation of behavioral profiles using our credit and debit card 
+transaction data. \2\ With the rise of e-commerce and tech platforms 
+that monetize user behavior through targeted advertising, these 
+concerns are even more acute. Making digital payments and transferring 
+funds online has become almost obligatory in our modern economy, and as 
+a result, subjecting oneself to digital surveillance has become 
+obligatory too.
+---------------------------------------------------------------------------
+     \2\ See, for example, Freedom from Behavioral Profiling Act of 
+2000, S. 536, 107th Cong. (2001). https://www.congress.gov/bill/107th-
+congress/senate-bill/536?s=1&r=6
+---------------------------------------------------------------------------
+    The CFPB has found that large tech firms are able to ingest 
+extremely detailed data about a user, including sensitive information. 
+Firms we have studied have laid the groundwork, through loose privacy 
+policies and expansive data retention practices, to use this data in 
+ways that challenge traditional notions of privacy and autonomy.
+    The Gramm-Leach-Bliley Act requires that consumers are provided 
+with a notice and a right to opt out of certain data collection and 
+sharing practices. I am concerned that this privacy notice is 
+ineffective. Privacy policies for financial services are often all-or-
+nothing: consumers must choose to accept the company's terms wholesale 
+or decline to use the company's product. Given the importance of many 
+financial services to consumers' daily lives, this can create a false 
+choice between submitting to data harvesting or foregoing access to 
+critical banking services.
+    The financial services landscape has changed significantly in the 
+past two decades, and our approach to privacy must evolve as well. 
+While Congress is broadly looking at privacy protections across sectors 
+of the economy, I hope that financial privacy can be a top 
+consideration for this Committee. Specifically, I hope you can explore 
+meaningful limitations on the collection, use, and sharing of personal 
+financial data. The CFPB will be looking closely at ways to better 
+protect privacy in areas under our jurisdiction, including, for 
+example, the collection and distribution of personal data in credit 
+reporting and the use of data authorized by a consumer under the CFPB's 
+personal financial data rights rulemaking.
+    There are a number of other opportunities for bipartisan 
+legislative efforts, such as reforming the Appraisal Foundation, 
+expanding awards for whistleblowers, and protecting relationship 
+banking. The CFPB is eager to work with this Committee to craft 
+potential solutions on these and many other issues.
+    Thank you again for the opportunity to appear before you. I look 
+forward to responding to your questions.
+        RESPONSES TO WRITTEN QUESTIONS OF SENATOR SINEMA
+                       FROM ROHIT CHOPRA
+
+Q.1. Director Chopra, in the context of pending litigation 
+about the CFPB's structure and funding mechanisms, there has 
+been discussion about the value the CFPB has provided to 
+consumers. In addition to the value provided to consumers, the 
+CFPB has also provided value to the housing market through 
+vital safe harbors and other actions that provide regulatory 
+certainty. Is there anything the Bureau can share about the 
+value its actions, including safe harbors, regulations, and no-
+action letters, have provided to the overall functioning of the 
+housing market?
+
+A.1. I appreciate your support of the Consumer Financial 
+Protection Bureau (CFPB), and I share your view that a well-
+functioning housing market is critical to our Nation's economy. 
+The CFPB plays an important role in ensuring the housing market 
+is fair, transparent, and resilient. For example, according to 
+a recent paper published in The Georgetown Law Journal, the 
+CFPB's ability-to-repay rule enhanced the mortgage market's 
+resilience to financial shocks by reducing consumer defaults 
+even in the event of a future housing bubble. \1\
+---------------------------------------------------------------------------
+     \1\ https://www.law.georgetown.edu/georgetown-law-journal/wp-
+content/uploads/sites/26/2020/03/Why-the-Ability-to-Repay-Rule-Is-
+Vital-to-Financial-Stability.pdf
+---------------------------------------------------------------------------
+    The CFPB has delivered value to the housing market in many 
+ways, and the agency's ongoing work in this space is vital to 
+sustaining a stable, functioning housing market. Some examples 
+include:
+
+    The CFPB provides implementation guidance and 
+        compliance presumptions for lenders, appraisers, loan 
+        originators, and others regarding the statutory 
+        ability-to-repay, loan originator compensation, escrow, 
+        and appraisals requirements contained in the Dodd-Frank 
+        Wall Street Reform and Consumer Protection Act (Dodd-
+        Frank Act). The CFPB's rulemaking in this area provides 
+        presumptions, small entity exclusions, and 
+        clarifications as to what constitutes compliance, which 
+        would not have been available if the Dodd-Frank Act's 
+        statutory provisions had gone into effect in the 
+        absence of CFPB rulemaking. In response to comments 
+        from the secondary mortgage market and others, the CFPB 
+        has taken important action to preserve liquidity in the 
+        secondary market and support ongoing consumer mortgage 
+        lending.
+
+    Since implementation of the CFPB's rulemaking in 
+        this area, mortgage originators and secondary market 
+        participants have repeatedly cautioned that, without 
+        CFPB's regulatory engagement, any reversion to the 
+        Dodd-Frank Act's bare statutory provisions could result 
+        in a dramatic reduction in available mortgage credit 
+        because it would be very difficult for secondary market 
+        participants to gauge their risk exposure to future 
+        litigation by borrowers.
+
+    The CFPB's ongoing implementation of the Home 
+        Mortgage Disclosure Act has substantially reduced 
+        compliance challenges for mortgage lenders. For the 
+        more than 30 years before the CFPB's involvement in 
+        this area, mortgage lenders were required to make 
+        publicly available their mortgage lending data in their 
+        branch offices to the public, as well as to report 
+        their data to the Federal Reserve Board. The CFPB 
+        itself now makes the data publicly available, removing 
+        a major compliance burden from lenders as well as 
+        facilitating public access to this crucial data.
+
+    In implementing the Congressional directive to 
+        combine the Truth in Lending Act (TILA) statutory 
+        disclosure with the Real Estate Settlement Procedures 
+        Act (RESPA) statutory disclosure, the CFPB provides 
+        extensive and ongoing support of and guidance to the 
+        housing market, including implementation guides that 
+        identify disclosures associated with TILA civil 
+        liability. These guides are directly responsive to 
+        secondary market concerns regarding possible imputation 
+        of TILA civil liability on RESPA provisions that lacked 
+        private liability protections.
+
+    The CFPB provides extensive accommodations across 
+        its mortgage rules to recognize the important role of 
+        small lenders, particularly in rural areas. CFPB rules 
+        provide flexibilities for smaller institutions in 
+        balloon lending, periodic payment statements, mandatory 
+        escrow requirements, process requirements for loss 
+        mitigation applications, and expanded presumptions of 
+        compliance with the ability-to-repay requirements.
+
+    I am committed to continuing the CFPB's vital, ongoing work 
+to protect consumers and support a well-functioning housing 
+market.
+                                ------                                
+
+
+       RESPONSES TO WRITTEN QUESTIONS OF SENATOR WARNOCK
+                       FROM ROHIT CHOPRA
+
+Q.1. In its current rulemaking for Dodd-Frank Wall Street 
+Reform and Consumer Protection Act (Pub. L. No. 111-203) 
+Section 1071, how does the Consumer Financial Protection Bureau 
+plan to address how vehicle finance entities and auto dealers 
+will be able to cooperate?
+
+A.1. The rulemaking is ongoing and we are still in the process 
+of evaluating the comments and weighing the evidence. We will 
+be closely considering the unique facets of the auto financing 
+market before finalizing the rule.
+
+Q.2. Auto dealers are not regulated by the Consumer Financial 
+Protection Bureau, but by the Federal Reserve. However, in 
+indirect auto financing, dealers often originate sales and 
+complete transactions. How is the Consumer Financial Protection 
+Bureau working with the Federal Reserve to ensure covered 
+vehicle finance entities are able to comply with data 
+collection compliance?
+
+A.2. You are correct that the Consumer Financial Protection 
+Bureau (CFPB) may not exercise any rulemaking, supervisory, 
+enforcement, or any other authority, including any authority to 
+order assessments, over a motor vehicle dealer that is 
+predominantly engaged in the sale and servicing of motor 
+vehicles, the leasing and servicing of motor vehicles, or both. 
+The rulemaking is ongoing and we are still in the process of 
+evaluating the comments and weighing the evidence. We have been 
+working with the Federal Reserve and we will be closely 
+considering the unique facets of the auto financing market 
+before finalizing the rule.
+
+Q.3. What is the Consumer Financial Protection Bureau doing to 
+protect student borrowers from companies looking to unfairly or 
+deceptively profit off borrower confusion around recently 
+announced Federal student debt cancellation?
+
+A.3. The CFPB is engaging in a multi-agency effort to protect 
+borrowers from student loan scammers, including by maintaining 
+and amplifying resources helping borrowers to recognize red 
+flags, and by sharing information with partner law enforcement 
+agencies. The CFPB is also monitoring the marketing practices 
+of private student lenders that offer refinance products.
+
+Q.4. How has the Consumer Financial Protection Bureau worked 
+with the United States Department of Education to hold Federal 
+student loan servicers accountable to providing timely, 
+accurate information and better service borrowers, particularly 
+in light of recently announced Federal student debt 
+cancellation?
+
+A.4. The CFPB conducts regular supervision of many Federal 
+student loan servicers' compliance with Federal consumer 
+financial law, including whether servicers make deceptive 
+statements to borrowers or commit unfair or abusive acts or 
+practices that inhibit borrowers' access to Federal student 
+loan benefits. As detailed in the recent Supervisory Highlights 
+Student Loan Servicing Special Edition, the CFPB has cited 
+Federal student loan servicers both for providing inaccurate 
+information and outsized delays in processing. \1\ While the 
+CFPB exercises its authorities independently, including its 
+supervisory and enforcement tools, the CFPB consults regularly 
+with the Department of Education (ED) to ensure thorough 
+understanding of ED's programs and identify potential consumer 
+risks. In deploying its supervision and enforcement resources, 
+the CFPB has and will continue prioritizing reviewing servicer 
+interactions with borrowers regarding the availability of 
+student debt cancellation for both accuracy and timeliness.
+---------------------------------------------------------------------------
+     \1\ Sept. 2022 available at https://files.consumerfinance.gov/f/
+documents/cfpb-student-loan-servicing-supervisory-highlights-special-
+edition-report-2022-09.pdf.
+
+Q.5. What can I expect to see from the Consumer Financial 
+Protection Bureau in the coming months to ensure that low-
+income student borrowers and other at-risk groups receive the 
+appropriate, and more importantly, correct information from 
+---------------------------------------------------------------------------
+their Federal loan servicers?
+
+A.5. The CFPB supervises many student loan servicers for 
+compliance with Federal consumer financial law, and has on 
+numerous occasions found unlawful acts or practices that 
+impeded student loan borrowers' access to relief programs and 
+required servicers to engage in remediation. \2\ The CFPB has 
+also taken enforcement action on similar issues. \3\ The 
+existence and nature of ongoing supervisory and enforcement 
+action is confidential. However, the CFPB resolves its 
+enforcement actions through public consent orders and regularly 
+shares key examination findings in Supervisory Highlights.
+---------------------------------------------------------------------------
+     \2\ In addition to the September 2022 Supervisory Highlights, 
+prior supervisory findings were published in 2014 available at https://
+files.consumerfinance.gov/f/201410-cfpb-supervisory-highlights-fall-
+2014.pdf at 17; 2015 available at https://files.consumerfinance.gov/f/
+201510-cfpb-supervisory-highlights.pdf at 23-24; 2017 available at 
+https://files.consumerfinance.gov/f/documents/Supervisory-Highlights-
+Issue-13-Final-10.31.16.pdf at 16-17; and 2021 available at https://
+files.consumerfinance.gov/f/documents/cfpb-supervisory-highlights-
+issue-24-2021-06.pdf at 34-36.
+     \3\ https://www.consumerfinance.gov/about-us/newsroom/cfpb-sues-
+nations-largest-student-loan-company-navient-failing-borrowers-every-
+stage-repayment/; https://www.consumerfinance
+.gov/about-us/newsroom/cfpb-sanctions-edfinancial-for-lying-about-
+student-loan-cancellation/
+---------------------------------------------------------------------------
+                                ------                                
+
+
+        RESPONSES TO WRITTEN QUESTIONS OF SENATOR SCOTT
+                       FROM ROHIT CHOPRA
+
+Q.1. The CFPB's Sec. 1033 proposal indicates that the Bureau 
+want all banks to have certain technical infrastructure--known 
+as APIs (application programming interface)--in place for 
+consumers to access and share their data with financial 
+companies. However, as of today, thousands of small community 
+banks and credit unions have not built this infrastructure.
+    Will the CFPB act to ensure that community bank customers 
+do not lose access to their data if the bank is unable to build 
+an API or data access portal, or if it takes several years to 
+put one in place?
+
+A.1. I appreciate this question, given the growing concerns 
+about how core services providers interact with local financial 
+institutions.
+    The Consumer Financial Protection Bureau (CFPB) is 
+considering whether exemptions from the proposals under 
+consideration would be appropriate for any data providers that 
+would otherwise be covered data providers. However, in 
+determining if exemptions would be appropriate, the CFPB is 
+interested in whether there are ways to design the proposals 
+under consideration to reduce impact on covered data providers. 
+For example, with respect to the third-party access portal 
+proposal under consideration, we are seeking feedback on 
+whether certain covered data providers should not be subject to 
+the third-party access portal requirement on the rule's 
+compliance date and instead should be given additional time to 
+build a compliant third-party access portal. The CFPB seeks to 
+ensure that the proposals under consideration appropriately 
+balance benefits provided to consumers with the burden imposed 
+on covered data providers, including smaller covered data 
+providers, in a manner that is consistent with the statutory 
+purposes of the Dodd-Frank Wall Street Reform and Consumer 
+Protection Act.
+                                ------                                
+
+
+        RESPONSES TO WRITTEN QUESTIONS OF SENATOR MORAN
+                       FROM ROHIT CHOPRA
+
+Q.1. 1033 Rulemaking--In October, the CFPB released its Small 
+Business Regulatory Enforcement Fairness Act outline of 
+proposals under consideration for its rulemaking on personal 
+financial data rights, as Section 1033 of the Dodd-Frank Act 
+requires it to do. The outline applies the requirement to make 
+data available to both consumers and other third parties that 
+the consumer authorizes.
+    I'm concerned about the elevated threat this poses to 
+consumers of sensitive data being compromised. Can you tell me 
+where Section 1033 says that covered entities must make data 
+available to third parties?
+
+A.1. Privacy and security are a top concern for me, 
+particularly given the threats that our country faces from 
+State and non-State actors.
+    Section 1033(a) of the Dodd-Frank Wall Street Reform and 
+Consumer Protection Act (Consumer Financial Protection Act) 
+generally requires data providers to make information available 
+to a ``consumer,'' which includes an agent, trustee, or 
+representative acting on behalf of an individual consumer. See 
+12 U.S.C. 5481(4). The Small Business Regulatory Enforcement 
+Fairness Act (SBREFA) Outline of Proposals released by the 
+Consumer Financial Protection Bureau (CFPB) in October explains 
+that the agency is considering how to ensure that a third party 
+acting for the consumer with respect to data access treats 
+consumer data appropriately.
+
+Q.2. Large data aggregators hold a significant portion of 
+American consumers' financial data. However, the CFPB's outline 
+does not address the Bureau's ability to examine and supervise 
+data aggregators to ensure consumers' information is kept 
+securely.
+    A November report from the Treasury also pointed out that 
+these entities ``are not subject to supervision of the CFPB's 
+information security and general data practices.''
+    How can consumers be assured their personal data is safe if 
+the Bureau does not have authority to supervise these third 
+parties for compliance?
+
+A.2. The United States will not make a successful transition to 
+open banking if consumers cannot be assured that their personal 
+data is safe and secure. Congress assigned certain data 
+protection requirements, such as the Safeguards framework, to 
+other Federal banking agencies and the Federal Trade 
+Commission. We are actively working on ways to address your 
+concern.
+
+Q.3. It is critical that policymakers, industry, and 
+stakeholders understand the ecosystem, then delineate the roles 
+and responsibilities of each party. Better defined, yet 
+flexible, rules would improve the relationships between the 
+parties and outcomes for consumers.
+    As technology changes, it is critical that there is a 
+common, flexible approach that promotes transparent, informed 
+consent, adequate disclosure, sufficient control, and robust 
+security.
+    The major focus should be on how data aggregation can 
+improve financial wellness for consumers (track alternative 
+data to improve credit scores, manage finances, etc.).
+    Regulatory clarity may ease adoption, but not consumer 
+utilization, which can be achieved by balancing thoughtful 
+guidance/regs with market forces and consumer needs and wants.
+    Privacy and data control requirements are a further 
+complicating factor. A State patchwork would only increase 
+impediments.
+    Lessons learned internationally--with a registration 
+process in place in Europe with PSD2, financial institutions 
+have mostly seen it as a compliance issue, thus it has not been 
+widely adopted. Rather than embracing opportunities, financial 
+institutions have done the minimum required to meet 
+obligations. Open Banking regulation via PSD2 lacks any 
+technical framework, therefore, there is fragmentation across 
+markets.
+    Does the Bureau agree that the six tenets/principles above 
+should guide the upcoming 1033 rulemaking process?
+
+A.3. Generally speaking, yes. Of course, the details of this 
+will require significant analysis and stakeholder engagement, 
+which we are currently undertaking.
+
+Q.4. Bureau's Account Level Card Database--The CFPB, for over a 
+decade, has been collecting vast amounts of consumer data on a 
+regular basis from banks that issue credit cards. Monthly, 
+these banks provide detailed information on each credit card 
+customer's account.
+    How does the Bureau use the consumer information it gathers 
+via the account level data collection regime?
+
+A.4. Since 2016, the CFPB has not collected collection loan-
+level credit card data on an ongoing basis. From 2012 through 
+2016, the CFPB collected account-level data maintained by nine 
+credit card issuers. The CFPB also obtained account-level data 
+from the OCC. The CFPB never received data containing any 
+direct personal identifiers nor captured data about individual 
+purchases. \1\
+---------------------------------------------------------------------------
+     \1\ https://files.consumerfinance.gov/f/documents/bcfp-sources-
+uses-of-data.pdf
+---------------------------------------------------------------------------
+    The Board of Governors of the Federal Reserve System 
+(Federal Reserve Board) collects data through Reporting Form FR 
+``Y-14M'' from bank holding companies that have total 
+consolidated assets exceeding $50 billion. \2\ These ``Y-14'' 
+data are used to support the Federal Reserve Board's 
+supervisory stress test models. The CFPB is one of several 
+Government agencies with whom the Federal Reserve Board shares 
+Y-14 data.
+---------------------------------------------------------------------------
+     \2\ See Bd. of Governors. of the Fed. Reserve Sys., Report Forms 
+FR Y-14M, https://www.federalreserve.gov/apps/reportforms/
+reportdetail.aspx?sOoYJ+5BzDYnbIw+
+U9pka3sMtCMopzoV (for more information on the Y-14M collection).
+---------------------------------------------------------------------------
+    The CFPB has used credit card loan-level data for market 
+monitoring, including the preparation of a biennial report to 
+Congress on the credit card market and to inform decisions 
+about priorities for supervisory examinations. It has also used 
+the data for a number of working papers prepared by CFPB 
+researchers, as well as for research that has informed 
+rulemakings.
+
+Q.5. Why does the Bureau need detailed account-level 
+information, as opposed to using sampling data? (For example, 
+the Food and Drug Administration and the Department of 
+Agriculture protect drug and food safety without examining 
+every pill or pound of beef).
+
+A.5. The CFPB uses a 40 percent sample of de-identified 
+account-level Y-14 data obtained from the Federal Reserve 
+Board.
+
+Q.6. What would be the impact on this program if data 
+submissions were made periodically, rather than monthly?
+
+A.6. The frequency of submissions in the Y-14 data collection 
+is determined by the Federal Reserve Board to support the 
+Federal Reserve Board's supervisory stress test models. The 
+monthly data collection improves the CFPB's ability to perform 
+its risk-monitoring function by providing more timely data.
+
+Q.7. What CFPB rulemaking or enforcement activities have been 
+based exclusively or principally on data from the account-level 
+credit card database?
+
+A.7. The account-level database has been a data source for CFPB 
+activities including market monitoring, research, and 
+rulemaking. For example, a study conducted by CFPB economists 
+in connection with the Debt Collection Practices rule used 
+account-level data to analyze the impact of State data 
+collection laws on access to credit, thereby helping to assess 
+the impact of the CFPB's own debt collection rules.
+
+Q.8. Why is this aggregate data used rather than information 
+obtained through the examination process, information requests, 
+or compulsory process requests?
+
+A.8. The Y-14 data are already provided to the Federal Reserve 
+Board. The CFPB uses these data, rather than developing its own 
+duplicative collection processes, for efficiency purposes. 
+Using Y-14 data reduces costs to industry and to the CFPB. On 
+occasion, the CFPB also uses information requests to supplement 
+the Y-14 data that it receives from the Federal Reserve Board.
+
+Q.9. How does the Bureau protect the security and privacy of 
+the consumer information in this database, for example, when it 
+has provided access to the database to outside academic 
+researchers in the U.S. and abroad?
+
+A.9. Privacy and security are top of mind for us. The CFPB 
+protects this account-level information by secure access 
+control procedures maintained in accordance with the CFPB's 
+data policies. These procedures apply regardless of whether the 
+user is a CFPB employee or an academic researcher working at 
+the CFPB pursuant to an Intergovernmental Personnel Act (IPA) 
+agreement. The CFPB does not have any IPA agreement with any 
+researcher outside the United States.
+
+Q.10. UDAAP--The incorporation of discrimination into the 
+unfairness doctrine suggests that the Bureau is attempting to 
+broaden Federal regulatory prohibitions on discrimination. The 
+examination manual does not have the same status of a 
+regulation, but may be considered supervisory guidance. Under 
+the CFPB's statement on supervisory guidance, it does not have 
+the force and effect of law, and the Bureau does not take 
+enforcement action based on supervisory guidance. As a result, 
+the Bureau is seemingly attempting to broaden Federal 
+regulatory prohibitions on discrimination with respect to 
+consumer financial products and services beyond those already 
+in place for lending/real estate secured. How can institutions 
+be expected to build a framework to demonstrate absence of 
+discrimination in products/services unrelated to lending when 
+they do not ask required information as they do for lending 
+products?
+
+A.10. I appreciate your concern about this issue, and I share 
+your commitment to ensuring fair enforcement of the law. It is 
+important to underscore that the CFPB is not attempting to 
+enforce a prohibition that does not already exist in Federal 
+law.
+    The Consumer Financial Protection Act's (CFPA) prohibition 
+on unfair acts and practices applies equally to all consumer 
+harm that meets the statutory prongs--there is no exception in 
+law for discriminatory conduct. For many years, companies have 
+used a variety of methods to ensure that they comply with 
+Federal and State prohibitions on unfair acts or practices. One 
+of the most important ways of doing this is to assess consumer 
+complaints and feedback, as well as insights from employees and 
+managers. There is also an array of qualitative and 
+quantitative data that firms use to track their own business 
+performance, and these data may also help them spot systemic 
+problems. The CFPB is not seeking to impose new obligations on 
+supervised entities. We expect that most, if not all, 
+supervised entities have long had systems in place designed to 
+aid in compliance with the prohibitions set forth by Congress 
+in the CFPA.
+
+Q.11. Artificial Intelligence/Machine Learning--Some observers 
+have expressed concerns and raised questions about risks of 
+Artificial Intelligence and Machine Learning technologies 
+resulting in unpredictable behavior or reinforcing biases. 
+However, AI/ML technologies, correctly applied, can be used to 
+reduce bias. This occurs when AI/ML is responsibly deployed by 
+regulated financial services companies and implemented with 
+strong controls/testing, rigorous risk management and 
+meaningful objectives:
+    The potential risks associated with using AI are not unique 
+to AI, but inherent to an effective model risk management 
+framework. Banks already account for these risks and are 
+examined and supervised in a manner that ensure banks are 
+addressing these risks.
+    Heavily regulated and supervised banks adhere to legal and 
+compliance measures, including ECOA and Model Risk Management 
+(SR 11-7), and all financial services providers should have a 
+similar oversight structure in place. Doing so could help 
+preserve and advance the significant benefits that these 
+technologies can provide to consumers, such as greater access 
+to safe and responsible credit, better pricing, and reduction 
+of service costs.
+    The current lack of consistency in the way financial 
+services providers define terms related to AI/ML reduces 
+transparency for consumers and regulators. One potential 
+solution is SR 11-7, which serves as a foundational governing 
+standard for financial services companies, and can serve as a 
+blueprint for legislative proposals.
+    Do you agree, that the shared goals of consistent consumer 
+protections and outcomes, reduced risks and errors, and 
+improved fraud prevention and AML/BSA reporting can be 
+supported by public policies that promote flexibility and 
+innovation?
+
+A.11. In general, yes. Historically, many financial regulations 
+have been complicated and prescriptive, rather than outcome-
+focused. At the CFPB, we are attempting to shift away from this 
+approach and toward simplicity and bright lines.
+
+Q.12. That providing clarity on the appropriate levels of 
+transparency, explainability, and accountability in lending 
+decisions can address potential negative consumer impacts such 
+as model bias, discrimination, and inconsistent explanations?
+
+A.12. In general, yes. The CFPB has endeavored to clearly 
+communicate how existing law applies to emerging technologies. 
+For example, we have issued guidance that helps firms ensure 
+they are staying on the right side of the law.
+
+Q.13. That public policies which incentivize transparency and 
+mitigate bias through consistent rules and usage risk standards 
+can carefully balance filling regulatory gaps without creating 
+impediments to the ability to meet consumers expectations and 
+needs?
+
+A.13. In general, yes.
+
+Q.14. Remittance Fees--We may not always see eye-to-eye on what 
+you classify as a ``junk fee'', but one hidden fee that we may 
+agree on is the marked-up exchange rates for international 
+remittance transactions. I'm particularly concerned by how 
+these fees impact our men and women in uniform serving abroad. 
+I am not in favor of setting rates, but I do believe in 
+disclosing rates.
+    What has the CFPB done on this type of price transparency 
+to help our troops around the world better understand the 
+exchange rates they are paying when digitally transferring 
+money to pay for housing and durable goods?
+
+A.14. I share your concern about the impacts of fees and lack 
+of transparency on military families, especially those serving 
+abroad.
+    The CFPB wants a remittance market that offers fast, fair, 
+competitive, and transparent transactions for all consumers, 
+including servicemembers. To facilitate price transparency for 
+servicemembers, as well as other consumers that send remittance 
+transfers, the Remittance Rule generally requires all 
+remittance transfer providers to disclose the exchange rate and 
+fees that apply to a transaction and provides remittance 
+transfer providers with model disclosures that they could use. 
+The model disclosures were tested with consumers to help ensure 
+and facilitate consumer understanding of the key components of 
+a remittance transfer, including, as applicable, the exchange 
+rate that applies to a transfer.
+    The CFPB has also taken actions to ensure remittance 
+providers are compliant with the law. Most recently, the CFPB 
+took enforcement actions against Servicio UniTeller \3\ in 
+December 2022 and Choice Money Transfer \4\ in October 2022, 
+both of which allegedly violated Regulation E. Moreover, in 
+April 2022, the CFPB brought a joint enforcement action with 
+the Attorney General of New York against one of the largest 
+remittance providers, known as MoneyGram. \5\ MoneyGram is a 
+repeat offender, however, having been previously sanctioned by 
+the Federal Trade Commission in 2009 and 2018. The CFPB has 
+also taken similar enforcement action against Trans-Fast 
+Remittance, LLC, \6\ in August 2020, and Envios de Valores La 
+Nacional \7\ in December 2020.
+---------------------------------------------------------------------------
+     \3\ https://www.consumerfinance.gov/about-us/newsroom/cfpb-orders-
+servicio-uniteller-to-refund-fees-and-pay-penalty-for-failing-to-
+follow-remittance-rules/
+     \4\ https://www.consumerfinance.gov/enforcement/actions/choice-
+money-transfer/
+     \5\ https://www.consumerfinance.gov/about-us/newsroom/cfpb-and-ny-
+attorney-general-sue-repeat-offender-moneygram-for-leaving-families-
+high-and-dry/
+     \6\ https://www.consumerfinance.gov/enforcement/actions/trans-
+fast-remittance-llc/
+     \7\ https://www.consumerfinance.gov/enforcement/actions/envios-de-
+valores-la-nacional-corp/
+
+Q.15. Has the CFPB proactively worked with the Department of 
+---------------------------------------------------------------------------
+Defense on this issue? If not, why not?
+
+A.15. Yes. The CFPB regularly meets with representatives from 
+the Department of Defense (DoD) to discuss all issues involving 
+consumer protection policy, outreach, and educational 
+initiatives for servicemembers (including remittance 
+transfers). CFPB's Office of Servicemember Affairs (OSA) 
+routinely coordinates with DoD's Office of Financial Readiness 
+on consumer financial protection issues. OSA and the Office of 
+Enforcement also convene quarterly meetings with the Service 
+Chiefs of the Offices of the Judge Advocates General, the DOJ's 
+Office of Civil Rights, and Consumer Protection Branch, legal 
+assistance attorneys at military installations, and professors 
+from each of the three military JAG schools.
+    The CFPB works closely on policy with the DoD for 
+compliance and transparency. As part of its rulemaking to amend 
+the Remittance Rule in 2020, CFPB staff met with DoD staff in 
+light of public comments received from industry. We were able 
+to ensure that the CFPB's Remittance Rule did not adversely 
+affect servicemembers given the DoD's requirement that on-base 
+credit unions offer remittances at an exchange rate ``no more 
+favorable'' than the base's Military Banking Facility.
+                                ------                                
+
+
+        RESPONSES TO WRITTEN QUESTIONS OF SENATOR DAINES
+                       FROM ROHIT CHOPRA
+
+Q.1. During your testimony before the Senate Banking Committee 
+on December 15, 2022, you stated in response to my question 
+about the March 2022 amendment to the CFPB's examination manual 
+that ``This is not disparate impact. Senator Toomey has claimed 
+this many times. And it's just not true.''
+    The facts do not support this claim. In the press release 
+announcing the update, the CFPB stated that ``consumers can be 
+harmed by discrimination of whether it is intentional'' and 
+that CFPB examiners now consider ``discriminatory outcomes.''
+    What is your definition of disparate impact?
+
+A.1. I appreciate this question. I use the legal definition of 
+``disparate impact.'' Disparate impact is a longstanding legal 
+doctrine under various civil rights laws recognized by Federal 
+courts and used by regulators, agencies, and others for nearly 
+five decades. It is used to prove illegal discrimination under 
+numerous laws, including the Fair Housing Act, Title VII of the 
+Civil Rights Act of 1964, and the Equal Credit Opportunity Act, 
+particularly when a policy purports to be neutral regarding the 
+characteristics protected by those laws.
+    Disparate impact is a wholly separate legal doctrine from 
+unfair acts or practices under the Dodd-Frank Wall Street 
+Reform and Consumer Protection Act (Consumer Financial 
+Protection Act), which are assessed based on the prongs of the 
+statutory unfairness standard.
+
+Q.2. Will the CFPB examine for discriminatory outcomes 
+regardless of intention under UDAAP? If so, how does that 
+differ from disparate-impact liability in your view?
+
+A.2. Consistent with the Consumer Financial Protection Act's 
+unfair, deceptive, or abusive acts and practices (UDAAP) 
+prohibition, Consumer Financial Protection Bureau (CFPB) 
+examiners will continue to look for any practices that cause or 
+risk causing substantial injury to consumers. As noted above, 
+disparate impact is a wholly separate legal doctrine; the CFPB 
+will rely on the statutory standards set out by Congress in the 
+Consumer Financial Protection Act, 12 U.S.C. 5531, when 
+assessing whether practices are unfair to consumers.
+
+Q.3. Director Chopra, as you referenced in your Semiannual 
+report your agency has been working for quite some time now to 
+issue a rule requiring financial institutions to allow 
+consumers to access their financial data and if they wish, 
+authorize it to be shared with others. A consumer's ability to 
+access and share their data with whomever they wish seems to be 
+a fundamental right and would foster competition within the 
+financial services industry.
+    What progress have you made towards issuing this rule and 
+when can we expect it to be issued?
+
+A.3. I completely agree with your sentiment and appreciate the 
+need to complete this long overdue rulemaking.
+    In October 2022, the CFPB outlined options to strengthen 
+consumers' access to, and control over, their financial data as 
+a first step before issuing a proposed data rights rule that 
+would implement section 1033 of the Consumer Financial 
+Protection Act. The document released is an outline of 
+proposals and alternatives under consideration for the CFPB's 
+data rights rulemaking. The rulemaking process will include 
+panel convenings to seek feedback from small entities on the 
+proposals under consideration. Later, the panel will prepare a 
+report on the input received from the small entities, and the 
+CFPB will consider the input as it develops a proposed rule. 
+The CFPB will then publish a Notice of Proposed Rulemaking 
+(NPRM), solicit and consider comments on the NPRM, and issue a 
+final rule by 2024.
+
+Q.4. Director Chopra, your efforts to issue a rule under Dodd-
+Frank 1033 will allow consumers to access and share their 
+financial data. This could have a tremendous impact on 
+consumers' ability to fully understand their total financial 
+health, including what assets they have, what debt they're 
+responsible for, and their sources of income and expenses. 
+Small businesses in the U.S. have a similar need that has been 
+intensified by current economic circumstances.
+    Should small business owners, especially sole 
+proprietorships, have similar access to their financial 
+information?
+
+A.4. Small businesses, especially sole proprietorships, also 
+face similar needs as households when it comes to navigating 
+the financial marketplace. The CFPB believes that the 
+competition benefits of data rights for small businesses are 
+likely significant. The CFPB's Proposals Under Consideration 
+would implement section 1033(a) of the Consumer Financial 
+Protection Act. Section 1033(a) applies to information 
+concerning ``the consumer financial product or service that the 
+consumer obtained from [ ] a covered person.'' The Consumer 
+Financial Protection Act defines ``consumer'' as ``an 
+individual, or an agent, trustee, or representative acting on 
+behalf of an individual.''
+
+Q.5. What can the agency do to help small business owners gain 
+access to their financial information?
+
+A.5. The pandemic was a stark reminder about the need to do 
+more to support small business owners. The CFPB has multiple 
+workstreams to increase transparency with regard to financial 
+information. Consistent with its authority under section 1071 
+of the Consumer Financial Protection Act, the CFPB is 
+undergoing a rulemaking that would require financial 
+institutions to collect and report to the CFPB data on 
+applications for credit for small businesses, including those 
+that are owned by women or minorities. The CFPB has also 
+initiated the Small Business Regulatory Enforcement Fairness 
+Act (SBREFA) process to consider proposals under section 
+1033(a) of the Consumer Financial Protection Act. We note that 
+section 1033(a) requires that information be made available 
+``to a consumer'' concerning ``the consumer financial product 
+or service that the consumer obtained from [ . . . ] a covered 
+person.''
+
+Q.6. In October, your agency announced its Small Business 
+Advisory Review Panel for Required Rulemaking on Personal 
+Financial Data Rights. As part of that effort, your agency 
+shared an outline of proposals regarding what a future Dodd-
+Frank 1033 rule may look like. The proposal recommended that 
+the rule require financial institutions to only allow consumers 
+to access and share their bank account and credit card data.
+    In November, the Federal Reserve Bank of New York's Center 
+for Microeconomic Data issued its Quarterly Report on Household 
+Debt and Credit. The Report showed household debt increasing by 
+$351 billion (2.2 percent) to $16.51 trillion. Mortgage 
+balances rose by $282 billion and auto loan balances increased 
+by $22 billion in the third quarter. In total, nonhousing 
+balances grew by $66 billion.
+    It seems that consumer access to debt information would be 
+very important to helping consumers manage or reduce their debt 
+and help foster greater competition within these industries.
+    If the CFPB's 1033 rule initially focuses on only savings 
+and credit card data, how will the agency look to expand the 
+types of financial information that consumers can access and 
+share in the future?
+
+A.6. The CFPB intends to evaluate how to proceed with regard to 
+other data providers in the future. This coverage enables use 
+cases such as transaction underwriting, payment services, 
+comparison shopping for financial products and services that 
+best fit the consumer's deposit and transaction patterns, 
+overdraft and other fee avoidance, and personal financial 
+management. Specifically, these use cases rely on data from 
+consumers' asset and credit card accounts, and this coverage 
+would ensure that consumers are able to provide access to data 
+from these accounts to third parties that provide these 
+products and services. This coverage also addresses some of the 
+most significant areas of potential consumer risk, given the 
+significant potential for abuse of consumers' payment data in 
+particular. At the same time, from the perspective of 
+feasibility of industry implementation, this coverage would 
+leverage, to the greatest extent presently possible, existing 
+industry infrastructure for consumer-authorized financial data 
+sharing.
+    In addition, the Outline of Proposals specifically asks 
+stakeholders for their feedback on whether the CFPB should 
+consider alternative approaches to product coverage in the 
+initial rule. The CFPB is accepting comments from the public on 
+that Outline of Proposals and will carefully consider all 
+feedback received.
+              Additional Material Supplied for the Record
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+

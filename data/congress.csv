@@ -1,0 +1,540 @@
+,last_name,full_name,type,state,district
+0,Brown,Sherrod Brown,sen,OH,
+1,Cantwell,Maria Cantwell,sen,WA,
+2,Cardin,Benjamin L. Cardin,sen,MD,
+3,Carper,Thomas R. Carper,sen,DE,
+4,Casey,"Robert P. Casey, Jr.",sen,PA,
+5,Klobuchar,Amy Klobuchar,sen,MN,
+6,Menendez,Robert Menendez,sen,NJ,
+7,Sanders,Bernard Sanders,sen,VT,
+8,Stabenow,Debbie Stabenow,sen,MI,
+9,Tester,Jon Tester,sen,MT,
+10,Whitehouse,Sheldon Whitehouse,sen,RI,
+11,Barrasso,John Barrasso,sen,WY,
+12,Wicker,Roger F. Wicker,sen,MS,
+13,Collins,Susan M. Collins,sen,ME,
+14,Cornyn,John Cornyn,sen,TX,
+15,Durbin,Richard J. Durbin,sen,IL,
+16,Graham,Lindsey Graham,sen,SC,
+17,McConnell,Mitch McConnell,sen,KY,
+18,Merkley,Jeff Merkley,sen,OR,
+19,Reed,Jack Reed,sen,RI,
+20,Risch,James E. Risch,sen,ID,
+21,Shaheen,Jeanne Shaheen,sen,NH,
+22,Warner,Mark R. Warner,sen,VA,
+23,Gillibrand,Kirsten E. Gillibrand,sen,NY,
+24,Coons,Christopher A. Coons,sen,DE,
+25,Manchin,"Joe Manchin, III",sen,WV,
+26,Aderholt,Robert B. Aderholt,rep,AL,4.0
+27,Baldwin,Tammy Baldwin,sen,WI,
+28,Bennet,Michael F. Bennet,sen,CO,
+29,Bilirakis,Gus M. Bilirakis,rep,FL,12.0
+30,Bishop,"Sanford D. Bishop, Jr.",rep,GA,2.0
+31,Blackburn,Marsha Blackburn,sen,TN,
+32,Blumenauer,Earl Blumenauer,rep,OR,3.0
+33,Blumenthal,Richard Blumenthal,sen,CT,
+34,Boozman,John Boozman,sen,AR,
+35,Buchanan,Vern Buchanan,rep,FL,16.0
+36,Bucshon,Larry Bucshon,rep,IN,8.0
+37,Burgess,Michael C. Burgess,rep,TX,26.0
+38,Calvert,Ken Calvert,rep,CA,41.0
+39,Capito,Shelley Moore Capito,sen,WV,
+40,Carson,André Carson,rep,IN,7.0
+41,Carter,John R. Carter,rep,TX,31.0
+42,Cassidy,Bill Cassidy,sen,LA,
+43,Castor,Kathy Castor,rep,FL,14.0
+44,Chu,Judy Chu,rep,CA,28.0
+45,Clarke,Yvette D. Clarke,rep,NY,9.0
+46,Cleaver,Emanuel Cleaver,rep,MO,5.0
+47,Clyburn,James E. Clyburn,rep,SC,6.0
+48,Cohen,Steve Cohen,rep,TN,9.0
+49,Cole,Tom Cole,rep,OK,4.0
+50,Connolly,Gerald E. Connolly,rep,VA,11.0
+51,Costa,Jim Costa,rep,CA,21.0
+52,Courtney,Joe Courtney,rep,CT,2.0
+53,Crapo,Mike Crapo,sen,ID,
+54,Crawford,"Eric A. ""Rick"" Crawford",rep,AR,1.0
+55,Cuellar,Henry Cuellar,rep,TX,28.0
+56,Davis,Danny K. Davis,rep,IL,7.0
+57,DeGette,Diana DeGette,rep,CO,1.0
+58,DeLauro,Rosa L. DeLauro,rep,CT,3.0
+59,DesJarlais,Scott DesJarlais,rep,TN,4.0
+60,Diaz-Balart,Mario Diaz-Balart,rep,FL,26.0
+61,Doggett,Lloyd Doggett,rep,TX,37.0
+62,Duncan,Jeff Duncan,rep,SC,3.0
+63,Eshoo,Anna G. Eshoo,rep,CA,16.0
+64,Fleischmann,"Charles J. ""Chuck"" Fleischmann",rep,TN,3.0
+65,Foxx,Virginia Foxx,rep,NC,5.0
+66,Garamendi,John Garamendi,rep,CA,8.0
+67,Gosar,Paul A. Gosar,rep,AZ,9.0
+68,Granger,Kay Granger,rep,TX,12.0
+69,Grassley,Chuck Grassley,sen,IA,
+70,Graves,Sam Graves,rep,MO,6.0
+71,Green,Al Green,rep,TX,9.0
+72,Griffith,H. Morgan Griffith,rep,VA,9.0
+73,Grijalva,Raúl M. Grijalva,rep,AZ,7.0
+74,Guthrie,Brett Guthrie,rep,KY,2.0
+75,Harris,Andy Harris,rep,MD,1.0
+76,Heinrich,Martin Heinrich,sen,NM,
+77,Higgins,Brian Higgins,rep,NY,26.0
+78,Himes,James A. Himes,rep,CT,4.0
+79,Hirono,Mazie K. Hirono,sen,HI,
+80,Hoeven,John Hoeven,sen,ND,
+81,Hoyer,Steny H. Hoyer,rep,MD,5.0
+82,Huizenga,Bill Huizenga,rep,MI,4.0
+83,Jackson Lee,Sheila Jackson Lee,rep,TX,18.0
+84,Johnson,Bill Johnson,rep,OH,6.0
+85,Johnson,"Henry C. ""Hank"" Johnson, Jr.",rep,GA,4.0
+86,Johnson,Ron Johnson,sen,WI,
+87,Jordan,Jim Jordan,rep,OH,4.0
+88,Kaptur,Marcy Kaptur,rep,OH,9.0
+89,Keating,William R. Keating,rep,MA,9.0
+90,Kelly,Mike Kelly,rep,PA,16.0
+91,Lamborn,Doug Lamborn,rep,CO,5.0
+92,Lankford,James Lankford,sen,OK,
+93,Larsen,Rick Larsen,rep,WA,2.0
+94,Larson,John B. Larson,rep,CT,1.0
+95,Latta,Robert E. Latta,rep,OH,5.0
+96,Lee,Barbara Lee,rep,CA,12.0
+97,Lee,Mike Lee,sen,UT,
+98,Lofgren,Zoe Lofgren,rep,CA,18.0
+99,Lucas,Frank D. Lucas,rep,OK,3.0
+100,Luetkemeyer,Blaine Luetkemeyer,rep,MO,3.0
+101,Luján,Ben Ray Luján,sen,NM,
+102,Lynch,Stephen F. Lynch,rep,MA,8.0
+103,Markey,Edward J. Markey,sen,MA,
+104,Matsui,Doris O. Matsui,rep,CA,7.0
+105,McCarthy,Kevin McCarthy,rep,CA,20.0
+106,McCaul,Michael T. McCaul,rep,TX,10.0
+107,McClintock,Tom McClintock,rep,CA,5.0
+108,McCollum,Betty McCollum,rep,MN,4.0
+109,McGovern,James P. McGovern,rep,MA,2.0
+110,McHenry,Patrick T. McHenry,rep,NC,10.0
+111,McMorris Rodgers,Cathy McMorris Rodgers,rep,WA,5.0
+112,Meeks,Gregory W. Meeks,rep,NY,5.0
+113,Moore,Gwen Moore,rep,WI,4.0
+114,Moran,Jerry Moran,sen,KS,
+115,Murkowski,Lisa Murkowski,sen,AK,
+116,Murphy,Christopher Murphy,sen,CT,
+117,Murray,Patty Murray,sen,WA,
+118,Nadler,Jerrold Nadler,rep,NY,12.0
+119,Napolitano,Grace F. Napolitano,rep,CA,31.0
+120,Neal,Richard E. Neal,rep,MA,1.0
+121,Norton,Eleanor Holmes Norton,rep,DC,0.0
+122,Pallone,"Frank Pallone, Jr.",rep,NJ,6.0
+123,Pascrell,"Bill Pascrell, Jr.",rep,NJ,9.0
+124,Paul,Rand Paul,sen,KY,
+125,Pelosi,Nancy Pelosi,rep,CA,11.0
+126,Peters,Gary C. Peters,sen,MI,
+127,Pingree,Chellie Pingree,rep,ME,1.0
+128,Posey,Bill Posey,rep,FL,8.0
+129,Quigley,Mike Quigley,rep,IL,5.0
+130,Rogers,Harold Rogers,rep,KY,5.0
+131,Rogers,Mike Rogers,rep,AL,3.0
+132,Rubio,Marco Rubio,sen,FL,
+133,Ruppersberger,C. A. Dutch Ruppersberger,rep,MD,2.0
+134,Sablan,Gregorio Kilili Camacho Sablan,rep,MP,0.0
+135,Sarbanes,John P. Sarbanes,rep,MD,3.0
+136,Scalise,Steve Scalise,rep,LA,1.0
+137,Schakowsky,Janice D. Schakowsky,rep,IL,9.0
+138,Schiff,Adam B. Schiff,rep,CA,30.0
+139,Schumer,Charles E. Schumer,sen,NY,
+140,Schweikert,David Schweikert,rep,AZ,1.0
+141,Scott,Austin Scott,rep,GA,8.0
+142,Scott,David Scott,rep,GA,13.0
+143,Scott,"Robert C. ""Bobby"" Scott",rep,VA,3.0
+144,Scott,Tim Scott,sen,SC,
+145,Sewell,Terri A. Sewell,rep,AL,7.0
+146,Sherman,Brad Sherman,rep,CA,32.0
+147,Simpson,Michael K. Simpson,rep,ID,2.0
+148,Smith,Adam Smith,rep,WA,9.0
+149,Smith,Adrian Smith,rep,NE,3.0
+150,Smith,Christopher H. Smith,rep,NJ,4.0
+151,Sánchez,Linda T. Sánchez,rep,CA,38.0
+152,Thompson,Bennie G. Thompson,rep,MS,2.0
+153,Thompson,Mike Thompson,rep,CA,4.0
+154,Thompson,Glenn Thompson,rep,PA,15.0
+155,Thune,John Thune,sen,SD,
+156,Tonko,Paul Tonko,rep,NY,20.0
+157,Turner,Michael R. Turner,rep,OH,10.0
+158,Van Hollen,Chris Van Hollen,sen,MD,
+159,Velázquez,Nydia M. Velázquez,rep,NY,7.0
+160,Walberg,Tim Walberg,rep,MI,5.0
+161,Wasserman Schultz,Debbie Wasserman Schultz,rep,FL,25.0
+162,Waters,Maxine Waters,rep,CA,43.0
+163,Webster,Daniel Webster,rep,FL,11.0
+164,Welch,Peter Welch,sen,VT,
+165,Wilson,Joe Wilson,rep,SC,2.0
+166,Wilson,Frederica S. Wilson,rep,FL,24.0
+167,Wittman,Robert J. Wittman,rep,VA,1.0
+168,Womack,Steve Womack,rep,AR,3.0
+169,Wyden,Ron Wyden,sen,OR,
+170,Young,Todd Young,sen,IN,
+171,Amodei,Mark E. Amodei,rep,NV,2.0
+172,Bonamici,Suzanne Bonamici,rep,OR,1.0
+173,DelBene,Suzan K. DelBene,rep,WA,1.0
+174,Massie,Thomas Massie,rep,KY,4.0
+175,Payne,"Donald M. Payne, Jr.",rep,NJ,10.0
+176,Schatz,Brian Schatz,sen,HI,
+177,Foster,Bill Foster,rep,IL,11.0
+178,Titus,Dina Titus,rep,NV,1.0
+179,Cotton,Tom Cotton,sen,AR,
+180,Sinema,Kyrsten Sinema,sen,AZ,
+181,LaMalfa,Doug LaMalfa,rep,CA,1.0
+182,Huffman,Jared Huffman,rep,CA,2.0
+183,Bera,Ami Bera,rep,CA,6.0
+184,Swalwell,Eric Swalwell,rep,CA,14.0
+185,Brownley,Julia Brownley,rep,CA,26.0
+186,Cárdenas,Tony Cárdenas,rep,CA,29.0
+187,Ruiz,Raul Ruiz,rep,CA,25.0
+188,Takano,Mark Takano,rep,CA,39.0
+189,Vargas,Juan Vargas,rep,CA,52.0
+190,Peters,Scott H. Peters,rep,CA,50.0
+191,Frankel,Lois Frankel,rep,FL,22.0
+192,Duckworth,Tammy Duckworth,sen,IL,
+193,Barr,Andy Barr,rep,KY,6.0
+194,Warren,Elizabeth Warren,sen,MA,
+195,King,"Angus S. King, Jr.",sen,ME,
+196,Kildee,Daniel T. Kildee,rep,MI,8.0
+197,Wagner,Ann Wagner,rep,MO,2.0
+198,Daines,Steve Daines,sen,MT,
+199,Hudson,Richard Hudson,rep,NC,9.0
+200,Cramer,Kevin Cramer,sen,ND,
+201,Fischer,Deb Fischer,sen,NE,
+202,Kuster,Ann M. Kuster,rep,NH,2.0
+203,Meng,Grace Meng,rep,NY,6.0
+204,Jeffries,Hakeem S. Jeffries,rep,NY,8.0
+205,Wenstrup,Brad R. Wenstrup,rep,OH,2.0
+206,Beatty,Joyce Beatty,rep,OH,3.0
+207,Joyce,David P. Joyce,rep,OH,14.0
+208,Mullin,Markwayne Mullin,sen,OK,
+209,Perry,Scott Perry,rep,PA,10.0
+210,Cartwright,Matt Cartwright,rep,PA,8.0
+211,Cruz,Ted Cruz,sen,TX,
+212,Weber,"Randy K. Weber, Sr.",rep,TX,14.0
+213,Castro,Joaquin Castro,rep,TX,20.0
+214,Williams,Roger Williams,rep,TX,25.0
+215,Veasey,Marc A. Veasey,rep,TX,33.0
+216,Kaine,Tim Kaine,sen,VA,
+217,Kilmer,Derek Kilmer,rep,WA,6.0
+218,Pocan,Mark Pocan,rep,WI,2.0
+219,Kelly,Robin L. Kelly,rep,IL,2.0
+220,Smith,Jason Smith,rep,MO,8.0
+221,Booker,Cory A. Booker,sen,NJ,
+222,Clark,Katherine M. Clark,rep,MA,5.0
+223,Norcross,Donald Norcross,rep,NJ,1.0
+224,Adams,Alma S. Adams,rep,NC,12.0
+225,Palmer,Gary J. Palmer,rep,AL,6.0
+226,Hill,J. French Hill,rep,AR,2.0
+227,Westerman,Bruce Westerman,rep,AR,4.0
+228,Gallego,Ruben Gallego,rep,AZ,3.0
+229,DeSaulnier,Mark DeSaulnier,rep,CA,10.0
+230,Aguilar,Pete Aguilar,rep,CA,33.0
+231,Lieu,Ted Lieu,rep,CA,36.0
+232,Torres,Norma J. Torres,rep,CA,35.0
+233,Buck,Ken Buck,rep,CO,4.0
+234,Carter,"Earl L. ""Buddy"" Carter",rep,GA,1.0
+235,Loudermilk,Barry Loudermilk,rep,GA,11.0
+236,Allen,Rick W. Allen,rep,GA,12.0
+237,Bost,Mike Bost,rep,IL,12.0
+238,Graves,Garret Graves,rep,LA,6.0
+239,Moulton,Seth Moulton,rep,MA,6.0
+240,Moolenaar,John R. Moolenaar,rep,MI,2.0
+241,Dingell,Debbie Dingell,rep,MI,6.0
+242,Emmer,Tom Emmer,rep,MN,6.0
+243,Rouzer,David Rouzer,rep,NC,7.0
+244,Watson Coleman,Bonnie Watson Coleman,rep,NJ,12.0
+245,Stefanik,Elise M. Stefanik,rep,NY,21.0
+246,Boyle,Brendan F. Boyle,rep,PA,2.0
+247,Babin,Brian Babin,rep,TX,36.0
+248,Beyer,"Donald S. Beyer, Jr.",rep,VA,8.0
+249,Plaskett,Stacey E. Plaskett,rep,VI,0.0
+250,Newhouse,Dan Newhouse,rep,WA,4.0
+251,Grothman,Glenn Grothman,rep,WI,6.0
+252,Mooney,Alexander X. Mooney,rep,WV,2.0
+253,Radewagen,Aumua Amata Coleman Radewagen,rep,AS,0.0
+254,Sullivan,Dan Sullivan,sen,AK,
+255,Ernst,Joni Ernst,sen,IA,
+256,Tillis,Thom Tillis,sen,NC,
+257,Rounds,Mike Rounds,sen,SD,
+258,Kelly,Trent Kelly,rep,MS,1.0
+259,LaHood,Darin LaHood,rep,IL,16.0
+260,Davidson,Warren Davidson,rep,OH,8.0
+261,Comer,James Comer,rep,KY,1.0
+262,Evans,Dwight Evans,rep,PA,3.0
+263,Kennedy,John Kennedy,sen,LA,
+264,Hassan,Margaret Wood Hassan,sen,NH,
+265,Cortez Masto,Catherine Cortez Masto,sen,NV,
+266,Schneider,Bradley Scott Schneider,rep,IL,10.0
+267,Biggs,Andy Biggs,rep,AZ,5.0
+268,Khanna,Ro Khanna,rep,CA,17.0
+269,Panetta,Jimmy Panetta,rep,CA,19.0
+270,Carbajal,Salud O. Carbajal,rep,CA,24.0
+271,Barragán,Nanette Diaz Barragán,rep,CA,44.0
+272,Correa,J. Luis Correa,rep,CA,46.0
+273,Blunt Rochester,Lisa Blunt Rochester,rep,DE,0.0
+274,Gaetz,Matt Gaetz,rep,FL,1.0
+275,Dunn,Neal P. Dunn,rep,FL,2.0
+276,Rutherford,John H. Rutherford,rep,FL,5.0
+277,Soto,Darren Soto,rep,FL,9.0
+278,Mast,Brian J. Mast,rep,FL,21.0
+279,Ferguson,A. Drew Ferguson IV,rep,GA,3.0
+280,Krishnamoorthi,Raja Krishnamoorthi,rep,IL,8.0
+281,Banks,Jim Banks,rep,IN,3.0
+282,Marshall,Roger Marshall,sen,KS,
+283,Higgins,Clay Higgins,rep,LA,3.0
+284,Johnson,Mike Johnson,rep,LA,4.0
+285,Raskin,Jamie Raskin,rep,MD,8.0
+286,Bergman,Jack Bergman,rep,MI,1.0
+287,Budd,Ted Budd,sen,NC,
+288,Bacon,Don Bacon,rep,NE,2.0
+289,Gottheimer,Josh Gottheimer,rep,NJ,5.0
+290,Rosen,Jacky Rosen,sen,NV,
+291,Espaillat,Adriano Espaillat,rep,NY,13.0
+292,Fitzpatrick,Brian K. Fitzpatrick,rep,PA,1.0
+293,Smucker,Lloyd Smucker,rep,PA,11.0
+294,González-Colón,Jenniffer González-Colón,rep,PR,0.0
+295,Kustoff,David Kustoff,rep,TN,8.0
+296,Gonzalez,Vicente Gonzalez,rep,TX,34.0
+297,Arrington,Jodey C. Arrington,rep,TX,19.0
+298,Jayapal,Pramila Jayapal,rep,WA,7.0
+299,Gallagher,Mike Gallagher,rep,WI,8.0
+300,Estes,Ron Estes,rep,KS,4.0
+301,Norman,Ralph Norman,rep,SC,5.0
+302,Gomez,Jimmy Gomez,rep,CA,34.0
+303,Curtis,John R. Curtis,rep,UT,3.0
+304,Smith,Tina Smith,sen,MN,
+305,Hyde-Smith,Cindy Hyde-Smith,sen,MS,
+306,Lesko,Debbie Lesko,rep,AZ,8.0
+307,Cloud,Michael Cloud,rep,TX,27.0
+308,Balderson,Troy Balderson,rep,OH,12.0
+309,Hern,Kevin Hern,rep,OK,1.0
+310,Morelle,Joseph D. Morelle,rep,NY,25.0
+311,Scanlon,Mary Gay Scanlon,rep,PA,5.0
+312,Wild,Susan Wild,rep,PA,7.0
+313,Case,Ed Case,rep,HI,1.0
+314,Horsford,Steven Horsford,rep,NV,4.0
+315,Stanton,Greg Stanton,rep,AZ,4.0
+316,Harder,Josh Harder,rep,CA,9.0
+317,Porter,Katie Porter,rep,CA,47.0
+318,Levin,Mike Levin,rep,CA,49.0
+319,Neguse,Joe Neguse,rep,CO,2.0
+320,Crow,Jason Crow,rep,CO,6.0
+321,Hayes,Jahana Hayes,rep,CT,5.0
+322,Waltz,Michael Waltz,rep,FL,6.0
+323,Steube,W. Gregory Steube,rep,FL,17.0
+324,McBath,Lucy McBath,rep,GA,7.0
+325,Fulcher,Russ Fulcher,rep,ID,1.0
+326,García,"Jesús G. ""Chuy"" García",rep,IL,4.0
+327,Casten,Sean Casten,rep,IL,6.0
+328,Underwood,Lauren Underwood,rep,IL,14.0
+329,Baird,James R. Baird,rep,IN,4.0
+330,Pence,Greg Pence,rep,IN,6.0
+331,Davids,Sharice Davids,rep,KS,3.0
+332,Trahan,Lori Trahan,rep,MA,3.0
+333,Pressley,Ayanna Pressley,rep,MA,7.0
+334,Trone,David J. Trone,rep,MD,6.0
+335,Slotkin,Elissa Slotkin,rep,MI,7.0
+336,Stevens,Haley M. Stevens,rep,MI,11.0
+337,Tlaib,Rashida Tlaib,rep,MI,12.0
+338,Craig,Angie Craig,rep,MN,2.0
+339,Phillips,Dean Phillips,rep,MN,3.0
+340,Omar,Ilhan Omar,rep,MN,5.0
+341,Stauber,Pete Stauber,rep,MN,8.0
+342,Guest,Michael Guest,rep,MS,3.0
+343,Armstrong,Kelly Armstrong,rep,ND,0.0
+344,Pappas,Chris Pappas,rep,NH,1.0
+345,Van Drew,Jefferson Van Drew,rep,NJ,2.0
+346,Kim,Andy Kim,rep,NJ,3.0
+347,Sherrill,Mikie Sherrill,rep,NJ,11.0
+348,Lee,Susie Lee,rep,NV,3.0
+349,Ocasio-Cortez,Alexandria Ocasio-Cortez,rep,NY,14.0
+350,Dean,Madeleine Dean,rep,PA,4.0
+351,Houlahan,Chrissy Houlahan,rep,PA,6.0
+352,Meuser,Daniel Meuser,rep,PA,9.0
+353,Joyce,John Joyce,rep,PA,13.0
+354,Reschenthaler,Guy Reschenthaler,rep,PA,14.0
+355,Timmons,William R. Timmons IV,rep,SC,4.0
+356,Johnson,Dusty Johnson,rep,SD,0.0
+357,Burchett,Tim Burchett,rep,TN,2.0
+358,Rose,John W. Rose,rep,TN,6.0
+359,Green,Mark E. Green,rep,TN,7.0
+360,Crenshaw,Dan Crenshaw,rep,TX,2.0
+361,Gooden,Lance Gooden,rep,TX,5.0
+362,Fletcher,Lizzie Fletcher,rep,TX,7.0
+363,Escobar,Veronica Escobar,rep,TX,16.0
+364,Roy,Chip Roy,rep,TX,21.0
+365,Garcia,Sylvia R. Garcia,rep,TX,29.0
+366,Allred,Colin Z. Allred,rep,TX,32.0
+367,Cline,Ben Cline,rep,VA,6.0
+368,Spanberger,Abigail Davis Spanberger,rep,VA,7.0
+369,Wexton,Jennifer Wexton,rep,VA,10.0
+370,Schrier,Kim Schrier,rep,WA,8.0
+371,Steil,Bryan Steil,rep,WI,1.0
+372,Miller,Carol D. Miller,rep,WV,1.0
+373,Scott,Rick Scott,sen,FL,
+374,Braun,Mike Braun,sen,IN,
+375,Hawley,Josh Hawley,sen,MO,
+376,Romney,Mitt Romney,sen,UT,
+377,Golden,Jared F. Golden,rep,ME,2.0
+378,Bishop,Dan Bishop,rep,NC,8.0
+379,Murphy,Gregory F. Murphy,rep,NC,3.0
+380,Mfume,Kweisi Mfume,rep,MD,7.0
+381,Tiffany,Thomas P. Tiffany,rep,WI,7.0
+382,Garcia,Mike Garcia,rep,CA,27.0
+383,Kelly,Mark Kelly,sen,AZ,
+384,Lummis,Cynthia M. Lummis,sen,WY,
+385,Issa,Darrell Issa,rep,CA,48.0
+386,Sessions,Pete Sessions,rep,TX,17.0
+387,Valadao,David G. Valadao,rep,CA,22.0
+388,Tuberville,Tommy Tuberville,sen,AL,
+389,Hickenlooper,John W. Hickenlooper,sen,CO,
+390,Hagerty,Bill Hagerty,sen,TN,
+391,Carl,Jerry L. Carl,rep,AL,1.0
+392,Moore,Barry Moore,rep,AL,2.0
+393,Obernolte,Jay Obernolte,rep,CA,23.0
+394,Kim,Young Kim,rep,CA,40.0
+395,Steel,Michelle Steel,rep,CA,45.0
+396,Jacobs,Sara Jacobs,rep,CA,51.0
+397,Boebert,Lauren Boebert,rep,CO,3.0
+398,Cammack,Kat Cammack,rep,FL,3.0
+399,Franklin,C. Scott Franklin,rep,FL,18.0
+400,Donalds,Byron Donalds,rep,FL,19.0
+401,Gimenez,Carlos A. Gimenez,rep,FL,28.0
+402,Salazar,Maria Elvira Salazar,rep,FL,27.0
+403,Williams,Nikema Williams,rep,GA,5.0
+404,Clyde,Andrew S. Clyde,rep,GA,9.0
+405,Greene,Marjorie Taylor Greene,rep,GA,14.0
+406,Hinson,Ashley Hinson,rep,IA,2.0
+407,Miller-Meeks,Mariannette Miller-Meeks,rep,IA,1.0
+408,Feenstra,Randy Feenstra,rep,IA,4.0
+409,Miller,Mary E. Miller,rep,IL,15.0
+410,Mrvan,Frank J. Mrvan,rep,IN,1.0
+411,Spartz,Victoria Spartz,rep,IN,5.0
+412,Mann,Tracey Mann,rep,KS,1.0
+413,LaTurner,Jake LaTurner,rep,KS,2.0
+414,Auchincloss,Jake Auchincloss,rep,MA,4.0
+415,McClain,Lisa C. McClain,rep,MI,9.0
+416,Fischbach,Michelle Fischbach,rep,MN,7.0
+417,Bush,Cori Bush,rep,MO,1.0
+418,Rosendale,"Matthew M. Rosendale, Sr.",rep,MT,2.0
+419,Ross,Deborah K. Ross,rep,NC,2.0
+420,Manning,Kathy E. Manning,rep,NC,6.0
+421,Leger Fernandez,Teresa Leger Fernandez,rep,NM,3.0
+422,Garbarino,Andrew R. Garbarino,rep,NY,2.0
+423,Malliotakis,Nicole Malliotakis,rep,NY,11.0
+424,Torres,Ritchie Torres,rep,NY,15.0
+425,Bowman,Jamaal Bowman,rep,NY,16.0
+426,Bice,Stephanie I. Bice,rep,OK,5.0
+427,Bentz,Cliff Bentz,rep,OR,2.0
+428,Mace,Nancy Mace,rep,SC,1.0
+429,Harshbarger,Diana Harshbarger,rep,TN,1.0
+430,Fallon,Pat Fallon,rep,TX,4.0
+431,Pfluger,August Pfluger,rep,TX,11.0
+432,Jackson,Ronny Jackson,rep,TX,13.0
+433,Nehls,Troy E. Nehls,rep,TX,22.0
+434,Gonzales,Tony Gonzales,rep,TX,23.0
+435,Van Duyne,Beth Van Duyne,rep,TX,24.0
+436,Moore,Blake D. Moore,rep,UT,1.0
+437,Owens,Burgess Owens,rep,UT,4.0
+438,Good,Bob Good,rep,VA,5.0
+439,Strickland,Marilyn Strickland,rep,WA,10.0
+440,Fitzgerald,Scott Fitzgerald,rep,WI,5.0
+441,Padilla,Alex Padilla,sen,CA,
+442,Ossoff,Jon Ossoff,sen,GA,
+443,Warnock,Raphael G. Warnock,sen,GA,
+444,Tenney,Claudia Tenney,rep,NY,24.0
+445,Letlow,Julia Letlow,rep,LA,5.0
+446,Carter,Troy A. Carter,rep,LA,2.0
+447,Stansbury,Melanie A. Stansbury,rep,NM,1.0
+448,Ellzey,Jake Ellzey,rep,TX,6.0
+449,Brown,Shontel M. Brown,rep,OH,11.0
+450,Carey,Mike Carey,rep,OH,15.0
+451,Cherfilus-McCormick,Sheila Cherfilus-McCormick,rep,FL,20.0
+452,Flood,Mike Flood,rep,NE,1.0
+453,Finstad,Brad Finstad,rep,MN,1.0
+454,Peltola,Mary Sattler Peltola,rep,AK,0.0
+455,Ryan,Patrick Ryan,rep,NY,18.0
+456,Yakym,Rudy Yakym III,rep,IN,2.0
+457,Zinke,Ryan K. Zinke,rep,MT,1.0
+458,Britt,Katie Boyd Britt,sen,AL,
+459,Schmitt,Eric Schmitt,sen,MO,
+460,Vance,J.D. Vance,sen,OH,
+461,Fetterman,John Fetterman,sen,PA,
+462,Strong,Dale W. Strong,rep,AL,5.0
+463,Crane,Elijah Crane,rep,AZ,2.0
+464,Ciscomani,Juan Ciscomani,rep,AZ,6.0
+465,Kiley,Kevin Kiley,rep,CA,3.0
+466,Duarte,John S. Duarte,rep,CA,13.0
+467,Mullin,Kevin Mullin,rep,CA,15.0
+468,Kamlager-Dove,Sydney Kamlager-Dove,rep,CA,37.0
+469,Garcia,Robert Garcia,rep,CA,42.0
+470,Pettersen,Brittany Pettersen,rep,CO,7.0
+471,Caraveo,Yadira Caraveo,rep,CO,8.0
+472,Bean,Aaron Bean,rep,FL,4.0
+473,Mills,Cory Mills,rep,FL,7.0
+474,Frost,Maxwell Frost,rep,FL,10.0
+475,Paulina Luna,Anna Paulina Luna,rep,FL,13.0
+476,Lee,Laurel M. Lee,rep,FL,15.0
+477,Moskowitz,Jared Moskowitz,rep,FL,23.0
+478,McCormick,Richard McCormick,rep,GA,6.0
+479,Collins,Mike Collins,rep,GA,10.0
+480,Moylan,James C. Moylan,rep,GU,0.0
+481,Tokuda,Jill N. Tokuda,rep,HI,2.0
+482,Nunn,Zachary Nunn,rep,IA,3.0
+483,Jackson,Jonathan L. Jackson,rep,IL,1.0
+484,Ramirez,Delia C. Ramirez,rep,IL,3.0
+485,Budzinski,Nikki Budzinski,rep,IL,13.0
+486,Sorensen,Eric Sorensen,rep,IL,17.0
+487,Houchin,Erin Houchin,rep,IN,9.0
+488,McGarvey,Morgan McGarvey,rep,KY,3.0
+489,Ivey,Glenn Ivey,rep,MD,4.0
+490,Scholten,Hillary J. Scholten,rep,MI,3.0
+491,James,John James,rep,MI,10.0
+492,Thanedar,Shri Thanedar,rep,MI,13.0
+493,Alford,Mark Alford,rep,MO,4.0
+494,Burlison,Eric Burlison,rep,MO,7.0
+495,Ezell,Mike Ezell,rep,MS,4.0
+496,Davis,Donald G. Davis,rep,NC,1.0
+497,Foushee,Valerie P. Foushee,rep,NC,4.0
+498,Edwards,Chuck Edwards,rep,NC,11.0
+499,Nickel,Wiley Nickel,rep,NC,13.0
+500,Jackson,Jeff Jackson,rep,NC,14.0
+501,Kean,"Thomas H. Kean, Jr.",rep,NJ,7.0
+502,Menendez,Robert Menendez,rep,NJ,8.0
+503,Vasquez,Gabe Vasquez,rep,NM,2.0
+504,LaLota,Nick LaLota,rep,NY,1.0
+505,Santos,George Santos,rep,NY,3.0
+506,D'Esposito,Anthony D’Esposito,rep,NY,4.0
+507,Goldman,Daniel S. Goldman,rep,NY,10.0
+508,Lawler,Michael Lawler,rep,NY,17.0
+509,Molinaro,Marcus J. Molinaro,rep,NY,19.0
+510,Williams,Brandon Williams,rep,NY,22.0
+511,Langworthy,Nicholas A. Langworthy,rep,NY,23.0
+512,Landsman,Greg Landsman,rep,OH,1.0
+513,Miller,Max L. Miller,rep,OH,7.0
+514,Sykes,Emilia Strong Sykes,rep,OH,13.0
+515,Brecheen,Josh Brecheen,rep,OK,2.0
+516,Hoyle,Val T. Hoyle,rep,OR,4.0
+517,Chavez-DeRemer,Lori Chavez-DeRemer,rep,OR,5.0
+518,Salinas,Andrea Salinas,rep,OR,6.0
+519,Lee,Summer L. Lee,rep,PA,12.0
+520,Deluzio,Christopher R. Deluzio,rep,PA,17.0
+521,Magaziner,Seth Magaziner,rep,RI,2.0
+522,Fry,Russell Fry,rep,SC,7.0
+523,Ogles,Andrew Ogles,rep,TN,5.0
+524,Moran,Nathaniel Moran,rep,TX,1.0
+525,Self,Keith Self,rep,TX,3.0
+526,Luttrell,Morgan Luttrell,rep,TX,8.0
+527,De La Cruz,Monica De La Cruz,rep,TX,15.0
+528,Crockett,Jasmine Crockett,rep,TX,30.0
+529,Casar,Greg Casar,rep,TX,35.0
+530,Hunt,Wesley Hunt,rep,TX,38.0
+531,Kiggans,Jennifer Kiggans,rep,VA,2.0
+532,Balint,Becca Balint,rep,VT,0.0
+533,Gluesenkamp Perez,Marie Gluesenkamp Perez,rep,WA,3.0
+534,Van Orden,Derrick Van Orden,rep,WI,3.0
+535,Hageman,Harriet M. Hageman,rep,WY,0.0
+536,Ricketts,Pete Ricketts,sen,NE,
+537,McClellan,Jennifer L. McClellan,rep,VA,4.0
+538,Butler,Laphonza R. Butler,sen,CA,

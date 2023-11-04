@@ -1,0 +1,2919 @@
+
+ - COMBATTING A CRISIS: PROVIDING VETERANS ACCESS TO LIFE-SAVING SUBSTANCE ABUSE DISORDER TREATMENT
+
+[House Hearing, 118 Congress]
+[From the U.S. Government Publishing Office]
+
+
+     COMBATTING A CRISIS: PROVIDING VETERANS ACCESS TO LIFE-SAVING
+                   SUBSTANCE ABUSE DISORDER TREATMENT
+
+=======================================================================
+
+                                HEARING
+
+                               BEFORE THE
+
+                         SUBCOMMITTEE ON HEALTH
+
+                                 OF THE
+
+                     COMMITTEE ON VETERANS' AFFAIRS
+
+                     U.S. HOUSE OF REPRESENTATIVES
+
+                    ONE HUNDRED EIGHTEENTH CONGRESS
+
+                             FIRST SESSION
+                               __________
+
+                        TUESDAY, APRIL 18, 2023
+                               __________
+
+                            Serial No. 118-9
+                               __________
+
+       Printed for the use of the Committee on Veterans' Affairs
+       
+       
+                  [GRAPHIC NOT AVAILABLE IN TIFF FORMAT]       
+
+
+                    Available via http://govinfo.gov
+                    
+                               __________
+
+                    U.S. GOVERNMENT PUBLISHING OFFICE
+                    
+52-206                      WASHINGTON : 2023       
+
+
+                     COMMITTEE ON VETERANS' AFFAIRS
+
+                     MIKE BOST, Illinois, Chairman
+
+AUMUA AMATA COLEMAN RADEWAGEN,       MARK TAKANO, California, Ranking 
+    American Samoa, Vice-Chairwoman      Member
+JACK BERGMAN, Michigan               JULIA BROWNLEY, California
+NANCY MACE, South Carolina           MIKE LEVIN, California
+MATTHEW M. ROSENDALE, SR., Montana   CHRIS PAPPAS, New Hampshire
+MARIANNETTE MILLER-MEEKS, Iowa       FRANK J. MRVAN, Indiana
+GREGORY F. MURPHY, North Carolina    SHEILA CHERFILUS-MCCORMICK, 
+C. SCOTT FRANKLIN, Florida               Florida
+DERRICK VAN ORDEN, Wisconsin         CHRISTOPHER R. DELUZIO, 
+MORGAN LUTTRELL, Texas                   Pennsylvania
+JUAN CISCOMANI, Arizona              MORGAN MCGARVEY, Kentucky
+ELIJAH CRANE, Arizona                DELIA C. RAMIREZ, Illinois
+KEITH SELF, Texas                    GREG LANDSMAN, Ohio
+JENNIFER A. KIGGANS, Virginia        NIKKI BUDZINSKI, Illinois
+
+                       Jon Clark, Staff Director
+                  Matt Reel, Democratic Staff Director
+
+                         SUBCOMMITTEE ON HEALTH
+
+               MARIANNETTE MILLER-MEEKS, Iowa, Chairwoman
+
+AUMUA AMATA COLEMAN RADEWAGEN,       JULIA BROWNLEY, California, 
+    American Samoa                       Ranking Member
+JACK BERGMAN, Michigan               MIKE LEVIN, California
+GREGORY F. MURPHY, North Carolina    CHRISTOPHER R. DELUZIO, 
+DERRICK VAN ORDEN, Wisconsin             Pennsylvania
+MORGAN LUTTRELL, Texas               GREG LANDSMAN, Ohio
+JENNIFER A. KIGGANS, Virginia        NIKKI BUDZINSKI, Illinois
+
+Pursuant to clause 2(e)(4) of Rule XI of the Rules of the House, public 
+hearing records of the Committee on Veterans' Affairs are also 
+published in electronic form. The printed hearing record remains the 
+official version. Because electronic submissions are used to prepare 
+both printed and electronic versions of the hearing record, the process 
+of converting between various electronic formats may introduce 
+unintentional errors or omissions. Such occurrences are inherent in the 
+current publication process and should diminish as the process is 
+further refined.
+                         C  O  N  T  E  N  T  S
+
+                              ----------                              
+
+                        TUESDAY, APRIL 18, 2023
+
+                                                                   Page
+
+                           OPENING STATEMENTS
+
+The Honorable Mariannette Miller-Meeks, Chairwoman...............     1
+The Honorable Julia Brownley, Ranking Member.....................     3
+
+                               WITNESSES
+                                Panel 1
+
+Dr. Tamara Campbell, MD, Executive Director, Office of Mental 
+  Health and Suicide Prevention, Veterans Health Administration, 
+  U.S. Department of Veterans Affairs............................     4
+
+        Accompanied by:
+
+    Dr. Sachin Yende, MD, Chief Medical Officer, Office of 
+        Integrated Veteran Care, Veterans Health Administration, 
+        U.S. Department of Veterans Affairs
+
+Dr. Julie Kroviak, MD, Principal Deputy Assistant Inspector 
+  General, Healthcare Inspections, Office of the Inspector 
+  General, U.S. Department of Veterans Affairs...................     6
+
+                                Panel 2
+
+Mr. Daniel Elkins, Chief of Staff, The Independence Fund.........    18
+
+Mrs. Jen Silva, Chief Program Officer, Wounded Warrior Project...    20
+
+Mr. Thomas B. Sauer, Chief Executive Officer & Owner, Miramar 
+  Health.........................................................    21
+
+        Accompanied by:
+
+    Mr. Brendan Dowling, Veteran Outreach, Miramar Health
+
+                                APPENDIX
+                    Prepared Statements Of Witnesses
+
+Dr. Tamara Campbell, MD Prepared Statement.......................    33
+Dr. Julie Kroviak, MD Prepared Statement.........................    39
+Mr. Daniel Elkins Prepared Statement.............................    45
+Mrs. Jen Silva Prepared Statement................................    63
+Mr. Thomas B. Sauer Prepared Statement...........................    76
+Mr. Brenden Dowling Prepared Statement...........................    77
+
+                        Statement For The Record
+
+Cohen Veterans Network...........................................    79
+
+ 
+     COMBATTING A CRISIS: PROVIDING VETERANS ACCESS TO LIFE-SAVING 
+                   SUBSTANCE ABUSE DISORDER TREATMENT
+
+                              ----------                              
+
+
+                        TUESDAY, APRIL 18, 2023
+
+            U. S. House of Representatives,
+                            Subcommittee on Health,
+                            Committee on Veterans' Affairs,
+                                                   Washington, D.C.
+    The subcommittee met, pursuant to notice, at 10:20 a.m., in 
+room 390, Cannon House Office Building, Hon. Mariannette 
+Miller-Meeks [chairwoman of the subcommittee] presiding.
+    Present: Representatives Miller-Meeks, Van Orden, Luttrell, 
+Kiggans, Brownley, Budzinski, and Landsman.
+
+   OPENING STATEMENT OF MARIANNETTE MILLER-MEEKS, CHAIRWOMAN
+
+    Ms. Miller-Meeks. Good morning again. This oversight 
+hearing for the Subcommittee on Health will now come to order. 
+Our country has been experiencing a substance abuse and 
+overdose epidemic, and we are seeing historic highs in overdose 
+deaths and our Nation's veterans are not immune. One death from 
+substance use disorder is one too many. It is a somber reality 
+that many lives are taken by this treatable mental disorder. 
+One hundred sixty-five million people in the United States 
+alone struggle with drug and alcohol abuse, and over 100,600 
+Americans died from drug overdose in 2021.
+    As a 24-year veteran, I have seen the unique challenges 
+that many of my fellow service members and veterans face. Among 
+the veteran population, we have sadly seen a 53 percent 
+increase in drug overdose mortality rates from 2010 to 2019. 
+Four in 10 veterans struggle with illicit drug use, seven in 10 
+struggle with alcohol use, and one out of eight struggles with 
+both.
+    This is an enormous obstacle that we need to address. Had 
+the VA sent us testimony in a more timely manner, let me 
+emphasize that, had the VA sent us testimony in a more timely 
+manner, I would have liked to have addressed the initiatives 
+they are talking about today. In spite of that, I would like to 
+acknowledge the VA Mental Health Residential Rehabilitation 
+Treatment Program, also called MHRRTP, that provides 
+rehabilitative and clinical care to veterans that need 
+intensive specialty treatment for mental health and substance 
+use disorders. The MHRRTP continuum includes more than 70 
+programs for the treatment of substance use disorder and more 
+than 40 programs for the treatment of posttraumatic stress 
+disorder, with the expectation that all programs provide 
+integrated, concurrent treatment for co-occurring substance use 
+disorder and mental health treatment needs.
+    That being said, veterans through the Mission Act should be 
+eligible to receive in and outpatient substance abuse treatment 
+in the community when it is appropriate course of action.
+    I am very concerned about how the VA has interpreted and 
+differentiated between institutional and uninstitutional 
+extended care. It is becoming increasingly clear that once 
+again bureaucracy has overcome intent. VA continually repeats 
+that there is no wrong door for veterans seeking substance 
+abuse care. However, we will hear from our witnesses on the 
+second panel that that is inaccurate and bureaucratic hyperbole 
+with that statement.
+    I would like to point out three instances where the VA has 
+not embodied their no wrong door declaration. First, we have 
+heard from a specific veteran who struggles with Post Traumatic 
+Stress Disorder (PTSD) and alcohol abuse. After many attempts 
+and 3 months of trying to receive care, this veteran was not 
+able to get the help they needed. This was essentially a locked 
+door. This veteran spoke with multiple congressional offices 
+and with the VA central office. They were eventually referred 
+to community care. However, it was rescinded as the VA ensured 
+that this veteran could receive the care they need. This 
+veteran still struggles with their sobriety today.
+    Next is an example of the VA presenting no door to a 
+veteran. As we will hear during our second panel, there was 
+another instance where a veteran sought care in the community. 
+However, VA noted that they could not refer this veteran to the 
+community if a VA bed was available within 30 days. Veterans 
+can and should not have to wait 30 days to receive care that 
+they desperately need. The program attempting to assist this 
+veteran was told that veterans must first go to a domiciliary, 
+then grant per diem programs such as VA homeless shelter, and 
+then to the Salvation Army. Then after all of these options 
+have been exhausted, they could be referred into the community.
+    That is a disgrace. As a state senator, I specifically 
+introduced legislation to get rid of preauthorization for 
+medicated assisted treatment. So, within immediate. To find 
+that this is existing with our VA system is unacceptable.
+    Finally, we have heard from a veteran who has struggled 
+with PTSD, substance use disorder, and a history of traumatic 
+brain injury. This specific veteran was searching for a 
+residential program for substance use disorder at the VA. 
+However, this veteran was denied because they did not have a 
+history of seeking help through the VA. Because this veteran 
+had not been to the VA since 2017, their record was closed and 
+they were never contacted about receiving care. This appears to 
+be a case where a veteran experienced a missing door. Luckily, 
+a Veterans Service Organization (VSO) paid for a treatment 
+program for this veteran.
+    There is no excuse for any of the neglectful and harmful 
+care that these veterans are experiencing and we need to hold 
+the VA to a much higher standard. I am saddened and I am 
+frustrated that this is how VA has been managing care for those 
+who have selflessly served our country. Thank you all for being 
+here and I look forward to our discussion on both panels to 
+best identify ways to improve access. With that, I yield to 
+Ranking Member Brownley for her opening statement.
+
+      OPENING STATEMENT OF JULIA BROWNLEY, RANKING MEMBER
+
+    Ms. Brownley. Thank you, Madam Chair, for holding this 
+morning's important hearing. As of Fiscal Year 2022, more than 
+550,000 veterans receiving VA healthcare, or about 8.5 percent 
+of all veterans using VA healthcare services, had substance use 
+disorder diagnoses. Often, veterans have turned to alcohol or 
+drugs to try to relieve stress or symptoms of PTSD and other 
+co-occurring mental health disorders. As a result, substance 
+use disorder is a significant challenge among the veteran 
+population. This challenge was only compounded by the COVID-19 
+pandemic, which increased feelings of social isolation, 
+anxiety, and depression, and caused many adults to start or 
+increase their use of alcohol or drugs.
+    At the same time, access to intensive residential treatment 
+at VA and in the community declined as providers limited 
+admissions and placed residents in single occupancy rooms in an 
+effort to minimize the spread of COVID-19. I am perplexed by 
+the two very different stories that were told in the written 
+testimony of VA and the other witnesses we will hear from 
+today. If we are to take VA at its word, veterans receive 
+timely access to residential treatment, admission within 72 
+hours for veterans requiring priority admissions, and within 30 
+days for routine admission. The VA Office of the Inspector 
+General, however, has found that VA ``faces significant 
+challenges in meeting the needs of individuals with substance 
+use disorders.''
+    This finding is echoed in the testimony of our second panel 
+of witnesses. I hope today's hearing will help us better 
+understand the true state of veterans' access to residential 
+treatment for substance use disorder. I do not doubt that there 
+are instances where veterans would benefit from referral to 
+residential treatment from community providers, particularly 
+when there are excessive wait times for beds in VA programs, or 
+when veterans can access timely care in the community closer to 
+home. However, we must ensure that veterans receive high 
+quality evidence-based care when they are sent to the 
+community.
+    I hope today's hearing will also shed some light on the 
+extent to which VA ensures that the community providers to 
+which it refers veterans meet clinical practice guidelines and 
+accreditation standards for delivering such care. While we will 
+focus much of our attention today on access to residential 
+treatment, I hope we will also take some time to consider the 
+full continuum of care, including the extent to which veterans 
+are successfully transitioning from residential care to 
+outpatient treatment and independent living.
+    As the VA Office of Inspector General points out in its 
+testimony, care coordination between VA and community providers 
+is critically important for high-risk patients like those 
+receiving treatment for substance use disorder. When patients 
+receive care in the community, they are not always as easily 
+able to access other VA benefits, such as housing and 
+employment support as they would if receiving care at a VA 
+facility.
+    In 2019, I visited a truly impressive program operated by 
+the VA Boston Healthcare system called the Women's Veterans 
+Trust House, which provides excellent care, coordination, and 
+continuity of care for women veterans who had completed 
+residential treatment for substance use and posttraumatic 
+stress. The typical stay is about 12 months, during which time 
+women veterans participate in individual and group 
+psychotherapy, compensated work therapy, and recreational 
+community outings. Through this program, they are learning how 
+to develop healthier coping mechanisms and constructive 
+interpersonal relationships. Unfortunately, at the time I 
+visited, the Trust House could accommodate just seven women at 
+a time, and they were traveling from all over the country, 
+first to participate in VA's residential treatment program and 
+then this transitional program. Undoubtedly, more women 
+veterans, indeed all veterans, would benefit from greater 
+access to transitional programs like this.
+    I hope that we can learn more today about the extent to 
+which VA is trying to expand its capacity in this area as well. 
+I have legislation that aims to do just that, and I hope 
+today's hearing will help inform my planned reintroduction of 
+the bill. Thank you again, Dr. Miller-Meeks, for organizing 
+this important hearing and I yield back.
+    Ms. Miller-Meeks. Thank you, Ranking Member Brownley. I 
+would now like to introduce the witnesses. Joining us today 
+from the Department of Veterans Affairs is Dr. Tamara Campbell, 
+who is the executive director of the Office of Mental Health 
+and Suicide Prevention (OMHSP). Accompanying Dr. Campbell today 
+is Dr. Sachin Yende. I apologize for any mispronunciation. The 
+chief medical officer in the Office of Integrated Care. We also 
+have Dr. Julie Kroviak, the Principal Deputy Assistant 
+Inspector General of Healthcare Inspections in the office of 
+the Inspector General. Dr. Campbell, you are now recognized for 
+5 minutes to deliver your opening statement.
+
+                  STATEMENT OF TAMARA CAMPBELL
+
+    Ms. Campbell. Good morning, Chairman Miller-Meeks, Ranking 
+Member Brownley, and distinguished members of the subcommittee. 
+Thank you for the opportunity to discuss VA's mental health, 
+substance use disorder, residential rehabilitation treatment 
+programs, and community care referrals. Accompanying me today, 
+as mentioned, is Dr. Sachin Yende, Chief Medical Officer, 
+Office of Integrated Veteran Care.
+    Over the past decade, potent and dangerous drugs became 
+more widely available and misused in the United States. In 
+response to the rise in substance use morbidity and mortality, 
+prevention and treatment efforts have been established. VA is 
+making a positive difference in veterans' quality of life by 
+enhancing motivation and building confidence in their treatment 
+and recovery process. Veterans receiving treatment for their 
+substance use disorder in VA are experiencing benefits in terms 
+of their mental and physical health across many other aspects 
+of their lives that impact social determinants of health. VA's 
+mental health Residential Rehabilitation Treatments (RRTPs) are 
+a critical component of VA's broader efforts to address the 
+needs of veterans with substance use concerns.
+    Mental health residential programs are institutional 
+extended care and are not subject to designated access 
+standards. They do, however, have access requirements that 
+inform when consideration for referral to the community should 
+occur. These access requirements are defined by Veterans Health 
+Administration (VHA) Directive 1162.02 and more recently by 
+implementation of the Comprehensive Prevention, Access to Care, 
+and Treatment (COMPACT) Act for Crisis Residential Care.
+    The ability to pay for community care mental health 
+residential treatment has resulted in an increase in the number 
+of programs available to veterans. From Fiscal Year 2021 to 
+Fiscal Year 2022, referrals to the community increased from 
+7,000 to 11,000 uniques, with expenditures exceeding 1.2 
+billion since 2021. Concurrent with these increases, VHA has 
+observed instances of community programs marketing directly to 
+veterans and providers, resulting in confusion by veterans when 
+informed of the availability of VHA to meet their needs. We 
+believe the solution to this lies with increasing familiarity 
+with the process and with VA's mental health residential 
+resources, while also addressing concerning marketing practices 
+when they are identified.
+    Timely access to residential treatment has been a priority 
+area of focus for VHA. This has been critical as the 
+residential programs experienced significant reductions in 
+capacity early in the pandemic. I am pleased to share that 
+today MHRRTP capacity is rebounding, with wait times decreasing 
+and census increasing.
+    Recognizing a need to ensure access to this critical level 
+of care, OMHSP worked collaboratively with the Office of 
+Integrated Veteran Care to verify authority, to provide 
+residential treatment in the community, and to provide a 
+mechanism by which VHA could pay for such care. VHA policy 
+requires that when a veteran is assessed as requiring 
+residential treatment and the program is unable to meet the 
+veterans' needs, an alternate treatment program must be 
+offered. Alternate treatment may include treatment within VA or 
+within the community. VA is thankful for the independent 
+investigation of the Office of Inspector General in the review 
+of the Domiciliary Substance Use Disorder (SUD) Treatment 
+Program and residential community care referrals.
+    The ability to refer to mental health residential treatment 
+in the community is a relatively new process with the first 
+Standard Episode of Care for the Mental Health Residential 
+Treatment, released in October 2020, and updated in August 
+2021. OMHSP worked collaboratively with Veterans Integrated 
+Services Networks (VISNs) during this time to clarify 
+requirements and expectations for when referrals for mental 
+health residential care in the community may occur. These 
+efforts have continued with targeted efforts to ensure 
+awareness of requirements and processes for ensuring access to 
+residential treatment in the community when indicated.
+    In conclusion, we appreciate the committee's continued 
+support and partnership in this shared mission. Nothing is more 
+important to VA than supporting the health and well-being of 
+our veterans and their families. This critical work is 
+lifesaving, and my colleagues and I are now prepared to respond 
+to any questions you may have. Thank you.
+
+    [The Prepared Statement Of Tamara Campbell Appears In The 
+Appendix]
+
+    Mr. Luttrell. [Presiding] Thank you, Dr. Campbell. Dr. 
+Kroviak, you are now recognized for 5 minutes to deliver your 
+opening remarks.
+
+                   STATEMENT OF JULIE KROVIAK
+
+    Ms. Kroviak. Thank you. Ranking Member Brownley and 
+subcommittee members, thank you for the opportunity to discuss 
+the Office of Inspector General's (OIG's) oversight of VHA's 
+substance use disorder treatment program. The OIG's Office of 
+Healthcare Inspections reviews the quality and safety of 
+healthcare provided across VHA and communicates the findings 
+through public reports. We are unique in the IG community 
+because of our ability to conduct this oversight. With over 250 
+clinical staff, the majority having significant experience 
+providing direct care to veterans, our reports can provide in-
+depth clinical analyses and identify issues that impact 
+healthcare delivery.
+    Take our mental health team, staff with board-certified 
+psychiatrists, psychologists, and licensed clinical social 
+workers. They are proactive and vigilant in conducting 
+oversight work that supports veterans in need of mental health 
+treatment. We are in the last stages of developing a new 
+cyclical review that will initially focus on VHA's inpatient 
+mental health units. These units treat acutely ill psychiatric 
+patients. And our teams have developed tools to evaluate the 
+safety and efficacy of these settings to ensure veterans are 
+receiving the high-quality care they need and deserve.
+    Substance use disorders have devastating effects on 
+veterans, their families, and caregivers, and often require 
+intensive, multidisciplinary interventions to support a 
+meaningful recovery. In addition, veterans with substance use 
+disorders often have additional mental health diagnoses that 
+can place them at higher risk for suicide. Given that VHA's top 
+clinical priority is to reduce veteran suicide, evidence-based, 
+substance use disorder treatment programs are critical to 
+addressing these clinical needs.
+    To meet the increasing demand for these services, VHA 
+depends on community care. When VHA and community care 
+providers are comanaging these patients, the coordination must 
+be seamless and collaborative. The OIG has identified 
+persistent administrative errors and communication failures 
+among VHA, its third-party administrators, and community care 
+providers, as well as between the care providers and their 
+patients. These deficiencies challenge the efforts of VHA 
+personnel to ensure that seamless experience for veterans.
+    Many OIG reports have described the challenges and, most 
+importantly, the risks when patients are referred to the 
+community. These risks are amplified for patients with high-
+risk mental health issues or complex disease. For example, my 
+written statement details our January 2023 hotline inspection 
+that substantiated the allegation that in 2020 and 2021, VA 
+North Texas staff did not follow VHA policy requiring that 
+patients be offered alternative options for care within VHA or 
+the community when the wait time for a needed service exceeds 
+30 days. This practice potentially delayed treatment for these 
+veterans and has the long-term potential to fracture trust 
+between patients and the healthcare system upon which they 
+rely. We also determined that the VISN's chief mental health 
+officer lacked authority to ensure staff adherence to these 
+policies.
+    We made five recommendations, with one specifically 
+ensuring that staff comply with community care referral 
+requirements and another recommending a review of the 
+facility's management of community residential care referrals. 
+All of these recommendations are open, and we will begin the 
+follow-up process with VHA at the end of this month.
+    While this report highlights issues with offering community 
+care to veterans, it does not provide a complete picture of the 
+concerns we have found when veterans are receiving community 
+care. Our office has published reports related to community 
+care detailing delays in diagnosis and treatment, lack of 
+information sharing or miscommunication between providers, and 
+significant quality of care concerns. While we recognize the 
+importance of VHA staff consistently informing and offering 
+veterans all options available to meet their care needs, 
+ignoring that the current community care framework does not 
+adequately address critical gaps in coordination will further 
+increase risk to patients. We are piloting a new community care 
+review that will provide data to support VHA's leaders' efforts 
+to reduce these risks.
+    The OIG will continue to provide meaningful oversight to 
+support and improve the quality of healthcare provided to our 
+Nation's veterans. We also recognize the need to enhance and 
+adapt our work to best support this dynamic healthcare system. 
+We remain grateful for the participation and cooperation of VHA 
+staff across the country, and we commend their commitment to 
+caring for those who have served. Members of the subcommittee, 
+this concludes my statement. I would be happy to answer any 
+questions you may have.
+
+    [The Prepared Statement Of Julie Kroviak Appears In The 
+Appendix]
+
+    Mr. Luttrell. Thank you, Dr. Kroviak. We will now proceed 
+to questioning. I now recognize the ranking member, Ranking 
+Member Brownley, for any questions she may have.
+    Ms. Brownley. Thank you, Mr. Chairman. The first question I 
+have is to Dr. Campbell. I understand VA currently has two 
+dedicated residential substance use disorder treatment programs 
+for women veterans. Is that correct? Two?
+    Ms. Campbell. I did not hear, I am sorry, the first part of 
+the question.
+    Ms. Brownley. I understand that VA currently has two 
+dedicated residential substance use disorder treatment programs 
+for women veterans. Is that true?
+    Ms. Campbell. We have 13 programs across nine locations 
+specializing in treatment for women at the residential level.
+    Ms. Brownley. I had difficulty finding those. Where do I go 
+to find those?
+    Ms. Campbell. You can locate them on our website. They are 
+in VISN 110, and I believe 17.
+    Ms. Brownley. I understand that all of these are not 
+substance use disorder treatment programs.
+    Ms. Campbell. There is a mixture, and thank you for that 
+question, of substance use disorder as well as PTSD. We 
+understand that those diagnoses typically coexist, and so we 
+ensure that our programs are treating both the PTSD and 
+substance use at the same time.
+    Ms. Brownley. Just to get back to my original question, 
+there are currently two dedicated residential substance use 
+disorder treatment programs for women veterans. True or false?
+    Ms. Campbell. I would have to go back to get that exact 
+number. What I have is 13 programs across nine locations, five 
+programs that specifically focus, and two additional that are 
+in for implementation for Fiscal Year 2024.
+    Ms. Brownley. Okay. I also understand the Fiscal Year 2024 
+budget request indicates the Department has two additional 
+women-only residential programs in development. Is that 
+correct?
+    Ms. Campbell. Yes, ma'am, that is correct.
+    Ms. Brownley. In what locations will they be?
+    Ms. Campbell. I will have to get back about those 
+locations.
+    Ms. Brownley. How did you decide where the locations should 
+go?
+    Ms. Campbell. We are in the process now of making that 
+determination.
+    Ms. Brownley. Okay. In my opening comments, I talked about 
+transitional programs and the continuity of care for our 
+patients. Does the VA, you know, I know today we are focusing 
+much more on intensive residential treatment, but wanted to 
+know how many transitional programs across the VA do exist. I 
+mentioned one in Boston.
+    Ms. Campbell. Thank you for that question. I would have to 
+get back with you about the specific numbers. In terms of 
+transitional programs, we have compensated work therapy and 
+community reentry programs within all of our domiciliary 
+programming. Is that what you are referring to?
+    Ms. Brownley. Yes, I mean, for those kinds of services. In 
+a transitional, you know, in a transitional space environment, 
+you know, where women would be co-located going through with 
+these particular kinds of services offered to them. The one I 
+referenced in Boston lasted for almost a year of transition. 
+That is what I am looking for. Apparently we do not have the 
+answers to that. I will have to wait until you can get back to 
+me on several of these questions about numbers of residential 
+treatments for women and the two additional women clinics, 
+where they are and how they were decided upon in terms of 
+location.
+    My last question to Dr. Kroviak. In terms of veterans being 
+referred to in the community, what are some of the hallmarks of 
+quality residential substance use disorder treatment programs? 
+How does coordinating this kind of care in the community differ 
+from coordinating a medical procedure such as surgery?
+    Ms. Kroviak. There are some accrediting bodies that are 
+important to the residential programs, like are for Joint 
+Commission. VA is required to ensure that when they are 
+referring a patient to this type of treatment, that those 
+facilities are certified by one of the two institutions as well 
+as the state in which they are operating. In terms of 
+referrals, the referral process is quite similar. You know, a 
+patient can self-refer. Any provider can refer a patient when 
+they are appropriate and engaged in that level of care.
+    Ms. Brownley. Just this accreditation process or, you know, 
+approval from these outside agencies and as far as you are 
+concerned, the VA is adhering to those requirements?
+    Ms. Kroviak. We have no concerns that VHA is not, meaning 
+that we have not heard allegations on that front. Those are 
+appropriate accrediting standards to ensure.
+    Ms. Brownley. Thank you. I yield back, Mr. Chairman.
+    Mr. Luttrell. Thank you, ranking member. The chair 
+recognizes Congresswoman Kiggans.
+    Ms. Kiggans. Thank you, Mr. Chair. Thank you committee 
+members just for being here, our board members. Just a question 
+about reimbursement for community care providers. We got to 
+hear from them and just some of their struggles with why are 
+they not accepting some of our patients that we are referring 
+to. They had concerns about their reimbursement rates and about 
+the time it was taking for them to be reimbursed. Can you tell 
+how competitive we are when looking at community care compared 
+to the VA system? Is the compensation competitive or do we look 
+at that even when we are thinking about compensation?
+    Mr. Yende. Thank you for that question, Congresswoman. In 
+terms of processing claims in general, VA has been pretty good 
+about processing clean claims. I believe over 95 percent of 
+these clean claims are processed within 30 days. I do not have 
+the exact numbers for RRTP programs, but we can get back to you 
+if needed.
+    In terms of a reimbursement, we follow Medicare rates in 
+general, but there are lots of nuances about reimbursement. I 
+believe we are competitive. If there are specific questions 
+about a particular Current Procedural Terminology (CPT) code or 
+those kind of details, we are happy to work offline and try to 
+clarify those questions.
+    Ms. Kiggans. It was just a comment that I have heard more 
+than once about why they can not take VA or they do not want to 
+contract with the VA because our reimbursement rates were not 
+competitive for them. There is such a shortage of mental health 
+providers in the community and throughout the country that, you 
+know, I just want to make sure we are prioritizing staying 
+competitive so that they are incentivized to be able to see our 
+patients.
+    I represent Hampton Roads and recently got to talk to and 
+visit the Hampton VA, which is doing a great job. Their two 
+complaints were that they wanted more space and they needed 
+more people, which I think is kind of are universal complaints. 
+Their mental health department, I think they are doing good 
+work. Overall, I just want to say thank you, you know, to them. 
+I know it is a hard job. I know that as a nurse practitioner, I 
+know nurses especially have been asked to do a lot during the 
+pandemic, especially in the mental health field and all 
+providers. I want to thank them because they are doing good 
+work out there.
+    One of the things I hear about and that I am concerned 
+about as well is when we have these great inpatient programs 
+that we send our veterans to for substance abuse for any mental 
+health as depression, anxiety, suicidal ideations, we stabilize 
+them and have them there for however long it takes, and then we 
+release them back to the community, back to their homes. That 
+continuity of care piece, you guys talked about it a little 
+bit, but, you know, we see it. I saw it, you know, in my 
+practice. It is like we lose them to the community, right? How 
+are we ensuring that when these patients are discharged, I am 
+sure there is a discharge planner that makes sure they have a 
+follow-up appointment, that make sure they go home with their 
+meds. On the State House level, I know we were pushing for 
+things like home health to actually visit the home because 
+leaving the motivation just with this patient and they are 
+already probably struggling, and their family, and a lot of 
+questions, new side effects of medication, transportation 
+issues, all those things.
+    My desire was to have someone actually visit the home. 
+There is so much benefit. We can get to see what that home 
+environment looks like. That continuity of care piece, whatever 
+that looks like, is it home health? What is the VA doing to 
+just ensure that? Is it utilization of nurse managers, you 
+know, to make sure that we are really thinking of all the 
+issues that veterans struggle with once we get them stabilized 
+so that we do not lose them to the community?
+    Ms. Campbell. Thank you for that question. We do have full 
+comprehensive continuum of care that includes, as we mentioned, 
+inpatient, which is the most restrictive all the way to 
+outpatient services, as well as leveraging our peer specialists 
+and that provide a lot of coaching. The uniqueness about VA 
+peer specialists is that they have a veteran lived experience 
+and so they are able to rapidly build rapport with our 
+veterans.
+    We certainly are able to leverage telehealth services so 
+that when the veteran reintegrates in the community and is 
+competitively employed, we can utilize that service so they do 
+not have to spend time away from a job that they have been 
+newly employed to. Then we have multiple award-winning apps 
+that can be downloaded for the veterans use. Thank you.
+    Ms. Kiggans. They are utilizing those things. Someone is 
+going behind them and making sure they are utilizing one of 
+those great services.
+    Ms. Campbell. Yes, we are.
+    Ms. Kiggans. Thank you. Thank you, I yield back.
+    Mr. Luttrell. Thank you. Congresswoman Budzinski, you are 
+recognized for 5 minutes.
+    Ms. Budzinski. Thank you, Mr. Chairman and thank you, 
+ranking member. Thank you to the panel for being here today. I 
+represent a predominantly rural district in Central and 
+Southern Illinois. I just got back from a 2-week recess working 
+at home in-district and heard from many of the veterans while I 
+was in-district that are struggling still in accessing VA 
+services, specifically in our rural areas. This is very 
+concerning to me as the rate of veterans with substance use 
+disorders continues to climb, especially post pandemic. Rural 
+vets simply do not have the access to as many SUD treatment 
+programs and facilities as they do in urban areas.
+    My first question is really two-part and it is for Dr. 
+Campbell. What are the steps the VA is taking to ensure rural 
+veterans with substance use disorders are able to access high 
+quality VA treatment programs? What is being done to address 
+the infrastructure and access shortages for our rural vets?
+    Ms. Campbell. Thank you for that question. We do realize 
+that that is a challenge for our rural veterans. Whenever we 
+can, we leverage our telehealth services. Sometimes we know 
+that there could be bandwidth problems with that. Veterans are 
+still able, certainly, to see individuals face to face as 
+needed. The Office of Mental Health and Suicide Prevention has 
+partnered with rural health and our clinical pharmacy service 
+to help us leverage additional prescribers for medication 
+assistant treatment for our veterans.
+    Ms. Budzinski. Thank you. I wanted to add on to what 
+Ranking Member Brownley had just asked about some of our women 
+veterans in particular. As you know, the number of women in the 
+military is increasing and women are the fastest growing 
+demographic within the VHA. It is why within my district I am 
+going to be specifically assembling a women's veterans council 
+so I can hear specifically from the women veterans in the 
+district because female veterans are experiencing many of the 
+same problems as males.
+    There is emerging evidence showing that women veterans may 
+be more likely to experience substance use disorders than their 
+male counterparts. This is due to additional factors for women 
+veterans tending to experience such as higher chances of 
+experiencing sexual assault, and harassment, rape, and intimate 
+partner violence. Again, my question is for Dr. Campbell. The 
+VA has acknowledged it needs to improve VA services for women 
+veterans, but what are some specific steps that the VA is 
+taking to improve and expand specialized care for women 
+veterans experiencing substance use disorders?
+    Ms. Campbell. Thank you again for that question. Wherever 
+we can in terms of our full continuum of treatment, we are 
+making sure that those individuals who are specialized to 
+address women health needs are right in those clinics, such as 
+the primary care mental health integration clinics, certainly 
+on our residential treatment programming clinics. Then we are 
+also ensuring that our women's advocacy is shored up that they 
+have the time to devote to make sure that there is seamless 
+flow of treatment for women within VA.
+    Ms. Budzinski. Okay, thank you. Since I have a little bit 
+more time, I am actually going to shift to residential 
+rehabilitation treatments. To just note, you know, I understand 
+some of the concerns my colleagues have voiced regarding access 
+standards for residential SUD treatment, as this can lead to 
+longer wait times and longer travel times for our vets, which I 
+know we have been talking about. The ability to have all levels 
+of SUD treatment available, including outpatient, residential, 
+and hospital inpatient services is still strained for all 
+veterans. However, more so again concerning for women veterans 
+and for rural veterans.
+    I also understand that we need to ensure our veterans have 
+protections from fraudulent community providers who have taken 
+advantage of vulnerable patients seeking treatment and who have 
+prioritized profits over the safety of their patients. Veterans 
+deserve, as I believe, high quality evidence-based care if they 
+are sent to community providers for SUD treatment.
+    Dr. Campbell, I know not all veterans have a substance 
+use--require a substance use disorder residential treatment. 
+For those who do, how can the VA help to ensure those veterans 
+are able to access the intensive SUD care they need while also 
+making sure they are protected from fraudulent providers or 
+entities? Thank you.
+    Ms. Campbell. Thank you again for that question. We are in 
+the process of continuing to educate within our own 
+organization, and certainly with the community, the standards 
+that we expect in terms of particularly SUD treatment. We have 
+completed regional conferences to make sure that our staff is 
+aware of the policies as it pertains to community care, as well 
+as holding quarterly meeting with our VSO stakeholders to make 
+sure that they understand where our programs are and to listen 
+and learn regarding the concerns they have.
+    I wanted to mention another certainly concern of our women 
+veterans is that they need to feel safe when they come to our 
+facilities. Within our residential units, we have secured wings 
+just for female veterans with closed circuit TV monitoring at 
+exit entrances so that we can keep monitoring as closely as we 
+can. Dr. Yende can----
+    Mr. Yende. Just to add to Dr. Campbell's point, from a 
+community care side, in addition to the accreditation 
+requirements that Dr. Kroviak mentioned, we also have 
+standardized processes where our Transition Patient Advocates 
+(TPAs) are expected to review LEIE list. If a provider has 
+engaged in fraudulent activities and that has been confirmed, 
+they will be part of the List of Excluded Individuals and 
+Entities (LEIE) list and they are expected to be excluded from 
+that.
+    Ms. Budzinski. Thank you. I think we are overtime. Thank 
+you for your generosity, Madam Chair.
+    Ms. Miller-Meeks. Thank you. The chair now recognizes 
+Representative Luttrell for 5 minutes.
+    Mr. Luttrell. Thank you, Madam Chairman. Dr. Campbell, I 
+understand--I am going to go off what the ranking member asked. 
+The VA currently has two dedicated residential substance use 
+disorder treatment programs for women veterans. Then the 
+question was asked, there are two additional residential 
+programs in development. Where are they and are they admitting 
+patients? How did the VA decide on these location programs 
+because the budget itself is already out?
+    I do respect and appreciate the weight that you have to 
+carry, but we have to go back to our district. When these 
+questions come from our constituents. The fact that you were 
+not able to answer those questions in front of us today is 
+disheartening, because now we have to go back and tell them 
+that the VA does not know. You want to respond to that?
+    Ms. Campbell. I would. Thank you again for that question. I 
+certainly understand the responsibility that we all have to our 
+veterans for these answers. I will certainly get that answer to 
+you as quickly as I can regarding where the two additional 
+programs will be located. The other programs that I mentioned 
+specific to women are in VISN 110 and 17. I will check that, 
+though, to make sure that that is accurate.
+    Mr. Luttrell. Thank you, Doctor. I appreciate it. Dr. 
+Kroviak, are you familiar with VHA Policy 1162.02 regarding 
+mental health residential rehabilitation treatment programs?
+    Ms. Kroviak. I am somewhat familiar. I certainly did not 
+draft it, but I would be happy to take your question.
+    Mr. Luttrell. What do you know about it? Give me the wave 
+top.
+    Ms. Kroviak. I am sorry?
+    Mr. Luttrell. Can you give me what the wave top description 
+is? The way you think that is?
+    Ms. Kroviak. The referral time you mean?
+    Mr. Luttrell. Well, I will just go this way. It states, the 
+directive states that any veteran with a scheduled wait time of 
+greater than 30 calendar days must be offered alternative 
+residential treatments on another level of care to meet the 
+veterans needs and preferences at the time of screening. Where 
+did 30 days come from?
+    Ms. Kroviak. That was legislated to my understanding.
+    Mr. Luttrell. Do you think that that is a good----
+    Ms. Kroviak. Oh, I am sorry. I might be confusing with the 
+Mission Act. I think the 30 days was just a measurable metric 
+developed to assess progress toward providing the care that was 
+not available at the time of the referral.
+    Mr. Luttrell. Given the issues that we see in suicide and 
+substance abuse, the psychiatrists, and psychologists, and 
+doctors in the VA still think 30 days is a reasonable 
+timeframe?
+    Ms. Kroviak. I would have to defer that question to VHA in 
+terms of the 30-day standard of what their providers assume is 
+appropriate.
+    Mr. Luttrell. As the Inspector General, I would assume that 
+you were digging into this problem.
+    Ms. Kroviak. In terms of the 30-day standard, that was not 
+established by the IG.
+    Mr. Luttrell. No, I know.
+    Ms. Kroviak. We just do oversight to hold----
+    Mr. Luttrell. I guess my question----
+    Ms. Kroviak [continuing]. VHA accountable.
+    Mr. Luttrell [continuing]. is, do you think that that 
+timeframe is too long?
+    Ms. Kroviak. I think it depends on the diagnosis that you 
+are describing. I think it is a clinical decision. I think 30 
+days is somewhat arbitrary for a lot of these issues that 
+veterans are referred for specialty care.
+    Mr. Luttrell. Some do not like the Community Care Network. 
+However, the intent of the new COMPACT Act is to provide 
+immediate access to those services anytime, anywhere, largely 
+expanding access to community care. What is the view of the VA 
+on implementing the COMPACT Act? Is there any rulemaking to 
+write directives and policy to implement the act itself?
+    Ms. Campbell. Thank you for that question. COMPACT has been 
+implemented, as you mentioned, that it allows the veteran to be 
+treated for an acute suicide episode at any community facility 
+or within VA. I will defer to Dr. Yende for more information on 
+COMPACT.
+    Mr. Yende. Congressman, implementation started in January 
+of this year. Implementation of the COMPACT Act started in 
+January of this year. To date, we have provided care for over 
+11,000 veterans since the program started.
+    Mr. Luttrell. Eleven thousand?
+    Mr. Yende. Yes. This is both on the direct care side as 
+well as on the community care side.
+    Mr. Luttrell. Okay, final question. I am just going to 
+throw this out to the three of you. Are any of you aware of a 
+new VA community care policy or process and/or guidance within 
+the last 10 months surrounding a mental health residential 
+rehabilitation treatment program that restricts, inhibits, or 
+deters community care referrals? I say that because I actually 
+have verbal and written statements by VA employees that State 
+that they are under this new policy.
+    Mr. Yende. To our knowledge, Congressman, we have no 
+policies that would restrict. If they meet criteria for 
+referring the patient to alternative treatment facilities for 
+RRTP programs, which includes community care, they should be 
+referred in a timely manner.
+    Mr. Luttrell. My time is up, ma'am. I would like to 
+preserve the opportunity to submit additional questions.
+    Ms. Miller-Meeks. So recognized. The chair now recognizes 
+Representative Landsman for 5 minutes.
+    Mr. Landsman. Thank you, Madam Chair, and thank you all for 
+being here. My district, which includes the city of Cincinnati, 
+Southwest Ohio, is home to a great VA. We offer, you know, some 
+of the best veterans care in the country for PTSD, suicide 
+prevention, and other mental health issues.
+    When I have spent time with folks at the VA in Cincinnati, 
+they talk a lot about the evidence-based programming, and it is 
+really compelling. When it comes to specialty treatment for 
+substance use disorder, veterans across the country are not 
+getting the care they deserve. This may have already come up. I 
+have seen statistics that suggest more than 550,000 veterans 
+diagnosed with substance use disorder last year, of those, 62 
+percent received outpatient treatment. Those numbers drop off 
+drastically as the level of services increase. Less than 25 
+percent received specialty care and even fewer received 
+intensive care at 4 percent. You see, there is a drop off in 
+terms of if a veteran needs additional treatment outside of the 
+outpatient treatment.
+    I have two questions. One has to do with, you know, do you 
+have a sense as to the drop off? What you know, have you seen, 
+is it staffing, is it other issues? Then the second has to do 
+with a general question as it relates to all of the VA 
+services. This is true for a lot of public services, nonprofit 
+services, and that is that we really do struggle to get to 
+folks who are not getting to us. You know, this is particularly 
+true for veterans, particularly veterans who are just not 
+coming in, you know, and have real issues.
+    I have been pushing in these hearings for the kind of 
+programming outreach that gets the VA to where folks are. I am 
+curious what you think has worked, could work in terms of 
+meeting veterans where they are, and connecting those who are 
+currently disconnected. Two questions, one has to do with the 
+drop off and the second outreach. Thank you.
+    Ms. Campbell. Thank you, sir, for those questions. I will 
+take the first question in terms of the dropout. The dropout 
+may not necessarily mean that that veteran is not in some type 
+of other care. I think what you were referring to is a drop off 
+when it concerns more intense care, such as residential 
+treatment. The veteran may still be involved in an outpatient 
+treatment, may be involved with teleservices, and sometimes, 
+for various reasons, the veteran has elected a later date to 
+come into treatment. That decision regarding the level of care 
+is always between that individual veteran patient and the 
+provider that is helping with the medical disposition and 
+clinical decisionmaking. We do realize, especially where 
+community care is concerned, because SUD is such a specialized 
+treatment, that it may not be available in every location where 
+that veteran is.
+    In terms of your second question regarding being able to 
+touch veterans who are not already in our care, we are 
+certainly hoping that the legislation that has been passed with 
+COMPACT, allowing veterans to be treated wherever the need is 
+without any cost to them will help with that. We have fantastic 
+media campaigns, Don't Wait Reach Out, where we are utilizing 
+veterans to help veterans understand what it is like to come 
+into VA for care. Then certainly leveraging everywhere we can 
+our peer support specialists who have that lived experience 
+that can help us bring in care.
+    Mr. Landsman. Thank you very much. I have additional 
+questions if I can submit them. Thank you.
+    Mr. Van Orden. Dr. Campbell, good afternoon. How long has 
+your office been in existence? I know you have been there since 
+2022, but how long has the Office of Mental Health and Suicide 
+Prevention been in existence?
+    Ms. Campbell. I am sorry, sir, I did not hear the entire.
+    Mr. Van Orden. How long has the Office of Mental Health and 
+Suicide Prevention been in existence?
+    Ms. Campbell. Been getting?
+    Mr. Van Orden. Been in existence?
+    Ms. Campbell. Oh, been in existence. At least 34 years.
+    Mr. Van Orden. Thirty-four years. Very well, thank you. How 
+many people work for you?
+    Ms. Campbell. I have about 140 people within my office.
+    Mr. Van Orden. Got it, thank you. Do your reporting numbers 
+reflect, for veteran suicide, do they reflect overdoses?
+    Ms. Campbell. That is a separate report in terms of 
+overdoses that we hope to be able to publish the end of June.
+    Mr. Van Orden. In your opinion, Doctor, if someone kills 
+themselves by overdose or gunshot wound, are they still dead?
+    Ms. Campbell. They are still dead, sir.
+    Mr. Van Orden. Okay. Do your metrics for veteran suicide 
+include overdose?
+    Ms. Campbell. The metrics that we reported recently on our 
+annual report does not include overdose.
+    Mr. Van Orden. Okay. That is a problem. What are your 
+established metrics of success for your Office of Mental Health 
+and Suicide Prevention?
+    Ms. Campbell. We have various metrics depending on the 
+service that we are looking at in terms of outcomes. We have 
+hundreds of metrics that we use. It depends on specifically 
+what you are asking about in terms of outcome.
+    Mr. Van Orden. Do you think, and please take this as it is 
+intended, Morgan and I have had multiple friends commit 
+suicide. Over 21 now, for me personally. Veterans have 
+committed suicide. Do your metrics include veterans that do not 
+commit suicide? I know it is kind of hard to prove a negative. 
+What I am wondering is, after 34 years of existence with over 
+140 employees, if your office ceased to exist, would more 
+veterans be alive tomorrow? I mean, is your office preventing 
+veterans from committing suicide or not? Or are we just 
+spending money and hiring people so that they can get together, 
+come to these committee meetings, talk a bunch, submit reports, 
+metrics that can not be defined? Are you moving the needle?
+    Ms. Campbell. Sir, we do. Thank you for that question. I 
+certainly can understand the frustration. This is a very 
+complicated area. We are certainly ourselves saddened by any--
+--
+    Mr. Van Orden. Doctor, please----
+    Ms. Campbell [continuing]. suicide.
+    Mr. Van Orden.--I have a limited amount of time.
+    Ms. Campbell. I do believe we are moving the needle on 
+this. We have a full public health approach where suicide 
+prevention is concerned. The field of mental health and 
+psychology, psychiatry has evolved over the past 30 to 40 
+years. As we continue to evolve, we are learning new things, 
+new methods, new evidence-based approaches that we can use.
+    Mr. Van Orden. Thank you. That leads to my next question. 
+How many non-evidence-based treatment modalities do you guys 
+support, specifically religious and faith-based programs 
+similar to the incredibly successful Mighty Oaks Foundation? 
+How many faith-based nonevidence programs are currently being 
+administered by the Veterans Administration?
+    Ms. Campbell. Thank you again for that question. Within VA, 
+we certainly value scientifically based evidence-based 
+programs. That does not mean, however, that we do not 
+collaborate with our chaplain services that certainly help us 
+with specifically the moral injury side of PTSD and other 
+mental health disorders.
+    Mr. Van Orden. Doctor, what I am hearing from you is that 
+the Veterans Administration is not helping these wildly 
+successful programs that can quantify, like, actually quantify 
+the amount of veterans lives that they are saving because they 
+are faith-based, which, according to you guys, are non-
+evidence-based. Living veterans, that is evidence of a 
+program's functioning.
+    I just want to be real clear. You are telling me the 
+Veterans Administration is not allowing non-evidence-based, 
+specifically faith-based programs like the incredibly 
+successful Mighty Oaks Warrior Foundation to function within 
+your organization, even though they have proven to save 
+thousands of veterans lives? Is that accurate?
+    Ms. Campbell. Sir, we are certainly willing to sit down and 
+have a conversation with this organization to see how we can 
+partner with them.
+    Mr. Van Orden. Thank you very much for your time, ma'am. 
+With that, I yield back.
+    Ms. Miller-Meeks. Thank you. The chair now recognizes 
+herself for 5 minutes of questioning. The Independence Fund 
+will testify that in the past 23 months, their case workers 
+intervened for 110 veterans who ran into issues accessing 
+complex mental health care and 59 of those required substance 
+use care. In fact, in the last Congress, we passed a bill, the 
+Brandon Act, because a veteran in my district went to the VA 
+Center, was denied care, and 5 hours later committed suicide. 
+Would you agree that these veterans, frustrated by access to 
+critical care, would be at elevated risk for suicide? Dr. 
+Campbell, yes or no, please?
+    Ms. Campbell. Yes, I would agree that they are at high 
+risk, and veterans at high risk certainly would be at high risk 
+for suicide.
+    Ms. Miller-Meeks. Dr. Yende.
+    Mr. Yende. Yes, chair, Congresswoman.
+    Ms. Miller-Meeks. Dr. Campbell, the committee has been made 
+aware of a policy that was supposedly rolled out internally, as 
+was mentioned, that required that if a VISN's Veterans 
+Administration Medical Center (VAMC) could not meet the 30-day 
+appointment availability window, it must confer with other VISN 
+VAMCs for VA residential substance use disorder bed 
+availability before leveraging community care in order to keep 
+care in house. I certainly have experienced these complaints in 
+my own district in Iowa. It was also reported that five VAMCs 
+must be contacted to fulfill the directive. Can you either 
+confirm or deny this policy?
+    Ms. Campbell. There is no policy, Madam Chairwoman, denying 
+veterans access to community care. The Standard Episode of 
+Cares (SEOCs) regarding residential treatment were newly 
+established. SEOCs is a standard episode of care for community 
+care in October 2020. The process is somewhat new for us. We 
+understand there are challenges in making sure that people are 
+educated about the appropriate referrals to community care. We 
+do not have a policy denying people community care access.
+    Ms. Miller-Meeks. Would you call these veterans liars?
+    Ms. Campbell. No, I would not call the veterans liars. What 
+I would say is that we need to do a better job of educating our 
+veterans, our staff, and the community about the appropriate 
+procedures for referrals to community care.
+    Ms. Miller-Meeks. Well, I can certainly say as both a 
+physician who has taken care of veterans through the community 
+care system, the Mission Act, and as a veteran myself, that it 
+is unacceptable. When people report and come to the decision to 
+obtain substance use disorder treatment, they should be 
+addressed and acknowledged and get care immediately. This also 
+goes for complex mental health. I can tell you the family of 
+our veteran who committed suicide 5 hours after being at a VA 
+hospital, would also agree with that.
+    Dr. Campbell, we have heard of multiple instances where 
+veterans have been approved for a community care referral, as I 
+said, only to have that referral overruled by administrative or 
+other senior staff. Can you explain why a decision for a 
+specific course of medical care as determined between the 
+veteran and their provider would be reversed by an official 
+outside of their clinical chain? What recourse does the 
+referring physician have when their clinical judgment is 
+overruled? How are you going to address this deficit?
+    Ms. Campbell. Thank you for that question. Each case, as we 
+mentioned, is an individual case that is a decision between 
+that provider and the patient or veteran. I am not aware of 
+policies where decisions are being overturned. I will turn to 
+Dr. Yende to see if he has more information regarding community 
+care.
+    Mr. Yende. Congresswoman, if the provider determines that 
+the veteran should go to the community, then that decision 
+should be followed through. Our policies do not require that 
+that care should be provided in the VA in that instance. If 
+there are instances, we are happy to look into it.
+    Ms. Miller-Meeks. Let me just speak for the entire 
+committee. We expect better of the VA medical care system. Our 
+veterans deserve better. Through this oversight, you know, some 
+of the comments that have been revealed are really astonishing. 
+We hold oversight because what is occurring at the VA Medical 
+Center and what is occurring in referrals for community care 
+when veterans are in need, especially complex mental health and 
+substance use disorder, needs to be addressed and addressed 
+rapidly. We will continue to ask for both collaboration and 
+verification, as we have said. What you have learned today 
+should in fact put you on notice and on record.
+    On behalf of the subcommittee, seeing that there are no 
+other Representatives who wish to ask questions, I want to 
+thank you for your testimony and for joining us today. You are 
+now excused. We will wait for a moment as the second panel 
+comes to the witness table.
+    Welcome, everyone, and thank you for your participation 
+today. On the second panel, we have Dr. Daniel Elkins, the 
+chief of staff with the Independence Fund, Mrs. Jen Silva, 
+chief program officer with the Wounded Warrior Project, Mr. 
+Thomas Sauer, chief executive Officer and owner of Miramar 
+Health. Accompanying Mr. Sauer is Mr. Brendan Dowling. Mr. 
+Elkins, you are now recognized for 5 minutes to deliver your 
+opening statement.
+
+                   STATEMENT OF DANIEL ELKINS
+
+    Mr. Elkins. Good morning Chairwoman Meeks, Ranking Member 
+Brownley, and members of the subcommittee. On behalf of Sarah 
+Verardo, Chief Executive Officer (CEO) of the Independence 
+Fund, we would like to thank you for your kind invitation to 
+provide testimony at today's hearing. As a currently serving 
+Green Beret in the National Guard and the chief of staff of the 
+Independence Fund, I have seen firsthand my brothers and 
+sisters in desperate need be denied access to care, fall 
+through the cracks of bureaucracy, and suffer alone with the 
+wounds from war. It is this denial of access and subsequent 
+isolation that often culminates in death by suicide, a death 
+that could be prevented.
+    This hearing could not be more timely as our casework staff 
+have been receiving a significant number of inquiries 
+nationwide who are experiencing frustration and hardship when 
+seeking the most critical services for acute mental health 
+conditions. The geographic dispersion and similarity of factors 
+presented in many of the cases indicate that these cases are 
+not merely anecdotal but may be indicators of a more widespread 
+problem for mental health within the hospital network. We would 
+like to thank VA's VSO liaisons for their support and 
+assistance and help with these cases. However, there is work 
+that needs to be done.
+    In our written testimony, the Independence Fund has 
+provided extensive case study examples of the inconsistencies 
+currently present within VHA care. Each of these cases involves 
+a veteran who was in acute need and required priority treatment 
+for substance abuse disorder in PTSD. These veterans were 
+denied access to care, even community care referrals, in direct 
+conflict with the spirit. In some cases, incidents of the 
+letter of the law of Mission Act. We have found that the 
+Veterans Health Administration was unable to provide these 
+veterans with proper continuity of care, failing to meet the 
+most basic of industry standards.
+    Indeed, it was not until October 2021 that the Independence 
+Fund discovered that VHA does not consider the access standard 
+authorities of Mission Act when veterans are seeking help for 
+substance use disorders. Yes, you heard that correctly. 
+Veterans do not have Mission Act's regulatory protections for 
+wait times, travel distance when seeking treatment for 
+substance use disorders as these treatments fall within VHA's 
+residential rehabilitation treatment program.
+    According to the VA, this program is instead under the 
+authority of VHA Directive 1162, which requires that VA admit a 
+veteran seeking inpatient residential care within 72 hours for 
+priority patients, and no more than 30 days after a VA 
+assessment for any patient needing residential care. Based on 
+our experience, however, that is not unusual. It is not unusual 
+for veterans to wait beyond this time limit. Furthermore, it 
+has been our observation that even after those time limits are 
+exceeded, VHA exercises latitude to further delay access to 
+treatment when looking for an available bed in another VA 
+facility, even if that facility is several states away.
+    More troubling, the Independence Fund has found that some 
+VHA administrators or senior clinical staff overrule referrals 
+of care for the community, in spite of VA-appointed providers 
+for the veteran. There have also been some cases where our 
+casework team were told by an administrator that community care 
+was not offered. At times, the administrative staff did not 
+understand community care was even a lawful option. In certain 
+circumstances, VA staff do not discuss community care options 
+with the veteran without prompting or until a case worker 
+inquires a VA administrator or patient advocate.
+    It is important for us all to keep in mind that many 
+veterans do not know their full care options and have already 
+taken a monumental step in seeking help. More work needs to be 
+done. In our written testimony, we offer six recommendations to 
+the subcommittee on how to resolve these issues that create 
+barriers to care for veterans seeking treatment for substance 
+use disorder and PTSD and other conditions that are highly 
+indicative of death by suicide. I will highlight what we 
+believe should be the foremost priority for this subcommittee.
+    We must ensure that all criteria for community care wait 
+times, travel distance, and access standards under Mission Act 
+govern VHA Directive 1162 or eliminate VHA Directive 1162 
+entirely and defer to Mission Act's original authorities and 
+intent to support all levels of specialty care, including 
+rehabilitation services. Once this goal is achieved, it will 
+substantially improve the quality, timeliness, and 
+effectiveness of care for veterans in acute need of treatment 
+for substance use disorder, whether that be in a VHA provider 
+or community care provider.
+    Thank you for this opportunity to share with you all the 
+struggles of our Nation's heroes, and I look forward to 
+answering any questions you may have.
+
+    [The Prepared Statement Of Daniel Elkins Appears In The 
+Appendix]
+
+    Ms. Miller-Meeks. Thank you, Mr. Elkins. Ms. Silva, you are 
+now recognized for 5 minutes to deliver your statement.
+
+                     STATEMENT OF JEN SILVA
+
+    Ms. Silva. Thank you, Chairwoman Miller-Meeks, Ranking 
+Member Brownley, and the distinguished members of the Health 
+Subcommittee for this opportunity to speak before you. Since 
+our founding 20 years ago, Wounded Warrior Project has been 
+helping post-911 wounded, ill, and injured veterans address 
+their biggest challenges and reach their highest potential 
+through impactful no cost programming and advocacy. Today, 
+those two paths intersect to highlight how veterans who need 
+inpatient care for mental health or substance use are not 
+receiving access to the prompt and in some cases, lifesaving 
+care that they need and deserve.
+    The VA Mission Act was signed into law with broad support 
+in the potential to provide veterans and their advocates with 
+clear, useful, and timely information that could inform their 
+health care decisions. In January 2019, VA published access 
+standards that included limits on wait times and travel for 
+mental health care. However, as time has passed, it has become 
+clear that these access standards have a critical gap for 
+veterans seeking care in inpatient programs, most specifically 
+VA's mental health residential rehabilitation treatment 
+programs, or their community-based equivalents.
+    As discussed in our written statement, VA's Mission Act 
+derived access standards do not extend to these crucial 
+inpatient mental health programs. Instead, veterans and their 
+advocates are left to interpret a VHA directive that we have 
+discussed. In our experience, this directive provides little 
+predictability about the course of their treatment and their 
+options for care along the way. Unless Congress or VA act to 
+address this policy gap, many of these veterans will continue 
+to face obstacles in connecting to the care they need, placing 
+them at heightened risk for negative outcomes the longer they 
+wait.
+    My remarks today are largely informed by Wounded Warrior 
+Project's Complex Case Coordination Team, or C3. This team 
+offers a high touch service to warriors with complex challenges 
+that are often multifaceted and require urgent action. The team 
+connects warriors to our internal support programs and to VA 
+and community care treatment options, all with the goal of 
+providing immediate assistance and case coordination.
+    In just the last four years, our team has helped nearly 
+1,200 warriors with complex cases navigate VA and community 
+treatment options. However, our support simply cannot reach the 
+scale required to assist all veterans who need this heightened 
+level of care and intervention. The team's single biggest 
+challenge since inception has been helping veterans access VA 
+inpatient mental health care. The lack of a consistently 
+applied access standard has essentially resulted in no true 
+access standard for residential treatment. Local policy 
+variations have resulted in unpredictable referral decisions. 
+Wait times are not uniformly calculated and can be impacted by 
+inconsistent policies about a veteran first having to complete 
+significantly less intensive treatment options. Staffing 
+challenges can also limit communication and bed availability. 
+Alternative treatment options that would result in a community 
+or even intra-VA referrals and faster access are not uniformly 
+accepted by VA administrators.
+    In totality, many veterans are not accessing the care they 
+need when they are ready to receive it. Delays in finding 
+appropriate care in a timely manner not only fails to 
+capitalize on the veteran's desire to change their life 
+circumstance, but in some cases causes further damage to their 
+mental and physical health, declines in family and social 
+relationships, and even involvement with the justice system. As 
+illustrated in VA's most recent National Veterans Suicide 
+Prevention Annual Report, substance use disorder continues to 
+be a significant factor in veteran suicide. While the report 
+showed overall reduction in the veteran suicide rate, 
+subpopulations struggling with opioid, cocaine, cannabis, and 
+stimulant disorders showed increased suicide rates.
+    To mitigate the risks associated with inpatient care access 
+and ensure consistent VA help throughout the enterprise, we 
+believe that Mission Act access standards must apply to the 
+delivery of inpatient mental and substance use disorder care. 
+We want and we need the VA to be successful in this. Simply 
+put, for us, VA is our most critical partner in connecting 
+veterans to the inpatient care they need. In closing, I want to 
+thank the subcommittee for this invitation to testify, and I 
+welcome your questions.
+
+    [The Prepared Statement Of Jen Silva Appears In The 
+Appendix]
+
+    Ms. Miller-Meeks. Thank you, Ms. Silva. Mr. Sauer, you are 
+now recognized for 5 minutes to deliver your opening statement.
+
+                   STATEMENT OF THOMAS SAUER
+
+    Mr. Sauer. A broken record here, all right. Thank you very 
+much. Chairman Miller-Meeks, Ranking Member Brownley, and 
+members of the subcommittee, my name is Tom Sauer, and I am 
+honored to testify before you today. I am a Navy and Marine 
+Corps veteran, and for the better part of my life, I have been 
+wearing the cloth of the Nation. I am a former listed Marine 
+infantryman, a 2006 Naval Academy graduate, and a former Navy 
+explosive ordinance disposal officer. Today, however, I am the 
+owner and CEO of Miramar Health, a veteran-owned and operated 
+community care provider for intensive substance use disorder 
+and mental health treatment exclusively for America's veterans.
+    Mental health and addiction treatment are deep passions of 
+mine because depression and addiction killed my dad. Five days 
+before I graduated from high school and 3 weeks before I 
+shipped out for the Marines in 1999, a methamphetamine overdose 
+took his life after decades of struggle, just like so many 
+millions of Americans suffering from our country's disastrous 
+mental health and addiction crisis. I would also like to point 
+out that 4 days ago, my father-in-law died of addiction. He was 
+an Air Force veteran.
+    Thanks to recent legislation, thousands of veterans have 
+enhanced access to lifesaving mental health care and addiction 
+treatment within the VA's Community Care Network. We provided 
+intensive, custom tailored, world class mental health and 
+addiction treatment for nearly 250 veterans from a dozen VA 
+medical centers across the western United States, typically for 
+30, 60, sometimes 90-plus day stays. This treatment is for our 
+veterans who are truly suffering, in crisis, and often near 
+death from suicide or overdose resulting from this disastrous 
+mental health and addiction crisis.
+    In 3-1/2 years, we have grown from one small clinic with 
+six employees to eight residential facilities and one large 
+outpatient facility. These facilities are staffed by nearly 100 
+phenomenal physicians, nurses, psychologists, therapists, 
+medical technicians, case managers, and support staff, many of 
+whom are veterans themselves. One is sitting right to my left 
+as well. I could not be any prouder of them.
+    I did not come all the way out here just to tell you all 
+this, just so I could pat myself on the back, but rather to 
+simply convey the sincerity of our intentions and to lay out 
+how important this challenge is. Miramar believes in our 
+partnership with the VA by bridging both capability and 
+capacity gaps within certain VA medical centers and in being an 
+advocate to veterans in need, all while providing them with the 
+highest quality of care. In other words, we do not consider 
+ourselves to be just another government contractor. We are 
+partners and we are teammates with the VA, and we are here 
+asking for your help to ensure our Nation's veterans receive 
+the lifesaving care they need and deserve by helping us to 
+strengthen that partnership.
+    The overwhelming majority of frontline, boots on the ground 
+VA personnel we directly interact with are fantastic, 
+dedicated, lifesaving public servants. Some of these guys 
+deserve medals and parades. There are many who deserve medals 
+and parades. I am here to add today to advocate for veterans in 
+need to be able to access care anywhere immediately and we can 
+figure out that paperwork later.
+    The current VA policy of 30 days to wait to find a bed in a 
+given region does not meet the urgent level of this crisis. I 
+think you have been hearing this before, a recurring theme. 
+Specifically, we have encountered several occasions where, 
+despite community care being available for a veteran in crisis, 
+they are either put on a waiting list for up to 30 days before 
+receiving care when they do not have 30 minutes without 
+becoming a very real risk to suicide or overdose. Chairwoman 
+Miller-Meeks, I think you have highlighted such a case. We have 
+cases that can highlight that as well too.
+    I have firsthand knowledge of these suicide and overdose 
+deaths since I have owned Miramar, so I can understand the 
+devastation this policy can cause. We believe this issue could 
+rather be easily corrected through either through a legislative 
+carve out for community care eligibility, as with urgent care, 
+or when it comes to urgent care for community care, when it 
+comes to mental health and addiction treatment. This could be 
+done by clarifying ensuring the COMPACT Act is being 
+implemented as intended and that veterans are aware of this 
+option for receiving care.
+    We urge you to seek to ensure that our veterans have access 
+to care they need when they need it through the Community Care 
+Network. We appreciate your consideration of this matter, and 
+we are willing to work with you to address these issues to 
+ensure that our guys and gals get the care they need so 
+desperately. Thank you, Chair, and members of the subcommittee, 
+each of you, your staffers, and the committee staff are 
+champions for America's veterans. I am exceptionally grateful 
+to you and to your commitment to serving them and that you are 
+holding this important hearing today. In conclusion, thank you 
+so much for addressing these issues, and I am more than happy 
+to answer your questions.
+
+    [The Prepared Statement Of Thomas Sauer Appears In The 
+Appendix]
+
+    Ms. Miller-Meeks. On behalf of all the committee, Mr. 
+Sauer, our condolences on the loss of your father, and I thank 
+you for your testimony. I will go last in the lineup of 
+questions. I now recognize Ranking Member Brownley for any 
+questions she may have.
+    Ms. Brownley. Thank you, Madam Chair. Ms. Silva, I just 
+wanted to stay on a theme of women veterans for a minute, and I 
+know we are talking about access, so I was wondering if you 
+could speak at all to your experiences in trying to get women 
+veterans the gender specific care that they need programs, 
+inpatient programs, and if you could speak to that within the 
+VA and within the community.
+    Ms. Silva. Well, thank you for the question. I believe the 
+women specific care adds an element that complicates this 
+already kind of urgent action approach to this. We have a very 
+short window for care. If a veteran comes to us and needs 
+that--we are talking, specifically mental health and substance 
+use disorder--the co-occurring with either military sexual 
+trauma makes them at a heightened risk, as we talked about in 
+the previous panel for this.
+    I have a vignette that I think is a pretty interesting one, 
+where a female veteran was trying to get care for Military 
+Sexual Trauma (MST) and substance use disorder, so co-
+occurring, and the opportunities were not available. They were 
+available in that Community Care Network area. Unfortunately, 
+in this situation, the VA said it seemed too resort-like and 
+were not able to get her into that care. They did not allow for 
+that.
+    What she did, but they did have an intra-VA option and she 
+moved her entire family across a couple of states in order to 
+get into that care. She was into VA care. I think in my 
+experience, once they are in the care, so all those barriers of 
+maybe females not being comfortable, once they are in there, it 
+has been very productive and the outcomes are fantastic. We 
+have got to work on--it does not have to be that difficult 
+where you have got to move across states. Maybe it had to work 
+in this situation. I think we can do better though.
+    Ms. Brownley. Well, I think it is true for men as well as 
+women, but I think for particularly women, I think you just 
+highlighted one of the, I think, big obstacles to access, and 
+that is a woman to get the proper resources and treatment that 
+she needs, many times has to travel outside of her state in 
+order to receive that within the VA. You know, what does a 
+woman do with her family? All of that. It becomes a tremendous 
+burden for them to, you know, to leave family, to leave 
+responsibilities in order to get the appropriate treatment. I 
+feel like we need to address some of those issues as well.
+    As a consequence, we need more, I believe, more gender 
+specific programs for women. I wonder if you could just comment 
+a little bit. I know we are talking more about access, but just 
+in terms of your experiences with getting referrals inpatient 
+within the VA and within the community, can you speak to--it is 
+my sense that when I have spoken to people, once they get into 
+the VA and inpatient care, it is pretty good and the success is 
+there. Can you talk a little bit about quality of care compared 
+to, you know, inpatient VA versus community care? Can you give 
+any kind of conclusions?
+    Ms. Silva. Ma'am, I actually agree with what you said. Once 
+they are into care, whether it is in the VA and in the 
+community, it has been very positive overall. It is the 
+connective tissue in order to get them into that care is 
+lacking. They are willing oftentimes they have to go to a less 
+intensive program before they are--even if the clinical 
+decision is that they need this inpatient approach, it needs to 
+be quick. That window of opportunity, especially when we are 
+talking about these complex cases, most of them co-occurring or 
+the substance use disorder it is a really short window. You 
+have got to act as everyone would agree.
+    You have to have that availability. There is a shortage, et 
+cetera. If the community can provide that, then that is the 
+best way to go, in my opinion, because ultimately the veteran 
+has a positive experience. It is still a VA referral. I think 
+from a customer perspective, it actually keeps your customer, 
+if I can use that term, happy with the overall care, even if it 
+is not within the VA Medical Center.
+    I know within--back to the military sexual trauma or women 
+specific care, we have found within our Warrior Care network, 
+it is extremely important to many of the women that are served 
+through our intensive outpatient program that they receive it 
+outside of the VA or outside of maybe if they are still active 
+duty. That is a gigantic barrier to care. If that is the best 
+option for that female veteran, then let us do it. We have VA 
+liaisons there that can get them back into VA care. It is 
+really not outside. It is just the connective tissue is a 
+really positive experience for that veteran.
+    Ms. Brownley. Thank you. I yield back.
+    Ms. Miller-Meeks. Thank you, Ranking Member Brownley. I now 
+recognize Representative Luttrell for any questions he may 
+have.
+    Mr. Luttrell. Thank you all for your service to this 
+country and your continued service to our veteran community. I 
+really appreciate that. Sir, I am very sorry for your loss.
+    Given the previous testimony on the previous panel's 
+testimony, Mr. Sauer, can you just explain to us as a veteran 
+why it is you do what you do today?
+    Mr. Sauer. Well, thanks for the question, Mr. Luttrell. I 
+found really no higher calling than helping fellow service 
+members. That is what it comes down to. When it came down to 
+all this. I realized that there is a bigger crisis, you know, 
+especially you two gentlemen up there on the dais, that we 
+probably lost more friends and colleagues to suicide and 
+addiction than we did on the battlefields overseas. I saw this 
+as an incredibly growing problem.
+    The opportunity for a TriWest contract was presented. I did 
+not know this was something that was even available. I like 
+looked at this phenomenal opportunity that serves this growing 
+dramatic public need. When one of my partners, who is my Naval 
+Academy classmate, and I work with folks like Mr. Dowling here 
+from the special operations community, like what a phenomenal 
+group of people. Just to absolutely save lives.
+    I can tell you right now that, you know, as a former Navy 
+Explosive Ordnance Disposal (EOD) officer, I spent a long time 
+in uniform, that the work that we are doing herein today is far 
+more valuable and to the Nation, and to the country, and 
+frankly, for the world at large than anything I ever did 
+wearing the uniform.
+    Mr. Luttrell. Congressman Van Orden brought up a very valid 
+point. He said that the Suicide and Prevention Office in the VA 
+has been in place for 34 years. My question that I did not get 
+to ask then was has the suicide rate gone up in those 34 years? 
+It has, absolutely. I think that lends itself to the efforts 
+that this panel is making to protect our brothers and sisters 
+in the veteran space.
+    If there were one change that you could make that would 
+increase veteran access to lifesaving substance abuse and 
+mental health inpatient care, what would that be?
+    Mr. Sauer. I think it is a pretty simple one right now is 
+that to change that wait time from 30 days. When they do not 
+have 30 minutes, ordinarily I would suggest 24 hours. You know 
+what, to kind of be--to be a little understanding of the VA, 72 
+hours, that is one business day. When a veteran shows up to 
+their VA provider in a mental health or addiction crisis that 
+the VA is, you know, their standard must be that they put that 
+veteran into a bed, get them off the X, so to speak, because 
+lots of--we do not know exactly that the severity of the need 
+of care. Get them off the X and they have the opportunity to be 
+in a residential treatment program, whether or not that is in 
+an in-house VA facility. If those facilities are full, not 
+available right away, then you get them into a community care 
+facility within 72 hours, one business day, preferably 24, 
+frankly.
+    If we can do that right there, because obviously, one, we 
+need to be able to ramp down the level of care as far as like 
+if somebody has to wait 30 days, but then they can do 
+telehealth, like that is ramping up the level of care. You need 
+to get them off the X right away, get them into a highly 
+intensive level of care, and then you can assess and start 
+ramping down those levels of care. However, I would say that is 
+what you got to do right there, just immediately get them off 
+the X in that care, 72 hours. Yes, I think that is it right 
+there. I mean, in a simple word, is not 30 days. You have got 
+72 hours, whether it is in the VA or outside with community 
+care.
+    Mr. Luttrell. For us on the panel and having dealt with the 
+VA at multiple levels, is it in your professional opinion that 
+the referral process is failing at a lower level or at the 
+higher leadership level, at the higher level?
+    Mr. Sauer. Absolutely. It is not the social workers we deal 
+with. I have encountered many who have told me, you know, over 
+the phone, told people like Brendan over the phone as well, or 
+even over email saying, this program looks fantastic. I would 
+love to write you referral. You know, instead they would say, 
+however, the residential rehabilitation care has a different 
+Mission Act eligibility criteria than other specialty services 
+and then they cite 1162.02. In that particular case, I took 
+that particular veteran on scholarship. He was a retired 
+Marine, spent a long--former infantryman--and we took him on 
+scholarship. We also have a former Navy Seal who is in our 
+facility today on scholarship as well, because he was denied 
+care and denied access. We saw we had to do the right thing.
+    We know when I speak to these social workers nearly every 
+single time, they are the ones who say we would love to be able 
+to refer them, but we can not. They will not let us.
+    Mr. Luttrell. If you do not mind, I would like to circle 
+the wagons and get those names and the positions they hold so I 
+can address them directly. I yield back.
+    Ms. Miller-Meeks. Thank you, Representative Luttrell. I now 
+recognize Representative Van Orden for 5 minutes.
+    Mr. Van Orden. Dr. Campbell, I see you in the back there. I 
+want to thank you for staying here. Just so you are aware, I 
+think Brendan, you are an enlisted guy, right? Yes, you did not 
+go bad like, you did not go bad like Sauer?
+    Mr. Dowling. Yes, I was.
+    Mr. Van Orden. Yes, yes, noted. Ma'am, so as enlisted 
+people, we need to make the rubber meet the road. Although 
+those questions appear to be harsh, they are for a very 
+specific reason so that we can quantify a problem and then move 
+forward. Our purpose here, my sole legislative agenda as the 
+chair of a Subcommittee for Veterans Economic Opportunity is to 
+prevent veteran suicide. I thank you for staying here. I 
+appreciate that greatly.
+    What I have noticed, gentlemen and gentlewoman, is that the 
+issue is not with the Veterans Administration in many cases. It 
+is with the Department of Defense (DOD). What I would like to 
+ask you specifically is what is your access to the Transition 
+Assistance Program? We will just start with Mr. Elkins, the 
+Green Beret.
+    Mr. Elkins. Well, as an enlisted guy, it is always a 
+pleasure to be in the company of other enlisted, as well.
+    Mr. Van Orden. Okay. I did not realize that. I thought you 
+went bad too. Go ahead.
+    Mr. Elkins. Working with the Transition Assistance Program 
+at many levels, having gone through it multiple times, we will 
+have to go through it again in the next several months, as I am 
+about to transition out of my role to deploy for the third time 
+in the last several years. There is definitely gaps that need 
+to be addressed.
+    Mr. Van Orden. Let me ask you something specifically, does 
+your organization have access to the Transition Assistance 
+Program so that you can speak to active duty service member as 
+an upstream solution to prevent them from committing suicide 
+and having drug and alcohol addiction issues after they retire?
+    Mr. Elkins. Yes.
+    Mr. Van Orden. You do?
+    Mr. Elkins. Yes.
+    Mr. Elkins. Okay. Ma'am, Ms. Silva.
+    Ms. Silva. No, we do not.
+    Mr. Van Orden. You do not. Okay. Mr. Sauer.
+    Mr. Sauer. No, sir, we are not. We are dealing usually 
+directly with VAs, and by the time a veteran comes to us or we 
+are made aware of a veteran that in need, that they have 
+already gone down. They are already in a bad spot.
+    Mr. Van Orden. Then, Brendan, what class were you in?
+    Mr. Dowling. I was in Buds Class 242.
+    Mr. Van Orden. New guy. Oh, with you? OK. When you went 
+through the Transition Assistance Program, were you made aware 
+of any of these external organizations that may help you bridge 
+the gap from being active duty service member to becoming a 
+productive veteran?
+    Mr. Dowling. No, I was not. My Transition Assistance 
+Program experience was unremarkable. I did not really pull 
+anything from it----
+    Mr. Van Orden. Okay.
+    Mr. Dowling [continuing]. of use.
+    Mr. Van Orden. Then just for everybody across the board, do 
+you feel like you have access to the Department of Defense and 
+ready access to the Veterans Administration on a coequal basis 
+because we have to get upstream solutions. Do you guys have 
+points of contact that you can call? Do you feel like the DoD 
+is responsive to your guys' inquiries? If you needed to, can we 
+help? If you do not, can we facilitate that for you so that we 
+can start up here and then work our way to the veteran status?
+    Mr. Elkins. We do have access. In some cases, it is very 
+timely, and other times, we will use you and your office for 
+assistance.
+    Mr. Van Orden. Okay. That is absolutely open at any time. 
+Ma'am?
+    Ms. Silva. I would say we have developed, on the DoD side, 
+we have developed relationships with different commands. We 
+have heavy involvement in Alaska due to the increased suicide 
+rates there, and we have been able to be part of that solution, 
+working with the community there. And then different--it is 
+very command-related. That is the difference, in my opinion, 
+between DoD and VA. Most of the warriors that we serve are 
+already on the veteran side of the equation, and so our bigger 
+contacts are with the VA. We certainly would love more 
+collaboration with the transition piece of DoD.
+    Mr. Van Orden. Okay, excellent. Mr. Sauer.
+    Mr. Sauer. Miramar is contracted with TriWest Healthcare 
+Alliance, which, you know, currently has the sole contract with 
+the Department of Veterans Affairs. We have no formal 
+relationship with DoD. However, as you may be aware, TriWest 
+Healthcare Alliance won the contract for Tricare West, so we 
+will, beginning next year, it is my understanding we will be 
+able to treat active duty and their families, which we look 
+forward to. We are close to Camp Pendleton. There is a large 
+population of active duty there, and we welcome the opportunity 
+to strengthen those relationships for that transition.
+    Mr. Van Orden. Okay. Hey, my time is expiring. I just want 
+to tell you that my office is yours. I know that there is no 
+one on this panel, Democrat or Republican, who is unwilling to 
+step out to make sure that we can facilitate your organizations 
+to work in conjunction with Dr. Campbell back there to help 
+prevent veteran suicide. With that, God bless you, and thank 
+you for your work very much. Ma'am, I yield back.
+    Ms. Miller-Meeks. Thank you, Representative Van Orden. I 
+thought about removing your time because I take offense as a 
+former enlisted who became an officer.
+    Mr. Sauer. Same here.
+    Ms. Miller-Meeks. Ms. Silva, who is a West Point grad, that 
+I did not go to the dark side when I got pinned my lieutenant 
+bars. I now yield myself 5 minutes for questions.
+    You know, this is a very sobering hearing in many ways. Let 
+me just say that as a veteran and as an ophthalmologist and I 
+did both care, active duty military. I did Veterans 
+Administration care. I was an assistant professor in academic 
+medicine and as well as private practice, and I was an 
+ophthalmologist. Let me just say that when I would get calls 
+from a patient for a red eye, I would see that patient that 
+same day. That is a red eye. Nowhere near the gravity of what 
+we are talking about now. That was my personal standard. It was 
+not a standard imposed upon me by an insurance company, by the 
+institution for which I worked, nor by Members of Congress.
+    Mr. Elkins and Mr. Sauer, in both of your testimonies, you 
+mentioned being made aware of a VA policy stating that the VA 
+has 30 days to place a veteran with substance use into an 
+inpatient mental health residential rehabilitation program when 
+working cases for veterans in crisis. Can you explain further 
+your experiences with the VA when policy is not adequately or 
+inaccurately conveyed?
+    Mr. Elkins. Thank you for that question. Thirty days is too 
+long to ask a veteran to wait on the availability of an RRTP 
+facility or care in the community. In a 30-day period, the risk 
+of suicide or destabilization can drastically increase. We 
+recommend a clinically sound, lesser number of days because 
+PTSD in conjunction with SUD require swift intervention and 
+services. Additionally, in some cases, veterans lack trust with 
+the VA based on past experiences and the mere fact that you 
+have to go through an RRTP facility first and fail and then 
+afterwards go to the community care, needs to be addressed.
+    Ms. Miller-Meeks. Thank you. Mr. Sauer, I will just kind of 
+dovetail on that and then go to you. Both of you in your work 
+with veterans, have you heard anything about a recent direction 
+from the VAMC that if they can not meet the 30-day appointment 
+availability, they have to confer with other VISNs. They have 
+to try to get them into care at another location. Or that five 
+VAMCs must be contacted to fulfill the directive. Have you all 
+heard that?
+    Mr. Sauer. Yes, we have. A matter of fact, Mr. Dowling, to 
+my left is the one who directly dealt with that when after 
+speaking with a VAMC therapist who was one who also managed 
+many community care referrals or made the consults that would 
+later become referrals. Brendan can definitely speak about it 
+in more detail if you have questions. It was that if a VISN's 
+VAMC--it went to effect on I think October 1 is what they were 
+told. We were told this verbally. This was not in a writing or 
+policy, that if a VISN's VAMC cannot meet the 30-day 
+appointment availability window, it must confer with the other 
+VISNs for bed availability before leveraging community care in 
+order to keep the care ``in house.'' He further reported that 
+five VAMCs must be contacted in order to fulfill the directive. 
+He advised this new policy would highly impact referrals 
+throughout the community. Is there something else you wanted to 
+add, if I may? Is it is all right, to Mr. Dowling? It is Okay 
+if not. Understood.
+    Ms. Miller-Meeks. Have you experienced the same thing?
+    Mr. Elkins. Yes, we have experienced the same thing in 
+multiple cases over the last several months. As of January, we 
+have seen a significant increase in the amount of cases we are 
+seeing where there are unnecessary delays.
+    Ms. Miller-Meeks. Thank you. It is surprising then that our 
+bureaucracy has not heard the similar thing.
+    Mr. Sauer, we often hear that the VA care is the best care 
+because those who work at the VA understand the veteran. I am 
+going to refer to a community organization I have in one of my 
+largest cities in my district in Davenport, where an entirely 
+volunteer veteran organization assisted a veteran who had not 
+seen their family or come for any kind of care for 20 years, 
+had not seen their family. The veteran showed up there to this 
+total voluntary organization, no one taking a salary, and 
+contacted his family for the first time in 20 years. How does 
+your experience and the experience of your staff, such as those 
+with Mr. Dowling's background, equip you to serve our Nation's 
+veterans?
+    Mr. Sauer. It is a big question, ma'am. I would say that we 
+are incredibly honored for this opportunity to do this. I will 
+say that there is nothing that is more rewarding. I know that 
+when Brendan joined the team last year, he saw the mission we 
+were doing. I mean, he can speak for himself on that one. Most 
+certainly we go pretty far out of our way for a number of 
+cases. We have taken, for what it is worth, as well, when we 
+have cases where a veteran has for any number of reasons, but 
+usually due to the reasons that we are here for which we are 
+here today, they are unable to get care, we take them on 
+scholarship.
+    Now, I still have 100 employee--nearly 100 employees. I 
+have to make payroll to keep the lights on. I can not do that 
+continually, but I am happy to do that, you know, in certain 
+situations. We have done that about seven or eight times that I 
+can think of in the past year or two. We just do it because it 
+is the right thing to do, that is it.
+    Ms. Miller-Meeks. Thank you. I yield. Ranking Member 
+Brownley, would you like to make any closing remarks since I 
+see no other members here?
+    Ms. Brownley. Yes. Thank you, Madam Chair. Really, thank 
+you very much for having this hearing. It is very much an 
+important hearing of which I still feel like we need to do even 
+a deeper dive on it to really get down to the bottom of things. 
+I really thank this panel for your testimony. This is one of 
+these hearings where I wish we had panel two first and the VA 
+second, because there is so much that you have raised that now 
+I would like to ask the VA. I think there is clearly a 
+disconnect between the VA's testimony and your testimony, and 
+we need to get to the bottom of that. I have a feeling that 
+some of the problem has to do with how VA really addresses 
+access and how they account for access and missing some data 
+points, perhaps.
+    I do want to acknowledge that what I am hearing from panel 
+two as well is that the quality of care within the VA once the 
+veteran gets into the VA is very good. I want to, you know, 
+applaud the VA for the quality care. The access piece and when 
+we are talking about suicide and other kinds of things, that 
+getting, you know, when someone is in crisis and they come to 
+the VA or come to any of you, if there is not a bed, they still 
+need to be in a room. They do not get to leave the hospital at 
+that particular point. They are in the care of the VA. Never 
+should a veteran walk out of that VA in crisis. I think clearly 
+something has to be done here around these access points.
+    Mr. Sauer, too, I want to congratulate you, too, on, you 
+know, the quality of community care that you are providing in 
+your area. We thank you for that. Again, my condolences to you 
+with regards to your father. With that, I will yield back.
+    Ms. Miller-Meeks. Thank you, Ranking Member Brownley. I 
+would like to thank everyone for their participation in today's 
+hearing and for their productive conversation. I would like to 
+especially thank our most recent panel for submitting their 
+witness testimony in a timely fashion so Members of Congress 
+could read it.
+    As a veteran, as a doctor, as a former director of the 
+Department of Public Health, and someone who is very active in 
+mental health and substance use disorder, it is one of my top 
+priorities. I know the same goes for my colleagues on both 
+sides of the aisle to take care of all veterans and to ensure 
+that they have timely care, especially for those who are 
+struggling with complex mental health issues and substance use 
+disorder. No one here on this panel--witness up on the dais 
+today has impugned the quality of care delivered at the VA. The 
+most important metric, not hundreds of metrics, the most 
+important metric of success is whether the suicide rate has 
+gone down, and unfortunately, it has gone up. No veteran should 
+be turned away when a decision is made to seek help.
+    I look forward to working on these issues. I look forward 
+to working with my colleagues on the other side of the aisle 
+and many more with the department, stakeholders, and my 
+colleagues on this subcommittee.
+    The complete written statements of today's witnesses will 
+be entered into the hearing record. Questions will be 
+submitted, and we will ask that they be responded to in a 
+timely fashion. I ask unanimous consent that all members have 5 
+legislative days to revise and extend their remarks and include 
+extraneous material. Hearing no objection, so ordered. This 
+meeting is now adjourned.
+    [Whereupon, at 12:03 p.m., the subcommittee was adjourned.]
+
+ 
+      
+      
+=======================================================================
+
+
+                         A  P  P  E  N  D  I  X
+
+=======================================================================
+
+
+                    Prepared Statement of Witnesses
+
+                              ----------                              
+
+
+                 Prepared Statement of Tamara Campbell
+
+    Good morning, Chairman Miller-Meeks, Ranking Member Brownley and 
+distinguished Members of the Subcommittee. Thank you for the 
+opportunity today to discuss VA's substance use disorder treatment 
+programs through Mental Health Residential Rehabilitation Treatment 
+Programs (MH RRTP) and through community care referrals. Accompanying 
+me today is Dr. Sachin Yende, Chief Medical Officer, Office of 
+Integrated Veteran Care (IVC).
+    Veterans are increasingly struggling with substance use disorders 
+(SUD). From fiscal year (FY) 2018 to FY 2022, the number of Veterans 
+diagnosed with a SUD and receiving treatment in the Veterans Health 
+Administration (VHA) increased from 522,544 to 550,412. This increase 
+also reflects an increase in Veterans with a diagnosis of alcohol use 
+disorder receiving care in VHA which increased from 393,531 to 411,615 
+over the same time period. Of the over 550,000 Veterans receiving care 
+from VHA in FY 2022, or 8.5 percent of all patients who received care 
+from VHA, received treatment for a substance use disorder. While the 
+annual number of Veterans receiving treatment from VHA for opioid use 
+disorder has stabilized at about 67,000 patients per year, a rising 
+number of VA patients are receiving treatment for cannabis use disorder 
+and amphetamine stimulant use disorder, which includes methamphetamine 
+use disorder. The number of patients treated in VHA for amphetamine 
+stimulant use disorder has climbed by almost 8 percent over the 
+previous 5 years to more than 40,000 patients annually, while the 
+number of patients treated in VHA for cannabis use disorder has 
+increased by more than 12 percent to more than 139,000 patients 
+annually. The number of Veterans who have been diagnosed with an 
+alcohol use disorder over the same time period has increased by nearly 
+5 percent. Together with each of you, VA is totally committed to 
+providing a wide range of interventions that are supported by evidence 
+to cater to the requirements of every Veteran.
+    Care for Veterans who have co-occurring SUD and mental health 
+issues is a crucial component of general health care. Because it has an 
+integrated health care system, VA is in a unique position to meet the 
+requirements of Veterans with SUD by offering assistance for co-
+occurring medical, mental health, and psychosocial issues, including by 
+providing supports for employment and housing. Due to the complexity of 
+SUD, neither a single remedy nor solely clinical or VA interventions 
+will suffice to solve address the issue. To reduce the burden of SUD in 
+the veteran population, it is important to use broad-based national 
+preventative and treatment strategies. To achieve its goals, VA uses 
+both whole-of-Government and whole-of-Nation approaches. These are 
+exemplified by VA's interagency collaborations. As an illustration, the 
+Department of Defense (DoD) and VA collaborated to produce clinical 
+practice guidelines for the management of substance use disorders. To 
+meet the needs of Veterans with or at risk of substance use disorder, 
+VA also collaborates closely with several other Departments and 
+agencies, including the Departments of Health and Human Services, 
+Energy, Justice, and Housing and Urban Development.
+    Also, VA is incorporating Oak Ridge National Laboratory data into 
+predictive models for targeted prevention programs so we can better 
+identify Veterans with the greatest challenges to recovery and get them 
+the additional support they need. Through collaborations with the 
+Lawrence Berkeley, Los Alamos, and Sandia National Labs, VA is making 
+better use of medical record information to identify high-risk VA 
+patient populations. Through work with JJR Solutions in Dayton, Ohio, a 
+service-disabled Veteran-owned small business, VA has found that 
+provider education sessions on opioid safety practices lead to more 
+effective treatment for Veterans in primary care and reduction in 
+overdoses.
+
+Overview of SUD Treatment at VA
+
+    There has been an upsurge in morbidity and mortality from substance 
+use disorders during the past 10 years or more as powerful and 
+hazardous illicit drugs have become more widespread in the United 
+States. Federal, State and community prevention and treatment efforts 
+have been developed in response, particularly aimed at reducing 
+overdose deaths and addressing the opioid epidemic.
+    Within VA, patients with at-risk alcohol use or the SUDs of mild 
+severity may be treated with evidence-based brief interventions and/or 
+medical management in primary care or general mental health. For those 
+with more severe disorders impairment, specialty SUD treatment programs 
+provide intensive services including withdrawal management, evidence-
+based psychosocial treatments, SUD medication, case management and 
+relapse prevention provided in outpatient, intensive outpatient and 
+residential settings of care. VA has developed services specifically 
+focused on engagement in care for vulnerable Veteran populations. VA 
+efforts include universal screening for at-risk alcohol use, urine drug 
+screening for at-risk Veterans, the provision of peer support services, 
+integration of SUD treatment within homeless programs, and 
+collaboration with Veterans' courts and the work of our re-entry 
+specialists to engage Veterans with SUD involved with the legal system.
+    These efforts also have required close collaboration with other 
+Federal partners in support of priorities defined by the Office of 
+National Drug Control Policy (ONDCP). In alignment with ONDCP's 
+National Drug Control Strategy, VA is working to expand access to 
+evidence-based treatment for SUDs and enhancing evidence-based harm 
+reduction efforts aimed at reducing overdose fatalities. VA offers a 
+comprehensive continuum of specialty SUD services for Veterans. Our VA/
+DoD Clinical Practice Guidelines,\1\ updated in fiscal year (FY) 2021, 
+provide the foundation for evidence-based treatment within VA and have 
+positioned VA to respond to emerging drug use trends. Current policy 
+requires facilities provide access to a comprehensive continuum of SUD 
+treatment services ranging from early intervention and harm reduction 
+services through intensive outpatient and, when needed, residential or 
+inpatient treatment for SUD. In addition, current policy requires 
+facilities provide same day outpatient access for Veterans with 
+emergent substance use treatment needs. This care may be provided in 
+several settings including general mental health, primary care mental 
+health integration clinics, and SUD specialty clinics. Core 
+characteristics of SUD services include timely same day triage, a no 
+wrong door approach, concurrent treatment for co-occurring needs and 
+Veteran-centered and individualized treatment based on the needs and 
+preferences of the Veteran.
+---------------------------------------------------------------------------
+    \1\ https://www.healthquality.va.gov/guidelines/MH/sud/.
+---------------------------------------------------------------------------
+    With national initiatives like Stepped Care for Opioid Use 
+Disorder, Train the Trainer, and the Psychotropic Drug Safety 
+Initiative, VA emphasizes access to evidence-based treatments for SUDs. 
+These initiatives also aim to increase access to both evidence-based 
+pharmacotherapies and evidence-based psychotherapies for substance use 
+disorders. According to the National Survey on Drug Use and Health 
+conducted by the Substance Abuse and Mental Health Services 
+Administration, only 22 percent of the general population with opioid 
+use disorder received medication for opioid use disorder in 2021. In 
+calendar year 2022, VA more than doubles that rate, with over 47 
+percent of patients with opioid use disorder receiving medications for 
+opioid use disorder from VA within the last 12 months. Appropriate use 
+of FDA-approved medications for opioid use disorder can lower the risk 
+of illicit opioid use, overdose, suicide, and other mortalities.
+    In 2022, VA provided psychosocial or behavioral therapy for SUD to 
+almost 172,000 Veterans. VA is using national training initiatives to 
+ensure that these treatments are as effective as possible, expanding 
+access to highly evidence-based cognitive behavioral therapies and 
+contingency management programs. Notably, contingency management is the 
+most effective, evidence-based treatment for stimulant use disorder and 
+has shown success in treating cannabis use disorder, two substance use 
+disorders that are increasingly common in the VHA patient population. 
+More than 6,200 Veterans have received contingency management treatment 
+since 2011. Over 90 percent of the nearly 80,000 urine samples that 
+those Veterans submitted tested negative for the target drugs, which 
+are frequently stimulants and occasionally cannabis (THC). For Veterans 
+with alcohol use disorder, VA offers both evidence-based medications as 
+well as evidence-based psychotherapies separately or in combination 
+depending on the shared decision-making between each Veteran and his/
+her treatment provider.
+    VA recognizes that not all Veterans with SUD will embrace 
+abstinence among their recovery goals. Furthermore, SUD, like 
+hypertension or diabetes, is a chronic, relapsing condition; even 
+Veterans who are striving to abstain from substances may not always be 
+consistently successful. Because any exposure to substances can be 
+fatal for individuals with SUD, VA provides Veterans with evidence-
+based interventions to protect them from harms, like overdose or 
+infectious diseases like HIV and hepatitis, that could otherwise lead 
+to their death. In just the past year, VHA equipped over 70,000 
+Veterans with naloxone to reverse potentially fatal opioid overdoses. 
+Furthermore, nearly 1 million naloxone prescriptions have been provided 
+to Veterans since 2014, when we launched our Overdose Education and 
+Naloxone Distribution (OEND) initiative. This initiative has led to 
+more than 3,700 overdose reversals. As part of this effort, VA uses 
+data-driven modeling to identify Veterans at high risk of overdose and 
+conducts clinical case reviews to inform their customized treatment 
+plans. Support from Congress has been critical for the success of VA's 
+overdose prevention efforts with passage of the Jason Simcakoski 
+Memorial and Promise Act allowing VA to provide naloxone at no cost to 
+Veterans at risk for overdose.
+    In support of its comprehensive approach to the treatment of SUD, 
+VA has developed a wide array of substance use education programs in 
+its efforts to expand SUD education and outreach. The programs are 
+being implemented across the Department and can be classified as 
+follows:
+
+      Initiatives to educate primary care practitioners on the 
+diagnosis and treatment of alcohol use disorders.
+
+      Harm reduction approaches to reduce negative consequences 
+of substance use including planned/developed mobile and internet-based 
+treatment to expand VA's efforts related to SUD treatment, education, 
+and outreach.
+
+      Programs developed for Veterans and Veterans' families.
+
+      Clinician training and consultation programs to improve 
+their knowledge, skills, and abilities to treat Veterans with SUD.
+
+      SUD training programs for trainees participating in 
+clinical training with VA.
+
+    In addition, VA is supporting SUD training for our future workforce 
+and is implementing novel harm reduction approaches including the 
+development of mobile and internet-based applications. Beginning with 
+the President's Budget for fiscal year 2022, VA has requested support 
+to directly respond to national priorities defined by ONDCP. The plan 
+directly addressed the unique needs of Veterans with substance use 
+concerns within the context of broader national priorities.
+    VA honors Veterans' autonomy in determining their recovery goals, 
+and our providers support them with evidence-based treatments and 
+subject matter expertise. Consequently, VA is making a positive 
+difference in Veterans' quality of life by building confidence in their 
+treatment and helping motivate them in their recovery. Indeed, Veterans 
+receiving treatment for their SUD in VA are experiencing benefits in 
+terms of their mental and physical health and across many other aspects 
+of their lives such as housing stability, employment, and improved 
+interpersonal relationships (See DeMarce et al. for an example of such 
+impact).\2\ These are the goals VA is pursuing. We want to help 
+Veterans do more than just survive - we want to help them learn how to 
+thrive.
+---------------------------------------------------------------------------
+    \2\ Josephine M. DeMarce, Maryann Gnys, Susan D. Raffa, Mandy 
+Kumpula & Bradley E. Karlin (2021) Dissemination of cognitive 
+behavioral therapy for substance use disorders in the Department of 
+Veterans Affairs Health Care System: Description and evaluation of 
+Veteran outcomes, Substance Abuse, 42:2, 168-174, DOI: 10.1080/
+08897077.2019.1674238.
+
+FY 2024 President's Budget Expands Access to Treatment for Substance 
+---------------------------------------------------------------------------
+Use Disorders (SUD)
+
+    President Biden's FY 2024 Budget proposes continued support for 
+initiatives started during FY 2022, with over 1,100 additional staff 
+awarded enterprise-wide to help meet VA's SUD treatment priorities to 
+include the following:
+
+      Stepped Care to expand access to evidence-based treatment 
+for SUD in settings outside specialty SUD Care;
+
+      SUD Residential Treatment to reduce wait times and 
+improve the quality of SUD care with expansion of staff and programs;
+
+      SUD Telehealth to expand access to evidence-based SUD 
+treatment via telehealth;
+
+      Homeless Program SUD Treatment Coordinators to engage 
+Veterans with SUD into VA SUD outpatient and residential services;
+
+      Supported Employment Specialists to expand access to 
+employment opportunities for Veterans in recovery; and
+
+      SUD Peer Specialists to increase engagement and retention 
+in evidence-based SUD treatment.
+
+    As of March 7, 2023, over 55 percent of the more than 1,100 
+positions have been filled or are in the final steps of the hiring 
+process. VA continues to respond to emerging illicit drug threats to 
+ensure the needs of Veterans experiencing substance use concerns are 
+met. VA will establish program management leads for harm reduction and 
+will work collaboratively to develop policy and national tools to 
+support implementation of targeted harm reduction strategies throughout 
+VHA addressing critical issues such as stigma and the need for 
+technical assistance for the field to support implementation.
+
+Mental Health Residential Rehabilitation Treatment Programs (MH RRTP)
+
+    VA's MH RRTPs are a critical component of VA's broader efforts to 
+address the needs of Veterans with substance use concerns. With origins 
+that date back to the National Homes for Disabled Volunteer Soldiers, 
+the Domiciliary Care programs have evolved over time to meet the 
+changing needs of Veterans. Today, residential treatment for mental 
+health and substance use concerns in VA is provided through Mental 
+Health Residential Rehabilitation Treatment Programs (MH RRTP) located 
+throughout the country. The MH RRTP continuum includes Domiciliary Care 
+(SUD, Posttraumatic Stress Disorder (PTSD), General and Domiciliary 
+Care for Homeless Veterans - DCHV) as well as Compensated Work Therapy-
+Transitional Residence programs, which provide transitional housing for 
+Veterans actively engaged in vocational rehabilitation and 
+participating in either transitional work or supported employment. 
+There are currently more than 250 MH RRTPs across 121 locations of care 
+with more than 6,700 operational beds. This includes more than 70 
+programs for the treatment of SUD and more than 40 programs for the 
+treatment of PTSD with the expectation that all programs provide 
+integrated, concurrent treatment for co-occurring SUD and mental health 
+treatment needs (dual diagnosis services) as more than 90 percent of 
+all Veterans served by the MH RRTPs have a SUD diagnosis.
+    All Domiciliary Care programs within VHA provide 24/7 professional 
+and peer support with comprehensive services addressing mental health, 
+medical and psychosocial needs provided by an interdisciplinary team; 
+these programs are accredited by The Joint Commission and the 
+Commission on Accreditation of Rehabilitation Facilities. VHA Directive 
+1162.02 defines expectations for clinical services within the programs 
+with the Domiciliary SUD (DOM SUD) programs expected to adhere to the 
+VA/DoD Clinical Practice Guidelines for the Management of SUD. Given 
+the nature of the care provided in the residential programs, VA's MH 
+RRTPs often are at the forefront in implementation of critical services 
+for Veterans. For example, efforts to support implementation of OEND 
+within VA have their origins with work that was started by the MH RRTPs 
+in 2012, as part of the first Culture of Safety Stand Down, which was 
+established in response to concerns about opioid overdose. At that 
+time, only 11 percent of Veterans served by the MH RRTP received 
+medications for opioid use disorder. During FY 2022, more than 40 
+percent of Veterans received medications to treat opioid use disorder 
+during their stay. Further, during FY 2023 to date, more than 70 
+percent of Veterans with an opioid use disorder have received a 
+prescription for naloxone \3\ during their MH RRTP stay. Several 
+studies have demonstrated the impact of VA residential treatment.\4\ 
+Studies completed within the SUD residential programs have shown 
+sustained reductions in substance use and changes in other factors 
+related to recovery (e.g., Blonigan & Macia, 2021; \5\ Boden & Moss, 
+2009; \6\ Lash et al., 2007,\7\ 2013 \8\).
+---------------------------------------------------------------------------
+    \3\ We note that U.S. Food and Drug Administration (FDA) recently 
+approved the first nonprescription naloxone product. See FDA Approves 
+First Over-the-Counter Naloxone Nasal Spray, U.S. FOOD &DRUG ADMIN. 
+(Mar. 29, 2023),
+https://www.fda.gov/news-events/press-announcements/fda-approves-first-
+over-counter-naloxone-nasal-spray#:?:text=Today percent2C percent20the 
+percent20U.S. percent20Food percent20and,for percent20use 
+percent20withoutpercent20a percent20prescription
+    \4\ Smith, N. B., Sippel, L. M., Rozek, D. C., Spangler, P. T., 
+Traber, D., Straud, C. L., Hoff, R., & Harpaz-Rotem, I. (2020). Courses 
+of suicidal ideation among military veterans in residential treatment 
+for posttraumatic stress disorder. Depression and anxiety, 37(3), 273-
+284. https://doi.org/10.1002/da.22993 Holliday, R., Smith, N. B., 
+Holder, N., Gross, G. M., Monteith, L. L., Maguen, S., Hoff, R. A., & 
+Harpaz-Rotem, I. (2020). Comparing the effectiveness of VA residential 
+PTSD treatment for veterans who do and do not report a history of MST: 
+A national investigation. Journal of psychiatric research, 122, 42-47. 
+https://doi.org/10.1016/j.jpsychires.2019.12.012 Cook, J. M., Schnurr, 
+P. P., Simiola, V., Thompson, R., Hoff, R., & Harpaz-Rotem, I. (2019). 
+Adoption by VA Residential Programs of Two Evidence-Based 
+Psychotherapies for PTSD: Effect on Patient Outcomes. Psychiatric 
+services (Washington, DC.), 70(7), 553-560. https://doi.org/10.1176/
+appi.ps.201800338
+    \5\ Blonigen, D. M., & Macia, K. S. (2021). Personality change 
+during substance use disorder treatment is associated with improvements 
+in abstinence self-efficacy post-treatment among U.S. military 
+veterans. Journal of Substance Abuse Treatment, 120, 108187. https://
+doi.org/10.1016/j.jsat.2020.108187
+    \6\ Boden, M. T., & Moos, R. (2009). Dually diagnosed patients' 
+responses to substance use disorder treatment. Journal of Substance 
+Abuse Treatment, 37(4), 335-345. https://doi.org/10.1016/
+j.jsat.2009.03.012
+    \7\ Lash, S. J., Stephens, R. S., Burden, J. L., Grambow, S. C., 
+DeMarce, J. M., Jones, M. E., Lozano, B. E., Jeffreys, A. S., Fearer, 
+S. A., & Horner, R. D. (2007). Contracting, prompting, and reinforcing 
+substance use disorder continuing care: A randomized clinical trial. 
+Psychology of Addictive Behaviors, 21(3), 387 397. https://doi.org/
+10.1037/0893-164X.21.3.387
+    \8\ Lash, S. J., Burden, J. L., Parker, J. D., Stephens, R. S., 
+Budney, A. J., Horner, R. D., Datta, S., Jeffreys, A. S., & Grambow, S. 
+C. (2013). Contracting, prompting and reinforcing substance use 
+disorder continuing care. Journal of Substance Abuse Treatment, 44(4), 
+449-456. https://doi.org/10.1016/j.jsat.2012.09.008
+
+---------------------------------------------------------------------------
+Access to Mental Health Residential Treatment within VHA
+
+    VHA affirms the critical importance of timely access to residential 
+treatment for mental health and substance use concerns and has taken 
+steps to remove barriers to care. Veterans may self-refer or may be 
+referred by their provider (internal or external to VHA) to mental 
+health residential treatment. In accordance with nationally defined 
+admission criteria, Veterans must be screened for appropriateness for 
+admission with a decision provided within 7 business days. VHA's goal 
+is to admit Veterans as quickly as possible, and the admission date 
+should take into consideration the Veteran's preference. Timely access 
+to residential treatment has been a priority area of focus for VHA with 
+several efforts underway to ensure Veterans have access to residential 
+treatment when clinically indicated. One such effort included 
+development of a process to facilitate access to residential care in 
+the community. Prior to the time of enactment of the VA MISSION Act of 
+2018 (June 6, 2018), residential treatment in the community was not 
+readily accessible, with a limited number of care providers and no 
+direct pathway to authorize and pay for such treatment. When care did 
+occur, it was provided either through inpatient programs for the 
+treatment of substance use disorder or through contracts with community 
+care providers. Recognizing a need to ensure access to this critical 
+level of care, VA worked to verify authority to provide residential 
+treatment in the community and to provide a mechanism to pay for such 
+care. The Mental Health Residential standardized episode of care (SEOC) 
+and the technical mechanism to place a consult for this care were 
+released to VA medical centers in October 2020.
+    VHA's formal guidance to facilities defined how and when referrals 
+for residential care in the community should occur. This guidance was 
+informed by VHA Directive 1162.02, which defines requirements for 
+ensuring timely access to residential treatment. While the MH RRTPs are 
+considered institutional extended care and not subject to the 
+designated access standards established by VA at 38 CFR Sec.  17.4040, 
+which can establish eligibility to elect to receive care in the 
+community, access standards for MH RRTPs still do exist. VHA policy 
+requires that when a Veteran is assessed as requiring residential 
+treatment and the program is unable to meet the Veteran's needs (72 
+hours for Veterans requiring priority admission and 30 days for 
+Veterans assessed as appropriate for routine admission) an alternate 
+treatment program must be offered. Alternate treatment may include 
+another MH RRTP in the Veterans Integrated Service Network (VISN), a 
+comparable program appropriate to meet the Veteran's needs (e.g., a 
+homeless grant and per diem program) or referral for care in the 
+community. The policy in question does not reflect a new policy 
+requirement but rather was the first step to provide a clear 
+expectation for provision of residential treatment within the community 
+and a mechanism to facilitate access.
+    Through the second quarter (Q2) of FY 2022, the average time 
+between screening and admission for all Veterans admitted for 
+residential treatment was 23 days, with half of Veterans admitted 
+within 12 days of being screened for admission. For the DOM SUD 
+programs the average time was 24 days, but with half of Veterans 
+admitted within 9 days of being screened for admission. It is important 
+to note that a small subset of Veterans request or require a later 
+admission date (18 percent for DOM SUD programs during FY 2022). VHA is 
+committed to ensuring timely access to care with a focus on moving 
+toward same day/next day admission consistent with priorities defined 
+by the National Drug Control Strategy. Through Q2 of FY 2023, 40 
+percent of Veterans were admitted either directly from an inpatient 
+mental health stay or within 1 day of screening.
+    Further, since the publication of the MH Residential SEOC, the 
+number of Veterans receiving residential care in the community has 
+increased rapidly. During FY 2021, there were more than 7,000 referrals 
+for mental health residential care in the community using the new SEOC, 
+with that number increasing to roughly 11,000 unique referrals during 
+FY 2022 and exceeding 6,800 to date during FY 2023. Expenditures for 
+residential care in the community since 2021 have exceeded $1.2 
+billion. By comparison, during FY 2022, VA's Domiciliary Care programs 
+overall served more than 20,000 unique Veterans with the DOM SUD 
+program serving more than 9,800 Veterans.
+    Community care residential treatment programs are critical 
+resources when a facility is unable to furnish residential treatment 
+for a Veteran within the VISN. Facilities are actively working with 
+community providers to ensure that when a Veteran is referred to a 
+residential treatment program, the program meets quality standards and 
+that there are clear processes for referral and for engagement in post-
+discharge continuing care with VHA. Collaboration with community 
+providers also has allowed VISNs to communicate about specific 
+treatment needs where residential treatment options may be limited in 
+VHA.
+    Beyond ensuring that mechanisms exist to ensure Veterans have 
+access to community residential treatment when applicable, VA is 
+committed to addressing internal access challenges. The MH RRTPs were 
+significantly impacted by the pandemic with many programs reducing 
+capacity to ensure both Veteran and staff safety. VA began 
+communicating on the importance of ensuring access to MH RRTP services 
+as early as July 2020, with a focused effort to resume MH RRTP services 
+and increase capacity initiated in February 2021. Since that time, VA's 
+Office of Mental Health and Suicide Prevention (OMHSP) has been working 
+collaboratively with the VISNs to increase capacity and reduce wait 
+times with the average number of days between screening and admission 
+approaching pre-pandemic levels. However, VHA recognizes the need to 
+establish accelerated targets informed by Veteran feedback. Beginning 
+in August 2022 and concluding in December 2022, VHA conducted regional 
+meetings specifically focused on access to residential care emphasizing 
+a goal of providing same day or next day admission when clinically 
+indicated. Since the start of those conversations in August 2022, the 
+average daily census has grown from around 3,300 Veterans to just over 
+3,800 Veterans in March 2023.
+    In addition to efforts to return MH RRTP capacity to pre-pandemic 
+levels of operation, several new DOM SUD programs have recently been 
+established or are under development and expected to open within the 
+next few years. During FY 2022 and FY 2023 year to date, 55 DOM SUD 
+beds have been established at 3 new locations of care with 14 
+additional beds at 2 additional programs projected to open during FY 
+2023.
+
+Compliance with Community Care Referrals for Substance Abuse 
+    Residential Treatment
+
+    VA is grateful for the independent investigation of the Office of 
+Inspector General (OIG) in the review of the DOM SUD treatment program 
+and residential community care referrals.\9\ As noted in VHA's response 
+in the OIG report, the ability to refer for mental health residential 
+treatment in the community is a relatively new process with the first 
+SEOC for mental health residential treatment released in October 2020 
+and updated in August 2021. OMHSP worked collaboratively with VISNs 
+during this time to clarify requirements and expectations for when 
+referrals for mental health residential care in the community may 
+occur. These efforts have continued with targeted efforts to ensure 
+familiarity with access requirements and processes for ensuring access 
+to residential treatment in the community when indicated.
+---------------------------------------------------------------------------
+    \9\ Department of Veterans Affairs Office of Inspector General. 
+``Noncompliance with Community Care Referrals for Substance Abuse 
+Residential Treatment at the VA North Texas Health Care System''. 
+Report No. 21-03864-34. January 31, 2023.
+---------------------------------------------------------------------------
+    Specifically, in response to recommendations in the report, VA has 
+taken several steps to ensure a clear understanding by all programs of 
+access requirements and when referrals for mental health residential 
+treatment in the community should be completed. Further, in response to 
+the OIG report, VA has ensured clarification on the existing guidance 
+regarding the role of the mental health treatment coordinator and 
+expectations for engagement with the coordinator as part of the 
+referral and admission process for Veterans requiring mental health 
+residential treatment. Further, VA has several efforts currently 
+underway to address access for MH RRTP services, with a workgroup 
+convening to determine potential changes in national policy responsive 
+to access challenges that have been communicated by stakeholders with 
+the expectation that a formal plan and path forward would be finalized 
+within 45 days of the workgroup convening. In addition, OMHSP is 
+working to put in place a process that leverages existing monitoring 
+efforts to inform procedures for notifying VISN leadership when there 
+are concerns with conformance to national policy.
+
+Implementation of Veterans COMPACT Act, Section 201
+
+    The Veterans COMPACT Act created a new authority in 38 U.S.C. Sec.  
+1720J for VA to provide emergent suicide care to eligible individuals 
+in acute suicidal crisis at no cost both in VA and in the community. 
+This authority increases access to care, including residential care, 
+and is in full alignment with VA's National Strategy for Preventing 
+Veteran Suicide.\10\ Building upon VA's comprehensive public health 
+approach, this new emergency suicide care and treatment health care 
+benefit enhances our ability to provide critical treatment for eligible 
+individuals experiencing a suicidal crisis. Eligible individuals in 
+suicidal crisis can go to any VA or community health care facility for 
+emergent suicide care. VA is responsible for providing, paying for, or 
+reimbursing for this care, depending on the setting it is provided in, 
+and therefore, this care is provided to eligible individuals at no 
+cost. Eligible individuals receiving emergent suicide care will also 
+have the costs of ambulance transportation and related prescriptions 
+covered. Emergent suicide care can be provided in multiple settings, 
+including inpatient or crisis residential care for up to 30 days and 
+crisis-related outpatient care for up to 90 days. The access standards 
+for mental health residential treatment outside of an acute suicide 
+crisis (72 hours for priority admission and 30 days for routine 
+admission) would not apply. This health care benefit has the potential 
+to increase access to acute suicide care to an additional 9 million 
+unenrolled Veterans and reduce the number of Veteran suicides by 
+offering immediate care when Veterans are most vulnerable.
+---------------------------------------------------------------------------
+    \10\ U.S. Department of Veterans Affairs. (2018). National Strategy 
+for Preventing Veteran Suicide. http://www.mentalhealth.va.gov/
+suicideprevention/docs/Office-of-Mental-Health-and-Suicide-Prevention-
+National-Strategy-for-Preventing-Veterans-Suicide.pdf.
+---------------------------------------------------------------------------
+    On January 17, 2023, VA published an interim final rule outlining 
+eligibility for emergent suicide care and immediately began providing 
+this new benefit to eligible individuals. As part of implementation, VA 
+developed a robust communications plan targeted toward eligible 
+individuals, Veterans, and community providers. VA continues to 
+aggressively address critical cross-platform information technology 
+enhancements to ensure that multiple administrative and clinical 
+systems work seamlessly together to ensure timely and efficient care at 
+no cost. The Veterans Crisis Line serves a critical role in the 
+coordination of life-saving resources, such as emergency dispatch for 
+Veteran crisis care. VHA provided external resources for Veterans and 
+providers, as well as internal resources and training for VA staff on 
+section 201 of the COMPACT Act. We are committed to ongoing education 
+and training efforts within VA and in the community as we deploy this 
+new, life-affirming benefit in our ongoing suicide prevention efforts.
+
+Conclusion
+
+    We appreciate the Committee's continued support in this shared 
+mission. Nothing is more important to VA than supporting the health and 
+well-being of the Nation's Veterans and their families. VA has employed 
+broad, evidence-based strategies to address the opioid epidemic, 
+including patient and provider education, pain management and access to 
+non-pharmacological modalities, risk mitigation strategies, and 
+addiction treatment for Veterans with SUD. This critical work saves 
+lives.
+    My colleagues and I are prepared to respond to any questions you 
+may have.
+                                 ______
+                                 
+
+                  Prepared Statement of Julie Kroviak
+
+    Chairwoman Miller-Meeks, Ranking Member Brownley, and Subcommittee 
+Members, thank you for the opportunity to discuss the Office of 
+Inspector General's (OIG) oversight of the Veterans Health 
+Administration's (VHA) domiciliary substance use disorder treatment 
+program. The OIG's Office of Healthcare Inspections reviews the quality 
+and safety of health care provided across VHA and communicates the 
+findings through a variety of public reports. These include results 
+from hotline inspections, national reviews, comprehensive healthcare 
+inspections, vet center inspections, and Veterans Integrated Service 
+Network (VISN) reviews. For each of these reports, OIG clinical review 
+teams provide recommendations for improving processes or further 
+reducing risks to the veterans who entrust their health care to VHA.
+    VHA faces significant challenges in meeting the needs of 
+individuals with substance use disorders. The devastating effects on 
+veterans, their families and caregivers, and communities cannot be 
+overstated. Veterans with substance use disorders often have co-
+occurring mental health issues that can place them at higher risk for 
+suicide. Given that VHA's top clinical priority is to reduce veteran 
+suicide, evidence-based substance use disorder treatment programs are 
+imperative to addressing the clinical needs of these high-risk 
+patients. When both VHA and community care providers are engaged in 
+managing these patients, the coordination must be seamless and 
+collaborative.
+    This testimony focuses on OIG reports that have identified 
+challenges with community care access and coordination for high-risk 
+patients. The OIG believes the findings and recommendations should be 
+considered by all VHA providers and leaders managing patients with 
+complex mental health needs including substance use disorders.
+
+NONCOMPLIANCE WITH COMMUNITY CARE REFERRALS FOR SUBSTANCE ABUSE 
+RESIDENTIAL TREATMENT AT THE VA NORTH TEXAS HEALTH CARE SYSTEM
+
+    In August 2021, the OIG hotline received allegations that staff for 
+the domiciliary substance use disorder treatment program (DOM SUD) at 
+the VA North Texas Health Care System (VA North Texas) placed patients 
+on waitlists for two to three months and failed to offer non-VA 
+community residential care referrals for substance use disorder 
+treatment.\1\ The complainant also alleged that VA North Texas staff 
+denied patients' requests for community residential care referrals, 
+whereas patients from another VISN 17 facility, the Central Texas 
+Veterans Health Care System (Central Texas VA), received community 
+residential care treatment. During the course of the OIG staff's review 
+of the allegations (including examining 15 VA North Texas DOM SUD 
+consults (referrals) and electronic health records for 10 patients), 
+the team identified additional concerns related to compliance with 
+required scheduling procedures and the assignment of mental health 
+treatment coordinators to patients awaiting admission. To understand 
+the context for the resulting report's findings, it is important to 
+consider VHA's program goals and requirements.
+---------------------------------------------------------------------------
+    \1\  VA OIG, Noncompliance with Community Care Referrals for 
+Substance Abuse Residential Treatment at the VA North Texas Health Care 
+System, January 31, 2023.
+
+---------------------------------------------------------------------------
+Background
+
+    Mental health residential rehabilitation treatment programs (MH 
+RRTPs) provide 24-hour treatment and rehabilitative services to 
+patients with a range of treatment needs and include domiciliary 
+substance use disorder programs. MH RRTP is an umbrella term for the 
+range of residential programs that provide treatment to patients 
+experiencing homelessness, substance use disorders, posttraumatic 
+stress disorder, as well as other medical and mental health conditions. 
+To be eligible for an MH RRTP referral, veterans must need a higher 
+level of care than an outpatient program but not be at imminent risk to 
+themselves and others, and not meet criteria for a medical or acute 
+mental health admission. VHA requires that each facility provide access 
+to care at MH RRTPs through service agreements with other VA facilities 
+or through referral to non-VA community residential care facilities.
+    VA North Texas, part of VISN 17, includes a 40-bed DOM SUD at the 
+Dallas VA Medical Center and a 69-bed DOM SUD at the Sam Rayburn 
+Memorial Veterans Center in Bonham, Texas. The Central Texas VA is in 
+Temple, Texas, and has a 169-bed general domiciliary that offers 
+substance use disorder treatment as a ``track.''
+    According to VHA's requirements, patients referred to MH RRTPs must 
+be screened within seven business days by a team that includes a 
+licensed mental health professional and a medical provider to determine 
+whether admission is appropriate. If accepted, the patient must receive 
+a tentative admission date and a point of contact at the MH RRTP.\2\ So 
+VHA can track admission wait times, the patient must be added to the 
+pending bed placement list.\3\ Since 2018, VHA has required staff to 
+include information in the patient's electronic health record to 
+improve tracking of program wait times and capacity.\4\
+---------------------------------------------------------------------------
+    \2\ VHA Directive 1162.02, Mental Health Residential Rehabilitation 
+Treatment Program, July 15, 2019. Tentative admission date refers to 
+the MH RRTP staff's expected date of bed availability.
+    \3\ VHA Directive 1002, Bed Management Solution for Tracking Beds 
+and Patient Movement Within and Across VHA Facilities, November 28, 
+2017.
+    \4\ VHA Deputy Under Secretary for Health for Operations and 
+Management (10N) memo, ``Mental Health Residential Rehabilitation 
+Treatment Programs (MH RRTP) CPRS Note Templates Implementation,'' July 
+30, 2018.
+
+---------------------------------------------------------------------------
+Community Care Program Eligibility Criteria
+
+    The John S. McCain III, Daniel K. Akaka, and Samuel R. Johnson VA 
+Maintaining Internal Systems and Strengthening Integrated Outside 
+Networks Act of 2018 (MISSION Act) mandated changes to VHA's community 
+care program.\5\ Those changes led to VHA's Office of Community Care 
+issuing implementation guidance stating that ``wait time and drive time 
+access standards are only applicable to primary care, specialty care, 
+and non-institutional extended care services.'' The guidance further 
+said MH RRTPs ``are considered institutional extended care services'' 
+and do not follow the same wait-time standards.\6\ When MH RRTP care is 
+not available within VA facilities for an eligible patient who ``elects 
+to receive care in the community,'' VHA will authorize community 
+residential care. Further, for MH RRTP admission wait times greater 
+than 30 calendar days, facility staff must offer the patient 
+alternative care that addresses the patient's needs and preferences 
+including a referral to community residential care or another VHA 
+program. Additionally, facility staff should discuss outpatient care 
+options with the patient while the patient awaits MH RRTP admission. It 
+is important to note that the COVID-19 pandemic put additional stresses 
+on VHA and that the Texas facilities were not alone in facing long wait 
+times. In February 2021, VHA estimated that 3,500 patients nationally 
+were pending admission with an average wait time of more than 150 days. 
+At that time, VHA required MH RRTP staff to provide alternatives, 
+including community residential care, if unable to admit patients 
+within 30 days.\7\
+---------------------------------------------------------------------------
+    \5\ MISSION Act, Pub. L. No. 115-182, 132 Stat. 1393 (2018).
+    \6\ VHA Office of Community Care, ``Field Guidebook: Specialty 
+Programs,'' updated November 3, 2021. The Office of Community Care 
+determines a patient eligible for community mental health care when the 
+wait time is greater than 20 days or the drive time is greater than 30 
+minutes for a VHA outpatient mental health appointment.
+    \7\ VHA Assistant Under Secretary for Health for Clinical Services 
+memorandum, ``Ensuring Access to Residential Treatment for Veterans 
+with Mental Health and Substance Use Disorders during the Pandemic,'' 
+February 11, 2021.
+
+VA North Texas DOM SUD Wait Times Exceeded Requirements and Staff 
+---------------------------------------------------------------------------
+Failed to Refer Patients to Community Residential Care as Required
+
+    The OIG team reviewed 15 VA North Texas DOM SUD consults to 
+determine admission wait times and evaluate whether staff offered 
+community residential care. The team substantiated the allegation that 
+VA North Texas staff placed patients on waitlists for two to three 
+months and failed to offer community residential care referrals during 
+most of fiscal years 2020 and 2021, inconsistent with VHA requirements. 
+It is important to note that the OIG did not identify any adverse 
+clinical outcomes due to the patients' delayed access to residential 
+care.
+    In March 2020, due to the pandemic, facility leaders restricted 
+access to the Dallas DOM SUD to local veterans, in accordance with VHA 
+guidance. The Dallas DOM SUD subsequently reopened to a broader group 
+of patients but still with reduced capacity in September 2020. The 
+Bonham DOM SUD remained open during the pandemic at reduced capacity 
+until January 2022, when admissions were halted until June 2022 due to 
+COVID-19 concerns. VHA data indicated that the Dallas and Bonham DOM 
+SUDs' average wait time was 30 days or greater from the third quarter 
+of fiscal year 2020 through the second quarter of fiscal year 2021, 
+likely due to pandemic-related restrictions.
+    Of the 10 North Texas patients' records the OIG reviewed, five had 
+one DOM SUD consult placed and the other five had two consults placed 
+during the review period, resulting in a total of 15 consults examined. 
+Of the 15 consults, 13 were referrals to the Bonham DOM SUD and two 
+were referrals to the Dallas DOM SUD. Seven consults were closed when 
+the patient was admitted within 30 days, declined screening, or was not 
+approved for admission. Among the eight remaining consults, two were 
+closed when the patients declined admission and six resulted in 
+patients waiting an average of 79 days before VA North Texas staff 
+offered DOM SUD admission or removed the patient from the pending bed 
+placement list. For seven of the eight consults, staff documented that 
+the ``anticipated admission date exceeds 30 days; however, there is no 
+available alternative to consider at this time.''
+    The OIG determined that the VA North Texas chief for Patient 
+Administration Services, who oversees community care, misinterpreted 
+community care guidance and provided inaccurate information to VA North 
+Texas leaders and staff. Specifically, the Office of Community Care's 
+guidance states that community care wait time standards were not 
+applicable to MH RRTP. Facility staff should have instead followed VHA 
+policy requiring a patient with a schedule wait time of greater than 30 
+days be offered alternative residential treatment or another level of 
+care. Alternative residential treatment could include a referral to a 
+community program, another program in the VISN, or another program in 
+another VISN.\8\
+---------------------------------------------------------------------------
+    \8\ VHA Directive 1162.02.
+---------------------------------------------------------------------------
+    However, the Patient Administration Services chief told the OIG 
+team during the review that MH RRTPs are ``excluded from the MISSION 
+Act'' and not eligible for community care based on access standards--
+reflecting an inaccurate understanding of the Act. In contrast, the 
+national director of the MH RRTP reported that although drive time and 
+wait time standards do not apply to DOM SUDs, community care referrals 
+are expected when a patient is determined to require a residential 
+level of care and VHA is unable to provide treatment within the 
+required timeframe.
+    In September 2020, the MH RRTP national program office released 
+guidance that included instructions for community care referrals. In 
+February 2021, VHA provided guidance that VISN chief mental health 
+officers and facility leaders must ensure that patients who require a 
+residential level of care are offered a VA MH RRTP bed or community 
+residential care. VHA further required that each facility provide the 
+operational status of MH RRTP beds and ``information on the 
+availability of community based residential treatment options.'' \9\ 
+VISN 17's response to the February 2021 guidance indicated that the 
+Dallas and Bonham DOM SUDs were not making community residential care 
+referrals.
+---------------------------------------------------------------------------
+    \9\ VHA Assistant Under Secretary for Health for Clinical Services 
+memorandum.
+---------------------------------------------------------------------------
+    In December 2021, the OIG informed VISN 17 and VA North Texas 
+leaders of staff's failure to comply with community residential care 
+referral expectations and requested corrective action be taken to 
+address staff education and potential patient treatment needs. VA North 
+Texas leaders communicated referral requirements to Office of Community 
+Care and Mental Health Services staff and reviewed all community 
+residential care consults placed from October 1, 2019, through November 
+30, 2021. Additionally, in response to the OIG's request, VA North 
+Texas staff completed a clinical review to ensure appropriate follow-up 
+for patients referred from October 1, 2019, through December 31, 2021, 
+to the Dallas and Bonham DOM SUDs whose wait times were greater than 30 
+days.
+    The OIG made a total of five recommendations in this report.\10\ 
+The first recommendation is for the VA North Texas director to ensure 
+that staff provide alternative treatment options, including community 
+care when MH RRTP admission wait times exceed 30 days. The second 
+recommendation calls on the director to conduct a comprehensive review 
+of the management of community residential care referrals. They 
+concurred in principle with this recommendation. The remaining three 
+recommendations are described below.
+---------------------------------------------------------------------------
+    \10\ The OIG considers all five recommendations currently open 
+pending the submission of sufficient documentation that would support 
+that adequate progress has been made on implementation to close them. 
+The OIG requests updates on the status of all open recommendations 
+every 90 days, which are then reflected on the recommendations 
+dashboard found on the OIG website. For this report, the OIG will 
+request the first update on or about May 1, 2023.
+
+---------------------------------------------------------------------------
+VA Central Texas Compliance
+
+    In contrast to the VA North Texas's failures, the OIG's review of 
+two patients referred to the Temple DOM SUD by VA North Texas staff 
+indicated the VA Central Texas staff placed consults and scheduled 
+patients in accordance with VHA policy. Further, VA Central Texas 
+developed procedures for community residential care referrals when MH 
+RRTP wait times were greater than 30 days.
+
+Inadequate VISN Oversight
+
+    The OIG determined that VISN 17 leaders did not ensure VA North 
+Texas leaders' adherence to the national MH RRTP policy. According to 
+the MH RRTP directive, each VISN mental health lead is responsible for 
+ensuring that all VISN MH RRTPs collect data sufficient for oversight 
+related to VHA policy implementation.\11\ Additionally, the national 
+director of the MH RRTP confirmed the VISN has oversight responsibility 
+to ensure eligible patients have access to a residential level of care, 
+although there are not defined expectations related to community care 
+utilization monitoring. The VISN 17 chief mental health officer 
+provided guidance to VA North Texas leaders on three occasions in 2021 
+regarding the use of community residential care. However, she reported 
+that the VISN role did not have the authority to ensure policy 
+adherence or ``direct oversight'' because ``oversight is at the local 
+facility management level.'' The third report recommendation is for the 
+under secretary for health to make certain that VISN leaders provide 
+adequate oversight to ensure that access to care for MH RRTPs is 
+provided consistent with VHA policy.
+---------------------------------------------------------------------------
+    \11\ VHA Directive 1162.02, Mental Health Residential 
+Rehabilitation Treatment Program, July 15, 2019.
+
+---------------------------------------------------------------------------
+Bonham MH RRTP Nonadherence with VHA Scheduling Requirements
+
+    During the inspection, the OIG team also identified that the Bonham 
+MH RRTP standard operating procedure was inconsistent with VHA's 
+minimum scheduling effort requirements, as it instructed schedulers to 
+close a consult after three failed scheduling contact attempts rather 
+than the four required. Since 2016, VHA has required providers to 
+document a request for other services in the referred patient's 
+electronic health record. The second attempt must use a different 
+method of contact and can be completed the same day as the first 
+attempt, while the third and fourth attempts must be on different days. 
+To allow the patient time to respond, staff must wait a minimum of 14 
+calendar days from the second contact attempt before determining the 
+action on the consult request, such as closing the consult. 
+Additionally, the Bonham MH RRTP staff were attempting to contact 
+patients by phone and not using other modes of contact. Failure to 
+adhere to VHA minimum scheduling requirements may hinder efficient 
+patient scheduling and contribute to the barriers patients experience 
+in accessing DOM SUD services. The fourth recommendation is for the VA 
+North Texas director to ensure that Bonham MH RRTP scheduling 
+procedures are consistent with VHA minimum scheduling effort 
+requirements.
+
+Mental Health Treatment Coordinator Assignment
+
+    Finally, the OIG found that VA North Texas policy did not include 
+information about the requirement for MH RRTP staff to assign a mental 
+health treatment coordinator for patients awaiting admission to a 
+residential program. Since 2012, VHA has required facility staff to 
+assign a mental health treatment coordinator to patients who are 
+receiving treatment in an outpatient mental health setting, have been 
+admitted to an inpatient mental health setting, or are ``waiting to 
+engage in a different level of care'' including an MH RRTP bed. 
+However, in an interview, the national director for the MH RRTP 
+acknowledged not having an assignment process for patients pending MH 
+RRTP admission. This failure to develop a national-level process likely 
+contributed to the VA North Texas MH RRTP leaders' lack of knowledge 
+that the VA North Texas policy should address the identification and 
+assignment of a mental health treatment coordinator for accepted 
+patients awaiting admission. This lack of policy awareness may not only 
+contribute to a coordinator not being assigned but can also diminish 
+the likelihood of patients' engagement in outpatient care while 
+awaiting admission. The fifth report recommendation relates to 
+strengthening coordinator assignment procedures for patients waiting 
+for an MH RRTP bed.
+
+OTHER OIG REPORTS CITING CONCERNS WITH COMMUNITY CARE COORDINATION OF 
+VETERANS WITH COMPLEX MENTAL HEALTH NEEDS
+
+    Coordinating medical care between the VHA care system and community 
+providers remains a challenge, particularly for managing patients with 
+complex mental health needs. The OIG has identified persistent 
+administrative and communication errors or failures among VHA, its 
+third-party administrators, and community care providers, as well as 
+between the care providers and their patients. These deficiencies 
+challenge the considerable efforts of VHA personnel to ensure a 
+seamless experience for veterans. Many OIG reports have described the 
+frustrations and, most importantly, the risks associated with patients 
+referred to the community. The following reports exemplify the 
+consequences that poor care coordination contributes to for high-risk 
+patients.
+    In a report on the deficiencies found in the care and 
+administrative processes for a patient who died by suicide, the review 
+team found that administrative errors and confusion in the Phoenix VA 
+health care facility's community referral process delayed specialized 
+psychological testing for a veteran. The veteran died by suicide never 
+having received the appropriate testing and resulting targeted 
+treatment.\12\
+---------------------------------------------------------------------------
+    \12\ VA OIG, Deficiencies in Care and Administrative Processes for 
+a Patient Who Died by Suicide, Phoenix VA Health Care System, Arizona, 
+March 31, 2021.
+---------------------------------------------------------------------------
+    Another oversight report focused on a patient who ultimately died 
+by suicide after not receiving several authorized community care 
+counseling sessions. This was due to deficiencies in the coordination 
+of the patient's care between the Memphis VA facility's community care 
+staff, providers in the community, and the third-party 
+administrator.\13\ In addition, the patient suffered from 
+hyperthyroidism, a condition that can aggravate anxiety. The patient 
+declined a referral to endocrinology at the facility, due to the 
+distance from home, but was never offered a referral to the community.
+---------------------------------------------------------------------------
+    \13\ VA OIG, Deficiencies in Care, Care Coordination, and Facility 
+Response to a Patient Who Died by Suicide, Memphis VA Medical Center in 
+Tennessee, September 3, 2020.
+
+---------------------------------------------------------------------------
+CONCLUSION
+
+    High-quality care demands that patients receive the necessary care 
+provided by qualified clinicians in a timely manner. This is even more 
+critical for individuals deemed to be at high risk due to their mental 
+health and substance use conditions. The pandemic disrupted healthcare 
+delivery in all settings, including addiction treatment, yet at the 
+same time increased the demand for such interventions. VHA will 
+continue to rely on community providers to deliver care when a 
+veteran's needs cannot be met within VA's own facilities. The reports 
+highlighted in this testimony call attention to the risks introduced 
+when that care is not offered and even more concerning, when the care 
+is not coordinated.
+    Chairwoman Miller-Meeks, Ranking Member Brownley, and members of 
+the Subcommittee, this concludes my statement. I would be happy to 
+answer any questions you may have.
+                                 ______
+                                 
+
+                  Prepared Statement of Daniel Elkins
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+                    Prepared Statement of Jen Silva
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+                   Prepared Statement of Thomas Sauer
+
+    Chair Miller-Meeks, Ranking Member Brownley, and members of the 
+Subcommittee:
+    I am honored to testify before you today. My name is Tom Sauer, and 
+I'm a Navy and Marine Corps Veteran, having spent the better part of my 
+adult life wearing the cloth of our Nation. I'm a former enlisted 
+Marine infantryman, a 2006 Naval Academy graduate, and a former Navy 
+Explosive Ordnance Disposal officer. Today, however, I'm the owner and 
+CEO of Miramar Health, a Veteran-owned and operated Community Care 
+Provider for intensive substance use disorder (SUD) and mental health 
+treatment, exclusively for America's Veterans.
+    Mental health and addiction treatment are deep passions of mine, 
+because depression and addiction killed my dad. Five days before I 
+graduated from high school, and three weeks before I shipped out for 
+the Marines in 1999, a methamphetamine overdose took his life after 
+decades of struggle, just like so many millions of Americans suffering 
+from our country's disastrous mental health and addiction crisis.
+    Thanks to recent legislation, thousands of veterans have enhanced 
+access to life-saving mental healthcare and addiction treatment within 
+the VA's Community Care Network (CCN). We've provided intensive, 
+custom-tailored, world-class mental health and addiction treatment for 
+nearly 250 Veterans from a dozen VA Medical Centers across the Western 
+United States, typically for 30, 60, and sometimes 90+ days. This 
+treatment is for our veterans who are truly suffering, in crisis, and 
+often near death from suicide or overdose resulting from America's 
+disastrous mental health and addiction crisis.
+    In three and a half years, we've grown from one small clinic with 
+six employees, to eight residential facilities and one large outpatient 
+facility. These facilities are staffed by nearly 100 phenomenal 
+physicians, nurses, psychologists, therapists, medical technicians, 
+case managers, and support staff, many of whom are Veterans themselves. 
+I could not be any prouder of them.
+    I didn't come all the way out here to tell you this just so I could 
+pat myself on the back, but rather to simply convey the sincerity of 
+our intentions and to lay out how important this challenge is. Miramar 
+believes in our partnership with the VA by bridging both capability and 
+capacity gaps within certain VAMCs and in being an advocate to Veterans 
+in need, all while providing them with the highest quality care.
+    In other words, we do not consider ourselves to be just another 
+government contractor. We are partners and teammates with the VA, and 
+we're here asking for your help to ensure our Nation's Veterans receive 
+the lifesaving care they need and deserve by strengthening that 
+partnership.
+    The overwhelming majority of front-line, boots-on-the-ground VA 
+personnel we directly interact with are fantastic, dedicated, and 
+lifesaving public servants. There are many who, in my mind, deserve 
+medals and parades for saving the lives of Veterans.
+    I am here today to advocate for veterans in need to access care 
+ANYWHERE, IMMEDIATELY, and we can figure out the paperwork later. The 
+current VA policy of having 30 days to find a bed in a given region 
+does not meet the URGENT LEVEL of this CRISIS.
+    Specifically, we've encountered several occasions where, despite 
+community care being available for a Veteran in crisis, they're either 
+put onto waiting lists for up to 30 days before receiving care, when 
+they don't have 30 minutes without becoming a very real risk to suicide 
+or overdose. I have first-hand knowledge of these suicides and overdose 
+deaths since I've owned Miramar, so I understand the devastation this 
+policy can cause.
+    We believe this issue could be rather easily corrected through a 
+legislative carve-out for Community Care eligibility, as with Urgent 
+Care, when it comes to urgent and emergency mental health and addiction 
+treatment.
+    This could be done by clarifying and ensuring the COMPACT Act is 
+being implemented as intended and that Veterans are aware of this 
+option for receiving care.
+    We urge you to ensure that our veterans have access to the care 
+they need when they need it through the Community Care Network.
+    We appreciate your consideration of this matter, and we are willing 
+to work with you to address these issues and ensure that our guys and 
+gals get the care they so desperately need.
+    Thank you, Chair and members of the Subcommittee. Each of you, your 
+staffers, and the committee's staff are champions for America's 
+Veterans, so I am exceptionally grateful to you and your commitment to 
+serving them, and that you are holding this important hearing today.
+    In conclusion, thank you for addressing the issues we raised today. 
+Veterans' lives depend on it. Thank you again for the opportunity to 
+appear, and I look forward to answering your questions.
+                                 ______
+                                 
+
+                 Prepared Statement of Brendan Dowling
+
+    Good morning, Chair Miller-Meeks, Ranking Member Brownley, and 
+distinguished members of the subcommittee.
+    My name is Brendan Dowling, and I am currently Miramar Health's 
+Veteran Outreach Manager.
+    I am formerly a Navy SEAL that served in multiple military 
+campaigns for the Global War on Terror from 2001-2014. My service 
+spanned across numerous deployments in multiple combat zones.
+    Since last summer, I have had the pleasure of visiting over 141 VA 
+facilities that provide medical, clinical, counseling, or VBA services 
+to Veterans across the Western US.
+    This includes 94 VHA facilities; 18 Medical Centers, 74 Community 
+Based Outpatient Clinic's, and 35 Veteran Centers.
+    I look forward to answering any questions you may have.
+
+                        Statement for the Record
+
+                              ----------                              
+
+
+              Prepared Statement of Cohen Veterans Network
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+
+                                 [all]
+

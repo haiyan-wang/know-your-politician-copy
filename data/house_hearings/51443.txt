@@ -1,0 +1,1648 @@
+
+ - THE END OF RELATIONSHIP BANKING? EXAMINING THE CFB`S `SMALL BUSINESS LENDING DATA COLLECTION' RULE
+
+[House Hearing, 118 Congress]
+[From the U.S. Government Publishing Office]
+
+
+ THE END OF RELATIONSHIP BANKING? EXAMINING THE CFPB'S `SMALL BUSINESS 
+                     LENDING DATA COLLECTION' RULE
+
+=======================================================================
+
+                                HEARING
+
+                               BEFORE THE
+
+        SUBCOMMITTEE ON ECONOMIC GROWTH, TAX, AND CAPITAL ACCESS
+
+                                 OF THE
+
+                      COMMITTEE ON SMALL BUSINESS
+                             UNITED STATES
+                        HOUSE OF REPRESENTATIVES
+
+                    ONE HUNDRED EIGHTEENTH CONGRESS
+
+                             FIRST SESSION
+                               __________
+
+                              HEARING HELD
+                             MARCH 28, 2023
+                               __________
+
+                  [GRAPHIC NOT AVAILABLE IN TIFF FORMAT]
+                               
+
+            Small Business Committee Document Number 118-006
+             Available via the GPO Website: www.govinfo.gov
+                          
+                               __________
+
+                    U.S. GOVERNMENT PUBLISHING OFFICE
+                    
+51-443                    WASHINGTON : 2023                
+
+
+                   HOUSE COMMITTEE ON SMALL BUSINESS
+
+                    ROGER WILLIAMS, Texas, Chairman
+                      BLAINE LUETKEMEYER, Missouri
+                        PETE STAUBER, Minnesota
+                        DAN MEUSER, Pennsylvania
+                         BETH VAN DUYNE, Texas
+                         MARIA SALAZAR, Florida
+                          TRACEY MANN, Kansas
+                           JAKE ELLZEY, Texas
+                        MARC MOLINARO, New York
+                         MARK ALFORD, Missouri
+                           ELI CRANE, Arizona
+                          AARON BEAN, Florida
+                           WESLEY HUNT, Texas
+                         NICK LALOTA, New York
+               NYDIA VELAZQUEZ, New York, Ranking Member
+                          JARED GOLDEN, Maine
+                         KWEISI MFUME, Maryland
+                        DEAN PHILLIPS, Minnesota
+                          GREG LANDSMAN, Ohio
+                       MORGAN MCGARVEY, Kentucky
+                  MARIE GLUESENKAMP PEREZ, Washington
+                       HILLARY SCHOLTEN, Michigan
+                        SHRI THANEDAR, Michigan
+                          JUDY CHU, California
+                         SHARICE DAVIDS, Kansas
+                      CHRIS PAPPAS, New Hampshire
+
+                  Ben Johnson, Majority Staff Director
+                 Melissa Jung, Minority Staff Director
+
+                            C O N T E N T S
+
+                           OPENING STATEMENTS
+
+                                                                   Page
+Hon. Dan Meuser..................................................     1
+Hon. Greg Landsman...............................................     2
+
+                               WITNESSES
+
+Mr. Troy Peters, President and Chief Executive Officer, JBT, 
+  Jonestown, PA..................................................     6
+Mr. Lucas White, President, The Fountain Trust Company, 
+  Covington, IN..................................................     8
+Mr. Michael Wilson, Chief Experience Officer, Members 1st FCU, 
+  Enola, PA......................................................     9
+Ms. Luz Urrutia, Chief Executive Officer, Accion Opportunity 
+  Fund, San Jose, CA.............................................    11
+
+                                APPENDIX
+
+Prepared Statements:
+    Mr. Troy Peters, President and Chief Executive Officer, JBT, 
+      Jonestown, PA..............................................    28
+    Mr. Lucas White, President, The Fountain Trust Company, 
+      Covington, IN..............................................    31
+    Mr. Michael Wilson, Chief Experience Officer, Members 1st 
+      FCU, Enola, PA.............................................    38
+    Ms. Luz Urrutia, Chief Executive Officer, Accion Opportunity 
+      Fund, San Jose, CA.........................................    61
+Questions for the Record:
+    None.
+Answers for the Record:
+    None.
+Additional Material for the Record:
+    Center for Responsible Lending (CRL), the National 
+      Association for Latino Community Asset Builders (NALCAB), 
+      and the National Coalition for Asian Pacific American 
+      Community Development (National CAPACD)....................    65
+    Colt Energy, Inc.............................................    69
+    Consumer Bankers Association (CBA)...........................    70
+    Consumer Financial Protection Bureau.........................    75
+    Honorable Greg Landsman--CFPB Symposium Report...............   123
+    Independent Community Bankers of America (ICBA)..............   131
+    National Association of Federally-Insured Credit Unions 
+      (NAFCU)....................................................   171
+    National Community Reinvestment Coalition (NCRC).............   186
+    NCRC Fact Sheet..............................................   191
+    Responsible Business Lending Coalition (RBLC)................   197
+    Testimony of Nick Powell, Chairman, Colt Energy..............   201
+
+ 
+ THE END OF RELATIONSHIP BANKING? EXAMINING THE CFB`S `SMALL BUSINESS 
+                     LENDING DATA COLLECTION' RULE
+
+                              ----------                              
+
+
+                        TUESDAY, MARCH 28, 2023
+
+              House of Representatives,    
+               Committee on Small Business,
+                   Subcommittee on Economic Growth,
+                                   Tax, and Capital Access,
+                                                    Washington, DC.
+    The Subcommittee met, pursuant to call, at 10:01 a.m., in 
+Room 2360, Rayburn House Office Building, Hon. Dan Meuser 
+[chairman of the Subcommittee] presiding.
+    Present: Representatives Meuser, Williams, Luetkemeyer, Van 
+Duyne, Alford, LaLota, Landsman, Velazquez, Chu, and Davids.
+    Chairman MEUSER. All right. This hearing will come to 
+order. Thank you. Thank you. This is the Subcommittee on 
+Economic Growth, Tax, and Capital Access. This meeting has now 
+come to order.
+    Without objection, the Chair is authorized to declare a 
+recess of the Committee at any time.
+    I will now recognize myself for my opening statements. The 
+title of this hearing is ``The End of Relationship Banking: 
+Examining the CFBP's Small Business Lending Data Collection 
+Rule.''
+    Again, good morning, and welcome to this hearing, examining 
+the Biden Administration's continued regulatory overreach and 
+its very harmful impact on America's small business economy.
+    First, I want to thank our witnesses very much for being 
+here today. We appreciate you taking the time to join us and 
+sharing all of your insights.
+    Today's hearing addresses a vital part of our country's 
+economy, small community lending institutions and the role they 
+play in assisting our small businesses. As we meet here today, 
+the financial institutions across the country are actively 
+engaged as we know in lending to main street America and our 
+nation's entrepreneurs who are in the process of starting their 
+own businesses.
+    As our witnesses will discuss with the Subcommittee, the 
+relationships between local lenders and the businesses in their 
+communities takes years to build and refine. These community 
+lenders are also the ones best suited to determine the 
+structure of the loans that provide to their customers personal 
+touch, knowing the customer, that it is impossible for a large 
+national institution to replicate.
+    Unfortunately, President Biden's Consumer Financial 
+Protection Bureau (CFPB) is poised to throw another wrench into 
+this vital aspect of our economy. The CFPB is proposing to 
+implement a new rule, the Small Business Lending Data 
+Collection Rule, that will impose burdensome new reporting 
+requirements that would harm small business lending. This rule 
+will alter the behavior of small financial institutions and 
+make them hesitant to continue lending to small businesses 
+based on their long-established relationships with main street 
+America.
+    This rule was born out of an obscure provision in Dodd-
+Frank almost 13 years ago. Most Members of Congress were too 
+busy debating too-big-to fail to even pay attention or realize 
+it was in there.
+    Making matters worse, this rule will add an even larger 
+regulatory cost burden to these small financial institutions 
+that are already struggling to keep up with the Biden 
+administration's costly regulatory agenda. According to the 
+SBA's Office of Advocacy, this rule, ``may be unnecessarily 
+burdensome to small entities, may impact the cost of credit for 
+small businesses, and may lead to a decrease in lending to 
+small, minority- and women-owned businesses.'' This is from the 
+Office of Advocacy. The Office of Advocacy also estimates that 
+the rule will have an initial $126 million impact on small 
+financial institutions, and then going forward, an annual 
+impact of $153 million. Unlike mega-banks that can absorb such 
+costs, these will crush smaller institutions that do not have 
+the budget to absorb such new regulatory burdens. The Office of 
+Advocacy also expressed concern that this rule failed to 
+properly consider alternative, less burdensome alternatives to 
+the rule. These alternatives should have included exempting the 
+smallest lenders but were never seriously considered.
+    The rule also creates racial profiling issues, privacy 
+concerns, an unrealistic implementation window, and mandates 
+excessive data collection of small business owners. In the 
+digital age we live in, such personal information in the hands 
+of so many different entities should give all of us, especially 
+the CFPB, pause on such requirements.
+    At a time when main street America is dealing with 
+unprecedented levels of inflation, interest rates that are 
+being raised at the fastest pace since the 1980s, supply chain 
+disruptions, and a prolonged labor shortage, adding more 
+burdens to our country's job creators, and our banks, is the 
+last thing the CFPB should be doing, but that is exactly what 
+the Bureau and the Biden administration seem determined to do. 
+Our small businesses and local community lenders deserve so 
+much better.
+    Without objection, I would like to enter into the record 
+letters detailing the impact this rule would have on small 
+business lending from the National Association of Federal 
+Credit Unions, International Community Bankers Association, the 
+Consumer Bankers Association, and the American Bankers 
+Association. It seems this rule has brought community banks and 
+credit unions together. So I guess there is a silver lining 
+here somewhere.
+    With that I will yield to our Ranking Member from Ohio, Mr. 
+Landsman.
+    Mr. LANDSMAN. Thank you, Mr. Chairman, for holding this 
+very important hearing and examining the CFPB's small business 
+lending role and examining ways to create a much more fair and 
+successful equitable lending system. For far too long, women- 
+and minority-owned small businesses have experienced obstacles 
+to accessing capital. Part of the reason is the lack of data 
+and transparency related to small business lending.
+    The scant data that exists continues to show that these 
+businesses lack the same access to external financing when 
+compared to traditionally owned firms. And during hard economic 
+times, the barriers to access capital are even greater. 
+According to the CFPB, minority- and women-owned small 
+businesses were disproportionately hurt by the pandemic because 
+they had fewer cash reserves and faced deeper hurdles to 
+accessing capital.
+    The Paycheck Protection Program highlighted the disparities 
+between these white-owned businesses and businesses of color. 
+The Federal Reserve Bank of New York found that the PPP loans 
+only reached about 20 percent of the eligible firms in states 
+with the highest densities of black-owned firms. The report 
+confirmed what we already suspected, the presence of racial 
+disparities in banking relationships and significant gap and 
+credit access in underserved communities.
+    Section 1071 of Dodd-Frank passed over a decade ago 
+attempts to remedy this situation by requiring financial 
+institutions to simply collect and report on the demographics 
+of small business owners applying for financing. Doing so 
+facilities the enforcement of fair lending laws and identifies 
+business and community development needs for small businesses.
+    I am encouraged that the CFPB will be issuing a final rule 
+in the next few days. It has been a long 12 years to get to 
+this point which included a lawsuit to prevent the previous 
+administration from intentionally delaying this rule. The CFPB 
+has conducted considerable outreach to small firms which 
+included convening of the Small Business Regulatory Enforcement 
+and Fairness Act panel in October 2020 to hear suggestions and 
+recommendations for small entity representatives. This, in 
+addition to adhering to the required APA notice and comment 
+process where the agency considered thousands of comments from 
+the public. There are going to be discussions today that this 
+rule discourages small financial institutions from making loans 
+to small firms. I for one do not agree with that conclusion. 
+Just like the data requirements for HMDA do not negatively 
+impact the mortgage lending industry, this rule will not be 
+detrimental to small businesses' lending market. It is my hope 
+that this rule will actually increase lending to small 
+businesses in general.
+    With that said, Mr. Chairman, I would like to request to 
+enter into the record a report titled ``Addressing the gap in 
+consumer protection for small business consumer through 
+multiple research program,'' which includes the data collected 
+is essential to combat institutional systemic discrimination 
+and the costs associated with the rule far outweighed by the 
+need to create a more transparent system for small business 
+lending in this marketplace.
+    So this is a motion to enter this into the record.
+    Chairman MEUSER. Without objection.
+    Mr. LANDSMAN. Thank you, Mr. Chairman, and I yield back.
+    Chairman MEUSER. Thank you again.
+    I now recognize Mr. Williams of Texas, the Chairman of the 
+Full Committee for his remarks.
+    Mr. WILLIAMS. Good morning. I want to thank all the 
+witnesses for being here today. And I want to thank my 
+colleague, Dan Meuser, my friend also, for holding today's 
+Small Business Subcommittee on Economic Growth, Tax, Capital 
+Access hearing on the CFPB's 1071 rule.
+    Today's hearing is critical to examining the future of main 
+street America. Banks are the lifeblood for small businesses 
+looking to grow or expand their operations, and I can tell you 
+as a small business owner for over 52 years, I can tell you 
+there has not been a day in my life where I have not owed a 
+community bank money. And I do not think there is another 
+agency in Washington that brings and causes more anxiety and 
+nervousness to small businesses than the CFPB. This agency is 
+quick to issue fines and enforcement actions against businesses 
+and financial institutions without ever telling them the rules 
+of the road before they are penalized. This regulation by 
+enforcement is detrimental to main street businesses that crave 
+certainty.
+    So this 1071 rule looks to make this problem even worse. 
+Financial institutions are going to have to dedicate 
+significant time and resources in order to comply with this 
+overly burdensome new data reporting regime. We need more loan 
+officers in our lending institutions and credit unions and not 
+more compliance officers, and we are looking to get more money 
+into the hands of job creators instead of needing to hire more 
+compliance officers like I said that are nothing but a drain on 
+our bottom lines.
+    So with that, I am looking forward to today's discussion, 
+and I hope we can shine a light on the most harmful aspects of 
+this very harmful rule that will be finalized any day now.
+    So Mr. Chairman, thank you, and I yield the time back.
+    Chairman MEUSER. Thank you very much, Mr. Chair. I 
+appreciate you being here with us this morning.
+    So I will now introduce our witnesses.
+    Our first witness today is Mr. Troy Peters. He resides in 
+my district. Mr. Peters is the president and CEO of Jonestown 
+Bank and Trust, which is celebrating its 150th anniversary this 
+year. Headquartered in Jonestown, Pennsylvania, which is in my 
+district, the bank's primary focus is on lending to small 
+businesses and retail banking. Mr. Peters knows firsthand how 
+vital banks like his are to the local community and being 
+readily able to provide a line of credit, and by extension, a 
+line of opportunity for someone to pursue their dream of 
+opening small businesses. And what will be a common theme in 
+today's hearing, the CFPB's Small Business Lending Data 
+Collection Rule will have a major adverse effect on both Mr. 
+Peters' bank and the local communities he has dedicated himself 
+to serving. With a career spanning over 30 years, Mr. Peters 
+has indispensable knowledge of the community banking industry 
+and will provide firsthand experience of how this rule will be 
+another blow to our country's small banks and main street 
+America. Mr. Peters, thank you for joining the Committee today.
+    It is now also my honor today to introduce our next 
+witness, Mr. Lucas White. Lucas White is a fourth generation 
+community banker and an active Member of his community. He has 
+served as president of The Fountain Trust Company since 2016, a 
+$600 million community bank with five locations in Fountain 
+County, Indiana. Mr. White is also Chairman-elect of the 
+Independent Community Bankers of America (ICBA), a national 
+trade association focused on advocating on behalf of more than 
+5,000 community banks across the United States. At ICBA, Mr. 
+White is a Member of the executive committee and a board of 
+directors and is Chairman of the Federal Delegate Board. He is 
+also a Member of the ICBA's Policy Development Nominating 
+Committee. So thanks very much for being here with us. Also, 
+while graduated from Indiana University with a bachelor's 
+degree in philosophy and Indiana University-Bloomington, Morris 
+School of Law years later, Mr. White still actively practices 
+law in the family firm of White and White Attorneys today. 
+Community banks channel local deposits into main street America 
+and help spur job creation, foster innovation, and assist in 
+fulfilling the American dream for many entrepreneurs. Mr. 
+White's extensive career knowledge in community banking makes 
+him well informed about the issues facing small businesses in 
+main street communities today. Mr. White, again, thank you for 
+making the trip and being with us.
+    It is now my honor to introduce our next witness, Mr. Mike 
+Wilson, to today's hearing. Mr. Wilson is the chief experience 
+officer for Members First Federal Credit Union headquartered in 
+Enola, Pennsylvania, just outside my district. Members 1st over 
+a half million Members, 60 branch locations across 9 counties 
+in Central Pennsylvania, including in the great 9th District of 
+Pennsylvania. Mr. Wilson's role is crucial as he is responsible 
+for ensuring exceptional Member experience on behalf of the 
+entire credit union. He does this through providing leadership 
+and direction for the credit union's retail operations, 
+customer service areas, we well as public relations, marketing, 
+community outreach, internal and external communications, and 
+financial literacy. Mr. Wilson, you sound like you are kind of 
+a busy guy. Mr. Wilson graduated from Central Penn College with 
+a bachelor of science in business and went on to earn his MBA 
+from Eastern University. Through his passion for people and 
+entrepreneurial thinking, Mr. Wilson has been recognized for 
+his professional accomplishments with numerous business awards, 
+including Emerging Business Leader of the Year to the 
+Harrisburg Regional Chamber and Capital Region Economic 
+Development Corporation. Mr. Wilson's extensive career and 
+dedication to his community through local banking makes him as 
+well informed as anyone about the issues facing small 
+businesses and main street communities today. Mr. Wilson, we 
+thank you for joining the Committee today and we are looking 
+forward to your testimony very much.
+    I now recognize the distinguished Ranking Member, Mr. 
+Landsman of Ohio, to introduce his witness for today's hearing.
+    Mr. LANDSMAN. Thank you, Mr. Chair.
+    Our final witness today is Ms. Luz Urrutia, CEO of the 
+Accion Opportunity Fund, which is a nonprofit CDFI located in 
+California focused on national microlending strategy to meet 
+the needs of small businesses. She has spent her career in 
+banking and financial services, particularly in underserved 
+markets. Prior to joining Accion Opportunity Fund--I think it 
+is Accion. Did I get that--sorry, my fault. She worked for 
+Dollar Financial Group as CEO for the Americas. In this role 
+she helped transform the organization into a responsible 
+consumer finance business for underserved communities. She has 
+served on the CFPB's Consumer Advisory Board, the Consumer 
+Advisory Council of the Federal Reserve Bank, and the Board of 
+the Financial Health Network. And on the SBREFA panel that 
+examined the CFPB Small Business Lending rule which is the top 
+of the hearing today. Recently, she received the Latino 
+Leadership Award for the Silicon Valley Business Journal. Ms. 
+Urrutia received a bachelor of science in Business 
+administration and finance and an MBA from Georgia State 
+University. Thank you for joining us. We look forward to 
+hearing your testimony.
+    Chairman MEUSER. Thank you, Ranking Member Landsman. Nice 
+to have you with us.
+    So before I recognize our first witness, I remind the 
+witnesses that oral testimony is restricted to 5 minutes in 
+length. When the light in front of you turns yellow you have 1 
+minute remaining. When the light turns red, you are over time 
+and need to conclude your testimony as quickly as possible.
+    I do now recognize Mr. Peters for his 5 minute opening 
+remarks. Troy?
+
+STATEMENTS OF TROY PETERS, PRESIDENT AND CEO, JBT; LUCAS WHITE, 
+ PRESIDENT, THE FOUNTAIN TRUST COMPANY; MICHAEL WILSON, CHIEF 
+    EXPERIENCE OFFICER, MEMBERS 1ST FCU; LUZ URRUTIA, CHIEF 
+          EXPERIENCE OFFICER, ACCION OPPORTUNITY FUND
+
+                    STATEMENT OF TROY PETERS
+
+    Mr. PETERS. Chairman Meuser, Ranking Member Landsman, 
+Chairman Williams, and Members of the Subcommittee, I am Troy 
+Peters, President and CEO of Jonestown Bank and Trust Co. (JBT) 
+headquartered in Jonestown, Pennsylvania. I testify today on 
+behalf of the Pennsylvania Association of Community Bankers, 
+and I also am a Member of ICBA. My bank is celebrating its 
+150th anniversary this year. Our name has never changed. We 
+have nearly $900 million in assets, 11 full-service branch 
+locations, and 160 employees. Our focus is on small business 
+and retail banking. We are also active in indirect auto 
+lending, and we serve the legal cannabis related businesses 
+throughout Pennsylvania and surrounding states.
+    Community banks like mine provide the bulk of all small 
+business loans in America. We are different than large banking 
+institutions that operate under a contrasting business model 
+that focuses on large companies and loan sizes. Main street 
+businesses, like my customers, prefer to work with a local 
+community bank because we are relationship lenders. We 
+intimately know our markets and our customers.
+    The CFPB's Small Business Lending Data Collection rule is 
+unfortunately squarely aimed at smaller banks like mine. We are 
+disproportionately disadvantaged to take on additional system 
+and personnel costs associated with compliance to this rule. 
+Now, although much of the costs would need to be passed on to 
+the borrower, it continues to promote further bank 
+consolidation, which means fewer local community banks to serve 
+the small business segment.
+    When my career began, this country had over 12,500 banks. 
+Today there are just over 4,000. Now, due to consolidation, a 
+small business's access to capital is being pushed into 
+metropolitan markets where relationship banking just does not 
+count for much.
+    I also worry about the integrity of the data to be 
+collected. In most cases, when a small business is seeking 
+financing, they are looking for the best solution and talking 
+to multiple lenders. Five banks could be collecting this data, 
+but only one will fund the loan. Each bank would be reporting 
+the data, which would make drawing any meaningful conclusion 
+difficult at best.
+    Small business loans are tailored to the specific 
+business's needs and it would be very difficult or impossible 
+to collect the exact data points to tell the entire story of 
+the structure, pricing, or counteroffers. There are just too 
+many variables to these loans. They are not as homogeneous as, 
+say, car loans. Making application and loan data public would 
+certainly be objectionable to my clients and it is quite 
+concerning. Publicly displaying sensitive information, like how 
+much money they applied for, what the purpose of the loan is, 
+and their revenue number is not the kind of information they 
+want or expect to be made public from a private transaction.
+    This disclosure could also create a competitive 
+disadvantage for them, such as revealing a planned business 
+investment. Even worse, publishing information that a sole 
+proprietor's loan request was denied in a small community like 
+ours, is akin the posting a bounced check to the wall behind 
+the store cash register. The public humiliation shouts, ``Do 
+not do business with this person; they are a deadbeat!'' My 
+customers adamantly do not want this.
+    I have customers like Jay. Jay came to our country seeking 
+opportunity, and after years of hard work and savings, he was 
+able to open his own small business near our town of 1,900 
+people where my bank is headquartered. A few years ago, when 
+the qualified mortgage (QM) rule was implemented, Jay was ready 
+to build his modest dream home. As a long-time customer, I 
+would have loved to help him achieve this dream, but his 
+mortgage request did not comply with the QM rules. And without 
+access to the traditional banking system, Jay turned to an 
+unregulated, hard money lender. His interest rate was higher 
+the loan did not come with complete disclosure, flexible terms, 
+or collection practices.
+    I feel like this rule will cause similar unintended 
+consequences and will not be in the best interest of my clients 
+and the communities that we serve. My hope is that the CFPB 
+will not go beyond the statutory requirements intended for this 
+rule. They should not add additional data points. They should 
+exempt smaller banks like mine, reduce the revenue thresholds, 
+and not breach the privacy of my customers.
+    I love the community banking industry and I love helping my 
+customers, and I thank you for convening today's hearing and 
+the opportunity to offer the community bank perspective. Thank 
+you.
+    Chairman MEUSER. Thank you, Mr. Peters.
+    I now recognize Mr. White for his 5 minute opening remarks.
+
+                    STATEMENT OF LUCAS WHITE
+
+    Mr. WHITE. Chairman Meuser, Ranking Member Landsman, and 
+Members of the Subcommittee, I am Lucas White, President of The 
+Fountain Trust Company in Covington, Indiana. I testify today 
+on behalf of the Independent Community Bankers of America 
+(ICBA) where I am Chairman-elect. Thank you for this 
+opportunity.
+    Community banks are committed to meeting the credit needs 
+of all small businesses in compliance with fair lending laws. 
+However, we believe the CFPB's forthcoming rule under Section 
+1071 of the Dodd-Frank Act will have serious, unintended 
+consequences. If finalized without significant changes, the 
+rule will have a chilling effect on customized lending, 
+compromise borrower privacy in the rural and small-town markets 
+I serve, and reduce access to credit for certain borrowers.
+    As described in my written statement, ICBA is urging the 
+CFPB to stay the effective date until the Supreme Court has 
+ruled on the constitutionality of the agency.
+    Is this rule ``the end of relationship banking,'' as the 
+hearing title suggests? I absolutely believe that it puts 
+relationship banking at risk and should be amended by the 
+Bureau or by Congress at the earliest opportunity. Relationship 
+banking is the key value proposition that community banks like 
+mine offer.
+    Relationship banking is our competitive advantage against 
+the larger financial institutions and nonbank lenders.
+    The Fountain Trust Company has served markets in West 
+Central Indiana since 1903 with small business, agricultural, 
+and consumer lending. Relationship banking is the foundation of 
+our success. It explains our resilience through numerous 
+economic and agricultural crises.
+    When it comes to serving small business, we form 
+partnerships that go well beyond lending. Community banks 
+provide practical, real world business counseling that is 
+especially important to small businesses. Customized lending is 
+key to these relationships.
+    Small business lending is not and should not be a 
+commodity. Underwriting is based on numerous borrower 
+characteristics and market variables. Loans are typically 
+customized to suit borrowers' needs and preferences and give 
+them the best chance of success. The data collected under 1071 
+will not reflect the full scope of underwriting and may suggest 
+discrimination where none exists.
+    Fortunately, our examiners are best positioned to make this 
+judgment and application of fair lending laws.
+    Section 1071 is simply the wrong tool for the job. Lenders 
+will respond by standardizing loan features to protect 
+themselves from charges of discrimination. As a result, small 
+business customers will not have access to credit that is 
+customized to their needs. Importantly, minority and women 
+borrowers whom this rule is supposed to help often benefit from 
+customized lending.
+    This was the outcome of the qualified mortgage rule which 
+was also a provision of the Dodd-Frank Act. It effectively 
+forced residential mortgages into a box.
+    As I discuss in my written statement, QM effectively 
+undermined our mortgage lending. Section 1071 without needed 
+accommodations threatens to do the same to our small business 
+lending.
+    A recent loan will illustrate my point. We worked with a 
+local farmer who wanted to open a butcher shop, a vertical 
+integration that made good business sense. We offered him two 
+customized loan options, a fixed rate and a variable rate. I 
+personally walked him through the benefits and drawbacks of 
+each and how future interest rates could affect his loan 
+payments and cash flows. This personalized customer service is 
+what community banks do best and what sets us apart from the 
+competition.
+    Unfortunately, Section 1071 would make customized multiple 
+option lending difficult. It is impossible to compare loan data 
+across customers who have chosen different options and 
+demonstrate that lending is not discriminatory. Thus, Section 
+1071 will limit the scope of loan choices available to small 
+businesses.
+    On top of that, the publication of my borrower's loan data 
+under 1071 would surely compromise his financial privacy. He is 
+the only butcher in town. In the small communities I serve, 
+businesses are readily identifiable. Loan offers contain 
+critical business information and reflect the business owner's 
+personal financial position as a guarantor of the loan.
+    I discuss additional objections to 1071 in my written 
+statement, but the effect on customization and the compromise 
+of borrower privacy are our primary concerns. The rule could be 
+greatly improved by recommendations described in my written 
+testimony that would exempt more banks and borrowers from the 
+rule. ICBA thanks the Members of this Subcommittee and 
+Committee who have introduced legislation to make the rule more 
+workable.
+    Thank you again for the opportunity to testify. I look 
+forward to your questions.
+    Chairman MEUSER. Thank you, Mr. White.
+    I now recognize Mr. Wilson for his 5 minute opening 
+remarks.
+
+                  STATEMENT OF MICHAEL WILSON
+
+    Mr. WILSON. Good morning, Chairman Meuser, Ranking Member 
+Landsman, and Members of the Subcommittee. My name is Michael 
+Wilson, and I am testifying today on behalf of the National 
+Association of Federally Insured Credit Unions (NAFCU). I 
+currently serve as Chief Experience Officer of Members 1st 
+Federal Credit Union, headquartered in Enola, Pennsylvania. 
+While small businesses only make up 4 percent of our total 
+membership, we are very proud of our work in the community as a 
+small business lender over the last 20 years in 9 counties 
+across Central Pennsylvania where relationships mean 
+everything.
+    We appreciate the opportunity to participate in this 
+discussion regarding the 1071 rulemaking process at the CFPB. 
+Section 1071 requires financial institutions to report data 
+about small businesses and their owners in order to facilitate 
+enforcement of fair lending laws. While NAFCU lauds this goal, 
+there is widespread concern about how the CFPB is proposing to 
+carry out its authority in this area. We outline our concerns 
+with the proposed rule in detail in our written statement but 
+would like to highlight a few of our major points here.
+    The definition of a covered financial institution. 
+Establishing a 25 loan threshold for reporting is a lower level 
+than even well-established home mortgage disclosure act or HMDA 
+limits. Such a low threshold could drive smaller lenders out of 
+small business lending all together due to the compliance 
+costs, a fact that the Bureau acknowledges in the proposed 
+rule.
+    The small business definition. While the CFPB has a 
+proposed $5 million threshold, NAFCU believes it should be 
+consistent with the SBA's $1 million standard.
+    Covered credit transactions. NAFCU recommends that the 
+Bureau establish a de minimis threshold consistent with the 
+NCUA's $50,000 call report threshold. Congress has excluded 
+Member business loans under $50,000 from the credit union 
+business loan cap and the NCUA has recognized this and excluded 
+such loans from call reports. We believe the CFPB is vastly 
+underestimating the number of credit unions that would be 
+impacted by the new burdens of this rule because it used the 
+call report data that excludes these loans in its analysis but 
+the Bureau did not account for the de minimis threshold by 
+proposing its own in the rule. By not recognizing this 
+distinction, the CFPB threatens to compound the compliance 
+burdens of this rule for credit unions.
+    Protected demographic information and visual observation. 
+Under the proposed rule, an employee could be forced to 
+determine the ethnicity and race of a small business applicant 
+via visual observation. NAFCU unequivocally opposes any 
+requirement that an employee of a credit union make visual 
+observations concerning the race, gender, or other sensitive 
+data about a small business owner. Not only is this an 
+unconscionable idea but it also threatens the integrity of any 
+Section 1071 data collected.
+    One-time and ongoing compliance costs. NAFCU is 
+significantly concerned that the Bureau, as happened with its 
+HMDA proposal, has materially underestimated the one-time and 
+ongoing costs credit unions are likely to face under the rule.
+    Mandatory compliance schedule. The proposed rule's 18-month 
+mandatory compliance schedule will be aggressive, even for the 
+largest, most tech-savvy credit unions. The vast majority of 
+credit unions will be forced to rely on multiple IT vendors to 
+come into compliance. Past experience with the Bureau's 
+implementation of HMDA suggests that the Bureau is likely 
+underestimating the time required for IT venders to adapt their 
+products to comply with major rulemaking. NAFCU has encouraged 
+the Bureau to adopt a phased, mandatory compliance schedule 
+based on loan volumes that begins no sooner than 3 years 
+following the Bureau's adoption of a final rule. We are 
+supportive of efforts to address concerns about the compliance 
+deadline, such as the Small Lender Act offered by 
+Representative French Hill.
+    In conclusion, with the final Section 1071 rule set to be 
+released, NAFCU urges the CFPB to exercise its discretionary 
+authority to exempt smaller institutions from this rule as the 
+compliance costs outweigh any benefit. If such an exemption is 
+not granted under the CFPB Section 1022 authority, we would 
+hope to see significant changes to the proposed rule as 
+outlined above. Even though small businesses make up a small 
+percentage of our membership, the cost associated with 
+complying would have a negative impact on our Members and their 
+access to credit. Should the bureau not address our concerns, 
+we urge Congress to step in with your oversight authority and 
+to consider statutory changes such as enacting the small lender 
+act. Failure to do so will threaten access to credit for many 
+of our nation's main street small businesses who rely on 
+community lenders like credit unions to meet their capital 
+needs.
+    I thank you for the opportunity to testify today and look 
+forward to answering your questions. Thank you.
+    Chairman MEUSER. Thank you for your compelling testimony, 
+Mr. Wilson.
+    I now recognize Ms. Urrutia for her 5 minute opening 
+remarks.
+
+                    STATEMENT OF LUZ URRUTIA
+
+    Ms. URRUTIA. Good morning, Chairman Meuser, Ranking Member 
+Landsman, and Members of the Committee. Thank you for the 
+opportunity to testify and discuss CFPB Section 1071.
+    My name is Luz Urrutia and I am the CEO of Accion 
+Opportunity Fund, the leading CDFI nonprofit providing access 
+to loans, business advising, and networks to underinvested 
+entrepreneurs.
+    I spent my entire career in for-profit financial services 
+which included nearly two decades at Wachovia, then as co-
+founder and CEO of a community bank and a CEO of a payday 
+lending company where I helped to ensure that they provide 
+responsible financial services to their customers. I joined AOF 
+as its CEO because of my experience as a lifelong for-profit 
+banker and my passion for providing responsible financial 
+services to underinvested communities. I know for a fact that 
+business and lenders can generate profit and do the right thing 
+investing in all communities.
+    As CEO, I am very proud of the impactful work AOF has done 
+to provide capital to entrepreneurs that are often left behind 
+by our financial mainstream system. Today, we have deployed 
+over $700 million to more than 25,000 entrepreneurs, and 80 
+percent of our borrowers are people of color, women, and 
+immigrants. In fact, women make up one out of every three 
+clients we serve. It is because of the entrepreneurs we serve 
+that I have advocated for rules like 1071 which will allow our 
+entire financial services system to fully see and better serve 
+all of our entrepreneurs.
+    And this transparency is not just about fairness. It is 
+also about strengthening the economy. A recent study shows that 
+minority- and women-owned small businesses employ nearly 20 
+million people and generate over $2 trillion in economic 
+activity.
+    I know this to be true, personally and as the CEO of AOF, 
+because I think about clients such as Reign Free from Oakland, 
+who started and scaled her catering business after repeatedly 
+being told that she did not qualify for a loan. We were her 
+first lender to say yes. I also think about Alicia Villanueva 
+from Hayward, who took $5,000, bought her first van, and now 
+she has the most burgeoning tamale business nationwide.
+    I am proud that we provide loans to everyone--Black, White, 
+Latino, Asian, and low-income, but I am especially proud of our 
+investment in Black and Latina women who are starting up more 
+businesses in this country than any other group. I am proud 
+that AOF supports these entrepreneurs and the businesses that 
+they found, the employees they hire and train, and the economic 
+activity they generate.
+    However, for decades, entrepreneurs like these women have 
+not been seen by our financial system. While I am on here to 
+defend or promote every letter of Section 1071, I recognize 
+that this rule will accomplish three important things: It will 
+help small business lenders. It will help entrepreneurs that 
+desperately need access to capital, and help policymakers that 
+want to invest in our economy without creating new direct 
+entitlement programs.
+    First, this rule would help the market to better address 
+both the lack of access to affordable capital, and the rise of 
+irresponsible lending. For the first time, everyone in 
+financial services would be able to see which business models 
+are successful at reaching minority-owned, women-owned, and 
+other small businesses. This transparency would attract 
+investment capital and partnerships into models that really 
+work. We can have a market-based model and pro-innovation 
+approach to regulation, one that will actually help lenders 
+expand customer acquisition, something that all community banks 
+and lenders really want and need to do. But we need clarity on 
+who the businesses are, who is serving them, and what capital 
+are they getting, because we cannot manage what we do not 
+measure.
+    Second, as lenders, the better we understand these 
+businesses, it will help tailor products and services to meet 
+their needs. The more knowledge we gain about our markets, our 
+customers, and their needs, the better equipped we are to 
+building long-term profitable relationships.
+    Finally, this rule helps spur additional investments in 
+small businesses, which is the best way to reduce inequities 
+without having to create new government programs. Instead, it 
+will allow all of us to do what our organizations have 
+successfully done for years--expand access to capital for 
+underserved entrepreneurs by leveraging existing public and 
+private sector partnerships.
+    For these reasons, I am very pleased to testify on how we 
+can ensure that Section 1071 accomplishes its goals of spurring 
+additional investment in all our entrepreneurs.
+    I will conclude by saying that access to capital for small 
+businesses is a bipartisan priority. There are Mom and Pop 
+stores in communities that are rural and urban; red and blue; 
+Black and White, Hispanic, and Asian, and they are all powering 
+our economy. But we cannot do that without Section 1071 to 
+shine light on these small businesses' credit applications.
+    Because as I said before, we cannot manage what we do not 
+measure, and sunlight is the best disinfectant. As we implement 
+this rule well, we will finally will be able to increase access 
+to capital for small businesses and create a more transparent, 
+bipartisan, and successful financial system.
+    Thank you, and I look forward to your questions.
+    Chairman MEUSER. Thank you, Ms. Urrutia, I appreciate that.
+    We will now move to the Member questions under the 5-minute 
+rule. And I recognize myself for 5 minutes.
+    Mr. White, I will start with you. And really, to all of our 
+witnesses. The CFPB's mission statement is as follows. I am 
+going to summarize.
+    We aim to make consumer financial markets work for 
+consumers, responsible providers, and the economy as a whole. 
+We protect consumers from unfair, deceptive, or abusive 
+practices and take action against companies that break the law. 
+We arm people with the information, steps, and tools that they 
+need to make smart financial decisions.
+    Mr. White, do you think that this rule will help the CFPB 
+to accomplish this mission?
+    Mr. WHITE. Mr. Chairman, thank you.
+    I do not believe this rule will help CFPB achieve its 
+mission. The first part of the mission statement was something 
+along the line of having markets help consumers. And I would 
+reference the QM rule that came into effect as part of Dodd-
+Frank. As I said in my testimony, customized lending is 
+absolutely key to small business lending. We had that type of 
+lending with consumer mortgages prior to the QM rule. As a 
+result of the QM rule, we now have all of our consumer 
+mortgages in a matrix. We had a customer prior to QM. Her name 
+is Mae. She owns a local Chinese restaurant. We had a consumer 
+mortgage with her. After QM, we could not verify enough income 
+and we had to turn her down when she wanted to buy a new house. 
+And so that is an example of where a rule like this can 
+undermine what the CFPB's mission is.
+    Chairman MEUSER. Sure. So, will the CFPB's 1071 reporting 
+rule in any way improve your lending practices and make them 
+fair? Will you have more businesses in some way because this 
+rule is in effect? And I will also ask, and I am going to ask 
+Mr. Peters this and as well Mr. Wilson, is it fair to compare a 
+mortgage loan to a business loan?
+    Go ahead, Mr. White. You go first.
+    Mr. WHITE. they are completely different. Each business is 
+different. Their cash flows are different. Their needs are 
+different. And that is the reason we tailor our loan products 
+specifically to what that customer needs. And so you cannot 
+compare consumer lending at all to small business lending in my 
+eyes.
+    Chairman MEUSER. Mr. Peters?
+    Mr. PETERS. Yeah, I would agree. They are two different 
+situations. I mean, small businesses are unique. They are at 
+different stages in their lifecycle. Oftentimes you are 
+counting on pro forma income or projections, whereas in 
+consumer lending it is documented past. So I think it is two 
+different types of lending.
+    Chairman MEUSER. And continuing, Mr. Peters, will this have 
+any effect in extending relationships with small businesses in 
+your community? I mean, let's face it. We are talking about 
+expanding lending here, not what occurred with the PPP where 
+fraud came into play. Now, we all know that knowing the 
+customer within the PPP reduced potentiality of fraud 
+immensely; right? I mean, it did not happen with knowing the 
+customer. But would this help you accentuate and enhance your 
+business base in any way in your view and change your proactive 
+practices to outreach to your community?
+    Mr. PETERS. I do not believe so. I think we are only as 
+strong as our communities as a community bank. And we want to 
+build stronger communities. So, I do not think that it would 
+help that or change the outlook at all.
+    Chairman MEUSER. Well, it is certainly your reputation.
+    Mr. Wilson, let me ask you, can you explain how your 
+employees are going to feel about having to potentially guess 
+the racial information of customers based upon appearance, 
+surname, when it is not self-reported by the small business 
+which is their right and as this rule would require?
+    Mr. WILSON. I would imagine that would put our associates 
+in a very uncomfortable situation. I think about the 19- or 20-
+year-old teller who is in their entry-level role and being, you 
+know, put in a very awkward situation like that would be very 
+difficult for them. In addition to that, it could really 
+compromise the data which could undermine exactly what the 
+attempt is here to help.
+    Chairman MEUSER. All right. Thanks.
+    And I am going to go back to you, Mr. Peters. Would this 
+rule require you to increase employees, increase your costs for 
+compliance, add additional burdens to your ability to be a 
+thriving lender in your community?
+    Mr. PETERS. Yes, it would. I mean, you are talking about 
+systems and when systems are put into place what a lot of 
+people do not think about is there needs to be somebody to run 
+that system. The care and feeding of it, in addition to 
+compliance, to the checking, the double checking, the software, 
+to gather and report it. I would say something like this would 
+touch at least 15 different people in our bank and probably add 
+in the neighborhood of $500 to $800 per loan in the startup 
+year.
+    Chairman MEUSER. Thank you. My time has expired. Thank you 
+for your testimony.
+    I now recognize the Ranking Member for 5 minutes for 
+questions.
+    Mr. LANDSMAN. Thank you, Chairman.
+    So I appreciate everyone being here. The fact that we have 
+a community bank and a credit union, a CDFI, part of this 
+hearing is to better understand what is a proposed rule. Right? 
+You know, the rule is still being finalized, input is being 
+gathered, information from everybody is collected. And so it 
+will be important for us to, I think, wait to see what this 
+proposed rule is, though it does seem to me that this is a very 
+straightforward thing. And Mr. Wilson touched on this which is 
+although it may have been Ms. Urrutia, sorry, who said it but 
+this is about collecting data and trying to better understand 
+who does this best. And not an entitlement program which is I 
+think a really important thing to keep in mind. And you know, 
+to do it in a way that does not overburden folks obviously is 
+important and clearly the testimony today suggests that, you 
+know, for some of our banks it does. I will just way of 
+background and then I will ask my question, I represent a 
+district with a large number of smaller businesses, women-owned 
+businesses, Black-owned businesses. We have a lot of childcare 
+providers, most of whom are run by Black women, owned by Black 
+women. And their ability to access capital has been tough. And 
+you know, post-pandemic it has been even tougher because of the 
+cost of capital; right? So accessing affordable capital. And so 
+it does seem to me very straightforwardly that, you know, the 
+more data that we are able to collect, the better it is that we 
+will be able to understand what is working and what is not. And 
+I think the question is how you do that in a way that is not 
+overly burdensome and does not lead to this situation where 
+folks are being left out or you cannot provide loans.
+    So I guess my question first Ms. Urrutia, sorry, I am 
+struggling with that one, is do you believe that this will 
+undermine, you know, small banks, their ability to provide 
+these loans?
+    Ms. URRUTIA. I think it would be the opposite. I think 
+that, this rule is going to lead actually to more small 
+business lenders wanting to get into the market because 
+everyone is going to become more aware, more knowledgeable, and 
+more informed about the scope and scale of small businesses and 
+the impact that they have on our economy. And frankly, how much 
+they are growing and how profitable they are for institutions 
+that want to serve them responsibly. You know, we saw this 
+development with HMDA. It did not pull lenders away. In fact, 
+as more data was reported, more competition emerged, better 
+products were developed, and everybody won, the consumer and 
+the lenders.
+    The CFPB issued a lender survey and developed cost 
+estimates that were then reviewed by lenders, and many smaller 
+financial institutions were asked this question during the 
+rulemaking process and responded to say that it would not force 
+them out of the market. The Bureau also estimated the cost per 
+application would range anywhere between $7 for the larger 
+banks with more technological capabilities to $28 for the 
+smaller banks. And so, you know, for the first time I think 
+everyone in financial services would really have access to see 
+what the market is made up of and to be able to reach 
+successfully more minority-owned, women-owned, and other small 
+businesses. And I think once again, the transparency is going 
+to attract quality responsible business models to want to serve 
+a very burgeoning, growing, and profitable market which is the 
+small business lending community.
+    Mr. LANDSMAN. You have been able to do a lot and this has 
+helped you better understand the impact. What is your 
+recommendation or suggestion, advice in terms of managing the 
+data collection and pursing the intent of the rule which is to 
+increase lending to folks that have struggled to get lending, 
+to get the capital?
+    Ms. URRUTIA. Yeah. So just, our own perspective, last year 
+we did about 3,000 loans to small business entrepreneurs. That 
+is an enormous amount of lending. And you know, like every 
+other CDFI, we are required to collect and report data on a 
+variety of data points--interest rates, fees, origination cost, 
+race, gender, ethnicity. And CDFIs do that.
+    Mr. LANDSMAN. I have run out of time and I apologize. I 
+spoke a lot. But as the hearing continues I think just getting 
+that sense as to what advice, recommendations would be great.
+    Thank you, Mr. Chair.
+    Chairman MEUSER. Thank you. The Ranking Member's time has 
+expired.
+    The Chair now recognizes Mr. Luetkemeyer from Missouri for 
+5 minutes.
+    Mr. LEUTKEMEYER. Thank you, Mr. Chairman.
+    Mr. White, when Congress passed Dodd-Frank 12 years ago it 
+included Section 1071, which requires companies to inquire 
+whether customers are a small business, woman-owned business, 
+or minority-owned business at the credit application stage. 
+However, in the 1970s, Congress passed the Equal Credit 
+Opportunity Act which prohibits race as part of lending 
+criteria. If the CFPB's proposed rulemaking would make 
+financial institutions essentially guess the applicant's 
+ethnicity if an applicant does not want to provide such 
+information it would appear to me that would be racial 
+profiling if I am not mistaken.
+    Mr. Wilson, does that proposed rule go against the Equal 
+Credit Opportunity Act which has been in law since the 1970s? 
+Mr. White, I am sorry.
+    Mr. WHITE. As Mr. Wilson actually said earlier, we are 
+concerned with having to guess the race of our customers. We 
+have to do that under HMDA currently but through PPP we learned 
+that a substantially higher number of small businesses declined 
+to provide that information than homeowners. And so as a result 
+of that, our employees are going to be guessing that 
+information a lot more than what they do under HMDA. And that 
+will eventually kind of erode the data. As we say in the 
+banking industry, ``garbage in, garbage out.'' With models, it 
+will be very hard to analyze the data.
+    Mr. LEUTKEMEYER. Okay. The Equal Credit Opportunity Act is 
+a law though, is it not?
+    Mr. WHITE. Yes. We cannot discriminate, period.
+    Mr. LEUTKEMEYER. This is a rule by the CFPB; right?
+    Mr. WHITE. Yes.
+    Mr. LEUTKEMEYER. Does a law overrule a rule?
+    Mr. WHITE. No.
+    Mr. LEUTKEMEYER. No?
+    Mr. WHITE. The statute rules.
+    Mr. LEUTKEMEYER. They are equal in substance? Equal in 
+importance? One does not overrule the other?
+    Mr. WHITE. Statute technically I think overrides a rule but 
+we have to follow both. And as long as they do not conflict----
+    Mr. LEUTKEMEYER. Well, does this not conflict here because 
+you are basically racially profiling with the way the new rule 
+is proposed versus the Equal Credit Opportunity Act that says 
+you cannot do that?
+    Mr. WHITE. It certainly opens up the risk to that.
+    Mr. LEUTKEMEYER. So, okay, as an attorney, would you not be 
+concerned by your officers opening yourself up to a lawsuit in 
+this situation? If you comply with one rule here, are you 
+against, are you doing something in contradiction to the law?
+    Mr. WHITE. It certainly increases our risk of opening 
+ourselves up to litigation. That is correct.
+    Mr. LEUTKEMEYER. How would you advise your customers, your 
+clients in this situation? If you were a bank attorney--not the 
+CEO now. If you are a bank attorney for a group of banks, what 
+would you advise them to do here?
+    Mr. WHITE. When the rule requires our employees to guess, 
+there is not much more we can do than say give it your best 
+guess.
+    Mr. LEUTKEMEYER. So as long as you are guessing according 
+to what the rule tells you to do you are going to be okay?
+    Mr. WHITE. Well, hopefully. I will say as a community bank 
+we know our customers.
+    Mr. LEUTKEMEYER. Is that away to do business, Mr. White?
+    Mr. WHITE. No, it is not.
+    Mr. LEUTKEMEYER. To guess what is going to happen?
+    Mr. WHITE. We do not prefer to guess when it comes to doing 
+business.
+    Mr. LEUTKEMEYER. Okay. Thank you for that.
+    Mr. Peters, you made a statement a minute ago that each 
+bank has to collect the data and report it even if you do not 
+make the loan. It would seem to me that is going to skew your 
+data if you are going to have to continue to report it. 
+Somebody who is not a worthwhile individual, he goes to seven 
+different institutions and gets turned down, that is going to 
+skew the data, is it not?
+    Mr. PETERS. Yeah. I think definitely so. You know, most 
+times a small business is not going to just go to the first 
+lender. They are going to shop their deal and try to talk to a 
+number of banks about it. The banks are also going to help them 
+put together the structure of that loan. So it may look 
+different in different applications in different spots and only 
+one bank will fund the loan but they will all be reporting the 
+data and I think it would be very difficult to find meaning in 
+that kind of data.
+    Mr. LEUTKEMEYER. Mr. White, CFPB wants to collect a series 
+of personal and detailed data from small businesses but refuses 
+to release which information they will publicize or share how 
+they plan to make that determination. My bill, the Business 
+Loan Privacy Act will require the CFPB to do a separate notice 
+and comment rulemaking to determine what information will be 
+published by the Bureau.
+    Mr. White, do you believe the CFPB should have a separate 
+rulemaking for this, allowing small businesses and lenders to 
+be part of the conversation?
+    Mr. WHITE. Absolutely. And on behalf of ICBA, I would like 
+to thank you for that legislation that you have introduced. 
+Small businesses and community banks should have a voice in 
+what data is made public because that is where our privacy 
+concerns come up for our customers.
+    Mr. LEUTKEMEYER. Well, it looks to me like your clients', 
+your customers' information is going to be much more public 
+than what it is now if this goes through. Do you have concerns 
+about that information being made public and having some 
+ramifications of that to your customers?
+    Mr. WHITE. We do. Small businesses prefer their information 
+to remain confidential. And when our customers realize that 
+their data is being made public it provides an incentive to go 
+to a larger bank where their information can basically be 
+hidden in the data. And if they come to our bank like that 
+butcher I talked about, everybody is going to know who it is 
+but if he goes to a big bank he may not.
+    Mr. LEUTKEMEYER. So what you are saying is instead of being 
+able to do business with your local community bank, if you 
+prefer not to have everybody in the community know what you are 
+doing and what your business is you may go down the road to 
+some bigger bank or some other community and as a result you 
+are not doing business with your own community bank any longer.
+    Mr. WHITE. That is exactly right.
+    Mr. LEUTKEMEYER. And so it will hurt the community banks by 
+doing this.
+    Mr. WHITE. Highly likely. Yes.
+    Mr. LEUTKEMEYER. Okay. Thank you very much for your 
+testimony today. Mr. Chairman, I yield back.
+    Chairman MEUSER. The gentleman yields.
+    The Chair now recognizes the Ranking Member of the Full 
+Committee, Ms. Velazquez from New York for 5 minutes.
+    Ms. VELAZQUEZ. Thank you very much. And thank you to all 
+the panelists for your insightful information.
+    Ms. Urrutia, you said, you stated that we cannot fix what 
+we cannot measure. And so when we were going through the 
+pandemic and we issued the first tranche of money to provide 
+relief to small businesses, anecdotal data was telling us that 
+the smallest of the small businesses and Black and Latino and 
+Asian businesses were left behind no matter how hard they try. 
+Do you know why? Because the banks did not proactively help 
+anyone but their customers. So I requested when I was consulted 
+by the leader in the House to sign onto another tranche of 
+money I said, no, I want to see the data. I want to see if 
+everyone, every small business that is in need of help has been 
+provided by the banks. And the Secretary of the Treasury 
+Mnuchin refused. And then when he saw that definitely we will 
+not be part of providing more relief unless we saw the data, 
+what the data told us was exactly what the anecdotal data was 
+telling us, anecdotal stories was telling us. And so, we added 
+money for nation lenders to be able to provide relief to small 
+businesses.
+    Ms. Urrutia, you were a Member of the CFPB and the notice 
+of the proposed rulemaking provides that the applicants 
+themselves do not have to provide their information. But, if 
+the applicants do not provide the information, the financial 
+institution must provide it based on visual observation or 
+surname. In fact, those SBREFA panels were conducted by former 
+Director Kraninger, who was appointed by President Trump. Is 
+that not correct, Ms. Urrutia? And so it is also fair to say 
+that the CFPB under both the Trump and the Biden administration 
+thought that crafting and finalizing this rule was necessary to 
+protect small businesses.
+    Ms. Urrutia, can you explain why the data collection 
+requirements being proposed by the CFPB are not overly 
+burdensome on small depository and non-depository institutions?
+    Ms. URRUTIA. Yeah. So as I explained earlier, you know, my 
+previous experience as a banker and my current experience as 
+the CEO of the largest nonprofit CDFI, I do not believe that 
+the data collection being proposed under 1071 is overly 
+burdensome. As I was stating earlier, we do on average 3,000 
+loans, small business loans a year. And like every other CDFI, 
+we are required to collect and report comparable data to 
+Section 1071 on small businesses on an annual basis and report 
+that data to the CDFI fund. Many of the CDFIs that report with 
+us are also small, community-based organizations and the 
+information reported includes transaction-level data, such as 
+interest rate, origination fee, points, terms, amounts, 
+payments, race, ethnicity, age, and gender.
+    Ms. VELAZQUEZ. Thank you for that answer.
+    Can you expand on why you believe the work done by the CFPB 
+is necessary to small businesses as consumer?
+    Ms. URRUTIA. Well, if you look at the small businesses, you 
+know, they are often called Mom and Pop businesses. And that is 
+because they are small and they are run by the same consumers 
+that the CFPB is trying to protect. These businesses do not 
+have CPAs or CFOs making financial decisions for the family-run 
+businesses and they have the same level of sophistication as 
+the average American household. And these Mom and Pop stores 
+are in rural and urban communities and are powering our 
+economy. And their success is our success but they need capital 
+to grow. And unfortunately----
+    Ms. VELAZQUEZ. But are you not concerned about the 
+potential upfront or ongoing compliance costs?
+    Ms. URRUTIA. I can tell you that our compliance cost up 
+front was $35,000 and annually it is $10,000, regardless of 
+number of loans that we are doing. And so I think that the 
+costs are manageable compared to the benefits of having access 
+to data that is going to help all of us better serve small 
+businesses in America.
+    Ms. VELAZQUEZ. Thank you. I yield back.
+    Mr. LALOTA. Thank you.
+    The Chair recognizes himself for 5 minutes.
+    I am Nick LaLota. I represent a Long Island district, the 
+1st District of New York. We are about a couple hours east of 
+Manhattan. We are a suburban district with many Mom and Pop 
+businesses. They are struggling under the high inflation, high 
+interest rates, excessive regulations, and labor shortages just 
+to name a few. Members of this Committee from both sides of the 
+aisle agree that these challenges are real and persistent 
+throughout the country. And with that in mind, it is troubling 
+to me and other Members on the Committee that the Consumer 
+Financial Protection Bureau is using resources at its disposal 
+to create rules to add to these very real pressures instead of 
+mitigating them. Hopefully at a future hearing we can have a 
+representative from the CFPB to explain to us the timeliness of 
+this rule. Thankfully, you, as today's witnesses, have beyond a 
+doubt demonstrated that these new regulations would have 
+duplicative measures and would cost millions per year to comply 
+with and would irreparably harm our relationship banking.
+    My first question is to you, Mr. White. Sir, thank you so 
+much for being here.
+    As you stated in your testimony, you have 130 employees 
+across many locations. How difficult would it be for your 
+business to create a firewall as has been described today?
+    Mr. WHITE. Any time when you have a bank our size with our 
+number of employees, any new regulation is hard to figure out 
+how are we going to do this with the employees we have. And I 
+will explain what we do on HMDA because it is fairly similar to 
+what will happen with 1071. Our loan processor enters the data. 
+We then have three separate people review that data before we 
+file it or report it. And we still have the random mistake 
+after three levels of review. And so when you consider last 
+year we did approximately 770 loans that would be subject to 
+1071, you are looking at HMDA on steroids basically in terms of 
+the amount of manpower and time that it would take.
+    Mr. LALOTA. Thank you. And following up on that, you also 
+illustrated problems with the scope of the data collection. For 
+example, the 25 loan threshold is far too low and the borrower 
+gross annual revenue threshold is too high, meaning the data 
+collection requirements would apply to a majority of community 
+banks. In your opinion, what should the threshold be?
+    Mr. WHITE. ICBA is advocating for a $1 billion asset 
+threshold. Banks below $1 billion would be exempt. If the CFPB 
+or the government stays with a number of loans we would support 
+French Hill's bill which has a 500 loan limit. Twenty-five 
+loans a year is so low it is honestly a little bit offensive 
+that that is considered an exemption.
+    Mr. LALOTA. Thank you so much.
+    And Mr. Peters, in your testimony you talked about the 
+decline of community banks and the resulting consolidation. And 
+I share these concerns, sir. How do you think small businesses 
+like the ones in my district on Long Island and throughout the 
+country will fare if there are fewer choices when it comes to 
+lenders?
+    Mr. PETERS. Well, I think we have the best financial system 
+in the world, and I think part of that is having choices as 
+businesses and consumers in competition. And I think in this 
+case if you are concerned about the privacy of the data you may 
+want to go to a larger lender where your data could be harder 
+to find by the public. If I was denied the loan, I do not want 
+my community to know that so I think it does not play in favor 
+of our small business clients and communities.
+    Mr. LALOTA. Thank you, Mr. Peters. And following up with 
+that, you discussed that making application loan data public 
+will be opposed by your clients for a variety of legitimate 
+reasons. Do you think that this will make your clients less 
+likely to apply for those loans?
+    Mr. PETERS. I think in some cases it could push them to 
+other lenders that will not follow those rules such as I 
+mentioned in my testimony with hard money lenders that fall 
+under these thresholds and can ensure privacy of data. And that 
+is something that is very important to my clients.
+    Mr. LALOTA. Thank you. And thank you for all the witnesses 
+being here. I yield back the balance of my time.
+    I now recognize Ms. Chu from California for 5 minutes.
+    Ms. CHU. Thank you.
+    Ms. Urrutia, we know that women- and minority-owned small 
+businesses still face significant barriers in access to 
+capital. These gaps were particularly clear during the Paycheck 
+Protection Program and the initial PPP application did not ask 
+for demographic information. And so there were shocking 
+results. In fact, because the SBA was not gathering this data, 
+investigators at the LA Times in my area published a report in 
+2021 and they have to use census track data in order to look at 
+majority ethnic census tracks. And they determined that 
+businesses in majority White neighborhoods received loans at 
+twice the rate that majority Latino census tracks received the 
+loans, 1.5 times the rate of businesses in majority Black 
+areas, and 1.2 times the rate in Asian areas. And so we clearly 
+need it, that data transparency. What happened with PPP shows 
+us why we have to have this information. And as a result, we 
+did this $60 billion set aside for the mission-based lenders to 
+provide loans to those in minority and women-owned areas. And 
+this problem was ameliorated tremendously and now the loans 
+were shown to be given to those in those underserved areas.
+    So Ms. Urrutia, can you speak to the lessons of the PPP and 
+why the data transparency like this required by Section 1071 is 
+needed to both understand and address discrimination and 
+disparities in small business lending?
+    Ms. URRUTIA. Sure. I can share my own personal experience 
+about discrimination in the financial system. When I started 
+working for a bank, I was turned down because I did not have 
+credit. And so the fact that I was an immigrant and I had 
+limited credit history made me invisible and unbankable. Fast 
+forward 18 years, that experience led me to find a community 
+bank and then I wanted to raise capital. And I kept on hearing 
+no, no, no at every turn of the way until I show up with a 
+couple of male board Members and then the capital to form the 
+bank started flowing. Twenty-one years later things have not 
+changed. Two percent of venture capital goes to women. Four 
+percent of commercial loans goes to women. In the meantime, it 
+is women that today are building small businesses at a higher 
+rate than any other demographic in this country. So the 
+problems persist, and unless we put sunshine in this problem we 
+are never going to solve the problem that women and communities 
+of color face accessing capital from financial institutions.
+    Ms. CHU. Thank you for that.
+    And Ms. Urrutia, well, for one thing we do know that the 
+CFPB Home Mortgage Disclosure Act rule has been in place for 
+more than 40 years and has been instrumental in giving the CFPB 
+the data they need to identify and root out discriminatory 
+lending practices. And even more importantly, mortgage lending 
+activity has not decreased or been otherwise negatively 
+impacted due to compliance costs.
+    Now, there was some discussion earlier about, well, 
+mortgage loans are different from business loans and so that is 
+why with business loans you should not look at demographic 
+data. How do you answer that?
+    Ms. URRUTIA. You know, I think this can be very much 
+compared to HMDA. There was anecdotal evidence that underbanked 
+populations were not being served and that capital flows were 
+falling short when reaching certain communities. But without 
+the data there was no proof and HMDA was that data. The result 
+really was real access to capital for those communities, and 
+really great benefits were achieved for both the individuals 
+and the institutions that were providing the capital. As a 
+result, lenders got into mortgage lending because they thought 
+it was profitable, it was growing, and they could really do 
+great work. There is plenty of evidence following the HMDA data 
+expansion between 1993 and 1999, the number of home purchases 
+made. For Latino consumers, it increased over 120 percent. For 
+Native Americans, 119 percent. For African Americans, by 91 
+percent. And plenty of more statistics that show that increase 
+in the flow of capital happened to underserved communities. 
+There were certainly other factors that contributed to this but 
+HMDA was a key part of that expansion. So it has been done 
+before.
+    Now, we do have some recommendations. Having a national 
+database, and one thing I want to focus is on privacy. If you 
+look at 40 years of HMDA's existence, not a single home loan 
+has been identified. And the CFPB also contends that the 
+publication of HMDA, which has similar data points to Section 
+1071, has not resulted in any measurable increase in fraud or 
+identity theft.
+    Ms. CHU. Thank you.
+    Mr. LALOTA. The gentlelady's time has expired.
+    I now recognize the gentlelady from Texas, Ms. Van Duyne, 
+for 5 minutes.
+    Ms. VAN DUYNE. Thank you very much, Mr. Chairman. thank you 
+for holding this important hearing on a very concerning rule 
+coming from the Biden administration which once again will 
+hamper growth and create additional regulatory burden in an 
+already difficult environment.
+    As we have already talked about in this hearing multiple 
+times, the inflationary environment created by this 
+administration has led to the rise of interest rates, which has 
+limited the access to capital for small businesses. This rule 
+is confusing to interpret, and it will be confusing to 
+implement, which will lead to higher compliance costs from what 
+we have understood today and will once again be passed along to 
+small business owners further increasing the cost of capital. 
+We have heard a couple of strange statements today.
+    Mr. Peters, I am going to ask you, do you have any clients 
+who you have given loans to that are women?
+    Mr. PETERS. Absolutely. Quite a few.
+    Ms. VAN DUYNE. Do you have any minority clients?
+    Mr. PETERS. I do.
+    Ms. VAN DUYNE. Mr. White, do you have female and minority 
+clients that you have actually given loans to as well?
+    Mr. PETERS. Yes. Absolutely.
+    Ms. VAN DUYNE. I am going to ask you, Mr. Wilson?
+    Mr. WILSON. Absolutely. In fact, we were the ninth largest 
+provider of small dollar PPP loans in the credit union space in 
+the country.
+    Ms. VAN DUYNE. That included women and minorities?
+    Mr. WILSON. Absolutely.
+    Ms. VAN DUYNE. And then I am going to ask you as well, you 
+have women and minority clients as well?
+    Ms. URRUTIA. Absolutely.
+    Ms. VAN DUYNE. Mr. Peters, does every small business who 
+applies for a loan qualify?
+    Mr. PETERS. No.
+    Ms. VAN DUYNE. Why?
+    Mr. PETERS. We are relationship lenders so we are not just 
+looking at a scorecard or a matrix. You know, the foundation of 
+relationship lending is the five Cs of credit. We are looking 
+at character. We are looking at capacity, collateral, capital, 
+and conditions. You need to find the story behind the applicant 
+and you cannot do that with a check box.
+    Ms. VAN DUYNE. Okay. I am going to ask you, Mr. White, the 
+same question.
+    Mr. WHITE. I agree with Mr. Peters. One thing I will add is 
+that I mentioned the relationship banking and counseling our 
+business customers and giving them real-world business advice 
+is part of what a community bank does. When we have small 
+business owners that do not qualify for one reason or another 
+we work with them to show them what they need to do to qualify 
+in the future, whether that is improve their cash flow, improve 
+their collateral or whatever it may be, we work with our 
+customers to get them to a point where they can qualify.
+    Ms. VAN DUYNE. Mr. Wilson, does every single small 
+business, even if they need the capital that comes to your 
+bank, are they able to qualify?
+    Mr. WILSON. Well, in addition to following a similar 
+process to Mr. Peters and Mr. White, we also take it a step 
+further and assign every small business their own personal 
+concierge. So even if they cannot qualify, we would provide 
+them with a continuum of services, and even individuals who may 
+be able to help them down the road.
+    Ms. VAN DUYNE. Are you required to do that by law?
+    Mr. WILSON. Absolutely not.
+    Ms. VAN DUYNE. So why do you do it?
+    Mr. WILSON. Because it is the right thing to do in our 
+communities that we serve.
+    Ms. VAN DUYNE. Thank you.
+    Mr. Peters, you had mentioned that per cost of loans if 
+this regulation were to go through, it would possibly increase 
+between $500 and $800 per loan. Can you define what you think 
+would be adding to that increase?
+    Mr. PETERS. Well, there is a number of systems costs. One, 
+banks are relying on their core vendor. So there would have to 
+be that integration to the core. There would have to be 
+additional software to capture and report the data. There would 
+be somebody that runs that system. There would be audit of that 
+system. There would be compliance. There would be training the 
+lenders on how to tactfully try to gather that information 
+accurately. So it is going to affect at least 15 people and a 
+number of systems. And as my IT group continually reminds me, 
+systems do not run on their own.
+    Ms. VAN DUYNE. So is your company, is your bank going to 
+just go ahead and take those costs or will those be reflected 
+in the costs that you charge your small businesses?
+    Mr. PETERS. I think it would have to be reflected into the 
+rate and fees that are charged to the small businesses.
+    Ms. VAN DUYNE. And Mr. White, I am going to ask you the 
+same question. Do you see that happening?
+    Mr. WHITE. Yes, I do. When the examiners come in and 
+examine us, one of the things they look at are our earnings. 
+And so banks have to be profitable to get good ratings. If we 
+do not make money at some point we will go out of existence. 
+And so at some point as the regulations get added onto and 
+added onto, those costs do have to be passed on to the 
+customers.
+    Ms. VAN DUYNE. Thank you.
+    And Mr. Wilson, do you think that this additional 
+regulation will make loans cheaper for your small businesses or 
+do you think it is going to make it more expensive?
+    Mr. WILSON. It would certainly be an adverse impact. We 
+have 60 branches in the communities that we serve so think of 
+that as 60 individuals that then have to be completely 
+retrained. All of those systems that go into place, much like 
+Mr. Peters was saying, the domino effect of all of these things 
+is extensive. Just by comparison, we have been working on CECL 
+for nearly 5 years so it is no small undertaking. It is not 
+like simply flipping a switch and wallah, there is the data.
+    Ms. VAN DUYNE. Thank you. I really appreciate all of your 
+input today and I think it is pretty clear that this additional 
+regulation is bad for small businesses, will increase the 
+costs, and it takes the personal touch that you offer all of 
+your small businesses. So thank you for your testimony here 
+today and I yield back.
+    Mr. LALOTA. Thank you.
+    The Chair now recognizes the gentleman from Missouri, Mr. 
+Alford, for 5 minutes.
+    Mr. ALFORD. Thank you, Mr. Chairman and Ranking Member for 
+holding this important hearing. And thank you to our witnesses 
+for being here today.
+    Small businesses are supported by community banks and 
+credit unions for their day-to-day business needs. And we have 
+seen a lot on the news lately about our financial system. But 
+what we really do not see in the news cycle and the headlines 
+is how strong our community banks are and our credit unions and 
+how they are still a fortress for our communities.
+    Since the onset of the bank collapses earlier this month, 
+my team and I have been in touch with a lot of community 
+bankers and credit unions around the district and around the 
+state. Since day one, it has been crystal clear to me that our 
+financial institutions and Missouri stand ready to serve 
+customers' needs just as they have been doing for decades. What 
+they truly do is relationship banking. And I want to give you a 
+personal example.
+    Just today, I have several accounts, one at a very large 
+national bank that you would recognize the name, and several 
+community banks. And I have a mortgage with a community bank 
+and I did not have enough money in my checking account to cover 
+the mortgage payment due today. My banker, who I had a 
+relationship with before I even thought about running for 
+office texted me this morning and said, hey, Mark, we need to 
+move some money over from one of your accounts to cover your 
+mortgage. Large banks will not do that, folks. Large banks will 
+not do this. It is this Committee's job to allow small 
+businesses to thrive. To do that we have to make sure that 
+community banks and credit unions that serve small businesses 
+and individuals are not overburdened by needless regulation 
+from the unconstitutional Consumer Protection Bureau simply to 
+appease the Biden's far left agenda.
+    So I want to get in with my question with you, Mr. Peters, 
+Mr. White, and Mr. Wilson. Community banks and credit unions do 
+not have large legal and compliance departments.
+    Mr. Peters, will the 1071 rule put you at a competitive 
+disadvantage compared to institutions that have larger 
+departments to handle such needs?
+    Mr. PETERS. Certainly, it would be a heavier lift for us. 
+We do not have the robust systems or the program capabilities 
+internally to build this, report this data as a much larger 
+organization would have.
+    Mr. ALFORD. Mr. White?
+    Mr. WHITE. We do not have thousands of employees like the 
+mega banks. We do not have dozens or hundreds of people in our 
+compliance department. Up until just 8 or 10 years ago it was 
+actually the Dodd-Frank Act that required my bank to hire a 
+chief compliance officer. Prior to that, my dad and my brother, 
+who are also with the bank, they were primarily responsible for 
+compliance. So we do not have the people or the means to spread 
+this over.
+    Mr. ALFORD. Mr. Wilson, I feel you would probably say 
+pretty much the same thing. You are going to have to pick up 
+the slack from somewhere else. How is that going to affect your 
+customers in general?
+    Mr. WILSON. Sure. Similar to what I said previously, we 
+would have to make this up in infrastructure, staffing costs, 
+retraining. These things have to be passed along somewhere. 
+That is bad for the consumer. And if it makes it too burdensome 
+for small institutions that means less competition which 
+ironically is bad for the consumer. So think about that for a 
+minute.
+    Mr. ALFORD. Mr. Wilson, my friend from Missouri, Mr. 
+Luetkemeyer touched on this a little bit earlier. I want to 
+delve a little bit deeper into it. The rule that calls for the 
+collection of all sorts of data including race, if race is not 
+evident, is it true that a teller has to assume or I guess, I 
+know Mr. Peters you said that they are going to be tactfully 
+gathering the information. It seems it could be rather 
+sensitive. How do you go about this, Mr. Wilson?
+    Mr. WILSON. I mean, the thought of putting our entry level 
+folks in this situation is extremely uncomfortable. We have 
+made so much progress socially, you know, and such a focus on 
+diversity, equity, inclusion, belonging, programming, but to do 
+something like this would quite frankly set us backwards and it 
+is not something that we would want to put our entry level 
+associates in that situation of having to guess whether it is 
+in person or over the phone, it is just not right. In addition 
+to that, it could seriously compromise the data if they are 
+wrong based on assumptions.
+    Mr. ALFORD. Thank you so much again for being here today. 
+This is very important and, you know, we do not need more 
+regulation. We need community banks to support our businesses 
+and our individuals to make us successful in America.
+    Thank you, and I yield back.
+    Mr. LALOTA. The gentleman yields.
+    The Chair now recognizes the Chairman of the Small Business 
+Committee, the gentleman from Texas, Mr. Williams for 5 
+minutes.
+    Mr. WILLIAMS. Thank you, Chairman. And I want to, in full 
+disclosure, before I get started, I am a car dealer. That is 
+what I do. When I am not here I own car dealerships in Texas so 
+it makes me kind of a halfway banker. And I have seen a lot of 
+this through a lot of years and we seem to be going back to 
+where ewe were back in the 1960s, and it is not good. And I 
+want to thank all of you again, our witnesses for being here 
+today. And before I ask them more specific questions about this 
+rule I want to take advantage of having some experts in our 
+community banking system in this room.
+    So Mr. Peters, you being an expert, okay, I want to get 
+your opinion on how small businesses have been adjusting to 
+this high interest rate environment we now are in, something 
+that did not have to happen, and the general health of small 
+businesses looking to access capital.
+    Mr. PETERS. Well, certainly, the cost of capital, the cost 
+of loans on a variable rate basis is increasing which puts 
+strain on cash flow and reduces the ability to expand and to 
+hire. And I think the sentiment in many areas where I bank and 
+in the market is that this could lead to recession and that we 
+had better prepare for that and reduce our spending.
+    Mr. WILLIAMS. Well, and small businesses, you know, 
+interest, again, I am a car dealer, interest in my business 
+tears everything apart from margins to so forth. And when you 
+have a situation like this you are going to have businesses lay 
+off people, are you not? They are going to try to cut costs and 
+people are the highest expense in most businesses. And then the 
+idea that they can raise prices to cover that cost is 
+ridiculous because we have got inflation now so we are going to 
+raise prices. So, this high interest rates we are in is causing 
+just a lot of problems. I tis going to be hard for small 
+businesses to recover. We know that. That is why I am a big tax 
+cutter.
+    I think everyone in this room shares the objective of 
+making it easier for viable small businesses to get a loan and 
+start working towards the American dream. I believe if we want 
+to make this a reality, imposing a significant new regulatory 
+cost is not the way to do it. We talked about that. Most of the 
+time these people we are hiring, they add no value to our 
+business as far as what they sell. They are an expense. And 
+these new costs will have to be passed along to consumers. 
+There is a point that you cannot do that any longer; right? You 
+just cannot keep passing costs on. And small business loans 
+will get more expensive. All of you have said that. They are 
+already now. So instead we should be examining the regulatory 
+hurdles that are disproportionately harming community banks and 
+credit unions. And not by imposing an expensive new government 
+mandate is going to fix it because once you get the mandate it 
+is hard to back it off.
+    So Mr. White, can you give this Committee some suggestions 
+of things we should be examining to make it easier for your 
+institutions to get money into your community? So what should 
+we be doing to help you and in the end we help you, you help 
+your borrower?
+    Mr. WHITE. In general, I would say let us do what we do 
+best, which is help our customers. Do not dictate how we have 
+to do business to help our small businesses. In particular, on 
+1071, I would say we talked some about the exemption for banks 
+under $1 billion in assets. We would also encourage the revenue 
+threshold to be reduced from $5 million to $1 million. That is 
+still going to cover the vast majority of small businesses in 
+the country. We would also support a mission-based exemption 
+for NDIs and CDFIs as well. But fundamentally, community banks, 
+we know how to help our customers. We have done it for 
+generations. We are stable and successful at doing that. And we 
+just need to be allowed to do it.
+    Mr. WILLIAMS. Yeah. If the government would get out of your 
+life it would be pretty good, would it not? And maybe we could 
+insert the customer to tell you if you are doing a good job or 
+not and let you compete.
+    Mr. WHITE. As I said earlier in my testimony, we often, to 
+small business customers and our ag customers, give them an 
+option, whether it is an ag line of credit, do you want a fixed 
+rate for a year, do you want a variable rate based off of 
+prime? We walk them through the differences and we let them 
+pick and they appreciate that.
+    Mr. WILLIAMS. I have some time left. Mr. Wilson, do you 
+want to add to that? What can we do to help you?
+    Mr. WILSON. Well, our whole philosophy is built around 
+people helping people. We started 73 years ago when nine people 
+put money into a pot to lend each other money for appliances 
+during the war. So we are very good at what we do. We want to 
+continue to serve our Members. We want to continue to make our 
+associates happy because then they serve our Members well and 
+that in turn makes our communities a thriving place. I think it 
+is critical to mention that it is not 1071 or nothing. There 
+are already incredibly extensive rules, data collection, things 
+that are being provided on a quarterly and annual basis. So at 
+a minimum what NAFCU is asking for is consistency. You have 
+three different definitions. You have what the NCUA has. You 
+have what the SBA has. You have what the CFPB has. That makes 
+it incredibly burdensome for institutions.
+    Mr. WILLIAMS. My time is up, Mr. Chairman. I yield back.
+    Mr. LALOTA. I would like to thank all of the witnesses for 
+participating today, to the Members for their thoughtful 
+questions.
+    And without objection, Members have 5 legislative days to 
+submit additional materials and written questions for the 
+witnesses to the Chair which will be forwarded to the 
+witnesses.
+    If there is no further business, without objection, the 
+Committee is adjourned.
+    [Whereupon, at 11:26 a.m., the subcommittee was adjourned.]
+                            A P P E N D I X
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+                                 [all]
+

@@ -1,0 +1,2431 @@
+
+ - A REVIEW OF TITLE VII: USDA IMPLEMENTATION OF RESEARCH PROGRAMS
+
+[House Hearing, 118 Congress]
+[From the U.S. Government Publishing Office]
+
+
+
+
+
+
+
+    A REVIEW OF TITLE VII: USDA IMPLEMENTATION OF RESEARCH PROGRAMS
+
+=======================================================================
+
+                                HEARING
+
+                               BEFORE THE
+
+       SUBCOMMITTEE ON CONSERVATION, RESEARCH, AND BIOTECHNOLOGY
+
+                                 OF THE
+
+                        COMMITTEE ON AGRICULTURE
+                        HOUSE OF REPRESENTATIVES
+
+                    ONE HUNDRED EIGHTEENTH CONGRESS
+
+                             FIRST SESSION
+
+                               __________
+
+                             MARCH 23, 2023
+
+                               __________
+
+                            Serial No. 118-4
+
+
+          Printed for the use of the Committee on Agriculture
+                         agriculture.house.gov
+
+
+
+                             _________
+                              
+                 U.S. GOVERNMENT PUBLISHING OFFICE
+                 
+52-371 PDF               WASHINGTON : 2023 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        COMMITTEE ON AGRICULTURE
+
+                 GLENN THOMPSON, Pennsylvania, Chairman
+
+FRANK D. LUCAS, Oklahoma             DAVID SCOTT, Georgia, Ranking 
+AUSTIN SCOTT, Georgia, Vice          Minority Member
+Chairman                             JIM COSTA, California
+ERIC A. ``RICK'' CRAWFORD, Arkansas  JAMES P. McGOVERN, Massachusetts
+SCOTT DesJARLAIS, Tennessee          ALMA S. ADAMS, North Carolina
+DOUG LaMALFA, California             ABIGAIL DAVIS SPANBERGER, Virginia
+DAVID ROUZER, North Carolina         JAHANA HAYES, Connecticut
+TRENT KELLY, Mississippi             SHONTEL M. BROWN, Ohio
+DON BACON, Nebraska                  SHARICE DAVIDS, Kansas
+MIKE BOST, Illinois                  ELISSA SLOTKIN, Michigan
+DUSTY JOHNSON, South Dakota          YADIRA CARAVEO, Colorado
+JAMES R. BAIRD, Indiana              ANDREA SALINAS, Oregon
+TRACEY MANN, Kansas                  MARIE GLUESENKAMP PEREZ, 
+RANDY FEENSTRA, Iowa                 Washington
+MARY E. MILLER, Illinois             DONALD G. DAVIS, North Carolina, 
+BARRY MOORE, Alabama                 Vice Ranking Minority Member
+KAT CAMMACK, Florida                 JILL N. TOKUDA, Hawaii
+BRAD FINSTAD, Minnesota              NIKKI BUDZINSKI, Illinois
+JOHN W. ROSE, Tennessee              ERIC SORENSEN, Illinois
+RONNY JACKSON, Texas                 GABE VASQUEZ, New Mexico
+MARCUS J. MOLINARO, New York         JASMINE CROCKETT, Texas
+MONICA De La CRUZ, Texas             JONATHAN L. JACKSON, Illinois
+NICHOLAS A. LANGWORTHY, New York     GREG CASAR, Texas
+JOHN S. DUARTE, California           CHELLIE PINGREE, Maine
+ZACHARY NUNN, Iowa                   SALUD O. CARBAJAL, California
+MARK ALFORD, Missouri                ANGIE CRAIG, Minnesota
+DERRICK VAN ORDEN, Wisconsin         DARREN SOTO, Florida
+LORI CHAVEZ-DeREMER, Oregon          SANFORD D. BISHOP, Jr., Georgia
+MAX L. MILLER, Ohio
+
+                                 ______
+
+                     Parish Braden, Staff Director
+
+                 Anne Simmons, Minority Staff Director
+
+                                 ______
+
+       Subcommittee on Conservation, Research, and Biotechnology
+
+                   JAMES R. BAIRD, Indiana, Chairman
+
+FRANK D. LUCAS, Oklahoma             ABIGAIL DAVIS SPANBERGER, 
+MIKE BOST, Illinois                  Virginia, Ranking Minority Member
+MARY E. MILLER, Illinois             SHARICE DAVIDS, Kansas
+KAT CAMMACK, Florida                 ELISSA SLOTKIN, Michigan
+BRAD FINSTAD, Minnesota              NIKKI BUDZINSKI, Illinois
+JOHN S. DUARTE, California           ERIC SORENSEN, Illinois
+MARK ALFORD, Missouri                JILL N. TOKUDA, Hawaii
+                                     GABE VASQUEZ, New Mexico
+
+                                  (ii)  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                             C O N T E N T S
+
+                              ----------                              
+                                                                   Page
+Baird, Hon. James R., a Representative in Congress from Indiana, 
+  opening statement..............................................     1
+    Prepared statement...........................................     3
+Miller, Hon. Max L., a Representative in Congress from Ohio, 
+  prepared statement.............................................     6
+Spanberger, Hon. Abigail Davis, a Representative in Congress from 
+  Virginia, opening statement....................................     3
+Thompson, Hon. Glenn, a Representative in Congress from 
+  Pennsylvania, opening statement................................     5
+    Prepared statement...........................................     5
+
+                                Witness
+
+Jacobs-Young, Ph.D., Hon. Chavonda, Under Secretary for Research, 
+  Education, and Economics and Chief Scientist, U.S. Department 
+  of Agriculture, Washington, D.C................................     7
+    Prepared statement...........................................     9
+    Supplementary material.......................................    33
+    Submitted questions..........................................    33
+
+ 
+    A REVIEW OF TITLE VII: USDA IMPLEMENTATION OF RESEARCH PROGRAMS
+
+                              ----------                              
+
+
+                        THURSDAY, MARCH 23, 2023
+
+                  House of Representatives,
+ Subcommittee on Conservation, Research, and Biotechnology,
+                                  Committee on Agriculture,
+                                                   Washington, D.C.
+    The Subcommittee met, pursuant to call, at 10:01 a.m., in 
+Room 1300 of the Longworth House Office Building, Hon. James R. 
+Baird [Chairman of the Subcommittee] presiding.
+    Members present: Baird, Miller of Illinois, Finstad, 
+Duarte, Alford, Thompson (ex officio), Miller of Ohio, 
+Spanberger, Davids of Kansas, Slotkin, Budzinski, Sorensen, and 
+Vasquez.
+    Staff present: Caleb Crosswhite, Ricki Schroeder, Erin 
+Wilson, John Konya, Paul Babbitt, Emily Pliscott, and Dana 
+Sandman.
+
+ OPENING STATEMENT OF HON. JAMES R. BAIRD, A REPRESENTATIVE IN 
+                     CONGRESS FROM INDIANA
+
+    The Chairman. Good morning. If everyone would find a place 
+to sit and take your seats, we are going to get started. So 
+with that, I will say this, the Committee will come to order.
+    Welcome, and thank you for joining today's hearing, and it 
+is entitled, A Review of Title VII: USDA Implementation of 
+Research Programs. After brief opening remarks, Members will 
+receive testimony from our witness today, and then the hearing 
+will be open to questions.
+    In consultation with the Ranking Member and pursuant to 
+Rule XI(e), I want to make the Members of the Subcommittee 
+aware that other Members of the full Committee may join us 
+today.
+    I would like to take this moment to make an opening 
+statement if you will.
+    Good morning, and welcome to the first hearing of the 
+Subcommittee on Conservation, Research, and Biotechnology for 
+the 118th Congress. I also want to welcome Ranking Member 
+Spanberger, and she will be here in a moment, I think. She is 
+at another meeting. And I look forward to working with her as 
+we reauthorize the farm bill.
+    As a United States Representative for Indiana's 4th 
+Congressional District, I know how important agriculture is to 
+our nation's identity and for our economy. As some of you might 
+know, Indiana is home to a varied and immensely productive 
+agricultural industry, and it is the eighth-largest 
+agricultural exporter in the nation, with over 80 percent of 
+our land being used for agricultural production. Indiana is 
+also home to many great colleges and universities, and one in 
+particular being Purdue University, where agricultural research 
+is a high-ranking priority. I also know we have some folks from 
+the University of Illinois here today, so welcome.
+    So, despite historically strong bipartisan support for the 
+topic, today's hearing is the first time since 2019 that the 
+Committee has spent some time on research and the 
+implementation of Title VII of the 2018 Farm Bill. Since 2019, 
+we have witnessed the resiliency of the American producer. They 
+have seen record inflation, a global pandemic, geopolitical 
+turmoil, and how burdensome over-regulation has tested our 
+farmers and ranchers in ways that are unimaginable. Yet, our 
+producers responded to ensure our nation and many other nations 
+around the world had access to the safest, most affordable 
+food, fiber, and energy supply.
+    And much of that resiliency is based on the work of the 
+Department. Today, we will hear directly from the USDA on 
+implementation of key research programs, research program 
+efficacy, and opportunities within research to increase 
+productivity for future generations of farmers and ranchers. 
+While some programs like Agriculture and Food Research 
+Initiative and the Specialty Crop Research Initiative have 
+proven to be effective, other programs like the Agriculture 
+Advanced Research and Development Authority pilot program have 
+not been implemented. This specific program, known as AGARDA, 
+was created in the 2018 Farm Bill to conduct advanced research 
+on long-term and high-risk challenges for agriculture.
+    However, USDA just published the Congressionally mandated 
+strategic plan just 2 days ago. That is over 3 years after the 
+original deadline.
+    When the Committee marked up the bipartisan budget views 
+and estimates letter a few weeks ago, Chairman Thompson asked 
+us to look at the return on investment in each title of the 
+farm bill. According to the USDA Economic Research Service, 
+public spending on agricultural research has yielded the 
+economy $20 for every $1 that we spend.
+    Despite the benefits of investing in agriculture research, 
+public spending has steadily declined since its peak in 2002. 
+When accounting for inflation, the United States now spends 
+roughly the same amount on agricultural research that was spent 
+in the 1970s. While this is in and of itself concerning, it is 
+further compounded by the fact that our competitors including 
+China, India and Brazil have rapidly increased spending. In 
+fact, China is now the world's top investor in agricultural 
+research. As we seek to remain competitive with China, we 
+cannot forget about the importance of agricultural research in 
+ensuring the United States has the safest, most abundant, most 
+affordable food and fiber supply in the world.
+    I would like to thank the USDA Under Secretary Chavonda 
+Jacobs-Young for taking time to be here with us today. Dr. 
+Jacobs-Young has an incredible background, and I am looking 
+forward to her testimony.
+    [The prepared statement of Mr. Baird follows:]
+
+Prepared Statement of Hon. James R. Baird, a Representative in Congress 
+                              from Indiana
+    Good morning and welcome to the first hearing of the Subcommittee 
+on Conservation, Research, and Biotechnology in the 118th Congress. I 
+also want to welcome Ranking Member Spanberger, and I look forward to 
+working with her as we reauthorize the farm bill.
+    As the United States Representative for Indiana's 4th Congressional 
+District, I know how important agriculture is to our nation's identity 
+and for our economy.
+    As some of you might know, Indiana is home to a varied and 
+immensely productive agricultural industry and is the eighth largest 
+agricultural exporter in the nation, with over 80% of its land being 
+used for ``agricultural production.''
+    Indiana is also home to many great colleges and universities, one 
+in particular being Purdue University where agricultural research is a 
+high-ranking priority.
+    Despite historically strong bipartisan support for the topic, 
+today's hearing is the first time since 2019 that the Committee has 
+spent some time on research, and the implementation of Title VII of the 
+2018 Farm Bill.
+    Since 2019, we have witnessed the resiliency of the American 
+producer; record inflation, a global pandemic, geopolitical turmoil, 
+and how burdensome over-regulation has tested our farmers and ranchers 
+in ways unimaginable. Yet, our producers responded to ensure our 
+nation, and many others around the world, retained access to the safest 
+and most affordable, food, fiber, and energy supply.
+    And much of that resiliency is based on the work of the Department. 
+Today, we will hear directly from USDA on implementation of key 
+research programs, research program efficacy, and opportunities within 
+research to increase productivity for future generations of farmers and 
+ranchers.
+    While some programs--like the Agriculture and Food Research 
+Initiative and the Specialty Crop Research Initiative--have proven to 
+be effective, other programs--like the Agriculture Advanced Research 
+and Development Authority Pilot--have not even been implemented. This 
+specific program, known as AGARDA, was created in the 2018 Farm Bill to 
+conduct advanced research on long-term and high-risk challenges for 
+agriculture; however, USDA just published the Congressionally mandated 
+strategic plan 2 days ago--over 3 years after the original deadline.
+    When the Committee marked up the bipartisan Budget Views and 
+Estimates letter a few weeks ago, Chairman Thompson asked us to look at 
+the return on investment in each title of the farm bill. According to 
+the USDA Economic Research Service, public spending on agricultural 
+research has yielded our economy $20 for every $1 spent.
+    Despite the benefits of investing in agriculture research, public 
+spending has steadily declined since its peak in 2002. When accounting 
+for inflation, the United States now spends roughly the same amount on 
+agricultural research that was spent in the 1970s. While this in and of 
+itself is concerning, it is further compounded by the fact that our 
+competitors--China, India, and Brazil--have rapidly increased spending. 
+In fact, China is now the world's top investor in agricultural 
+research. As we seek to remain competitive with China, we cannot forget 
+about the importance of agricultural research in ensuring the United 
+States has the safest, most abundant, and most affordable food and 
+fiber supply in the world.
+    I would like to thank USDA Under Secretary Chavonda Jacobs-Young 
+for taking time to be here with us today. Dr. Jacobs-Young has an 
+incredible background, and I am looking forward to her testimony.
+    With that, I would like to recognize Ranking Member Spanberger for 
+any opening statement she would like to make.
+
+    The Chairman. With that, I now would like to welcome the 
+distinguished Ranking Member and gentlewoman from Virginia, Ms. 
+Spanberger, for any opening remarks she would like to give.
+
+     OPENING STATEMENT OF HON. ABIGAIL DAVIS SPANBERGER, A 
+            REPRESENTATIVE IN CONGRESS FROM VIRGINIA
+
+    Ms. Spanberger. Thank you, Chairman Baird. I am so excited 
+to be here with you for our first hearing as a Subcommittee of 
+the 118th Congress. I appreciated your opening remarks, 
+particularly the focus on the research investments that we are 
+not making and their impact on American producers and 
+agriculture across the country.
+    I look forward to working with you on issues that are 
+important to growers and producers across the United States, 
+especially as they relate to strengthening voluntary 
+conservation programs at USDA, investing in our conservation 
+and research workforce, and of course, ensuring that the United 
+States remains at the forefront of agricultural research and 
+technologies. Knowing that as we work towards passing the 2023 
+Farm Bill, I am committed to working with you as a partner on 
+issues within our Subcommittee's jurisdiction. I am so proud of 
+what this Subcommittee accomplished last year, including 
+finally getting our Growing Climate Solutions Act (Pub. L. 117-
+328) signed into law. And, Chairman Baird, I am thankful for 
+your support of that legislation last Congress. And today, I am 
+excited to work more closely with you this Congress when it 
+comes to bringing farmers to the table on all these issues.
+    Today, we are here to review how agricultural research 
+programs support our country's producers and our country's 
+economy overall. Over the past 30 years, we have seen the 
+benefits of agricultural research. A report from the Economic 
+Research Service showed that every $1 of public research and 
+development funding had a $20 return on investment in the 
+American economy between 1990 and 2011. Despite this nearly 
+unheard of return on investment, public agricultural research 
+funding peaked way back in 2002.
+    Over the past 20 years, the funding has declined by a 
+staggering 33 percent, and, as a result, we have less capacity 
+for research even as the need for innovation is more urgent 
+than ever before, both in Virginia and across the country. 
+Global temperatures rise, increasingly severe natural disasters 
+and the impacts of climate change on America's crop and 
+livestock producers should make it clear. We need to invest in 
+research, and we need to support American researchers who are 
+spurring innovation.
+    This critical work is happening at land-grant universities 
+and USDA research facilities across America. My home State of 
+Virginia has two tremendous land-grant universities, Virginia 
+Tech and Virginia State University. These universities 
+collaborate with USDA to complete cutting-edge research. And, 
+for example, brilliant staff and students at VSU's Agricultural 
+Research Center have focused on new ways soil science can 
+contribute to the fight against climate change.
+    And recently, I had the chance to visit with professors and 
+students at Virginia Tech, and their researchers are focused on 
+agricultural innovation and ways to address climate change 
+through energy and greenhouse gas emissions, sustainable 
+transportation, climate justice, and forestry work. This is 
+incredible and necessary research of the future.
+    I am pleased to work with Under Secretary Jacobs-Young, and 
+I am pleased to see the work that she has undertaken. Despite 
+the need for more funding than Congress has provided for these 
+research initiatives, they have been extraordinary. Throughout 
+this hearing, I am eager to hear from her about how Title VII 
+has been implemented since 2018 and areas where Congress can 
+improve upon the title. I am particularly interested in your 
+thoughts on ways that research can further conservation 
+efforts, ways that we can shape a better future amid 
+devastating impacts of climate change on America's rural 
+communities, and how we can best prepare ourselves for the 
+challenges that our producers face, be they weather events or 
+issues like the avian flu.
+    With that, I yield back, Mr. Chairman. Thank you again for 
+holding this hearing.
+    The Chairman. Thank you for those comments.
+    With that, I would like to recognize Chairman Thompson, 
+Chairman of the Agriculture Committee, for any opening comments 
+he would like to make.
+
+ OPENING STATEMENT OF HON. GLENN THOMPSON, A REPRESENTATIVE IN 
+                   CONGRESS FROM PENNSYLVANIA
+
+    Mr. Thompson. Well, thank you very much. Good morning, and 
+thank you to Chairman Baird and Ranking Member Spanberger for 
+hosting this hearing to discuss the research title of the farm 
+bill.
+    Over the last couple years, I have traveled to nearly 40 
+states to hear directly from farmers, ranchers, and foresters, 
+and through these travels, I have come to realize that American 
+agriculture can be defined in three words: science, technology, 
+and innovation. Through advances in science, technology, and 
+innovation, American producers have increased outputs nearly 
+threefold since the 1940s with little to no change in inputs.
+    And we know these advances would not have been made, or 
+possible, without the great research, extension, and education 
+being done by our land-grant universities. Many of the programs 
+that these land-grant universities and even our non-land-grant 
+colleges of agriculture rely on to conduct cutting-edge 
+research are authorized in the research title.
+    As we look to write the 2023 Farm Bill, it is important to 
+hear from USDA about the implementation of new and existing 
+research programs to learn what is working, what isn't, and 
+what needs to be fixed.
+    Under Secretary Jacobs-Young, thank you for taking the time 
+to be here today, and I am excited to welcome you back to the 
+Committee to talk about the importance of agricultural 
+research, and I look forward to a productive discussion.
+    And with that, Mr. Chairman, I yield back.
+    [The prepared statement of Mr. Thompson follows:]
+
+Prepared Statement of Hon. Glenn Thompson, a Representative in Congress 
+                           from Pennsylvania
+    Good morning and thank you to Chairman Baird and Ranking Member 
+Spanberger for hosting this hearing to discuss the research title of 
+the farm bill.
+    Over the last couple years, I have traveled to nearly 40 states to 
+hear directly from farmers, ranchers, and foresters. Through these 
+travels, I've come to realize that American agriculture can be defined 
+in three words: science, technology, and innovation.
+    Through advances in science, technology, and innovation, American 
+producers have increased outputs nearly three-fold since the 1940s, 
+with little to no change in inputs. And we know these advances would 
+not have been possible without the great research, extension, and 
+education being done by our land-grant universities.
+    Many of the programs that these land-grant universities--and even 
+our non-land-grant colleges of agriculture--rely on to conduct cutting 
+edge research are authorized in the research title.
+    As we look to write the 2023 Farm Bill, it is important to hear 
+from USDA about implementation of new and existing research programs to 
+learn what's working, what isn't, and what needs to be fixed.
+    Under Secretary Jacobs-Young, thank you for taking the time to be 
+here today. I am excited to welcome you back to the Committee to talk 
+about the importance of agricultural research and I look forward to a 
+productive discussion.
+    With that, I yield back.
+
+    The Chairman. Thank you, Mr. Chairman.
+    And I might just say that the chair would request that 
+other Members submit their opening statements for the record so 
+the witness may begin her testimony and ensure that there is 
+ample time for questions.
+    [The prepared statement of Mr. Miller of Ohio follows:]
+
+Prepared Statement of Hon. Max L. Miller, a Representative in Congress 
+                               from Ohio
+    Chairman Baird and Ranking Member Spanberger, thank you for holding 
+this hearing to review vital research initiatives undertaken to 
+strengthen and sustain American agriculture, critical to farm 
+production in my Congressional district, and throughout the country.
+    These research efforts are the key to providing the tools for 
+farmers and livestock producers to remain competitive in the global 
+marketplace, create efficiencies in farm production and to meet growing 
+food security demands, while bolstering the agriculture economies and 
+sustaining vital natural resources.
+    Last week, I had the opportunity to view first-hand agricultural 
+research initiatives undertaken by Ohio State University, College of 
+Food, Agricultural and Environmental Sciences Wooster Campus in my 
+Congressional district. I appreciate the U.S. Department of 
+Agriculture's (USDA) collaboration with this important land-grant 
+institution and other research facilities to enable state-of-the-art 
+research endeavors.
+    Such crucial partnerships include USDA's Agriculture Research 
+Service (ARS) Application Technology Research Unit at Ohio State, which 
+utilizes a multi-disciplinary ``digital'' approach in developing 
+methods to enhance crop protection while safeguarding environmental 
+quality and food safety. One important innovative ARS/Ohio State 
+project I was able to witness involves a new intelligent spray 
+technology designed to precisely apply agrochemicals to protect crops, 
+significantly saving production costs for growers, and offering a 
+sustainable and environmentally responsible approach for crop 
+protection.
+    Additional research undertaken in Plant Pathology Research 
+addresses disease resistance through molecular genomics, integrated 
+disease management as well as epidemiology and risk prediction serve to 
+safeguard crops in my state and across the nation.
+    Ohio State-Wooster Campus is also privileged to house one of the 
+nation's three Biosafety Level Three (BSL) Agricultural Laboratories 
+through the Plant and Animal Agrosecurity Research (PAAR) Facility, 
+conducting research regarding animal disease classified at a heightened 
+biosafety level, and working with plant diseases that could cause undue 
+economic hardship to agriculture if released into the environment.
+    Agricultural research programs also provide key information 
+directly to agricultural producers. These include scouting techniques 
+to identify diseases on crops, such as safeguarding soybean crops from 
+diseases such as Leaf Spot through interdiction and detection methods, 
+and integrated management practices, as well as sustaining grape 
+production from pests such as the Spotted Lanternfly, are a couple of 
+key programs making a difference for Ohio and U.S. farmers.
+    I would also like to reference the critical efforts of our 1890 
+Land-Grant Institutions, including Central State University reaching 
+into my district and throughout Ohio. Their vital agricultural research 
+and development programs efforts include developing and infusing 
+emerging technologies, development of robotic technologies, sustaining 
+plant and animal systems, enhancing nutrition, and safeguarding natural 
+resources.
+    Extension efforts are also [imperative] to empower local 
+agricultural and natural resources communities, providing outreach and 
+education on research to strengthen the economic viability of 
+agriculture production.
+    However, capacity resources including adequate laboratory, 
+technology and infrastructure issues remain challenging. Funding 
+through Smith Lever and Hatch Act is more important than ever before 
+for American agriculture to meet growing food security challenges, and 
+to remain competitive with our global competitors we must ensure that 
+our producers have the tools necessary through these critical research 
+endeavors.
+    I look forward to working with my colleagues [as] well as with the 
+U.S. Department of Agriculture and remain committed to innovative, 
+science and technology-based research to enable vibrant sustainable 
+food and agricultural systems, strong rural communities, stewardship of 
+natural resources, and keeping Ohio and our nation's agricultural 
+producers positioned in the global economy.
+
+    The Chairman. Our witness for today's hearing is Dr. 
+Chavonda Jacobs-Young, the Under Secretary for Research, 
+Education, and Economics at the Department of Agriculture. And, 
+I would like to indicate some of her accomplishments. I mean, 
+the Department is responsible for ARS, ERS, NASS, and NIFA, and 
+the Office of the Chief Scientist, of which she is the Chief 
+Scientist. And so her accomplishments are varied, and she has 
+had experience in all of these various departments, and so we 
+really are proud and pleased to have her here and recognize all 
+the accomplishments that she has had in her career.
+    So, Dr. Jacobs-Young, thank you for joining us today, and 
+we will now proceed to your testimony. You will have 5 minutes. 
+The timer in front of you will count down to 0, at which point 
+your time has expired. But as the Chairman, I have some 
+leniency in that regard. But anyway, you may begin when you are 
+ready, and we are very pleased to have you here today.
+
+STATEMENT OF HON. CHAVONDA JACOBS-YOUNG, Ph.D., UNDER SECRETARY 
+                 FOR RESEARCH, EDUCATION, AND 
+ECONOMICS AND CHIEF SCIENTIST, U.S. DEPARTMENT OF AGRICULTURE, 
+                        WASHINGTON, D.C.
+
+    Dr. Jacobs-Young. Thank you so much. Chairman Baird, 
+Ranking Member Spanberger, and Members of this Subcommittee, 
+thank you for the opportunity to come before you today to 
+discuss the state of USDA's Research, Education, and Economics, 
+or REE, mission area, which includes the Agricultural Research 
+Service, the Economic Research Service, the National 
+Agricultural Statistics Service, the National Institute of Food 
+and Agriculture, and the Office of the Chief Scientist.
+    The success of the REE mission area is rooted in 
+partnerships, partnerships with technical assistance providers 
+that give producers the tools they need to adapt as they feed 
+the world, with institutions to advance agricultural innovation 
+and cultivate the next generation of agricultural leaders, and 
+with Congress to ensure that decisionmakers have the tools they 
+need to support farmers and ranchers across the country.
+    Publicly funded agriculture research and development often 
+have a less-told story, but we live and reap the benefits of 
+these investments every single day. The impacts of USDA-funded 
+research, in particular, shape the way we eat, clothe 
+ourselves, and adapt to a changing climate. In Indiana, for 
+example, NASS collects corn and soybean data while ARS is 
+spending upwards of $40 million this year to fund research on 
+sustainable biomass production, feedstock conversion 
+technologies, and new ways of turning agricultural waste into 
+clean energy.
+    NIFA, through its Bioproduct Pilot Program, is helping to 
+accelerate the development of a more circular economy where 
+agricultural resources are harvested, consumed, and regenerated 
+sustainably. In states like Virginia, where the Delmarva region 
+produces most of the poultry consumed by Americans on the East 
+Coast, ARS is spending upwards of $7 million this year to 
+combat the threat of avian influenza. ARS is currently 
+researching veterinary medical countermeasures, such as 
+diagnostics and vaccines for the early detection, prevention, 
+and eradication of disease outbreaks. This research helps 
+producers make well-informed decisions for their operations.
+    American farmers, ranchers, and producers are incredibly 
+resilient. Production agriculture requires constant innovation 
+and adaptation as farmers and ranchers pursue climate-smart 
+solutions to extreme weather, rural businesses require new 
+markets to increase profitability, and underserved communities 
+seek trusted partners to tackle systemic issues. Access to new 
+information and technology undergirds each of these objectives, 
+and when appropriately resourced, REE has a proven track record 
+in providing timely research, data, training, extension 
+service, and economic analysis to support farmers, ranchers, 
+and producers across the supply chain.
+    The U.S. has a long history of making investments in 
+research that pay off for farmers and our economy. Between 1948 
+and 2019, total agricultural output in the United States grew 
+by 175 percent. This rise cannot be attributed to increases in 
+agriculture land or labor, both inputs declined over that 
+period, but stem instead from the adoption of a whole suite of 
+publicly funded innovations in crop and livestock breeding, 
+nutrient use, and pest, farm, and field management. These new 
+practices have yielded significant dividends.
+    ERS found that public agricultural research and development 
+investments from 1900 to 2011 generated on average $20 in 
+benefits to the U.S. economy for every $1 of spending. Yet, 
+Federal investments in agricultural research have declined by 
+\1/3\ in the past 2 decades, falling far behind our 
+international partners. Once the world's leader, the United 
+States now trails far behind other major nations in public 
+agricultural research investments. This decline in investments 
+means we are missing critical opportunities to capitalize on 
+the powerful potential of our world-class scientists to conduct 
+the type of high-risk, high-reward research necessary to meet 
+the overlapping and rapidly emerging challenges our farmers 
+face. We are missing a chance to help our farmers, especially 
+small- and mid-sized producers, be profitable; to help rural 
+communities remain vital; and to ensure that our global food 
+supply chains are resilient to future shocks.
+    That is why I am pleased that President Biden and Secretary 
+Vilsack are strongly committed to supporting Federal 
+agriculture research, development, and deployment, which would 
+define innovation for decades to come. With Congress's support, 
+we are making unprecedented investments to train the next 
+generation of agricultural professionals and accelerate our 
+research to support climate-smart agriculture and forestry to 
+advance nutrition security and precision nutrition, build a 
+stronger economy, and ensure equitable access to our research 
+programs and data. This work is especially critical at a time 
+when, despite record farm incomes, over the past 2 years, ERS 
+reports that \1/2\ of farm households had negative farm income, 
+and most U.S. farm families rely mainly on off-farm income to 
+stay afloat.
+    Boldly reinvesting in our nation's public agriculture R&D 
+portfolio will again enable us to create a new revenue stream 
+for producers regardless of size and geography, drive 
+innovation and technology transfer to spur a new generation of 
+agricultural businesses, and ensure that we have a capable, 
+diverse workforce prepared to overcome emerging threats to our 
+farm and food system. The power of information and research is 
+undeniable, and REE is well-positioned to support farmers, 
+ranchers, scientists, and academics alike in tackling some of 
+the most pressing issues facing this country.
+    And I will yield my comments at that point. Thank you.
+    [The prepared statement of Dr. Jacobs-Young follows:]
+
+    Prepared Statement of Hon. Chavonda Jacobs-Young, Ph.D., Under 
+ Secretary for Research, Education, and Economics and Chief Scientist, 
+            U.S. Department of Agriculture, Washington, D.C.
+    Chairman Baird, Ranking Member Spanberger, and Members of this 
+Subcommittee, thank you for the opportunity to come before you today to 
+discuss the state of the United States Department of Agriculture's 
+Research, Education, and Economics (REE) mission area, which includes 
+Agricultural Research Service (ARS), Economic Research Service (ERS), 
+National Agricultural Statistics Service (NASS), National Institute of 
+Food and Agriculture (NIFA), and Office of the Chief Scientist (OCS). 
+The success of the REE mission area is rooted in partnerships--
+partnerships with technical assistance providers, including the 
+Cooperative Extension System, that give producers the tools they need 
+to adapt as they feed the world, with institutions to advance 
+agricultural innovation and cultivate the next generation of 
+agricultural leaders, and with Congress to ensure that decision-makers 
+have the tools they need to support farmers and ranchers across the 
+country.
+    Publicly funded agricultural research and development often have a 
+less-told story, but we live and reap the benefits of these investments 
+every single day. The impacts of USDA-funded research in particular 
+shape the way we eat, clothe ourselves, and adapt to a changing 
+climate. In Indiana, for example, NASS collects corn and soybean data, 
+while ARS is spending upwards of $40 million this year to fund research 
+on sustainable biomass production, feedstock conversion technologies, 
+and new ways of turning agricultural wastes into clean energy. NIFA, 
+through its new Bioproduct Pilot Program, is helping to accelerate the 
+development of a more circular economy where agricultural resources are 
+harvested, consumed, and regenerated sustainably.
+    In states like Virginia, where the Delmarva region produces most of 
+the poultry consumed by Americans on the East Coast, ARS is spending 
+upwards of $7 million this year to combat the threat of Avian 
+Influenza. ARS is currently researching veterinary medical 
+countermeasures such as diagnostics and vaccines for the early 
+detection, prevention, and eradication of disease outbreaks. This 
+research helps producers make well-informed decisions for their 
+operations.
+    Production agriculture requires constant innovation and adaptation 
+as farmers and ranchers pursue climate-smart solutions to extreme 
+weather, rural businesses seek new markets, and underserved communities 
+seek trusted partners to tackle systemic concerns. Access to 
+information and new technologies underpins each of these objectives, 
+and when appropriately resourced, REE is well-positioned to be a 
+partner in providing timely research, data, training, Extension 
+services, and economic analysis to support informed decision-making.
+    American farmers, ranchers, and producers are incredibly resilient. 
+Production agriculture requires constant innovation and adaptation as 
+farmers and ranchers pursue climate-smart solutions to extreme weather, 
+rural businesses require new markets to increase profitability, and 
+underserved communities seek trusted partners to tackle systemic 
+issues. Access to new information and technologies undergirds each of 
+these objectives, and when appropriately resourced, REE has a proven 
+track record in providing timely research, data, training, Extension 
+services, and economic analysis to support farmers, ranchers, and 
+producers across the supply chain.
+    For example, ARS and the U.S. Forest Service through USDA's ten 
+domestic Climate Hubs deliver science-based, region-specific 
+information and technologies to agricultural and natural resource 
+managers. These Hubs link USDA research and program agencies to deliver 
+the timely and tailored support agricultural producers and 
+professionals need to make climate-informed decisions on the ground. 
+This model of providing science-based climate tools and strategies 
+through coordinated technical assistance has proven especially 
+effective at reaching underserved and vulnerable communities and 
+Tribes.
+    The U.S. has a long track record of making investments in research 
+that pays off for farmers and our economy. Between 1948 and 2019, total 
+agricultural output in the United States grew by 175 percent.\1\ This 
+rise cannot be attributed to increases in agricultural land or labor--
+both inputs declined over the period--but stem instead from the 
+adoption of a whole suite of publicly-funded innovations in crop and 
+livestock breeding, nutrient use, and pest, farm and field management. 
+These new practices have yielded significant dividends; ERS found that 
+public agricultural research and development investments from 1900 to 
+2011 generated, on average, $20 in benefits to the U.S. economy for 
+every $1 of spending.
+---------------------------------------------------------------------------
+    \1\ Editor's note: footnote reference not included in submitted 
+statement.
+---------------------------------------------------------------------------
+    Yet, Federal investments in agricultural research have declined by 
+\1/3\ in the past 2 decades, falling far behind our international 
+partners. Once the world's leader, the United States now trails far 
+behind other major nations in public agricultural research investments. 
+This declining investment means that we are missing critical 
+opportunities to capitalize on the powerful potential of our world-
+class scientists to conduct the type of high-risk, high-reward research 
+necessary to meet the overlapping and rapidly emerging challenges our 
+farmers face. We are missing our chance to help farmers--especially 
+small- and mid-sized producers--be profitable, to help rural 
+communities remain vital, and to ensure that our global food supply 
+chains are resilient to future shocks.
+    Alarmingly, another impact of these declining investments is that 
+there are not enough college graduates available to meet private- and 
+public-sector employer needs across the food, agriculture, renewable 
+natural resources and the environment (FARNRE) disciplines. According 
+to NIFA-supported research published by Purdue University in the 2022-
+2025 Employment Outlook Report Summary,* employer demand for college 
+graduates with degrees and expertise in FARNRE will continue to exceed 
+the number of available graduates. Of the 59,400 annual job 
+opportunities expected within this period, 31% (or 18,400) are 
+projected to be for graduates from science and engineering fields.
+---------------------------------------------------------------------------
+    * https://www.purdue.edu/usda/employment/wp-content/uploads/2020/
+12/USDA-2020-25-Employment-Report-Summary.pdf.
+---------------------------------------------------------------------------
+    This employment gap comes at a time when extreme weather is leading 
+to large crop and livestock losses for farmers and ranchers, resulting 
+in greater liabilities for producers. Innovative research in climate 
+science has never been so critical nor had such a positive impact on 
+the U.S. economy.
+    That's why I am pleased that President Biden and Secretary Vilsack 
+are strongly committed to supporting Federal agricultural research, 
+development, and deployment, which will define innovation for decades 
+to come. With Congress' support we are making unprecedented investments 
+to train the next generation of agricultural professionals and 
+accelerating research to support climate-smart agriculture and 
+forestry, advance nutrition security and precision nutrition, build a 
+stronger bioeconomy, and ensure equitable access to our research, 
+programs, and data.
+    This work is especially critical at a time when, despite record 
+farm incomes over the past 2 years, ERS reports that about \1/2\ of 
+farm households had negative farm income and most U.S. farm families 
+rely mainly on off-farm income to stay afloat. Boldly reinvesting in 
+our nation's public agricultural R&D portfolio will again enable us to 
+create new revenue streams for producers regardless of size and 
+geography, drive innovation and technology transfer to spur a new 
+generation of agricultural businesses, and ensure that we have a 
+capable, diverse workforce prepared to overcome emerging threats to our 
+food system. The power of information and research is undeniable, and 
+REE is well positioned to support farmers, ranchers, scientists, and 
+academics alike in tackling some of the most pressing issues facing 
+this country; to create a system where all farmers and ranchers, no 
+matter what size or what they are producing, can be successful.
+Workforce & Partnerships
+    The challenges facing agriculture, human and animal health, food 
+supply and conservation are immense and growing under the pressures of 
+a changing climate and swelling global population. Our farmers are on 
+the front lines facing each situation as it arises, while planning for 
+the best possible next season, next year, and future generation. The 
+average age of American farmers, according to NASS's most recent Census 
+of Agriculture, is 58 years old. I know the USDA research, education, 
+and extension mission must support those producers' decisions every 
+day, meeting them where they are with what they need. At the same time, 
+we must also help attract and prepare a robust and diverse agricultural 
+workforce to meet the challenges of the next generation.
+    First this means ensuring that the REE workforce--USDA's scientific 
+enterprise--feels supported and able to carry out their mission. REE 
+faced significant staff losses over the past 5 years and rebuilding 
+that capacity has been a top priority for the mission area. ERS and 
+NIFA have demonstrated outstanding resilience during this time, working 
+hard to ensure their ability to deliver on their agency missions did 
+not falter. Our continued efforts to support these rebuilt agencies 
+will in turn improve our ability to support the nation's farmers, 
+producers, and consumers from our research labs to the farm to the 
+table. It's never been more critical to restore our employees' voices, 
+respond to their needs, cultivate their talents, and champion their 
+efforts to advance our research and extension mission.
+    The President and Secretary have both been very clear--this new 
+workforce must look like America. Investing in inclusion, diversity, 
+and inspiring future generations through formal and informal learning 
+is critical for the future. As an agricultural scientist myself, I know 
+that talent must be inspired, nurtured, and advanced across the country 
+if the United States is to maintain its global leadership in science 
+and technology. That's why Secretary Vilsack recently announced $250 
+million to enable Minority-Serving Institutions to create career 
+development opportunities in agriculture for next gen scholars. This 
+competitive funding, made possible through funding provided in the 
+American Rescue Plan Act (ARPA) Section 1006, as amended by Section 
+22007 of the Inflation Reduction Act, is a necessary down payment for 
+attracting, inspiring, and retaining diverse and talented students for 
+careers in food and agriculture, and careers at USDA. It's also a 
+foundation and model on which, in partnership with Congress, we can 
+make changes that enable USDA internship, fellowship, and other 
+professional development opportunities to become career opportunities 
+for next gen scholars and professionals in food and agriculture.
+    USDA is especially dedicated to enhancing equity across its 
+programs and policies through the development of a more diverse 
+workforce that fully reflects the richness and diversity of the 
+communities we serve.
+    Building a future-proof agricultural workforce requires leveraging 
+existing partnerships with institutions to support programs that expand 
+skilled agricultural employment opportunities. Last year Secretary 
+Vilsack announced resources through American Rescue Plan funding to 
+support the expansion of meat and poultry processing options, including 
+$40 million for NIFA for workforce development and training to build a 
+pipeline of well-trained workers to meet the demand for both current 
+processors and increased independent processing capacity. The primary 
+investment will be through competitive grants to support workforce 
+training at community, junior and technical colleges with programs 
+specifically for meat and poultry processing.
+    Local and regional food systems will benefit from shortened or 
+branched supply chains that impart some redundancy and diversity. And 
+the availability of a trained workforce, with the right skills, at the 
+right location, and at the right time is critical to ensuring reliable 
+food and agricultural supply chains. This is particularly important as 
+the agricultural enterprise in the U.S. is redesigned to become 
+climate-smart, robust, culturally responsive, equitable, and resilient.
+    NIFA's broad array of workforce training programs and strong 
+partnerships with educational institutions, including community 
+colleges and Land-Grant Universities (LGUs), can provide an effective 
+way to implement additional workforce development initiatives.
+Research
+    To best support producers and communities as they face new and 
+evolving challenges, we must ensure that USDA's research arm is 
+flexible, nimble, and working on timely and relevant research and data 
+collection.
+    In response to the immediate need for research, data, and analysis, 
+ERS developed the COVID-19 Working Paper Series as a ``rapid response'' 
+vehicle for publishing non-academically reviewed research and analyses 
+on the impacts of COVID-19 for policymakers, other researchers, and the 
+public. ERS researchers are also actively contributing to USDA efforts 
+around tracking supply chain challenges and food prices.
+    REE agencies conduct essential research on climate mitigation and 
+adaptation and translate that research to inform our farmers as they 
+work to feed the world. In 2021, NASS and ERS released the first 
+results from 2019 Survey of Irrigation Organizations (SIO). ERS's 
+analysis of the data in the report Irrigation Organizations: Water 
+Storage and Delivery Infrastructure,** suggest that, in many cases, 
+water delivery organizations may not be able to supply all water 
+demands, even under normal water supply conditions. ERS is also 
+evaluating the impacts of climate change on U.S. field crop farm 
+productivity using farm level data.
+---------------------------------------------------------------------------
+    ** https://www.ers.usda.gov/publications/pub-details/?pubid=102395.
+---------------------------------------------------------------------------
+    NASS collects a broad range of information from U.S. farmers and 
+ranchers, and produces data on land use and production practices, 
+specifically found in the Census of Agriculture, the Agricultural 
+Resource Management Surveys, and geospatial products. While many of 
+these statistics can be used in the evaluation of climate adaptation 
+science and results, NASS does not yet have any programs directly 
+related to climate adaption but looks forward to coordinating with USDA 
+agencies to develop new survey tools.
+    REE research also plays a critical role in advancing nutrition 
+security by defining the role of food and its components in optimizing 
+health throughout the lifecycle for all Americans. ARS seeks to more 
+precisely understand the nutritional needs of under studied groups and 
+is eager to utilize machine learning and AI approaches to better 
+predict interactions between food and nutrition-related data and health 
+outcomes. NIFA, through critical programs like the Gus Schumacher 
+Nutrition Incentive Program (GusNIP), enables income-eligible consumers 
+to increase their purchase of fruits and vegetables. REE and the Office 
+of the Chief Scientist are also proud to help advance the President's 
+goal of cutting the death rate from cancer by at least 50 percent over 
+the next twenty-five years. We are working across government to 
+accelerate the preventative science and research necessary to improve 
+nutrition in support of better health outcomes for all Americans. 
+USDA's enhanced focus on precision nutrition will allow us to better 
+understand the specific needs of underserved communities--particularly 
+those most impacted by diet-related diseases including cancer. In 
+December, USDA launched a new initiative called the Agricultural 
+Science Center of Excellence for Nutrition and Diet for Better Health 
+or ASCEND for Better Health. ASCEND's mission is two-fold--accelerate 
+research on diet-related chronic diseases and translate that research 
+into impactful solutions that improve public health.
+    We are also working swiftly to provide quality science to help the 
+global community understand and respond to high consequence animal and 
+zoonotic diseases and other challenges. For example, REE has been a 
+leader in making progress on the fight against African Swine Fever 
+(ASF), a high-mortality disease impacting global hog populations that 
+is considered to be the biggest threat to pork production worldwide, 
+including here in the United States. No commercial vaccine for ASF is 
+currently available in the United States, but significant progress has 
+been made.
+    In 2020, ARS scientists published findings about a new ASF vaccine 
+candidate, the most promising, safe and efficacious vaccine tested to 
+date. Our scientists were invited by the Vietnamese Government to help 
+establish a Material Transfer Research Agreement with the Vietnamese 
+company NAVETCO to further research and develop the vaccine. ARS 
+scientists provided NAVETCO technical support to rapidly advance the 
+development of the vaccine.
+    The Vietnamese Department of Animal Health is further evaluating 
+the vaccine under field conditions in a two-phased approach for 
+integrating the use of the vaccine in their national ASF control 
+program. ARS is working closely with APHIS to determine the steps 
+necessary to develop an ASF vaccine that could provide control and 
+management options for the United States.
+    This is a perfect example of the impact that collaboration and 
+quickly executed research can have on agriculture. Because we maintain 
+excellent in-house expertise, we have the power to react quickly and 
+partner with producers to carry them into the future of farming.
+Conclusion
+    In my time leading REE and in my 20 years of Federal service, I 
+have had the opportunity to travel across the country and meet with 
+many of the people we serve. I have visited states in every region of 
+the country--in many of your districts meeting with the people you 
+represent. They are optimistic about the future of agriculture, and so 
+am I. President Biden, Secretary Vilsack and REE are poised to catalyze 
+food systems transformation--we can meet and expand our commitment to 
+farmers and ranchers as they work to feed the world, and I look forward 
+to working with the Subcommittee and broader Agriculture Committee to 
+support this mission.
+
+    The Chairman. Thank you, Madam Under Secretary, for that 
+very informative and important testimony.
+    Now, we will proceed to Members that will be recognized for 
+questions in order of seniority. We will be alternating between 
+Majority and Minority Members, and in order of arrival for 
+those who joined us after the hearing commenced. You are 
+recognized for 5 minutes each in order to allow us to get to as 
+many questions as possible. And I recognize myself for 5 
+minutes.
+    So my first question, Madam Under Secretary, deals with 
+African swine fever simply because we have so many pork 
+producers in our area and because you mentioned it in your 
+written statement. So I want to know if there has been any 
+progress by ARS scientists toward the development and testing 
+of a vaccine for African swine fever. And is there an estimate 
+on when a vaccine might be commercially available in the United 
+States, and are there other vaccines that ARS has either helped 
+develop or that are in the process of being developed?
+    Dr. Jacobs-Young. Thank you. Thank you for the question and 
+the opportunity to share more about our work on African swine 
+fever.
+    As you know, the African swine fever is a highly contagious 
+and deadly viral animal disease affecting domestic and feral 
+swine of all ages. ARS, in our Plum Island facility, has been 
+hard at work on the African swine fever vaccine for quite some 
+time. We have four vaccine candidates that have been licensed 
+to 14 companies worldwide. Currently, Russia, Europe, and Asia 
+are experiencing outbreaks with African swine fever. Working 
+with Vietnam, ARS licensed two of our vaccine candidates, which 
+have now been commercially produced and implemented in Vietnam, 
+and we are seeing great progress and great efficacy with those 
+vaccines. And we are also working with our land-grant 
+universities who are working in the area of helping us with the 
+important task of surveillance and detection methodologies, and 
+so we have made some significant progress on the African swine 
+fever vaccine.
+    The Chairman. That is really, really good news. And you 
+mentioned something that I hadn't thought about. But, feral 
+swine is becoming an increasing problem in the United States, 
+and so they are also susceptible, but they could be carriers. 
+And we don't have African swine fever in this country yet, and 
+we hope we never do, but I really appreciate that update on 
+what the vaccines are doing.
+    My second question deals with biostimulants. In accordance 
+with the 2018 Farm Bill, the USDA published a report on plant 
+biostimulants, which included potential regulatory options and 
+definitions. Madam Under Secretary, as we seek to learn more 
+about biostimulants, has the REE mission area dedicated any 
+research efforts to understanding these products and the 
+impacts they may have on yields and soil health?
+    Dr. Jacobs-Young. Sir, I would say I am not certain about 
+the biostimulants. Could you just tell me just a little bit 
+more about what you mean by biostimulants?
+    The Chairman. Yes. There are ways to stimulate plants, and 
+then we are doing the genetic changes in plant and animal. And 
+so the biostimulants, in my opinion, can stimulate those plants 
+to grow faster or grow in a different way. One example that I 
+can think of would be like the sunflower, how they always face 
+the sun. And there is an enzyme on the dark side of that plant 
+that stimulates it to grow more than less. So I think studying 
+those kinds of stimulations in plants and animals are useful to 
+improving our yields and productivity. And that to me is what I 
+mean by biostimulants.
+    Dr. Jacobs-Young. Thank you so much for that. My apologies. 
+Certainly, we have some of the world's best genomic, genetic, 
+and germplasm collections in the world. And so part of our 
+everyday processes is to continue to look at that germplasm 
+collection and find traits and other opportunities to be able 
+to manipulate the genome sequence to be able to produce plants 
+that are resistant to abiotic and biotic stresses. And so we 
+are looking at lots of different types of techniques to be able 
+to use the tools in our toolbox to improve productivity and, in 
+some cases, nutrition as well.
+    The Chairman. So thank you very much. I see that I am about 
+out of time, and so now I will turn it over to the Ranking 
+Member for her questions.
+    Dr. Jacobs-Young. Thank you.
+    Ms. Spanberger. Thank you so much, Mr. Chairman.
+    Dr. Jacobs-Young, I really again appreciate you being here 
+today. And it is my understanding that USDA made your 
+implementation plan for the Agriculture Advanced Research and 
+Development Authority, AGARDA, public this week, and we thank 
+you for that. And we have certainly seen the lack of funding 
+for AGARDA, and this is for background for those who may be 
+watching at home, a program authorized in the 2018 Farm Bill to 
+increase U.S. leadership in agricultural research and 
+development. And while we created a program with tremendous 
+potential from my perspective, and I am looking for your 
+thoughts, Congress has only appropriated a small one-time 
+amount that did not even provide enough funding to officially 
+even establish AGARDA at USDA.
+    In your opening comments, you talked about the research 
+that is happening in other countries, the need for American 
+competitiveness. Could you just talk a bit more about AGARDA, 
+what it could be, what it should be, and what you want Members 
+of Congress to know?
+    Dr. Jacobs-Young. Thank you for your question. First, let 
+me just say that we are excited about the concept of AGARDA to 
+be able to benchmark off of the success of our Federal sister 
+agencies, with DARPA, with ARPA-E, with ARPA-H. And what we 
+know is that this opportunity to take some risk, having high-
+risk projects that potentially could be gamechangers. And to do 
+that, we need resources. And so we are excited about the 
+potential of the program.
+    And as we look across the Federal Government, we recognize 
+that resources are going to be needed to be successful. For 
+example, we look at some of our sister agencies, they are $2 
+billion. Even some of our newer-created AGARDA, DARPA-type 
+programs are in the billion-dollar range. And to this date, we 
+have received $2 million, $1 million in Fiscal Year 2022 and $1 
+million in Fiscal Year 2023.
+    Ms. Spanberger. And as you mentioned the other agencies 
+where there has been extraordinary development and innovation, 
+I mean, leading to major innovations that have changed society 
+and our economy and our community and propelled our national 
+security, in a kind of blue-sky world, what sort of things do 
+you think that a well-funded, mission-oriented AGARDA could 
+achieve or could look at or could dream of bringing to bear?
+    Dr. Jacobs-Young. Well, so I think about some of our most 
+innovative scientists in ARS and how we have had to sort of 
+work around the fringes to find opportunities for them to look 
+at new and different ways of conducting research, changing a 
+paradigm and some of the belief systems we have about how 
+plants or animals fundamentally work. It would give us the 
+space to be able to take those risks and still be responsive to 
+the stakeholders who depend on us to do a lot of the work that 
+we do every day. And so how do we build that into our DNA and 
+make sure that our scientists have enough to be successful?
+    I used to run competitive programs for the National 
+Institute of Food and Agriculture with CSR-EES, and I remember 
+having a project and it would be a beautiful project, but if we 
+cut the funding in half so we can fund two people because we 
+don't have enough for one big award, we have now handicapped 
+the ability of that PI to be successful.
+    Ms. Spanberger. And these are the types of programs, to the 
+Chairman's point, looking at what new developments, what new 
+scientific research could really drive agriculture.
+    Dr. Jacobs-Young. Right.
+    Ms. Spanberger. And to your point, I think the investments 
+and the return on investment that we saw in the last century, 
+kind of what is the new frontier, the way that we can lower 
+input costs, increase output, and support our producers. Thank 
+you very much. And I look forward to speaking about this issue 
+a bit more at length. But in the remaining minute, could you 
+comment on some of the workforce challenges certainly across 
+the agriculture sphere? I hear back home in the district 
+challenges related to technical assistance. And I know that you 
+all are just as impacted. Could you speak to kind of the skill 
+set and the workforce challenges you may or may not be facing?
+    Dr. Jacobs-Young. Yes, absolutely. I will share with you 
+that we experienced significant workforce loss when ERS and 
+NIFA were moved to Kansas City. We lost about 75 percent of our 
+workforce. We have now worked very hard to build both of those 
+agencies back up to full manpower, and we are very excited 
+about that. However, we do know that in 3 years, \1/3\ of our 
+workforce is eligible to retire. Having been head of the 
+Agricultural Research Service, that is a large number of 
+institutional knowledge walking out of the door potentially. 
+And on the farm, our farmers' average age is somewhere between 
+58 and 60. So if we don't pay deliberate strategic attention to 
+training the next generation of agricultural professionals, I 
+think we are going to be in a tight spot.
+    Ms. Spanberger. Folks on the farm and folks at USDA, 
+folks----
+    Dr. Jacobs-Young. And under secretaries and all the people 
+who will replace us.
+    Ms. Spanberger. Well, thank you for being here. I hope you 
+don't plan to retire anytime soon. Thank you for bringing your 
+experience to bear. And Mr. Chairman, I yield back. Thank you.
+    The Chairman. Thank you, Ranking Member. And now, I 
+recognize our Chairman, who has returned, from Pennsylvania, GT 
+Thompson.
+    Mr. Thompson. Chairman Baird, thank you so much. Once 
+again, thank you to you and the Ranking Member for this hearing 
+and I am just thrilled to have our witness once again before 
+the Committee. Thank you for your leadership and your service.
+    Under Secretary, in your written testimony, you mentioned 
+how the REE mission area works with other agencies across the 
+USDA like the U.S. Forest Service and the Animal and Plant 
+Health Inspection Service. Can you talk more about how you 
+coordinate with other USDA mission areas to advance 
+agricultural research across the Department, and can you share 
+a couple real-world examples of this collaboration?
+    Dr. Jacobs-Young. Yes, absolutely. We just talked a little 
+bit about avian influenza and African swine fever. I will tell 
+you with emergency preparedness, ARS and APHIS are partners. We 
+are building on a long-term cooperation that we have between 
+our agencies. When we experience something like avian 
+influenza, our scientists are right there with the Animal and 
+Plant Health Inspection Service, helping to come in and detect 
+and diagnose what exactly we are dealing with. And they are 
+using science and data to help drive the mitigation strategy, 
+some of our response strategy, some of our biosecurity 
+management practices. So we really partner with them on any 
+instance that we see of an animal outbreak in the country.
+    I think about an example in the grain community. We had an 
+issue where some of our producers were not receiving the 
+complete value for their grain. Our scientists went in and 
+determined what was impacting the price, and it turned out it 
+was an issue of elevation. And so our scientists worked with 
+NASA using some of their zero-gravity facilities to be able to 
+create conversion factors, with that being able to return some 
+of those financial and economic advantages back to the 
+producers.
+    So we are dealing with real-world challenges. Science is 
+one of the strategic goals of the Department. It has been 
+integrated into everything we do. So REE is very fortunate. We 
+get to work across the entire Department.
+    Mr. Thompson. Well, thank you for that collaboration, that 
+synergy, all grounded in science.
+    Dr. Jacobs-Young. Real grounded.
+    Mr. Thompson. You really provide us some well-grounded and, 
+quite frankly, workable solutions as a result of that, much 
+appreciated.
+    You mentioned in your testimony that there are not enough 
+college graduates available to meet private- and public-sector 
+employer needs within food and agriculture. How can we further 
+support the work youth development programs like 4-H and FFA 
+are doing to develop the next generation of agriculturalists?
+    Dr. Jacobs-Young. So let me first say I had my first FFA 
+conference last year, and that was quite the experience. I was 
+just with the 4-H youth a couple of weeks ago here in 
+Washington, D.C. They are an important component of the system 
+that we have for the pipeline. And I think it is critically 
+important that they see people that look like me, that see 
+people that look like everyone in this room today to recognize 
+that this is what an agriculturist looks like, and that there 
+are many wonderful opportunities.
+    I also think that there is an important role for our 
+community engagement. We partner with a high school in Chicago, 
+Illinois, in the southside of Chicago with our Three Sisters 
+program. It is the high school that is a lottery program, 
+having kids out of the southside of Chicago studying 
+agriculture. They have a farm, they have animals, they have a 
+farmers' market, and our scientists are in there working with 
+them hand-in-hand. And they did not go to that school because 
+they were interested in agriculture. They were chosen by a 
+lottery. And our goal is that as many of them as possible who 
+are now FFA members and they will one day be in our 
+laboratories and in our hallways down the street here on 
+Independence Avenue, just really making sure that we make kids 
+aware about the interesting things that agriculture holds. It 
+is so high-tech.
+    Mr. Thompson. Yes, I share your passion for that, and I 
+appreciate that. In fact, we worked hard in the 2018 Farm Bill 
+to create an agricultural youth coordinator at USDA. However, 
+it is my understanding that this position is currently vacant. 
+Previously, when the position was filled, how did REE mission 
+area work with a coordinator to ensure youth want to pursue 
+careers in agriculture?
+    Dr. Jacobs-Young. That is a great question, Congressman. I 
+don't have the answer to that. I think it might have predated 
+my time in this role, but we would be wonderfully happy to 
+follow up with you on that.
+    [The information referred to is located on p. 33.]
+    Mr. Thompson. Sounds good. And I am hoping that position, 
+once again, is filled. I think that is critical to the future 
+of this nation's number one industry, which is agriculture, and 
+the future of agriculture, which is, quite frankly, all those 
+young folks that are out here.
+    Thank you, Mr. Chairman. I yield back.
+    The Chairman. Thank you, Mr. Chairman.
+    And next, we have Ms. Budzinski from Illinois.
+    Ms. Budzinski. Thank you. Yes, thank you, Mr. Chairman.
+    It is a privilege to hear from you today, Dr. Jacobs-Young. 
+And, Under Secretary, I have a question for you regarding 
+artificial intelligence. Advances in artificial intelligence, 
+as you know, continue to be increasingly important across many 
+industries, including agriculture. I represent the University 
+of Illinois in Urbana-Champaign, which proudly hosts the 
+AIFARMS (Artificial Intelligence for Future Agricultural 
+Resilience, Management, and Sustainability), one of the four 
+USDA-funded AI institutes. Over the past 2\1/2\ years, AIFARMS 
+has already made significant advancements in small robot 
+autonomy in computer vision for more labor-efficient livestock 
+production and AI algorithms for improved measurements of 
+carbon sequestration. AIFARMS, as well as the other AI 
+institutes for agriculture, have collectively attracted many 
+prominent AI researchers to collaborate on important problems 
+in the ag domain. But these collaborations could easily be lost 
+without continued investment in research on AI for agriculture. 
+Could you share USDA's plans for continuing this important 
+investment in promoting advances in ag through AI technology?
+    Dr. Jacobs-Young. Absolutely. So artificial intelligence 
+has been integrated into our DNA, not just in our scientific 
+space, but also in our administrative space. I don't know how 
+many times you have applied for something for the Federal 
+Government. We now have AI that can come in and help you put 
+the information in once and have it filter out to every 
+document. So we have integrated it into our DNA.
+    We have established a Center of Excellence around 
+artificial intelligence. We recognize that to do that, it is 
+going to need a systems approach, and so we are building on the 
+work of our colleagues over in the Rural Development area who 
+are working so hard to get broadband into some of those rural 
+communities where we want to apply this AI. We are working on 
+training the next generation of bioinformaticists, AI 
+professionals. We are also retraining some of our workforce to 
+work in this space. We are looking at ways to be able to help 
+the producers be more successful.
+    We heard at the Ag Outlook Forum, we had a wonderful panel 
+of producers who suffer from labor shortages. And we know that 
+innovation is a way to help accomplish some of those needs. It 
+starts with our plant breeders who can breed varieties that can 
+be mechanically and automatically harvested, and then all of 
+our engineers and our AI specialists to be able to develop 
+those robotics and other sensors we need.
+    Ms. Budzinski. Thank you for that, Doctor. I have a second 
+question. I just wanted to take a minute to talk about the 
+Foundation for Food and Agriculture Research, FFAR. We know 
+that FFAR was established in the 2014 Farm Bill as a means of 
+leveraging Federal agricultural research dollars by requiring 
+the Foundation to obtain matching funds from non-Federal 
+entities to invest in priority areas that do not normally 
+receive adequate funding from either public or private sources. 
+Since, however, it has been unable to obtain self-sustainable 
+status. In your opinion, have the Federal funds allocated to 
+the Foundation in the past two farm bills been a good 
+investment of those resources? And could you speak to the value 
+of the research that is being done?
+    Dr. Jacobs-Young. Well, I will share with you that the 
+establishment of the Foundation for Food and Ag Research, the 
+goal was to be able to help us to build better and stronger 
+public-private partnerships, some things that are outside the 
+authorities of the Department of Agriculture. So they are 
+really established to be our partner.
+    I serve as an ex officio member of the board. The 
+Agricultural Research Service and NIFA leads also serve as ex 
+officio members of the board. And we work very, very hard to 
+ensure that we have some coordination around the topics that we 
+study. We are working with the Foundation for Food and Ag 
+Research at this time around a big AIM (Agriculture Innovation 
+Mission) for Climate Summit that we are going to be holding in 
+May, using their convening power, any ability to bring the 
+right people together and to partner with us. So I will share 
+that I have had a very positive experience working with FFAR.
+    In terms of sustainability, I believe that those questions 
+would be best answered by someone else, maybe Saharah Moon 
+Chapotin, who is the Executive Director for FFAR. But I do see 
+great value in what they have brought to the table, and I enjoy 
+working with them.
+    Ms. Budzinski. Wonderful. Thank you. And if I could sneak 
+in one more question for you. I wanted to ask you about the 
+National Institute of Food and Agriculture's Farm and Ranch 
+Stress Assistance Network. Do you feel NIFA's interpretation of 
+the term network, to mean regional and not within a state and 
+the decision to operate FRSAN as it did was the right approach? 
+It is my understanding that, as a result, land-grants in the 
+state ended up competing against the Department of Agriculture 
+in the same state. Is there a reason why you didn't focus on 
+allowing states to build up the networks in their states as 
+opposed to now having regional networks that may be duplicating 
+efforts and taking resources away from the successful state 
+efforts?
+    Dr. Jacobs-Young. I see that we are short on time. What I 
+would promise you is a follow-up conversation. We stand ready 
+for TA in any legislative conversations you would like to have, 
+and we want to implement the program in the way Congress 
+intended. So we want to help our producers. I think we are all 
+on the same page, so I look forward to those conversations.
+    Ms. Budzinski. Thank you. Thank you, Mr. Chairman.
+    The Chairman. Thank you, Madam Under Secretary, for helping 
+keep us on time, I appreciate that.
+    Next, we have another gentlewoman from Illinois, 
+Representative Miller.
+    Mrs. Miller of Illinois. Thank you.
+    Under Secretary Jacobs-Young, thank you for coming this 
+morning. According to data collected by USDA's Economic 
+Research Service, China's public investment in agricultural 
+research and development has been outspending the U.S. by 
+roughly 2:1. In your opinion, what has this research funding 
+disadvantage meant for U.S. agriculture in recent decades?
+    Dr. Jacobs-Young. So I would sum it up that we have missed 
+opportunities. And when we look at the state of public 
+agricultural research in the United States, we recognize that 
+there are a couple of needs that we have. We need increased 
+public investments. If we are going to push the envelope and do 
+some of the innovative things that we talked about, we have to 
+have resources to do that. And so are we missing opportunities 
+to grow in areas that we have not had enough resources to do 
+infrastructure-wise? The need for increased public investments, 
+we look at the backlog of deferred maintenance, not just in the 
+government, but even at our land-grant universities. Those are 
+missed opportunities. And then we talk about the next 
+generation of ag professionals. We need funding to train those 
+people and be prepared.
+    Mrs. Miller of Illinois. Thank you. I have another 
+question. I have heard from stakeholder groups about the need 
+to provide the National Agricultural Statistics Service with 
+better resources to improve alfalfa price estimates. Can you 
+describe briefly how NASS currently estimates alfalfa prices, 
+and what resources would be necessary for them to improve their 
+estimate?
+    Dr. Jacobs-Young. So, first, I will share about our 
+opportunities to modernize the systems that undergird NASS's 
+processes. I think that they have the best and most trusted 
+data around, and so I really am committed to working with NASS 
+to not only have a robust program, but also have modernized IT 
+infrastructure under that program. I would suggest that we 
+follow up with Administrator Hamer to get more specifics on the 
+alfalfa cost estimates segment of their work. We are delivering 
+reports every week and really working very hard to be the 
+trusted source of data for the American people, and so I would 
+look forward to following up with you on that specific survey.
+    [The information referred to is located on p. 33.]
+    Mrs. Miller of Illinois. Okay. I would appreciate it. Thank 
+you.
+    Dr. Jacobs-Young. Thank you.
+    Mrs. Miller of Illinois. I yield back.
+    The Chairman. Thank you for those questions.
+    And now we have another representative from Illinois, Mr. 
+Sorensen.
+    Mr. Sorensen. Three in a row, Midwest is best.
+    Now, Under Secretary Jacobs-Young, thank you for joining us 
+today to help us identify how Congress can improve our USDA 
+research enterprise.
+    The University of Illinois at Urbana-Champaign is one of 
+our nation's premier land-grant universities. The U of I 
+extension is purposefully designed to ensure that research-
+based knowledge is not confined to the academic space, but also 
+it is shared within farmers and local communities. As a 
+professional meteorologist, I have looked through and needed 
+the data that the U of I extension has provided me in my 
+career.
+    The problem is the U of I extension provides over $600 
+million of value to the State of Illinois each year, but it is 
+ten times more than its budget. Yet, the next generation of 
+agricultural scholars are still learning in facilities that are 
+built in the 1950s. We must improve the Research Facilities Act 
+(Pub. L. 88-74) to address our deferred research maintenance 
+backlog.
+    So my question to you is how do we increase investment to 
+modernize research and agriculture infrastructure not only in 
+Illinois, but across the nation?
+    Dr. Jacobs-Young. Yes, how do we do that? Having most 
+recently been the Administrator for the Agricultural Research 
+Service, this has been a broken record around our need to 
+modernize our scientific infrastructure. It only takes walking 
+around a land-grant university campus and seeing the 
+engineering facilities, seeing the medical schools. I mean, 
+even some of the chemistry buildings are better. And then there 
+is our 1964 building right there. If you have ever been to Penn 
+State's campus, it is right across from the Creamery. It is 
+hard to hide. So yes, and so students are walking around that 
+campus and that is what they see.
+    And so how do we attract the best and the brightest 
+visually, we are not even competitive with some of the other 
+industries that are represented? But more importantly than 
+that, we want to attract the best and brightest scientists from 
+anywhere to work in agriculture, both within the university 
+system and within the Federal Government. And they must be in 
+modernized facilities with modernized equipment. Yet, I was 
+riding in with the Administrator of ARS this morning, and we 
+are up it is almost to $1 billion in deferred maintenance 
+across the country, so let alone rebuilding buildings, we 
+cannot keep up with deferred maintenance. And that story is the 
+same in the land-grant university system.
+    And so I look forward to working with Congress to have 
+conversations about how we address this need for modernized 
+facilities.
+    Mr. Sorensen. And just could you give us any examples on 
+what Congress' role should be in making sure that this occurs?
+    Dr. Jacobs-Young. Well, I will give you an example for the 
+Agriculture Research Service. In 2015, based on a Capital 
+Investment Strategy, we received the first $45 million in terms 
+of reinvesting in our capital across the country. Since that 
+point, we have received $1.3 billion. And I will share with 
+you, because of Congress's support, ARS has been able to build 
+facilities and to begin facilities, and most of them are on 
+land-grant university campuses. So I am very excited that in 
+that effort, I was not only able to help ARS, but they help our 
+university partners as well.
+    At U of I we have the RIPE (Realizing Increased 
+Photosynthetic Efficiency) project. I am a little frustrated 
+because some of my scientists are walking down the hall and 
+joining your team at U of I, but that is how we work. We are 
+seamless. You could walk into some universities and you can't 
+tell who is an ARS scientist and who is a university scientist. 
+That is the strength of the partnership that we share.
+    Mr. Sorensen. As a professional meteorologist, I know the 
+unpredictable pace of change with our weather and markets. It 
+dictates the need for ongoing learning and professional 
+development. The reality is that few careers are static. They 
+require lifelong learning. How can the USDA ensure that our 
+producers of all levels of experience have access and 
+continuing access to the education they need to thrive?
+    Dr. Jacobs-Young. Oh, great question. And that is where 
+extension, like you said, is so important. And we have a 
+growing partnership with technical cooperatives across the 
+country. Instead of rebuilding the wheel, we are working with 
+community organizations and others that are already out there, 
+working with the producers, and working hand-in-hand with them 
+to help raise the awareness about programs that they are 
+eligible for, talk about things like financial planning, how to 
+be more successful in their production, what does science say 
+about when to till and not to till? And so we are out there 
+every day working across the country, multiplying our efforts 
+with those cooperators.
+    Mr. Sorensen. Thank you, Madam Under Secretary, for being 
+here today. I yield back.
+    Dr. Jacobs-Young. Thank you.
+    The Chairman. Thank you.
+    Now, we go to the middle part of the country, Minnesota. 
+Mr. Finstad, do you have questions?
+    Mr. Finstad. Yes. Thank you, Mr. Chairman. I appreciate the 
+opportunity here today, and I thank you for holding this 
+important hearing on USDA research programs, especially when we 
+approach the reauthorization of the farm bill.
+    And to you, Madam Under Secretary, thank you. Thanks for 
+your leadership, and thanks for being here today and your 
+testimony.
+    So I am a proud fourth-generation farmer of southern 
+Minnesota and a product of the University of Minnesota, our 
+state's land-grant university. Go Gophers. And I understand the 
+importance of strong investment in ag research through both the 
+Ag Research Service and the National Institute for Food and 
+Agriculture. Investments in ag research result in direct value 
+for our farmers in rural communities. And as a farmer, I see it 
+firsthand. Farm and food security really is our national 
+security, and it is so important that we link those areas 
+together. And, that is really why we must write and pass a 
+strong farm bill to help our farmers to continue to compete on 
+a global stage and really feed and fuel the world for years to 
+come.
+    So on that note, when we talk about our job as farmers and 
+as folks involved in agriculture to feed and fuel the world, we 
+just have to look at some recent data. Last November, the world 
+population reached eight billion. And from the Green 
+Revolution, from Norman Borlaug, from all of the advancements 
+that we have seen to most recently self-driving tractors, which 
+my kids love the idea of. By the way, my father, not so much. 
+But on our farm, we have adapted to a lot of those 
+technologies, and really our 112 land-grant universities have 
+played a critical role in that. And as we look at the future 
+and more cutting-edge technology is needed to secure our 
+domestic and global food supply throughout America's history, 
+we really look to those land-grant universities as partners in 
+that.
+    But with that being said, all farmers should have the 
+freedom to utilize practices that work on their operation. What 
+works for me doesn't work in Illinois. What works for me 
+doesn't even work in northern Minnesota. And so we can't put 
+all our eggs in one basket. So, for instance, America can't 
+rely solely on rooftop gardens. We can't rely solely on organic 
+agriculture. It needs to be an all-of-the-above strategy. And 
+that is really what will allow us to remain the breadbasket for 
+the world.
+    So, Madam Under Secretary, how can we ensure that 
+competitive grants provided by NIFA to land-grant universities, 
+land-grant organizations prioritize the needs of on-the-ground 
+production agriculture that will really help us spur the next 
+Green Revolution, which will enhance productivity and 
+profitability while meeting the needs of a growing population?
+    Dr. Jacobs-Young. Thank you. And yes to everything you 
+said. And that is why, at USDA, we are really working very hard 
+to have local-led, voluntary-based, incentive-based 
+opportunities. I think about the way we are distributed across 
+the country. We are in every county. We recognize that, no, 
+there is not one size that fits all, and so that is why we have 
+that decentralized approach.
+    We are really working to build a system that has 
+opportunities for all so that that fourth generation and the 
+fifth generation, the sixth generation really has something to 
+come home to, come back to. And so how do we help all farmers 
+be more resilient? And the only way we know that is being on 
+the ground, talking to the farmers about what is important to 
+them.
+    We have set up climate hubs across the country. And those 
+climate hubs are taking all of the science and peer-reviewed 
+journal papers that we produce, and I know ARS does some 300 to 
+400 climate science papers a year. I don't expect a producer to 
+read those papers, but we have people in the climate hubs who 
+are trained to take that information and translate it into 
+digestible bites for producers to know exactly what works for 
+their farming production based on their variables. That is very 
+important.
+    We have Long-Term Agroecosystem Research network sites, 18 
+across the country, where producers are brought in to practice 
+some of those things like crop rotation, like no-till to really 
+de-risk some of that because adoption is really where we find 
+most of the challenges that we deal with is we have great 
+suggestions, great guidance even in the nutrition space, I know 
+what I need to do to lose weight, how do we get people to do 
+and follow the guidance that we give?
+    Mr. Finstad. Yes, thank you for that. And I will just add 
+maybe a couple of thoughts here as I close out my time. But, I 
+mean, I will tell you as a farmer and someone that works with 
+and beside farmers day in, day out, we are the best 
+environmentalists that we have in this country. I cannot risk 
+my backyard, my fields to the next generation if I am not 
+taking care of it and leave it better than I found it. So I 
+think that the more we can allow producers opportunities and 
+flexibilities, the more we can decentralize programs. The next 
+farm bill has to be for farmers, by farmers. It can't be for 
+D.C. by D.C. And these programs have to relate to the backyard 
+of the people that we are trying to serve. So I appreciate your 
+comments and look forward to working with you in the future.
+    Mr. Chairman, I yield back.
+    The Chairman. Thank you very much for those questions.
+    Now, we go to the Southwest part of our country, New 
+Mexico, Representative Vasquez.
+    Mr. Vasquez. Thank you, Mr. Chairman, and thank you so 
+much, Under Secretary, for being here.
+    This hearing is focused on a topic that affects the future 
+of farms across the country and one that New Mexico contributes 
+to every day. My district is home to my alma mater, New Mexico 
+State University, and it is one of the largest land-grants and 
+it conducts critical agricultural research across the state and 
+is also home to one of the Southwest climate hubs that you just 
+spoke about.
+    Some programs include optimizing sustainable production on 
+arid lands, partnerships that we have with countries overseas 
+to aid in that research and production of crops on arid lands, 
+and how to re-vegetate lands after devastating wildfires. And 
+programs like these are invaluable in the fight against climate 
+change nationwide. And we need to support climate-smart 
+initiatives and reinvigorate ag practices at research 
+institutions like New Mexico State University, now more than 
+ever.
+    Now recently, I met with researchers from Las Cruces, and I 
+heard about the aging infrastructure both at New Mexico State 
+facilities, extension facilities, and other research 
+facilities. In fact, there is a $100 million deferred 
+maintenance backlog at New Mexico State University for this 
+very type of research. And some of the facilities that we are 
+using that are housing our students and our researchers are 
+more than 50 years old.
+    So, Under Secretary, how does USDA plan to address the 
+infrastructure problems and backlogs to make sure that our 
+institutions of higher learning like New Mexico State are 
+equipped to find solutions to these modern problems?
+    Dr. Jacobs-Young. So we have had a number of opportunities 
+to work with Congress around this topic. I shared just recently 
+that, as ARS Administrator, we developed a Capital Investment 
+Strategy for ARS, the Agricultural Research Service. We have 
+some 3,100 buildings across the country, a $6 billion portfolio 
+of buildings, and the deferred maintenance is up toward $1 
+billion. Our university system, our land-grant partners, I know 
+that APLU has been leading an effort to really look at the 
+infrastructure challenges that the land-grant universities are 
+facing.
+    A third of the ARS labs are located on land-grant 
+university campuses, and that is where we have an opportunity. 
+Thus far since 2015, we have received about $1.3 billion to 
+invest in buildings and facilities. We have just cut the ribbon 
+on our brand new Southeast Poultry Research Laboratory in 
+Athens, Georgia. We are going to cut the ribbon on two new 
+facilities in May, the National Bio and Agro-Defense Facility, 
+and a new facility in Kentucky. So we have some momentum. I am 
+a former track athlete. I just feel like somebody is in the 
+third and I am still back in the second because we have a long 
+way to go to catch up. And so every day we don't invest in the 
+deferred maintenance, we have to re-build a building instead of 
+modernize or make minor changes, so we have to find an 
+opportunity. And I look forward to working with Congress to 
+figure out how do we get our arms around this big challenge of 
+modernized infrastructure for science?
+    Mr. Vasquez. Thank you, Under Secretary. I look forward to 
+partnering with you on that because I think it is much needed, 
+especially in remote places and rural communities like the ones 
+in New Mexico State.
+    Now, we also have research and weather stations across the 
+state that measure and record statistics important to things 
+like wildfire mitigation crucial to our state after one of the 
+most destructive wildfire seasons in our history. In fact, New 
+Mexico's two largest wildfires happened just last year, 
+eliminating and decimating our agricultural industry in many 
+parts of our state and my district.
+    Researchers have to drive to some of these very remote and 
+rural stations just to download the data because these sites 
+are not eligible for a majority of broadband grants. So, Under 
+Secretary, what is USDA doing to ensure that academic 
+facilities like NMSU and other places are eligible for these 
+broadband programs to make it easier to collect the data that 
+we critically need to help understand the challenges that we 
+face in the future?
+    Dr. Jacobs-Young. Well, certainly, I will suggest that you 
+may want to have a conversation with my colleagues at the Rural 
+Development who are in charge of ReConnect because I am not 
+exactly certain about all of the eligibility for that grant. 
+However, I will share that when I first became Administrator of 
+the Agricultural Research Service in 2014, I had this bright 
+idea that I would communicate with people around the country, 
+and we talk, and I learned quickly that they couldn't get the 
+feed because their broadband and the service was just too weak. 
+And so for the first year, I had to back up, instead of doing 
+high tech internet infrastructure for high-performance 
+computer, we had to do things that put basic administrative 
+broadband in so we could just get our jobs done. And in some 
+places, we had to put in infrastructure because it just didn't 
+exist.
+    We have come a long way since 2014, and I think that 
+together, working with our mission area partners and working 
+with Congress, that we can get our arms around this challenge. 
+I mean, we are the most advanced country in the world. We 
+should definitely have our arms around this.
+    Mr. Vasquez. Thank you, Under Secretary. I appreciate your 
+comments today. Thank you for being here.
+    Mr. Chairman, I yield back.
+    The Chairman. Thank you for those questions.
+    And now we go to the middle part of the country into 
+Missouri and Representative Alford.
+    Mr. Alford. Thank you so much, Mr. Chairman.
+    Dr. Jacobs-Young, thank you so much for being here. You are 
+quite an asset to the Department, and I appreciate your 
+testimony today.
+    Missouri is the sixth-largest producer of hogs in the 
+United States of America. That is a lot of hogs. Porcine 
+reproductive and respiratory syndrome, also known as PRRS, can 
+really wipe out an entire operation, and so we are ever-mindful 
+of that. The University of Missouri has done some great 
+research on that. They have been doing some gene editing. They 
+have come up with a PRRS-resistant hog actually. You probably 
+know about this. Unfortunately, the FDA regulatory approval 
+process has kind of stymied this. When are we going to get to 
+the point to where the FDA is helping us instead of hindering 
+us so we can get PRRS under control and make sure that our hog 
+farmers are secure?
+    Dr. Jacobs-Young. Well, first, yes, we are working with the 
+University of Missouri on that project, and I am just very 
+excited about it. We have one of the most advanced processes in 
+terms of data-driven, science-driven processes in the world. I 
+noticed by talking to a number of my colleagues, chief 
+scientists from the G20 countries, it is going to require a 
+systems approach of all of us working together. When we talk 
+about the agricultural enterprise that we envision, it is a 
+systems approach. I think that my colleagues at FDA will be 
+best at answering the question on when, and USDA stands ready 
+to have those conversations with whoever would like to have 
+them.
+    Mr. Alford. I guess, in general, how do we get through the 
+process faster so we are not hampering research and development 
+and that we are supporting it as a nation?
+    Dr. Jacobs-Young. So I would share that we haven't stopped 
+researching. We don't wait until we have all the perfect, that 
+is the beauty of public investments in agriculture research. So 
+we have been studying that, and University of Missouri, those 
+public scientists have been studying this all along. We are 
+doing science. We are pushing the envelope on science because 
+that is what we should be doing. We should be thinking about 
+the science for 20 years from now, 50 years from now. And then, 
+you are right, there is going to be a system that is going to 
+be needed to facilitate the implementation of some of those 
+discoveries and technologies.
+    I mean, I think about a decade ago, we couldn't imagine 
+CRISPR/Cas9, which has now been instituted across many 
+industries. And so what is the CRISPR/Cas9 for 20 years from 
+now? We can't start then. We started yesterday trying to plan 
+for that, and then some things have to catch up.
+    Mr. Alford. We were visiting with some farmers a couple of 
+weeks ago down in the southern part of our district, and they 
+are young farmers who want to stay on their family farms. There 
+is a bill moving through the State House right now for some 
+state tax incentives to do that. I know that in the 2018 Farm 
+Bill one of the programs that was reauthorized was the 
+Beginning Farmer and Rancher Development Grant Program. Where 
+do we go with that? How do we expand that? And would you be in 
+favor of Federal tax incentives to get more young people into 
+ag?
+    Dr. Jacobs-Young. Well, I will share with you that we are 
+very excited about the Beginning Farmers and Ranchers 
+Development Grant Program. It is a program that really puts the 
+need for a pipeline for new producers as a high priority. We 
+are working with farmers and producers who have less than 10 
+years in the business to be able to remove barriers, to be able 
+to enter farming. We want to make sure that we are there hand-
+in-hand teaching them some of the things that need to happen 
+around financial planning and to be economically successful. We 
+are working with organizations across the country to make sure 
+that this happens.
+    One of the things we want to do as well is to emphasize 
+equity and really focus in on some of those producers who have 
+been underserved and never served and so making sure that they 
+can return to the farm and for our veterans. We want to make 
+sure that our veterans have an opportunity if he or she comes 
+back to the United States or was in the military and retired, 
+if they want to begin farming, how do we help them? And then 
+AgrAbility where we work with our producers who may have some 
+disabilities who want to be on the farm.
+    I am more apt and able to talk to you about the things that 
+I know that we have the control over and that we can do from a 
+USDA perspective than about tax incentives. But I will share 
+with you that we are doing all we can to help people stay on 
+the farm and, if they are interested in farming, become 
+farmers.
+    Mr. Alford. Thank you. I appreciate it. I yield back.
+    The Chairman. Thank you. And now we are going to stay in 
+the middle of the country with Representative Davids from 
+Kansas.
+    Ms. Davids of Kansas. Thank you, Mr. Chairman, and thank 
+you, Under Secretary Jacobs-Young, for joining us here today.
+    So I am in the Kansas 3rd District, which is in the Kansas 
+City Metro Area. I didn't know we were going to be so 
+outnumbered by the Illinois folks, but that is okay.
+    So I want to build on some of the things that you have 
+already touched on through various questions today, including, 
+how Title VII supports the internal and external research 
+engines of the USDA and the Federal Government in general, and 
+then how our farmers and producers are getting so much of the 
+data from that research that USDA agencies, the National 
+Institute of Food and Agriculture, Economic Research Service, 
+we have been hearing about this during this conversation today. 
+And, there are a number of land-grant institutions, either in 
+my area or in my district, including a K-State Extension. 
+Haskell Indian Nations University is right next door. And I 
+know there is just a lot of conversation happening around the 
+ways that these institutions help support. And hearing that \1/
+3\ of the ARS labs are at land-grant universities is pretty 
+enlightening.
+    I am curious, as we look at--and I have been having these 
+roundtables and listening sessions with folks who are doing 
+that work and farmers and producers in my district. The 
+deferred maintenance has come up a number of times, and then it 
+came up a number of times today. I am curious if you can talk 
+about what are some of the maybe provisions or areas that we 
+should be looking at to make sure that the things that I am 
+hearing about from folks at K-State or Haskell or other land-
+grant universities, what they are sharing about the deferred 
+maintenance? Like, let's say we get some funding there for that 
+to address the billion-dollar backlog. What are some of the 
+specific things we should be thinking about as Congress to 
+ensure that the prioritization happens in a way that is going 
+to be most beneficial for the land-grant universities?
+    Dr. Jacobs-Young. So I know that that APLU, the Association 
+of Public and Land-grant Universities organization, has been 
+leading an effort with the land-grant universities. We have had 
+several meetings probably in the last, I would say, 7 or 8 
+years talking about our shared interests and goals around 
+deferred maintenance and investments in new, modernized 
+infrastructure. The Federal Government, we cannot commingle 
+funds. And so when I build a building and then I put it on a 
+campus and the university scientists use our facility at NC 
+State, for example, they have just built a brand new plant 
+science building with public-private partnerships. And some of 
+our scientists work in their facility. We are building a 
+facility which is going to be a totally different type of 
+facility, much, much smaller, \1/3\ of the size and cost. 
+However, their scientists will also, as appropriate, use our 
+facility. So we can share. We can have that sort of, I would 
+say family relationship where we can share facilities.
+    So internally, in the Agricultural Research Service, we 
+have created a Capital Investment Strategy. We have looked 
+across the country at our facilities, all of our facilities. We 
+have determined where we are doing our highest priority 
+research in the lowest quality facilities. And so that is how 
+we are prioritizing. We will reinvest. At K-State University, 
+we will be cutting the ribbon on the National Bio and Agro-
+Defense Facility. As you know, it is the first BSL 4 facility 
+for agriculture. It is an amazing facility. I was just there I 
+think the week before the Super Bowl, a $1.25 billion building. 
+The facility itself is $1.25 billion. And so the goals or the 
+commitments that we need to make sure that that is successful 
+requires resources.
+    Ms. Davids of Kansas. Yes.
+    Dr. Jacobs-Young. And so it is a conversation I think we 
+should have more time to go into where the needs are. I know 
+that we can point to where the biggest investment needs are and 
+then talk about maybe strategies to address them.
+    Ms. Davids of Kansas. Yes. And I will look forward to 
+following up actually so we can have those conversations.
+    And then in the short amount of time I have left, I do want 
+to just mention, I am going to talk to the Chairman about the 
+youth coordinator position and how we can make sure that that 
+gets filled. And then also, I will probably follow up with you 
+about the USDA collection of responses from farmers and 
+ranchers for the 2022 Agriculture Census because I would love 
+to make sure that we are doing everything we can to get the 
+best data possible.
+    And I will yield back.
+    Dr. Jacobs-Young. Yes, just can I quickly share on the 
+Census of Agriculture that we have for the first time gone to 
+online, we are doing a parallel online/paper process, and I am 
+just so excited that a lot of our responses are coming in 
+online. And we just continue to try to modernize NASS's 
+infrastructure and the way they do business.
+    The Chairman. Thank you for those questions.
+    And now we are going to go all the way across the United 
+States to California and Representative Duarte from California.
+    Mr. Duarte. Thank you, Mr. Chairman, I appreciate it.
+    Thanks for being here, Dr. Jacobs-Young. I appreciate 
+having you.
+    I am a farmer. I have researchers on staff, and I work with 
+a lot of farmers and industry, and I see some trends coming and 
+some stuff in the industry I would really like to get your 
+input on. One is a lot of our ag startup companies, plant 
+sensing, environmental sensing, irrigation management, drones 
+are coming out of Israel, and they are tied into the Israeli 
+defense complex if there is such a thing. And I am wondering, 
+are there greater opportunities for us in the U.S. agricultural 
+research to engage our Department of Energy, Department of 
+Defense, even Department of Health and Human Services when it 
+comes to molecular biology and other tools and make sure that 
+we are really extending out what some of the industrial, 
+military, energy, and medical research is and what its 
+implications are for agriculture? Do you feel we are doing 
+enough of that, or is there a way we can help you do more of 
+it?
+    Dr. Jacobs-Young. Well, I will share with you that we 
+partner with our sister agencies all the time. And some of our 
+biggest discoveries in agriculture have been implemented by the 
+Department of Defense. We just think about something as simple 
+as mosquito repellent, DEET, that was developed by the 
+Agricultural Research Service to protect our war-fighters. So 
+we are partnering with the Department of Energy around 
+producing 36 billion gallons of sustainable aviation fuel that 
+the airlines have committed to by 2030, and they want to be 
+able to move in a sustainable direction.
+    So we are working very hard with those agencies, and in 
+some cases, important for us to work with them, because their 
+budgets are much larger than our research budgets, and so there 
+are some synergies, and there are also some opportunities to be 
+able to help strategize how they invest on some things.
+    Mr. Duarte. Sure. Well, I would specifically ask that you 
+seek opportunities. My perception is that there is more to get 
+and that we haven't gotten all there is to gain there. And I do 
+think that if there are opportunities there, I would sure love 
+to help facilitate that any way we can, Memorandums of 
+Understanding between agencies or, again, anything we need to 
+do to facilitate that because I personally have seen some 
+technologies come out of the Los Alamos Laboratory on peptide 
+research that have huge implications for plant health. And not 
+to be specific about that, but there is more to get there. And 
+Livermore Laboratory is right next to my district, and I would 
+love to see it helping us more.
+    Dr. Jacobs-Young. Yes.
+    Mr. Duarte. Another question I have, there are a lot of 
+gains being made in big data, environmental sensing, drone 
+flyovers, AI models that crunch big data and come up with 
+different conclusions that we can apply commercially. And I am 
+concerned that we don't understand, and I hope that we do 
+understand somehow, how are we taking the AI modeling, the big 
+data crunching, and facilitating our land-grant universities to 
+have a specific empirical standard and a specific standard that 
+allows those new AI methods and big data gathering methods to 
+kind of start to replace the statistic variables, the single 
+statistic multivariate models that we use to give 95 percent 
+confidence, 99 percent confidence? What are those methods, and 
+what does it mean to be publishable when we are talking about 
+AI models and big data research methods?
+    Dr. Jacobs-Young. So big data is a big deal. We began 
+investing in high-performance computing in ARS 2015, 2014. We 
+began just with a small investment because we were kind of 
+ahead of the curve. We now have a robust scientific network 
+that is separate than administrative networking, but what we 
+can do high-performance computing, and store all this data. I 
+remember touring with one of your scientists out in California, 
+and he was ahead of the curve many, many years ago, and he was 
+telling us how much data he was producing a second, and I just 
+thought that was crazy. And now I think we have tripled it.
+    But where do you store it? How do you share it? How do you 
+visualize it? How do you do computations? We have invested in 
+scientific networking, and now we are partnering with some 
+land-grant universities. We have partnered with Iowa State 
+University and we have partnered with Mississippi State 
+University.
+    Mr. Duarte. Sure. Let me ask you another question. How do 
+we make sure that there is a set of data standards and 
+empirical standards where we can communicate that to farmers to 
+where they know what it means. We know what 99 percent 
+confidence means if we have a single-variant trial. How do 
+farmers develop the skill set to understand what this 
+empiricism that we might derive from big data means in terms of 
+their ability to read land-grant university information and 
+apply it on their farm with confidence?
+    Dr. Jacobs-Young. So our goal is to build the tools that 
+producers can use that can be on their phone, that can be on 
+their laptops, and that hopefully they never have to understand 
+all of the equations and the derivatives and everything that 
+happens in the background, but that it would be user-friendly. 
+I talked about setting up the climate hubs so that our people 
+are taking that data and translating it into digestible nuggets 
+so that it can be easily applied by producers on their farms.
+    And so I really feel that is part of our onus to be able to 
+do a lot of that, and we have lots of teams working together on 
+what is called FAIR, data that is findable, accessible, 
+interchangeable, and reproducible. So there are a number of 
+standards that have been created around the data world, and we 
+have experts working in that. We have a Center of Excellence on 
+Artificial Intelligence. And so I am hoping we will do all of 
+that and that all they have to do is pull up their phone, put 
+in their variables, and have a decision tool that can tell them 
+which direction to go in for their specific issue.
+    Mr. Duarte. Thank you.
+    The Chairman. Thank you for those questions.
+    We have one more individual from Ohio, Representative 
+Miller, 5 minutes.
+    Mr. Miller of Ohio. Chairman Baird and Ranking Member 
+Spanberger, thank you for allowing me to participate in this 
+Subcommittee hearing to review vital research initiatives 
+undertaken to strengthen and sustain American agriculture 
+critical to farm production in my Congressional district and 
+those throughout the country.
+    Last week, I had the opportunity to view firsthand the 
+agricultural research initiatives undertaken by Ohio State 
+University College of Food, Agriculture, and Environmental 
+Sciences on the Wooster Campus in my Congressional district. 
+These innovative research programs included deployment of 
+state-of-the-art technologies and partnerships with USDA's 
+Agricultural Research Service throughout Ohio State's 
+University's Application Technology Research Unit, utilizing a 
+multidisciplinary digital approach to enhance crop protection 
+while safeguarding environmental quality. Additional Federal 
+research programs also included plant pathology research, 
+molecular genomics, epidemiology, and risk prediction to 
+safeguard crops in my state and across the nation, as well as 
+the nation's biosafety level 3 agricultural laboratories.
+    Under Secretary Jacobs-Young, in your testimony, you 
+highlight the fact that production agriculture requires 
+constant innovation and adaption, and access to information and 
+new technologies underpins each of these objectives. Please let 
+us know how USDA's Research, Education, and Economics mission 
+area supports advanced agricultural technologies to accelerate 
+innovative research tools critical to meet growing agricultural 
+challenges.
+    Dr. Jacobs-Young. Yes, that is who we are. That is our 
+role. Our role is to be the leading experts in the development 
+of technologies and research and discoveries that agriculture 
+is going to need to move us into the future.
+    We talked a little bit about needing to be able to take 
+some more risks and giving some of our scientists space to take 
+risks, because with risks sometimes come failure, and so we 
+need to have a system that supports that because also with that 
+high-risk research, we have an opportunity to be 
+transformative. And so what you had an opportunity to see at 
+Ohio State is just a taste of what is happening across the 
+country, and they can only do that because of the continued 
+support from Congress and the investments that you are making 
+in both the USDA researchers and the land-grant university 
+researchers. And if we can do what we have done with what we 
+have had, imagine what we could do if we were on par with our 
+colleagues around the world.
+    Mr. Miller of Ohio. It is unbelievable. When you look at 
+the technology and you go to the campuses and where all this 
+technology is being produced, it just makes you so proud that 
+we are taking care of the American farmer in this country, but 
+I believe that more can be done to go ahead and enhance that to 
+make sure it is more efficient across the entire country.
+    I just wanted to say, let's see. Under Secretary, please 
+let me know how the USDA is collaborating with its interagency 
+partners. In addition to serving on the House Committee on 
+Agriculture, I am also seated on the Committee of Science, 
+Space, and Technology. Recently, the Science Committee held a 
+hearing to examine the interagency research partnerships, 
+including with the Department of Agriculture. We welcomed 
+USDA's witness testimony. However, I understand it was not able 
+to be provided. Under Secretary Jacobs-Young, can you talk 
+about how USDA works with other Federal agencies that may have 
+larger research budgets, such as the Department of Energy, the 
+National Science Foundation, and others to ensure that 
+investments in agriculture research are broadened and not 
+limited to USDA?
+    Dr. Jacobs-Young. Oh, absolutely. And NASA. We work with 
+NASA as well. We must. I am a 21 year career Federal employee, 
+and so it is just part of what we do, working with our sister 
+agencies, in the Department of Energy working in the space of 
+bioenergy and biofuels. USDA has a unique role in that the 
+feedstock development, the feedstock production, and then there 
+is some conversion technologies, and then working with NIH in 
+spaces like nutrition and working in spaces where we talk about 
+things like bridging that gap between public health and the 
+nutrition space, National Science Foundation, well, water-
+energy-climate nexus.
+    So we have been able to really partner with our Federal 
+agencies. As I said before, many of them have larger budgets 
+than us. And what is fortunate is that we have some common 
+areas of prioritization, and so we are able to partner on 
+those. And through the White House Office of Science and 
+Technology Policy, many of our interagency groups were brought 
+together, and I have chaired a number of those over the years. 
+So it is just we wouldn't be successful if we didn't have these 
+strong partnerships with our Federal agencies.
+    Mr. Miller of Ohio. Good. I love to hear it. And I just 
+want to say thank you for your time here this morning.
+    Thank you, Mr. Chairman, and thank you, Ranking Member. I 
+yield back.
+    The Chairman. Thank you. And that is all the questions I 
+have. Ranking Member, do you have any other questions or 
+comments?
+    Ms. Spanberger. I would just want to say in closing, thank 
+you for being here. I think it has been an extraordinary 
+conversation. Mr. Chairman, thank you for putting this hearing 
+together. I really appreciated a lot of the comments that you 
+made in your written testimony and your opening statement that 
+I think for any Member on this Committee, with all of our 
+geographic diversity, certainly, we see the good work that your 
+employees do and your team does on behalf of the producers and 
+the agricultural communities that we all represent.
+    I think there are many action items for us as we head 
+towards the 2023 Farm Bill to make sure that we are leveraging 
+the tremendous investment that comes in recognizing the value 
+of research. And certainly, I appreciate the Chairman for 
+having this be our first Subcommittee hearing. I think that 
+speaks a lot to the priorities that you are putting before us, 
+and I appreciate that as a Member, but also as a Representative 
+to so many agricultural communities. And so thank you for being 
+here. Mr. Chairman, thank you for this great conversation. And 
+I yield back.
+    The Chairman. Well, thank you. And I have a few comments. 
+And thank you for your appreciation of the Under Secretary for 
+being here. And I want to add mine. I really appreciate your 
+comments and your willingness to bring you and your staff to be 
+with this Committee. I think I better understand why you have 
+all the responsibilities you do. My figures show that you were 
+outnumbered 12:1, and you handled it very well, so thank you 
+for being here.
+    I would just say that this first hearing of the 
+Subcommittee on Conservation, Research, and Biotechnology in 
+the 118th Congress is also taking place during the National Ag 
+Week, so I think how fitting that you are here today and that 
+this group is here and we are having this Committee hearing.
+    So I really appreciate the Ranking Member. I look forward 
+to working with you and having this Committee do other things. 
+I don't think any of us can--and we have heard that all day 
+today--I don't think any of us can forget the importance of 
+agricultural research. This $20 to $1 return on investment is 
+very telling. And to do that and to feed all the people in the 
+world, we are going to have to have that kind of research if we 
+are going to keep the most abundant and most affordable food 
+and fiber supply. And so continuing American leadership in ag 
+research is critical to our national importance.
+    And so with that, I thank you for being here. Before we 
+adjourn, though, I have to tell you that under the Rules of the 
+Committee, the record of today's hearing will remain open for 
+10 calendar days, and so you have the opportunity to add 
+additional material or supplementary written responses from the 
+witness to any question proposed by Member.
+    So if I hear no other comments or questions, this meeting 
+is adjourned. Thank you.
+    [Whereupon, at 11:27 a.m., the Subcommittee was adjourned.]
+    [Material submitted for inclusion in the record follows:]
+Supplementary Material Submitted by Hon. Chavonda Jacobs-Young, Ph.D., 
+   Under Secretary for Research, Education, and Economics and Chief 
+               Scientist, U.S. Department of Agriculture
+Insert 1
+          Mr. Thompson. Yes, I share your passion for that, and I 
+        appreciate that. In fact, we worked hard in the 2018 Farm Bill 
+        to create an agricultural youth coordinator at USDA. However, 
+        it is my understanding that this position is currently vacant. 
+        Previously, when the position was filled, how did REE mission 
+        area work with a coordinator to ensure youth want to pursue 
+        careers in agriculture?
+          Dr. Jacobs-Young. That is a great question, Congressman. I 
+        don't have the answer to that. I think it might have predated 
+        my time in this role, but we would be wonderfully happy to 
+        follow up with you on that.
+
+    When the position was filled, USDA Research, Education, and 
+Economics Mission Area (REE) participated in activities that the USDA 
+Youth Coordinator organized to encourage USDA employment. Examples 
+include presenting on REE employment opportunities at the HACU National 
+Conference, the MANRRS annual conference, and with the Conference on 
+Asian Pacific American Leadership (CAPAL). REE also participated in 
+accelerated hiring events that recruited for positions at each of these 
+conferences and encouraged a ``quick hiring'' of applicants. 
+Additionally, REE engaged with the Coordinator to ensure USDA STEM and 
+workforce efforts were represented at the White House National Science 
+and Technology Council and in workforce reports.
+Insert 2
+          Mrs. Miller of Illinois. Thank you. I have another question. 
+        I have heard from stakeholder groups about the need to provide 
+        the National Agricultural Statistics Service with better 
+        resources to improve alfalfa price estimates. Can you describe 
+        briefly how NASS currently estimates alfalfa prices, and what 
+        resources would be necessary for them to improve their 
+        estimate?
+          Dr. Jacobs-Young. So, first, I will share about our 
+        opportunities to modernize the systems that undergird NASS's 
+        processes. I think that they have the best and most trusted 
+        data around, and so I really am committed to working with NASS 
+        to not only have a robust program, but also have modernized IT 
+        infrastructure under that program. I would suggest that we 
+        follow up with Administrator Hamer to get more specifics on the 
+        alfalfa cost estimates segment of their work. We are delivering 
+        reports every week and really working very hard to be the 
+        trusted source of data for the American people, and so I would 
+        look forward to following up with you on that specific survey.
+
+    USDA National Agricultural Statistical Service (NASS) collects 
+price information for alfalfa each month from a variety of sources, 
+including our cattle on feed survey, milk production survey, and hay 
+auctions. To meet the needs of our USDA partners, we collect and 
+publish data for combined premium and supreme alfalfa in addition to a 
+total alfalfa price. These published estimates are based on the data 
+collected from the above-mentioned sources and therefore their accuracy 
+is directly tied to the accuracy and completeness of these sources.
+                                 ______
+                                 
+                          Submitted Questions
+Questions Submitted by Hon. Glenn Thompson, a Representative in 
+        Congress from Pennsylvania
+Response from Hon. Chavonda Jacobs-Young, Ph.D., Under Secretary for 
+        Research, Education, and Economics and Chief Scientist, U.S. 
+        Department of Agriculture
+National Agricultural Statistics Service
+    Question 1. As you know, the National Agricultural Statistics 
+Service conducts a census every 5 years to gather data on agricultural 
+production in the United States. Recently, NASS wrapped up data 
+collection for the 2022 Census of Agriculture, and it is my 
+understanding that results will be released in the Spring or Summer of 
+2024. Under Secretary Jacobs-Young, can you explain why there is such a 
+long delay between the time the data is collected and when the results 
+are released?
+    Answer. USDA would like to take this opportunity to thank all the 
+farmers and ranchers across the nation who have responded. NASS data 
+collection for the 2022 Census of Agriculture is still ongoing. Since 
+these data remain the most comprehensive in the industry and paint the 
+whole picture of U.S. agriculture down to the county level, the 
+response deadline was extended through the spring to ensure the best 
+possible representation in the data. Once the data collection is over, 
+NASS will spend the subsequent several months reviewing the responses 
+for accuracy and finally, summarizing the data for publication. As a 
+Federal statistical agency, NASS also takes great care in making sure 
+no individual data is disclosed. NASS makes every effort to publish the 
+data as quickly as possible but given the size and scope of the Census 
+of Agriculture, that process does take time to complete. USDA hopes 
+that an increased trend in online response will help reduce processing 
+time for future censuses.
+Specialty Crop Research Initiative
+    Question 2. The 2018 Farm Bill amended the Specialty Crop Research 
+Initiative (SCRI) so that technologies improving mechanization and 
+automation in specialty crop production are eligible for funding. Under 
+Secretary Jacobs-Young, have you seen an increase in projects focused 
+on mechanization and automation since this change? Can you discuss some 
+of the mechanization and automation projects that have been funded?
+    Answer. The Specialty Crop Research Initiative has invested over 
+$50.6 million in projects supporting mechanization and automation since 
+the 2018 Farm Bill made technologies improving mechanization and 
+automation in specialty crop production eligible for funding. This is a 
+major increase in investments, as the total support since 2008 for new 
+innovations and technology is $95.5 million--meaning over 50% of 
+funding for these projects has happened in the last 5 years. For 
+example, a project led by Pennsylvania State University, funded in 
+2021, is leveraging smart agriculture and harvest automation to address 
+the labor shortages on mushroom farms. In 2020, a project led by 
+Cornell University was funded that uses machine vision and robotic 
+tools to optimize apple tree crop loads. A project led by Virginia 
+Polytechnic Institute and State University investigates edamame 
+varieties for mechanized production.
+National Agricultural Research, Extension, Education, and Economics 
+        Advisory Board
+    Question 3. The 2018 Farm Bill amended the composition of the 
+National Agricultural Research, Extension, Education, and Economics 
+(NAREEE) Advisory Board, which was created in 1977. The purpose of this 
+board is to evaluate and make recommendations to the Secretary of 
+Agriculture on Federal agricultural research priorities. Under 
+Secretary Jacobs-Young, can you talk about your experience working with 
+the NAREEE Advisory Board and if the current composition is adequate to 
+provide USDA with both stakeholder input and science-backed 
+information?
+    Answer. USDA appreciates the selfless, volunteer service of the 
+members of the NAREEE Advisory Board (and the Board's three Committees 
+and Subcommittees). In total, there are 38 agriculture stakeholders on 
+this Federal Advisory Committee that provide recommendations and advice 
+on our agriculture science and research priorities.
+    Under my leadership as Under Secretary for Research, Education, and 
+Economics (REE) and USDA's Chief Scientist, the Board and its 
+Committees have provided USDA, REE, and the REE agencies key feedback 
+on: increasing diversity and inclusion in REE research efforts; 
+evaluation of the agriculture climate mitigation and adaptation 
+programs being implemented by REE; Agricultural Research Service's 
+National Plant Germplasm System (NPGS) Plan, as directed in the 2018 
+Farm Bill; numerous genetic resources recommendations for plants, 
+animals, microbes, and insects; research priorities for the National 
+Institute of Food and Agriculture's (NIFA) Emergency Citrus Disease 
+Research and Extension (ECDRE), and a program and grant projects' 
+evaluation of NIFA's Specialty Crop Research Initiative (SCRI).
+    I look forward to continuing robust engagement with the Board, 
+especially their ground truthing of the soon-to-be-released USDA 
+Science and Research Strategy given the constituents these key external 
+stakeholders represent.
+Commission for Farm Transitions--Needs for 2050
+    Question 4. Although this provision was not included in the 
+Research Title, the 2018 Farm Bill established the Commission on Farm 
+Transitions--Needs for 2050, to study the issues impacting the next 
+generation of farmers and ranchers. To date, this provision has not 
+been implemented; however, your written testimony repeatedly mentions 
+supporting future generations. Based on your testimony, it seems as if 
+this Commission could play an important role in addressing the 
+challenges facing beginning farmers and ranchers. Under Secretary 
+Jacobs-Young, can you shed light on why this provision has not been 
+implemented and do you see a role for the REE Mission Area once the 
+Commission has been established?
+    Answer. The Research, Education, and Economics Mission Area (REE) 
+at USDA could play a vital role by working collaboratively with our 
+land-grant university partners, as well as with local customers, 
+producers, farmers, and ranchers at the grassroots level; ensuring the 
+presence of subject matter experts to respond to and capture comments; 
+transitioning those comments into recommendations; and delivering those 
+recommendations to the Commission for consideration. In addition, REE 
+can provide information on Farm and Ranch Stress Assistance Network 
+(FRSAN) reports, From Learning to Leading: Cultivating the Next 
+Generation of Diverse Food and Agriculture Professionals (NEXTGEN) 
+accomplishments, and information on Extension, capacity, and 
+competitive projects that benefit the next generation of farmers and 
+ranchers. The National Institute of Food and Agriculture's Beginning 
+Farmer and Rancher Development Program (BFRDP) is another program to 
+improve the successes of beginning farmers and ranchers by providing 
+training and technical assistance to enhance their sustainability 
+through established farm enterprises. BFRDP does address some of the 
+challenges of the next generation of farmers and ranchers by focusing 
+on business planning, financial literacy, access to land, estate 
+planning (to include, finding adequate acreage with sufficient farm 
+infrastructure and housing to support a new operation), access to 
+financing/credit, farm production, and marketing skills.
+NIFA Funding Lines
+    Question 5. The National Institute of Food and Agriculture has over 
+60 funding lines covering the entirety of the agricultural research, 
+education, and extension realm that need appropriations every year. In 
+addition to those funding lines, there are many authorized programs 
+that have never been funded. Under Secretary Jacobs-Young, does NIFA 
+face challenges in administering programs across so many funding lines? 
+Are there opportunities to streamline programs that receive fewer 
+appropriations under programs with broad authorities like AFRI?
+    Answer. The National Institute of Food and Agriculture (NIFA) has 
+several programs that could be combined to achieve synergies, economy 
+of scale, and remove administrative hurdles.
+Farm and Ranch Stress Assistance Network
+    Question 6. The purpose of the Farm and Ranch Stress Assistance 
+Network, as reauthorized in the 2018 Farm Bill, is to establish a 
+network that connects individuals involved in agriculture to stress 
+assistance programs. Can you discuss how this program has been 
+implemented? Do you see a role for the Cooperative Extension Service in 
+implementation of this program since Extension has a presence in every 
+county across the United States?
+    Answer. In FY 2020, the National Institute of Food and Agriculture 
+awarded 3 year continuation awards totaling $28.7 million to four 
+regional entities to help ensure vulnerable agricultural producers and 
+their families have increased options for access to supportive services 
+where they live and work. The awards were made to the University of 
+Illinois (North Central Region), National Young Farmers Coalition 
+(Northeast Region), University of Tennessee (Southern Region), and 
+Washington State University (Western Region). The regional lead 
+institutions make sub-awards within their regions with the goal of 
+providing access to mental health services in all states and U.S. 
+Territories. Collaborators may include the following: Indian Tribes, 
+state departments of agriculture, state cooperative extension services; 
+and nongovernmental organizations (NGOs). The suite of services offered 
+through Farm and Ranch Stress Assistance Network (FRSAN) include: (1) 
+farm telephone helplines and websites, (2) training programs and 
+workshops, (3) support groups, and (4) outreach services and activities 
+(including the dissemination of information and materials).
+    The Cooperative Extension Service plays a critical role in 
+delivering programs and services in each region. Extension personnel 
+are the project directors for three of the four regional lead 
+institutions. Additionally, Cooperative Extension has been the 
+recipient of multiple sub-awards in each region.
+    In October 2021, USDA NIFA announced an investment of nearly $25 
+million for 50 grants supporting FRSAN State Department of Agriculture 
+(SDA) projects. This funding was made available by the Coronavirus 
+Response and Relief Supplemental Appropriations Act, (FY) 2021, which 
+was contained in the Consolidated Appropriations Act, (FY) 2021. Funded 
+projects must have initiated, expanded, or sustained programs that 
+provide professional agricultural behavioral health counseling and 
+referral for other forms of assistance as necessary through farm 
+telephone helplines and websites; training programs and workshops; 
+support groups; and outreach services and activities.
+Research Facilities
+    Question 7. The FY 2023 Omnibus provided USDA with the first $2 
+million for the competitive grant program established in the 2018 Farm 
+Bill under the Research Facilities Act. Can you discuss how USDA will 
+implement this program?
+    Answer. USDA National Institute of Food and Agriculture (NIFA) has 
+been expeditiously developing the Research Facilities Act Program 
+(RFAP) for competition. A public listening session was held on April 
+13, 2023, to obtain public input for the development of the RFA for 
+this program. A draft report on the listening session has been 
+prepared. In addition, a draft RFA is currently under review and is 
+expected to be published for proposal submission once all approvals are 
+received. As part of the RFA, NIFA will prioritize projects proposing 
+building, modification, acquisition, modernization, refurbishment, or 
+remodeling of agricultural research facilities that are located at or 
+primarily benefit minority-serving institutions (MSI) when making the 
+award, as per appropriations language accompanying the funding. In 
+addition, the program will have three funding levels ranging from 
+$75,000 to $500,000.
+Plan of Work & Time and Effort Reporting
+    Question 8. The 2018 Farm Bill streamlined the plan of work and 
+time and effort reporting processes for land-grant formula funds to 
+ensure that university research and extension personnel can spend their 
+time on actual projects rather than on completing unnecessary federally 
+mandated reports. Under Secretary Jacobs-Young, did these provisions 
+adequately remove some of the burdens our land-grant university 
+personnel were facing or is further work needed to streamline these 
+requirements?
+    Answer. USDA National Institute of Food and Agriculture (NIFA) has 
+developed time and effort reporting guidance and resources to assist 
+stakeholders and allow them to follow internal policies and controls 
+for supporting personnel expenditures. The Plan of Work module in the 
+NIFA Reporting System (NRS) was completed in December 2022. NRS users 
+can now submit their Plan of Work in a streamlined system and provide 
+information on planned research, education and extension activities 
+which address critical state agricultural issues. NIFA offers users 
+regular support on use of the system through monthly informational 
+webinars, resources posted to our external web pages and a dedicated 
+help desk email. The Plan of Work sets the stage for all other 
+reporting requirements for capacity funding, carrying over data from 
+each submission to make reporting more efficient and less burdensome.
+Competitive Grants versus Capacity Funding
+    Question 9. There is a longstanding debate on the proper ratio for 
+competitive grants versus capacity funding to support agricultural 
+research, education, and extension at our land-grant universities. 
+Under Secretary Jacobs-Young, do you believe the current makeup of 
+competitive grants and capacity funding is sufficient? Should one be 
+increased relative to the other?
+    Answer. Land-grant universities are key partners at USDA, and our 
+research, education, and Extension programs provide crucial support for 
+their work. For an unbiased assessment of this landscape, an 
+independent study could analyze the current ratio of competitive grants 
+and capacity funding that supports agricultural research, education, 
+and extension at our land-grant universities.
+Nutrition Education
+    Question 10. While not authorized in the research title, two 
+nutrition-related programs, SNAP-Ed and the Expanded Food and Nutrition 
+Education Program, rely heavily on Cooperative Extension Service to 
+implement the program. Under Secretary Jacobs-Young, can you walk 
+through the benefits and outline the challenges, if any, of using 
+Extension in delivering nutrition education to low-income populations?
+    Answer. Since its early days, the Cooperative Extension System 
+(CES) has played an important role in improving the health of the 
+nation. CES is well-suited for community-based nutrition education 
+programs for low-income populations, for multiple reasons. CES has an 
+extensive network, reaching most of the more than 3,000 U.S. counties, 
+Territories, and the District of Columbia and having natural 
+connections for information sharing and consistency in programming. CES 
+is deeply nested within communities through long-standing and 
+continually evolving relationships with community and state partners 
+conducive to achieving individual, policy, systems, and environmental 
+change. Specific to the Expanded Food and Nutrition Education Program 
+(EFNEP) and SNAP-Ed, Cooperative Extension employs people from the same 
+neighborhoods and with similar experiences as those they serve and 
+thus, engenders trust among marginalized and historically underserved 
+populations. University Extension staff work closely with local staff 
+to ensure that subject matter content and methods of learning are 
+current, relevant, practical, and appropriately tailored to the 
+audience served. This tailored focus on content and delivery methods 
+facilitates improved nutritional health and well-being of low-income 
+populations served. Finally, through CES, local voices inform practical 
+and applied research priorities among universities within and across 
+states, and even nationally.
+    Regarding challenges, the number of communities that Cooperative 
+Extension can serve is limited by the number of faculty and staff that 
+it can deploy in those local offices based on the amount of current 
+available resources. While the footprint of CES in local community 
+offices has decreased in recent decades, universities and local offices 
+are utilizing technology and working collaboratively within local 
+Extension offices to help overcome this obstacle. Second, CES wages for 
+community nutrition educators have not kept pace with other local job 
+options, which can make hiring and retaining staff difficult. NIFA is 
+partnering with FNS to cultivate comprehensive and sustained solutions 
+for EFNEP workforce development. Notably, wage challenges are not 
+limited to Cooperative Extension. Other community-based, public health 
+programs are experiencing similar employment challenges.
+
+                                  [all]
+                                  
+                                  
+                                  
+                                  
+

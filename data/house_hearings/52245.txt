@@ -1,0 +1,1677 @@
+
+ - DRIVING BAD POLICY: EXAMINING EPA'S TAILPIPE EMISSIONS RULES AND THE REALITIES OF A RAPID ELECTRIC VEHICLE TRANSITION
+
+[House Hearing, 118 Congress]
+[From the U.S. Government Publishing Office]
+
+
+                  DRIVING BAD POLICY: EXAMINING EPA'S
+                      TAILPIPE EMISSIONS RULES AND
+                        THE REALITIES OF A RAPID
+                      ELECTRIC VEHICLE TRANSITION
+
+=======================================================================
+
+                                HEARING
+
+                               BEFORE THE
+
+                 SUBCOMMITTEE ON ECONOMIC GROWTH, ENERGY 
+                       POLICY, AND REGULATORY AFFAIRS
+
+                                 OF THE
+
+               COMMITTEE ON OVERSIGHT AND ACCOUNTABILITY
+
+                        HOUSE OF REPRESENTATIVES
+
+                    ONE HUNDRED EIGHTEENTH CONGRESS
+
+                             FIRST SESSION
+
+                               __________
+
+                              MAY 17, 2023
+
+                               __________
+
+                           Serial No. 118-35
+
+                               __________
+
+  Printed for the use of the Committee on Oversight and Accountability
+  
+[GRAPHIC NOT AVAILABLE IN TIFF FORMAT]  
+
+
+                       Available on: govinfo.gov,
+                         oversight.house.gov or
+                             docs.house.gov
+                             
+                                __________
+
+                                
+                    U.S. GOVERNMENT PUBLISHING OFFICE                    
+52-245 PDF                   WASHINGTON : 2023                    
+          
+-----------------------------------------------------------------------------------                                 
+                            
+               COMMITTEE ON OVERSIGHT AND ACCOUNTABILITY
+
+                    JAMES COMER, Kentucky, Chairman
+
+Jim Jordan, Ohio                     Jamie Raskin, Maryland, Ranking 
+Mike Turner, Ohio                        Minority Member
+Paul Gosar, Arizona                  Eleanor Holmes Norton, District of 
+Virginia Foxx, North Carolina            Columbia
+Glenn Grothman, Wisconsin            Stephen F. Lynch, Massachusetts
+Gary Palmer, Alabama                 Gerald E. Connolly, Virginia
+Clay Higgins, Louisiana              Raja Krishnamoorthi, Illinois
+Pete Sessions, Texas                 Ro Khanna, California
+Andy Biggs, Arizona                  Kweisi Mfume, Maryland
+Nancy Mace, South Carolina           Alexandria Ocasio-Cortez, New York
+Jake LaTurner, Kansas                Katie Porter, California
+Pat Fallon, Texas                    Cori Bush, Missouri
+Byron Donalds, Florida               Jimmy Gomez, California
+Kelly Armstrong, North Dakota        Shontel Brown, Ohio
+Scott Perry, Pennsylvania            Melanie Stansbury, New Mexico
+William Timmons, South Carolina      Robert Garcia, California
+Tim Burchett, Tennessee              Maxwell Frost, Florida
+Marjorie Taylor Greene, Georgia      Becca Balint, Vermont
+Lisa McClain, Michigan               Summer Lee, Pennsylvania
+Lauren Boebert, Colorado             Greg Casar, Texas
+Russell Fry, South Carolina          Jasmine Crockett, Texas
+Anna Paulina Luna, Florida           Dan Goldman, New York
+Chuck Edwards, North Carolina        Jared Moskowitz, Florida
+Nick Langworthy, New York
+Eric Burlison, Missouri
+
+                       Mark Marin, Staff Director
+       Jessica Donlon, Deputy Staff Director and General Counsel
+                Jeanne Kuehl, Senior Professional Staff
+                     Daniel Flores, Senior Counsel
+      Mallory Cogar, Deputy Director of Operations and Chief Clerk
+
+                      Contact Number: 202-225-5074
+
+                  Julie Tagen, Minority Staff Director
+
+ Subcommittee On Economic Growth, Energy Policy, And Regulatory Affairs
+
+                      Pat Fallon, Texas, Chairman
+Byron Donalds, Florida               Cori Bush, Missouri, Ranking 
+Scott Perry, Pennsylvania                Minority Member
+Lisa McClain, Michigan               Shontel Brown, Ohio
+Lauren Boebert, Colorado             Melanie Stansbury, New Mexico
+Russell Fry, South Carolina          Eleanor Holmes Norton, District of 
+Anna Paulina Luna, Florida               Columbia
+Chuck Edwards, North Carolina        Raja Krishnamoorthi, Illinois
+Nick Langworthy, New York            Ro Khanna, California
+                        
+                        
+                        C  O  N  T  E  N  T  S
+
+                              ----------                              
+                                                                   Page
+
+Hearing held on May 17, 2023.....................................     1
+
+                               Witnesses
+
+                              ----------                              
+
+Steve Bradbury, Distinguished Fellow, The Heritage Foundation
+Oral Statement...................................................     4
+
+Doug Kantor, General Counsel, National Association of Convenience 
+  Stores
+Oral Statement...................................................     7
+
+Josh Roe, Chief Executive Officer, Kansas Corn Growers 
+  Association
+Oral Statement...................................................     6
+
+Shannon Baker-Branstetter, Senior Director, Domestic Climate and 
+  Energy PolicyCenter for American Progress
+Oral Statement...................................................     9
+
+Joseph Goffman, Principal Deputy Assistant Administrator, Office 
+  of Air and RadiationEnvironmental Protection Agency, (Invited)
+
+Sarah Dunham, Director, Office of Transportation and Air Quality, 
+  Environmental Protection Agency, (Invited)
+
+ Opening statements and the prepared statements for the witnesses 
+  are available in the U.S. House of Representatives Repository 
+  at: docs.house.gov.
+
+                           Index of Documents
+
+                              ----------                              
+
+
+  * Letter, May 17, 2023, to EPA, regarding Hearing Appearance; 
+  submitted by Rep. Fallon.
+
+  * Statement for the Record, AFPM; submitted by Rep. Fallon.
+
+  * Graphic; submitted by Rep. Luna.
+
+  * Questions for the Record: to Shannon Baker-Branstetter; 
+  submitted by Rep. Donalds.
+
+  * Questions for the Record: to Doug Kantor; submitted by Rep. 
+  Donalds.
+
+  * Questions for the Record: to Steve Bradbury; submitted by 
+  Rep. Fallon.
+
+The documents listed above are available at: docs.house.gov.
+
+ 
+                  DRIVING BAD POLICY: EXAMINING EPA'S
+                      TAILPIPE EMISSIONS RULES AND
+                        THE REALITIES OF A RAPID
+                      ELECTRIC VEHICLE TRANSITION
+
+                              ----------                              
+
+
+                    Wednesday, May 17, 2023
+
+                        House of Representatives
+
+               Committee on Oversight and Accountability
+
+                Subcommittee on Economic Growth, Energy 
+                     Policy, and Regulatory Affairs
+
+                                           Washington, D.C.
+
+    The Subcommittee met, pursuant to notice, at 2:04 p.m., in 
+room 2154, Rayburn House Office Building, Hon. Pat Fallon 
+[Chairman of the Subcommittee] presiding.
+    Present: Representatives Fallon, Donalds, Perry, Luna, 
+Edwards, Langworthy, Bush, Brown, Stansbury, and Norton.
+    Mr. Fallon. This hearing of the Subcommittee on Economic 
+Growth, Energy Policy, and Regulatory Affairs will come to 
+order. Welcome everyone.
+    Without objection, the Chair may declare a recess at any 
+time.
+    I recognize myself for the purpose of making an opening 
+statement.
+    Today's hearing will examine EPA's newly proposed tailpipe 
+emissions rules for light-, medium-, and heavy-duty vehicles. 
+If finalized, the EPA estimates the rules would require fully 
+electric vehicles to comprise 67 percent, two-thirds, of all 
+new car sales by 2032. Let me be very clear. Republicans are 
+not anti-EV. In fact, my family owns one. My wife has an 
+electric vehicle. It was the right choice for us, it was the 
+right fit, and, you know, free markets work. Republicans are, 
+however, deeply concerned by the Biden Administration's 
+apparent attempt to hijack the auto industry, strangle consumer 
+choice, and determine what products are best for the American 
+people in setting timelines and when.
+    These proposed two rules aim to lower emissions. While we 
+are all working to reduce pollution, these rules are not the 
+answer. In fact, I think there is a very good argument to be 
+made that it is going to increase our carbon footprint. The 
+rules would require an incredibly rapid EV transition that the 
+industry, the grid, and consumer demand cannot keep pace with. 
+It is not realistic in any measure.
+    Further, the critical mineral supply chain is already under 
+stress. Does EPA even know whether there is enough raw material 
+to meet its proposed standards? We do not even have any 
+commitments to expedite critical mineral mining in the United 
+States, at least not one consistent with America's national 
+security. And that is because the only alternative now would be 
+to obtain these needed critical materials. And we are going to 
+have to rely on countries and adversaries, like China and 
+Russia, which is an extraordinarily bad idea.
+    EPA should not propagate standards that force the U.S. to 
+rely on our adversaries just to keep vehicles on the road, our 
+electric grid power running, and the lights on. We hope this 
+hearing will sound an alarm about the cost these two rules 
+would inflict on American consumers, American manufacturers, 
+the American economy, and, quite frankly, our national security 
+as well.
+    Last, I invited two officials from EPA to today's hearing, 
+providing EPA a chance to explain its proposed rules to the 
+Subcommittee, and as you can see, there are two empty chairs. I 
+invited Joseph Goffman, the Acting Assistant Administrator of 
+EPA's Office of Air and Radiation, whose nomination to be the 
+Assistant Administrator is currently pending before the Senate. 
+And I invited Sarah Dunham, the Director of EPA's Office of 
+Transportation and Air Quality. EPA refused to produce these 
+witnesses, suggesting the witnesses would be busy the day of 
+the hearing with meetings with Members of Congress and 
+representatives of the regulated community and because the 
+Agency's EV rules are still open for public comment.
+    A hearing before this Subcommittee, of course, is a meeting 
+with Members of Congress and, quite frankly, the first order. 
+And as the Committee has documented, EPA's officials have 
+previously testified before congressional committees on 
+proposed rules before--let me say it again--before the public 
+comment periods for the rules had closed. Indeed, EPA 
+Administrator Michael Regan himself testified just this month 
+before the Committee on Energy and Commerce, answering Member 
+questions specifically on the very EV rules that are the 
+subject of this hearing today.
+    Under the circumstances of his nomination, I am surprised 
+and disappointed that EPA is refusing to produce Acting 
+Administrator Goffman to appear at today's hearing. If Mr. 
+Goffman is not willing to come testify while his nomination is 
+pending, I am deeply concerned about his commitment to the 
+accountability of Congress and the American people if he is 
+confirmed. I hope the Senate is watching and takes this into 
+account for his refusal to be here today and empty chairing us.
+    Chairman Comer and I also sent a letter today to 
+Administrator Regan expressing disappointment that his 
+officials refused to appear today. And I ask unanimous consent 
+to enter this letter into the record.
+    Without objection, so ordered.
+    Mr. Fallon. As we state in our letter, the EPA is not, nor 
+should it want to be, immune to congressional oversight. That 
+is why we are requesting, again, for Mr. Goffman and Ms. Dunham 
+to appear at a hearing in June.
+    That being said, I want to thank our witnesses who are all 
+willing to appear on such short notice. We look forward to 
+listening to your expertise on this important topic, and the 
+Chair now recognizes Ranking Member Bush for the purpose of 
+making an opening statement.
+    Ms. Bush. Thank you, Mr. Chairman. St. Louis and I rise to 
+convene today's hearing to support the Biden Administration's 
+critical actions to combat climate change and improve the 
+health of our communities. The Administration has been 
+advancing ambitious, yet attainable standards to reduce 
+polluting emissions from vehicles and improve public health.
+    We have only a brief window to act to prevent the most 
+severe consequences of climate change. Reducing emissions from 
+the transportation sector is critical as transportation is now 
+the single largest source of greenhouse gas emissions in the 
+United States. Vehicle emissions are also major contributors to 
+unhealthy air quality. In fact, according to the American Lung 
+Association, ``As of 2020, medium-and heavy-duty vehicles 
+represent only six percent of the on-road fleet, but generate a 
+staggering 59 percent of ozone-and particle-forming emissions 
+and 55 percent of the particle pollution.''
+    The negative effects of polluted air are disproportionately 
+severe on Black, Brown, and indigenous communities. Again, 
+according to the American Lung Association, ``A person of color 
+is 61 percent more likely than a white person to live in a 
+community impacted by unhealthy air.'' We must take steps to 
+reverse these troubling trends and cleanup our communities 
+through strong EPA regulations and enforcement.
+    Under the leadership of President Biden, the EPA has 
+proposed two rules that would keep billions of tons of 
+pollutants from entering our atmosphere from a wide range of 
+vehicles. According to the EPA, adoption of the emission 
+standards proposed just for heavy-duty trucks would, among 
+other benefits, produce, ``up to $29 billion in benefits from 
+fewer premature death and severe health effects, such as 
+hospital admissions, due to respiratory and cardiovascular 
+illnesses.'' Today, however, as you hear fearmongering about 
+these proposed rules, consider both Republicans' unwillingness 
+to acknowledge and combat climate change and protect human 
+health, and then also consider the messenger that they have 
+chosen.
+    Once again, the Majority has invited a witness whose values 
+are far outside the mainstream of this Nation and inconsistent 
+with our Constitution. Mr. Steven Bradbury was an architect of 
+the torture memos drafted under President George W. Bush to 
+allow for the inhumane treatment of detainees abroad. According 
+to the report of the Senate Select Committee on Intelligence, 
+``In May 2005, Principal Deputy Assistant Attorney General 
+Steven Bradbury signed three memoranda that relied on 
+information provided by the CIA that was inconsistent with 
+CIA's operational records.'' One of the memoranda examined 
+``U.S. obligations under the Convention Against Torture.'' That 
+document approved 13 enhanced interrogation techniques 
+including nudity, walling, and the waterboard. These torture 
+techniques did not do the work to make America safer. We are 
+talking about something that is inhumane, despicable, and 
+unjust, and a violation of human rights.
+    While we are speaking about human rights, access to clean 
+air is a human right. With their witness selection today, 
+however, my Republican colleagues have once again shown that 
+they are unable or unwilling to hold a serious conversation on 
+climate change and how we can work together, work together, 
+work together, work together to build a healthier future for my 
+folks in St. Louis and folks all across this Nation. Thank you, 
+and I yield back.
+    Mr. Fallon. I am pleased to welcome to the hearing today 
+our four witnesses, and I thank them for appearing on such a 
+short notice.
+    First, I would like to welcome Steven Bradbury, a 
+distinguished fellow at the Heritage Foundation, with previous 
+experience as the General Counsel of the Department of 
+Transportation and briefly as the Acting Secretary of 
+Transportation. Our second witness today is Josh Roe, the CEO 
+of Kansas Corn Growers Association, who was previously Kansas' 
+Deputy Secretary of Agriculture. Our next witness is Doug 
+Kantor, the General Counsel of the National Association of 
+Convenience Stores, or NACS, who also served as the Special 
+Counsel and Deputy Chief of Staff at the Department of Housing 
+and Urban Development. Our last witness today is Shannon Baker-
+Branstetter, the Senior Director of Domestic Climate and Energy 
+Policy at the Center for American Progress.
+    We look forward to hearing what you have to say today on 
+today's subject, and pursuant to Committee Rule 9(g), the 
+witnesses will please stand and raise their right hands.
+    Do you solemnly swear or affirm that the testimony that you 
+are about to give is the truth, the whole truth, and nothing 
+but the truth, so help you God?
+    [A chorus of ayes.]
+    Mr. Fallon. Let the record show that the witnesses all 
+answered in the affirmative, and we appreciate all of you for 
+being here today. Thank you. Please take your seats.
+    And we appreciate your testimony as well. Let me remind the 
+witnesses that we have read your written statements, and they 
+will appear in full in the hearing record. Please limit your 
+oral comments to five minutes. As a reminder, please press the 
+button on your microphone in front of you so that, you know, we 
+can all hear you. When you begin to speak, the light in front 
+of you will turn green. After four minutes it will turn yellow, 
+and then it will turn red, and that is kind of like the Logan's 
+Run. Wrap it up, you are 30, and you are out the door.
+    I now recognize Steven Bradbury for your opening statement.
+
+                      STATEMENT OF STEVEN BRADBURY
+
+                          DISTINGUISHED FELLOW
+
+                        THE HERITAGE FOUNDATION
+
+    Mr. Bradbury. Thank you, Chairman Fallon, and Congresswoman 
+Norton, and distinguished Members of the Committee. I am 
+grateful for the opportunity to speak with you today about the 
+EPA's proposed tailpipe rules. These proposals are the product 
+of towering arrogance. Conceived as a master plan for the 
+transformation of the auto industry, they come at the expense 
+of America's families, the U.S. economy, and our Nation's 
+security. They exceed EPA's authority and violate the major 
+questions doctrine applied by the Supreme Court in West 
+Virginia v. EPA.
+    First, EPA is usurping the Department of Transportation's 
+exclusive role in setting fuel economy standards. Putting a 
+limit on how much carbon dioxide a gas-powered vehicle emits 
+per mile is functionally the same as a fuel economy standard. 
+While the two authorities do not necessarily conflict, they 
+must be exercised in harmony to respect Congress's design. EPA 
+has ignored that requirement by rendering DOT's role 
+irrelevant. Second, EPA has burst the bounds of its authority 
+by using tailpipe regulation to coerce a faster and more 
+expansive conversion to electric vehicle production than market 
+demand can support. EPA plans to ratchet down the emissions 
+limits for both carbon dioxide and criteria pollutants, to 
+levels so stringent, the auto industry will have no choice but 
+to shift more production to EVs.
+    The proposed limits are calculated to force the percentage 
+of EV sales to increase nationally until they reach the Biden 
+Administration's desired goals. For passenger cars and light 
+trucks, that means 60 percent of total U.S. sales by 2030 and 
+67 percent by 2032. EV sales today are around six percent. This 
+scheme is very similar to the clean power plan struck down in 
+West Virginia v. EPA, where EPA tried to reduce carbon dioxide 
+emissions by forcing electricity generators to shift production 
+from coal to wind and solar. The Court held that no part of the 
+Clean Air Act gives EPA license to ``restructure entire 
+markets'' through transformative regulation.
+    Absent clear and specific delegation by law of the 
+administrative power the Agency claims, it is Congress' job to 
+decide the ``consequential tradeoffs involved in such vital 
+considerations of national policy.'' The exact same is true of 
+EPA's proposals to force a massive shift in the automotive 
+market, which will have enormous economic and political 
+consequences for the American people.
+    The price of all new vehicles will rise dramatically under 
+these rules, and America's families will lose many of their 
+favorite options at the dealership. Lower-income and rural 
+Americans will be stuck driving older and older used vehicles, 
+which are far less safe, so highway deaths and injuries will 
+climb. Countless jobs will be lost in the U.S. auto industry 
+while employment surges in China, as the U.S. becomes 
+desperately dependent on China for the production of critical 
+minerals and other inputs needed for EVs.
+    The rapid transition to electric cars and trucks will put a 
+tremendous strain on our fragile grid and require a huge 
+increase in electricity production. Just as the EPA has 
+announced, it wants to shut down fossil fuel power plants. 
+Electricity prices will inevitably spike for all Americans as a 
+result, and even if it were fully carried out, EPA's grand 
+scheme will have no meaningful effect on global temperatures. 
+That is because among other things, China's production of 
+energy from dirty coal will just keep jumping higher.
+    Mr. Chairman, these are issues of life, liberty, and 
+prosperity, fundamentally political in nature. Under our 
+constitutional republic, it is for Congress alone to make the 
+monumental decisions EPA is assuming for itself in these 
+proposed rules. Thank you.
+    Mr. Fallon. Thank you. The Chair now recognizes Josh Roe 
+for your opening statement.
+
+                         STATEMENT OF JOSH ROE
+
+                        CHIEF EXECUTIVE OFFICER
+
+                    KANSAS CORN GROWERS ASSOCIATION
+
+    Mr. Roe. Good afternoon, Chairman Fallon, Congresswoman 
+Norton, and Members of the Committee. My name is Josh Roe, and 
+I serve as the CEO of the Kansas Corn Growers Association, and 
+I am also a seventh generation farmer in North-Central Kansas. 
+The Kansas Corn Growers Association represents farmers on state 
+and national legislative and regulatory issues and actively 
+works with other organizations to maximize the voice of Kansas 
+corn producers.
+    The agricultural and liquid fuels industries stand at the 
+ready to assist in reducing air pollution. Unfortunately, 
+current and proposed EPA rules prevent us from being a part of 
+the solution and adversely impact low income and rural citizens 
+across the United States. Increased public and private 
+investment in an all-electric transportation system is being 
+driven by the desire to reduce greenhouse gas emissions with 
+lofty goals to achieve carbon neutrality. While we believe that 
+electric vehicles will play a vital role in achieving these 
+goals, other complementary alternatives, such as biofuels, have 
+a key role to play but are being pushed aside. High-octane, 
+low-carbon fuels containing higher biofuel content reduce 
+emissions, both because they are less carbon intensive to 
+produce and because higher octane means significant gains in 
+fuel economy.
+    These next-generation fuels can save consumers money and 
+are compatible with 97 percent of vehicles on the road today. 
+In other words, high-octane, low-carbon fuels offer a solution 
+to air quality problems, combat inflation, and do not require a 
+publicly funded overhaul of our transportation infrastructure 
+or require consumers to purchase vehicles that may not be 
+compatible with their way of life. EVs are $10,000 to $25,000 
+more expensive than comparable internal combustion engine 
+vehicles, placing them out of reach for many consumers, 
+including those in rural America where median incomes are lower 
+than that of urban areas.
+    The EPA defines EVs as zero-emission vehicles. However, EVs 
+are not truly zero-emission vehicles. While they do not have a 
+tailpipe, you still need to account for the emissions that come 
+from the power grid. The U.S. power grid is currently 60 
+percent powered by coal and natural gas. Current and proposed 
+EPA rules do not account for these upstream emissions when 
+calculating compliance, let alone additional emissions and 
+toxic pollution generated by mining rare earth minerals around 
+the world. Given the makeup of today's power grid, vehicles 
+running on high-octane, low-carbon fuels provide very similar 
+greenhouse gas emission savings compared to EVs. Plug-in hybrid 
+EVs operating on E85 can be even cleaner as they have the 
+potential to take advantage of low-carbon ethanol in their 
+combustion engines and a low-carbon electricity grid while in 
+battery mode.
+    The proposed EPA standards allow the automakers to use a 
+zero-grams-per-mile compliance value for EVs and set emission 
+standards such that the only way to comply is by shifting 
+production to nearly 70 percent EVs in the next decade. Meeting 
+these goals will be extremely costly, requiring a massive 
+amount of public spending in electrical infrastructure, a 
+complete retooling of auto production plants, and a change in 
+where materials are sourced.
+    By contrast, high-octane, low-carbon fuel standards, such 
+as those proposed in the Next Generation Fuels Act, reduce 
+emissions, require minimal public investment. Instead of 
+mandating a technology, a high-octane, low-carbon fuel standard 
+simply removes regulatory barriers and sets tech-neutral 
+benchmarks. The bill's co-sponsors include Chairman Comer and 
+Congresswoman McClain.
+    In conclusion, today, there are more than 271 million 
+light-duty vehicles on the roads in the Unites States, and less 
+than one percent of them are battery operated. These existing 
+vehicles, along with those that are produced in the next 
+decade, will consume over 1 trillion gallons of fuel. Ninety 
+percent of all vehicles on the road today are warrantied for 
+E15, and using E15 just in all compatible vehicles would reduce 
+carbon emissions by 280 million tons in the next decade. If the 
+Administration's goal is to improve air quality, they should 
+look at solutions that will make a difference now rather than 
+going all in on a more expensive technology that will limit the 
+mobility of low-income American households.
+    I thank you for the opportunity to provide this testimony.
+    Mr. Fallon. Thank you, and I now recognize Doug Kantor for 
+your opening statement. OK. That is why we give you the 
+instructions because sometimes it doesn't work out our way.
+    Mr. Kantor. All right.
+    Mr. Fallon. I apologize.
+    Mr. Kantor. Trying my best here.
+    Mr. Fallon. Thank you for adapting and overcoming. You 
+would make a good Marine.
+    Mr. Kantor. Not a problem.
+
+                        STATEMENT OF DOUG KANTOR
+
+                            GENERAL COUNSEL
+
+               NATIONAL ASSOCIATION OF CONVENIENCE STORES
+
+    Mr. Kantor. I really appreciate the opportunity to testify 
+today before this Committee to make clear the convenience store 
+industry's position on these really important questions.
+    Our folks, just to give you a sense, sell 80 percent of the 
+motor fuels that are used around the country today. There are 
+150,000 stores. Sixty percent of those are single-store 
+operators. Sixty-five percent of those are folks who own 10 
+stores or fewer. They are incredibly close to their customers 
+and what they want, and the only thing that our industry wants 
+here is to be able to sell their customers whatever type of 
+energy they want for their vehicles. We do not care if that is 
+electricity, if that is traditional motor fuels, if it is 
+renewable fuels. That is all great to us. If our customers want 
+it, our folks want to sell it to them.
+    We are enthusiastic in moving into electricity. It is an 
+important part of the future of the industry, just as 
+traditional motor fuels are an important part of the future of 
+the industry. We do see there are important and difficult 
+impediments that we have got to deal with and we think EPA has 
+to grapple with and fully analyze to get to the best outcomes 
+here.
+    Our concern with EPA's proposal, as it stands, is that it 
+does not do enough in the right areas. EPA focuses on tailpipe 
+emissions, not emissions through the lifecycle of these 
+different vehicles, and that has profound consequences for the 
+answers you get. All vehicles have emissions. It is just a 
+question of where they occur, right? It may be in electricity 
+generation. It may be coming out of a tailpipe. It may have to 
+do with the manufacturing process to get there. We should be 
+looking at all of those things to get to the right answers. 
+EPA's rule does not do that.
+    In the proposal, they say that is because, well, 
+traditional motor fuels, we do not look at that. But of course, 
+the regulatory structures that came into place for traditional 
+motor fuels came into place a long time ago when all of them 
+ran on petroleum-based fuels, there was no reason to analyze 
+where those other emissions came from. Now there is, and we 
+ought to do that, and we ought to get that right, in part 
+because lots of liquid fuels do today and can in the future 
+reduce carbon emissions, greenhouse gas emissions, reduce 
+criteria pollutants. And frankly, to get to the best answer, we 
+need those gains, too. We cannot afford to focus on just one 
+technology at the expense of improvements that need to be made 
+in other technologies, too.
+    And you have already heard some about renewable fuels. We 
+are big fans of renewable fuels, too. They definitely cut the 
+carbon intensity of fuels. And the best way to go about this, 
+from our perspective, is set up a competition so that all these 
+different types of vehicles and types of fuels all have to 
+fight each other to achieve the best results, the best results 
+we want in terms of a performance standard from an 
+environmental perspective.
+    And frankly, we think that will fit better with the 
+consumer sentiment that is out there. You give consumers an 
+opportunity to make decisions with real price cues, they will 
+make good decisions. And part of the challenges we see out 
+there include that these questions play out very differently in 
+different regions around the country.
+    Depending on the electricity grid in a state where a car is 
+driven, that car may be much more efficient from an 
+environmental perspective as an electric car. In some states, 
+that is definitely true. In some states, a hybrid electric 
+vehicle actually performs better than a battery electric 
+vehicle because of the inputs to the grid, and in a small 
+number of places, an internal combustion engine performs 
+better, and that is just today. Those things can all change 
+over time, and we ought to be incentivizing those changes to 
+happen over time.
+    One thing that we are very concerned about, are the 
+problems with getting to more electric vehicle charging 
+infrastructure. The electricity markets are not set up in a 
+consumer-friendly way to allow people who drive electric 
+vehicles to have the benefits of the market that traditional 
+gasoline-powered cars' drivers have today. That needs to 
+change. There is a report out just today from a group called 
+Grid Strategies that looks at clean energy, detailing a number 
+of those market changes that we all need if we are going to get 
+to significant private investment that increases the capacity 
+in these areas.
+    So, I am pleased to be with you. I am pleased to talk about 
+additional impediments in this area, and I am glad that the 
+Subcommittee is looking into it. Thank you.
+    Mr. Fallon. Thank you, and I now recognize Shannon Baker-
+Branstetter for your opening statement.
+
+                           (MINORITY WITNESS)
+
+                 STATEMENT OF SHANNON BAKER-BRANSTETTER
+
+                            SENIOR DIRECTOR
+
+                   DOMESTIC CLIMATE AND ENERGY POLICY
+
+                      CENTER FOR AMERICAN PROGRESS
+
+    Mx. Baker-Branstetter. Thank you, Chair Fallon, 
+Congresswoman Norton, and Members of the Subcommittee. I 
+appreciate the opportunity to testify today.
+    Reducing emissions from the transportation sector is a huge 
+opportunity to improve public health, fight climate change, and 
+build domestic supply chains. Transportation is the No. 1 
+source of greenhouse gas emissions, and passenger and heavy-
+duty vehicles are the largest contributors within 
+transportation. In addition to carbon pollution, heavy-duty 
+vehicles produce ozone, soot, and air toxics, which are 
+especially harmful to children's developing bodies.
+    Fortunately, automakers and governments are investing in 
+cleaner vehicles, and vehicle emission standards can help 
+solidify this progress. Without strong climate, labor, and 
+industrial policy that positions the U.S. to be a leader in 
+electric vehicle technology and production, the U.S. will lose 
+out to global competitors, especially China, which has been 
+investing heavily in electric vehicle technology and 
+manufacturing. The U.S. is now taking the necessary actions to 
+catch up to the competition and make up for lost time through 
+the combination of vehicle standards and investments from the 
+infrastructure bill and Inflation Reduction Act to build 
+charging infrastructure, onshore manufacturing, and build a 
+robust domestic supply chain.
+    Last month, EPA proposed new multi-pollutant standards for 
+light-, medium-, and heavy-duty vehicles. These standards are 
+technology neutral and can be met by a variety of technologies, 
+including improved efficiency, hybrids, battery electric, and 
+fuel cell vehicles. Electric vehicles are cost-effective way to 
+comply with these standards, and the likely compliance pathway 
+could result in 67 percent of new light-duty vehicle sales 
+being electric by 2032, and 25 to 50 percent of new heavy-duty 
+vehicles electrifying. These new standards will cut pollution 
+from light-duty vehicles by over 56 percent in 2032, and EV 
+buyers can expect to save over $7,000 over the life of a 
+vehicle.
+    The heavy-duty standards would reduce emissions equivalent 
+to eliminating all greenhouse gas emissions from the entire 
+current U.S. transportation sector for a whole year. Both 
+proposed rules are achievable and would deliver hundreds of 
+billions of dollars in net benefits, including avoided deaths 
+and hospitalizations as well as fuel savings. In fact, the 
+standards could be even stronger. The ICCT finds that EV sales 
+are likely to be 67 percent by 2032, even without standards 
+from the EPA. Federal standards give the clear signal that 
+market trends will continue and positions the U.S. as a leader 
+in developing and deploying electric vehicles.
+    In addition to fuel savings, electrifying the vehicle fleet 
+provides many advantages over internal combustion engines, 
+including climate and health benefits, a more resilient and 
+flexible electric grid, and improved national security. Thanks 
+to lower pollution from EVs, electrifying transportation could 
+avoid 110,000 premature deaths in the U.S. by 2050. EVs can 
+also enhance grid reliability and emergency response. EVs can 
+provide backup power or heating, as demonstrated in Texas' 
+blackouts and Florida power outages.
+    In 2021, the adoption of electric vehicles displaced nearly 
+100,000 barrels of oil per day in the U.S., which is more than 
+half the amount of oil the U.S. imported from Russia that year. 
+Electricity is a more diverse energy source, that is homegrown 
+and has greater price stability compared to gasoline and 
+diesel. Last year, gasoline prices rose 10 times faster than 
+electricity prices. Electric vehicles save consumers money, and 
+EV prices are already dropping. EVs cost an average of 60 
+percent less fuel than gas-powered vehicles and 50 percent less 
+to maintain. These cost savings are significant, especially for 
+rural households who drive farther distances and pay more in 
+maintenance costs.
+    A recent study showed that rural households may save twice 
+as much from switching to an EV compared to their urban 
+counterparts. IRA and infrastructure investments are making EVs 
+more affordable for low-and middle-income households, and are 
+supporting manufacturing and procurement of EVs, batteries and 
+critical minerals, to onshore and friend-shore critical 
+components and set a productive and competitive course for the 
+U.S.
+    The transition to electric vehicles is already underway. 
+Between August and January, electric vehicle and battery 
+manufacturing announced over 87,000 new jobs, and the last 
+eight years have seen over $120 billion in private investment 
+in EVs. Many IRA investments align with supporting good jobs, 
+but more pro-labor policies are still needed. It is also 
+incumbent on industry, from established companies to new 
+entrants, to not push down working standards but instead 
+partner with unions to lift up the livelihoods of the people 
+who will build America's EV future.
+    In conclusion, the United States cannot afford to be left 
+behind on electrification while the rest of the world 
+transitions to cleaner technologies. To beat out global 
+competition and avoid the worst impacts of climate change, we 
+must move forward with policy solutions that align with global 
+trends, automaker investments, and consumer demand to put the 
+United States in a lead on electric vehicles, while creating 
+good jobs, lowering consumer costs, and ensuring a safer, more 
+secure world for ourselves and future generations. Thank you, 
+and I am happy to answer questions.
+    Mr. Fallon. Thank you. I now recognize myself for five 
+minutes of questions.
+    Mr. Bradbury, the Committee is deeply concerned that the 
+EPA declined our invitation to be here today. As you can see to 
+your right, there are two empty chairs. As I mentioned in my 
+opening statement, the EPA claimed that they are not able to 
+discuss rules while the comment period is still open. As the 
+former General Counsel for the Department of Transportation, do 
+you agree with EPA's reasoning for their refusal?
+    Mr. Bradbury. No, Mr. Chairman, I do not. The EPA published 
+close to 2,000 pages of detailed explanation and analysis 
+explaining to the world its rules. And I think plenty of 
+questions to be asked about that detailed analysis, and the 
+experts at the EPA who were intimately involved in it, I think, 
+should appear before the Congress and answer questions.
+    Mr. Fallon. So, it does not square with you that those 
+chairs are empty, does not make a lot of sense, at least the 
+excuse that they gave?
+    Mr. Bradbury. No, it does not. I would expect they probably 
+briefed the press about the rule when they published it so that 
+they would get favorable stories in the press, so I think they 
+could brief Congress.
+    Mr. Fallon. Well, yes. What concerns me, too, is that we 
+are supposed to be a rule of law Nation, but it seems like we 
+are concerned with these unelected bureaucrats with the law of 
+the rule. And it is like a dictatorship, not by the 
+proletariat, but a dictatorship of the bureaucracy compelling 
+consumers. I made a choice to buy an electric vehicle. My wife 
+wanted one. I like to keep her happy. You know, that is the way 
+it goes. But that was our choice, and it fit our needs, not to 
+compel and mess with the free market, because I think the free 
+markets are largely the best answer.
+    Just last year--you mentioned something in your opening 
+statement, too--just last year, the Supreme Court slapped down 
+the EPA when it was West Virginia v. EPA for abusing the Clean 
+Air Act. Do you think that these rules are going to pass 
+judicial muster considering the precedent that has already been 
+set by the Supreme Court?
+    Mr. Bradbury. I do not think so. Ultimately, I do think the 
+courts will strike it down. You cannot predict how courts will 
+decide cases and when they will decide cases, so it is possible 
+rule will go into effect and have serious consequences in the 
+interim. And so, I think that this is a case where Congress 
+should consider its authority under the congressional Review 
+Act should these rules go into effect as proposed.
+    Mr. Fallon. Well, from my research we found that EV, they 
+account for, I think it is six percent of the total market 
+share right now new cars. And to go from 6 percent to 67 
+percent in nine years, and we can all disagree on whether or 
+not a good idea, but that is not going to happen. Just wait and 
+see in nine years. If we are still having this job, we are 
+going to see that we didn't come anywhere close to that. It is 
+just unachievable. And you are not living on earth, if you 
+think that is the case, you live on an orbit around Neptune or 
+one of those moons.
+    You said in your written statement, Mr. Bradbury, ``If 
+every country in the world achieved its stated EV targets by 
+2030, the total savings in carbon dioxide emissions would be 
+expected to reduce global temperatures by only 0.0002 degrees 
+Fahrenheit by the year 2100.'' Given this fact, is it 
+unilaterally gutting the U.S. auto market critical mineral 
+supply chain and the grid stability? Is that the solution for 
+addressing the temperature goals?
+    Mr. Bradbury. Well, I do not think so, but, you know, as we 
+have heard today, very weighty considerations. It is really for 
+Congress to balance these considerations. That is my 
+fundamental point. The executive branch carries out the law. It 
+does not make the law. These proposals----
+    Mr. Fallon. Well, could you say it again?
+    Mr. Bradbury. It needs reminding. The executive branch 
+carries out the law. It does not make the law.
+    Mr. Fallon. OK. It does not make law. Carries it out, 
+right. OK.
+    Mr. Bradbury. Right. That is the way----
+    Mr. Fallon. It seems like it is making law through their 
+unelected bureaucrats, but I digress. Mr. Roe, the raw 
+materials in one long-range battery electric vehicle could 
+instead be used to make six plug-in hybrid electric vehicles. I 
+was talking to Toyota last month about this, and for the same 
+limited resources, instead of replacing one internal combustion 
+engine vehicle, you can replace 90. The overall carbon 
+reduction of those 90 hybrids over their lifetime is 37 times 
+as much as a single vehicle. Could these rules actually cause 
+more carbon emissions rather than less?
+    Mr. Roe. Thank you for the question, Chairman Fallon, on 
+that. What we have seen, as I have mentioned in my testimony 
+before, if we improve the quality of the fuel going into the 
+plug-in hybrid vehicles, we can take advantage of two things. 
+We can take advantage of the technology improvements in the 
+liquid fuel space, add more carbon capture sequestration at the 
+biofuel level, more carbon sequestration from the feedstocks 
+there. As the electricity grid gets more efficient through 
+that, if we utilize that piece there, it works together to 
+actually reduce emissions by greater than a battery electric 
+vehicle alone.
+    Mr. Fallon. Thank you, and my time has expired. Thank you 
+all. The Chair now recognizes Ms. Norton for your five minutes.
+    Ms. Norton. Thank you, Mr. Chairman. Unlike my Republican 
+friends, Democrats are working to ensure the United States is 
+taking urgent action to combat climate change. Yet at every 
+turn, while the Biden Administration is working to set 
+ambitious, yet attainable goals to reduce emissions, 
+Republicans are bent on halting any sort of progress toward 
+securing a sustainable future for the American people.
+    As a senior Member of the Committee on Transportation and 
+Infrastructure and the Chair of the Subcommittee on Highways 
+and Transit in 117th Congress, I was deeply involved in 
+crafting the bill that served as the basis for the bipartisan 
+once in a generation, Infrastructure Investment and Jobs Act, 
+also known as the Bipartisan Infrastructure Law. Mx. Baker-
+Branstetter, how will the bipartisan infrastructure bill and 
+other legislation enacted last year help to catalyze a more 
+sustainable future for the Nation?
+    Mx. Baker-Branstetter. Thank you for the question. So, in 
+the infrastructure law, there were quite a few investments in 
+charging infrastructure throughout the country, both in 
+highways as well as in rural and underserved areas. There is 
+also the electric school bus investments to help electrify our 
+children's school buses, and the Inflation Reduction Act, which 
+was just passed last year, it really accelerated a lot of the 
+tax credits, incentives and grants for electric vehicles, 
+including used vehicles, for low-and moderate-income 
+households, as well as a lot of manufacturing incentives, 
+including domestic content requirements. So, we are really 
+going to see a lot of the vehicle components and the vehicles 
+made here in the U.S., and also going to see them be more 
+accessible to American buyers.
+    Ms. Norton. Well, continuing with you, the Infrastructure 
+Investment and Jobs Act provided billions of dollars to help 
+build electrical vehicle charging infrastructure on the 
+National Highway System. Is the auto industry working fast 
+enough to advance the transition to electric vehicles? If so, 
+can you explain how and why?
+    Mx. Baker-Branstetter. So, we have about nine domestic 
+automakers who made commitments to electrify their entire 
+vehicle fleet between 2030 and 2040, so that is quite a big 
+range. So, those who have committed to the closer on this 2030 
+timeframe definitely seem to be making the right commitment and 
+taking it seriously. We are also seeing tremendous battery 
+investments throughout the country. Dozens of new plants have 
+opened in the last year. And so, I think that automakers, 
+especially laggard automakers, may still need to be pushed, but 
+we are seeing leadership from quite a few domestic 
+manufacturers as well.
+    Ms. Norton. All right. Continuing with you, in September 
+2022, the U.S. Department of Transportation announced, ``More 
+than two-thirds of electric vehicle infrastructure deployment 
+plans for states and the District of Columbia and Puerto Rico, 
+have been approved ahead of schedule under the National 
+Electric Vehicle Infrastructure Formula Program established and 
+funded by President Biden's infrastructure law.'' So, I am 
+proud of the bipartisan work done by the 117th Congress to move 
+the United States toward a more sustainable future.
+    I also commend the Biden-Harris Administration for its work 
+implementing the critical policy measures enacted during the 
+117th Congress, and for working to combat climate change 
+through such measures as the proposed EPA tailpipe rules. I 
+look forward to continuing a bipartisan productive oversight to 
+ensure that the promises of these historic bills are fulfilled, 
+and I yield back, Mr. Chairman.
+    Mr. Fallon. Thank you. The Chair now recognizes Mr. Donalds 
+from Florida.
+    Mr. Donalds. Thank you, Mr. Chairman. Thank you, witnesses. 
+I always find it interesting when we go over this topic. One 
+thing, let us be clear, the EPA has no authority for this role. 
+Once again, we have another agency somewhere in this 
+Administration coloring in the outsides of whatever their 
+congressional purview is. And this Administration is more than 
+comfortable doing it because they know they cannot come to the 
+Congress to get the votes for what they want to do. That is why 
+EPA is doing this. I know that is a different Committee I sit 
+on, but that is why the SEC is doing what the SEC does, and we 
+can go all through the alphabet soup agencies.
+    Mr. Bradbury, a couple of things. I want to just get to a 
+couple of key areas here. I lost my place, here we go. True or 
+false, President Biden says he wants 50 percent of new cars to 
+be electric by 2030?
+    Mr. Bradbury. True, but I guess now it is 60 percent.
+    Mr. Donalds. OK. True or false, in order to meet Tesla's EV 
+needs, and this is only Tesla by the way, by 2030 global 
+lithium supply must be increased by X times?
+    Mr. Bradbury. Oh, it definitely has to increase somehow. We 
+do not know from where. It has to increase greatly, yes.
+    Mr. Donalds. OK. True or false, a typical electric car 
+requires six times the mineral inputs of a conventional car?
+    Mr. Bradbury. Yes.
+    Mr. Donalds. True or false, the nuclear energy is the most 
+viable option for a steady stream of reliable, affordable, 
+carbon-free, electricity to power EV charging stations 24 hours 
+a day, 7 days a week, 365 days a year?
+    Mr. Bradbury. I am sorry. What?
+    Mr. Donalds. Nuclear power?
+    Mr. Bradbury. Yes. That is my understanding.
+    Mr. Donalds. OK.
+    Mr. Bradbury. Not an expert.
+    Mr. Donalds. That is fine. Last question. If 50 percent of 
+the cars were electric vehicles today, is there enough power on 
+the electric grid to charge them all?
+    Mr. Bradbury. Absolutely not. No.
+    Mr. Donalds. I want to circle back to one thing, and Mx. 
+Baker-Branstetter, I was listening to your testimony. We kind 
+of established the fact pattern that in order to accomplish 
+what I believe you do support, we would have to massively 
+expand lithium mining, not to mention other mining capacities. 
+Currently in the world today who dominates lithium mining?
+    Mx. Baker-Branstetter. So, lithium processing is dominated 
+by China. It is mined in several other places as well.
+    Mr. Donalds. Do you know some of the countries where it is 
+mined?
+    Mx. Baker-Branstetter. In South America as well.
+    Mr. Donalds. South America. Any other places? Are they 
+mining in Africa?
+    Mx. Baker-Branstetter. Lithium? I do not think it is a 
+major lithium producer, no.
+    Mr. Donalds. OK. Are they mining cobalt in Africa?
+    Mx. Baker-Branstetter. Yes.
+    Mr. Donalds. Is cobalt necessary for an electric vehicle?
+    Mx. Baker-Branstetter. It is in the dominant chemistry, at 
+the moment, yes.
+    Mr. Donalds. OK. Let me ask you this question. You say in 
+your testimony that, essentially referring to the current 
+internal combustion engine, that in addition to carbon dioxide, 
+heavy-duty vehicles emit or contribute to ozone, particulate 
+matter, nitrogen oxides, sulfur oxides, carbon monoxide, and 
+other air toxins that are especially harmful to children's 
+developing bodies. Are you aware that the Chinese use child 
+slave labor in some of their mines to mine critical minerals?
+    Mx. Baker-Branstetter. Yes, and in Africa as well. That is 
+why we need to onshore and friend-shore the supply chain. We 
+should clean it up, and we should be very involved and be a 
+leader in this space.
+    Mr. Donalds. Do you think that the United States should 
+even be dealing with electric vehicles right now considering 
+all critical minerals come from mines that employ child slave 
+labor?
+    Mx. Baker-Branstetter. So, like I said, it is important for 
+us to move in the right direction, and the IRA incentives are 
+helping us do that, both for domestic content as well as 
+critical minerals coming from safer places.
+    Mr. Donalds. I got a question for you. Since the EPA is so 
+enthralled with what is coming out of the tailpipe of an 
+average American, is the same EPA going to be just moving 
+through the permitting for new lithium mines and other mines in 
+the United States? Are they going to also want to put that off 
+on other countries?
+    Mx. Baker-Branstetter. So, lithium mining is on the table 
+in the United States.
+    Mr. Donalds. On the table? Define, explain that.
+    Mx. Baker-Branstetter. That there are permits that are 
+currently pending.
+    Mr. Donalds. So, the EPA that wants to ban gas stoves and 
+is concerned about what is coming out of a tailpipe, now wants 
+to allow lithium mining in the United States. They are just 
+going to say, oh yes, cool, let us do it?
+    Mx. Baker-Branstetter. So, mining definitely needs to be 
+done in a safer way. The U.S. and North America can do it safer 
+than other places. This is true for all mining for all consumer 
+products and everything, including additional vehicles.
+    Mr. Donalds. I am glad you said that because I actually 
+agree with that point. The United States can actually mine for 
+all these critical minerals, whether it is right here at home, 
+which means jobs for Americans, but also in friendly places 
+around the globe. We can actually do that better and we do it 
+cleaner than the Chinese do. My concern is that the EPA's 
+radical push toward electric vehicles, what that is really 
+going to do, it is going to price out the very poor. Poor 
+people do not have money to buy an electric vehicle. I know 
+because I grew up poor. We did not even have a car.
+    So, then if I just have a car, you tell me that I have to 
+spend $20,000 more to buy an electric vehicle, I just find that 
+to be crazy because that disrespects my pocketbook. It 
+disrespects the pocketbook of every American on the lower side 
+of our economic spectrum. Wouldn't you agree with that?
+    Ms. Baker-Branstetter. So, EVs are dropping in price, and 
+the standards from EPA are for new vehicles.
+    Mr. Donalds. Mr. Chairman, I know I am out of time. Quick 
+question for my indulgence. What is cheaper, an internal 
+combustion used car or electric used car?
+    Ms. Baker-Branstetter. It depends on the vehicle class and 
+type.
+    Mr. Donalds. Come on. I yield back.
+    Mr. Fallon. Thank you. The Chair now recognizes Ms. Brown 
+from Ohio.
+    Ms. Brown. Thank you, Mr. Chairman, and thank you to our 
+witnesses. I applaud the Environmental Protection Agency for 
+putting rules into place that are smart, aggressive, and 
+impactful for communities across America. The EPA's tailpipe 
+emissions rules are critical for tackling climate change and 
+will have particular benefits for communities of color, who 
+suffer an unequal burden of climate pollution.
+    As we know, the impacts of climate change and poor air 
+quality are not felt evenly. On average, Black and Brown 
+communities face greater exposure to the particles in the air 
+that make us sick. Many of these harmful particles are pumped 
+into the air by vehicle emissions making us sicker than we 
+would otherwise be. Communities that are located near heavily 
+trafficked roads and highways, the communities that make up 30 
+percent to 45 percent of the urban population in North America, 
+have higher rates of diseases like asthma, pulmonary illnesses, 
+and cardiovascular disease.
+    According to the American Lung Association, ``Zero emission 
+trucking will not only cut harmful air and climate pollution 
+broadly, it will provide much needed relief in local 
+communities most impacted by pollution.'' The American Lung 
+Association identified Cuyahoga County among the communities 
+expected to see significant health benefits from the transition 
+of heavy-duty trucks to zero emission vehicles. In fact, 
+Cuyahoga County will save an estimated $5.1 billion in health 
+costs and avoid 467 premature deaths between 2020 and 2050, 
+from the new EPA rule.
+    Mx. Baker-Branstetter, how does the EPA's tailpipe 
+emissions rule protect the health and wellbeing of the American 
+people?
+    Mx. Baker-Branstetter. Thank you for the question. So, the 
+light-duty and medium-duty standards are expected to have $280 
+billion in public health benefits. And that means lives saved, 
+asthma avoided, as well as the consumer benefits, which are 
+$1.3 trillion in fuel savings for all families.
+    Ms. Brown. Thank you for that. Additionally, EPA 
+regulations are steering the auto industry toward a clean 
+energy future that ensures good-paying jobs for millions of 
+Americans. These are the long-term jobs of the future, jobs in 
+advanced manufacturing and green technologies. So, Mx. Baker-
+Branstetter, how and why does the increased production of 
+electric vehicles create good-paying American jobs?
+    Mx. Baker-Branstetter. So, the Inflation Reduction Act has 
+quite a few strings attached to the tax credits and some of the 
+grants that will support domestic content and domestic 
+assembly. And we have already seen, just last week, that 
+Bluebird bus manufacturing recently unionized in Georgia, which 
+is really historic, so that is great news, and building on the 
+good work that unions are doing to deliver good jobs and good 
+benefits so that people can have family sustaining wages and 
+careers.
+    Ms. Brown. Excellent. Thank you. In Ohio's 11th 
+congressional District, there are already over 12,000 clean 
+energy jobs as defined by environmental entrepreneurs and 
+national group of business leaders, investors, and 
+professionals. As a result of the Biden's Administration 
+policies and the work of congressional Democrats, Climate Nexus 
+reports that the transition to electric vehicles will result in 
+two million more American jobs by 2035. That is on top of the 
+12.8 million jobs that have already been created. Their 
+research also shows that every new auto job creates over seven 
+additional jobs from the resulting economic activity. 
+American's clean energy future is a win for our health, our 
+environment, and our economy. And with that, Mr. Chairman, I 
+yield back.
+    Mr. Fallon. Thank you. The Chair now recognizes Mrs. Luna 
+from Florida.
+    Mrs. Luna. Thank you. I just wanted to follow up on 
+something Representative Donalds had pointed out and mentioned 
+that the average median household income is roughly about 
+$70,000 in 2021, which is a decrease from the year prior, not 
+to mention how devalued our current U.S. dollar is. So, to talk 
+about electric vehicles being cheaper for those that are less 
+fortunate and live in rural communities, I think, is an 
+absolute farce.
+    But I did want to point out, being that we are oversight, 
+we all know with what happened last week that the Biden 
+Administration, the Biden family has a history and apparently 
+transactions of really benefiting themselves and those that 
+help them. I wanted to submit this to record, Chairman. It is a 
+diagram that my team put together, and it has the slush fund of 
+political donors and companies that helped to elect Joe Biden 
+and those that are receiving the very same green initiatives.
+    Mr. Fallon. Without objection, so ordered.
+    Mrs. Luna. Perfect. So, just to kind of explain it here, 
+and then I will get to my question. Starting in February 2023, 
+Biden's Department of Energy shelled out nearly $3 billion in 
+loans to two electric battery companies, Redwood Materials and 
+Ioneer. The two companies are backed from funding from both 
+Bill Gates and Powell of which Bill Gates poured $127 million 
+into a liberal dark money network to elect Democrats. And then 
+in July 2021, Redwood raised $700 million from a group of 
+investors that included, again, both Gates and Powell, of which 
+Powell gave jobs exclusively to leftist candidates and 
+political groups that raised over $2 million. It goes forward 
+to say that Ioneer won a $700 million loan from the Biden 
+Administration and saw its stock price increased by 33 percent 
+after the announcement.
+    And I would just like to point out that the Biden 
+Administration did not invite Tesla to their EV event that they 
+had at the White House. That is probably because Elon Musk is 
+very based and does not have much to say about this 
+Administration or their impact on the environment. And then I 
+would like to go forward and say that John Arnold, who gave 
+$13.5 million to one liberal dark money group from 2016 to 
+2020, also contributed in helping elect this Administration. 
+So, to say that this Administration is really working in the 
+best interest of the Green Movement and protecting the 
+environment, I think, according to the facts, is false.
+    My questions, though, are for Mr. Bradbury. What should we 
+do when we are told to evacuate ahead of hurricanes? I am in 
+the state of Florida. The electric grid is overloaded, and we 
+are stuck in a standstill traffic for hours, and tens of 
+thousands of people are pouring onto our freeways.
+    Mr. Bradbury. I guess you would have to hitchhike to 
+somebody who has an internal combustion engine car. I think 
+that is why a lot of consumers are concerned right now, a 
+little skeptical about whether an EV is the right choice for 
+them. They are not sure whether they will have convenient 
+access to charging. And in California, we see some rationing 
+and restrictions on the hours when people can charge, and I 
+think that concerns a lot of people. There are a lot of 
+question marks in exactly that area.
+    Mrs. Luna. I did want to bring up--is it, Branstetter? Did 
+I say that correctly?
+    Mx. Baker-Branstetter. Baker-Branstetter.
+    Mrs. Luna. Baker. Baker, if that is OK with you. So, I am a 
+part of the House Democracy Coalition, and I just got back from 
+a CODEL where we actually met with some of those countries that 
+are now looking into doing lithium mining, right. But one of 
+the countries that we met with, specifically, that you said, 
+you know, is going green was South Korea, and it was 
+interesting for us because we did ask them, well, are you going 
+to be embracing nuclear energy. Are you completely shutting out 
+petroleum? And they said that it would be basically something 
+that would be detrimental to their people if they were to 
+completely just go from solely petroleum dependent to just 
+electric and that they could not handle that.
+    I just wanted to get your perspective on that because South 
+Korea is, indeed, one of, I think, the most incredible 
+countries in the world. Indonesia said the exact same thing as 
+you are, I am sure, tracking. They just received a contract 
+from Ford for lithium mining, and I am sure Tesla will be doing 
+that as well over there. And they are also interested in 
+receiving some of the credits from the IRA, but they also are 
+depending on petroleum. And so, given that that is the 
+circumstance, although you are saying that we are moving toward 
+a green initiative and it is supposed to be better for 
+Americans, we are still outsourcing and doing it in countries 
+that are embracing petroleum and nuclear energy. What are your 
+thoughts? Sorry. I have 27 seconds left.
+    Ms. Baker-Branstetter. So, the U.S. grid has a lot more 
+diversity and resources than the South Korean grid. And so, 
+relying on homegrown domestic energy through the electric grid 
+here is a much different scenario compared to South Korea. We 
+do not import any products that use forced labor in the United 
+States, and we should continue to do that.
+    Mrs. Luna. I think that that is a little bit false so being 
+that lithium and cobalt mines in the Congo are what we used to 
+manufacture goods, and we are still using those products. That 
+is, actually, I think one of the biggest arguments that 
+Representative Donalds had. But, Chairman, I am done with my 
+time, so thank you.
+    Mr. Fallon. Thank you. The Chair now recognizes Ms. 
+Stansbury from New Mexico.
+    Ms. Stansbury. All right. Well, thank you, Mr. Chairman, 
+and thank you to all of our witnesses for being here today. I 
+am really excited to talk about electrification of our vehicle 
+sector because, as we know, it is crucial to de-carbonizing our 
+economy and addressing the global climate crisis. So, I really 
+welcome the opportunity to talk about these issues today in 
+this hearing.
+    I do want to address some of the disinformation that has 
+been provided in this hearing, but I do want to say a few 
+things about why it is important that we electrify the 
+transportation sector. First of all, here in the United States, 
+almost 30 percent of our emissions are due to the 
+transportation sector. And in order to address those 
+emissions--really, the real enemy here is carbon going into the 
+atmosphere. That is what causes global climate change. And so, 
+in order to do that, we are going to have to address it through 
+a series of interventions that includes electrification of the 
+transportation sector or other technologies as they developed, 
+partnerships, of course, with the auto industry.
+    We are going to have to, of course, modernize our electric 
+infrastructure to be able to do this, and provide support for 
+families so that it is affordable. And that is exactly what we 
+have done with the passage of three significant pieces of 
+legislation in the last Congress: the CHIPS Act, which, of 
+course, helps to support the innovation of American 
+manufacturing, bring jobs back home, and help to build the 
+power systems and R&D that will drive innovation in the 
+transportation sector; the Bipartisan Infrastructure Law that 
+is investing in our grid and in the electrification of our 
+transportation sector; and, of course, the IRA, which helps to 
+subsidize and provide tax incentives to help voluntarily move 
+both industry, our utilities, our co-ops, and our consumers 
+toward this electrification.
+    So, we are already way underway of this transition. And I 
+really take offense at the characterization that somehow this 
+is like forcing it upon consumers and the American economy 
+because this is the direction that things are headed. And 
+whether or not my colleagues across the aisle want to believe 
+it, the auto industry has already headed that way. They are 
+already planning their fleets out a decade and have already 
+made commitments to move toward electrification. So whether or 
+not you like it, whether or not you support it politically, it 
+is happening. And whether or not you want to buy it, drive an 
+electric vehicle, I guarantee that you are very likely to be 
+driving an electric vehicle in the next several decades whether 
+you want to or not because that is just where the industry is 
+going. So, I just wanted to be clear about that.
+    But you know, let us talk a little bit about some of the 
+reasons why it is important to make this transition. Mx. Baker-
+Branstetter, we really appreciate you being here and your 
+expertise on these issues. Could you talk a little bit about 
+the importance of emissions controls and this particular EPA 
+rule that we are discussing today, and helping us to get our 
+carbon reduction goals through this process?
+    Mx. Baker-Branstetter. Thank you. So, as was said earlier, 
+the light-duty and medium-duty vehicle standards will be 
+reducing carbon pollution by 56 percent by 2032, which is 
+tremendous. I also want to point out that there is a wait list 
+currently for many electric vehicles, so there is very high 
+demand as these vehicles are being produced and as more options 
+are coming online.
+    Ms. Stansbury. And I noted in your written testimony that 
+you laid out many of the areas that the three bills that I just 
+mentioned are helping to address the transition in the vehicle 
+sector and the various subsidies and supports. Could you talk a 
+little bit about what exactly do the Infrastructure, CHIPS, and 
+IRA do to help advance this transition which is occurring?
+    Mx. Baker-Branstetter. So, what they are trying to do, 
+working together, is really build a domestic supply chain from 
+the components and critical minerals to assembly and then 
+supporting the purchase of these vehicles by American 
+consumers. And so, their support for building new facilities to 
+convert from ICE vehicles or hybrids to either fuel cell or 
+battery electric vehicles. And we are also seeing the new/used 
+vehicle tax credit, which will help make it more affordable for 
+low-and moderate-income households as there are more used 
+vehicles available in the market. We are also seeing the build-
+out of charging infrastructure, as we mentioned earlier as 
+well.
+    Ms. Stansbury. Absolutely, and I am really glad that you 
+mentioned that. In New Mexico, which is a very rural state that 
+infrastructure is going to be vital. And it also goes hand-in-
+hand with the electrification transition that our utilities are 
+undertaking to bring renewables online because it also helps to 
+stabilize our grid as well. So, all around this is a transition 
+that is happening. The U.S. Government has passed legislation 
+to help support it. I have run out of time, but I think in a 
+later round, I will address some of the other issues. Thank you 
+very much.
+    Mr. Fallon. Thank you. The Chair now recognizes Mr. Edwards 
+from North Carolina.
+    Mr. Edwards. Thank you, Mr. Chair. I heard my colleague 
+from the other side of the aisle just a few seconds ago say 
+that, to all of us and to the American people, that in just a 
+few years we are going to be driving electric vehicles whether 
+we like it or not. Therein, itself, lies the problem. This is 
+the United States of America. We should be able to make choices 
+what we want to drive. The people in my district demand that 
+they get to make their choices. They are tired of this 
+bureaucracy and this Administration telling them back at home 
+what they have to do.
+    I want to change the conversation a little bit to another 
+critical situation that I can envision. And my friend, Mrs. 
+Luna, a while ago illustrated, in representing her state of 
+Florida, what the highways may look like in the evacuation from 
+a hurricane. There is another situation that I envision here 
+because this world is getting to be more and more of a 
+dangerous place, and our enemies are getting wiser and wiser as 
+to what they can do to disrupt American lives. I know that 
+there are enemies out there that are developing technologies to 
+create electronic magnetic pulses.
+    Mr. Bradbury, neither of us are physicists, but we do have 
+a great deal of common sense. What do you think is more 
+susceptible to an enemy bombing us with an EMP, an internal 
+combustion engine or a total electronic vehicle?
+    Mr. Bradbury. Well, as you said, Congressman, I am not an 
+expert on the pulse risk that you described. I do know that 
+these days, a lot of internal combustion engine vehicles have a 
+lot of electronics of their own and electrical systems. But a 
+good old-fashioned internal combustion engine vehicle, maybe 
+10, 20 years old, we have a lot of those on the road these 
+days. You know, the age of our fleet is getting older and 
+older, so there are a lot of people in this country who depend 
+on aging internal combustion engine vehicles, the old reliable. 
+Those are going to be a lot less susceptible to electrical 
+disturbance like that.
+    Mr. Edwards. That would be my vision as well. Mx. Baker-
+Branstetter, do electronic vehicles have any engineering or 
+protection in them in the case of an EMP?
+    Mx. Baker-Branstetter. I do not know the answer to that 
+question.
+    Mr. Edwards. I would imagine the answer is no. Can you 
+imagine what these highways leading across the river to 
+Washington, DC. would look like in the case of an 
+electromagnetic pulse instituted by our enemies, maybe about 9 
+in the morning where every vehicle 15 years from now would be 
+motionless, folks trying to get into Washington, DC.? Can you 
+imagine what that would look like?
+    Mx. Baker-Branstetter. That sounds like a terrible 
+scenario.
+    Mr. Edwards. Yes, that would a terrible scenario. Mr. 
+Bradbury, just last year, the Supreme Court slapped EPA down in 
+West Virginia v. EPA for abusing the Clean Air Act provisions 
+to fundamentally transform a major sector of the economy. Isn't 
+EPA doing the exact same thing with these proposed EV rules?
+    Mr. Bradbury. Yes. As I tried to explain in my prepared 
+statement and in my oral statement, it really is remarkably 
+similar. It is a shift into a whole new technology, which is 
+exactly what they were trying to do with the Clean Power Plan. 
+I think it is actually even more extreme because in the Clean 
+Power Plan, they were trying to get coal plants to pay a little 
+money to marginally subsidize the renewable generators.
+    Here it is the very same entities that they are actually 
+telling them, you really got to change entirely your production 
+processes, build whole new plants, design and build entirely 
+different cars from bumper to bumper, entirely different power 
+trains, and you have got to fund it yourself. And big question 
+mark is whether there is going to be sufficient market demand 
+for the full scope, scale, and pace of the conversion that EPA 
+has in mind. I think, actually, EPA's rule says they do not 
+expect there will be. They try to quantify.
+    I think they are too rosy in their quantifications of 
+consumer demand. But I think they acknowledged that even with 
+all of the Federal subsidies that were just passed, they do not 
+expect that the market share and the percentage of EVs would 
+get anywhere close to where they want them to be. That is why 
+they need this rule to double it through regulatory coercion.
+    Mr. Edwards. Thank you for that. I thank all of you for 
+being here. Mr. Chair, I yield.
+    Mr. Fallon. Thank you. The Chair now recognizes Mr. Perry 
+from Pennsylvania.
+    Mr. Perry. I thank the Chairman. I thank the witnesses for 
+taking your time to be here today. Mr. Roe, I have a lot of 
+questions, so I am going to throw a couple to you here, try and 
+make it worth your while if nothing else. Is ethanol, as a 
+vehicle fuel, and I will just ask, is it currently economically 
+viable?
+    Mr. Roe. Yes. Thank you for the question, Mr. Perry, 
+through there. Yes, absolutely. You know that there has not 
+been a direct ethanol subsidy for over 11 years now, through 
+that. And through improvements to technology, both in 
+production of our feedstocks and in improvements of our ethanol 
+plant production practices, continues to extract more value-
+added products out of the same processes.
+    Mr. Perry. OK. So, then you would agree based on that, that 
+it is time we eliminate tax credits, mandatory consumption, and 
+the crop insurance that supports it, right? All USDA subsidies? 
+You just said it was economically viable, does not receive any 
+subsidy. So, you are good with eliminating all that stuff that 
+then supports the production of ethanol in the United States?
+    Mr. Roe. On the farm level, you know, I think it is 
+important to have a safety net for foods.
+    Mr. Perry. OK. But I am not talking about safety net for 
+food and all that stuff.
+    Mr. Roe. OK.
+    Mr. Perry. I am just talking about ethanol being 
+economically viable, and you just agreed with me. So, if you 
+agree with me, then you should be good with eliminating, like, 
+mandated consumption, Federal Government mandates. Everybody in 
+this room, ever been in this country, if they are going to buy 
+gasoline and use it, the United States of America, they are 
+going to buy ethanol, including the stuff that comes from 
+Brazil. I just want to get for the record where you are because 
+you said it is economically viable. So, are we good or not?
+    Mr. Roe. Yes, I think you are speaking to that, the RFS----
+    Mr. Perry. Yes, I am.
+    Mr. Roe [continuing]. The renewable fuel standard there. 
+You know, that was a congressional----
+    Mr. Perry. I know, sir. Mr. Roe, I know what it was.
+    Mr. Roe. Yes.
+    Mr. Perry. Well, I think we have cleared that up. All 
+right. Mr. Bradbury, I have listened to my colleague on the 
+other side of the aisle, I am sure well-intended. You know, 
+just as an overarching principle, what in the hell does this 
+government think it has the right? Where does it get the right 
+to ban gas stoves, gas vehicles, you know, certain types of 
+clothing? Who are these people? What affords them? You know, I 
+carry this thing around with me. Maybe I am idealistic or 
+something. It is not a long read. Ladies and gentlemen, 
+Constitution of the United States right here. Tell me, if you 
+can, where in here it says that this government says to me or 
+anybody else you cannot own that?
+    Mr. Bradbury. It doesn't. It gives this body, the Congress, 
+under Article I, authority to regulate interstate commerce, but 
+regulating interstate commerce has rarely involved bans on 
+products. Now, Congress has the authority to do that.
+    Mr. Perry. Congress has the authority? Who is----
+    Mr. Bradbury. But the administrative state, like the EPA, I 
+think as the Supreme Court is increasingly making clear, has to 
+show a clear, specific, and expressed delegation of authority, 
+and it cannot be too much authority. It cannot be real 
+legislative authority, but authority to the administrative 
+agency to do a rulemaking, but it has to be clear. And here, I 
+think what we are seeing across the government, it was 
+mentioned, practically every single department and agency of 
+this government is going well beyond the bounds of the statutes 
+that Congress enacted for them to implement.
+    Many of these statutes date back, like the ones we are 
+talking about here, the Clean Air Act goes back to 1970. Many 
+of these statutes go back to the 1970's, and they do give 
+expansive authority in particular areas. But they are being 
+taken and exploited and applied way beyond any realm that 
+Congress, that the Congress that have voted and approved them, 
+ever contemplated.
+    Mr. Perry. Can I ask you? I think because you are going to 
+take the time to answer the question, I think one of my 
+colleagues on the other side of the aisle said that this is the 
+direction that the industry is going. We are not going to have 
+any choice, you are going to buy one whether you like it or 
+not, if you wish to travel because that is where the industry 
+is going. Are they going there of their own volition or are 
+they being coerced to go there through regulatory process and 
+subsidy?
+    Mr. Bradbury. Well, they are being told by governments 
+around the world that this is what they have to do--China, 
+European Union, and now the Biden Administration--but also 
+Governor Newsom and the California Air Resources Board in 
+California is telling them they have to do this. So, they are 
+under compulsion to try to develop these zero emission vehicles 
+and sell them.
+    And so, they are saying the things that the government 
+powers that be want to hear them say. I think they are making 
+promises and pledges, but I think in their minds, this will all 
+depend on whether there is a market for these products. And 
+they are not just going to build facilities and convert all of 
+their capacity if, in fact, the marketplace is not there and 
+the demand is not there. That is the No. 1 problem they have 
+for getting to their pledged results is the resistance from the 
+American consumer. American families love their internal 
+combustion engine vehicle----
+    Mr. Fallon. And the gentleman's time has expired.
+    Mr. Bradbury. Thank you.
+    Mr. Fallon. The gentleman's time has expired. The Chair now 
+recognizes Mr. Langworthy from New York.
+    Mr. Langworthy. Well, thank you very much, Mr. Chairman and 
+thank you to the witnesses for joining us here today.
+    I would like to start with Mr. Kantor and discuss the 
+implications of recent EPA rulings on market competition. It 
+appears that these rulings convey a very distinct message, and 
+that is that the government chose electric vehicles as the 
+winners and internal combustion engines as losers. That poses 
+significant risks to both competition and to innovation. Could 
+you share your perspective on the relationship between the EPA 
+rulings and market competition?
+    Mr. Kantor. Yes. Thank you for the question. We are 
+concerned that what this rule will do is push automakers to 
+move their engineering resources and their focus of innovation 
+away from internal combustion engines and just toward electric 
+vehicles. Now, some of that is happening as a market measure 
+anyway, and that is great where it is happening as a response 
+to the market. But here, we think that gives us worse results 
+than we would get otherwise, and let me tell you why.
+    If you look at the consulting firm, McKinsey, they 
+estimate, and they are one of the most aggressive estimators so 
+far on this, 48 percent of new vehicle sales to be electric by 
+2030. But even with that number, 48 percent of new vehicle 
+sales, most vehicle sales are used cars. The turnover rate of 
+the fleet is very low, and so that only means 17 percent of the 
+vehicles in the fleet in the U.S. at that point in 2030 would 
+be electric. And most of the vehicles still on the road as a 
+result of that would be some of the least efficient vehicles. 
+So, the entire reduction in gasoline demand from 48 percent of 
+new vehicle sales being electric would be four percent. That 
+does not get us to the environmental goals we are talking 
+about. That does not get us to the economic goals we are 
+talking about. It is not the best outcome. So, we need those 
+resources to go toward internal combustion engines and liquid 
+fuels too.
+    Mr. Langworthy. On a related note, EPA rulings, they remove 
+the investment opportunities in cleaner use of natural gas. Mr. 
+Kantor, could you please discuss the significance of fostering 
+innovation in the areas of natural gas in the internal 
+combustion engine process?
+    Mr. Kantor. Absolutely. Look, natural gas has taken more 
+carbon out of the atmosphere to date than electric vehicles 
+have in total. The same is true for renewable fuels, things 
+like ethanol, renewable diesel, biodiesel. We have seen 
+tremendous gains. Just to give you a sense, look over the past 
+30 years, criteria pollutants from internal combustion engine 
+vehicles have been reduced by 99 percent. That is a great track 
+record of success. Since 2004, carbon dioxide is down 25 
+percent and fuel efficiency is up 32 percent. There is a lot we 
+can do.
+    Natural gas is a part of that mix. You see it in buses and 
+larger vehicles. And frankly, it is a more realistic near-term 
+move for those heavy-duty vehicles than electricity because of 
+the tremendous amount of time it takes to charge up the huge 
+batteries necessary for heavy-duty vehicles. So, we should be 
+using all of these things in the mix, including natural gas, 
+and setting performance goals so that all these different 
+technologies can work to all of our benefits.
+    Mr. Langworthy. We see it at my very district where Cummins 
+Engine has just released the state-of-the-art 15-liter natural 
+gas engine that will be transporting things for many years to 
+come, but, you know, they are being edged out in this 
+marketplace. Another crucial technology, which was also deemed 
+a loser by the electric vehicle industry is AM radio, and you 
+are starting to hear this more and more. I would like to draw 
+attention to the fact that the electric vehicle manufacturers, 
+they are actually removing AM radio functionality from these 
+vehicles.
+    And instead of removing AM radios from new vehicles, 
+shouldn't we focus on fostering innovation to find solutions 
+that ensures that millions of Americans get to listen to the 
+programming on AM radio that have for years and years and years 
+and they are able to continue benefiting for it? Mr. Roe, could 
+you speak briefly about AM radio, especially from your point of 
+view, in the agricultural world?
+    Mr. Roe. Yes. Thank you for the question there. And yes, 
+speaking as a farmer and rural resident or whatever, AM radio 
+for farm talk, it is our livelihood. It is where we receive 
+information on weather, on markets that impact everything, 
+especially in rural areas that do not have the outreach for 
+other larger markets. So, it would be a phenomenal shift in how 
+we receive news throughout today if those were to go away.
+    Mr. Langworthy. Well, thank you very much for your time, 
+and I yield back, Mr. Chairman.
+    Mr. Fallon. Thank you. The Chair now recognizes Ms. 
+Stansbury of New Mexico for a close.
+    Ms. Stansbury. All right. Well, thank you, Mr. Chairman. I 
+think it is critical that we talk about these issues. And I 
+want to clarify that what we are talking about here is 
+addressing emissions in the vehicle sector so that we can avert 
+a global climate crisis. Industry is already headed that 
+direction. The market is already headed in that direction.
+    No one is banning electric or gasoline vehicles. Nobody is 
+trying to take your stoves away. Nobody is going to take your 
+beloved classic car away. Industry is headed toward the 
+electrical market because that is the market of the future. 
+Just in the same way over the last 20 years we have 
+transitioned to more electronics, daily hand-held electronics 
+in our lives, you can still be able to use your home phone if 
+you like or your flip phone. This will increase the 
+opportunities and freedoms to embrace different kinds of 
+transportation while addressing our climate crisis.
+    So, this transition is crucial to our economy. It is 
+crucial to our planet. And the significant legislation that we 
+passed the last Congress is going to help make it possible for 
+this transition to occur. That includes the Bipartisan 
+Infrastructure Law, The Inflation Reduction Act, and, of 
+course, the CHIPS Act, as I mentioned.
+    So, Mr. Chairman, I really appreciate you convening this 
+hearing today, and I continue to be committed to help and 
+support our communities as they are making this transition and 
+to helping build a more sustainable and just and equitable 
+planet. Thank you.
+    Mr. Fallon. Thank you. I now recognize myself for my close.
+    You know, unfortunately, when the hearing began, we heard 
+an attack on one of the witnesses and his character and his 
+past, and that has happened before. It has become a modus 
+operandi, and I think it is unfortunate. And then, of course, 
+you hear the implicit, you know, these Republicans do not 
+understand the impending crisis, or, you know, they are evil, 
+and we have the need to, you know, immediate action.
+    Well, we are talking about right here, the lack of 
+authority for a government agency. They cannot pass laws. They 
+are trying to force rules that, in effect, become laws, and the 
+Supreme Court has already ruled on a very similar case and said 
+that the precedent is that you cannot do this. So, the chances 
+of this rule even passing judicial muster is very slim, so it 
+should not have been done in the first place. They did not have 
+the authority, and it is not going to stand.
+    Now, let us talk about costs. The cost of the combustion 
+engine car right now on average is about a little over $45,000. 
+Cost of an electric car right now is little over $61,000, 35 
+percent more. And what I think one of the unintended 
+consequences is going to be, if this rule actually was held and 
+went into effect, would be that people are going to hold on to 
+their older cars longer.
+    I think we can all agree that if you have a combustion 
+engine vehicle, let us say, was built in 2018 and a combustion 
+engine vehicle that will have been, you know, built in 2032, 
+that is going to be far more efficient and better for the 
+environment. But you are not going to have that because they 
+are going to hold on to it, and I think the price of used 
+combustion vehicles may go up quite a bit because of that.
+    Well, I have not heard anybody ever--I have been in 
+Congress 2 1/2 years--say that they want more carbon footprint, 
+they want a larger carbon footprint, they want more carbon 
+dioxide in the atmosphere. I just have not heard that, but I 
+think what I have heard from the folks on our side of the aisle 
+would be we want to reduce our carbon footprint. We want to do 
+an all-of-the-above approach. Renewable fuels was talked 
+about--wind, solar, hydro, nuclear, cleaner fossil fuels, like 
+natural gas, and using hybrid vehicles. The all-of-the-above 
+approach seems to be the way to go because it is also 
+realistic.
+    And then you got the situation with rare earth minerals, 
+and you know, lithium, cobalt, nickel, the things that are 
+required to make the batteries for these vehicles, and China is 
+dominating the market. So, what I fear we are seeing here is, 
+again, unintended consequences of making the United States 
+weaker and China stronger because we grow more dependent on 
+them. And that is not an outcome that, I would think, no one in 
+this room or in this chamber would want.
+    And then, you know, electric vehicles, I mean, again, I 
+have one. It was pricey and my wife wanted it, but it works for 
+her because she drives in short spurts, and it is fine. But if 
+they are so awesome for the general consumer and they are going 
+to end up being cheaper to use and they have all these great 
+incredible economic benefits, then why does this need to be 
+forced onto the American consumer by unlawful, unconstitutional 
+dictates? It does not make a lot of sense and it does not 
+square up.
+    So also, just to correct the record, regarding 
+Representative Luna's line of questioning, when asked about 
+shutting out petroleum in South Korea, Mx. Baker-Branstetter 
+said that the U.S. grid has a lot more diversity in grid 
+resources than South Korean grid, and relying on homegrown 
+domestic energy through the electric grid here is a much 
+different scenario than compared to South Korea. I do not think 
+North Korea has a large carbon footprint. But the South 
+Koreans, actually, their fossil fuel power composition is about 
+66 percent. Very comparable to the U.S., is 60 percent. This is 
+according to the U.S. Energy Information Administration. So, if 
+they are having issues, you know, so are we, and the only 
+difference is that their government admits it.
+    So, with that, it is a good and healthy discussion to have. 
+You know, I think technology is going to improve to help us 
+reduce our carbon footprint, but the last and final point is 
+this: United States is not a planet. We talked about this 
+before. We are a Nation. We are a country, and I am very proud 
+of my country, our country, that we have reduced our carbon 
+footprint over the last 20 years. Estimates are over 20 
+percent; 2023, 24 percent. And we are continuing to do that 
+because we have a strong environmental lobby, we have rule of 
+law, we have an independent judiciary, we have a vibrant 
+republic. But China has increased their carbon footprint by 300 
+percent. So, when we do these things and they open two new coal 
+plants, the equivalent of that every week, that is concerning 
+to me. And I would love my friends on the other side of the 
+aisle and the activists that support them to recognize and 
+acknowledge that there should be some picketing outside of 
+Chinese consulates and embassies, if you are a true 
+environmentalist.
+    So, with that, I want to thank our witnesses very much. And 
+with that and without objection, all Members will have five 
+legislative days within which to submit materials and to submit 
+additional written questions for witnesses, which will be 
+forwarded to the witnesses for their response.
+    Mr. Fallon. If there is no further business, without 
+objection, the Subcommittee stands adjourned. Thank you very 
+much.
+    [Whereupon, at 3:31 p.m., the Subcommittee was adjourned.]
+
+                                 [all]
+

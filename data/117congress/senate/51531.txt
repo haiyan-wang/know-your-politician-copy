@@ -1,0 +1,1541 @@
+
+ - PUTTING PEOPLE FIRST: BUILDING TRUST IN GOVERNMENT THROUGH CUSTOMER EXPERIENCE
+
+[Senate Hearing 117-651]
+[From the U.S. Government Publishing Office]
+
+
+
+
+
+                                                        S. Hrg. 117-651
+ 
+  PUTTING PEOPLE FIRST: BUILDING TRUST IN GOVERNMENT THROUGH CUSTOMER 
+                               EXPERIENCE
+
+=======================================================================
+
+                                HEARING
+
+                               before the
+
+                              COMMITTEE ON
+               HOMELAND SECURITY AND GOVERNMENTAL AFFAIRS
+                          UNITED STATES SENATE
+
+                    ONE HUNDRED SEVENTEENTH CONGRESS
+
+
+                             SECOND SESSION
+
+                               __________
+
+                             JUNE 23, 2022
+
+                               __________
+
+        Available via the World Wide Web: http://www.govinfo.gov
+
+                       Printed for the use of the
+        Committee on Homeland Security and Governmental Affairs
+        
+        
+      [GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]  
+        
+        
+        
+                       ______
+
+             U.S. GOVERNMENT PUBLISHING OFFICE 
+ 51-531          WASHINGTON : 2023
+      
+        
+        
+
+        COMMITTEE ON HOMELAND SECURITY AND GOVERNMENTAL AFFAIRS
+
+                   GARY C. PETERS, Michigan, Chairman
+THOMAS R. CARPER, Delaware           ROB PORTMAN, Ohio
+MAGGIE HASSAN, New Hampshire         RON JOHNSON, Wisconsin
+KYRSTEN SINEMA, Arizona              RAND PAUL, Kentucky
+JACKY ROSEN, Nevada                  JAMES LANKFORD, Oklahoma
+ALEX PADILLA, California             MITT ROMNEY, Utah
+JON OSSOFF, Georgia                  RICK SCOTT, Florida
+                                     JOSH HAWLEY, Missouri
+
+                   David M. Weinberg, Staff Director
+                    Zachary I. Schram, Chief Counsel
+            Lena C. Chang, Director of Governmental Affairs
+         Matthew T. Cornelius, Senior Professional Staff Member
+                Pamela Thiessen, Minority Staff Director
+            Sam J. Mulopulos, Minority Deputy Staff Director
+                    Allen L. Huang, Minority Counsel
+                     Laura W. Kilbride, Chief Clerk
+                     Thomas J. Spino, Hearing Clerk
+
+                            C O N T E N T S
+
+                                 ------                                
+Opening statements:
+                                                                   Page
+    Senator Peters...............................................     1
+    Senator Portman..............................................     3
+    Senator Lankford.............................................    15
+    Senator Padilla..............................................    18
+    Senator Rosen................................................    22
+Prepared statements:
+    Senator Peters...............................................    27
+    Senator Portman..............................................    29
+
+                               WITNESSES
+                        Thursday, June 23, 2022
+
+Martha Dorris, Founder and Chief Executive Officer, Dorris 
+  Consulting International.......................................     5
+William Eggers, Executive Director, Center for Government 
+  Insights, Deloitte, LLP........................................     7
+Mathew Lira, Partner, Hangar Capital.............................     9
+
+                     Alphabetical List of Witnesses
+
+Dorris, Martha:
+    Testimony....................................................     5
+    Prepared statement...........................................    33
+Eggers, William:
+    Testimony....................................................     7
+    Prepared statement...........................................    38
+Lira, Mathew:
+    Testimony....................................................     9
+    Prepared statement...........................................    52
+
+                                APPENDIX
+
+Statements for the Record:
+    The Center for Accountability, Modernization, and Innovation 
+      (CAMI).....................................................    56
+    Partnership for Public Service...............................    60
+Response to post-hearing questions submitted for the Record
+    Ms. Dorris...................................................    61
+    Mr. Eggers...................................................    63
+    Mr. Lira.....................................................    64
+
+
+                         PUTTING PEOPLE FIRST:
+
+
+
+        BUILDING TRUST IN GOVERNMENT THROUGH CUSTOMER EXPERIENCE
+
+                              ----------                              
+
+
+                         THURSDAY, JUNE 23 2022
+
+                                     U.S. Senate,  
+                           Committee on Homeland Security  
+                                  and Governmental Affairs,
+                                                    Washington, DC.
+    The Committee met, pursuant to notice, at 10:15 a.m., in 
+room 342, Dirksen Senate Office Building, Hon. Gary C. Peters, 
+Chairman of the Committee, presiding.
+    Present: Senators Peters, Hassan, Sinema, Rosen, Padilla, 
+Ossoff, Portman, Lankford, Scott, and Hawley.
+
+            OPENING STATEMENT OF CHAIRMAN PETERS\1\
+
+    Chairman Peters. The Committee will come to order.
+---------------------------------------------------------------------------
+    \1\ The prepared statement of Senator Peters appears in the 
+Appendix on page 27.
+---------------------------------------------------------------------------
+    I would certainly like to, first off, thank our witnesses 
+for joining us here today.
+    The purpose of today's hearing is to examine customer 
+experience (CX) strategies in the Federal Government and 
+discuss how government can more effectively deliver critical 
+services and benefits to the American people.
+    Customer experience has always remained a top priority in 
+the private sector, with many leading companies working to 
+better understand their customers, provide more effective 
+digital services, while also increasing profits.
+    Profit incentives do not drive Federal agencies. Instead, 
+they are driven by their mission to effectively serve taxpayers 
+and make government work efficiently, including reducing waste 
+and saving taxpayer dollars. This important responsibility 
+requires the Federal Government to continuously look for ways 
+to modernize its information technology (IT), better assess how 
+agencies perform for their customers, and deliver programs and 
+services in a way that increases satisfaction and trust for 
+people receiving services.
+    Rebuilding trust in our government is essential, and we can 
+help restore the public's confidence in the Federal Government 
+by continuing to strengthen its ability to deliver critical 
+services, whether it is assistance people count on, like Social 
+Security checks or unemployment benefits, or scheduling 
+appointments for critical services like the Department of 
+Veterans Affairs (VA) health care. Restoring decades of lost 
+faith is a monumental task, and I am pleased the Administration 
+has made enhancing customer experience a top priority by 
+encouraging Federal agencies to modernize programs, reduce 
+administrative burdens, and launch new online tools to provide 
+a seamless and secure customer experience.
+    However, these efforts must also include examining past 
+setbacks that resulted in service delays, which offer valuable 
+knowledge to help agencies evaluate customer experience at a 
+level of primary importance, strengthen accountability, and 
+deliver better results all across the board. For example, I 
+recently heard from small business owners in my home State of 
+Michigan, who have run into issues assessing the System for 
+Award Management (SAM.gov), the governmentwide registration 
+system for Federal funding awards. Recent changes created 
+unexpected challenges for companies seeking to register for 
+Federal contracting opportunities.
+    I had the chance to speak with General Services 
+Administrator (GSA) Robin Carnahan about this recently, and I 
+was pleased to hear that thanks to the swift work of GSA's 
+Technology Transformation Services many of these initial 
+setbacks are now being addressed. I will continue to conduct 
+oversight of these challenges and stay in contact with both GSA 
+and the Office of Management and Budget (OMB) to ensure that 
+the problem is fully resolved and that small businesses are 
+paid for their work and able to pursue new opportunities.
+    Along with these measures, GSA and OMB are also taking 
+timely efforts to dramatically improve the governmentwide 
+customer experience by a designated $100 million from the 
+Technology Modernization Fund (TMF) to help secure and 
+modernize government technology and improve online access to 
+government services. Once implemented, these reforms have the 
+potential to not only improve the ability of Federal agencies 
+to deliver modern, effective digital services to citizens but 
+to also improve taxpayer satisfaction with the government.
+    As Chairman, I have pressed for robust resources to improve 
+the customer experience and promote government efficiency and 
+accountability most recently by passing my bipartisan Federal 
+Agency Performance Act out of this Committee last month. This 
+bill seeks to provide lawmakers and the Administration with the 
+necessary tools and data to measure and evaluate the 
+performance of Federal agencies and ensure that they are 
+meeting their long term strategic goals. This bill, along with 
+other bipartisan efforts to address some of the key barriers to 
+effective Federal service delivery, are an important step, but 
+there is more that Congress can do to implement proven, 
+effective solutions by government agencies.
+    Today, I am pleased to be joined by our panel of 
+nongovernmental expert witnesses who can discuss how we can 
+better address this well-known problem so that the Federal 
+Government can improve its ability to deliver valuable customer 
+service to Americans more quickly, more securely, and more 
+effectively.
+    With that, Ranking Member, you are recognized for your 
+opening comments.
+
+            OPENING STATEMENT OF SENATOR PORTMAN\1\
+
+    Senator Portman. Thank you, Mr. Chairman, and thanks, 
+everyone, for being here. I look forward to the discussion. We 
+have some real experts with us today, with whom I have worked 
+in the past, and I think this will be a helpful hearing to talk 
+about how to improve the customer experience with government.
+---------------------------------------------------------------------------
+    \1\ The prepared statement of Senator Portman appears in the 
+Appendix on page 29.
+---------------------------------------------------------------------------
+    I like the idea of looking at it from the customer point of 
+view, the taxpayer point of view, the citizen point of view. In 
+this Committee, we hear the phrase ``good government'' a lot, 
+and it is usually in the context of accountability and 
+transparency, both of which are important, but good government 
+is also about efficiency and making things work well for 
+people.
+    I think government has an important, but limited, role in 
+people's lives and people need to be able to interact with it 
+efficiently and then focus on what they really want to focus 
+on, which is their lives, their families, their jobs, their 
+community, but in order to do that we have to have these 
+interactions work. People deserve it. This involves everything 
+from applying for Federal grants to support for small 
+businesses to applying for veterans' benefits, making sure your 
+Social Security and Medicare benefits are properly handled, 
+dealing with the Internal Revenue Service (IRS).
+    Back in the 90s, I was the co-chair of the effort to reform 
+the IRS and involved in that a lot in the Senate Finance 
+Committee, and we still obviously have huge challenges in terms 
+of the customer experience there although we were able to make 
+some improvements by focusing on it.
+    Waiting in line at the airport, something all of us will be 
+doing in the next week or so, I am sure; I will be this evening 
+or tomorrow, along with Senator Peters. I hear plenty of 
+concerns about our new Transportation Security Administration 
+(TSA) scanning devices, as an example, and the customer service 
+that needs to be improved.
+    The Department of Transportation (DOT) has found that the 
+Federal Department of Transportation's common application 
+feature works, as an example of something positive in terms of 
+customer experience. It is convenient because it allows 
+applicants to apply for multiple infrastructure funding 
+opportunities through one application.
+    Permitting reform is something we have worked on a lot, and 
+that is something that adds to customers being able to, again, 
+interact quickly with the government, get what they need, and 
+move on.
+    On the other hand, I am concerned about other Ohio 
+interactions with government that have not been so positive. 
+Recently, we have had problems with the General Services 
+Administration, for instance, the GSA website for government 
+contracts. It was developed in-house, apparently. Ohio 
+businesses have had real trouble getting paid for work they did 
+for the government or had agencies stop working with them 
+because the website system for registration renewal was not 
+working correctly. Because the website was not working 
+correctly, Ohio small businesses were the ones who were 
+impacted.
+    In 2018, as some of you know, Congress passed my 
+legislation called the 21st Century Integrated Digital 
+Experience Act (IDEA Act). I am glad to see Ms. Dorris and Mr. 
+Lira here today because I know them from working on that bill 
+and I appreciate their expertise.
+    One of the things this 21st Century IDEA Act requires is an 
+agency to maintain its website or digital service to ensure 
+that it has the ability to interact well with customer, a 
+consistent appearance, is accessible to individuals with 
+disabilities, has a search function, has an industry-standard 
+secure connection, and is generally designed around user needs, 
+all common-sense elements and too often lacking with regard to 
+Federal Government websites and other ways to interact 
+digitally.
+    It also requires that each agency make available an online, 
+mobile-friendly digital service option for any in-person 
+government transaction or paper-based process in a manner that 
+decreases costs and improves customer service. It is kind of 
+pushing the Federal Government to take it to the next level.
+    Unfortunately, we know that many of the requirements of 
+this law remain unimplemented. I look forward to a discussion 
+with our witnesses today about why that is and how Congress can 
+increase oversight to ensure full implementation.
+    White House efforts in both the Trump administration and 
+now the Biden administration have begun to move agencies in the 
+right direction, I believe. In December, President Biden signed 
+an Executive Order (EO) on customer experience with government. 
+I do not agree with everything in that EO, but I do think it is 
+important to prioritize customer service, and I am glad that we 
+are moving in that direction.
+    I am always open to learning about new legislative ideas, 
+but I think we should focus on using the tools we already have, 
+particularly through increased oversight of the recent mandates 
+from Congress and these initiatives within the Executive 
+Branch.
+    There is also a lot we can learn from our private sector 
+which is always developing new innovations we can tap into. We 
+have to ensure that we are good stewards of taxpayer money and 
+respect the balance of State and Federal jurisdictions on which 
+our system is designed. I look forward to hearing the 
+witnesses' ideas on how we can prioritize making our Federal 
+Government work better for our citizens.
+    Thank you, and I look forward to the testimony.
+    Chairman Peters. Thank you, Ranking Member Portman.
+    It is the practice of the Homeland Security and 
+Governmental Affairs Committee (HSGAC) to swear in witnesses, 
+so if each of you would please stand and raise your right hand. 
+Do you swear the testimony you will give before this Committee 
+will be the truth, the whole truth, and nothing but the truth, 
+so help you, God?
+    Ms. Dorris. Yes.
+    Mr. Eggers. Yes.
+    Mr. Lira. Yes.
+    Chairman Peters. You may be seated.
+    Today's first witness is Martha Dorris. Ms. Dorris is the 
+founder and Chief Executive Officer (CEO) of Dorris Consulting 
+International (DCI), a consultancy that focuses on improving 
+the lives of citizens through transforming governmental 
+services by sharing best practices between government and 
+industry.
+    Previously, Ms. Dorris served as a senior executive at the 
+General Services Administration, where she served for 34 years. 
+Her expertise is in information technology acquisition, digital 
+service delivery, intergovernmental solutions, and citizen and 
+customer experience.
+    Ms. Dorris is the host of the only government customer 
+experience-focused podcast called the ``CX Tipping Point'' and 
+publishes a monthly Citizen Services Newsletter.
+    Ms. Dorris, welcome to the Committee. You may proceed with 
+your opening remarks.
+
+  TESTIMONY OF MARTHA DORRIS,\1\ FOUNDER AND CHIEF EXECUTIVE 
+            OFFICER, DORRIS CONSULTING INTERNATIONAL
+
+    Ms. Dorris. Good morning, Chairman Peters, Ranking Member 
+Portman, and distinguished Members of the Committee. Thank you 
+for inviting me to testify today. It is really a privilege to 
+discuss how the Federal Government can improve the experience 
+the American public has when interacting, engaging, and 
+transacting with them.
+---------------------------------------------------------------------------
+    \1\ The prepared statement of Ms. Dorris appears in the Appendix on 
+page 33.
+---------------------------------------------------------------------------
+    As you mentioned, my name is Martha Dorris, and I am the 
+founder of Dorris Consulting International, a small business 
+consultancy that helps government and industry transform 
+government services. I have been in my current role for almost 
+seven years. I previously served for 34 years at the U.S. 
+General Services Administration, including 12 years as the 
+Deputy Associate Administrator for the Office of Citizen 
+Services. These experiences have made me acutely aware of the 
+challenges and opportunities confronting Federal agencies as 
+they pursue improving public services.
+    Every day, millions upon millions of people are interacting 
+with the U.S. Government. According to Analytics.USA.gov, there 
+is over 4.98 billion visits to government websites in the last 
+90 days. People depend on government information to make 
+important decisions every day and during the most critical 
+times of their lives.
+    Democracy is built on a system of trust. The experience 
+people have with their government when they need it most is 
+critical to building that trust. Over the past five years, the 
+Department of Veterans Affairs has increased the veterans' 
+trust in VA by over 20 percent through their focus on veterans' 
+experience.
+    Customer experience is a business discipline that can 
+improve the delivery of services to the customer from the time 
+someone has a need through the completion of the transaction. 
+Customer experience includes knowing who your customers are, 
+understanding their expectations, listening to real-time 
+feedback, designing services through human-centered design 
+techniques, and making continual improvements through measures 
+that matter. Creating a customer-focused culture is core to 
+ensuring that customers' needs are met. Customers mean the 
+public, employees, businesses, and other agencies.
+    The public expects to access government information 
+anytime, anywhere, on any device. They should be able to obtain 
+consistent information and services whether they are online, 
+through a website or mobile app, a call, e-mail, chat, social 
+media or in person. That experience should be easy, 
+transparent, secure, reliable, and timely.
+    The Biden-Harris administration has focused on delivering 
+excellent, equitable, and secure Federal services through their 
+management agenda and Executive Order. A management agenda that 
+specifically highlights customer experience signals to the 
+political and career officials that improving government 
+services is a priority. Together, they set the vision and road 
+map for designing services during key life events by putting 
+people first, identifying short-term commitments for agencies, 
+and strategies for incorporating customer experience into the 
+business of government.
+    The government has unique challenges when implementing 
+customer experience due to the large and diverse population we 
+serve, quantifying the benefits of customer experience, 
+including increased efficiency, employee engagement, 
+voluntarily compliance with government mandates, simplifying 
+the lives of Americans, and building trust in government. 
+Meeting the needs of customers requires starting with the 
+customer and working your way backwards.
+    Customer experience is not about technology alone. The time 
+is now to modernize government services. To transform digital 
+experiences, we need to modernize secure technology 
+infrastructures, including broadband, cloud, artificial 
+intelligence (AI), and collaborative technologies; modernize 
+government websites and contact centers to create a full end-
+to-end digital experience; ensure identity management is easy 
+to use and secure; understand their customers by listening to 
+feedback, using analytics and human-centered design techniques; 
+and hiring and reskilling the talent needed to transform these 
+importance services.
+    While improving services has its challenges, the government 
+has demonstrated many successes. A couple of notable 
+accomplishments include: The VA went from 2,500 telehealth 
+appointments per day in March 2020 to 45,000 per day in March 
+2021 and improved trust by 24 percent over the past five years. 
+The United States Department of Agriculture (USDA) created a 
+contact center concierge service called AskUSDA to reduce the 
+public's burden in navigating the USDA's organizational 
+structure. The IRS has released a taxpayer experience strategy 
+and established a Chief Taxpayer Experience Officer reporting 
+to the Commissioner of the IRS. The IRS has expanded the 
+customer callback service and is reaching more people in other 
+languages.
+    What can Congress do? Congress has the opportunity to 
+ensure that improving government services is a priority that is 
+sustainable over time. A Federal Chief Customer Officer needs 
+to be established that is responsible for establishing the 
+vision and strategy for improving the end-to-end customer 
+experience. Each agency with high impact services needs an 
+organization or executive in charge of customer-focused 
+initiatives, reporting to the head or deputy of the agency or 
+department. Congress should closely monitor service-level 
+improvements and internal CX capabilities for all agencies 
+through a CX report card based on a CX maturity model.
+    The government's role is to serve the people. Reimagining 
+how the public interacts with the government will improve the 
+lives of the American people, make the government more 
+efficient, and increase the public's trust in government.
+    I look forward to your questions.
+    Chairman Peters. Thank you, Ms. Dorris.
+    Our next witness is William Eggers, Executive Director of 
+Deloitte's Center for Government Insights, where he is 
+responsible for the firm's public sector thought leadership. 
+Mr. Eggers has authored numerous books and published a 
+commentary that has appeared in, and gained recognition from, 
+dozens of major media outlets, including the New York Times, 
+the Wall Street Journal, the Guardian, and the Washington Post.
+    Mr. Eggers is also a former appointee to the Office of 
+Management and Budget's Performance Measurement Advisory 
+Council and former Director of the Texas Performance Review e-
+Texas Initiative that was charged with developing 
+recommendations to save tax dollars, increase the use of 
+technology, improve customer service, and include competition 
+in State services.
+    Mr. Eggers, welcome to our Committee. You may proceed with 
+your opening remarks.
+
+TESTIMONY OF WILLIAM EGGERS,\1\ EXECUTIVE DIRECTOR, CENTER FOR 
+               GOVERNMENT INSIGHTS, DELOITTE, LLP
+
+    Mr. Eggers. Thank you so much. Chairman Peters, Ranking 
+Member Portman, and Members of the Committee, thank you for the 
+opportunity to participate in today's hearing.
+---------------------------------------------------------------------------
+    \1\ The prepared statement of Mr. Eggers appears in the Appendix on 
+page 38.
+---------------------------------------------------------------------------
+    My name is William Eggers. I am the Executive Director of 
+the Deloitte Center for Government Insights. It is a research 
+institute which has published hundreds of studies on public 
+management, including dozens on CX and trust in government. I 
+also serve as a fellow at the National Academy of Public 
+Administration (NAPA), and as mentioned, I have authored 
+numerous books on government reform, digital transformation, 
+and public-private partnerships.
+    Deloitte is the world's largest professional services 
+provider with more than 120,000 U.S.-based colleagues, 
+including 25,000 who work with government agencies all over 
+America on modernization and digital transformation.
+    I want to start off with a thought experiment. Imagine a 
+baby girl is born in a hospital. Once given a name, her birth 
+certificate and Social Security Number (SSN) are generated 
+automatically. Her parents immediately receive information 
+about tax credits they are eligible for and other resources for 
+new parents. Their services are all activated the moment the 
+hospital registers the birth.
+    Now imagine similar services being triggered through not so 
+happy events in a citizen's life: unemployment, a mental health 
+crisis, the loss of property due to a natural disaster or the 
+death of a loved one. The United Kingdom (UK) citizens coping 
+with the death of a loved one used to have to notify multiple 
+departments up to 44 times about the death. Not anymore. In a 
+single interaction, the U.K.'s ``Tell Us Once'' process 
+triggers notifications to all the relevant agencies in all 
+levels of government. This is precisely what state-of-the-art 
+government service delivery can, and should, look like. In 
+fact, many governments around the world are already delivering 
+services this way: proactive, frictionless, seamless, and 
+structured around critical life events.
+    Now CX is not a new concept for the U.S. Government. A 
+series of Executive Orders, OMB circulars, and initiatives 
+developed over the past three decades have focused on improving 
+the customer experience in government, and most recently, 
+President Biden's Executive Order emphasized improving customer 
+experience by focusing on their life experiences as a way to 
+build trust in government.
+    The good news is that the Federal Government has made 
+strides in improving the citizen experience, as Martha 
+mentioned. One standout is the Department of Veterans Affairs, 
+which having made customer experience and trust a major 
+priority seven years, has dramatically improved veterans' 
+satisfaction and trust.
+    Despite some bright spots, however, low scores on citizen 
+services on both trust in government and on CX show that the 
+Federal Government still has a long way to go. One problem is 
+that too often attempts to improve CX have focused on improving 
+government operations from the lens of government, not 
+citizens. For example, only half the government managers we 
+surveyed said their agencies consistently collect feedback from 
+constituents about their experiences accessing government 
+services. To truly enhance the citizen experience, government 
+agencies must place citizens at the center of service delivery 
+and ask how to meet their needs.
+    Protecting government services around life events, like the 
+birth of a child or starting a business, is one way to provide 
+citizens with exactly what they need regardless of how many 
+services or agencies are involved. This approach cannot only 
+improve citizen satisfaction but also cut costs, enhance 
+mission effectiveness, and slash the invisible tax resulting 
+from the friction of interacting with siloed government 
+systems.
+    Focusing on CX can be a powerful tool for improving 
+declining trust in government. Our research demonstrates a very 
+strong link between customer experience and public trust, and 
+because digital is now often the first point of interaction 
+many Americans have with government, a good online experience 
+can generate a positive impression from users and enhance 
+overall trust in government.
+    World-class CX in government will entail linking services 
+and funding across multiple agencies and levels of government. 
+This poses significant challenges to how agencies operate today 
+because it means overcoming silos in governance, culture, 
+processes, and budgeting.
+    The good news is that the experiences in numerous other 
+countries show that such changes are possible. We have gleaned 
+five principles that have guided these efforts. No. 1, put the 
+user at the heart of service integration. No. 2, design a 
+governance model that facilitates cross-agency collaboration. 
+No. 3, incentivize agencies to work together through shared 
+funding. No. 4, prioritize user trust by addressing privacy and 
+security concerns. Finally, build the required infrastructure 
+to deliver improved customer experience. Such shifts are 
+difficult but possible with sustained effort, resources, and 
+leadership.
+    Thank you, and I look forward to your questions.
+    Chairman Peters. Thank you, Mr. Eggers.
+    Today's final witness is Mathew Lira. Mr. Lira is a partner 
+at Hangar Capital, an investment firm dedicated to leveraging 
+emerging technology to find solutions to the nation's toughest 
+challenges. Mr. Lira brings a unique mixture of experiences 
+from government, national campaigns, and the private sector.
+    Previously, Mr. Lira served as the Special Assistant to the 
+President for Innovative Policy at the White House Office of 
+American Innovation, and he has also served as a senior advisor 
+to then House Majority Leader Kevin McCarthy and then House 
+Majority Leader Eric Cantor.
+    Welcome, Mr. Lira. You may proceed with your opening 
+remarks.
+
+      TESTIMONY OF MATHEW LIRA,\1\ PARTNER, HANGAR CAPITAL
+
+    Mr. Lira. Chairman Peters, Ranking Member Portman, 
+distinguished Members of this Committee, thank you for holding 
+today's hearing and for the opportunity to discuss this 
+important topic.
+---------------------------------------------------------------------------
+    \1\ The prepared statement of Mr. Lira appears in the Appendix on 
+page 52.
+---------------------------------------------------------------------------
+    Let us begin with the good news. Momentum is building, and 
+progress is being made. The Federal Government's institutional 
+capacity for change management has been strengthened by the 
+bipartisan work of this Committee. The Tested Ability to 
+Leverage Exceptance National Talent Act (TALENT Act), the 
+Modernizing Government Technology Act, the Centers of 
+Excellence Act, and the 21st Century IDEA Act are reforms which 
+continue to provide direct benefits to the American people, a 
+fact demonstrated as recently as last week's announcement of 
+dedicated CX funding in the Technology Modernization Fund.
+    Yet, despite this progress, why does the challenge of 
+improving customer experiences remain so pervasive across the 
+Federal Government? Quite simply, we live in a time of 
+exponential change, and far too often agencies are making 
+linear progress. Over time, this means even as meaningful 
+progress is made the gap between a customer's expectation and 
+the experiences is getting worse.
+    The only way to close this gap is for the pace of 
+improvements to match or exceed the pace of change. Agencies 
+must implement solutions which are capable of scaling to the 
+size of the problem. Toward that end, I recommend the following 
+initial steps be taken.
+    One, efforts should initially focus on high impact service 
+providers, the 35 Federal programs dedicated by OMB as having 
+public-facing services with the greatest scale and impact. The 
+prioritization of improvements to high impact service providers 
+in the President's management agenda and recent Executive Order 
+are welcome developments that should be supported by this 
+Committee.
+    Two, agencies should leverage commercial technology at 
+scale. The technology to solve this problem exists. It exists 
+today. In fact, it is largely commoditized across our economy. 
+We do not need to hire Thomas Edison to invent the light bulb. 
+We simply need to be smart enough to go into the marketplace 
+and buy it. From robotic process automation, the digitization 
+of citizen-facing forms, the use of electronic signatures, and 
+other standards-compliant, Software as a Service (SaaS) 
+platforms and products, proven commercial technologies exist 
+that provide truly exceptional experiences and can solve so 
+many of the customer experience problems facing agencies.
+    Three, as my fellow witnesses have stated, CX needs a 
+guaranteed seat at the table. There must be increased 
+accountability within agencies for customer experiences. Too 
+often the prioritization of CX improvements within agencies are 
+driven by the ad hoc actions of a single advocate rather than 
+as empowered equity in the organization's design. I believe 
+this Committee should direct agency heads to designate and 
+empower a senior official with Chief Experience Officer (CXO) 
+responsibilities for every high impact service provider within 
+their respective agencies, with a budget and operational 
+authorities to match that responsibility.
+    Four, agencies should leverage the authority they have been 
+given. Far too many authorities given to agencies by Congress, 
+and this Committee in particular, remain underutilized. 
+Specifically, this Committee should encourage OMB to issue 
+implementation guidance for the provisions outlined in the 21st 
+Century IDEA Act and to leverage the requirement that all 
+agencies comply with the design standards of the U.S. Web 
+Design System. In all candor, as we have seen with success of 
+similar efforts in the United Kingdom and various State 
+governments, I believe the proper implementation of this single 
+provision would do enormous good for the customer experiences 
+across the government.
+    Five, quantitative measurement of results. The Committee 
+should explore requirements to collect and publish quantitative 
+metrics of Federal service delivery. While qualitative metrics 
+provide valuable insights, the direct measurement of customer 
+experiences--wait times, backlogs, time to resolution, and 
+other key performance indicators--are essential to meaningfully 
+measuring the net effectiveness of agency efforts.
+    In conclusion, while the issue of agency customer 
+experiences does not grab headlines every day, it does impact 
+millions of Americans every single day, people for whom broken 
+links and poorly implemented web forms equate to sleepless 
+nights and stolen time away from their families, millions of 
+people who often in their most vulnerable moments deserve to be 
+treated with dignity and respect. By leveraging modern 
+technology, our government has the potential to deliver 
+exceptional customer experiences and in the process restore the 
+public's faith in our national institutions once again.
+    Thank you again for the opportunity to testify before this 
+Committee, and I look forward to answering your questions.
+    Chairman Peters. Thank you, Mr. Lira.
+    Mr. Eggers, according to the Pew Research Center, trust in 
+government has remained low for most of the 21st century. Only 
+two in 10 Americans say they trust the government in Washington 
+to do what is right. Based on your research, could you share 
+with the Committee the most prevalent factors that have 
+contributed to such a low level of confidence in the Federal 
+Government?
+    Mr. Eggers. I think there is a number of things that can be 
+done to rebuild that trust. Why do we not see that trust 
+always? First of all, trust starts with making people feel 
+trust. Much of this happens when citizens interact with 
+government. By focusing on interactions and improving this 
+experience is a really important first step, and when those 
+interactions are not good interactions, then people have 
+declining trust. So making the interactions empathetic, 
+inclusive, and very human can have a positive experience, and 
+this can have a cascading impact on the rest of government.
+    Second, it is about transparency. Trust can be improved by 
+having much greater transparency around government policy 
+decisions, technology decisions, by openly sharing information 
+on data collection, security measures, privacy controls, and 
+around trustworthiness.
+    The other finding that we found was that while the overall 
+level of trust in government has been declining, when you 
+actually look at trust in individual agencies, there is very 
+big discrepancies. There are some Federal agencies that are 
+actually highly trusted, and oftentimes those are the agencies 
+that people have the most interactions with.
+    We cannot address the issue of trust and confidence issues 
+in the Federal Government with a one-size-fits-all approach 
+because strategies to build greater trust between citizens and 
+law enforcement will entail a bigger focus on looking at 
+humanity in terms of that as a trust signal while most 
+important for service agencies like the Postal Service are 
+reliability and competency.
+    The key thing is that agencies really need to focus on what 
+are the signals looking at in terms of where trust is high or 
+low and what the citizen experience looks like and actually 
+really focus on improving that in the same way that we saw with 
+the VA over the last six years.
+    Chairman Peters. Thank you.
+    This next question is to Mr. Lira and Ms. Dorris. We will 
+have you go first, Mr. Lira, then Ms. Dorris. You both have 
+significant experience in government agencies and have tried to 
+address a number of issues while you were there. I would like 
+you to share with the Committee some of the obstacles that you 
+faced when you were trying to drive customer experience 
+transformation to regain the trust that we have just talked 
+about with Mr. Eggers. What are the obstacles that we have to 
+overcome, Mr. Lira?
+    Mr. Lira. Thank you for the question, Mr. Chairman. I would 
+put it in two categories. The first and the most dominant are 
+the process blockers. It is the stated policy of the 
+government, oftentimes supported by statute. It is the willful 
+intent of agency leaders through Executive Orders and agency 
+planning.
+    It is inside the process, where agencies either get bogged 
+down or move too slowly, things like, logistical matters such 
+as authorities to operate or going through a procurement 
+process that takes months or even years instead of weeks and 
+days. These are known issues, and the agencies that were able 
+to move the fastest and to make the most progress were where 
+they constructed what I would call a leadership spine, 
+essentially a core team of advocates and stakeholders at every 
+level of the organization. It was not enough simply to have a 
+well-motivated Chief Technology Officer (CTO). You needed to 
+have equally well-motivated procurement officer and equally 
+well motivated counsel so that you can manage the process of 
+getting an agency to move forward.
+    Very rarely, if at all, it was a technology problem. It was 
+not, as I said in my testimony, a need to create technology or 
+to invent it or, even in some cases, to build it. It was 
+getting through a process that is tied to a different era.
+    But that leadership spine, I think, is constructive as the 
+second big blocker, which can be cultural. Oftentimes when 
+agencies were resistant to change, it was not a result of 
+anything more than fear of what it would mean for the workforce 
+or fear of what it would mean for how they operate through 
+their daily lives as professionals. When you can address those 
+concerns, it was amazing how quickly all the reasons and 
+blockers could sort of melt away.
+    Again, that is where I would go back to the principle of a 
+leadership spine and how can we structurally include 
+stakeholders at every level of the organization because much 
+like the human spine, if even a single layer is missing, you 
+have an enormous impact on mobility, and the agencies that are 
+able to move the fastest built that with a lot of purpose.
+    Chairman Peters. Thank you.
+    Ms. Dorris.
+    Ms. Dorris. Thank you, Chairman Peters, for that question. 
+As you know, I spent many years in the government trying to get 
+the government to embrace customer experience, and I think in 
+some ways it is very complex but in some ways it is very 
+simple. That is making customer experience a priority at all 
+levels in the government and actually understanding what 
+customer experience really means, and that is why I spent so 
+much time on kind of definitions and the differences between 
+customer service, customer experience, and user experience.
+    Customer experience really does take into account 
+everything that everybody has mentioned, so making that 
+understanding, making people accountable, leadership to drive 
+that home, putting the customer at the center. Once you have it 
+as a priority, then you can figure out how do you put the 
+customer at the center, how do you have outside-in thinking 
+rather than inside-out thinking.
+    I think the comments made around silos. Agencies do not 
+think of things from an enterprise perspective. People think 
+about customer experience, and they go right to technology. 
+Contact centers are a critical component to delivering like an 
+end-to-end digital experience, which does not get very much air 
+time, but the integration of contact center data and in-person 
+data and what people are calling about, interested in, and have 
+problems with can actually driving improvements to the digital 
+experience.
+    With that, I think it starts at the top and works its way 
+down.
+    Chairman Peters. Thank you.
+    Ranking Member Portman, you are recognized for your 
+questions.
+    Senator Portman. Thank you, Mr. Chairman, and again, thank 
+you all for your expertise you are bringing to this. It is 
+frustrating because it seems like we make progress and then one 
+step forward, sometimes one or two steps back. One of the 
+realities is that we live in, as some of you have acknowledged, 
+an increasingly complicated world with more and more digital 
+experiences, and with that digitization comes a great 
+opportunity to make things more efficient but also a great 
+opportunity to make things more complicated.
+    I mentioned the GSA website as an example and the problem 
+that Ohio small businesses are having with it. It was done in 
+house. One of my general approaches to this is that do not do 
+it in-house if you can buy it off the shelf. It is more 
+efficient, it is better for the taxpayer, and you know, those 
+commercially available products tend to work better. It does 
+not mean that there are not some specialized functions.
+    Any thoughts about that from the three of you? Ms. Dorris.
+    Ms. Dorris. Thank you, Ranking Member Portman. I have a lot 
+of thoughts about it. I think, first, websites--we will tackle 
+the one question about buying versus building. I agree. I spent 
+many years at GSA building things internally to provide to 
+Federal agencies, and we could never really sustain it over 
+time with the resources and the expertise that we needed.
+    I know that we are leading toward building a lot, and today 
+that could be purchased off the shelf. I agree with you 100 
+percent. I think that there is room for building things that 
+are pilots that can be used and tested internally to know what 
+you really need and then buying more commercial products.
+    In terms of the website piece, I think that websites are a 
+critical component to delivering digital services, but they 
+really--taking a website strategy only does reduce equity and 
+access, and so that is why I like the customer experience piece 
+of----
+    Senator Portman. Yes, talking in terms of call centers and 
+so on is part of it, too.
+    Ms. Dorris. Exactly. Yes.
+    Senator Portman. So quickly on that question on in-house, 
+out-of-house, any very quick responses from the two of you 
+because I have so much I want to talk to you about?
+    Mr. Eggers. Yes, I would just say really quickly I 
+completely agree with you. Let us look at call centers, contact 
+centers. There is a lot of best-in-class technologies right 
+now, about 15 of them, when you look at AI and when you look at 
+robotic process automation, and so on and so forth. Actually 
+bringing those together and integrating those into a whole, 
+that is the key to really having a great call center 
+experience.
+    Call centers should not be a back-office function anymore. 
+They should be really at the center, at the heart of a lot of 
+citizen experience with government, and we have a lot of great 
+technologies now, off-the-shelf technologies that can be 
+integrated to provide that experience.
+    Senator Portman. Yes. Combined with the higher technology 
+we now have, so it is not telephone trees anymore. It is AI.
+    Yes, Matt.
+    Mr. Lira. Senator, I completely agree. I believe very 
+strongly that we need to leverage the technology that is in the 
+marketplace rather than try and invent it in the government for 
+two reasons. One, the one that was already mentioned is about 
+the core competency and the sustainability of that change. Even 
+if you can build an exceptional team to build a product in a 
+moment, can that sustain over the decades?
+    Senator Portman. Yes, can you sustain it?
+    Mr. Lira. The second is about scale. We are dealing with 
+major programs that touch, in some cases, hundreds of millions 
+of Americans, and it is very unlikely that a small team in an 
+agency could ever scale to the size of the problem.
+    Senator Portman. Yes. I think that is an interesting 
+observation from all of you and we need to keep it in mind.
+    You talked about quantitative measurements of results, Mr. 
+Lira, and I could not agree with you more. One of the 
+challenges we have with regard to the 21st century IDEA Act, as 
+an example, is measuring it. I told you earlier I am 
+disappointed in the implementation. I, frankly, am not sure 
+because I do not know how to measure it very well and our team 
+has had some issues on that.
+    There is this Federal Information Technology Acquisition 
+Reform Act (FITARA) measurement that is not related as much to 
+the customer service generally but to IT improvements, and they 
+have a measurement, a metric, that they have put together. Do 
+you think that on things like--you mentioned wait times as an 
+example and other ways to measure government service, 
+including, by the way, answering the telephone or getting the 
+right answer in terms of the IRS, to measure that.
+    But, should we incorporate customer service metrics into 
+something like the FITARA scorecard? Would that make sense, Ms. 
+Dorris?
+    Ms. Dorris. I think for the FITARA scorecard, since that is 
+targeted to Chief Information Officers (CIOs), having a digital 
+services component to that scorecard that measures that because 
+it is a critical piece to service delivery. I think customer 
+experience on its own should have a scorecard that has, a whole 
+group of measures around, building internal capacities, and do 
+they have strategies and governance, and do they actually 
+measure things, and how do they set targets. I do think FITARA 
+should include that, but I also think CX needs its own report 
+card.
+    Senator Portman. Mr. Eggers.
+    Mr. Eggers. I would just speak to overall CX and look again 
+at the VA. They launched VSignals to measure customer 
+experience across the VA. They collected more than 4 million 
+survey responses, 1.8 million comments from veterans, and then 
+they started measuring what matters. They measured the 
+attributes that drove trust, and they have been able to improve 
+their ability to create a world-class experience.
+    It was not a once-a-time thing. They continued to look at 
+this, and one interesting thing the data showed was that the 
+veterans' most common complaint was not about health care; it 
+was about scheduling, visiting a hospital, lack of facilities 
+in the waiting room. By measuring it this way, they were able 
+to evolve into a more empathetic and trusted organization.
+    Senator Portman. They took the time to do the survey, to 
+find out what the customer experience really was and what the 
+needs were.
+    Mr. Lira, I suppose that you are going to answer the 
+previous question saying, yes, we should have more quantitative 
+measurements, and I am going to ask you something else.
+    IDEA. Why has it not been implemented more effectively? One 
+of my concerns, as you know perhaps, is that OMB has not issued 
+the guidance that they are required to do under this law and 
+until that guidance is issued it is very difficult to get the 
+agencies to implement this integrated digital experience 
+legislation. What is your view on it?
+    You helped me a lot in writing the bill and advocating for 
+it. What is the problem, and what is the solution?
+    Mr. Lira. Great question, Senator. I think the first 
+problem is a question of prioritization. Clearly, the bill 
+became law in 2018-2019 timeframe. We headed into the crisis, 
+and so there was a lot on various agencies' plates. OMB needs 
+to issue the implementation guidance. Firsthand the importance 
+of OMB's leadership on an issue like this. I believe that the 
+21st Century IDEA Act is greatly aligned with their strategy in 
+the President's Management Agenda (PMA) and in the Executive 
+Order. I view it as a tool that will enhance their strategy 
+rather than distract.
+    The second is the role of this Committee in oversight. I, 
+to answer very briefly, think something like a CX scorecard, 
+perhaps even as a standalone product, could help reinforce the 
+implementation of that Act and other legislative 
+accomplishments of this Committee in the way that the FITARA 
+scorecard has done with that report card.
+    It is tangible. It is binary. It is quantitative. I will 
+say, firsthand, being on the other side of Pennsylvania Avenue, 
+it was an incredibly useful tool, the FITARA scorecard, in 
+driving agency deliverables.
+    Senator Portman. To all three of you and to my colleagues 
+on the Committee, let us work on that. I think that is 
+something that could be very meaningful both to move the IDEA 
+Act implementation but also more generally with regard to 
+customer service metrics, understanding what the needs are, 
+understanding what the success or failure is in implementing 
+the strategies.
+    Thank you.
+    Chairman Peters. Thank you, Senator Portman.
+    Senator Lankford, you are recognized for your questions.
+
+             OPENING STATEMENT OF SENATOR LANKFORD
+
+    Senator Lankford. Mr. Chairman and Ranking Member, thanks 
+for holding this hearing to be able to have a dialog about 
+customer service.
+    If I go on hold with just about any commercial entity 
+nowadays, they tell me how long I am going to wait; they ask if 
+I want to get a callback rather than wait that long; they say 
+if you will hold at the very end of this you can push a button 
+to be able to give us an evaluation. If I go to a fast food 
+restaurant, on my receipt, it says, hey, punch in your survey 
+here and we will actually give you a free meal next time if you 
+will tell us how we are doing. So everybody seems to say, to 
+me, please give me your feedback until I log in with a Federal 
+agency, and then I do not get that same response.
+    As we worked through the process over the last several 
+years, I have a bill called the Federal Agency Customer 
+Experience (FACE) Act. FACE Act is not that revolutionary. It 
+allows agencies to get customer service information back so 
+that individuals that want to give feedback to agencies can. I 
+have been fought and fought and fought on this for years now.
+    The simple statement is: Allow the American people to give 
+feedback to agencies. In this case, with the FACE Act, if 
+agencies want the feedback even, so it even gives them the 
+latitude. It is not requiring agencies to do it.
+    It is finally in real conversation at this point, after 
+years of pushing this simple idea, to say, allow the American 
+people to be able to do that.
+    Mr. Lira, you had mentioned before there are some things 
+that are moving. I was nodding my head when you said that 
+earlier, to say, yes, there are finally some breakthroughs on 
+this, where people are starting to say, OK, let us let the 
+American people talk to their own government like everyone 
+talks to other entities.
+    With that, let me ask a couple of questions on this. Some 
+agencies, as you mentioned VA, have started to experiment 
+already with finding ways around it to be able to get feedback 
+on this, some of the most basic things, how long is this line, 
+the details that go out to other Americans dealing with other 
+entities. What is the low-hanging fruit for customer service 
+experience that the technology already exists that Federal 
+agencies could put in place?
+    I want kind of a rapid response of what your thoughts are 
+of what are customer service improvements that could be done 
+right now with technology that already exists. You can take 
+that in any order.
+    Mr. Lira. Do you want to start?
+    Ms. Dorris. Sure. Thank you, Senator, for that question. I 
+think your legislation around getting feedback is really where 
+agencies should start because that way they can actually 
+identify those pain points and adopting some of those best 
+practices from the private sector, such as transparency, 
+knowing where people are in the queue and how their 
+applications or their transactions are going through that 
+process. Same thing with the customer callback function, that 
+is starting to get use. IRS just started using that, but that 
+also saves time and efficiency.
+    There is, many other--even on the website, use of 
+analytics, use of whether it is the digital analytics program 
+that GSA has or even more detailed analytics through their 
+websites and their contact centers, and having agencies really 
+assess those metrics to see where those pain points are.
+    Senator Lankford. OK. Mr. Eggers, Mr. Lira, do you have 
+anything you want to add on that?
+    Mr. Eggers. Yes, very quickly. I would say what we are 
+seeing in the private sector is a focus on 
+hyperpersonalization. We are seeing the contact center not as a 
+back-office function but instead as an experience hub. We are 
+seeing omni-channel service delivery wherever you are at any 
+one time, and you stop, you come back, and they know exactly 
+where you are, a big focus on using solutions like AI and 
+blockchain, and a strong focus on digital trust.
+    Senator Lankford. OK. Mr. Lira.
+    Mr. Lira. First of all, on the FACE Act, I think getting 
+that sort of data is absolutely essential. It is natural for 
+any large organization to be hesitant, especially if they are 
+concerned about what that data might show. But as I like to 
+say, the person waiting in line knows how long they are waiting 
+in line, and so if you do not collect that data the only person 
+you are fooling is yourself.
+    Senator Lankford. Right.
+    Mr. Lira. It is very critical that agencies do that.
+    To your question on technology, I am particularly bullish 
+on robotic process automation as a bridge technology between 
+legacy systems and modern customer experiences. One of the 
+challenges that we faced at agencies was the sequential nature 
+of having to improve a largescale agency enterprise system 
+which might be decades old before you can make the necessary 
+customer experience improvements, and technologies like robotic 
+process automation (RPA) enable you to bridge that gap.
+    Again, you have seen that in places like the United Kingdom 
+and in various State governments, where they have been able to 
+use technologies like RPA to do them concurrently. Even as they 
+are making the back-end improvements, they are making 
+meaningful improvements to the front-end experience.
+    Senator Lankford. OK. That is helpful because we all hear 
+the same phrase over and over again: We would do this except 
+for our legacy hardware and legacy software.
+    I have heard that for 10 years as agencies request 
+additional dollars, and then dollars are allocated to them, and 
+then they come back next year with the exact same line: We have 
+legacy hardware and software. We cannot do this anymore.
+    Let me bring up, Mr. Eggers, what you had mentioned before 
+about duplication and trying to get some cooperation. If you 
+are a pipeline company and you are trying to submit requests 
+and information through Federal Energy Regulatory Commission 
+(FERC) right now, you are going to fill out different forms, 
+but you are going to put the same information in form after 
+form after form after form that you are turning in. Multiple 
+different entities are like this, where you are filling out the 
+same information, and agencies are not cooperating and sharing, 
+to be able to share that information, or it just does not save 
+to be able to do it.
+    Another illustration I can give you that I brought up for 
+years, the Census Bureau, every 10 years, contacts every single 
+American and gets basic information back from them, and they 
+act like this is something that no other entity in the Federal 
+Government does, and they have this complicated system to do 
+it. The IRS actually contacts almost every citizen in America 
+every year. But the IRS and the Census Bureau refuse to 
+cooperate with each other to where every 10 years Census Bureau 
+information could be added to the IRS forms, and then when you 
+turn in your IRS forms you are also completing your census that 
+year. They continue to fight that idea and say, no, the two of 
+us cannot share information on this.
+    What is holding us back in Federal agencies from sharing 
+that information so that people are not refilling out forms or 
+an area that is as simple as when you complete your IRS form 
+every year, once every 10 years, that is also your census 
+information?
+    Mr. Eggers. I would just say this is one area where we are 
+pretty far behind many other countries around the world. Almost 
+every country in the European Union (EU) right now has a once-
+only process right now that they are implementing or have 
+implemented, where basically you only have to give our 
+information to government once and then it is shared, and this 
+is even across different levels of government. But they made 
+this a priority starting about five to seven years, first 
+learning from Estonia.
+    On the business example, I think that is something we have 
+not talked about yet, but actually looking at the business the 
+government-to-business sort of thing and looking at businesses 
+as customers, treating them that way. You can dramatically 
+reduce the friction, reduce the cost of compliance with 
+government while actually increasing compliance, by focusing on 
+business as a user, and that is not done enough in a lot of the 
+regulatory agencies today.
+    Senator Lankford. No, it is not.
+    Thank you, Mr. Chairman.
+    Chairman Peters. Thank you, Senator Lankford.
+    Senator Padilla, you are recognized for your questions.
+
+              OPENING STATEMENT OF SENATOR PADILLA
+
+    Senator Padilla. Thank you, Mr. Chair. I want to thank the 
+three of you for your participation today.
+    I concur with a theme that has already come out of the 
+hearing, that we should consider every interaction between 
+citizens and the government as an opportunity to either 
+demonstrate whether we are being efficient and effective and 
+trustworthy, or at least measure, because if we are not, how do 
+we improve upon customer service.
+    I want to acknowledge that President Biden's Executive 
+Order from this last spring noted that too often a disaster 
+survivor, a small business owner, a veteran, an immigrant can 
+wait months for the Federal Government to process the benefits 
+to which they are entitled, and this lost time is referred to 
+as a so-called time tax because of the delay. We clearly are 
+committed to reducing this time tax that is imposed on 
+citizens, and we should be striving to make it easier for 
+citizens to interact with government, particularly for the most 
+vulnerable.
+    For the most vulnerable, sometimes them accessing the aid 
+that they are entitled to involves invasive and time consuming 
+and confusing requirements. That is why, among other 
+initiatives, I have pushed for a pilot program to address the 
+documentation barriers facing people.
+    For example, people experiencing homelessness, as primary 
+Exhibit A, I mean, somebody whose everyday concern leads with 
+finding a place to sleep, finding a place to shower, finding 
+somewhere to eat. That requires a considerable amount of 
+cognitive bandwidth, and adding layers of paperwork with 
+different requirements to receive benefits adds an unnecessary 
+tax, that time tax that I talked about, which can be mentally 
+or emotionally insurmountable for a lot of people.
+    Again, that is an Exhibit A of how the lenses of customer 
+service, customer experience I should say, and behavioral 
+science should be applied to a wide variety of policy reforms, 
+whether they are related to accessing deserved public benefits, 
+paying taxes, solving food insecurity, navigating disaster 
+benefits or anything else.
+    The lead-up, and it is predictable for you, Mr. Eggers. You 
+studied other countries who are using human-centered design and 
+behavioral science to significantly improve outcomes. How have 
+you seen that work, improve societal equity as well, and what 
+lessons might we take away that should apply here in the United 
+States?
+    Mr. Eggers. First of all, I could not agree with you more. 
+We just released a study looking at digital access for all and 
+looking at the role of digital experience in actually 
+increasing equity. It is a really important subject that a lot 
+of cities and States are now focused on.
+    Just look at, say, the Supplemental Nutrition Assistance 
+Program (SNAP) application process. At one point in California, 
+it was 50 pages long. Most people who are applying oftentimes 
+they do not have laptops. They are doing it off their phone and 
+so on. They really looked at how do we simplify that user 
+experience, how do we make it much more simple to do, and 
+really by focusing on what does the journey look like, what are 
+the obstacles, what are the pain points, and really 
+understanding that in a deep way, where can we automate it, and 
+so on and so forth.
+    There are things going on in that respect, and I think it 
+is one of the equity issues that people do not talk enough 
+about because it does have this time tax. But to think about 
+the homeless or a mental health crisis. That is a Byzantine 
+system to go through, and what we can do is we can streamline 
+that by really focusing on it.
+    But the problem that often you see here is the silos 
+between government agencies, the silos between levels of 
+government and even sometimes between the public and private 
+sector. That is the major thing that needs to be really fixed 
+because citizens do not care what government agency is 
+providing the service. They just want to get something done and 
+especially if they are facing a real sort of tough and 
+difficult issue in their lives. As you said, you do not want to 
+overload them from a cognitive standpoint.
+    We have a lot of examples from all over the world that do 
+that. Let me give a quick example. In Portugal right now, 
+Ukrainian refugees, they can ask for temporary protection. Once 
+they get that protection, immediately, they get a Social 
+Security Number, they get a tax ID number, and they get a 
+health insurance number. It happens automatically, so then they 
+can access government benefits and the labor market. They do 
+not have to do anything for that to happen. It all happens 
+behind the scenes with government agencies.
+    Senator Padilla. Yes. Just as an aside, having been in 
+public service first at the municipal level and at the State 
+level and now at the Federal level, by the time somebody picks 
+up the phone to call a department, an agency, or an elected 
+official's office to ask for help, they are usually near wit's 
+end. Right?
+    They have tried to figure it out on their own. They have 
+asked a spouse, a child, a friend or a neighbor. If they have 
+access to reliable internet, they have searched online. By the 
+time they get to the point of picking up the phone, if they 
+have not given up, at wit's end, and our systems for taking the 
+intake and processing rarely keeps that in mind.
+    Ms. Dorris, you spent many years focusing on creating a 
+citizen-focused culture. What recommendations do you have for 
+us to better include the voices of particularly the most 
+vulnerable?
+    Ms. Dorris. Thank you, Senator. I think, Bill gave some 
+great examples of using different components of customer 
+experience in terms of getting feedback, bringing people who 
+are in the situation into the design as much as possible, 
+having a staff that reflects the people that you are trying to 
+serve so that when you are designing services that you have 
+input from users in those circumstances or people who can 
+identify with that.
+    Creating a culture, again, starts at the top in terms of 
+even setting priorities and setting customer values, including 
+for serving underserved populations. It all kind of comes 
+together in the way and the priorities within the agency.
+    Senator Padilla. OK. Thank you very much.
+    I would love to explore this further, but I know my time is 
+up. Thank you, Mr. Chair.
+    Chairman Peters. Thank you, Senator Padilla.
+    As we start to wrap up the hearing, we have heard a number 
+of ideas from all three of you. I am going to ask you here in 
+some final comments, what is your top thing that you think we 
+should do in Congress, in this Committee, whether it is 
+legislation, whatever action you think we should take? Of all 
+the ideas that you have put out there and you have written 
+about, I am going to ask each of you to give me your top idea, 
+something that we should take charge of. I will start with you, 
+Ms. Dorris.
+    Ms. Dorris. Thank you for that question. I think having a 
+Federal Chief Customer Officer to drive these changes and 
+improvements would be my No. 1, which was really hard to come 
+up with one.
+    Chairman Peters. Mr. Eggers.
+    Mr. Eggers. I would say three real quick ones. First is 
+funding. The funding designated from the Technology 
+Modernization Fund, it is a good start, but more is needed. For 
+instance, in just the State government of New South Wales in 
+Australia, they have allocated more than $2 billion in their 
+Digital Restart Fund to accelerate life events and whole of 
+government digital transformation. I think more funding is 
+needed.
+    More flexibility. You need flexibility in interagency 
+mechanisms to pool funds, second employees from these projects.
+    Then, oversight. We cannot change what we cannot measure. 
+The passage of the Customer Experience Bill would be of great 
+help to drive change and other sort of mechanisms we have 
+talked about today.
+    Chairman Peters. Great. Thank you.
+    Mr. Lira.
+    Mr. Lira. Mr. Chair, if I could recommend only one item, it 
+would be the robust but purposeful oversight of this Committee 
+on progress on these issues. The Committee has done an 
+incredible bipartisan job over many years giving agencies the 
+tools. There are some more than need to be added, but seeing 
+that the progress is being followed through on at the agency 
+level. This does not necessarily need to be adversarial or 
+about just sort of ``gotcha'' and finding anecdotes. But in the 
+spirit of the FITARA scorecard, providing consistent oversight 
+and measurement of progress by Federal agencies is actually a 
+tool, and I have seen it firsthand, for the people in the 
+agencies who are driving that change.
+    Chairman Peters. Great. Thank you.
+    One final question. As Congress continues to introduce and 
+pass legislation that addresses various facets of consumer 
+experience, we continue to hear that well-intentioned, about 
+some outdated laws, such as the Privacy Act and the Paperwork 
+Reduction Act (PRA), can actually impede the ability of Federal 
+agencies to enhance customer experience while still respecting 
+privacy and reducing the burden.
+    So to each of you, in your opinion, what are particular 
+aspects of these laws that should be reformed to enable greater 
+service delivery and customer satisfaction? I will start with 
+you, Mr. Eggers, and then, Mr. Lira and Ms. Dorris, you can 
+wrap it up.
+    Mr. Eggers. I would just say, as we have talked about this 
+whole session, to actually do this well, you need to get a lot 
+of feedback from users and you need to just basically be able 
+to understand what the users are going through in a very deep 
+way, and that is how every company and every other government 
+does modern digital today. Anything that impedes that right now 
+needs to be reformed and modernized.
+    Obviously, the Paperwork Reduction Act was passed for a 
+very different time. I think that is the key thing to focus on. 
+Various administrations have looked at this for years, but I do 
+not think we have seen the sort of progress that we really need 
+to do digital and customer experience well.
+    Mr. Lira. The laws that you mentioned have not been 
+reauthorized in the Digital Age.
+    Chairman Peters. Right.
+    Mr. Lira. There is a great deal of legacy laws there that 
+are no longer relevant to today's world, as Mr. Eggers 
+indicated. In some ways, the Paperwork Reduction Act has 
+become, in practice, the Paperwork Protection Act because it 
+has inhibited the ability of agencies to move quickly.
+    As you know, Mr. Chairman, there are critical and important 
+equities around privacy and the protection of the citizens 
+against overly abusive processes from agencies, and those 
+equities should be protected and any reform in those areas. But 
+clearly, if the political capital exists to update and 
+reauthorize those bills for this age and for the age going 
+forward, it would do a tremendous amount of good in agencies.
+    Chairman Peters. Thank you.
+    Ms. Dorris.
+    Ms. Dorris. Thank you, Chairman. I agree with both Bill and 
+Matt, and I think that especially the Paperwork Reduction Act 
+has provided agencies with convenient excuses for not 
+collecting feedback over the years. That needs to be changed so 
+that we can better understand how the public businesses, 
+employees, et cetera, are interacting in their experience with 
+the government.
+    Chairman Peters. Right. Thank you.
+    We are in a vote series, so I am going to have to slip off.
+    Did you have any other additional questions?
+    Senator Padilla. [Shaking head negatively.]
+    Chairman Peters. I have one member who is on her way here. 
+Senator Rosen is on her way. She should be here momentarily, so 
+I will leave the gavel here. But when Senator Rosen comes back, 
+she will pick up the gavel, she will ask her questions, and 
+then we will adjourn the meeting. That should happen in a few 
+minutes.
+    We will be in recess until Senator Rosen gets here, which 
+should be momentarily.
+    [Recess.]
+
+               OPENING STATEMENT OF SENATOR ROSEN
+
+    Senator Rosen [presiding.] The Committee will reconvene.
+    Thank you for waiting. We really appreciate it. Of course, 
+we are in the middle of a vote, so I appreciate your 
+indulgence.
+    I am not going to thank the Chair; that would be me. But I 
+appreciate all of you being here and for testifying and for the 
+work that you do.
+    I want to talk a little bit about the small business 
+startup experience and their experience with the government. 
+Mr. Eggers, in your written testimony, you discussed how 
+founding a small business is really a significant life event, 
+right, when Americans often have to interact with multiple 
+Federal agencies and even multiple levels of government. Small 
+business startups face a number of challenges in the United 
+States, not the least of which is navigating the complex web of 
+local, State, and Federal requirements.
+    In Nevada, we have seen a spike in new startups over the 
+last two years, I am proud to say, including nearly 100 in the 
+Reno-Sparks metro area alone. That is why I am working to 
+improve the startup experience through legislation I hope to 
+soon introduce to create a central portal, an Small Business 
+Administration (SBA) portal, where small business startups can 
+find information on Federal, State, and local permitting and 
+licensing requirements. It becomes a one-stop shop so you or 
+the other business owners do not have to find a million 
+different phone calls or internet addresses, and it is just one 
+way to enhance the customer experience for startups and help 
+them navigate everything they need to do.
+    Mr. Eggers, what other kinds of coordination across levels 
+of government do you think we can do to improve the business 
+customer experience, and how can we here in Congress help 
+facilitate that?
+    Mr. Eggers. I am so glad that you are focused on that. I 
+wrote a study a number of years ago that was called 
+``Compliance without Tears,'' which is basically by improving 
+the government-to-business you can actually both increase 
+compliance but actually reduce the costs to business 
+dramatically, and we need a lot more focus on that.
+    A good example of the business one-stop that you are 
+talking about is actually in the State of Connecticut right 
+now. The State of Connecticut has a portal which has 
+information and services by significant business group, and 
+they look at starting a business, managing a business, and it 
+has customized checklists to guide business owners through the 
+process of setting up a business entity. More than 17,000 
+checklists have been created on the portal since it went live 
+in the summer of 2020, and so that is a great example of 
+actually being very proactive in this way.
+    I mentioned Portugal. They have also done things like this.
+    But actually, if you look at like teaming up with States 
+like that--and Ohio has the Ohio Business Gateway, and others 
+which are pretty advanced in this area--and getting to the 
+point where you can have an integrative approach from Small 
+Business Administration, from these State portals that are 
+doing it the same way and at the local government level, you 
+can dramatically reduce those costs of starting a business and 
+the friction that it involves.
+    Senator Rosen. Would you like to build on that, about how 
+can we help you do information sharing, data sharing between 
+intergovernment agencies the same way through this portal? Are 
+there other things we can do like that that would help reduce 
+the number of forms that you may have to fill out?
+    Mr. Eggers. Absolutely. There is a lot of technology 
+solutions to that right now, and we see that happening all the 
+time. I do not want to get into the details of it, but it is 
+around application programming interface (APIs) and 
+microservices and other sorts of things where you actually do 
+not even have to share a lot of sensitive information. It is 
+just a way of sharing that data between entities.
+    Every company uses this sort of technologies right now to 
+share data across different departments. We are seeing this 
+happening more and more in government agencies around the 
+world. We are seeing this in New Zealand and Australia as they 
+try to integrate across levels of government. That is what I 
+think is really important, and that is an area where I think 
+the United States is a little bit behind some other countries 
+right now, but we can learn lessons from them in doing so.
+    I do think just as you mentioned. I think starting a 
+business and the business area is a really great place to start 
+there.
+    Senator Rosen. Yes, and I think that that is really true, 
+and that really leads to my next question about investing in 
+our technology infrastructure so that we can do these kinds of 
+things that make it easier for someone to start a business, 
+with common data being shared across agencies, not sensitive 
+data but maybe name, address, phone number. Simple things make 
+a huge difference. Right?
+    I want to build on Senator Lankford's comments on legacy 
+technology because as many people here know I am a former 
+computer programmer. I wrote code and Common Business-Oriented 
+Language (COBOL) and Formula Translation (FORTRAN) and 
+Assembler way back. We will not say how far back, but it is 
+troubling that there is agencies at the State and the Federal 
+level whose IT still run on those legacy systems that I used 
+when I started my career, in the 1980s.
+    Improving customer service, again, with the government 
+means not only modernizing these websites but being better able 
+to digitize all of our experiences and bring that 
+infrastructure really down to everyone and make it more 
+flexible and better customer service.
+    Ms. Dorris, what are the biggest challenges in upgrading 
+government IT that are needed for enhancing the public's 
+experience with the government because this is where I think 
+people's opinion of how government works for them really is? 
+Who answers the phone? Who answers the e-mail? How easy are 
+these systems to navigate? These are the frustration barriers 
+that prevent people from doing what they need to do or having 
+success.
+    Ms. Dorris. Thank you, Senator. I really do not think that 
+the issue is technology as much as it is making service 
+delivery and the experience a priority. I think it is around 
+the culture in an organization and working together and 
+breaking down stovepipes by putting the customer at the center 
+and working through the solutions to get to the experience that 
+you want to provide. I think it is driving those measures and 
+changing the culture to a place where people can work together 
+to deliver better experiences to citizens and to businesses.
+    Senator Rosen. You talked in your written testimony about 
+mobile devices really a dominant technology for most people. 
+What investments do you think we need to make to better make 
+that mobile, digital experience improve that for interacting 
+with customers?
+    Ms. Dorris. Great question. I think all websites should be 
+available--should be mobile-enabled, and this impacts people 
+using websites, but it also enables the underserved communities 
+to be able to access information and services. That has been 
+part of the 21st Century IDEA Act that was passed in 2018, and 
+mobile is definitely an important component to it.
+    Senator Rosen. Yes, I could not agree more. In order to do 
+all these things, there is something really important we have 
+to do, and that is investing in our technology workforce 
+because we cannot do any of these creative measures, we cannot 
+do any of this programming, IT support, all of that without 
+having the professionals. Building that tech workforce of 
+tomorrow is not only important for our government but for 
+securing our data, cybersecurity, for every individual that 
+interacts with our Federal agencies and, I would argue, State, 
+local, and the like.
+    That is why my bipartisan Cyber Ready Workforce Act, which 
+we introduced, would provide grants for registered 
+apprenticeships in cybersecurity so that we can fill the 
+nation's over 700,000 job openings just in cybersecurity alone, 
+including in the Federal Government. These jobs are critical to 
+protecting the data of Americans seeking assistance, so we do 
+not want to create these portals and not have them be safe.
+    Ms. Dorris, how can cybersecurity and IT workforce 
+development programs, reskilling, upskilling, how can they help 
+us build the talent pipeline and protect people's personal 
+information? What more do you think we can do?
+    Ms. Dorris. I think cybersecurity is obviously a high 
+priority in terms of securing the systems that we use, but it 
+is also important to delivering on the better experience for 
+users of government systems. I actually am involved in the U.S. 
+Cyber Challenge Program, which really was to identify the next 
+cybersecurity workforce, and we hold cybersecurity camps, that 
+then we can drive some new talent into both government and 
+industry.
+    I think whatever the Federal Government can do to one 
+impediment to this has been on the Federal level, is training 
+people in cybersecurity who are a certain level in the 
+government and then being trained and wanting to go into a 
+cyber position, but the Federal personnel regulations did not 
+allow them to go into that work, the cyber workforce at a 
+higher level. They had to go back at the same level they were. 
+We have a lot of human resource (HR) issues to work through in 
+terms of reskilling the workforce for new kinds of skills.
+    Senator Rosen. I will have my team reach out to you. I 
+would be interested in hearing about some of those roadblocks 
+in HR that prevent us from upskilling or reskilling folks in 
+the cyber space. Thank you.
+    I want to thank you all again for being here, for joining 
+us today, for your thoughtful work on where we need to go 
+moving forward because, as we have heard, improving customer 
+experience in government is a tremendously important priority 
+for this Administration and for Congress. Enhancing the ability 
+of Federal agencies to deliver seamless, secure, and equitable 
+services increases trust in government and reduces unnecessary 
+burdens on our taxpayers. This Committee will continue to 
+examine ways we can support these critical customer service 
+priorities.
+    The record for this hearing will remain open for 15 days, 
+until 5 p.m. on July 8, 2022, for the submission of statements 
+and questions for the Record.
+    This hearing is now adjourned. Thank you.
+    [Whereupon, at 11:34 a.m., the Committee was adjourned.]
+
+                            A P P E N D I X
+
+                              ----------                              
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+
+
+
+                                 
+

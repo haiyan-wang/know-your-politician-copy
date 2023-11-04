@@ -1,0 +1,2636 @@
+
+ - BUILDING THE SPACE WORKFORCE OF THE FUTURE: STEM ENGAGEMENT FOR A 21ST CENTURY EDUCATION
+
+[Senate Hearing 116-617]
+[From the U.S. Government Publishing Office]
+
+
+
+                                                        S. Hrg. 116-617
+
+                      BUILDING THE SPACE WORKFORCE
+                     OF THE FUTURE: STEM ENGAGEMENT
+                      FOR A 21ST CENTURY EDUCATION
+
+=======================================================================
+
+                                HEARING
+
+                               before the
+
+                   SUBCOMMITTEE ON AVIATION AND SPACE
+
+                                 of the
+
+                         COMMITTEE ON COMMERCE,
+                      SCIENCE, AND TRANSPORTATION
+                          UNITED STATES SENATE
+
+                     ONE HUNDRED SIXTEENTH CONGRESS
+
+                             FIRST SESSION
+
+                               __________
+
+                            NOVEMBER 5, 2019
+
+                               __________
+
+    Printed for the use of the Committee on Commerce, Science, and 
+                             Transportation
+
+
+
+
+
+                  [GRAPHIC NOT AVAILABLE IN TIFF FORMAT]
+
+
+
+
+
+                 Available online: http://www.govinfo.gov
+
+
+                               ______
+                                 
+
+                 U.S. GOVERNMENT PUBLISHING OFFICE
+
+52-796 PDF                WASHINGTON : 2023
+
+
+
+
+
+
+
+
+
+
+
+
+
+       SENATE COMMITTEE ON COMMERCE, SCIENCE, AND TRANSPORTATION
+
+                     ONE HUNDRED SIXTEENTH CONGRESS
+
+                             FIRST SESSION
+
+                  ROGER WICKER, Mississippi, Chairman
+
+JOHN THUNE, South Dakota             MARIA CANTWELL, Washington, 
+ROY BLUNT, Missouri                      Ranking
+TED CRUZ, Texas                      AMY KLOBUCHAR, Minnesota
+DEB FISCHER, Nebraska                RICHARD BLUMENTHAL, Connecticut
+JERRY MORAN, Kansas                  BRIAN SCHATZ, Hawaii
+DAN SULLIVAN, Alaska                 EDWARD MARKEY, Massachusetts
+CORY GARDNER, Colorado               TOM UDALL, New Mexico
+MARSHA BLACKBURN, Tennessee          GARY PETERS, Michigan
+SHELLEY MOORE CAPITO, West Virginia  TAMMY BALDWIN, Wisconsin
+MIKE LEE, Utah                       TAMMY DUCKWORTH, Illinois
+RON JOHNSON, Wisconsin               JON TESTER, Montana
+TODD YOUNG, Indiana                  KYRSTEN SINEMA, Arizona
+RICK SCOTT, Florida                  JACKY ROSEN, Nevada
+
+                       John Keast, Staff Director
+                  Crystal Tully, Deputy Staff Director
+                      Steven Wall, General Counsel
+                 Kim Lipsky, Democratic Staff Director
+              Chris Day, Democratic Deputy Staff Director
+                      Renae Black, Senior Counsel
+
+                                 ------                                
+
+                   SUBCOMMITTEE ON AVIATION AND SPACE
+
+TED CRUZ, Texas, Chairman            KYRSTEN SINEMA, Arizona, Ranking
+JOHN THUNE, South Dakota             BRIAN SCHATZ, Hawaii
+ROY BLUNT, Missouri                  TOM UDALL, New Mexico
+JERRY MORAN, Kansas                  GARY PETERS, Michigan
+CORY GARDNER, Colorado               TAMMY DUCKWORTH, Illinois
+MARSHA BLACKBURN, Tennessee          JON TESTER, Montana
+SHELLEY MOORE CAPITO, West Virginia  JACKY ROSEN, Nevada
+MIKE LEE, Utah
+
+
+
+
+
+
+
+
+                            C O N T E N T S
+
+                              ----------                              
+                                                                   Page
+Hearing held on November 5, 2019.................................     1
+Statement of Senator Cruz........................................     1
+Statement of Senator Sinema......................................     3
+Statement of Senator Wicker......................................     5
+Statement of Senator Capito......................................    23
+Statement of Senator Rosen.......................................    25
+Statement of Senator Thune.......................................    27
+
+                               Witnesses
+
+Dr. Linda T. Elkins-Tanton, Managing Director, Interplanetary 
+  Initiative and Principal Investigator of NASA Psyche Mission, 
+  Arizona State University.......................................     7
+    Prepared statement...........................................     9
+Jeffrey Manber, Chief Executive Officer, Nanoracks LLC...........    10
+    Prepared statement...........................................    12
+J.R. (Josh) Gladden, Ph.D., Vice Chancellor for Research, 
+  Professor of Physics, University of Mississippi................    14
+    Prepared statement...........................................    16
+SheLla Rivano Condino, Physics Teacher, Oakton High School.......    17
+    Prepared statement...........................................    19
+
+                                Appendix
+
+Response to written question submitted by Hon. Jerry Moran to:
+    Dr. Linda Tarbox Elkins-Tanton...............................    39
+    Jeffrey Manber...............................................    39
+    J.R. (Josh) Gladden, Ph.D....................................    40
+    Sheila Rivano Condino........................................    40
+
+
+
+
+
+
+
+
+
+ 
+BUILDING THE SPACE WORKFORCE OF THE FUTURE: STEM ENGAGEMENT FOR A 21ST 
+                           CENTURY EDUCATION
+
+                              ----------                              
+
+
+                       TUESDAY, NOVEMBER 5, 2019
+
+                               U.S. Senate,
+                Subcommittee on Aviation and Space,
+        Committee on Commerce, Science, and Transportation,
+                                                    Washington, DC.
+    The Subcommittee met, pursuant to notice, at 2:30 p.m. in 
+room SD-562, Dirksen Senate Office Building, Hon. Ted Cruz, 
+Chairman of the Subcommittee, presiding.
+    Present: Senators Cruz [presiding], Wicker, Thune, Moran, 
+Gardner, Capito, Sinema, Cantwell, and Rosen.
+
+              OPENING STATEMENT OF HON. TED CRUZ, 
+                    U.S. SENATOR FROM TEXAS
+
+    Senator Cruz. Good afternoon. This hearing is called to 
+order.
+    I am very pleased to see a hearing on STEM and math and 
+science and precision is starting precisely at 2:30 and 0 
+seconds. That is an auspicious way to begin this discussion.
+    Earlier this year on one of the hottest nights of the 
+summer, nearly a half million people crowded onto the National 
+Mall. They were not there for a protest or to celebrate a 
+national holiday, and they were not there for a concert or to 
+watch a fireworks show. No. Instead, a half million people went 
+there drenched in sweat to watch the story of the Apollo 11 
+mission as it was projected onto the Washington Monument, 
+commemorating the moment 50 years ago when Neil Armstrong and 
+Buzz Aldrin took that giant leap for mankind.
+    As everyone in D.C. knows, if there are a half million 
+people on the Mall and it ain't a protest, something big is 
+going on. And landing the first humans on the Moon and 
+returning them safely to Earth marks as one of the epochal 
+moments in the history of mankind.
+    As we look out over our space landscape today, what we see 
+is very different from the landscape of 1969. Indeed, not only 
+did we succeed in going to the Moon and back again, but we have 
+gone on to put robotic rovers on distant planets, celestial 
+observatories in orbit that can literally peer into the 
+beginnings of the universe, and we have established an enduring 
+human presence in low-Earth orbit. In the span of a single 
+lifetime, we have seen space fundamentally transformed from an 
+uninhabited void or a scientific novelty to an integral part of 
+our daily lives and the world economy.
+    Space is often referred to as the last frontier. And 
+rightfully so. Much like the first frontiers of exploration, 
+space is hard. It takes meticulous planning and extraordinary 
+determination, and even then nothing is guaranteed. It is 
+dangerous, but the last frontier shares a critical aspect with 
+the first frontiers through its power now and tomorrow to 
+inspire us.
+    The space race of the 1960s inspired Americans to aim 
+higher, to dream bigger than they ever had before, to literally 
+shoot for the Moon. And I believe the burgeoning space sector 
+of today can do the same for an even bigger and broader swath 
+of the United States and the world.
+    Just a few weeks ago, we witnessed the historic all-female 
+space walk on the International Space Station, the first ever. 
+And when the United States returns to the Moon as a part of the 
+Artemis program--Artemis, of course, being the twin sister of 
+Apollo--well, NASA has committed that we will land the first 
+woman ever on the surface of the Moon and it will be an 
+American astronaut who steps forth on the Moon. As the father 
+of two young daughters, that makes me very proud, indeed.
+    As we return to bold space exploration, we do so not only 
+with a much more diverse astronaut corps, but also a much more 
+diverse set of commercial and nongovernmental partners. As we 
+move out on these plans, it is worth remembering the success of 
+Apollo 11 and our national space program as a whole was due in 
+no small part to the contributions of a diverse work force, 
+including countless women who were working behind the scenes 
+and whose stories have only recently become household names.
+    One of those women, Dr. Christine Darden, testified before 
+this Subcommittee earlier this year. Dr. Darden was one of the 
+famed human computers at NASA, and without her work and the 
+work of many other so-called computers, many of them African 
+American women, we never could have sent astronauts into space, 
+let alone brought them back safely.
+    Unfortunately, for far too long, Dr. Darden and the other 
+human computers' contributions were hidden, relegated to the 
+background for a time. Her story and the story of others like 
+her serves as a reminder of the lessons we need to learn to 
+ensure that we are cultivating and elevating talent and 
+leadership not based on race or gender, but based on merit, 
+based on skill, based on hard work, and based on passion.
+    Today's hearing is about building the kind of workforce 
+that ensures NASA and the diverse group of partners we return 
+to space exploration has the skilled base of people it needs to 
+be successful now and in the future, that ensures the space 
+economy can continue to grow, and that we will be successful in 
+establishing the United States of America as the leader and a 
+true space-faring nation.
+    To accomplish this, we can and should leverage the 
+inspiration of space and space exploration to get kids of all 
+ages, of all backgrounds, resources engaged, excited about 
+science and technology and engineering and math.
+    But that alone is not enough. Creating the space workforce 
+for the future will require us to take a serious look at the 
+road ahead, to explore unconventional partnerships and roles of 
+responsibility and to take other decisive actions as needed to 
+maintain U.S. leadership in space. Getting it right will be a 
+complex and challenging undertaking. After all, space is hard.
+    But I am reminded and encouraged by something Gene Kranz, 
+the Apollo 11 flight director, said of that mission when he 
+testified before this subcommittee in July of this year: what 
+America will dare, America will do.
+    I look forward to hearing from our witnesses today about 
+their work in STEM education and what suggestions they might 
+have for how we in Congress can act. And I want to thank, in 
+particular, the Ranking Member for her initiative in proposing 
+that we hold this hearing and for her leadership, bipartisan 
+leadership, that has strengthened this Committee, and I look 
+forward to continuing working alongside her many years to come.
+    With that, I recognize the Ranking Member.
+
+               STATEMENT OF HON. KYRSTEN SINEMA, 
+                   U.S. SENATOR FROM ARIZONA
+
+    Senator Sinema. Well, thank you, Chairman Cruz, for holding 
+this hearing. I am excited about today.
+    Our STEM workforce is at a critical juncture. The U.S. 
+space economy is booming, but if we do not build a strong STEM 
+education pipeline, we will face a deficit of millions of 
+workers over the next decade, putting our economy and national 
+security at risk.
+    Congress, Federal agencies like NASA, industry partners, 
+and most importantly, educational institutions must work 
+together to develop and prepare a 21st century workforce so we 
+continue to lead in space and so our economy remains innovative 
+and strong.
+    So thank you today to Dr. Elkins-Tanton, Mr. Manber, Dr. 
+Gladden, and Ms. Condino for joining us today to discuss this 
+important issue.
+    Since it was established in 1958, NASA has had productive 
+partnerships with universities across the country, including a 
+few in Arizona. As we develop more advanced space technologies, 
+set large goals for the country's space program, and grow our 
+aerospace industry, we must continue these partnerships to 
+ensure we have a strong work force. This starts with educating 
+students and giving them hands-on research opportunities to 
+excel in STEM fields.
+    Universities and students across the country currently work 
+with NASA on important projects such as mission monitoring, 
+research and analysis. In my home State of Arizona, Arizona 
+State University, University of Arizona, and Northern Arizona 
+University all work with NASA to further its mission both big 
+and small. The talented faculty across the state propose 
+innovative ideas and bring new opportunities to students.
+    When Administrator Bridenstine testified in front of the 
+full Commerce Committee earlier this year, he said, quote, NASA 
+has had amazing success with university partnerships. Arizona 
+universities are leading the world when it comes to university 
+engagement with NASA and developing these programs and 
+projects.
+    For example, at ASU, Dr. Elkins-Tanton's mission, Psyche, 
+marks the first time a university has led a deep space NASA 
+mission. She and her team will be the first scientists to study 
+an asteroid, which is remarkably similar to a planetary core, 
+once the spacecraft launches in 2023 and arrives at the 
+asteroid in 2030.
+    University of Arizona is also paving the way for future 
+missions with its work on OSIRIS REx. Dr. Dante Lauretta leads 
+the science team and the mission's science observation planning 
+and data processing. The team at University of Arizona is 
+critical to the success of this mission that will bring the 
+first asteroid sample to Earth.
+    All three of Arizona's public universities also participate 
+in the Arizona Space Grant Consortium, which is jointly funded 
+by NASA and the three universities. This Space Grant works to 
+attract and retain students in STEM fields. In Arizona, the 
+Space Grant Consortium partners awarded 175 paid internships 
+and fellowships to Arizona students in 2018 alone, which allows 
+students to work alongside principal investigators on a mission 
+like Psyche or OSIRIS REx, actively building Arizona's STEM 
+workforce.
+    These mission and research advancements offer us critical 
+insights into space, and they also spark interest and passion 
+in our next generation of scientists, mathematicians, and 
+engineers.
+    But students are not the only ones benefiting because NASA 
+gains innovative ideas which, when paired with their expertise 
+and resources, can push the boundaries of what we thought was 
+possible.
+    When the Administrator testified, he also stated that 
+university projects typically meet both cost and schedule. At 
+an agency like NASA where money and time are both limited and 
+projects are sometimes over budget and behind schedule, these 
+partnerships are key to maximizing science and discovery across 
+the universe.
+    As we look ahead, we must grow these partnerships, retain 
+the knowledge that is gained from them and train the next 
+generation. That is the only way we can ensure we have a 
+workforce ready to keep America at the forefront of space.
+    This week, we are introducing legislation to help address 
+the STEM workforce concerns that are raised today. The National 
+Aeronautics and Space Administration Authorization Act of 2019, 
+which I am looking forward to introducing with Chairman Cruz, 
+Chairman Wicker, and Ranking Member Cantwell, includes 
+provisions that require NASA to establish an outreach program 
+to encourage high school students to pursue careers in 
+technical education and gives NASA the ability to establish and 
+grow lasting partnerships between itself and universities 
+through research centers.
+    I am also proud to work with Senator Capito on legislation 
+which will modernize the space grant program for the first time 
+since 1988. Our bill will streamline the program and ensure 
+that State consortia have the resources to recruit and retrain 
+the next generation of scientists, engineers, and 
+mathematicians.
+    I look forward to hearing from our witnesses on ways we can 
+address these issues and the other issues we face as a country.
+    Thank you so much, Mr. Chairman. I yield back.
+    Senator Cruz. Thank you.
+    I now recognize the Chairman of the Full Committee for his 
+opening statement.
+
+                STATEMENT OF HON. ROGER WICKER, 
+                 U.S. SENATOR FROM MISSISSIPPI
+
+    Senator Wicker. Well, I want to congratulate my two 
+colleagues on their excellent opening statements.
+    Senator Cruz described the crowd witnessing the 50th 
+anniversary in dramatic, vivid, almost poetic words. I could 
+almost sense the pungent fragrance of that sweaty throng 
+gathered on the Mall.
+    [Laughter.]
+    Senator Cruz. Almost like a Senate hearing.
+    [Laughter.]
+    Senator Wicker. The clerk will note crosstalk and just say 
+``crosstalk.''
+    [Laughter.]
+    Senator Wicker. In the 50 years since the Apollo 11, NASA 
+has continued to achieve incredible feats. None of these 
+missions would have been possible without the support and 
+partnership of America's educational system, in particular the 
+talent and expertise found in our universities. And that is why 
+we are here today.
+    University researchers continue to lead groundbreaking 
+projects in space technology and scientific discovery. In doing 
+so, they involve students, some of whom become scientists, some 
+of whom become engineers, others mathematicians for NASA and in 
+the private sector. Maintaining this pipeline is vital to 
+maintain America's preeminence in outer space. And I am glad to 
+be a cosponsor of the legislation Senator Sinema mentioned.
+    Today's panel represents a cross section of the NASA STEM 
+education ecosystem. I would like to extend a particular 
+welcome to Dr. Josh Gladden, Vice Chancellor for Research at my 
+alma mater, the University of Mississippi. Ole Miss' work with 
+NASA includes on graphene, a material with transformative 
+potential for many applications, including space flight. In 
+fact, this past weekend, NASA launched a graphene research 
+payload to the International Space Station.
+    So thank you all for being here today. Thank you, Mr. 
+Chairman, and I look forward to a great discussion on improving 
+STEM engagement to help build the space work force.
+    Senator Cruz. Thank you, Mr. Chairman. And I will say your 
+remarks reminded me--growing up, both my parents were 
+mathematicians, and an old engineer's joke about the Washington 
+Monument is a mathematician and physicist and an engineer go to 
+the Washington Monument. And they are each discussing how to 
+figure out how tall it is.
+    And the mathematician says it is very simple. All I need is 
+a length of string and a transit. I can measure the distance 
+through the transit. I can measure the angle to the top of the 
+monument. It is a simple matter of trigonometry to figure out 
+the height of the monument.
+    The physicist says, no, no, no, it is much simpler than 
+that. I will take the elevator to the top of the monument. I 
+will tie the string around the transit. I will lower it down to 
+the bottom of the monument and I will measure the length of the 
+string.
+    The engineer looks at both of them, looks at the tour 
+guide, and says, how tall is the damn thing.
+    [Laughter.]
+    Senator Cruz. With that, I am happy to introduce our 
+witnesses.
+    Our first witness, Dr. Linda Tarbox Elkins-Tanton, is the 
+Managing Director of the Interplanetary Initiative and the 
+Principal Investigator of the NASA Psyche Mission at Arizona 
+State University. Her research revolves around terrestrial 
+planetary formation, magma oceans, and subsequent planetary 
+evolution, including magmatism and interactions between rocky 
+planets and their atmospheres. She also promotes and 
+participates in education initiatives such as inquiry and 
+exploration, teaching methodologies, and leadership and team 
+building for scientists and engineers. Dr. Elkins-Tanton also 
+currently serves on the standing review board for the Europa 
+mission and served on the Mars panel of the planetary decadal 
+survey and on the Mars 2020 rover science definition team.
+    Dr. Elkins-Tanton received her Ph.D. in geology and 
+geophysics from MIT.
+    Our second witness is Mr. Jeffrey Manber, who is the 
+founder and CEO of Nanoracks. Since 2009, Nanoracks has created 
+products and offered research services for the commercial 
+utilization of space. Today Nanoracks is the single largest 
+private investor on the International Space Station with over 
+$40 million of private capital dedicated to commercial 
+facilities and equipment. Nanoracks employs 70 people in Texas 
+and has launched 250 small satellites and over 800 experiments 
+to the ISS.
+    Mr. Manber is also Chairman of DreamUp, an educational 
+public benefit corporation that lets students pursue 
+opportunities in space-based research and education.
+    Mr. Manber is a graduate of Northwestern University.
+    Our third witness is Dr. Josh Gladden, who is the Vice 
+Chancellor for Research and Sponsored Programs at the 
+University of Mississippi. In this role, Dr. Gladden works to 
+facilitate research and research funding, as well as provide 
+support for all funded projects at the university.
+    Prior to this role, Dr. Gladden served as Associate Vice 
+Chancellor for Research and as the Director of the National 
+Center for Physical Acoustics. Dr. Gladden also served in 
+elected national leadership positions including as a member of 
+both the executive committee for the National Spectrum 
+Consortium and chair of the Physical Acoustics Technical 
+Committee of the Acoustical Society of America.
+    Dr. Gladden received a Ph.D. degree in physics from the 
+Pennsylvania State University.
+    And finally, Ms. Sheila Condino is currently a physics 
+teacher at Oakton High School in Vienna, Virginia, but she is 
+also the founder and still an advisor of the famed Rocketry 
+Club at Presidio High School in Presidio, Texas. For those of 
+you who do not know, Presidio is located along the Rio Grande 
+River, 240 miles south of El Paso, and resides in one of the 
+most remote parts of the continental United States. For most 
+people in Presidio, English is a second language, and many 
+people face tough economic challenges, making it hard for 
+students to focus solely on school.
+    However, even under those circumstances, Presidio High 
+School's Rocketry Club has consistently placed well in contests 
+across the country, and as a result, they have become a well-
+respected rocketry team. During her time in Presidio, Ms. 
+Condino and her students excelled qualifying for the national 
+finals at the Team America Rocketry Challenge.
+    In 2011, Ms. Condino was chosen by the National Aviation 
+Hall of Fame selection committee to receive the Scott 
+Crossfield Aerospace Education Teacher of the Year Award.
+    Ms. Condino, received her bachelor's degree in physics from 
+Philippine Normal University in Manila, Philippines.
+    And with that, I welcome each of the witnesses and welcome 
+Dr. Elkins-Tanton to give her testimony.
+
+       STATEMENT OF DR. LINDA T. ELKINS-TANTON, MANAGING 
+DIRECTOR, INTERPLANETARY INITIATIVE AND PRINCIPAL INVESTIGATOR, 
+         NASA PSYCHE MISSION, ARIZONA STATE UNIVERSITY
+
+    Dr. Elkins-Tanton. Chairman Wicker, Chairman Cruz, Ranking 
+Member Cantwell, Ranking Member Sinema, and members of the 
+Committee, thank you so much for the opportunity to speak 
+today. I am testifying on my own behalf.
+    I am Managing Director and Co-Chair with University 
+President Michael Crow of ASU's Interplanetary Initiative, 
+which I will talk about a little bit today, and also PI of the 
+NASA Discovery mission Psyche, the 14th in the Discovery 
+portfolio, as mentioned by Chairman Cruz. Thank you.
+    We have a vision for an optimistic human space future, and 
+by ``we'' I mean we in this room. We have this vision. We want 
+humans to be an interplanetary species, and we want a situation 
+where our space exploration improves society on Earth and our 
+knowledge and care of the Earth itself. Those are the stakes 
+that we are talking about. These really are huge times for us 
+thinking about us going interplanetary, taking these steps.
+    Here are three key university-NASA partnership needs.
+    First is workforce development. We need talent to support 
+the growing aspirations of our Nation and to work with other 
+countries as the world's continuing leader in space. Therefore, 
+education has to be future-facing and workforce-oriented. I 
+think this is a very important thing to stress, that we are in 
+the information age now. The educational style of the 
+industrial era should be behind us. We need to look forward.
+    Second, returning to the Moon, this time to stay, will 
+require more than just engineers, scientists, and astronauts. 
+We need everyone involved, every aspect of society. We need 
+artists and philosophers. We need sociologists and 
+psychologists. We need business leaders and philosophers. These 
+are the kinds of connections that universities are really good 
+at putting together for a push like the push to become 
+interplanetary.
+    And third, this full stakeholder triangle of NASA and 
+universities and the private sector is required for our 
+interplanetary future. Nonprofit universities are uniquely 
+placed to create rapid responsive teams and transfer the 
+technological intellectual property produced at universities 
+into the private sector to the benefit of the space sector and 
+also to the American taxpayer. This transfer has to speed up.
+    So now is the time to grow our partnerships in these 
+fruitful, more targeted ways. Now is the time to set up 
+university-affiliated research centers and other such 
+mechanisms to speed up the development of specific solutions 
+and accelerate the flow of knowledge and technology to NASA and 
+to the private sector.
+    ASU is here to meet this challenge with a student 
+population of over 100,000 and as the number one ranked school 
+for university innovation 5 years in a row. It astonishes me 
+coming from the East Coast to see what a big public university 
+can be, and so many of us in this room understand the value of 
+these amazing institutions. And we are lucky in Arizona to have 
+several.
+    At ASU, our space sector partners include over 70 private 
+sector organizations, over 30 universities, and over 20 
+government agencies, labs, and centers. We have been working 
+very hard in the interplanetary initiative to develop new ways 
+to put together research teams that are effective, rapid, and 
+interdisciplinary, and include all the sectors. I feel strongly 
+that this triangle of three sectors--we have to figure out how 
+to bring those together to speed up innovation and speed up our 
+path to space. And we have been working on that specifically. 
+We have identified many of the big questions we have to answer 
+to achieve our space future, and we have begun to answer those 
+questions.
+    On the Psyche mission, we were challenged by NASA to make a 
+bigger student collaboration with greater impact. We pioneered 
+ways to create interdisciplinary capstone teams where students 
+learn real team collaborative skills while working on real NASA 
+mission challenges. We have, for example, student graphic 
+designers, student project managers and marketers working with, 
+for example, student electrical and mechanical engineers. This 
+is where the project managers actually get to help manage a 
+project. We have cohorts of student artists producing 
+inspiration and outreach.
+    And even though we are only 2 years into this mission, we 
+have a total of over 500 students who have worked with Psyche 
+already at a total of 27 universities from 15 states. And I say 
+this particularly to underscore my personal commitment that 
+this is not, of course, just about my university or just about 
+Arizona. This is about our society at large and our nation, and 
+I believe very strongly in bringing all sectors together. That 
+is what I am trying to work at in my career in every way.
+    The age of this Prussian style compliant industrial 
+workforce is over. You know what I am talking about. We do not 
+need to train better test takers. We need to change the nature 
+of education from a fixation on the memorization of a specific 
+content, something that I call the sacred content, the content 
+that your advisor taught you and you feel that you need to 
+teach the next person. We need to teach the ability to problem 
+solve, to assess data, and to work effectively in teams both 
+sharing information, criticizing and understanding information, 
+and giving and receiving feedback, things that often we do not 
+really practice until we are in the workforce. This is the 
+education of the future because the future is actually filled 
+with jobs that do not exist today. They do not exist today. So 
+we have to teach the process skills.
+    In the fall of 2020, the ASU Interplanetary Initiative will 
+launch the most forward-looking workforce-facing undergraduate 
+program to date. It is a part of our answer to education in the 
+information age. The bachelor of science in technological 
+leadership is a scalable three-year degree program using 
+exploration learning techniques in the classroom and having 
+students spend every summer in the workforce in internships. 
+Every student will learn the fundamental content for the future 
+of programming, statistics, calculus, collaborative problem-
+solving, communication, positive team psychology, and they will 
+also learn team communication, ethical leadership, and critical 
+thinking via a special methodology that we have been working on 
+for years.
+    We can accelerate space development by connecting 
+universities, NASA, and the private sector for knowledge 
+sharing and rapidly targeted innovation. We can be system 
+integrators, but even more importantly, we can create and 
+deploy the teams with members of all three sectors to solve the 
+greatest challenges.
+    Together with my sister universities, we are ready to 
+create our future. So let us go to space together.
+    [The prepared statement of Dr. Elkins-Tanton follows:]
+
+ Prepared Statement of Dr. Linda T. Elkins-Tanton, Managing Director, 
+   Interplanetary Initiative and Principal Investigator, NASA Psyche 
+                   Mission, Arizona State University
+Intensifying and targeting NASA-University partnerships for our space 
+        future
+    Full Committee Chairman Wicker, Full Committee Ranking Member 
+Cantwell, Chairman Cruz, Ranking Member Sinema, and Members of the 
+Committee, thank you for allowing me to speak today. I am testifying in 
+my personal capacity. I am the co-chair, with university President 
+Michael Crow, of the Interplanetary Initiative at ASU, and I am the 
+Principal Investigator of the NASA Psyche mission, the 14th in the 
+Discovery program.
+    We have a vision an optimistic human space future, we, in this 
+room, have this vision, where we are an interplanetary species, and 
+where our space exploration improves society on Earth and our knowledge 
+and care of Earth itself. Becoming multi-planetary in mind and in 
+reality is essential for the continued growth of civilization.
+    To achieve this future we need all stakeholders moving fast. Two of 
+the most critical stakeholders in this space future are NASA and 
+American universities. Our partnership, the partnership between 
+universities and NASA, is central and crucial to the future of space 
+exploration and settlement.
+    NASA partners with universities in many ways, though the most 
+common is through research grants and project contracts. But to speed 
+forward in the way we must to reach the Moon and Mars, we need to focus 
+and hone these partnerships.
+    Here are three key examples of university-NASA partnership needs:
+
+  1.  Workforce development: we need talent to support the growing 
+        aspirations of our nation, and to work with other countries as 
+        the world's continued leader in space. Therefore, education has 
+        to be future-facing, and workforce-oriented.
+
+  2.  Returning to the Moon, this time to stay, will require more than 
+        just engineers, astronauts, and scientists; it will require 
+        medical professionals, legal and policy experts, architects, 
+        writers, philosophers, and business leaders. Much of the 
+        research among these disciplines takes place in universities.
+
+  3.  The stakeholder triangle of NASA--universities--private sector is 
+        necessary for our space future requires the full involvement 
+        of. Non-profit universities are uniquely placed to communicate 
+        the needs, create rapid responsive teams, and transfer the 
+        research and technology intellectual property produced at 
+        universities through partnership with NASA into the private 
+        sector, to the great benefit of both the space industry and the 
+        American taxpayer.
+
+    Now is the time to grow our partnerships in these more fruitful, 
+targeted ways: Now is the time to set up University Affiliated Research 
+Centers and other such mechanisms to speed up the development of 
+specific solutions, and accelerate the flow of knowledge and technology 
+to NASA and to the private sector.
+    ASU is here to meet this challenge with a student population of 
+100K+ and as the #1 ranked school for innovation, five years in a row. 
+Under president Michael Crow and his vision for the New American 
+University, ASU is redefining the landscape of public higher education. 
+It's a more inclusive and collaborative model than any other 
+university. We are here to solve real-world problems, and educate for 
+the future. Our partners value our ability to meet their needs, and on 
+their schedule.
+    A vibrant, deep workforce is critical to our future. And the age of 
+the Prussian-style compliant industrial workforce is over. We don't 
+need to train better sitters-still, better passive listeners. We need 
+to change the nature of education from a fixation on a specific content 
+memorization to the ability to problem-solve, assess data, and work 
+effectively in teams, both sharing information and giving and receiving 
+feedback. This is the education of the future: Educating for the 
+processes, the transferrable skills, that every person needs for work 
+and life, and to speed forward the economy of the future, which is 
+filled with jobs that don't exist today.
+    ASU has created the Interplanetary Initiative to specifically meet 
+the needs of aerospace and execute on the vision of the administration. 
+For three years we have been developing the most innovative ways to 
+build research teams that are effective, rapid, and interdisciplinary, 
+and we've developed really new educational programs that create 
+collaborative problem-solvers for the future workforce. We identified 
+many of the big questions that we will have to answer to achieve our 
+space future. And we've begun the work to answer those questions.
+    Together with our sister universities ASU can accelerate space 
+development in the following ways:
+
+   Connecting universities, NASA, and the private sector for 
+        knowledge sharing and rapid targeted innovation--being system 
+        integrators, but even more, creating and deploying the teams to 
+        solve the greatest challenges
+
+   Developing core technologies needed to support the mission
+
+   Training the future workforce
+
+    We're ready now. Let's go to space together.
+Comment on university-led space missions
+    As you all know, NASA flies both flagship missions, that are 
+organized from NASA Headquarters, and competed missions, which are led 
+by scientists either an universities or at labs or NASA centers. Each 
+has its purpose and place in our exploration of space. Flagship 
+missions are critical for stimulating development of new technology and 
+for fulfilling the most complex of planetary goals.
+    Flagship missions can engage a broader swath of the community 
+through competed calls for instruments. These calls can bring new 
+groups onto missions, but the project scientist then has the challenge 
+of organizing and uniting disconnected sub-teams.
+    Competed missions have the advantage of being conceived of, 
+budgeted, and planned as a whole from the beginning. Flagships, in 
+comparison, are planned in segments and not under a single person's 
+uniting vision.
+    University-led competed missions, in particular, are regularly 
+coming in on time and on or even under budget. These are sometimes the 
+results of that single uniting leadership. Both the science vision, the 
+results, and the correct scheduling and budgeting make it clear that 
+university-led missions are a critical part of the NASA portfolio.
+
+    Senator Cruz. Thank you.
+    Mr. Manber.
+
+STATEMENT OF JEFFREY MANBER, CHIEF EXECUTIVE OFFICER, NANORACKS 
+                              LLC
+
+    Mr. Manber. Thank you. Chairman Cruz, Ranking Member 
+Sinema, Senator Wicker, and other distinguished members of the 
+Aviation and Space Subcommittee, thank you for giving me the 
+opportunity to return to this room to testify.
+    I am going to talk about something a little different about 
+how we can use and we are using the commercial pathway to space 
+to ensure we have a workforce for the next generation beyond to 
+keep us in the lead as a space-faring nation.
+    When we opened the doors at Nanoracks in 2009, we were met 
+with a pleasant surprise. Our first customers were schools, 
+something we never predicted. Our first experiments on Space 
+Station were small nanolabs that were developed by middle 
+school students. The parents literally held bake sales not for 
+their soccer team but to send their very own space science 
+experiments to the ISS via the Nanoracks Space Act Agreement 
+with NASA. This is something that could never have been 
+imagined before the commercial pathway. So there was no direct 
+NASA funding, but there was the public-private partnership with 
+NASA that has only taken off since.
+    One of our major educational partners is the Student 
+Spaceflight Experiments Program run by Dr. Jeff Goldstein, 
+which has been a flagship program for us at Nanoracks and 
+DreamUp. They are now on their 15th mission to the 
+International Space Station. They have involved over 100,000 
+students, and they learn about all aspects of the process from 
+designing the payloads to the curriculums, to launching, to 
+sending it to space, and the return. And again, nearly all of 
+this has been done with no direct NASA funding.
+    And just this weekend, Nanoracks flew the first-ever oven 
+to the International Space Station for our friends in the Zero 
+G Kitchen, and you may have heard that the first customer is 
+the DoubleTree, which is baking cookies. And before you laugh 
+and before you say this has no place at an educational hearing, 
+let me say that DoubleTree and Hilton are working with 
+Scholastic, and they have put a program in place in 50,000 
+schools across the country involving 1 million students with 
+curriculum to show them how baking is different on the Earth 
+than in microgravity. And this is how we capture the hearts and 
+minds of the younger people. And let me say that these are the 
+students that will one day bring humans to Mars, and yes, they 
+are going to want dessert when they get there.
+    So these are just two significant examples of hundreds of 
+payloads that I can reference. The commercially funded 
+experiments that we have flown to the ISS include plant growth 
+chambers, fluid chambers, DNA sequencing, all paid for by the 
+parents, the students, the sponsors, but not again direct NASA 
+funding. Of course, we need NASA. We need that public-private 
+partnership, but this is a new model. It is one model for 
+assuring education of our workforce.
+    And let me add, Chairman Cruz, that Nanoracks and DreamUp 
+have flown by now almost 60 educational payloads from Texas 
+schools from Hawkins, Houston, Burleson, El Paso, San Antonio, 
+Austin, Buda, and more. And I hope my New York twang did not 
+destroy anything there. OK?
+    Senator Sinema, we have also flown four experiments to the 
+Space Station from Arizona, and just this weekend from Wallops 
+Island, we had 15 students from Arizona State and they deployed 
+commercially a CubeSat satellite. And it was wonderful to meet 
+all the students. And they are great, and it gives us all 
+optimism.
+    So I am happy to provide the Committee with our full list 
+of statistics for all the districts in which we have flown 
+payloads and what we are doing in the future.
+    But we can do better, and we can do more to prepare the 
+workforce for the coming space economy.
+    First off, both DreamUp and Nanoracks know we can do more 
+to bring our under-represented communities to space. We have 
+begun a dedicated effort to involve historically black colleges 
+and universities, and I should have some good news in signing 
+our first historically black college and university in the next 
+couple of weeks.
+    And second, we must do more than have just engineers, and 
+you have mentioned that. Space is more than satellites and 
+rockets. We have to engage agricultural colleges like Texas A&M 
+or Prairie View A&M. We need to involve biology departments and 
+pharmaceutical students to help find that cure for cancer in 
+the microgravity of space that we have long thought was 
+possible.
+    And finally, by 2025, as our Nation and industry is focused 
+on the return to the Moon, we are driven to meet an exciting 
+goal. Nanoracks and DreamUp are working to ensure by 2025 we 
+have sent at least one student research project from every 
+congressional district to the International Space Station. This 
+is how we make sure that we have opened the eyes of all the 
+students from all sectors of our society.
+    We need the excitement, the tools, the cost efficiencies, 
+and the responsiveness of the private sector. It is part of 
+this public-private partnership that my colleagues, mostly from 
+the university sector, are talking about today. We need to 
+assure that the workforce of tomorrow is ready to keep us on 
+the Moon, move us on to Mars, and just as importantly, unlock 
+the new discoveries in the unique environment of space.
+    Thank you.
+    [The prepared statement of Mr. Manber follows:]
+
+    Prepared Statement of Jeffrey Manber, Chief Executive Officer, 
+                             Nanoracks LLC
+    Chairman Cruz, Ranking Member Sinema, and other distinguished 
+members of the Aviation and Space Subcommittee, thank you for giving me 
+the opportunity to return to this room to testify before you. I look 
+forward to discussing how commercial access to the International Space 
+Station has provided an unprecedented educational experience to over a 
+million students across the United States.
+    Let me begin today by explaining that I am here in two different 
+capacities. I am, of course, representing Nanoracks as the CEO, but I 
+am also Chairman of the Board for DreamUp, Nanoracks' educational 
+sister company. Once just a division in Nanoracks, we spun DreamUp out 
+to be a standalone public benefit corporation because the business of 
+providing educational access to space was, and remains today, strong 
+and important. DreamUp's sole focus is bringing space to the classroom, 
+and the classroom to space.
+    We opened the doors at Nanoracks in 2009 with the goal to make 
+space accessible to everyone. I am proud to say today that the very 
+first customers that brought Nanoracks into business were in fact, 
+schools. Our very first experiments were small projects that were 
+developed by middle school students. These kids quite literally held 
+bake sales--not to sponsor their soccer team, or raise money for the 
+school dance, but to send their very own science experiment to the 
+International Space Station via a Nanoracks Space Act Agreement with 
+NASA. This is something that could never be imagined before the 
+commercial pathway. Nanoracks standardized and miniaturized 
+technologies as well has created programs that made something as 
+complicated and expensive as space, into something that was both 
+affordable and doable within one school year.
+    One of our major educational partners is the Student Spaceflight 
+Experiments Program, run by Dr. Jeff Goldstein, which has been a 
+flagship program for Nanoracks and DreamUp since our first flights on 
+the Space Shuttle. Dr. Goldstein's program is now on their 15th mission 
+to the Space Station, and he has engaged nearly 100,000 students across 
+the country in the spaceflight process--from creating and hypothesizing 
+an experiment, submitting a proposal for review, building an 
+experiment, flying it to space, and receiving the experiment back on 
+the ground for analysis. Of course, not every proposal is selected--but 
+even those which aren't are provided a unique classroom experience 
+where they think critically, collaborate, and build a proposal 
+strategy, just as they would as future NASA or industry employees.
+    Notably, all of this has been done with no direct NASA funding.
+    Dr. Goldstein's program is one of many incredible programs that was 
+built on commercial access to the Space Station. Just this weekend, 
+Nanoracks flew the first-ever oven to the Space Station, set to bake 
+DoubleTree cookies on orbit. Never before has something been baked from 
+raw ingredients in microgravity. This provides not only for a 
+fascinating microgravity experiment contributing to how we endure long-
+duration space travel, but also allowed a private enterprise to build 
+an educational program, in partnership with Scholastic, that was 
+delivered to one million students in 50,000 classrooms across the 
+United States. Using a symbol of hospitality, this experiment shows 
+what will happen to one of the most relatable items on Earth--a 
+chocolate chip cookie--in the complex environment of microgravity. 
+Students who have never been engaged in space before, now have a 
+tangible object they recognize, and can think critically about what 
+would happen when gravity is taken away, and are learning how the 
+International Space Station and NASA are trying to best understand the 
+science behind human exploration. These are the students that may one 
+day bring humans to Mars--and yes, they are going to want desert when 
+they get there.
+    These are just two significant examples of hundreds that I can 
+reference. To date, Nanoracks has flown nearly 600 educational 
+experiments to the Space Station--experiments which include building 
+plant growth chambers and fluid chambers, materials aggregation, DNA 
+sequencing, and so much more.
+    If I might add, Chairman Cruz, that Nanoracks and DreamUp have 
+flown nearly 60 educational payloads to the Space Station from Texas 
+schools--from Hawkins, Houston, Burleson, El Paso, San Antonio, Austin, 
+Buda, and more.
+    Senator Sinema, we have also flown four experiments to the Space 
+Station from Arizona--including a university small satellite that 
+launched just this past Saturday! Over 15 students from Arizona State 
+University joined my team in Wallops Island to watch their hard work 
+take flight.
+    I am beyond proud of the educational outreach done by both 
+Nanoracks and DreamUp, but I would be remiss if I didn't use this 
+platform to share that we as a nation have so much more work to do.
+    These 600 payloads represent so much hard work done by students, 
+teachers, parents, and community leaders across the country--but the 
+strong majority come from well-off communities. Let's do more to bring 
+our underrepresented communities to space.
+    So today, Nanoracks and DreamUp have begun a dedicated effort to 
+engage Historically Black Colleges and Universities--and I hope to 
+share in the coming weeks some exciting news about these efforts. 
+Additionally, we will show that it's more than just engineers we are 
+looking for in the aerospace industry. We need to better engage 
+agricultural colleges like Texas A&M or Prairie View A&M, we need 
+involve biology departments and pharmaceutical colleges to find that 
+cure for Cancer. . Space is more than engineering today, and we are 
+dedicated to assuring we are fueled by more than a handful of schools.
+    Just last week, the 2019 National Assessment of Educational 
+Progress showed that average scores of fourth and eighth grade students 
+have declined since 2017. The Secretary of Education was quoted as 
+saying that America's `antiquated approach' to education fails too many 
+children.
+    This means that the model in which an educator, who holds all the 
+knowledge, stands in front of his or her classroom and imparts 
+knowledge to their students does not work anymore. The world is 
+changing too quickly, innovation happens too fast, and we must give 
+students real, hands-on experiences that teach them 21st Century 
+Skills, particularly the ability to think on their feet, adapt, and 
+persevere (even when they ``fail'').
+    We can do better by engaging the full spectrum of students in space 
+exploration as a clear path to make our next generations bolder and 
+brighter than my generation.
+    Since we're talking about education, let me provide the committee a 
+report card.
+    America has been doing great work in building up the next workforce 
+in STEM fields. The commercial pathway has provided unprecedented 
+access to students both in America and across the world, and created 
+job opportunities once never imagined. We have quite literally changed 
+the lives of students, and opened their eyes to the wonders of space. 
+But let's together cast a wider net. Funding for NASA's educational 
+division has long been debated. Let's not tie NASA's hands behind their 
+backs when it comes to educational outreach. Let's allow NASA the 
+freedom as other agencies have to have robust STEM programs. NASA is 
+likely one of the only government agencies that can inspire both a 5 
+year old and a 50 year old--something no other government agency can 
+boast. If we want to maintain American leadership in space, it's by 
+investing in the kids today that will be the future NASA Administrator, 
+or the future Chairman of this Subcommittee.
+    Today, I am announcing that Nanoracks and DreamUp are assuring that 
+every Congressional district in the United States has sent at least one 
+student research project to the International Space Station by 2025. We 
+will work with industry and educational organizations to assure that 
+the workforce taking us to Mars will be strong, world-class and 
+inclusive of all Americans.
+    I ask the Committee to join me and my team as we ensure America's 
+leadership in space via these ambitious but critical goals.
+    I am happy to provide the Committee with our full list of 
+statistics for all of the districts in which we've flown payloads, and 
+further information on our educational outreach products both on the 
+ground and on-orbit.
+    Thank you.
+
+    Senator Cruz. Thank you.
+    Dr. Gladden.
+
+            STATEMENT OF J.R. (JOSH) GLADDEN, Ph.D.,
+
+            VICE CHANCELLOR FOR RESEARCH, PROFESSOR
+
+             OF PHYSICS, UNIVERSITY OF MISSISSIPPI
+
+    Dr. Gladden. Mr. Chairman, members of the Subcommittee, let 
+me first thank you for the opportunity to provide my 
+perspective on the role that universities can and should play 
+in the development of the nation's STEM workforce to provide 
+NASA with the engineers and scientists needed to keep 
+accomplishing its mission into the next generation.
+    Chairman Cruz, you did a fantastic job of introducing me. 
+One little bit, if you go back a little deeper, I was a physics 
+teacher for about 5 years. So Ms. Condino and I can talk shop 
+afterwards.
+    As with many technical objectives and challenges we will 
+face in the next generation, the complexity of missions at NASA 
+will only increase. It is incumbent upon higher education to 
+prepare a workforce ready to meet those challenges.
+    One critical element in preparing this unique workforce is 
+the necessity to ingrain in them a predilection and a passion 
+for lifelong learning. Transformative technologies are no 
+longer coming once a generation. They are coming once a decade. 
+We have several programs and initiatives at the University of 
+Mississippi to address these educational challenges.
+    We have designed and are in the process of building a 
+unique 200,000 square foot STEM education facility. What makes 
+this space unique is that it is designed from the ground up 
+around collaboration across disciplines and active-learning 
+teaching methods that focus on small-group project work and 
+interactive technologies. These instruction methods have been 
+shown to both improve the comprehension of the science and 
+engineering principles, as well as promote group problem-
+solving skills.
+    Another unique program at UM is our Center for 
+Manufacturing Excellence. All CME students major in 
+engineering, business, or accounting, but they also share a 
+body of coursework across all of these disciplines. CME 
+students focus on group projects, communications skills, and 
+understanding a holistic view of a particular problem, from the 
+technical all the way to the financial. We cannot predict the 
+technologies that these graduates will engage during their 
+careers, but we do know that they will always need to work in 
+teams and understand the bigger picture.
+    Universities also play a key role in developing and 
+disseminating next generation engineering principles. Lean 
+engineering, design thinking, additive manufacturing and 
+additive construction are important examples. Design thinking 
+helps break down complex, multidimensional design problems into 
+a manageable framework while lean engineering realizes those 
+designs through highly efficient production and manufacturing. 
+A challenge here, however, is not to sacrifice the technical 
+foundations upon which all of these concepts are built.
+    Additive manufacturing and additive construction will play 
+vital roles in any long-term space mission. Whether the mission 
+is a base on the Moon or a manned mission to Mars, replacement 
+parts cannot be stocked. They will need to be printed as they 
+are needed. Any larger-scale structures on the surface of a 
+Moon or a planet will require using native materials and 
+reliable additive construction technologies.
+    The role of advanced materials will also be increasingly 
+important in the next generation of space systems design. 
+Nanophase materials such as graphene have been studied for 
+several decades, but are now emerging as useful technologies. 
+Our Center for Graphene Research and Innovation designed a 
+graphene-enhanced polymer material that just was launched this 
+Saturday from Wallops Flight Facility in Virginia to be tested 
+on the International Space Station for protection. It will 
+spend about a year in space and is designed to protect against 
+hyper-velocity impacts. So in a year, we will be able to bring 
+that down and see how the experiment went. We and others are 
+exploring graphene enhancements on many technologies relevant 
+to NASA missions from microfiltration to high-efficiency solar 
+panels. And let me be clear. Both graduate and undergraduate 
+students play critical roles in all of these research 
+experiments.
+    Perhaps less obvious but an increasingly important skill 
+set is around space activities are legal and regulatory issues. 
+UM is home to the National Air and Space Law Center, along with 
+the Journal for Space Law since 1973. As space activities in 
+the private sector continually grow, appropriate light-touch 
+legal frameworks need to be developed and studied to best 
+inform decision-makers. UM is preparing this workforce with the 
+first Air and Space Law Masters Program in the Nation.
+    Let me take a moment to emphasize here, along with some 
+others who have already spoken on it, the importance of the 
+NASA Space Grant program. This program provides incredible 
+space science and engineering research opportunities to 
+graduate and undergraduate students from a wide swath of the 
+country. I can tell you from personal experience that nothing 
+can hook a young college student into a NASA career faster than 
+working on a real-world problem with NASA engineers.
+    I thank the Subcommittee for your attention and welcome 
+questions when it is time.
+    [The prepared statement of Dr. Gladden follows:]
+
+ Prepared Statement of J.R. (Josh) Gladden, Ph.D., Vice Chancellor for 
+       Research, Professor of Physics, University of Mississippi
+    Mr. Chairman and members of the subcommittee, let me first thank 
+you for the opportunity to provide my perspective on the role 
+universities can and should play in the development of the Nation's 
+STEM workforce to provide NASA with the engineers and scientists needed 
+to keep accomplishing its mission into the next generation.
+    My name is Josh Gladden and I have the privilege of serving as the 
+Vice Chancellor for Research and Sponsored Programs and Professor of 
+Physics at the University of Mississippi. Before this role, I served as 
+the Director for the National Center for Physical Acoustics and Group 
+Lead for the Materials Physics Lab at the NCPA.
+    As with many technical objectives and challenges we will face in 
+the next generation, the complexity of the missions at NASA will only 
+increase. It is incumbent on higher education to prepare a workforce 
+ready to meet these challenges.
+    One critical element in preparing this unique workforce is the 
+necessity that they are ingrained with a predilection and passion for 
+life-long learning. Transformative technologies are no longer coming 
+once in a generation--they are coming every decade. We have several 
+programs and initiatives at the University of Mississippi to address 
+these educational challenges.
+    We have designed and are in the process of building a unique 
+200,000 square foot STEM education facility. What makes this space 
+unique is that it is designed from the ground up around collaboration 
+across disciplines and active-learning teaching methods that focus on 
+small-group project work and interactive technologies. These 
+instruction methods have been shown to both improve comprehension of 
+science and engineering principles and promote group problem-solving 
+skills.
+    Another unique program at UM is our Center for Manufacturing 
+Excellence. All CME students major in engineering, business or 
+accounting, but also share coursework across each of the three 
+disciplines. CME students focus on group projects, communications 
+skills and understanding a holistic view of a particular problem--from 
+technical to financial aspects. We cannot predict the technologies 
+these graduates will engage with during their careers, but we do know 
+they will always need to work in teams and understand the bigger 
+picture.
+    Along with other universities in the nation, we are expanding our 
+professional student options--students who are re-engaging with the 
+university to update their skills while remaining on the job. These 
+programs might range from a professional master's program with an 
+accelerated time frame to a certificate program to get up to speed on 
+an emerging technology. Another area we are looking to expand is what 
+one might call ``deep collaboration'' where technical professionals 
+from the government come spend extended time with research labs and 
+groups at the university. Such programs are highly mutually beneficial 
+to both the university researchers as well as the professional 
+engineers. These sorts of programs I believe will be become 
+increasingly important to our technical professional workforce.
+    Universities also play a key role in developing and disseminating 
+next-generation engineering principles. Lean engineering, design 
+thinking, additive manufacturing and additive construction are 
+important examples. Design thinking helps break down complex, 
+multidimensional design problems into a manageable framework while lean 
+engineering realizes those designs through highly efficient production 
+and manufacturing. A challenge here, however, is not to sacrifice the 
+technical foundations upon which all these concepts are built.
+    Additive manufacturing and additive construction will play vital 
+roles in any long-term space missions. Whether the mission is a base on 
+the moon or a manned mission to Mars, replacements parts cannot be 
+stocked--they will need to be printed as they are needed. Any larger-
+scale structures on the surface of a moon or planet will require using 
+native materials and reliable additive construction technologies.
+    The role of advanced materials will also be increasingly important 
+in the next generation of space systems design. Nanophase materials 
+such as graphene have been studied for several decades, but are now 
+emerging as useful technologies. Our Center for Graphene Research and 
+Innovation designed a graphene-enhanced polymer material that was just 
+launched this Saturday from Wallops Flight Facility in Virginia to be 
+tested on the International Space Station for protection against hyper-
+velocity impacts. We and others are exploring graphene enhancements of 
+many technologies relevant to NASA missions--from microfiltration to 
+high-efficiency solar panels. Let me be clear: Undergraduate and 
+graduate students play a key role in the development of such 
+technologies.
+    Perhaps a less obvious, but increasingly important, skill set 
+around space activities are legal and regulatory issues. UM is home to 
+the National Center of Air and Space Law along with Journal of Space 
+Law since 1973. As space activities in the private sector continually 
+grow, appropriate light-touch legal frameworks need to be developed and 
+studied to best inform decision makers. UM is preparing this workforce 
+with the first Air and Space Law Masters Program in the Nation.
+    Let me also take a moment to emphasize the importance of the NASA 
+Space Grant program which provides incredible space science and 
+engineering research opportunities to graduate and undergraduate 
+students across a wide swath of the country. I can tell you from 
+personal experience that nothing can hook a young college student into 
+a NASA career faster than working with a team on a real-world problem.
+    I thank the subcommittee for your attention and would welcome any 
+questions.
+
+    Senator Cruz. Thank you.
+    Ms. Condino.
+
+  STATEMENT OF SHELLA RIVANO CONDINO, PHYSICS TEACHER, OAKTON 
+                          HIGH SCHOOL
+
+    Ms. Condino. First, I thank God for allowing me to be part 
+of this STEM endeavor.
+    Second, thanks to you all for giving me this opportunity 
+today to share and give testimony about the impact of STEM 
+engagement, especially to the underserved, under-represented 
+minorities, women, and our rural communities.
+    I have been a physics educator for 27 years. I hope it does 
+not show the age.
+    [Laughter.]
+    Ms. Condino. And I have been an advocate of 
+interdisciplinary and applied approach to learning even before 
+I heard the acronym, STEM, in the late 1990s. I strongly 
+believe in practical and experiential learning as I myself 
+learn best by doing. Who does not enjoy hands-on and minds-on 
+activities, or the adventure of putting theory into practice, 
+or bringing knowledge to life, much more solving real-world 
+problems? The power of this method of learning gives students a 
+sense of responsibility, accountability, and ownership in their 
+own learning.
+    Every day before I start teaching, I always try reminding 
+myself of this quote: tell me and I forget, teach me and I may 
+remember, but involve me and I learn. Honestly, I have always 
+wanted to tell my former teachers about that quote because then 
+they will have a better understanding of what type of student I 
+was when I was young, but I never got the chance or the courage 
+to tell them anyway. So now as a teacher, this became my quote, 
+a daily reminder, that as a teacher I need to create a learning 
+environment that is transformative, engaging, fun, and where 
+learning remains implicitly.
+    Teaching in Presidio High School in Texas, which is a 
+border town, rural geographically isolated like what you said--
+to be exact, it is 251 miles away from El Paso, which is about 
+4 hours away from the nearest Walmart, an economically 
+disadvantaged school that is one of the highlights of my 
+teaching career. I had my most meaningful and fulfilling 
+experiences as an educator in that school district. It is the 
+most challenging, yet it is the most rewarding. With more than 
+60 percent of the students identified as English language 
+learners, 95 percent Hispanic, 100 percent participating in the 
+reduced--no, not even reduced--free lunch program, it truly 
+challenged my creativity in teaching.
+    Thus, what I did was use my passion for aviation and 
+aerospace and began incorporating basic rocketry in my physics 
+teaching. I also created a free summer enrichment program in 
+rocketry and robotics to provide students activities that will 
+make their minds engaged.
+    This idea came to mind when I attended the first graduation 
+I had in that school where there were four empty seats placed 
+in remembrance of the four students who died due to drug-
+related events, drag racing accidents, and even suicide. I felt 
+the urgent need for my intervention, a sense of responsibility 
+to this community by keeping these children away from bad 
+elements such as drugs, alcohol, teenage pregnancy, and street 
+racing.
+    Hence, I founded the Presidio Rocketry and Robotics Club in 
+2007 and created teams competing at The American Rocketry 
+Challenge, or TARC, which is a STEM initiative and the world's 
+largest model rocketry contest. The program grew. The 
+membership started with three young girls and then it has grown 
+to more than 30 students. With the support of my co-sponsor, 
+Ms. Adelina Portillo, who is an ESL teacher, because I do not 
+speak Spanish, and that was the hardest thing for me to do, to 
+be able to teach to a group of kids where we do not have any 
+communication that would be common for both of us, but we tried 
+to do English. We tried. The administrators, the staff and 
+teachers, the community of Presidio, even some of the companies 
+that are outside of Presidio helped sponsor our program, and it 
+became really popular amongst the middle school and high school 
+students. Even our neighboring rural schools--they were 
+encouraged and inspired to do the same initiative for their own 
+students.
+    Presidio gained national recognition because of its 
+consistent placement in the top 100 teams in the Nation at the 
+TARC contest in 2009 up to present. And in 2012, we got invited 
+to the White House Science Fair, and our team presented their 
+rockets to President Obama.
+    Because we mostly finish in the top 25 in the national 
+finals, Presidio teams got the chance to participate at the 
+NASA Student Launch Initiative Project, which is an advanced, 
+high-power rocketry program where students design, build, and 
+launch rockets which carries scientific and engineering 
+payloads. These aerospace STEM initiatives allowed our students 
+to enhance their critical thinking, analytical and 
+metacognition skills, conduct scientific research, improve 
+their communication skills both oral and written, develop time 
+management and organization, utilize technology through 
+software and simulations, problem-solve and troubleshoot, and 
+collaborate to make wise decisions. Through these programs, my 
+students developed STEM skills and soft skills employers are 
+looking for in the future workplace.
+    Our students also became involved in the NASA Texas High 
+School Aerospace Scholars program, Texas Alliance for 
+Minorities in Engineering statewide contest, the Texas Tech 
+STEM academic competition, even in botball robotics both in-
+state and world championships, TCEA robotics, VEX robotics, 
+even in the prestigious Zero Robotics Virtual Contest held at 
+MIT. It sounds impossible to believe, but this is the records 
+of what my students in Presidio has done.
+    And, Dr. Manber, Presidio also participated in the Student 
+Spaceflight Experiment Program, SSEP, mission to the ISS where 
+we sent a microgravity flight experiment to the International 
+Space Station on SpaceX Falcon 9 rocket and Dragon spacecraft, 
+and compared results or our own ground earth experimentations. 
+This achievement is truly special because students collaborated 
+and communicated with astronauts on board the ISS, and the 
+community of Presidio developed awareness and exposure to STEM 
+literacy.
+    I know I left Presidio in 2014 and relocated here in 
+northern Virginia. However, I continue to mentor the Presidio 
+Rocketry team and communicate with them virtually through Skype 
+every Friday from 3 to 5 p.m. Eastern time, after school. I 
+review their rocket simulations and give them feedback on their 
+designs. I also virtually demonstrate strategies and techniques 
+on how to build stable and robust rockets.
+    I currently teach AP physics courses at Oakton High School 
+in Vienna, and I continued my goal of encouraging student 
+participation and interest in STEM. I am one of the teacher 
+sponsors of the Cougar Robotics, Rocketry, and Physics Clubs. 
+Our rocketry team won first place at the Battle of the Rockets 
+last year, became a national finalist at TARC, and currently we 
+are working with NASA on our SLI project. Our robotics FRC team 
+made it to the first Robotics World Finals in Detroit, Michigan 
+last year. Last Monday, our physics club members participated 
+at the STEM outreach program of the Association of Old Crows in 
+the International Symposium and Convention on Electronic 
+Warfare and we won the Cybersecurity Codebreaking Challenge. 
+Last Friday, I took my students to the Project Aviation Career 
+Education and Expo in Leesburg, Virginia, and we bagged $22,500 
+worth of scholarships on flight trainings.
+    [Applause.]
+    Ms. Condino. Thank you.
+    Because of my experiences in teaching in the third poorest 
+school district in the State of Texas and right now in one of 
+the richest counties in the entire country, I became more 
+certain. I am more determined and passionate about contributing 
+to the future workforce. This is my way of giving back to this 
+country. I hope that you too will continue to invest in our 
+youth's education for it will surely guarantee great returns.
+    Thank you very much and may God continue to bless us all 
+and God bless the United States of America.
+    [The prepared statement of Ms. Condino follows:]
+
+     Prepared Statement of Shella Rivano Condino, Physics Teacher, 
+                           Oakton High School
+    First, I thank God for allowing me to be part of this STEM 
+endeavor. Second, thanks to all of you for giving me this opportunity 
+today to share and give my testimony about the impact of STEM 
+Engagement especially to the underrepresented, minorities, and rural 
+communities.
+    I have been a physics educator for 27 years, and I have been an 
+advocate of interdisciplinary and applied approach to learning even 
+before I've heard of the acronym STEM in the late 1990s. I strongly 
+believe in practical and experiential learning, as I myself learn best 
+BY DOING. Who does not enjoy hands-on and minds-on activities? or the 
+adventure of putting theory into practice? or bringing knowledge to 
+life? much more solving real-world problems? The power of this method 
+of learning gives students a sense of responsibility, accountability 
+and ownership in their own learning.
+    Everyday before I start teaching, I always try reminding myself of 
+this quote: Tell me and I forget, teach me and I may remember, involve 
+me and I learn. Honestly, I've always wanted to tell my former teachers 
+about this quote so that they can understand me better when I was a 
+student, but I never got the courage to tell them anyway. So now, this 
+quote has become my daily reminder that as a teacher I need to create a 
+learning environment that is transformative, engaging, fun and where 
+learning remains implicitly.
+    Teaching in Presidio High School in Presidio, Texas, a border town, 
+rural, geographically isolated and economically disadvantage school, is 
+one of the highlights of my teaching career. I've had my most 
+meaningful and fulfilling experiences as an educator in that school 
+district. The most challenging, yet the most rewarding. With more than 
+60 percent of the students identified as English Language Learners, it 
+truly challenged my creativity in teaching. I used my passion for 
+aviation and aerospace and began incorporating basic rocketry in my 
+physics teaching. I also created a free summer enrichment program in 
+rocketry and robotics to provide students activities that will make 
+their minds engaged. This idea came to mind when I attended a 
+graduation one year, where 4 empty seats were placed in remembrance of 
+the 4 students who died due to drug related events, drag racing 
+accident and suicide. I felt the urgent need for intervention, a sense 
+of responsibility to the community by keeping these children away from 
+bad elements such drugs, alcohol, teenage pregnancy, and street racing. 
+Hence, I founded the Presidio Rocketry and Robotics Club in 2007 and 
+created teams competing at The American Rocketry Challenge, a STEM 
+initiative, the world's largest model rocketry competition. The program 
+grew membership starting from 3 young girls to more than 30 students! 
+With the support of my co-sponsor Ms. Adelina Portillo, the 
+administrators, staff and teachers, community of Presidio and companies 
+who helped sponsor our program it became popular amongst high school 
+and middle school students. Neighboring rural schools were encouraged 
+and inspired to do the same initiative for their students. Also, 
+Presidio rocketry gained national recognition due to its consistent 
+placement in the top 100 in the Nation at TARC since 2009 to present! 
+In 2012, we got invited to the Whitehouse Science Fair and our team 
+presented their rockets to former President Obama. Because we mostly 
+finished in the top 25 in the national finals, Presidio team got the 
+chance to participate at the NASA Student Launch Initiative project, an 
+advanced-high-power rocketry program where students design, build, and 
+launch a rocket which carries scientific or engineering payloads. These 
+aerospace STEM initiatives allowed our students to enhance their 
+critical thinking, analytical and metacognition skills; conduct 
+scientific research, improve their communication skills both oral and 
+written, develop time management and organization, utilize technology 
+through software and simulations, problem-solve and trouble shoot, and 
+collaborate to make wise decisions. Through these programs, my students 
+developed STEM skills and soft skills employers are looking for in the 
+future workplace.
+    Our students also became involved in the NASA Texas High School 
+Aerospace Scholars program, Texas Alliance for Minorities in 
+Engineering STEM Statewide contest, Texas Tech T-STEM academic 
+competition, Botball Robotics in state and world championships, TCEA 
+Robotics, VEX Robotics, even in the prestigious Zero Robotics Virtual 
+Contest held at MIT! Presidio also participated in the Student 
+Spaceflight Experiments Program SSEP Mission 2 to the ISS, where we 
+sent a microgravity flight experiment to the International Space 
+Station on SpaceX-1 (Falcon 9 rocket and Dragon spacecraft) and 
+compared results of our own ground Earth experimentation. This 
+achievement is truly special because students collaborated and 
+communicated with the astronauts onboard the ISS, and the community of 
+Presidio developed an awareness and exposure to STEM literacy!
+    I left Presidio HS in 2014 and relocated in northern VA. However, I 
+continue to mentor the Presidio Rocketry team and communicate with them 
+virtually through Skype every Friday from 3-5 pm Eastern time. I review 
+their rocket simulations and give them feedback on their designs. I 
+also virtually demonstrate strategies and techniques on how to build 
+stable and robust rocket.
+    I currently teach AP Physics courses at Oakton High School in 
+Vienna, VA. I continued my goal of encouraging student participation 
+and interest in STEM. I am one of the teacher sponsors of the Cougar 
+Robotics, Rocketry and Physics Clubs. Our rocketry team won first place 
+at the Battle of the Rockets this year, became national finalist at 
+TARC, and currently working with NASA SLI project. Our robotics FRC 
+team made it to the FIRST Robotics World Finals in Detroit, Michigan 
+last year. Last Monday our physics club members participated at the 
+STEM outreach program of the Association of Old Crows in the 
+International Symposium and Convention on Electronic Warfare and won 
+the Cybersecurity Codebreaking Challenge. Last Friday, I took my 
+students to the Projet Aviation Career Education and EXPO in Leesburg, 
+VA and bagged $22500 worth of scholarship on flight trainings.
+    Because of my experiences in teaching in the 3rd poorest school 
+district in the State of Texas and in the one of the richest counties 
+in the entire country, I became more certain, determine and passionate 
+about contributing to the future workforce. This is my way of giving 
+back to this country. I hope that you too will continue to invest in 
+our youth's education for it will surely guarantee great returns. Thank 
+you very much and may God continue to bless us all and this great 
+country. God bless the United States of America!
+    Here is a list of a few students who became part of the STEM 
+programs and their current STEM related careers.
+
+   1.  Ana Nieto--mechanical engineer, Aurora Flight Sciences, a 
+        subsidiary of Boeing Company in Manassas, VA
+
+   2.  Itza Rodriguez--structural design engineer, The Boeing Company 
+        in Seattle, WA
+
+   3.  Antonio Bujanda--mechanical engineer, assistant professor at 
+        Texas Tech University in Lubbock, TX
+
+   4.  Janet Nieto--chemist at Reliable Analysis in Michigan
+
+   5.  Daniella Barraza--environmental scientist, Bureau of Land 
+        Management in Las Cruces, NM
+
+   6.  Aida and Ana Luevanos--directors, Alumni Relations at Sul Ross 
+        University in Alpine, Texas
+
+   7.  Taylor Galliete--mechanical engineer, Sandia National 
+        Laboratories in Albuquerque, NM
+
+   8.  Helena Cardona--architect, CAS Architects in Mountainview, CA
+
+   9.  Miguel Nieto--Legislative Assistant, Texas State Capitol House 
+        of Representatives in Austin, TX
+
+  10.  Mextli Delgado--mathematics teacher in Odessa, TX
+
+  11.  Tatum Galliete--film, Warner Brothers in Los Angeles, CA
+
+  12.  Roxanne Hernandez--business analyst, Select Energy Services in 
+        Austin, TX
+
+  13.  Matthew LaRosa--physicist, Lockheed Martin Corp Missile Division 
+        in Orlando, FL
+
+    Senator Cruz. Thank you very much, Ms. Condino, for that 
+very powerful testimony. And let me say to each of you, thank 
+you for your testimony. That was illuminating. That was 
+important and particularly for those of you who are or have 
+been educators, thank you for the time you have spent helping 
+inspire, helping shape the next generation of scientists and 
+innovators and leaders.
+    Ms. Condino, let me say as well, you are Skyping every week 
+with the students in Presidio High School, and if you would, 
+please convey for me to the students at the Presidio Rocketry 
+Club how proud we are of the hard work they are doing.
+    And in fact, one story that I wanted to ask you to 
+elaborate on is a story that a spokesman for the Aerospace 
+Industry Association recounted in a ``Texas Monthly'' article, 
+which is that the Presidio team, in order to be able to afford 
+their first trip to Virginia for the Team America Rocketry 
+Challenge had to auction off a goat. And according to the 
+article, your team auctioned off a goat in Presidio every year 
+for the next 5 years. And in 2014, the team placed its highest 
+ranking yet, fourth place at the competition. Could you 
+elaborate on that please?
+    Ms. Condino. Like what I said, it is an economically 
+disadvantaged school, and so we do not have much of a budget. 
+But it is very difficult to convince the school board to allow 
+us to go outside of Presidio. So what I decided was, together 
+with the teacher that I worked with, you know, my co-sponsor, 
+we have to raise funds in order for us to show that we wanted 
+these kids to move forward.
+    And one of the initiatives that we did was a suggestion 
+from a parent to auction a goat because at that time when we 
+tried to compete in the TARC, and we made it to the top 100, we 
+have to fly out of Texas. But we have to go to the airport 4 
+hours away first. It was the transportation that was the most 
+difficult and then the budget on how to build the rockets as 
+well.
+    So I always tell the kids we cannot waste money. We cannot 
+waste time. We have to do everything through simulation first, 
+and through that simulation, build from scratch. And we decided 
+let us show to the school board that we are willing to put in 
+time and effort.
+    There were a group of companies, particularly Lockheed 
+Martin Corporation, because at that time when we learned that 
+we made it to the national finals, we were already told we are 
+not moving on because we do not have the budget, there is 
+liability, and all of those things. But when I mentioned it to 
+Mr. Steve DeLeon, who used to work at Lockheed Martin at that 
+time, he felt like he wanted to help. And so he was able to 
+gather about $3,000, and he told me put pressure to your board 
+and tell them we are willing to support this initiative. And so 
+we went.
+    But we have to do it every year. We cannot just rely on 
+other people's money every single time. We have to show them 
+that we also are putting in some of our efforts. And yes, we 
+first raffled the goats. In that particular area, goat is a 
+common thing to eat. So they would pay money in order to eat 
+the goat. But there are winners where they do not want the 
+goat. So I auctioned it. After I raffle, we auction it at night 
+because we have this arts festival. And with one little goat, 
+we could make $2,000. But it is all about hard work. It is 
+about your initiative. We sell donuts. I burned my fingers by 
+barbecuing in front of church every Sunday because I wanted to 
+show the community that we are not just traveling out of town 
+for pleasure. We wanted to compete and bring back that glory to 
+that little town of Presidio.
+    Senator Cruz. Well, thank you for your creativity and your 
+passion, and perhaps in honor of that story at our next 
+subcommittee hearing we may have to serve cabrito tacos.
+    [Laughter.]
+    Senator Cruz. Mr. Manber, you mentioned in your testimony 
+that Nanoracks and DreamUp have flown roughly 60 educational 
+payloads to the ISS from Texas schools in Hawkins and Houston, 
+Burleson, El Paso, San Antonio, Austin, Buda. What is the 
+impact on those schools of being able to participate? And how 
+can we expand it so that more schools have that opportunity?
+    Mr. Manber. Well, I think Ms. Condino has just told us the 
+impact. It is incredible the impact. We have students coming to 
+us now who are asking us for help on their thesis, their 
+university thesis, Ph.D. thesis. They started with us 5, 6, 7 
+years ago. Teachers tell us every week that the students never 
+forget participating in a project that actually goes to space. 
+And so with a great deal of humbleness, we see how many lives 
+that we have changed, having these students decide to go into 
+STEM and go into engineering or biology because of space. So it 
+has had an extraordinary impact on the lives of the students 
+and the teachers and the parents when they see that this is 
+something real and something that can be done within an 
+academic year or almost an academic year.
+    You ask an excellent question, how do we expand it? We are 
+sometimes that awful thing of a business, and we are investing. 
+We are investing to expand to reach out to the disadvantaged. 
+We have to reach out to more communities. We are working with--
+--
+    Senator Cruz. What does it cost for a school to----
+    Mr. Manber. OK. The smallest price we have is $15,000 U.S. 
+for a month on the Space Station. And so it is test tubes. And 
+I will be honest with you. I do not mean to do this here at a 
+hearing, but we do not make money on that. I mean, we also work 
+with NASA and the German Space Agency and others. And on this 
+educational at $15,000 you can do a test tube that goes up.
+    Senator Cruz. Let me repeat that for anyone at C-SPAN 
+watching. You are saying any school in America----
+    Mr. Manber. Yes, $15,000 will put you up for 30 days on the 
+station.
+    Senator Cruz. Wow.
+    Mr. Manber. And we have lists of all of the payloads that 
+have flown previously. So you can see the research that has 
+been done. We work with partners like Dr. Goldstein who can 
+provide a curriculum. DreamUp has a curriculum. And we are 
+expanding. That program is growing rapidly. It is also growing, 
+as I said, into more disadvantaged locations.
+    We still have trouble with NASA. We have trouble because we 
+do not quite fit, but we are picking up the first of our NASA 
+funding for disadvantaged communities.
+    And we are also going overseas now. And I think it is a 
+great story in American leadership. Both DreamUp and 
+Nanoracks--we have done work with the UAE on contests and in 
+Germany. And so this is a great story of all working together, 
+the students, the community, NASA, and the private sector. So 
+it is a good story.
+    Senator Cruz. So $15,000. If I am doing my math right, that 
+is about seven and a half goats.
+    [Laughter.]
+    Senator Cruz. And you may think of an alternative price.
+    Mr. Manber. Well, I can think of alternative things we 
+could auction off in Texas.
+    [Laughter.]
+    Senator Cruz. Senator Capito.
+
+            STATEMENT OF HON. SHELLEY MOORE CAPITO, 
+                U.S. SENATOR FROM WEST VIRGINIA
+
+    Senator Capito. Thank you, Mr. Chairman, and thank all of 
+you for being here today.
+    I am from West Virginia and we have a great relationship 
+with NASA in West Virginia. We have the Katherine Johnson IV&V 
+Center that we just renamed in her honor, our proud West 
+Virginian.
+    I would like to ask really anybody on the panel. But in my 
+observations there, I think one of the most enlightening thing 
+that I have seen and really I think the way to get our students 
+is the collaborative efforts they do with Fairmont and also 
+with West Virginia University.
+    So how do you see that expanding? I do not know. Dr. 
+Gladden, you might be more involved with that at your school. 
+How do you see that expanding and is there any pushback from 
+NASA to continue those kinds of internships and availabilities? 
+Because a lot of them end up working there in the end.
+    Dr. Gladden. Well, thank you for the question.
+    I certainly do not see any pushback from NASA. I think that 
+NASA has been a very good partner too with the higher ed 
+community providing those internships, those opportunities for 
+our students, and also as we have talked about before, the 
+research projects. Students are always involved in every 
+research project. And so those are golden opportunities for 
+those students to get involved in a real project of interest to 
+NASA but also to engage with the professionals at NASA. And 
+that engagement, even over and above the technical parts, is 
+really quite valuable.
+    So, no, I certainly do not see any pushback. And I think 
+that all of us in higher ed are always looking for more and 
+more experiential opportunities for our students.
+    Senator Capito. So that would be like the Space Grant 
+program.
+    Dr. Gladden. Exactly. Yes, Space Grant is a great example 
+of a vehicle to make those sorts of things happen.
+    Senator Capito. Ms. Condino, you talked about your robotics 
+team. Another observation I have had--I have seen a lot of 
+robotics teams. We live in a rural State. And one of the things 
+that I have noticed that I think is kind of lost on people when 
+they think about the STEM education that comes from being a 
+part of a robotics team, whether it is an elementary, middle 
+school, or high school, but the skill sets that you are 
+developing are not just your science and technology skill sets. 
+You are learning how to present. You are learning how to work 
+collaboratively. You are learning how to share knowledge with 
+other teams from other States or other schools. And I think 
+that part of the robotics team, for that person that may not 
+have the highest technological skills or maybe cannot work the 
+controllers as well as somebody else, to have a member and the 
+concept of teamwork is something that I think is incredibly 
+important and certainly NASA is a team.
+    So how do you see that with your experience as a teacher?
+    Ms. Condino. In our robotics program, we divide our group 
+into subcommittees or committees, you know, little committees. 
+We actually right now we even have the business committee, the 
+marketing group. We have kids that are involved in just 
+documentation alone, even the scouting group because they have 
+to pair up with some other schools. So it is important for them 
+to have good relationships with the opponents so that in the 
+end, if you do not actually make it to the top finals, the top 
+teams will get the chance to select you. So having good 
+relationships with them.
+    So it is not at all just the build skill or the coding 
+skill and the programming skill. It is all types of skills that 
+actually is being honed and enhanced in these kinds of 
+programs.
+    Senator Capito. And I think that really fleshes it out.
+    Dr. Elkins-Tanton, it is great that Senator Rosen is here 
+with me today. I joke that we are the STEM times two because we 
+just recently got a bill passed, the Building Blocks of STEM 
+Act. Part of our mission has been to draw in more women into 
+STEM at a younger age.
+    What is your experience with this, and how do you think we 
+can increase the participation not just of women but other 
+minority groups that are not well represented in the STEM 
+fields?
+    Dr. Elkins-Tanton. Thank you for this question. This is 
+something I am so passionate about and I think about deeply. 
+And anyone who is listening, I want to work with you on this. I 
+think it is for anyone who feels that their voice cannot be 
+heard either because of their gender or their socioeconomic 
+background or their race or any of the reasons there could be 
+implicit bias against a person.
+    And to me the really key step in advancing equity is 
+culture. I think that you need a culture of the organization 
+where people can rise on their merits, where they are not 
+bullied out, where they are not harassed out. Sociologists say 
+that until there are about 30 percent of people who you feel 
+like are like you on the team, you feel like you are alone, and 
+therefore you are the most vulnerable person. It does not 
+matter what the hiring rubric is. If you do not have a good 
+culture, you will not have diversity.
+    And I would just add to that also the experiential 
+learning, the inquiry learning of things that we are working 
+on--you can create any kind of miracle with one fabulous 
+teacher and 30 kids or with a perfect internship. But if we 
+cannot do this at scale, we have lost. We need to be able to do 
+this at scale.
+    And so that is the purpose of so much of what I have been 
+working on personally, trying to make sure that these 
+experiential inquiry experiences can be done at scale. I think 
+it is critical to equity and diversity as well.
+    Thank you.
+    Senator Capito. Thank you.
+    Thank you, Mr. Chair.
+    Senator Cruz. Thank you.
+    Senator Rosen.
+
+                STATEMENT OF HON. JACKY ROSEN, 
+                    U.S. SENATOR FROM NEVADA
+
+    Senator Rosen. Thank you.
+    Well, I have to tell you that all of you are so inspiring. 
+And oh, my goodness, I can tell you I have so many friends who 
+are teachers that find the creative ways to inspire their 
+students through music, through physics, through all kinds of 
+things. And it is the art and passion of teaching that will 
+really move our country forward because when you grab those 
+young minds--you have grabbed me. I am like ready take your 
+class. And there you go. So thank you, and all of your passion 
+is infectious. You need to go around the country talking about 
+this.
+    And Senator Capito and I did introduce a bill, Building 
+Blocks of STEM to help get young girls, pre-K through 12, 
+involved in STEM education. It should hopefully be passing the 
+House and the President will sign that into law. We will get 
+some things moving.
+    But we do, in Nevada, have a wonderful woman, Dr. Elisabeth 
+Hausrath, who is a research geoscience professor at UNLV. So 
+she got the bug early. And so we know that currently half the 
+states in the United States, including Nevada, only receive 
+less than 10 percent of Federal R&D funding. The NASA EPSCoR is 
+a joint Federal/State program designed to allow more states to 
+participate in space and aeronautics research, building upon 
+what the kids learn in the younger grades.
+    So we received $100,000 at UNLV to study minerals found on 
+Mars. Like I said, geoscience professor, Dr. Elisabeth 
+Hausrath--she is a role model for so many. We have been 
+featuring her. She is leading this research project and she was 
+selected by NASA as one of 10 scientists who is going to choose 
+which rock and soil samples from Mars that are going to be 
+brought back to Earth.
+    So the President's budget proposal--it terminates this 
+NASA's office of STEM engagement and significantly is going to 
+cut NASA EPSCoR. So we are going to do Building Blocks of STEM. 
+We are going to try to provide grants and help for teachers and 
+schools and bring this up to scale, we hope, around the 
+country. But what do we do if we terminate this project? Where 
+do we go from here?
+    Dr. Elkins-Tanton. One very practical thing I might say, as 
+the PI of the mission, Psyche--and by the way, speaking of 
+gender, I believe I am the second woman to ever win a competed 
+deep space mission. I really feel strongly about that.
+    Senator Rosen. Congratulations.
+    Dr. Elkins-Tanton. And the first was Maria Zuber, who I am 
+sure many of us in this room know, my friend and mentor.
+    We are allowed to take a percentage of our PI-led mission 
+money and use it for undergraduate education and outreach. And 
+so that was something that I mentioned in my testimony. But 
+that could be expanded beyond the undergraduate. If the 
+missions could also then reach K through 12, could reach out to 
+communities with that money. If that money was just allowed to 
+be used in a broader sense, that would immediately be perhaps a 
+simple way that we could help with the potential tightening of 
+the NASA budget.
+    Senator Rosen. So maybe offering internships and 
+scholarships for people who are going to graduate school or 
+undergraduate, that they can come down and help teachers like 
+this do some great things in their classroom, give them those 
+extra skills.
+    Dr. Elkins-Tanton. That is exactly right. You know, our 550 
+undergraduates we have had involved in two years--that could 
+have been 550 undergraduates and 550 high school students or 
+middle school students. That would begin to make a difference.
+    Senator Rosen. Thank you.
+    And so I guess what I want to ask each one of you in all 
+the different areas that you work in, how can we here in 
+Congress help you get the next generation inspired to reach for 
+the stars, if you will? Right? Because that is what NASA is all 
+about. And thinking about that, using that imagination. So we 
+are the policymakers. We are the lawmakers. You cannot 
+legislate everything, but what can we do to help you inspire 
+that next gen? Please.
+    Mr. Manber. Thank you for your enthusiasm, Senator.
+    Senator Rosen. I am a former computer programmer. I like 
+the STEM stuff.
+    Mr. Manber. We have found at both Nanoracks and DreamUp 
+that first off, NASA opens doors. I have unfortunate news that 
+not all of the American public likes all of the American 
+government. OK. This is news for you. But NASA still opens 
+doors, and NASA must be there. It is a wonderful brand. It is a 
+wonderful history. And no matter where we are when we say we 
+are working with NASA to go to the International Space Station, 
+people smile. I mean, there is just this trust of what NASA has 
+been, is, and will be.
+    So what I would say from your vantage point is I do not 
+want to see NASA go away in STEM. I mean, so many governmental 
+organizations have STEM outreaches, which is wonderful. But 
+NASA is a special part of our government, and they have such a 
+proud history.
+    So we have found that contests inspire when it is something 
+real of going to space. This is just from our vantage point.
+    Senator Rosen. I watched the moon landing, and so I know 
+what it inspires.
+    Mr. Manber. When a student can be part of something that 
+involves a launch of a rocket or whatever, a satellite, or 
+whatever it is, that is inspiring, and we need that the history 
+of NASA to be there to continue to make them motivated.
+    Senator Rosen. Please, yes.
+    Dr. Gladden. So I just want to tee off of that because I 
+think that is really truly important. You know, NASA is 
+uniquely positioned of really any Federal agency to capture 
+hearts and minds of students at a very young age. And I think 
+this also connects back to the gender gap discussion we were 
+having a few minutes ago that even before the students get to 
+Ms. Condino, reaching back into the middle school, that is 
+where you begin to see some differentiation happening based on 
+gender. And I think trying to reach back into the middle school 
+or even elementary school through NASA and the allure of NASA, 
+that might be a powerful thing for our country.
+    Senator Rosen. Ms. Condino, what do you think?
+    Ms. Condino. From a teacher's standpoint, I think it is 
+reduction of all of those tests, and instead of focusing so 
+much in the classroom and teaching to the test because it is 
+mandated by the State or the government, why not allow us 
+teachers to create all of those STEM initiatives and projects 
+and have the kids put their minds and participating and doing 
+activities that are like that?
+    Senator Rosen. Experience-based learning. I like it. Thank 
+you.
+    I yield back.
+    Senator Cruz. Thank you.
+    Senator Thune.
+
+                 STATEMENT OF HON. JOHN THUNE, 
+                 U.S. SENATOR FROM SOUTH DAKOTA
+
+    Senator Thune. Thank you, Mr. Chairman.
+    As the demand for jobs in STEM fields continues to grow, it 
+is critical that we have students from all over the country who 
+have those skills and are competitive on graduation regardless 
+of where they choose to receive their education.
+    NASA's Established Program to Stimulate Competitive 
+Research, or EPSCoR, provided, as you know, funding to areas of 
+the country that are typically unrepresented in Federal space 
+and aeronautics research funding. South Dakota's universities 
+continue to produce high quality students in STEM fields, and 
+EPSCOR funding has been essential in making a broader base of 
+STEM expertise available to NASA.
+    So could you just, as a general question, sort of speak to 
+the importance of building a nationwide STEM workforce that 
+draws from every state across the country?
+    Dr. Elkins-Tanton. Thank you for that question.
+    I see the effects of the tightening our STEM workforce 
+every day working on this mission. I see it at Jet Propulsion 
+Laboratory. It see it at Maxar, our industry partners. Everyone 
+is feeling it. It is a real problem on the ground right now, 
+which I imagine Mr. Manber can relate to.
+    So to me showing students early that you are not a special 
+kind of person if you go into STEM, that anyone who is 
+interested can do it. There is not this differentiator between 
+the STEM people and the non-STEM people. You can love art and 
+you can love philosophy and you can love sports and you can 
+also love math. And you can work with people who love all those 
+things.
+    If we could make it more of a connector instead of 
+necessarily a differentiator, if we could work on the culture 
+of not judging girls in fifth grade and telling them they are 
+not good at math, work on that culture, give the teachers the 
+freedom to connect not just STEM, but all the fields together, 
+to me that would be a great impetus for bringing people into 
+this world of STEM.
+    Mr. Manber. In Houston, we just hired our first in-company 
+recruiter, and we have done it because we are having trouble 
+filling jobs. We are very, very hungry to find the right level 
+of young engineers that have space experience, and we have 
+picked up some new programs lately. And my head of engineering 
+is frantically, you know, where do we find the people? This is 
+a serious problem for us, and in the space community, we cannot 
+do non-U.S. citizens. We cannot do the visas. So we have a 
+problem in this country today. We are growing 30 to 40 percent 
+a year, and I am worried about getting the right people. I am 
+just having trouble with it.
+    Dr. Gladden. So I think all of that is exactly right.
+    I might touch on one element of that question that I think 
+was in your question, Senator Thune, about the demographic 
+diversity across the country, so making sure we are drawing 
+engineering talent not just from the East Coast and the West 
+Coast but all through the country. And I do think that is 
+critically important because we are culturally different. We 
+have different experiences as young children. And so that 
+little girl who grew up fixing her tractor on her farm could 
+make an amazing engineer, but she has got to have the 
+opportunity to see that path forward.
+    And so I think that is where programs like NASA EPSCoR and 
+others can be so invaluable to making sure that all of those 
+students in South Dakota and Mississippi and everywhere in 
+between can see that path forward because there is talent out 
+there. It is not that we do not have the talent. I think we 
+have a pipeline problem.
+    Senator Thune. Ms. Condino, you mentioned in your testimony 
+some of your experience teaching in a rural community in Texas. 
+And I am curious. We obviously work very hard in South Dakota. 
+We have got some exceptional students, and that is thanks to 
+the dedication of the faculty and the administrators and State 
+officials who work very hard to make sure that they have to 
+tools they need. But one of the challenges that we face is 
+recruiting teachers and retaining STEM teachers.
+    And I am just wondering, based on your experience in Texas, 
+if you could share any ideas that might help schools in South 
+Dakota and other rural states recruit and retain teachers who 
+are equipped to teach STEM-related courses.
+    Ms. Condino. I remember moving from teaching in El Paso to 
+Presidio, Texas where my salary was cut more than $10,000. But 
+I think that is one thing that would attract teachers in those 
+rural areas because there are gems in the rural areas. The kids 
+could do much because they have nothing to lose. And that is 
+one thing that I have noticed. If I would present the students 
+something that is new to them, they will grab it in a 
+heartbeat. They will do whatever I want.
+    But it is very difficult to keep the teachers because one 
+would be either pay scale, obviously, and the lack of proper 
+training. I am very resourceful in my own way. I tried to use 
+technology and all the other resources inside and outside, and 
+that is what I promise my students every day that if I cannot 
+get the resource from right here, I will bring it to you.
+    Like for career day, I remember how every year we have a 
+career day in November. But the first career day I attended in 
+Presidio, we only had plumbers. And I have nothing against 
+those kinds of jobs, plumbers and people who work in the salon. 
+The most popular were the border patrol and the military. But I 
+felt like these kids have to be exposed. So I told the teachers 
+and administrators, hey, I want to do a virtual career so that 
+I could have people from the outside, professors in the 
+universities from the outside that I know, and even those in 
+other countries, former students of mine are already in--that 
+are professional, have the kids get exposed to that.
+    Answering what you asked about keeping the teachers, it is 
+the individual. I can only speak for myself. It does not matter 
+where I go. It does not matter how much I get paid for 
+teaching. This is my passion. And so I will just give 100 
+percent of what I have. And I really hope that those other 
+teachers would stay in that teaching profession because we are 
+losing the majority of them.
+    But I am proud to tell you that Presidio High School or 
+even the elementary has now faculty members that were my former 
+students. So they are going back. And that is what I told the 
+students. When you leave Presidio, you have to come back and 
+help your community to flourish.
+    Senator Thune. You have to be able to handle the 40 below 
+wind chills in South Dakota too on top of it.
+    [Laughter.]
+    Senator Thune. But I just want one last question, if I can, 
+Mr. Chairman.
+    In addition to the achievements of NASA and its partners, 
+maintaining American leadership in space is also going to 
+depend on continuing improvements in our cybersecurity 
+capabilities. We have a little university in South Dakota, 
+Dakota State University, which has been a real leader in 
+training qualified cybersecurity professionals.
+    How important are sophisticated cybersecurity capabilities 
+and a large network of cybersecurity professionals to 
+maintaining American scientific and technological leadership in 
+space, would you say?
+    Mr. Manber. Thank you for the question, Senator.
+    Growing up in our software capabilities and cybersecurity, 
+we are spending more and more money, and we think it is well 
+spent on protecting our internal and external communications. 
+It is something none of us here know the moment it is going to 
+be a crisis or whether it will be a crisis, but it is a threat. 
+And so even a small company like mine is investing more and 
+more to ensure confidentiality and security in our 
+communication systems. We are hit all the time. We are hit all, 
+all the time.
+    Dr. Gladden. Ditto for universities.
+    Dr. Elkins-Tanton. Just to add briefly onto that, the team 
+of people working on the Psyche mission is now above 800. We 
+are at so many different organizations. The openings for cyber-
+attacks through those many, many organizations is vast, and for 
+a project like this, the catastrophe could only be imagined. 
+And so it is beyond critical to add to everything that is said 
+at the table.
+    Senator Thune. I am glad to hear that Dakota State is very 
+much on the right track I think. Thank you.
+    Thank you, Mr. Chairman.
+    Senator Cruz. Thank you, Senator Thune.
+    Mr. Manber, you spoke compellingly about the challenge of 
+finding qualified employees who are trained engineers and able 
+to fill the demands of the modern workforce.
+    A question I want to ask all four of the panel members, in 
+your opinion, how important is space? How important is the 
+mission?
+    You know, I think back to when John F. Kennedy came to 
+Houston and came to Rice University and laid out a vision that 
+within a decade, we will take a man to the Moon and bring him 
+home. And I have always liked the fact that President Kennedy 
+said at the time--he was at Rice, and he said why does Rice 
+play Texas. Not because it is easy. Because it is hard.
+    [Laughter.]
+    Senator Cruz. That inspired a whole generation.
+    My question to you is how important is space for inspiring 
+a new generation of students, a new generation of teachers? How 
+important is going back to the moon? How important is building 
+a sustainable habitat for ongoing research on the Moon? How 
+important is going to Mars and perhaps finding the first signs 
+of life in the universe? How important is that for inspiring 
+the next Nobel laureate in physics? Share the importance of 
+space for inspiration.
+    Dr. Elkins-Tanton. In our world today, a lot of the 
+narratives we hear are narratives of fear and narratives of 
+guilt. But the only way you really get people to stand up and 
+do the miracles that we are capable of is when you have a 
+narrative of optimism and a narrative of hope.
+    And that is what space is. Space is the opportunity to be 
+who we could be as human kind, that we do not always see 
+ourselves being every day here. It is the inspiration that if 
+we can create these things that you are listing, these 
+beautiful ideas we have, then we can be bolder and better in 
+our lives here at home. It is the inspiration for students to 
+go into STEM fields for something that they find could make 
+them a bigger and a better human being.
+    And so I think it is incumbent upon us. If we turn away, it 
+is a failure of our species. We have to do this.
+    Mr. Manber. We just opened an office in the UAE in Abu 
+Dhabi, and we have been doing work on the Emirates astronaut 
+who went to the Space Station. We did their educational 
+payloads, which is pretty cool.
+    Why are they looking at space, and why did we open an 
+office in Abu Dhabi? It is funny how we take things for granted 
+in this country and we do not realize. They have studied the 
+last 50-100 years, and they said the best way to ensure that we 
+as a society in the UAE stay together as the oil revenue goes 
+down is to get into space. And to them, they have announced a 
+100-year program to go to Mars. And so they have looked and 
+studied us, and they said what you did during this Apollo era 
+and what you continue to do in space is the best way that we as 
+a government can inspire our kids not to leave our country and 
+to get meaningful jobs.
+    The same in Australia. The same in Mexico. The same in the 
+UK. All have opened space programs in the last 2 to 3 years, 
+all looking to the United States as the role model.
+    And here we do not even see it. Here we have to be reminded 
+only when someone gets in front of us for a brief period of 
+time. And it just frustrates me that we see every day how kids 
+are encouraged by and motivated by space, and of course, there 
+are strategic advantages, commercial advantages.
+    But to answer the question, the world has looked around and 
+said, you know, what you guys did during Apollo, hey, that is 
+the best way to motivate our next generation. So space is 
+important for a whole bunch of reasons, but one of them we know 
+already. It inspires.
+    Dr. Gladden. That was all very well said.
+    The only thing I would add to that I think is that if you 
+just look from a straight up return on investment, direct 
+return on investment, it is probably not a great thing to do. 
+But the intangible power of the space exploration is--it is 
+intangible. It is immeasurable. I do not think I can pinpoint 
+any single initiative or program in this country's history that 
+we could all collectively be more proud of and more inspired by 
+than the Apollo program. I mean, it really kind of took this 
+country to a whole different level. And the inspiration that it 
+delivered to the country then got leveraged into all kinds of 
+other technical advances. So that is when you sort of look at 
+our return on investment, you got to pull all that into it as 
+well. So I think that the power of space exploration--it goes 
+way beyond just the direct dollars and return.
+    Ms. Condino. I think it is a reminder that we really are 
+not alone, and we have to go out there. Either to protect 
+ourselves in the future, and explore what is beyond and how can 
+we use that to make our planet even better. So it is a 
+testimony where this is where we could put all the skills that 
+we have developed. Why is it not inspiring to be able to be the 
+first person on Mars? I myself wanted to travel and go to 
+space. That is my lifelong dream.
+    Senator Cruz. You know, one of the things we have heard as 
+well is the enormous demands in the STEM fields and that these 
+are only going to keep growing, whether cybersecurity, whether 
+space, whether computers, whether programming. The world is 
+getting more and more complicated, more and more technological, 
+and people lacking those STEM skills have a much higher chance 
+of being locked out of their best chances of the future.
+    At the same time, we are facing a shortage of graduates 
+with the skills necessary, and one of the things that all of 
+you all have testified to is to address that, we have got to 
+expand the pool. We have got to expand the graduates who are 
+coming out. And in particular, minorities, African Americans, 
+and Hispanics continue to be under-represented in STEM fields, 
+and women continue to be under-represented in STEM fields.
+    Both of those are realities I personally have considerable 
+familiarity with. My mom was one of those human computers. She 
+came out of Rice in 1956 and got hired at Shell as a computer 
+programmer at the dawn of the computer age. And my dad was a 
+Cuban immigrant who came out of Texas in 1961 and became a 
+computer programmer at IBM with a heavy Spanish accent and an 
+amazed wonder to be in America.
+    I want to ask each of you, how do we expand the ability of 
+minorities, the ability of women to see that they can achieve 
+in the STEM fields, to gain the skills they need, and to get 
+the tools to pursue careers if that is their passion and their 
+aptitude and their dreams? And I want to open it up to anyone.
+    Ms. Condino. Well, especially the women, when I used to 
+teach in Presidio, it was very difficult at the beginning to 
+kind of like to have them speak up for themselves. So I always 
+tell the kids self-advocacy is very, very important. And I ask 
+your teacher will be here as your second mom. And after they 
+have already gained all the skills and those exposures that we 
+provided for them, they need that full support in the end as 
+well until they continue.
+    Like these young girls that I mentored all the way until 
+they finally called me and said, Mrs. Condino, my last question 
+for you is help me decide. Should I accept a job at Lockheed 
+Martin Corporation or should I go to Aurora Flight Sciences, 
+which is owned by Boeing. Things like that.
+    So it's continuing to mentor these kids whether they are 
+male or female and continuing to provide them that exposure. I 
+am very happy where I am at right now at Fairfax County public 
+schools because especially in my school, they were pioneering 
+these capstone projects where in lieu of having this final 
+exam, these kids are developing projects from ninth grade all 
+the way to senior. And the capstone projects are amazing where 
+they conduct research.
+    They do presentations at--you know, even at the Department 
+of Education, we have students who published a book. There is a 
+student who actually created a story about her struggle and her 
+way to the United States I believe from Siberia and it ended up 
+being a film. So she was invited to this film festival. So 
+things like that is already starting. And again, it is 
+experiential learning.
+    And we are now moving on to the middle school where the 
+middle schools are also sort of like being exposed at a young 
+age because these are the skills that we will need for our 
+future workforce. And I think we have to start really early. 
+And as a teacher, we need to be there and continue our 
+mentorship. Even if they are already graduates, we still 
+continue to communicate with them.
+    On Thanksgiving, one of my former students at Herndon High 
+School just graduated with a degree in physics, and he is now 
+working at the Missile Division of Lockheed Martin. And he has 
+told me I am coming home on Thanksgiving, and I want to buy you 
+dinner. So things like that where you just give everything that 
+you have because it is not just for me anymore. It is not about 
+me anymore. It is about my kids, the future of my children and 
+their children's children. And I wanted to be able to 
+contribute now.
+    Senator Cruz. And the choice you described your former 
+student is facing, I would like to see a lot more students 
+having choices like that.
+    Dr. Gladden. I will be brief. I think the only extra point 
+I would add to that is, as I stated earlier, reaching further 
+back into the grade levels, if we are thinking about trying to 
+grow, which absolutely we need to do, grow the under-
+represented groups within the STEM fields, the professional 
+ranks, I do think that we will get more bang for the buck if we 
+reach back as early as we possibly can. And whatever the 
+programs are, whether they are NASA programs or Department of 
+Ed programs or wherever they live, I think we need to start 
+early because a lot of those preconceived notions--and some of 
+them are cultural, some of them are implicit bias. I mean, 
+whatever the reasons are, they start very early. And once they 
+start, it is hard to then peel them back, get them back on 
+track at the high school level and certainly at the university 
+level.
+    Mr. Manber. A few moments ago, I talked about the 
+extraordinary brand that is NASA. It is almost a disadvantage 
+in the sense of your question. How do we reach out to more 
+disadvantaged communities? We have now made a conscious effort 
+to go reach out to not only African American and Hispanic 
+communities but also first people. And when you go in and when 
+you say you can go to the International Space Station--I will 
+again use a New York analogy--they say, what? Are you selling 
+us the Brooklyn Bridge?
+    So one of the problems that we face is that NASA sometimes 
+has a love-hate relationship with commercial, but the more that 
+they hear that a small company sent an oven to the Space 
+Station or the more times it comes out instead of it just being 
+NASA and still very often when we do things, it is under NASA.
+    Now, there are a lot of, let us say, first people who are 
+not going to think that they can go to the Space Station in 
+this way. So to answer you very practically, we have started to 
+just go to some of these conferences, meet with the people, and 
+say either we want to train you or we want to locate something 
+in your community or on the reservation, or you can send 
+something and we will help you.
+    So it is just hard work, but we cannot wait for the 
+government to do it. But we could have a little bit of emphasis 
+put on NASA that sometimes it is not NASA. Sometimes it is the 
+commercial sector. We say, just laughing, when something goes 
+wrong, suddenly it is us, but when it is right, you know, it is 
+NASA. It is a joke. It is a joke. So it is really trying to get 
+over the brand, over the gravitas that is NASA.
+    Dr. Elkins-Tanton. To go back to what Ms. Condino said, so 
+many students are drawn into STEM fields through the team 
+experience of building something together. If you get away from 
+the hero model where it is just that one really smart boy who 
+answers the question and everyone else feels left out, if 
+instead you have everyone at the table working together to 
+solve something, that is where you get real diversity. We can 
+do that at the middle school. We can do that in elementary 
+school. We can do it in high school. That is what our whole new 
+degree is. It is all inquiry and experiential learning. We can 
+do it at scale. We can solve the problem of numbers.
+    The thing that you can do to help would be to release some 
+of the strictures on K through 12 on teaching to the test so 
+that the teachers feel that they have more freedom to teach in 
+these other ways that we know work.
+    Senator Cruz. Well, wonderful. I want to thank each of the 
+witnesses for your hard work, for your passion, your 
+dedication, for your testimony here today.
+    I am extending because I am being told that Senator Sinema 
+is a minute away. So right as I am in my peroration, getting 
+ready to try to wax eloquent, and instead--all right. Let us 
+ask another question, which is universities.
+    What should universities be doing better to expand STEM 
+education? And let me ask you in particular. NASA Space Grants. 
+How much of a difference are they making as a practical matter?
+    Dr. Gladden. The Space Grant program is hugely impactful. 
+It not only funds the faculty to do some of their exciting work 
+and partner with NASA to solve a particular problem, but as I 
+said earlier, there are always students involved in those 
+problems. So those are critical.
+    I would say beyond the NASA Space Grant program, higher ed 
+as a whole is looking pretty deeply--and we certainly are at 
+the University of Mississippi--at the STEM education 
+experience. We have kind of a cookie cutter traditional mold, 
+you know, we have this department and this school, and so on 
+and so forth. But the real problems do not fall like that. And 
+you have to be able to work with folks who do not have an 
+engineering background but they have got an accounting degree 
+or a business or a biology degree, or whatever it is. And the 
+Center for Manufacturing Excellence is an example of this layer 
+that you put on top of those majors that blends and then builds 
+teams of those students. Some are accounting majors. Some are 
+business majors. Some are engineers. But they are all working 
+on a yearlong problem, and they are all taking class work so 
+they understand each other's world.
+    And so I think the more of that that we can do, get 
+creative about--and, you know, teaching to the test--I am fully 
+onboard with trying to move away from that and get more 
+creative at the secondary level. That is kind of the same at 
+the university. We do not teach them too much to the test, but 
+we teach a lot to the way we have always taught. Can I get an 
+amen on that?
+    [Laughter.]
+    Dr. Gladden. But I think I am beginning to see more and 
+more willingness in the university and higher ed to think a 
+little bit broader.
+    Senator Cruz. And I will say I think that is the first call 
+and response we have had at a subcommittee hearing.
+    [Laughter.]
+    Senator Cruz. That is wonderful.
+    Senator Sinema.
+    Senator Sinema. Well, thank you so much, Mr. Chairman, for 
+allowing me to pop out to another Committee. I am really glad 
+to be back here.
+    I want to thank you again, all, for being here and 
+testifying on such an important issue.
+    My first question is for Dr. Elkins-Tanton. In your written 
+testimony, you discussed the difference between NASA-led 
+flagship missions like the Hubble telescope and principal 
+investigator-led missions like Psyche, the mission that you 
+lead. When testifying before the full Commerce Committee in 
+July, NASA Administrator Bridenstine made the same point which 
+you make in your written testimony, that university-led PI 
+missions are more likely to complete it on time and under 
+budget as compared to the NASA flagship missions.
+    As a principal investigator, what do you see as the 
+differences between how PI-led missions are managed as compared 
+to flagship missions? And what lessons could NASA learn from 
+PI-led missions to keep more of our flagship missions both on 
+time and on budget?
+    Dr. Elkins-Tanton. Thank you for the question, and I very 
+much hope not to disappoint you with Psyche mission. We are 
+going to try to be on schedule and under budget. We will see. 
+Doing our best.
+    The big difference between the way these missions are run--
+the PI-led missions are conceived of as a whole and the team 
+built from the beginning. And so the schedule and the budget 
+and the instruments that are needed and the plan for the 
+mission are all built as a whole, as a single unit. Whereas, 
+the flagship missions come from the decadal survey. They are 
+trying to answer the really big, really tough space challenges 
+that we have. And they are put together by competition so that 
+the instruments are picked from a pool, and then the leadership 
+is picked. And so once the leadership is in place, what they 
+really have is a whole bunch of separate, I might say, city 
+states that they need to blend into a functional government all 
+together. And that is a big challenge.
+    And it is not that I think this is wrong. I think that the 
+aspirations of our flagship missions and the new technology 
+developments that they drive, which makes budgeting much 
+harder, are what we should be doing. They are the hard things. 
+But if there is a possibility to create a more united team 
+earlier in the process, I think that will help with the 
+budgeting and scheduling challenges because that is where I see 
+them coming from.
+    Senator Sinema. Thank you.
+    My next question is also for you but I welcome all of our 
+panelists to respond if they are interested as well.
+    I am really proud of Arizona's universities that we have 
+taken advantage of NASA programs like Discovery and New 
+Frontiers, which provide principal investigators the 
+opportunity to propose and receive funding for a mission that 
+advances NASA's scientific and exploration goals.
+    What I am concerned about is what happens when one of these 
+missions ends. So after NASA and the university make 
+significant investments to develop expertise in a complex and 
+focused field of air space, astrophysics, or astrobiology, the 
+funding to support the research disappears afterwards. So this 
+can lead both NASA and universities to lose a key source of 
+expertise and it makes some of the follow up research for these 
+missions much harder to complete.
+    So what opportunities currently exist or should exist to 
+help NASA and universities make continuous or long-term 
+investments in space-related research fields, and what more can 
+we do to help NASA, universities, the private sector, and 
+individual researchers develop these long-term relationships to 
+fuel decades of research?
+    Dr. Elkins-Tanton. It is such a constant problem in space 
+research, both on the science and the engineering side, that 
+you buildup an incredible expertise and then the funding and 
+the emphasis goes away. And then those people need to leave for 
+other jobs.
+    We saw this happen after the Apollo era with lunar science. 
+Our institutional knowledge of lunar science began to drain 
+away because the funding was severely cut.
+    I envision a kind of world where when we are so lucky, as 
+we have been in Arizona at UofA and at ASU, to win these big 
+competed missions and we get these tremendous teams together, 
+what I would love to see is the opportunity for those people 
+then, waiting for the next possible mission opportunity, rather 
+than vanishing into a different industry, that is a moment when 
+we can bring together university, private sector, NASA to do 
+these kind of triangle sector efforts to hit the next big 
+target that we need. And then we do not lose the people. They 
+are still on the same teams. They are still educating new 
+members, and they are connecting better with the private 
+sector. They are doing tech transfer. They are filling in a gap 
+in Artemis. They are doing whatever the next important thing 
+is. And I would love to see NASA create partnerships like that 
+that would strengthen and grow a workforce.
+    Senator Sinema. Yes?
+    Dr. Gladden. So you are absolutely right that when those 
+specific projects end and the funding stops and then you have 
+sort of invested quite a lot of time and energy and money into 
+developing a relationship and a skill set and then it is gone.
+    So one of the things that we do at the University of 
+Mississippi--and other universities do this very well also--is 
+really work on developing the relationship with the program so 
+that when that funding ends, that we have got a trusting 
+relationship between the scientist and engineers on the Federal 
+side and our faculty members and research staff. And so what 
+that tends to do is the funding may have dried up or shifted in 
+other directions, but once you have the relationship there and 
+you have some flexibility in your skill set--that is another 
+key element is that, as we were talking about sort of changing 
+the way we think about developing on the education side a more 
+flexible curriculum, that is going to lead to a more flexible 
+faculty in the future that are not so narrow that this is what 
+I do and if it does not fit in this box, then I am not involved 
+or I cannot be involved. And so I think those sort of things, 
+having that flexibility and that long-term relationship, is 
+really key to extending the time that we are collaboratively 
+working.
+    The one other point I will quickly make is we do have some 
+models with other Federal agencies where we have scientists 
+from the Federal side come and stay on our campus for extended 
+periods of time--it might be 3 months, 6 months, or even 
+longer--and our faculty members also go there for extended 
+periods of time. Those are incredibly valuable. And we even go 
+so far with a particular agency where we have Federal 
+scientists embedded full-time with our faculty in one of our 
+facilities. That is the kind of thing that builds relationships 
+that last decades.
+    Senator Sinema. Thank you.
+    So my next question--sorry, Dr. Elkins-Tanton. I have 
+another question for you.
+    Since 2015, you have worked as the principal investigator 
+on the Psyche mission, which proposes to send a probe to 
+Psyche, an asteroid with an exposed nickel-iron core. 
+Apparently it resembles the core of a newly formed planet much 
+like the Earth several billion years ago.
+    As you have developed this mission, how have you worked 
+with both undergraduate and graduate students, as well as other 
+researchers at Arizona State University, and what do you 
+believe that students and researchers gain from the opportunity 
+to work firsthand on a mission like Psyche. And then what more 
+can we do to ensure that students and researchers across the 
+country have the opportunity to participate in NASA missions?
+    Dr. Elkins-Tanton. Thank you.
+    We have been hitting this topic I think really beautifully, 
+and I want to focus on a couple of really key parts of what we 
+have tried to do in Psyche, which I think connect so much with 
+everything that we have each said, and that is giving students 
+at all levels the opportunities to work in interdisciplinary 
+teams toward goals.
+    So Dr. Cassie Bowman is the research faculty at ASU who 
+runs all of the Psyche student collaborations. And one of the 
+innovations that she has made--in fact, we are writing research 
+papers about this--is figuring out how to run capstone teams. 
+But we would really like them not to be capstone teams. We want 
+them to be every semester every year of your education working 
+together where there is an engineer and there is a user 
+experience designer, there is a graphic designer, there is a 
+marketer, there is a student project manager on the team just 
+like it will be when they hit the workforce, trying to solve 
+problems that come from the project. And so our engineers, our 
+people at JPL, our people at Maxar, they share challenges they 
+are facing and give them to these teams.
+    We had a set of capstones that competed for a flight on a 
+Blue Origin launch, and the team that won was a virtual team. 
+We had someone in the military who was on a ship. We had 
+someone at a university on the east coast, in the south, 
+someone in the north. They literally mailed their hardware back 
+and forth. They did Skype teams. And they won. And so that is 
+the workforce of the future. And that is how we want to engage 
+people. I think we should do as much of this as we can.
+    Senator Sinema. Thank you.
+    Mr. Chairman, I want to just take a moment again to thank 
+all of our witnesses for being here today, and I want to thank 
+you for hosting this Committee hearing. This is something I am 
+very interested in. It is important to my state. I know it is 
+important to our country, not just for the future 
+competitiveness of our country, but for our national security. 
+So thank you for the work that you all do, and thank you in 
+particular for the folks that you are teaching and mentoring 
+across our country to ensure that we remain competitive and 
+safe. I appreciate it.
+    Senator Cruz. Well, thank you, Senator Sinema.
+    And I want to thank each of the witnesses. It is sort of, 
+as Yogi Berra said, ``deja vu all over again.'' But thank you 
+for your terrific testimony, for your passion, and for the 
+difference you are making.
+    The record for this hearing will remain open for the next 
+two weeks. Any Senators are asked during that time to submit 
+questions for the record, and upon receipt, the witnesses are 
+asked to submit your written answers to the Subcommittee as 
+soon as possible.
+    And with that, this hearing is adjourned.
+    [Whereupon, at 4:17 p.m., the hearing was adjourned.]
+
+                            A P P E N D I X
+
+     Response to Written Question Submitted by Hon. Jerry Moran to 
+                       Dr. Linda T. Elkins-Tanton
+    Question. The Cosmosphere, located in Hutchison, Kansas, is a great 
+example of the role informal education centers play in introducing STEM 
+and inspiring students at an early age. Nick Hague, a native Kansan, 
+and astronaut who recently served as Flight Engineer on the 
+International Space Station for Expedition 60 has stated that a junior 
+high trip to the Cosmosphere reinforced his desire to become an 
+astronaut. Additionally, they have hundreds of stories of students who 
+participated in their education or camp programs, ultimately going on 
+to work at NASA, JPL, Space X, Virgin Galactic, the Armed Forces and 
+more. How can we continue to leverage centers like these toward 
+advancing our common goal of furthering STEM education and inspiring 
+future generations?
+    Answer. I had a similar formative experience as a child while 
+visiting the American Museum of Natural History. The effectiveness of 
+informal education is striking, and it shows the truth of the saying 
+that education is what is done to us, and learning is what we do for 
+ourselves. In museums and libraries and community centers and camps all 
+over the country, people are learning, and that learning feels personal 
+and exciting and important. We need these programs.
+    The work of the NASA Education group is central to the vibrancy, 
+rigor, and networking of this kind of program. I've followed their work 
+closely and endorse it highly. These programs need a structure and 
+support to grow in synergy and excellence, and not become isolated and 
+possibly outdated. NASA effectively connects the centers with 
+universities and with each other. Further, corporate partnerships with 
+the growing space sector should increasingly help bear the burden and 
+better connect the triangle of private sector--education--government.
+    Your word, inspiration, is central to all of our efforts. Unless a 
+person is inspired they may wander aimlessly in their education and 
+career; in fact, they may wander off the path. Our world needs all the 
+inspiration we can get and these informal education programs are a key 
+ingredient to societal vigor and progress.
+                                 ______
+                                 
+     Response to Written Question Submitted by Hon. Jerry Moran to 
+                             Jeffrey Manber
+    Question. The Cosmosphere, located in Hutchison, Kansas, is a great 
+example of the role informal education centers play in introducing STEM 
+and inspiring students at an early age. Nick Hague, a native Kansan, 
+and astronaut who recently served as Flight Engineer on the 
+International Space Station for Expedition 60 has stated that a junior 
+high trip to the Cosmosphere reinforced his desire to become an 
+astronaut. Additionally, they have hundreds of stories of students who 
+participated in their education or camp programs, ultimately going on 
+to work at NASA, JPL, Space X, Virgin Galactic, the Armed Forces and 
+more. How can we continue to leverage centers like these toward 
+advancing our common goal of furthering STEM education and inspiring 
+future generations?
+    Answer. Of all the challenges faced by political leaders, 
+convincing students that space exploration is cool is not the biggest 
+hurdle! Kids have a natural feel for learning about space, whether 
+human exploration or scientific missions to other planets. At 
+Nanoracks, we have our educational subsidiary, DreamUp, which has sent 
+hundreds of privately funded student research projects to the 
+International Space Station. The goal is to leverage the communities, 
+the families, the parents and the schools to engage more with local 
+centers and programs. Outreach is the biggest need right now. We have 
+the wonderful partners such as the Cosmosphere. What is needed is more 
+engagement with the communities including outreach and educational 
+programs. It is very important that we ensure the students of today can 
+fill the technical jobs of tomorrow.
+                                 ______
+                                 
+     Response to Written Question Submitted by Hon. Jerry Moran to 
+                       J.R. (Josh) Gladden, Ph.D.
+    Question. The Cosmosphere, located in Hutchison, Kansas, is a great 
+example of the role informal education centers play in introducing STEM 
+and inspiring students at an early age. Nick Hague, a native Kansan, 
+and astronaut who recently served as Flight Engineer on the 
+International Space Station for Expedition 60 has stated that a junior 
+high trip to the Cosmosphere reinforced his desire to become an 
+astronaut. Additionally, they have hundreds of stories of students who 
+participated in their education or camp programs, ultimately going on 
+to work at NASA, JPL, Space X, Virgin Galactic, the Armed Forces and 
+more. How can we continue to leverage centers like these toward 
+advancing our common goal of furthering STEM education and inspiring 
+future generations?
+    Answer. I could not agree more that centers such as the 
+Cosmosphere, the Center for Math and Science Education at the 
+University of Mississippi, and many other similar organizations around 
+the country, play a critical role in the sustained interest and passion 
+of young people in the STEM fields. I have a personal story similar to 
+that of Nick Hague referenced in the question. I have no doubt that the 
+visits I made to the Smithsonian Air and Space Museum, as well as other 
+science museums in the southeast U.S. had a profound effect on my 
+interest in the field of physics. These fields take a great deal of 
+education and sustained dedication, so ultimate success in getting into 
+the STEM workforce requires a level of deep interest and passion.
+    The question is, how can we maximize the exposure of young people 
+to these experiences during their formative years (approximately 6th--
+12th grade)? I have a few suggestions:
+
+  1.  Lower the financial bar of entry to these museums and education 
+        centers as much as possible. No cost of course would be best, 
+        but perhaps free under 18 years old might be more realistic. I 
+        understand these facilities are not inexpensive to design, 
+        build, and maintain. Perhaps these kinds of endeavors are well 
+        suited for public-private partnerships.
+
+  2.  Increase geographic access as much as possible. While some 
+        minimum population center would be needed for sustainability, 
+        creative on-line elements such as virtual reality, can help 
+        exposure in more rural areas. The University of Mississippi has 
+        established a VR Learning Lab to both teach students how to 
+        build VR worlds and help public and private sectors understand 
+        the training and outreach opportunities.
+
+  3.  Include elements in these centers that not only talk about the 
+        amazing science, engineering and technology; but also what a 
+        career in these fields ``looks like''. These could include 
+        regular speakers from professionals in the field, recorded 
+        video, and on-line video chats. These should be as interactive 
+        as possible so young people can ask questions.
+
+  4.  Increase awareness as much as possible. This would include 
+        outreach to schools, civic groups, local government, social 
+        media, religious organizations. Let people know what is 
+        available to them in their area and how to access it.
+
+  5.  Keep the content and programming fresh. Some sections should 
+        regularly rotate and capture emerging technologies to provide 
+        vision about not only where we have been, but where we are 
+        going. This provides some motivation for students to regularly 
+        visit and deepen their interest in STEM careers.
+                                 ______
+                                 
+     Response to Written Question Submitted by Hon. Jerry Moran to 
+                         Shella Rivano Condino
+    Question. The Cosmosphere, located in Hutchison, Kansas, is a great 
+example of the role informal education centers play in introducing STEM 
+and inspiring students at an early age. Nick Hague, a native Kansan, 
+and astronaut who recently served as Flight Engineer on the 
+International Space Station for Expedition 60 has stated that a junior 
+high trip to the Cosmosphere reinforced his desire to become an 
+astronaut. Additionally, they have hundreds of stories of students who 
+participated in their education or camp programs, ultimately going on 
+to work at NASA, JPL, Space X, Virgin Galactic, the Armed Forces and 
+more. How can we continue to leverage centers like these toward 
+advancing our common goal of furthering STEM education and inspiring 
+future generations?
+    Answer. The influence and impact to students of opportunities like 
+these is prodigious. Many claimed that it truly inspired them to pursue 
+STEM courses and careers. I believe it is best if we continue to 
+provide these kinds of opportunities particularly internships, not only 
+to undergraduate and post graduate students, but as well as high 
+schools students. An example is how Aurora Flight Sciences, an 
+aerospace company whose headquarters is based on Manassas, VA. Aurora 
+provided internship experiences to 3 of my high school students from 
+Presidio High School during their senior year. Their experiences paved 
+the way for them to pursue mechanical engineering! All three finished 
+with ME degrees, currently 1 is working for Aurora, 1 for Boeing and 1 
+associate professor of mechanical engineering in a university!
+    Summer camps and other STEM educational activities can also be a 
+great start to expose young kids however, most of them require 
+extremely expensive fees just to participate. For students coming from 
+rural areas and cannot afford fees, this would limit their chances of 
+participation. There are only a few programs like NASA High School 
+Aerospace Scholars (Texas and Virginia) that provide all expense trip 
+to students who qualified and completed prior work. The NASA Student 
+Launch Initiative for high school and middle school used to provide a 
+small amount of scholarship money to help purchase materials for the 
+rocket at least, but now it is taken away. Therefore, schools who 
+cannot afford the materials, even if they qualify and have students who 
+are skillful cannot participated due to the cost of both rocket and 
+travels. Although my Presidio Rocketry Teams in the past will do 
+anything to make it possible for us to participate, like crazy 
+fundraising (raffling goats, BBQ and donut sales) and driving 24 hrs. 
+on a yellow school bus just to make it to the rocket launch in 
+Huntsville AL, NOT everyone can be willing or has the means to do so.
+    I believe it is best if we provide more accessible and affordable 
+programs for all. Access to virtual programs can also be an option, 
+specially to those schools in the farthest corners or edges of the 
+country.
+    As a classroom teacher, I went on my own way to bring STEM to my 
+class. I attended numerous STEM workshops and professional developments 
+on my own dime to ensure I received proper training and enough 
+knowledge to share it to my own schools and students. Again, not all 
+teachers could be willing to use their own money for things like these, 
+but providing teachers training and support may play a big difference. 
+I brought in rocketry, robotics, math and science competitions, STEM 
+business, and so on and so forth so that despite our challenging 
+geographic location, our students can still experience the same 
+opportunities as other kids in the cities. We had virtual career days 
+where students talk to experts and professionals through skype. But 
+these endeavors may be small in scale, but it has a large effect on our 
+little town. Many of the students in the past only wish to graduate 
+from high school to get a job at a grocery store or gas stations, but 
+majority of the students now aspire to go to college and finish college 
+so they can have better lives in the future.
+
+                               [all]
+

@@ -1,0 +1,2076 @@
+
+ - LEGISLATIVE HEARING ON H.R. 592; H.R. 608; H.R. 1658; H.R. 1659; AND H.R. 2499
+
+[House Hearing, 118 Congress]
+[From the U.S. Government Publishing Office]
+
+
+                         LEGISLATIVE HEARING ON
+        H.R. 592; H.R. 608; H.R. 1658; H.R. 1659; AND H.R. 2499
+
+=======================================================================
+
+                                HEARING
+
+                               BEFORE THE
+
+              SUBCOMMITTEE ON OVERSIGHT AND INVESTIGATIONS
+
+                                 OF THE
+
+                     COMMITTEE ON VETERANS' AFFAIRS
+
+                     U.S. HOUSE OF REPRESENTATIVES
+
+                    ONE HUNDRED EIGHTEENTH CONGRESS
+
+                             FIRST SESSION
+                               __________
+
+                       WEDNESDAY, APRIL 19, 2023
+                               __________
+
+                           Serial No. 118-10
+                               __________
+
+       Printed for the use of the Committee on Veterans' Affairs
+       
+       
+                 [GRAPHIC NOT AVAILABLE IN TIFF FORMAT]   
+
+
+                    Available via http://govinfo.gov
+                    
+                               __________
+
+                    U.S. GOVERNMENT PUBLISHING OFFICE
+                    
+52-207                     WASHINGTON : 2023                    
+                    
+                                        
+                    
+                     COMMITTEE ON VETERANS' AFFAIRS
+
+                     MIKE BOST, Illinois, Chairman
+
+AUMUA AMATA COLEMAN RADEWAGEN,       MARK TAKANO, California, Ranking 
+    American Samoa, Vice-Chairwoman      Member
+JACK BERGMAN, Michigan               JULIA BROWNLEY, California
+NANCY MACE, South Carolina           MIKE LEVIN, California
+MATTHEW M. ROSENDALE, SR., Montana   CHRIS PAPPAS, New Hampshire
+MARIANNETTE MILLER-MEEKS, Iowa       FRANK J. MRVAN, Indiana
+GREGORY F. MURPHY, North Carolina    SHEILA CHERFILUS-MCCORMICK, 
+C. SCOTT FRANKLIN, Florida               Florida
+DERRICK VAN ORDEN, Wisconsin         CHRISTOPHER R. DELUZIO, 
+MORGAN LUTTRELL, Texas                   Pennsylvania
+JUAN CISCOMANI, Arizona              MORGAN MCGARVEY, Kentucky
+ELIJAH CRANE, Arizona                DELIA C. RAMIREZ, Illinois
+KEITH SELF, Texas                    GREG LANDSMAN, Ohio
+JENNIFER A. KIGGANS, Virginia        NIKKI BUDZINSKI, Illinois
+
+                       Jon Clark, Staff Director
+                  Matt Reel, Democratic Staff Director
+
+              SUBCOMMITTEE ON OVERSIGHT AND INVESTIGATIONS
+
+               JENNIFER A. KIGGANS, Virginia, Chairwoman
+
+AUMUA AMATA COLEMAN RADEWAGEN,       FRANK J. MRVAN, Indiana, Ranking 
+    American Samoa                       Member
+JACK BERGMAN, Michigan               CHRIS PAPPAS, New Hampshire
+MATTHEW M. ROSENDALE, SR., Montana   SHEILA CHERFILUS-MCCORMICK, 
+                                         Florida
+
+Pursuant to clause 2(e)(4) of Rule XI of the Rules of the House, public 
+hearing records of the Committee on Veterans' Affairs are also 
+published in electronic form. The printed hearing record remains the 
+official version. Because electronic submissions are used to prepare 
+both printed and electronic versions of the hearing record, the process 
+of converting between various electronic formats may introduce 
+unintentional errors or omissions. Such occurrences are inherent in the 
+current publication process and should diminish as the process is 
+further refined.
+                         C  O  N  T  E  N  T  S
+
+                              ----------                              
+
+                       WEDNESDAY, APRIL 19, 2023
+
+                                                                   Page
+
+                           OPENING STATEMENTS
+
+The Honorable Jennifer A. Kiggans, Chairwoman....................     1
+The Honorable Frank J. Mrvan, Ranking Member.....................     2
+The Honorable Mark Takano, Ranking Member, Full Committee........     3
+The Honorable Matthew M. Rosendale, U.S. House of 
+  Representatives, (MT-2)........................................     8
+
+                               WITNESSES
+
+Mr. Phillip Christy, Deputy Executive Director, Office of 
+  Acquisition, Logistics, and Construction, Department of 
+  Veterans Affairs...............................................     4
+
+        Accompanied by:
+
+    Ms. Catherine Cravens, Chief of Staff, Office of Information 
+        Technology, Department of Veterans Affairs
+
+    Dr. Leslie Sofocleous, Executive Director, Program Management 
+        Office, Electronic Health Record Modernization 
+        Integration Office, Department of Veterans Affairs
+
+    Ms. Shana Love-Holmon, Acting Assistant Secretary, Office of 
+        Enterprise Integration, Department of Veterans Affairs
+
+Ms. Shelby Oakley, Director, Contracting and National Security 
+  Acquisitions, Government Accountability Office.................     6
+
+                                APPENDIX
+                    Prepared Statements Of Witnesses
+
+Mr. Phillip Christy Prepared Statement...........................    23
+Ms. Shelby Oakley Prepared Statement.............................    30
+
+                       Statements For The Record
+
+The American Legion..............................................    49
+Fleet Reserve Association........................................    51
+
+ 
+                         LEGISLATIVE HEARING ON
+        H.R. 592; H.R. 608; H.R. 1658; H.R. 1659; AND H.R. 2499
+
+                              ----------                              
+
+
+                       WEDNESDAY, APRIL 19, 2023
+
+             U.S. House of Representatives,
+      Subcommittee on Oversight and Investigations,
+                            Committee on Veterans' Affairs,
+                                                   Washington, D.C.
+    The subcommittee met, pursuant to notice, at 9:30 a.m., in 
+room 390, Cannon House Office Building, Hon. Jen Kiggans 
+[chairwoman of the subcommittee] presiding.
+    Present: Representatives Kiggans, Rosendale, Mrvan, Pappas, 
+and Cherfilus-McCormick.
+    Also present: Representative Takano.
+
+      OPENING STATEMENT OF JENNIFER A. KIGGANS, CHAIRWOMAN
+
+    Ms. Kiggans. Good morning. Thank you to our witnesses for 
+being here today. In today's hearing, we will examine 
+legislative options to check the struggling Electronic Health 
+Record (EHR) modernization effort to address VA management 
+concerns, and to authorize VA's newest effort to modernize its 
+supply chain. I will begin with my bill, which is H.R. 2499, 
+the Supply Chain Management System Authorization Act.
+    Though I have been in Congress a short time, I have learned 
+that the VA's major modern modernization efforts over the past 
+decade have been plagued by some challenges. Government 
+Accountability Office's (GAO's) written testimony highlights 
+one of the roots of this problem, and to quote them, ``the VA 
+often puts actions ahead of planning.''
+    This reality at the Department is precisely why Congress 
+must be involved in VA's major programs and why I believe we 
+need to specifically authorize VA's supply chain effort.
+    My bill would give Congress the ability to have more 
+control over the scope, planning, and spending of this major 
+project by authorizing the VA to purchase and implement a 
+system for Veterans Health Administration (VHA) focused 
+specifically on inventory management, requiring the system to 
+be implemented in 3 years, and directing VA to begin with a 
+pilot of the system at one location to make sure it really 
+works for the VA before implementing it across the country.
+    I appreciate that the Department still has some concerns 
+with the bill but considering the VA's struggle with a number 
+of major projects like the EHR Modernization Program, which is 
+the subject of the next two bills, I am convinced that H.R. 
+2499 is vitally important.
+    Now, I will turn to H.R. 592, the Department of Veteran 
+Affairs Electronic Health Record Modernization Improvement Act 
+introduced by Chairman Bost. Congress never authorized the EHR 
+Modernization Program, and it has struggled from the very 
+beginning. The program is live at only five medical centers 
+after 5 years, and over $5 billion have been spent. It has 
+faced issue after issue, and providers and veterans at these 
+five sites are not getting the support and care they need. That 
+is why H.R. 592 would require medical center and Veterans 
+Integrated Services Network (VISN) leadership to certify the 
+EHRs ready for their hospital before it can be installed. It 
+would also require the Secretary to certify the EHRs running 
+without issue 99.9 percent of the time, which is a requirement 
+in the contract before the EHR can be installed anywhere else. 
+VA must take these steps to make sure it does not repeat 
+mistakes made at the first five sites. I look forward to 
+hearing from our witnesses about this bill.
+    Also on the agenda today is H.R. 608, to terminate the 
+Electronic Health Record Modernization Program of the 
+Department of Veteran Affairs. This bill was introduced by Mr. 
+Rosendale, the Chairman of the Subcommittee on Technology 
+Modernization. I will let him speak to the details of this 
+bill.
+    Another bill on today's agenda that would impact the EHR 
+Modernization Program is H.R. 1659, the Department of Veteran 
+Affairs IT Modernization Improvement Act. This bill was 
+introduced by Ranking Member Takano and would require VA to 
+contract for an independent verification and validation 
+assessment of five major IT modernization efforts to include 
+the EHR Modernization Program and the Supply Chain Program.
+    Last, we have H.R. 1658, the Manage VA Act. Also introduced 
+by Ranking Member Takano, this bill would create an 
+undersecretary for management. The position would be 
+responsible for VA's budget, accounting, procurement, human 
+resources, information technology, and other VA central office 
+functions. I will recognize Ranking Member Takano in a few 
+minutes to speak to his bills.
+    Again, thank you all for being here today and I look 
+forward to our discussion. I now recognize Ranking Member Mrvan 
+for his opening remarks.
+
+      OPENING STATEMENT OF FRANK J. MRVAN, RANKING MEMBER
+
+    Mr. Mrvan. Thank you, Chair Kiggans. I am looking forward 
+to discussing two bills that I have co-sponsored with Ranking 
+Member Takano at our hearing today. As the Chair of Technology 
+Modernization Subcommittee last Congress, I have seen firsthand 
+the impacts of failures to improve VA's large IT systems. The 
+Department of Veterans Affairs IT Modernization Improvement Act 
+is a strong first step to introducing a higher level of support 
+and accountability for the VA and for Congress.
+    Independent verification and validation is not a new 
+concept and has been successfully utilized at the Department of 
+Defense to ensure that the Department and the taxpayers get 
+what they pay for. I am very pleased to see that VA supports 
+this effort and I look forward to hearing their testimony on 
+this bill today.
+    A second broader and more aspirational bill we will discuss 
+today is the Manage VA Act, which would create an 
+undersecretary of management at the VA and consolidate 
+acquisition and business functions at the Department. Creating 
+one management position is not going to fix every issue that VA 
+has had with managing acquisitions, budget, and IT across the 
+Department, but it is a start. I feel it is time to provide a 
+position that has the authority and weight to ensure that we do 
+not keep making the same mistakes over and over and over again.
+    We found out last Congress that it took a decision from the 
+Secretary to end the failed supply chain modernization attempt 
+with Defense Medical Logistics Standard Support (DMLSS). As we 
+move toward yet another attempt at modernizing supply chain 
+management, I want to ensure we are providing VA with every 
+resource possible to get a successful program at this time.
+    I would also like to acknowledge my colleagues' bills 
+concerning the Electronic Health Record Modernization (EHRM) 
+program. I was happy to lead the EHRM Transparency law with 
+Chairman Bost and Ranking Member Takano on a bipartisan basis 
+last Congress. I look forward to continuing to work on a 
+bipartisan basis on this program and get a system and result 
+that will benefit veterans and employees.
+    I am happy to say that we will be introducing and I will 
+cosponsor the EHRM Reset Act introduced by Senator Tester. This 
+bill is an ideal platform for negotiating a long-term 
+bipartisan fix to the program. This bill will address a number 
+of issues, including in Chairman Bost's legislation today. I 
+look forward to collaborating across the aisle, as we 
+successfully accomplished last Congress. I look forward to 
+hearing from our witnesses today, and I yield back my time.
+    Ms. Kiggans. Thank you, Ranking Member Mrvan. I now 
+recognize the ranking member for the full committee, Mr. 
+Takano, to speak on his bills H.R. 1658 and H.R. 1659.
+
+    STATEMENT OF MARK TAKANO, RANKING MEMBER, FULL COMMITTEE
+
+    Mr. Takano. Well, thank you, Chair Kiggans. I am happy to 
+discuss two bills today that I have introduced in this 
+Congress. I am also happy to say that Chairman Bost and I will 
+be working together on a bipartisan basis on a long-term 
+solution to the EHRM program with our planned introduction of 
+Senator Tester's EHRM Reset Act this week. We have had a lot of 
+success working together on a bipartisan basis, and I look 
+forward to continuing to work across the aisle to fix this 
+problem.
+    The Department of Veterans Affairs IT Modernization 
+Improvement Act will require VA to contract for independent 
+verification and validation of the EHRM, Financial Management 
+Business Transformation (FMBT), supply chain, and Veterans 
+Benefits Management System (VBMS) modernization programs. The 
+key word there being independent. For too long, Congress has 
+not had the visibility into these large IT modernization 
+programs that we need to provide necessary oversight. This will 
+also be an invaluable tool for VA to ensure that the 
+government, veterans, and taxpayers are getting what they pay 
+for. This is a long-standing best practice of Department of 
+Defense (DoD). Given the ever-increasing size of the VA, the 
+time is now to create this capacity.
+    My second bill, the Manage VA Act, will create an 
+undersecretary for management at the VA and consolidate 
+acquisition and business functions at the Department. With the 
+continued appearances of acquisition management and management 
+IT acquisitions and operations on the GAO high risk list, it is 
+past time that we designated an undersecretary whose expertise 
+will be the business of government.
+    The failures to modernize VA's financial systems, supply 
+chain management, health records, et cetera, has had a direct 
+impact on the care and benefits we provide to veterans. VA has 
+not been provided with the management and acquisition resources 
+commensurate with their responsibilities. Leadership is needed 
+on these business functions so that our VA employees can do 
+what they do best, which is provide exceptional care and 
+benefits to our veterans.
+    I hope both bills can get bipartisan support. It is in 
+everyone's best interest to ensure that we are managing the 
+business of VA wisely. I encourage all my colleagues to support 
+these bills and I yield back.
+    Ms. Kiggans. Thank you, Ranking Member Takano. We will now 
+turn to witness testimony. Testifying before us today we have 
+Mr. Phillip Christy, who is the Deputy Executive Director for 
+the Office of Acquisition, Logistics, and Construction at the 
+Department of Veteran Affairs. He is accompanied by Ms. 
+Catherine Cravens, who is the Chief of Staff for the Office of 
+Information Technology at the Department of Veteran Affairs. We 
+have Dr. Leslie Sofocleous, who is Executive Director of the 
+Program Management Office for the Electronic Health Record 
+Modernization Integration Office at the Department of Veteran 
+Affairs. We have Ms. Shannon Love-Holmon, who is Acting 
+Assistant Secretary for the Office of Enterprise Integration at 
+the Department of Veteran Affairs. Last but not least, we have 
+Ms. Shelby Oakley, who is Director for Contracting and National 
+Security Acquisition at the Government Accountability Office. 
+Ms. Oakley, you appear outnumbered by Veteran Affairs members, 
+but I trust you are not outgunned.
+    Now I would like to swear in our witnesses. I will ask all 
+witnesses to please stand and raise your right hand.
+    [Witnesses sworn]
+    Ms. Kiggans. Thank you so much. Let the record reflect that 
+all witnesses answered in the affirmative. Mr. Christy, we will 
+start with you. You are recognized for 5 minutes to provide 
+your testimony.
+
+                  STATEMENT OF PHILLIP CHRISTY
+
+    Mr. Christy. Good morning, Chairman Kiggans, Ranking Member 
+Mrvan, and other members of the subcommittee. Thank you for the 
+opportunity to appear before you to discuss the pending 
+legislation that would affect VA programs and services. Today, 
+I am blessed and flanked by some incredible talent. Joining me 
+are Dr. Leslie Sofocleous, Executive Director of Electronic 
+Health Record and Modernization and Program Management Office, 
+Ms. Shana Love-Holmon, the Acting Assistant Secretary, Office 
+of Enterprise Integration, and Catherine Cravens, the Chief of 
+Staff for the Office of Information and Technology.
+    Madam Chairwoman, in my oral testimony, I will highlight 
+the Department's views concerning the five bills on the agenda. 
+Regarding the five bills we are here to discuss, the VA 
+supports certain provisions of the proposed bills and would 
+like to highlight areas of concern and certain provisions we 
+oppose. VA appreciates the intent behind the bills and looks 
+forward to discussing the opportunities to continue to improve 
+program management, accountability, and jointness within the 
+Department. The rationale for our VA's position is outlined in 
+our written statement.
+    First, the VA Electronic Health Record Modernization 
+Improvement Act, H.R. 592, which VA supports, in part. VA 
+supports the bill's requirement that VA continue to partner 
+with the Department of Defense and the Federal Electronic 
+Health Record Modernization Office to improve overall 
+performance within the EHR and the systems connected to it. 
+However, VA does not fully support some of the specific 
+prohibitions and certification requirements. As currently 
+written, the proposed limitations would pause program 
+activities and cause significant cost impacts. We suggest 
+modifications to the bill text to ameliorate these concerns, 
+and we believe the modifications would work toward facilitating 
+the intent of the bill.
+    The second bill focused on EHR, H.R. 608, would require the 
+Secretary to terminate the program, abolish the EHR Integration 
+Office, and revert facilities where the new EHR is deployed 
+back to Veterans Health Information Systems and Technology 
+Architecture (VistA). VA opposes this bill, as it would 
+frustrate VA's ability to have an interoperable and 
+longitudinal record with the Department of Defense. Modernizing 
+VA's EHR is critical for providing the best care for our 
+veterans and facilitates advancements in the delivery of that 
+care. We believe terminating the program would work against 
+those goals.
+    As for H.R. 1659, the IT Modernization Improvement Act, the 
+VA supports the bill if amended and with appropriations. This 
+bill would direct VA to contract for independent verification 
+and validation of certain modernization efforts of the 
+Department. Ideally, VA would have in-house team with the 
+expertise to conduct Independent Verification and Validation 
+(IV&V) of its major modernization efforts. Contracting IV&V 
+support while VA builds internal capacity, makes practical 
+sense, and will help expedite the resulting delivery of 
+benefits and services to veterans, their caregivers and family 
+members. VA anticipates an IV&V contract of this size would be 
+extremely expensive. Appropriate and timely funding of this 
+bill is critical.
+    Regarding H.R. 1658, the Manage VA Act, the VA does not 
+support. This bill would create a new undersecretary for 
+management as the chief management officer of the Department. 
+Integrating the Department's efforts in creating operational 
+jointness in our support of veterans, their families, 
+caregivers, and survivors is essential to veterans choosing VA 
+for care, benefits, and services. VA has implemented robust 
+governance to drive jointness and integration in support of the 
+Secretary and the Deputy Secretary who serves as VA's Chief 
+Operating Officer. This framework enables evidence-based risk 
+informed decisionmaking that advances the mission of the VA.
+    Currently, the Assistant Secretary for Enterprise 
+Integration serves as the VA accountable executive for 
+enterprise management and governance in support of the Office 
+of the Secretary. In addition, VA has one of the most 
+outstanding customer experience offices in the Federal 
+Government, which serves as a key partner within our enterprise 
+governance framework to ensure we continue to put veterans 
+first in all of our decisions and all of our program execution. 
+The VA already has in place many of the functions this bill 
+prescribes.
+    Finally, VA cites concerns with a draft bill that would 
+authorize the Secretary to carry out an IT system and 
+prioritize certain requirements to manage supply chains for 
+medical facilities. As written, the bill may impede ongoing 
+efforts toward an enterprise supply chain solution. We are 
+concerned about the timeline for implementation does not 
+accurately reflect the complexities involved in successful 
+procurement and execution. VA welcomes the opportunity to 
+continue working with the committee to provide additional 
+technical assistance that will create the flexibility and the 
+scope and timing needed to ensure the success of the supply 
+chain mission.
+    Madam Chairwoman, before I close, I wanted to share our 
+deepest appreciation to the committee and all of the staff that 
+have worked with us regarding these bills. This concludes my 
+statement, and we would be happy to answer any questions you or 
+other members of the subcommittee may have.
+
+    [The Prepared Statement Of Phillip Christy Appears In The 
+Appendix]
+
+    Ms. Kiggans. Thank you so much, Mr. Christy. Ms. Oakley, 
+you are now recognized for 5 minutes to provide your testimony.
+
+                   STATEMENT OF SHELBY OAKLEY
+
+    Ms. Oakley. Chairwoman Kiggans, Ranking Member Mrvan, and 
+members of the subcommittee, I am pleased to be here today to 
+assist you with your consideration of the legislative proposals 
+to improve VA management and key modernization programs. While 
+Congress provides VA with hundreds of billions of dollars each 
+year, we are all aware of the opportunities VA has wasted 
+because it has not followed disciplined management approaches 
+when planning and executing its programs. EHRM is just one 
+example, but a critical one.
+    We added VA acquisition, management, and healthcare to our 
+high-risk list because VA lacks a disciplined management 
+approach, among other challenges. Our updated assessment of 
+these high-risk areas will be issued tomorrow.
+    The five bills the committee is considering reflect the 
+underlying theme that change is needed. As I laid out in my 
+written statement, we have issued an expansive body of work on 
+effective management practices and made prior recommendations 
+in line with aspects of the proposed legislation. Today, I will 
+discuss ways in which this work could help Congress and VA as 
+you seek lasting and transformative change.
+    For example, we identified key strategies for implementing 
+chief management officer positions, like the proposed VA 
+undersecretary for management. These include ensuring that the 
+Chief Marketing Officer (CMO) responsibilities are clearly 
+defined and documented, and that the CMO have a high and 
+sustained level of authority. We have also recommended CMO 
+positions be established by other departments, such as DoD and 
+Department of Homeland Security (DHS). Each department followed 
+or identified key strategies to different degrees, and, as a 
+result, have experienced varied success in integrating this 
+position.
+    Leadership is essential, but so is good information for 
+decisionmaking. We have long recognized independent 
+verification and validation as a best practice. When agencies 
+are developing or acquiring a system IV&V can help reduce risk 
+by having a knowledgeable independent party determine that the 
+system meets users' needs and fulfills its intended purpose.
+    We have identified key elements of effective IV&V plans 
+that may be helpful to Congress as it considers this proposed 
+legislation. These include risk-based criteria for determining 
+which programs or aspects of programs require IV&V and 
+establishing standards for independence. We recently 
+recommended that VA reinstitute plans to conduct an EHRM 
+independent operational assessment, which could be an element 
+of an overall IV&V review. IV&V is a specific solution to one 
+of the challenges the EHRM program faces.
+    As the draft legislation indicates, the subcommittee is 
+greatly concerned with broader program challenges. Our reported 
+findings and those of the Inspector General (IG) over many 
+years validate your concerns. For instance, we recently 
+reported to Congress that the overwhelming majority of users 
+are not satisfied with the system. Whichever approach Congress 
+chooses for this program, heeding the numerous GAO and IG 
+recommendations and lessons learned from the current effort 
+could help ensure that VA uses a more disciplined management 
+approach in pursuit of programmatic success.
+    Finally, as VA pursues a new supply chain management 
+system, our recommendations and our leading practices for 
+effective pilot programs could come in handy. For instance, 2 
+years ago, we recommended that VA develop a comprehensive 
+supply chain management strategy to guide its multiple 
+interrelated efforts. This strategy should drive the 
+development of whatever system VA requires, not vice versa. VA 
+is moving forward with its system acquisition despite still 
+developing this strategy.
+    Additionally, our prior work, consistent with the draft 
+legislation, indicates that effective pilots can inform and 
+facilitate program and policy decisions, especially for 
+significant modernization programs. These practices for pilot 
+programs call for having clear, well-defined, appropriate, and 
+measurable objectives, among other things.
+    In conclusion, the challenges these bills are trying to fix 
+are complex, and there are really no easy solutions. However, 
+consistently applying leading practices and strategies 
+summarized in my testimony will better position VA to fulfill 
+its mission in the years ahead. Your continued oversight will 
+be essential to holding VA accountable for delivering what it 
+has promised to our veterans. Thank you again for having me 
+here this morning. This concludes my statement, and I look 
+forward to any questions you have.
+
+    [The Prepared Statement Of Shelby Oakley Appears In The 
+Appendix]
+
+    Ms. Kiggans. Thank you so much, Ms. Oakley. Now I would 
+like to recognize Mr. Rosendale to speak on his bill H.R. 608.
+
+               STATEMENT OF MATTHEW M. ROSENDALE
+
+    Mr. Rosendale. Thank you, Chairwoman Kiggans, for holding 
+this hearing and to Chairman Bost for making oversight of 
+electronic health record modernization project a major priority 
+for this committee. We owe it to our Nation's veterans to have 
+a safe, fully functioning electronic records system. Quite 
+frankly, I feel sorry for the witnesses that are here trying to 
+defend a demonstrably failed system.
+    The Oracle Cerner electronic health record system operates 
+at five of the 171 VA medical centers. The VA acknowledges the 
+system has created unacceptable levels of productivity losses, 
+patient safety risks, and stay at burnout at these five small 
+to medium-sized facilities. Veterans at these five facility 
+centers have complained about lost medication in the mail, 
+receiving other veterans' medication, delayed specialist 
+appointments and diagnostic tests, confusion with the patient 
+portal, and generally increased wait times, widespread errors 
+in their personal information.
+    We are also seeing experienced employees at these five 
+medical centers leaving their jobs because of frustrations with 
+the system. In a survey, 60 percent of the staff at one of the 
+centers said the system has made them question whether to 
+continue working there. I was pleased with Secretary 
+McDonough's recent decision to continue the pause on 
+implementing the disastrous system at other VA sites. While 
+Secretary McDonough deserves credit for this decision, I think 
+it is unwise to delay the inevitable. This system and this 
+project have simply not worked out and are bleeding critical 
+resources from the VA at astronomical rates, and there is no 
+reason to believe that that is going to change.
+    It is not just bad execution. It is flawed concept. The VA 
+is not ready to accomplish a massive EHR replacement. The VA's 
+cost estimate was initially $16.1 billion over 10 years. Now, 
+the Institute for Defense Analysis is estimating up to $38.9 
+billion for implementation over 13 years. Our Nation is over 
+$31 trillion in debt, yet we are throwing billions of dollars 
+at a failed EHR system that is compromising veterans' safety. 
+This is unacceptable.
+    I introduced the EHR Termination Act to put a stop to this 
+madness before the VA spends billions of dollars more of 
+taxpayers' money. My legislation would abolish the Electronic 
+Health Record Modernization Integration Office and transfer any 
+functions to the Veterans Health Administration or the Office 
+of Information and Technology at the VA. It would also revert 
+all five medical centers using the Oracle Cerner EHR system 
+back to VistA and Computerized Patient Record System (CPRS). 
+Moreover, it would prevent the VA from exercising any options 
+on Oracle Cerner's contract, causing it to expire within 1 
+year.
+    The Congressional Budget Office estimated my legislation 
+would reduce discretionary costs by about $8 billion over 5 
+years. The taxpayer has already shelled out over $5 billion for 
+this project, and the only thing we have to show for it is 
+worse care for our veterans. Money that the taxpayer expended 
+should be returned because of this poor performance. The job of 
+the VA should be providing veterans the world class benefits 
+and services that they have earned, not doling out billions of 
+dollars to Silicon Valley companies. It is time to put our 
+Nation's veterans first by terminating the Oracle Cerner 
+electronic health record system. Thank you, Madam Chair, and I 
+yield back.
+    Ms. Kiggans. Thank you, Mr. Rosendale. Now we will turn to 
+questions, and I would like to yield myself 5 minutes. Starting 
+with Mr. Christy, H.R. 2499 would authorize a VA supply chain 
+management system. I know the VA is pursuing a massive 
+enterprise-wide VA supply chain management system under its own 
+authority, but what is the VA's independent lifecycle cost 
+estimate for that effort?
+    Mr. Christy. Ma'am, as we are working through the concepts 
+of the supply chain and the overarching strategy, we still do 
+not have a finalized cost estimate for what that will be in its 
+total. It is something that is under development. Understand 
+that when that number is arrived at that we could share it with 
+you and the committee.
+    Ms. Kiggans. Do you think you could get it to us by the end 
+of the week? Could you commit to that or?
+    Mr. Christy. I cannot commit to the end of the week that we 
+will have that number. It is still under development.
+    Ms. Kiggans. Do you know approximately how long it will 
+take?
+    Mr. Christy. Two components here. There is the internal 
+estimate that the program office will be working up. As part of 
+the acquisition strategy, we are using a statement of 
+objectives for the actual procurement. What that means is we 
+are going to lay out the objectives and industry will come back 
+to us with their solutions and their cost to deliver on those 
+solutions. Depending who wins through that procurement 
+competition, that would be the cost of the procurement itself.
+    Now, obviously, a program is just more than the contract 
+with all the ancillary and overhead costs with that. That will 
+be a key component into what is the cost of this program. Yes, 
+the program is taking its stab at what will this cost through a 
+lifecycle. A big, really important step to this, though, is 
+what will be the procurement cost? That is where a lot of the 
+money will go, frankly. Until we have those numbers, we are not 
+able to provide that to you. We still do not have the 
+procurement out on the street, right? That is still under 
+development along with the strategy.
+    Ms. Kiggans. Are we talking weeks or months or is this 
+going to take another year? I am just wondering what the 
+timeline looks like for that cost estimate.
+    Mr. Christy. Just for as a working concept, I would say 
+about 6 months before we could have that number ratcheted down.
+    Ms. Kiggans. Okay. We would like that number as soon as you 
+have that available, please.
+    Mr. Christy. We will try to.
+    Ms. Kiggans. We just need that before going forward, I will 
+say that. Ms. Oakley, you testified that just to quote your 
+statement, ``a recurring theme from our findings has been that 
+the VA often puts action ahead of planning.'' Would you please 
+explain why this finding is so important when we are talking 
+about starting major projects like the supply chain management 
+system?
+    Ms. Oakley. Absolutely. Thank you for your question. Yes, 
+it has been a recurring theme that we have seen, especially 
+with regard to the supply chain management approaches that VA 
+has attempted over the years in terms of putting action ahead 
+of strategy. I think, you know, a perfect example of this is 
+the fact that 2 years ago we made a recommendation about 
+instituting or developing a comprehensive supply chain 
+management strategy that would guide acquisition of the 
+individual technical solutions that VA is seeking for the 
+system itself. Unfortunately, that strategy is not finished, 
+but the acquisition is proceeding.
+    To comment on the lifecycle cost estimate issue, having a 
+lifecycle cost estimate before committing to a program is super 
+important. Our work in other agencies has validated having that 
+as a key piece of the business case information for committing 
+to a program is essential to understanding if you are going to 
+get what you are saying for the cost and within the timeframes 
+that you are anticipating.
+    Ms. Kiggans. I agree, and it is hard to do much without 
+having that before we can go forward. Mr. Christy, do you agree 
+with the GAO's testimony that the VA has often or has in the 
+past acted before it is sufficiently planned?
+    Mr. Christy. Yes, I do concur with that. There are numerous 
+GAO findings and IG findings. This is what we are trying to 
+correct through the----
+    Ms. Kiggans. Yes.
+    Mr. Christy [continuing]. supply chain and I know it is 
+probably frustrating to say, hey, when are you going to give me 
+the number? It is----
+    Ms. Kiggans. Yes.
+    Mr. Christy [continuing]. wanting to make sure that we do 
+not repeat the sins that GAO, and IG, and others have 
+identified. We want to get this right and not go out the door 
+and repeat the same things that we have been doing for years.
+    Ms. Kiggans. Agree very much. Ms. Oakley, my bill would 
+esquire the VA to pilot the new supply chain platforms function 
+prior to wider deployment. Can you explain why it is important 
+to pilot a program like this before rolling it out VA-wide?
+    Ms. Oakley. Absolutely. Piloting a program can provide you 
+with valuable information on whether it is going to meet its 
+intended purpose and whether it is even scalable across the 
+enterprise. When you consider an organization like VA as big 
+and complex with medical centers with different needs and 
+different, you know, configurations and whatnot, a pilot would 
+allow you to understand those pain points, get feedback from 
+users, people who are actually going to be implementing the 
+system, and incorporate that feedback to make changes to the 
+program, to be able to then scale it and distribute it across 
+the organization.
+    You know, it is not, you know, as my testimony stated, and 
+as my written testimony stated, it is not just as simple as 
+putting in place a pilot. It has to be structured effectively 
+such that you can collect data from that pilot to be able to 
+use going forward. Our leading practices would indicate ways in 
+which that can happen for VA.
+    Ms. Kiggans. Out of curiosity, did we pilot the EHR program 
+then as well before moving forward?
+    Ms. Oakley. I am not certain of that answer. Maybe VA can 
+answer that question. I am not sure I have been around long 
+enough to know that.
+    Ms. Kiggans. Mr. Christy, do you know?
+    Mr. Christy. I am going to pass to Dr. Leslie Sofocleous.
+    Ms. Sofocleous. Ma'am, I would say based off of the 
+conversation here, it is probably not the same type of pilot. 
+We were in Integrated Operations Center (IOC), and we had some 
+initial sites, but I can say that, you know, there was an 
+ability for us to probably have some lessons learned from the 
+approach that was just referenced.
+    Ms. Kiggans. Yes, I would agree with that. Just and 
+agreeing with the value of piloting a program, I think going 
+forward, and hindsight is always 2020, and lessons learned, but 
+that probably would have been a great idea.
+    Ms. Oakley, the VA's healthcare and acquisition management 
+are on GAO's high-risk list. Could a supply chain management 
+system focused on the VHA and with clear metrics help fix the 
+VA's healthcare and acquisition management issues?
+    Ms. Oakley. I think it would go a long way. It is certainly 
+a driver of many of the challenges that we have identified in 
+that area for VA over the years. I think one thing that you 
+mentioned that is important to note is, you know, our work for 
+product development, system development would indicate that 
+kind of taking an incremental approach to developing a system 
+as critical as the supply chain management system would give VA 
+an opportunity to release initial capabilities, understand how 
+those are working, and then continue to build on those 
+capabilities going forward. I think your bill advocates for 
+limiting the scope of the effort, at least initially, to then 
+be able to understand how it could be expanded to VA's 
+enterprise-wide supply chain. We think that that is a good, 
+measured approach.
+    Ms. Kiggans. Thank you. Thank you, and I concur. I look 
+forward to seeing bill to fruition. Next, I will turn to 
+Ranking Member Mrvan for his questions.
+    Mr. Mrvan. Thank you, Chairwoman. Ms. Oakley, my first 
+question for you is regarding H.R. 1659, Ranking Member 
+Takano's IT Modernization Improvement Act. Specifically, from 
+your experience with independent verification and validation, 
+is there any major IT program that VA that you think would not 
+benefit from the IV&V?
+    Ms. Oakley. I definitely do not think I can think of any 
+program that would be considered under this bill that could not 
+benefit from additional quality information to support 
+decisionmaking. In fact, one of the criteria that we have, one 
+of our best practices for IV&V would focus on risk-based 
+criteria for determining which programs are suitable for IV&V, 
+or which aspects of programs are suitable for IV&V. That would 
+be things like the maturity of the technology, the criticality 
+of the system to the mission, things like that, that would 
+drive the decisions. I think the programs that you mentioned 
+are all pretty critical to VA. I can not think of one that 
+would not benefit.
+    Mr. Mrvan. Specifically for a program like EHRM, do you 
+feel like the program is too far along for the IV&V to be a 
+benefit going forward?
+    Ms. Oakley. I do not think it is ever too late to do the 
+right thing. You know, the program is in the pretty early 
+stages with only five sites rolled out. There is a lot more 
+work that needs to be done from a development perspective. I 
+think it is also important to note that each location has 
+different needs, and so there might be different requirements 
+for each location. Having a concerted IV&V effort for a program 
+like EHRM as it continues to roll out, I think is critically 
+important to provide that really good quality information to 
+make those go-no-go decisions, and the certifications that are 
+outlined in the bill.
+    Mr. Mrvan. Mr. Christy, from your testimony, I see that you 
+have some good constructive technical amendments to the bill, 
+which we will definitely consider. From your perspective 
+overall, I would really like to hear your opinion of this bill 
+and the IV&V overall as it relates to these large IT 
+modernization programs at VA.
+    Mr. Christy. Yes, I think through the identification of 
+what we talked about earlier with many GAO reports, an IV&V 
+support of those modernization efforts or any large programs is 
+extremely helpful to the VA. Fully support this.
+    Back to the comments by Ms. Oakley. You know, I think the 
+key thing there is I wanted to kind of lock in, is that we 
+believe in all the best practices that were put out into those 
+different reports, you know, the criteria when you are using 
+the independents, the upfront rules, making sure what we are 
+paying for, and that there is oversight of itself of the IV&V 
+program. From an acquisition and a VA perspective, this is a 
+good thing for the VA and veterans. We are going to start 
+getting help with making sure the money that is spent we are 
+getting the buck--getting the money that we are--getting the 
+value from the money we are spending on veterans. Again, fully 
+support this.
+    Mr. Mrvan. I appreciate those comments and appreciate your 
+attention to helping to increase accountability and results 
+from these programs. I want to give you the opportunity as well 
+right now to offer any thoughts you may have on the support 
+outside of IV&V that you need in the Office of Acquisitions, 
+Logistics and Construction (OALC). I realize that Congress has 
+put an enormous burden on your office in executing these large 
+acquisitions, and I want to give you the opportunity to let us 
+know what else you need from us to help increase effective 
+acquisitions at VA.
+    Mr. Christy. Yes, I am going to pull a line from GAO's 
+testimony. If you saw in there, there was 147 percent increase 
+in procurement in the last 10 years. That is just the 
+procurement piece, not the program management. I am using that 
+to kind of highlight how much work has come to the VA, how much 
+responsibility that is laid on acquisition officials. Both 
+contracting folks but also program folks.
+    I will share with you the steady State of how many 
+acquisition folks we have at the VA has not grown with that 147 
+percent spike in 10 years. You got a huge workload on the 
+acquisition workforce here. We would welcome opportunities to 
+discuss how can we approach that, streamline, you know, 
+procurements, program oversight, et cetera. As the IV&V, now, 
+that is another great example of help the VA needs to improve 
+acquisition and program management accountability and 
+jointness.
+    Some of this gets down to resources that I think, you know, 
+maybe an offline TA or discussion would be really helpful to 
+that conversation. Generally speaking, the acquisition 
+workforce has a huge workload on it and the requirements are 
+growing without corresponding growth of the workforce.
+    Mr. Mrvan. With that, I yield back. Thank you.
+    Ms. Kiggans. Thank you very much, Mr. Mrvan. Now, the chair 
+would like to recognize Mr. Rosendale for 5 minutes.
+    Mr. Rosendale. Thank you, Madam Chair. I appreciate it. 
+While it was not designated as such, unfortunately, the Oracle 
+Cerner EHR system has been a multibillion-dollar pilot project 
+that has not even vaguely worked out and stands to consume 
+billions of valuable resources in the future with no 
+foreseeable improvement if not stopped.
+    Ms. Sofocleous, 2 weeks ago, the VA announced through an 
+email from the Director of VISN 10 that implementation of the 
+Oracle Cerner EHR will be postponed in Saginaw, Michigan. That 
+announcement left a lot of things unsaid. I will not allow you 
+to set the record straight today. Are there other upcoming 
+sites also postponed, including Battle Creek, Detroit, 
+Chillicothe, Dayton, and elsewhere in Michigan, Ohio, Indiana, 
+and Wisconsin?
+    Ms. Sofocleous. Sir, thank you for the question. We have 
+said that we would evaluate the sites as we move forward to 
+ensure that we do not have any of the additional patient safety 
+issues we have talked about. We make the improvements in terms 
+of system uptime and performance and then we also address some 
+of the change management and adoption issues. We will continue 
+to do that and make informed decisions moving forward on those 
+additional sites. We can see that veterans and the clinicians 
+need to have a system that works for them and we will continue 
+to do that as we move forward, sir.
+    Mr. Rosendale. Will you be setting another go-live date for 
+any of these sites?
+    Ms. Sofocleous. Sir----
+    Mr. Rosendale. How much lead time will you be giving this 
+committee in advance of going live in those additional sites?
+    Ms. Sofocleous. Sir, we will inform this committee of any 
+decisions we will make and we will assure that there is 
+informed time so that there are questions and that the sites 
+are aware of our plans moving forward. Obviously, we want to 
+make sure that we have all stakeholder involvement in any 
+decisions we make moving forward.
+    Mr. Rosendale. Before we are announcing, I am trying to 
+narrow down some timeframes so I know what I am going to be 
+dealing with, okay? Are we looking at 30 days' notice, 60 days' 
+notice, 180 days' notice? What kind of notice do you commit to 
+this committee giving us before we go live on any additional 
+sites?
+    Ms. Sofocleous. Sir, I will take that of record to come 
+back with a timeframe on that.
+    Mr. Rosendale. Thank you very much.
+    Ms. Sofocleous. You are welcome, sir.
+    Mr. Rosendale. Appreciate it. Thank you. Ms. Sofocleous, 
+tell me about the decision not to proceed with implementing the 
+Oracle Cerner system in Ann Arbor, Saginaw, and elsewhere. Who 
+made the decisions, how were they made, and what was the role 
+of the medical center directors from each of these VISNs?
+    Ms. Sofocleous. Yes, sir. In other sites, we have--I think 
+we have briefed before previously, we have the site readiness, 
+which we use in our previous sites, you know, albeit we have 
+had some issues after our previous deployments that look at key 
+categories in terms of, you know, training, adoption, whether 
+or not we have technology in place, interfaces in place. Those 
+are all decisions that we use to evaluate. We have, based off 
+of the Sprint Report and assess and address, come up with 
+additional operational metrics that we want to incorporate. As 
+we use that, we will use that to inform decisions, in terms of 
+joint decisions, I might say in terms of whether or not we want 
+to proceed with any deployments at the site. That framework was 
+used for Ann Arbor and Saginaw. Ann Arbor, we did reference 
+that that had pharmacy tied to it--sorry, research tied to it. 
+We wanted to make sure that we had that effectively addressed. 
+Then for Saginaw, we still had additional work that had to be 
+performed in terms of the site readiness.
+    Those decisions are collaborative decision. They are not 
+made in a vacuum. We do involve the VISN and site leadership. 
+VHA is involved and Office Of Information and Technology (OIT), 
+and then obviously, the Deputy Secretary is informed and 
+provides the final viewpoint and a vote on us to proceed. It is 
+a collaborative process under governance.
+    Mr. Rosendale. This local decisionmaking process sounds 
+like a lot like H.R. 592, the EHR Improvement Act, would 
+require. Would you agree with that?
+    Ms. Sofocleous. Yes, sir, it does, in a sense. Yes, sir.
+    Mr. Rosendale. Okay. When you go through this analysis and 
+this collaboration, are you deferring to the directors of those 
+facilities to give them any type of veto power whatsoever?
+    Ms. Sofocleous. I think we allow them----
+    Mr. Rosendale. I mean, if they identify deficiencies, they 
+identify areas that they just are not ready, are we going to 
+defer to the people on the ground?
+    Ms. Sofocleous. We make informed decisions. I think the key 
+part here is mitigations that we have in place, and that is a 
+conversation that we would have. Like, hypothetically, we would 
+have to talk about whether or not the mitigations are in place, 
+the mitigations are effective, and also whether or not they are 
+going to impact operations at the ground to make that decision. 
+I think that is the approach we would take and what we have 
+made previously in terms of whether or not the mitigations are 
+the effective mitigations to allow the sites to continue to 
+perform effectively.
+    Mr. Rosendale. Okay. Not to put words in your mouth, but it 
+still sounds to me like what we have is a discussion, a 
+collaboration. At the end of the day, the heavy hand of the 
+Veterans Administration is going to make the decision about 
+whether something is going to be implemented or not.
+    Ms. Sofocleous. Sir----
+    Mr. Rosendale. Thank you, I yield back, Madam Chair.
+    Ms. Kiggans. Thank you, Mr. Rosendale. The chair now 
+recognizes Ms. McCormick for 5 minutes.
+    Ms. Cherfilus-McCormick. Thank you. Ms. Love-Holmon, I 
+realize that the VA feels that they do not need an 
+undersecretary for management and that the Deputy Secretary has 
+had this authority previously. Unfortunately, I think that we 
+all know that proficiency in the business of government is not 
+a prerequisite for the Deputy Secretary. I know that in your 
+current position, you are performing some of the governance 
+that we are looking for. I would like to hear from you the 
+opportunity to answer these questions. The current governance 
+structure for the management of the VA, what is your view on 
+it? Two, what improvements would you recommend?
+    Ms. Love-Holmon. Thank you very much for the opportunity to 
+speak. I would first like to start off by just saying this is 
+an organization that I am very proud to work for VA, and we 
+have an amazing mission. Specifically with regard to the 
+current structure, I have had the pleasure of being there from 
+the ground up in creating the enterprise governance framework 
+that we have now. We have the VA Operations Board that is 
+chaired by the Deputy Secretary, who serves as our chief 
+operating Officer. We have the VA Executive Board that is 
+chaired by the Secretary of Veterans Affairs.
+    As we have put these two boards together, we were very 
+thoughtful about who needs to participate in these boards. 
+There is a mix of participants from the political staff, the 
+career staff, participants from VA Central Office, as well as 
+field leadership to ensure that we have representation from 
+across the organization. Also, the chief executive officers 
+participate as well, the chief acquisition officer, information 
+officer, et cetera, to ensure that everyone has a seat at the 
+table.
+    There are really three parts to these boards that I am very 
+proud of, and we really did look also at the GAO report and try 
+to understand the intent there and those comments and the 
+criteria for what it looks like to create a good Chief 
+Operating Officer (COO). The governance framework is around 
+transparency, making sure that all folks that are going to be 
+impacted by a decision are brought to the table. Going back to 
+a previous comment, that means that if there is something that 
+is happening about you, we are bringing you there to the table 
+to have an opportunity to talk about it.
+    Also, about accountability in terms of making sure that we 
+have accountable officials for the various projects or programs 
+that are there at the table, but there is also accountability 
+across the table, meaning even if you are not the chief for a 
+particular program, what is my responsibility as the Acting 
+Assistant Secretary in supporting this initiative? What is the 
+Chief Information Officer's (CIO's) responsibility in 
+supporting it, in supporting the various initiatives?
+    Last, we have also tried to be grounded in evidence-based 
+and principle-based decisionmaking in terms of as decisions are 
+coming through governance, really understanding what is the 
+data telling us about the decisions and the recommendations 
+that are coming. Also, from a principles-based perspective, 
+ensuring that we are really looking at is this the best 
+decision for veterans and our employees as we are moving 
+forward.
+    In terms of opportunities for improvement, I think I would 
+agree with my colleagues and the comments that have been made 
+with regard to our opportunity to put in more disciplined 
+management framework, particularly around some of our program 
+management. We have already begun that for several of our 
+strategic initiatives, many of which are being discussed here 
+today. We have bringing those projects through the governance 
+framework where we are asking those hard questions. Sometimes 
+the hard question is what is the problem we are trying to solve 
+and making sure that everyone at the table understands what the 
+problem is, understands what the plan is to move forward so 
+that we are moving forward and creating strategy into action. 
+Again, I think that is my response.
+    Ms. Cherfilus-McCormick. Thank you. My next question is for 
+Ms. Christy--Mr. Christy. I know in your position you are under 
+tremendous pressure to execute a giant acquisition program. I 
+know you have had issues with resources. Would it be beneficial 
+to have an advocate in upper management for the VA to champion 
+your needs?
+    Mr. Christy. We will always welcome advocates, no matter 
+where we are and what we are doing. I think to have somebody 
+above the chief acquisition officer, so at the VA, that is the 
+political appointed person for the acquisition. If it is even 
+higher than that, obviously that helps with, you know, being at 
+the table and communicating those risks and where we can get 
+help within acquisition programs. Absolutely would welcome 
+that.
+    Now, back to the point of what Ms. Love-Holmon said, we do 
+have governance, right? There are those avenues when there are 
+concerns to bring those up. Those go to both the Deputy 
+Secretary, and depending on what the issue is, it could go up 
+to the executive board, which is chaired by the Secretary 
+himself. I think we have those advocates through our governance 
+process but would always welcome more voices at the table in 
+support of acquisition.
+    Ms. Cherfilus-McCormick. Thank you so much. I just want to 
+emphasize that as the Ranking Member of Technology and 
+Modernization Subcommittee, I am interested in finding ways I 
+can support the VA to modernize its IT program. I think Ranking 
+Member Takano's bills are a great start to get us back on track 
+in delivering better healthcare benefits to our veterans and 
+supporting the VA. Madam Chair, I yield back.
+    Ms. Kiggans. Thank you very much for your comments. Just to 
+wrap up and close, I just had a couple of extra questions for 
+really just for personal knowledge. Mr. Christy and maybe Dr. 
+Sofocleous, when looking at how we are assessing our electronic 
+charting implementation in the five facilities that have begun 
+that process, specifically, we have an outside group, this 
+IV&V, coming in to do some just overarching critique, I guess, 
+of how that is going. How long do we expect that this IV&V to 
+be in place for?
+    Ms. Sofocleous. You are talking about the new IV&V. I guess 
+the new IV&V, based off of what was proposed, I would think we 
+would want to have that in for long term for the program in 
+order to be able to help assist with some of the program 
+management and technical pieces of it. There are multiple 
+components of that. I think, you know, Mr. Christy said we are 
+already open into. It is probably not a one or done. I think we 
+would be open to that.
+    Ms. Kiggans. It is a long-term commitment?
+    Mr. Christy. Yes, absolutely. I am sorry if I might have 
+misunderstood. I was not sure, because there are some current 
+IV&V efforts that are going on in the EHR program today. It is 
+not as formalized as the bill talks about. If the question is 
+geared toward the bill, yes. You will see in there, we are 
+talking over the period of this and to follow the GAO 
+recommendations, right? Risk-based, so there might be parts up 
+front really heavy into many topics and areas. As you get to 
+the back part of the acquisition of it, you might taper down on 
+the risk of that. I would see IV&V going through the total 
+lifecycle of an acquisition.
+    Ms. Kiggans. I know it is a huge expense.
+    Mr. Christy. Yes.
+    Ms. Kiggans. I am wondering what other resources are out 
+there for us to maybe do the same job. Does, for example, does 
+Cerner Oracle now do they play any role in this transition 
+process? Just as a nurse practitioner thinking through when we 
+have gone to electronic charting systems, transition to that on 
+a much smaller scale than what the VA is trying to do, we had 
+the team come in from, you know, the company who owned the 
+program. They sat there in a trailer next to the facility and 
+they made sure every patient was, their records got 
+transferred, that their current notes were getting transferred, 
+that all the test results, and whatnot were getting 
+transferred. What role is Cerner Oracle playing in this whole 
+process?
+    Mr. Christy. Yes, so, I think Dr. Sofocleous will answer 
+this in a second, but I just want to quickly add, you know, we 
+are in current negotiations with the Oracle Cerner team. A lot 
+of these new standards are being negotiated. In a public 
+hearing, we can not disclose them. I think we can get you that 
+information.
+    It is to the point you are asking it is like, hey, what is 
+their involvement, and what are the standards, and how is that 
+being wrapped back into the program office? You just do not get 
+us to do all the work. You own the contract, deliver the 
+results----
+    Ms. Kiggans. Right.
+    Mr. Christy [continuing]. that are expected of you----
+    Ms. Kiggans. Right.
+    Mr. Christy [continuing]. in that contract. Those things 
+are ongoing, but I am going to have Les pile on to what I am 
+saying here.
+    Ms. Sofocleous. Ma'am, I think, you know, we have talked 
+about like change management, some of the areas you were 
+talking about change management, training, adoption issues, and 
+we are talking about from the technical standpoint, which we do 
+have IV&V already for testing. Obviously, Oracle Cerner is 
+involved in that. I think if we are talking about independent, 
+then obviously we want to take their input and then have a 
+separate validation to ensure what they are providing is a 
+service that we are paying for, it is effective, and it is of 
+use to the sites and to VA. There are two components of that, I 
+would say.
+    Ms. Kiggans. I do not want too many cooks in the kitchen, 
+you know. Sometimes we get so convoluted, like how many people 
+and the most important people we need to be talking to are the 
+providers, right? The people that are the end users of this 
+program. Those are the people who have the responsibility to 
+make sure that continuity of care piece and patient safety, all 
+of those really big issues are the ones that we hear about in 
+our offices, we want to make sure that end product is 
+accomplished. Making sure the providers, the healthcare 
+provider, the physicians, the nurses, those guys who are 
+already busy and already hard to get in a room, and to say, we 
+are going to have an hour meeting about how you feel about this 
+electronic charting. Those should be the loudest voices at that 
+table. I do not want all of us to get not only does it cost a 
+lot of money to have all these outside groups looking at that, 
+but just, you know, tightening that up and making sure we can 
+make the best product possible for the end user, I think, is 
+where I would like to see just to pass my priority along.
+    Thank you. I know it is a work in progress and I am 
+finished with my questioning. Ranking member Mrvan, do you have 
+one?
+    Mr. Mrvan. Just 5 minutes, yes.
+    Ms. Kiggans. Yes, go ahead.
+    Mr. Mrvan. For Mr. Christy, I am going to follow on that. 
+What is the timeline do you believe for the negotiations to be 
+complete and what are the outcomes that you are looking for 
+from those negotiations?
+    Mr. Christy. Right, and I will ask Les to assist me again. 
+There is an option period that comes to May 16 that we have to 
+get past those negotiations so we can move forward to the next 
+options. For the initial, it was a 5-year period. We are coming 
+up on that 5-year period, May 16, and we are negotiating the 
+next 5 years currently. I will turn it over to Les a little bit 
+more about the details of the outcomes of that.
+    Ms. Sofocleous. Yes, sir. We are in negotiations. As Mr. 
+Christy said, May 16 is the period. I think we had some 
+productive negotiation conversations. Obviously, we are 
+focusing on some of the areas we have talked about. Obviously, 
+system performance is one of the big issues. Our ability to 
+hold Oracle Center accountable, which we tend to continue to 
+enforce in our negotiations. We do have backup strategies in 
+place and we will be more than happy to provide updates as we 
+move forward with the negotiations.
+    Mr. Mrvan. Okay. I guess why I bring that up is because the 
+disconnect between the pharmacy and the different type of 
+results that we were talking about in past meetings, just 
+making sure that those errors are being fixed. You are to kind 
+of focus on what the chairwoman was saying, making sure that 
+the providers are included and have a seat at the table is so 
+vitally important. That is why I followed up with that question 
+and just wanted to make sure I understand you do not want to 
+negotiate here at the table, and so, your answer. The outcomes, 
+making sure that the providers have a seat at the table seem to 
+be one of the priorities through the past meetings, along with 
+accountability. I thank you very much.
+    Ms. Kiggans. Thank you, ranking member. Thank you to all of 
+our witnesses for being here today. I ask unanimous consent 
+that all members shall have 5 legislative days in which to 
+revise and extend their remarks and include any extraneous 
+material. Hearing no objections, so ordered. This hearing is 
+now adjourned. Thank you.
+    [Whereupon, at 10:28 a.m., the subcommittee was adjourned.]
+
+
+    
+      
+=======================================================================
+
+
+                         A  P  P  E  N  D  I  X
+
+=======================================================================
+
+
+                    Prepared Statement of Witnesses
+
+                              ----------                              
+
+
+                 Prepared Statement of Phillip Christy
+
+    Chairwoman Kiggans, Ranking Member Mrvan and other Members of the 
+Subcommittee: thank you for inviting us here today to present our views 
+on several bills that would affect VA programs and services. Joining me 
+today is Dr. Leslie Sofocleous, Executive Director, Electronic Health 
+Record Modernization (EHRM) Integration Office's (IO) Program 
+Management Office (PMO), Ms. Shana Love-Holmon, Acting Assistant 
+Secretary, Office of Enterprise Integration (OEI), and Catherine 
+Cravens, Chief of Staff, Office of Information and Technology.
+
+H.R. 592 - Electronic Health Record Modernization Improvement Act
+
+    Section 2(a) of the bill would prohibit the Secretary of Veterans 
+Affairs from commencing a program activity at a Veterans Health 
+Administration (VHA) facility where such activity is not being carried 
+out as of the date of enactment until the Secretary of VA submits to 
+the House and Senate Committees on Veterans' Affairs written 
+certification that the electronic health record (EHR) system has met 
+each of the following improvement objectives prior to implementation: 
+(A) a monthly uptime for the electronic health record system of 99.9 
+percent for 4 sequential months, and (B) the completion of all 
+improvements or modifications of the EHR system required to be 
+completed pursuant to a contract, task order, modification or other 
+similar instrument, entered into before the date of the enactment of 
+this Act.
+    VA does not fully support section 2(a) of this bill. Specifically, 
+VA does not support the prohibition of commencing program activities 
+until the completion of section 2(a), which would pause program 
+activities and cause significant cost impacts. However, adjustment to 
+the ``program activities'' definitions outlined in section 2(c) would 
+address this issue by allowing certain activities that support early 
+pre-deployment to start, while limiting the commencement of full 
+deployment.
+
+    VA suggests the following:
+
+      Modification: Update section 2(a)(1) to read: ``(1) 
+Prohibition.--The Secretary of Veterans Affairs may not deploy the 
+electronic health record system at a facility of the Veterans Health 
+Administration until the date on which the Secretary of Veterans 
+Affairs...''
+
+    VA supports section 2(a)(2)(A) of this bill, in part. Improving 
+system reliability and availability remains a VA focus. Corrective 
+actions within the Cerner data base configuration have resulted in more 
+than 6 months of system uptime above 99.9 percent without a complete 
+outage. As written in section 2(a)(2)(A), if the 99.9 percent metric 
+dropped the month prior to deployment then VA would not have the 4 
+sequential months prior to deployment.
+
+    VA suggests the following:
+
+      Modification: Update section 2(a)(2)(A) to read: ``(A) 
+monthly uptime for the electronic health record system of 99.9 percent 
+for four sequential months or documented risk mitigation and 
+certification for deployment under 99.9 percent.
+
+    VA does not support section 2(a)(2)(B) of this bill. The Electronic 
+Health Record Modernization Integration Office (EHRM-IO), VHA and 
+Office of Information Technology have worked collaboratively to assess 
+and remediate a subset of identified system challenges and continue 
+work to expediently resolve all identified and validated issues.
+    There are many improvements and proposed modifications that are 
+already on task orders. These are all in flight, with varying dates of 
+completion - some of which extend beyond 2023. Many of these 
+improvements are important, but not essential, for a future go-live. To 
+require all system modifications to be completed in their entirety 
+before allowing resumption of any program activities would introduce 
+significant delay. Additionally, given the complexity of heath care and 
+potential policy changes it is anticipated that ongoing additional 
+changes will be required. While all system modifications may not be 
+completed prior to deployment, mitigations should be in place.
+
+    VA suggests the following:
+
+      Modification: Update section 2(a)(2)(B) to read: ``The 
+completion of improvements or modifications of the electronic health 
+record system as agreed upon by the VA Deputy Secretary, VA Under 
+Secretary for Health, EHRM-IO and VISN leadership.''
+
+    Section 2(b) would require the VHA facility director, the facility 
+chief of staff, and the director of the VISN in which such facility is 
+located to each submit written certification that: (1) the build and 
+configuration of the EHR system, as proposed to be carried out at such 
+facility, are accurate and complete; (2) the staff and infrastructure 
+of such facility are adequately prepared to receive such system; and 
+(3) the implementation of such system will not have significant, 
+sustained adverse effects on patient safety, patient wait-times for 
+medical care, or health care quality at such facility.
+    VA supports section 2(b) of this bill, with amendments. VA uses a 
+consistent process for each deployment of the EHR system to approve the 
+decision to go-live. Infrastructure readiness is assessed through the 
+current State review (CSR) process and addressed before deployment 
+operations begin. Deployment kickoff starts 13 months prior to go-live, 
+and there are weekly working deployment meetings with the facility, 
+Change Leadership Team and change sponsor to walk through outstanding 
+issues. Approximately 4-8 weeks before go-live, VHA, EHRM-IO, Veterans 
+Integrated Service Network (VISN) and site leadership begin to meet 
+weekly to review the readiness checklist and areas of concern. Last, a 
+go/no-go decision meeting with VHA, EHRM-IO, the VISN and the facility 
+is held no later than the week before go-live based on the elements of 
+the readiness checklist, along with the people, process and technology 
+elements of readiness for personnel at the site. The written 
+certification outlined by the bill would support the existing 
+concurrence process.
+
+    VA suggests the following:
+
+      Modification: Update section 2(b)(1) to read: ``(1) the 
+build and configuration of the EHR system, as proposed to be carried 
+out at such facility, are accurate and complete based on the approved 
+enterprise standard.''
+
+      Modification: Update section 2(b)(3) to read: ``(3) the 
+implementation of such system will not have known significant, 
+sustained adverse effects on patient safety, patient wait-times for 
+medical care, or health care quality at such facility.''
+
+    Section 2(c) includes definitions for EHR and program activity. VA 
+supports this section with amendments.
+
+      Modification: Update section 2(c)(2) to read: ``(2) The 
+term ``program activity'' means any local or national workshop and/or 
+training activities under the Electronic Health Record Modernization 
+Program before the certification of the electronic health record 
+system.''
+
+H.R. 608 - Terminate VA's EHRM Program
+
+    Section 1(a) of the bill would require the Secretary of Veterans 
+Affairs to terminate the Electronic Health Record Modernization (EHRM) 
+program. VA opposes section 1(a) of this bill. Without a modern EHRM 
+program, VA would not have an interoperable, longitudinal record with 
+the Department of Defense and community care partners; therefore, VA 
+could not provide the Veterans with an electronic health record (EHR) 
+that tracks the first day of service delivery with DoD to through the 
+transition to VA, thereby limiting care and services to the Veteran.
+    Modernizing the electronic health record (EHR) system is critical 
+to providing the best care for Veterans and facilitates advancements in 
+delivery of care in the following ways:
+
+    1. Increased access to new technologies both now and in the future.
+
+    2. Standardized workflows and systems across VA and to automate and 
+integrate manual processes, resulting in efficiencies and better 
+service and care to Veterans.
+
+    3. Standardized EHR system reducing training and delivers a more 
+integrated and skilled workforce.
+
+    4. Facilities use of telehealth services to share clinical 
+expertise across VA's expansive health care delivery network.
+
+    5. Improved scheduling and smarter clinical decision support, 
+driven by a comprehensive view of a Veteran's medical history and 
+service record.
+
+    6. Reduced sustainment costs of an enterprise EHR system.
+
+    If enacted, section 1(a) would have additional costs. VA may need 
+to initiate ``stop work'' and/or termination activities depending on 
+timing of enactment Claims resulting from government stop work and/or 
+termination activities could vary by a wide range, are contract 
+dependent, and would need to be evaluated on a case-by-case basis to 
+determine the costs to the government.
+    Section 1(b) would require the Secretary to carry out the following 
+activities within 180 days of enactment: (1) Abolish the Electronic 
+Health Record Modernization Integration Office (EHRM-IO); (2) Transfer 
+any activities or functions carried out under such office that are not 
+terminated pursuant to this section to the Veterans Health 
+Administration or the Office of Information and Technology of the 
+Department of Veterans Affairs; (3) With respect to each facility of 
+the Veterans Health Administration that uses the EHR system implemented 
+pursuant to the EHRM Program, revert the facility to instead use the 
+Veterans Health Information Systems and Technology Architecture (VistA) 
+and the Computerized Patient Record System (CPRS) of the Department.
+    VA opposes section 1(b) of this bill. VA's existing EHR system, 
+VistA, is almost 40 years old. In its current State, however, VistA is 
+comprised of 130 distinct instances and cannot deliver the benefits of 
+a modern, enterprise system or provide a seamless health record system 
+from military service to Veteran status. Previous attempts to upgrade 
+VistA have been unsuccessful; there is potential risk in repeated 
+efforts.
+    Integration with DoD would not be as strong on separate platforms 
+and there would be decreased access to innovations being driven by a 
+commercial provider. Moreover, critical solutions that have been 
+deployed to enhance interoperability between VA and DoD, such as the 
+Joint Health Information Exchange (JHIE), are reliant on the joint 
+platform and do not have a replacement. Previous solutions that enabled 
+interoperability have been sunsetted. Significant resources and funding 
+would be required to develop a replacement platform that could 
+effectively and efficiently handle the clinical data exchange volumes 
+and adheres to current and upcoming regulatory requirements. 
+Connections with national health care organizations that enable health 
+information exchange with community providers would also have to be 
+reestablished.
+    Lastly, section 1(b) would have significant personnel impacts 
+across the enterprise. EHRM-IO alone has approximately 300 Federal 
+staff, in addition to contractors, nonpermanent staff and staff hired 
+to VHA, OIT and EHRM in support of the EHRM program. The timeframe for 
+this change in personnel is extremely narrow and will not afford VA the 
+time needed to ensure personnel are appropriately relocated to 
+positions elsewhere within the Department and would result in 
+significant loss in institutional knowledge and subject matter 
+expertise.
+    Given the breadth and complexity of the impacts of EHRM 
+termination, VA does not have an estimate for section 1(b) of this 
+bill. However, VA anticipates cost considerations to include (1) 
+resources required to sustain the existing EHR solution at deployed 
+sites; (2) additional costs for VA to execute a plan to revert back to 
+VistA, which would not be feasible within the specified 180-day 
+timeframe; and (3) significant additional costs and resourcing required 
+to modernize VistA. Appropriations language would also need to be 
+updated, since the EHRM program is funded as a separate appropriation.
+
+H.R. 1659 - VA IT Modernization Improvement Act of 2023
+
+    This bill would direct the VA Chief Acquisition Officer (CAO) to 
+contract for the independent verification and validation (IV&V) of 
+certain modernization efforts of the Department within 90 days of 
+enactment. It prescribes the characteristics and experience (linked to 
+the Department of Defense Acquisition Program) required of entities 
+eligible to compete and details the oversight functions to be 
+accomplished under the IV&V contract.
+    The bill defines ``covered programs'' to include ongoing VA 
+modernization efforts, e.g., EHRM, Supply Chain Modernization, 
+Financial Management Business Transformation (FMBT), Human Resources 
+(HR) Systems and Veterans Benefits Management Systems (VBMS) and 
+excludes any entity currently performing or having performed on a 
+contract for VA within the 5 years preceding issuance of the 
+solicitation, including contracts or subcontract related to a covered 
+program. The bill also institutes a new annual reporting requirement 
+and directs the CFO to work with heads of department offices to ensure 
+the amount of the IV&V contract awarded is paid proportionately from 
+respective appropriations.
+    VA supports this bill if amended, and subject to the availability 
+of appropriations. Section 2(a) of the bill directs VA's CAO not later 
+than 90 days after the date of the enactment of this Act to enter into 
+a contract with an eligible entity under subsection (b) to carry out 
+the oversight functions described in subsection (c). VA strongly 
+supports the importance of and need for IV&V for VA modernization 
+programs. Although VA does not object to the direction given to the 
+CAO, it may be more appropriate ``to direct the Secretary of Veterans 
+Affairs'' given that ``covered programs'' defined in the bill, e.g., 
+EHRM, FMBT, SC Modernization and H.R. Systems, have major IT components 
+and impact across the enterprise.
+    The requirement in section 2(a) to, ``enter into a contract within 
+90 days,'' is not sufficient time to conduct market research, identify 
+qualified entities and award a contract. VA proposes the following for 
+section 2(a): ``conduct market research to identify one or more 
+eligible entities as described in subsection (b).'' Initiation of 
+market research within 90 days is feasible; awarding a large and 
+comprehensive IV&V contract or contracts within a 90-day timeframe is 
+not realistic.
+    Alternatively, VA suggest the language and format of Public Law 
+114-286, The Faster Care for Veterans Act of 2016. Specifically,
+
+        2(a) CONTRACTS-
+
+            (1) AUTHORITY. -Not later than 120 days after the date of 
+        enactment of this Act, the Secretary of Veterans Affairs shall 
+        enter into a contract with an eligible entity under subsection 
+        (b) to carry out the oversight functions described in 
+        subsection (c).
+
+            (2) NOTICE OF COMPETITION.--Not later than 60 days after 
+        the date of the enactment of this Act, the Secretary shall 
+        issue a request for proposals for the contract described in 
+        paragraph (1). Such request shall be full and open to any 
+        eligible entity as described in subsection (b) and has the 
+        capacity detailed in subsection (c).
+
+            (3) SELECTION.--Not later than 120 days after the date of 
+        the enactment of the Act, the Secretary shall award a contract 
+        to one or more contractors pursuant to the request for 
+        proposals under paragraph (2).
+
+    Section 2(b) ELIGIBILITY. - describes the characteristics of an 
+eligible entity.
+
+    VA supports section 2(b) of this bill, with amendments. VA notes 
+the criteria in paragraph (1) coupled with the exclusion in paragraph 
+(2) may severely limit the pool of eligible entities and potentially 
+frustrate VA's ability to award a contract. Paragraph (2) as written, 
+will likely exclude many vendors and could result in legal challenges. 
+VA suggests replacing the proposed text with the following:
+
+          ``(2) performed the work at a satisfactory or better level as 
+        indicated by the past performance information in the Contractor 
+        Performance Assessment Reporting System for any contract used 
+        to demonstrate eligibility under subsection (b)(1).''
+
+    Section 2(c) FUNCTIONS. - describes the oversight functions to be 
+carried out by the contract awardee. Paragraph (3) of subsection 2(c) 
+currently reads - (3) Conducting continuous oversight of the activities 
+carried out under, and the system associated with each covered program, 
+including oversight of the status, compliance, performance, and 
+implementation of recommendations...
+
+    VA supports section 2(c) of this bill, with amendments. VA 
+recommends revising paragraph (3) of subsection 2(c) to acknowledges 
+the need for a VA adjudication process regarding the IV&V findings and 
+recommendations. VA recommends revision as follows:
+
+        ``Conducting periodic oversight of the activities carried out 
+        under, and the system associated with each covered program, 
+        including oversight of the status, compliance, performance, 
+        `and adjudication' and implementation of recommendations...''
+
+    VA recommends amending subsection 2(c) (3) subparagraph (A) to 
+read:
+
+        ``(A) Program management, including but not limited to, 
+        management of the governance of the program...A comprehensive 
+        IV&V assessment would incorporate a broader range of assessment 
+        areas than stated in the proposed text.
+
+        Subparagraph (F) of subsection 2(c) (3) lists several items 
+        with respect to associated systems for evaluation. However, 
+        validation of the measurable benefit of the system (i.e., 
+        business impact, outcomes, value, return on investment...) is 
+        not listed. These measures of benefit would be a subset of the 
+        overall set of measures of effectiveness for the program.
+    VA recommends adding ``vi'' validation of measurable benefit of the 
+system at the end of subparagraph (F) and following that a subparagraph 
+(G) Change management approach. Change management and realization of 
+program value must be tightly connected, i.e., the connection to the 
+proposed value/impact/business-functional outcomes of the program. The 
+revised paragraph (3) would appear as follows:
+
+        ``(3) Conducting continuous oversight of the activities carried 
+        out under, and the systems associated with, each covered 
+        program, including oversight of the status, compliance, 
+        performance, and implementation of recommendations with respect 
+        to, for each covered program, the following:
+
+          (A) Management, including governance, costs, and 
+        implementation milestones and timelines.
+
+          (B) Contracts for implementation, including financial metrics 
+        and performance benchmarks for contractors.
+
+          (C) Effect on the functions, business operations, or clinical 
+        organizational structure of the health care system of the 
+        Department of Veterans Affairs.
+
+          (D) Supply chain risk management, controls, and compliance.
+
+          (E) Data management.
+
+          (F) With respect to such systems, the following:
+
+            (i) Technical architectural design, development, and 
+        stability of the systems.
+            (ii) System interoperability and integration with related 
+        information technology systems.
+            (iii) System testing.
+            (iv) Functional system training pro-vided to users.
+            (v) System adoption and use.
+            (vi) Measurable benefit of the system as measured by the 
+        program's approved base line Objective Key Results (OKR) and 
+        Key Performance Indicators (KPI), (i.e., business impact, 
+        outcomes, value, ROI''
+          (G) Change Management approach effectiveness''
+
+    VA believes these amendments, if adopted, would strengthen the bill 
+consistent with congressional intent.
+
+    Subsection 2(e) AWARDED AMOUNTS.--Not later than 90 days after the 
+date on which the Chief Acquisition Officer of the Department enters 
+into the contract under subsection (a), the Chief Financial Officer of 
+the Department, in coordination with the heads of such office of the 
+Department responsible for the management of a covered program, shall 
+ensure that amounts awarded to an eligible entity under such contract 
+are derived, in proportionate amounts, from amounts otherwise 
+authorized to be appropriated for each such office of the Department, 
+respectively. VA supports subsection 2 (2e) of this bill and has no 
+objection to this provision.
+    Subsection 2(f) DEFINITIONS - list key terms and authorities that 
+are referenced throughout the bill, e.g., ``covered program.'' The bill 
+identifies the Electronic Health Record Modernization Program (EHRM), 
+the Financial Management and Business Transformation Program (FBMT), 
+the Veterans Benefits Management system (VBMS), any program related to 
+supply chain modernization, and any program related to the 
+modernization of information technology systems associated with human 
+resources as the ``covered programs''.
+    VA offers for consideration that the scope of this undertaking is 
+likely going to create Organizational Conflicts of Interest (OCI) at a 
+level which will dissuade many vendors. VA currently has IV&V contracts 
+in place for EHRM and FMBT. It is unclear how enactment of this law 
+would affect existing contracts. Ideally, VA would have an in-house 
+team with the expertise to conduct IV&V of its major modernization 
+efforts.
+    Contracting for those services as VA builds internal capacity makes 
+practical sense and will help to expedite the resulting delivery of 
+benefits and services to Veterans, their caregivers and family members. 
+VA does not have cost estimates for this bill but anticipates an IV&V 
+contract of this size would be extremely expensive. Appropriate and 
+timely funding of this bill is critical.
+
+H.R. 1658 Manage VA Act
+
+    H.R. 1658 would add 38 U.S.C. Sec.  307A which would establish in 
+the Department of Veterans Affairs (VA) an Under Secretary for 
+Management (USM). The new subsection would establish a new USM to serve 
+as the Chief Management Officer of the Department, reporting directly 
+to the Deputy Secretary and as a principal advisor to the Secretary on 
+matters related to the management of the Department, including 
+management integration and transformation in support of Veterans 
+operations and programs. The USM responsibilities would include budget 
+and finance, procurement, human resources, information technology, 
+management integration and transformation, development of transition 
+and succession plans, certain GAO reporting, management of the Office 
+of Enterprise Integration, and the supervision of the Director of 
+Construction and Facilities.
+    VA does not support this bill. Integrating the Department's efforts 
+and creating operational jointness in our support for Veterans, their 
+families, caregivers and survivors is essential to Veterans choosing VA 
+for care, benefits and services. VA appreciates that this bill 
+generally seeks to address management, integration, and transformation 
+issues within the Department, however, VA already has established and 
+continues to mature its joint oversight and decisionmaking roles and 
+processes, focused on the integrated customer journey it needs to work 
+toward these outcomes. Together these are successfully driving the 
+integration envisioned by this legislation without the need for a new 
+position such as an Undersecretary for Management.
+
+    Oversight and Accountability. The VA Deputy Secretary serves as the 
+Department's Chief Operating Officer, supported by a robust governance 
+structure that ensures the Chief Executive Officer (CXO) roles (i.e., 
+Chief Acquisition Officer, Chief Information Officer, Chief Financial 
+Officer, Chief Human Capital Officer, and Chief Experience Officer) are 
+brought together regularly for joint decisionmaking. The Deputy 
+Secretary chairs the VA Operations Board, which serves as the most 
+senior operations implementation management body for the Department 
+providing oversight of the implementation and execution of the 
+Secretary's strategic direction. Its purpose is to enable the Deputy 
+Secretary to critically evaluate evidence-based, risk-informed 
+recommendations about the operational implementation and execution of 
+the Department's Strategic Plan and provide Department-level oversight 
+and operational direction of key enterprise programs (e.g., Electronic 
+Health Record Modernization (EHRM), Financial Management Business 
+Transformation (FBMT), Supply Chain transformation), to support well 
+integrated operational plans and impactful outcomes. Department of 
+Veterans Affairs Operations Board (VAOB) membership includes all the 
+CXO roles as well as the Administrations and other key VA leaders.
+
+    Robust Governance with Integrated Customer Focus. VA already has 
+implemented robust governance to drive jointness and integration, as 
+outlined in VA Notice 22-15 (September 15, 2022). The purpose of the VA 
+Governance is to enable evidence-based, risk-informed decisionmaking 
+that advances the mission of VA and enables VA to meet its promise to 
+provide timely access to world-class health care and earned benefits 
+and services to all Veterans.
+    Departmental governance includes the VA Executive Board chaired by 
+the Secretary and the VA Operations Board chaired by the Deputy 
+Secretary that ensure critical risks and opportunities are discussed by 
+all leaders from across VA and result in well-integrated decisions that 
+matter to Veterans. These two boards are supported by the Evidence 
+Based Policy Council, which ensures policy options are developed 
+jointly and founded on rigorous evidence, and the Investment Review 
+Council, which ensures investment decisions reflect an enterprise-wide 
+view of what will make the biggest impact for Veterans.
+    Likewise, VA has one of the most outstanding customer experience 
+offices in the Federal Government, the Veterans Experience Office 
+(VEO). Our Chief Experience Officer is a key partner within our 
+enterprise governance framework, facilitating human centered design 
+efforts that ensure the Veteran's journey through VA is seamless and 
+that each policy and operational decision impacting one of VA's 
+components naturally contributes to a well-integrated customer 
+experience. The Assistant Secretary for Enterprise Integration serves 
+as the VA accountable executive for enterprise management and 
+governance in support of the Office of the Secretary. Serving as the 
+Governance Executive Secretariat for these four principal Department-
+level Governance bodies.
+    VA does not have a cost estimate for this bill.
+
+H.R. XXX - VA Supply Chain Management System Authorization Act
+
+    This bill would authorize the Secretary of Veterans Affairs to 
+carry out an information technology (IT) system and prioritize certain 
+requirements to manage supply chains for medical facilities of the 
+Department of Veterans Affairs. Specifically, it would give VA 
+discretion to procure an IT System to manage the supply chains for the 
+Veterans Health Administration (VHA). It details the desirable 
+functions and capabilities of such a system and lists specific items to 
+be included or excluded. It requires the prioritization of inventory 
+management capability and specifies, that should the Secretary choose 
+to carry out such a system, it must first be piloted at a VHA facility, 
+and that full implementation be completed within three (3) years of 
+enactment of this Act. The bill also provides for the system to apply 
+across the enterprise, e.g., to the Veterans Benefits Administration 
+(VBA) and the National Cemetery Administration (NCA) to the extent 
+items VBA and NCA procure can be accommodated by VHA processes.
+
+    VA cites concerns with this bill. The reason for VA's concern is 
+twofold. First, as written, the bill may impede ongoing efforts toward 
+an enterprise supply chain solution. Second, the timeline does not 
+accurately reflect the complexities involved in successful procurement 
+and execution. As such, VA welcomes the opportunity to continue working 
+with the Committee to provide additional technical assistance that will 
+create the flexibility and scope of timing needed to ensure success of 
+the mission.
+    VA began an enterprise-wide supply chain assessment in October 
+2021. Leveraging previous internal and external investigations, 
+assessments and reports, VA mapped and validated all current supply 
+chain processes including, facilities, High Tech medical equipment, IT, 
+medical supplies, the National Cemetery Administration, 
+pharmaceuticals, prosthetics, and the Veterans Benefits Administration. 
+VA also completed a detailed gap analysis comparing the ``as-is'' State 
+with the desired objective of an Easy to Use, Integrated and 
+Intelligent Supply Chain system.
+    VA is far along in the process that will culminate in the 
+identification and eventual selection of an IT system or systems that 
+will provide a modernized enterprise-wide solution for the supply chain 
+and logistics management. VA has engaged with industry on multiple 
+occasions for feedback and to gain a better perspective on what best 
+practices can be leveraged in our efforts to modernize. We recognize 
+that the most critical aspect of this endeavor is to ensure the 
+continued and consistent delivery of high-quality health care products 
+and services for our providers, Veterans, Caregivers, and their 
+families. VA is committed to an approach focused on lessons learned, 
+end-user input and phased implementation.
+    Although VA expected to solicit proposals and complete evaluations 
+in January 2023, that timeline has shifted to the right as we learn 
+more from internal and industry feedback. VA continues to socialize the 
+anticipated organizational and staff changes needed to properly execute 
+the mission. This methodical approach enables VA to better understand 
+the issues to be solved, effect change management, and refine and 
+revise our requirements before determining which potential technical 
+solutions will be needed.
+    VA is nearing completion of the acquisition strategy for the 
+enterprise supply chain modernization effort which will enable VA to 
+develop an Independent Lifecycle Cost Estimate for the overall 
+enterprise supply chain modernization effort. Currently, VA is 
+preparing to issue a Request for Proposals and expects to issue the 
+solicitation by late April or early May. VA does not currently have a 
+cost estimate for this bill.
+
+Conclusion
+
+    This concludes my statement. We would be happy to answer any 
+questions you or other members of the Subcommittee may have.
+                                 ______
+                                 
+
+                  Prepared Statement of Shelby Oakley
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+
+                       Statements for the Record
+
+                              ----------                              
+
+
+               Prepared Statement of The American Legion
+
+    Chairwoman Kiggans, Ranking Member Mrvan, and distinguished members 
+of the subcommittee, on behalf of National Commander Vincent J. ``Jim'' 
+Troiola and more than 1.6 million dues-paying members of The American 
+Legion, we thank you for the opportunity to comment on H.R. 592 - 
+Department of Veterans Affairs Electronic Health Record Modernization 
+Improvement Act.
+    The American Legion is directed by active Legionnaires who dedicate 
+their time and resources to serve veterans and their families. As a 
+resolution-based organization, our positions are guided by more than 
+104 years of advocacy and resolutions that originate at the grassroots 
+level of our organization. Every time The American Legion testifies, we 
+offer a direct voice from the veteran community to Congress.
+
+  H.R. 592 - Department of Veterans Affairs Electronic Health Record 
+                     Modernization Improvement Act
+
+To prohibit the Secretary of Veterans Affairs from carrying out certain 
+  activities under the Electronic Health Record Modernization Program 
+   until certification of system improvements and facility readiness.
+
+    In 2018, the Department of Veterans Affairs (VA) began its 
+Electronic Health Record Modernization (EHRM) program to replace its 
+current operating system, Veterans Health Information Systems and 
+Technology Architecture (VistA), which originally dates to 1977.\1\ The 
+VA's new EHR system, Oracle Cerner Millennium, is intended to bring new 
+capabilities to VA, such as a more efficient process for identifying 
+potential health risks, scheduling features that would improve wait 
+times, and a seamless experience across VA, Department of Defense 
+(DOD), and civilian healthcare facilities and their departments.\2\ The 
+EHRM program aims to provide veterans with an easily updated health 
+record that follows a veteran for life, from when the service member 
+joins the military to their time in VA healthcare. The American Legion 
+strongly supports these goals.\3\
+---------------------------------------------------------------------------
+    \1\ Allen, Arthur. n.d. ``A 40-Year `Conspiracy' at the VA.'' The 
+Agenda. Politico.com. https://www.politico.com/agenda/story/2017/03/
+vista-computer-history-va-conspiracy-000367/.Unless otherwise noted, 
+all cited hyperlinks accessed March 28, 2023.
+    \2\ Communication, IT Strategic. 2022. ``What Veterans Need to Know 
+about How VA's Health Record System Is Changing--VA EHR 
+Modernization.'' Digital.va.gov. July 21, 2022. https://digital.va.gov/
+ehr-modernization/resources/fact-sheets/what-veterans-need-to-know-
+about-how-vas-health-record-system-is-changing/.
+    \3\  ``Resolution No. 83: Virtual Lifetime Electronic Record.'' 
+2016. https://archive.legion.org/node/329.; ``Resolution No. 12: 
+Implementation of the MISSION Act.'' 2022. https://archive.legion.org/
+node/14050.
+---------------------------------------------------------------------------
+    The first deployment of Oracle Cerner Millennium began in 2020 at 
+Mann-Grandstaff VA Medical Center in Spokane, Washington. It 
+immediately faced problems with transferring medical records to the new 
+system.\4\ For example, it imported outdated emergency contact 
+information and eliminated essential prescription histories. As 
+detailed in two VA Office of Inspector General (OIG) reports, the 
+rollout also had training and reporting issues, and caused multiple 
+incidents where veterans were harmed.\5\ On one occasion, the Oracle 
+Cerner Millennium system shut down for over 4 hours at Mann-Grandstaff, 
+causing medical center staff to rely on outdated paper records and 
+leaving veterans at risk of medical error.\6\
+---------------------------------------------------------------------------
+    \4\ VA OIG Details Continued Deficiencies with VA's EHRM.'' n.d. 
+www.meritalk.com. https://www.meritalk.com/articles/va-oig-details-
+continued-deficiencies-with-vas-ehrm/.
+    \5\ Department of Veterans Affairs Office of Inspector General. 
+``The New Electronic Health Record's Unknown Queue Caused Multiple 
+Events of Patient Harm.'' 2022. va.gov https://www.va.gov/oig/pubs/
+VAOIG-22-01137-204.pdf.
+    \6\ Krishan, Nihal. ``VA Cerner Ehr System Goes down for over 4 
+Hours Due to Patient Data base Corruption Issue .'' FedScoop, 
+August 5, 2022. https://fedscoop.com/va-cerner-ehr-system-goes-down-
+for-3-hours-due-to-patient-data base-corruption-issue/.
+---------------------------------------------------------------------------
+    After several more deployments, the system continued to experience 
+installment and operational issues, eventually leading to VA's decision 
+to put the rollout on hold. The most recent pause started in October 
+2022 and was indefinitely extended in April 2023. During this time, VA 
+established an EHRM Sprint Project Team to identify the solutions 
+necessary to move forward. \7\ After reviewing more than 450 issues, 
+the Sprint Project Team released a report focusing on 30 current 
+critical issue areas in the EHRM implementation.
+---------------------------------------------------------------------------
+    \7\ Department of Veterans Affairs Veterans Health Administration. 
+``EHRM Sprint Report.'' 2023. veterans.senate.gov. https://
+www.veterans.senate.gov/services/files/5B5776E7-8765-4303-9B93-
+D2BCBF8D5A33.
+---------------------------------------------------------------------------
+    The critical issues identified include diagnostic echocardiogram 
+orders being entered incorrectly, problems with home oxygen 
+requisition, lost prosthetic orders, medication lists disappearing, and 
+prescription delays and omissions. In these areas of care, patient 
+safety must remain a top priority - where one mistake can kill or 
+severely harm a veteran and their quality of life. In its current 
+State, the Oracle Cerner Millennium system makes these levels of care 
+vulnerable and potentially harm veterans in the future. Last month, on 
+March 21, 2023, VA informed the Senate Veterans Affairs Committee that 
+EHRM issues were linked to at least four veteran deaths and two 
+additional instances of critical harm to veterans.\8\
+---------------------------------------------------------------------------
+    \8\ Rodriguez, Sarai. (2023, March 21). ``VA Admits Oracle Cerner 
+EHRM Issues Contributed to 4 Veteran Deaths.'' ehrintelligence.com. VA 
+Admits Oracle Cerner EHRM Issues Contributed to 4 Veteran Deaths 
+(ehrintelligence.com).
+---------------------------------------------------------------------------
+    It is important to note that the report is not intended to fix 
+issues with the EHRM program but rather to identify and recommend 
+solutions, leaving VA and Oracle Cerner to further develop and 
+implement them. The American Legion recognizes this is a complex, time-
+consuming process, and fixes will take time and effort.
+    H.R. 592 would address some of the major problems facing the EHRM 
+program rollout. The act implements reasonable recommendations and 
+requires two main certifications from current facilities using the 
+Oracle Cerner Millennium system before it is deployed to further 
+facilities.\9\
+---------------------------------------------------------------------------
+    \9\ Congress.gov. ``Text--H.R. 592--118th Congress (2023-2024): 
+Department of Veterans Affairs Electronic Health Record Modernization 
+Improvement Act.'' February 16, 2023. https://www.Congress.gov/bill/
+118th-congress/house-bill/592/text's=1&r=28.
+---------------------------------------------------------------------------
+    The first such requirement is a monthly average uptime of 99.9 
+percent for facilities currently using the Oracle Cerner Millennium 
+system, which is key for any system, especially one meant to care for 
+veterans. The American Legion believes an average monthly uptime of 
+99.9 percent would allow the maximum ability for VA to deliver world-
+class care to our veterans.
+    The second requirement is that any new EHR system will not launch 
+in a new facility unless the facility's director, chief of staff, and 
+Veterans Integrated Services Network (VISN) director certify that the 
+facility and its staff are prepared for system deployment and use. VISN 
+and facility leadership are the most qualified to assess a facility's 
+readiness. Furthermore, if leadership and staff are properly prepared 
+and ready to receive the new system, the willingness to learn and 
+operate the system will likely assist in a successful implementation. 
+Together, these requirements are sensible safeguards moving forward to 
+ensure the success of the EHRM program.
+    Through Resolution No. 83: Virtual Lifetime Electronic Record, The 
+American Legion supports the implementation of an electronic health 
+record and wants the EHRM program to succeed and serve veterans 
+safely.\10\ The VA and veteran service organizations, like The American 
+Legion, work tirelessly to improve the lives of our Nation's veterans. 
+H.R. 592 and the Oracle Cerner Millennium system will provide the 
+capabilities to ensure that American veterans receive the world-class 
+care they deserve.
+---------------------------------------------------------------------------
+    \10\  The American Legion Resolution No. 83 (2016): Resolution No. 
+83: Virtual Lifetime Electronic Record : Digital Archive (legion.org).
+
+---------------------------------------------------------------------------
+    The American Legion supports H.R. 592 as currently written.
+
+    Conclusion
+    Chairwoman Kiggans, Ranking Member Mrvan, and distinguished members 
+of the subcommittee, The American Legion thanks you for your leadership 
+on this matter and for allowing us the opportunity to share the 
+position of our more than 1.6 million members. For additional 
+information or questions regarding this testimony, please contact 
+Legislative Associate, John Kamin, at The American Legion's Legislative 
+Division at (202) 861-2700 or [email protected].
+                                 ______
+                                 
+
+            Prepared Statement of Fleet Reserve Association
+
+                                The FRA
+
+                        ``Heading to 1OO Years''
+
+    The Fleet Reserve Association (FRA) is the oldest and largest 
+organization serving enlisted men and women in the active, reserve, and 
+retired communities plus veterans of the Navy, Marine Corps, and Coast 
+Guard. The Association is congressionally Chartered, recognized by the 
+Department of Veterans Affairs (VA), and entrusted to serve all 
+veterans who seek its help.
+    FRA started in 1924 and its name is derived from the Navy's program 
+for personnel transferring to the Fleet Reserve after 20 or more years 
+of active duty, but less than 30 years for retirement purposes. During 
+the required period of service in the Fleet Reserve, assigned personnel 
+earn retainer pay and are subject to recall by the Secretary of the 
+Navy.
+    The Association testifies regularly before the House and Senate 
+Veterans' Affairs Committees, and it is actively involved in the 
+Veterans Affairs Voluntary Services (VAVS) program. A member of the 
+National Headquarters' staff serves as FRA's National Veterans Service 
+Officer (NVSO) and as a representative on the VAVS National Advisory 
+Committee (NAC). FRA's VSOs oversee the Association's Veterans Service 
+Officer program and represent veterans throughout the claims process 
+and before the Board of Veteran's Appeals.
+    In 2016, FRA membership overwhelmingly approved the establishment 
+of the Fleet Reserve Association Veterans Service Foundation (VSF). The 
+main strategy for the VSF is to improve and grow the FRA Veterans 
+Service Officers (VSO) program. The newly formed foundation has a 
+501(c) 3 tax exempt status and nearly 800 accredited service officers 
+with FRA.
+    FRA became a member of the Veterans Day National Committee in 
+2007,joining 24 other nationally recognized VSOs on this important 
+committee that coordinates National Veterans' Day ceremonies at 
+Arlington National Cemetery. FRA will host the ceremony in their 
+centennial year, 2024. The Association is a leading organization in The 
+Military Coalition (TMC), a group of 35 nationally recognized military 
+and veteran groups jointly representing the concerns of over five 
+million members.
+    The Association's motto is ``Loyalty, Protection, and Service.''
+
+                              Introduction
+
+    The FRA welcomes this and other numerous oversight hearings because 
+the Association believes congressional oversight of the VA technology 
+program is vital to ensuring improvements to the system. The VA 
+healthcare structure is a hybrid system consisting of inpatient and 
+outpatient care, telehealth, and community care. Ensuring that the VA 
+is equipped to meet the unique needs of veterans requires the VA to 
+fully leverage all components of the VA healthcare system and create a 
+seamless and paperless transition from active-duty service to veterans 
+status. The Electronic Health Record Modernization (EHRM) is an 
+essential element in modernization of the VA healthcare system.
+
+                                  EHRM
+
+    ``The VA uses the Veterans Health Information Systems and 
+Technology Architecture (VistA), which includes the VA's Electronic 
+Health Record (EHR) system to provide healthcare to patients. In June 
+2017 the agency initiated the EHRM program to replace VistA because it 
+is technically complex, costly to maintain, and does not fully support 
+the need to exchange health data with other organizations.'' \1\ The VA 
+has spent more than $9.42 billion on the EHRM program.
+---------------------------------------------------------------------------
+    \1\ GAO report -23-106685, March 15, 2023
+---------------------------------------------------------------------------
+    FRA appreciates the House Veterans Affairs Committee oversight 
+hearings on the Electronic Health Record Modernization at the VA. The 
+plan has been plagued with ongoing problems dating back to its initial 
+launch at the VA Medical Center in Spokane, Washington. Serious issues 
+related to patient safety, training, employee morale, and several other 
+deployment problems still exist, though some progress has been made. 
+Office of Inspector General (OIG) report revealing serious issues with 
+the deployment of VA's new Electronic Health Record Modernization 
+(EHRM) program.
+    The VA first launched its new electronic health record (EHR) system 
+more than 25 months ago. The program was scheduled in July 2022 to 
+expand to include the VA Medical Center in Boise, Idaho. The expansion 
+was delayed from October 2022 until June 2023 when VA wanted to expand 
+the software to new VA medical centers.
+    Oversight committees were told that the VA is using this pause to 
+make system enhancements and to perform tests to ensure the system is 
+stable, resilient, and provides the capability VA employees and 
+veterans need to improve access and quality of care. Department of 
+Veterans (VA) Secretary McDonough has extended the pause for 
+implementing the Electronic Health Record Modernization (EHRM) program. 
+There is growing concern on Capitol Hill about the long-term cost, 
+safety, and reliability of the program. This new delay did not specify 
+when implementation would resume. When the program started it was 
+estimated that the cost would be $16 billion over 10 years. However, a 
+more recent independent estimate predicts $33-36 billion over 13 years.
+    Nevertheless, progress has occurred since the VA joined with the 
+DoD in a joint contract to modernize its EHR system in 2017. The huge 
+$16 billion project raised lots of concerns with lawmakers after 
+decades of attempts by both departments to develop a joint 
+interoperable health record that never materialized.
+    The House and Senate passed the ``Electronic Health Record 
+Transparency Act'' (H.R. 4591) to require the VA to submit to Congress 
+quarterly reports that evaluate the performance of the EHR, and it was 
+signed into law in June 2022. The FRA wants to ensure adequate funding 
+for DoD and the VA health care resources delivering seamless, cost-
+effective, quality services to personnel wounded in combat and other 
+veterans and their families. Some Members of Congress have expressed 
+concern about the cost and length of time to fully implement this 
+program. The cost and the long time for implementation notwithstanding, 
+the FRA believes there is a tremendous opportunity with the two 
+departments using the same Electronic Health Records.
+
+                        Implementation Problems
+
+    The recent acquisition of the Cerner system by Oracle has come with 
+a wide variety of challenges. The VA staff has experienced difficulties 
+adjusting to the new system. The VA claims this is due to a lack of 
+proper training. The new system created an ``unknown queue,'' a 
+problematic feature that has caused referral orders to effectively go 
+missing at the VA. Additionally, an audit by the Office of Inspector 
+General (OIG) claims that the VA lacked a reliable integrated master 
+schedule consistent with scheduling standards, which increases the risk 
+of missing milestones and delaying the delivery of a system to provide 
+timely, quality care to veterans. Schedule delays that extend the 
+program are also likely to result in about $1.95 billion in annual cost 
+overruns and may determine the VA's other modernization efforts on 
+supply chain and financial management system. The report claims that 
+Cerner failed to deliver more than 11,000 orders for specialty care, 
+lab work and other services--without alerting health care providers the 
+orders had been lost. Those lost orders, resulted in delayed care and 
+what a VA patient safety team classified as dozens of cases of 
+``moderate harm'' and one case of ``major harm.'' It should be noted 
+that the Department of Defense (DoD) waited for roughly 2 years after 
+implementing the EHR at its first four sites, and the glitches DoD was 
+focused on fixing (primarily with its networks) were smaller than what 
+VA is trying to fix. As VA leadership has confirmed, they will not 
+deploy the new EHR system at any facility until they are certain it is 
+ready to deliver for veterans and VA providers. Based on recent 
+assessments, the VA has determined that the new EHR is not yet ready 
+for further deployment at this time.
+
+                           Legislative Action
+
+    There have been two legislative proposals introduced in the House 
+that pertain to the VA's EHRM program. FRA believes congressional 
+oversight of VA technology is vital to ensuring improvements in the 
+system. Legislation introduced in the House the ``EHRM Improvement 
+Act'' (H.R. 592) to block further implementations of the system until 
+the medical centers determine they are well- equipped to receive and 
+use it, without hindering the delivery of care to veterans and hurting 
+productivity. The HVAC Chairman and sponsor of the bill, Rep. Mike Bost 
+(IL) believes that the Oracle Cerner system should not be implemented 
+at any more VA sites until the VA Medical Centers leadership certifies 
+that the medical center is ready.
+    Other legislation introduced ``the EHRM Termination Act'' (H.R. 
+608) which would end the project altogether if VA and Oracle Cerner are 
+unable to make significant improvements. FRA supports H.R. 592 and has 
+not taken a position on H.R. 608.
+
+                               Conclusion
+
+    In closing, FRA wants to express its sincere appreciation for the 
+opportunity to present its views on the EHRM program to this 
+distinguished Subcommittee. The FRA believes there is a tremendous 
+opportunity with the two departments using the same Electronic Health 
+Records.
+
+                                 [all]
+

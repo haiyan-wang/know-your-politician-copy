@@ -1,0 +1,3149 @@
+
+ - BUILDING INFRASTRUCTURE IN AMERICA: OVERVIEW OF THE BUILD AMERICA BUREAU AND THE U.S. DEPARTMENT OF TRANSPORTATION RURAL TRANSPORTATION INITIATIVES
+
+[Senate Hearing 116-575]
+[From the U.S. Government Publishing Office]
+
+
+                                                        S. Hrg. 116-575
+
+                  BUILDING INFRASTRUCTURE IN AMERICA:
+                  OVERVIEW OF THE BUILD AMERICA BUREAU
+    AND THE U.S. DEPARTMENT OF TRANSPORTATION RURAL TRANSPORTATION 
+                              INITIATIVES
+
+=======================================================================
+
+                                HEARING
+
+                               BEFORE THE
+
+               SUBCOMMITTEE ON TRANSPORTATION AND SAFETY
+
+                                 OF THE
+
+                         COMMITTEE ON COMMERCE,
+                      SCIENCE, AND TRANSPORTATION
+                          UNITED STATES SENATE
+
+                     ONE HUNDRED SIXTEENTH CONGRESS
+
+                             SECOND SESSION
+                               __________
+
+                            JANUARY 28, 2020
+                               __________
+
+    Printed for the use of the Committee on Commerce, Science, and 
+                             Transportation
+                             
+
+                 [GRAPHIC NOT AVAILABLE IN TIFF FORMAT]
+                 
+
+                Available online: http://www.govinfo.gov
+                
+                              __________
+
+                   U.S. GOVERNMENT PUBLISHING OFFICE
+                    
+52-613 PDF                 WASHINGTON : 2023                  
+                
+                
+                
+       SENATE COMMITTEE ON COMMERCE, SCIENCE, AND TRANSPORTATION
+
+                     ONE HUNDRED SIXTEENTH CONGRESS
+
+                             SECOND SESSION
+
+                  ROGER WICKER, Mississippi, Chairman
+JOHN THUNE, South Dakota             MARIA CANTWELL, Washington, 
+ROY BLUNT, Missouri                      Ranking
+TED CRUZ, Texas                      AMY KLOBUCHAR, Minnesota
+DEB FISCHER, Nebraska                RICHARD BLUMENTHAL, Connecticut
+JERRY MORAN, Kansas                  BRIAN SCHATZ, Hawaii
+DAN SULLIVAN, Alaska                 EDWARD MARKEY, Massachusetts
+CORY GARDNER, Colorado               TOM UDALL, New Mexico
+MARSHA BLACKBURN, Tennessee          GARY PETERS, Michigan
+SHELLEY MOORE CAPITO, West Virginia  TAMMY BALDWIN, Wisconsin
+MIKE LEE, Utah                       TAMMY DUCKWORTH, Illinois
+RON JOHNSON, Wisconsin               JON TESTER, Montana
+TODD YOUNG, Indiana                  KYRSTEN SINEMA, Arizona
+RICK SCOTT, Florida                  JACKY ROSEN, Nevada
+                       John Keast, Staff Director
+                  Crystal Tully, Deputy Staff Director
+                      Steven Wall, General Counsel
+                 Kim Lipsky, Democratic Staff Director
+              Chris Day, Democratic Deputy Staff Director
+                      Renae Black, Senior Counsel
+                                 ------                                
+
+               SUBCOMMITTEE ON TRANSPORTATION AND SAFETY
+
+DEB FISCHER, Nebraska, Chairman      TAMMY DUCKWORTH, Illinois, Ranking
+JOHN THUNE, South Dakota             AMY KLOBUCHAR, Minnesota
+ROY BLUNT, Missouri                  RICHARD BLUMENTHAL, Connecticut
+JERRY MORAN, Kansas                  EDWARD MARKEY, Massachusetts
+CORY GARDNER, Colorado               TOM UDALL, New Mexico
+SHELLEY MOORE CAPITO, West Virginia  GARY PETERS, Michigan
+TODD YOUNG, Indiana                  TAMMY BALDWIN, Wisconsin
+RICK SCOTT, Florida
+                            C O N T E N T S
+
+                              ----------                              
+                                                                   Page
+Hearing held on January 28, 2020.................................     1
+Statement of Senator Fischer.....................................     1
+Statement of Senator Duckworth...................................     2
+Statement of Senator Cantwell....................................    11
+
+                               Witnesses
+
+Hon. Joel Szabat, Acting Under Secretary of Transportation for 
+  Policy, U.S. Department of Transportation......................     3
+    Joint statement..............................................     5
+Morteza Farajian, Ph.D., Executive Director, Build America 
+  Bureau, U.S. Department of Transportation......................    12
+Hon. John McCarthy, Port of Tacoma Commission President and Co-
+  Chair, The Northwest Seaport Alliance..........................    13
+    Prepared statement...........................................    15
+
+                                Appendix
+
+Response to written questions submitted to Hon. Joel Szabat by:
+    Hon. Maria Cantwell..........................................    31
+    Hon. Tammy Duckworth.........................................    32
+    Hon. Tammy Baldwin...........................................    35
+    Hon. Tom Udall...............................................    36
+Response to written questions submitted to Morteza Farajian, 
+  Ph.D. by:
+    Hon. Maria Cantwell..........................................    39
+    Hon. Tammy Duckworth.........................................    41
+Response to written questions submitted to Hon. John McCarthy by:
+    Hon. Maria Cantwell..........................................    43
+
+ 
+                  BUILDING INFRASTRUCTURE IN AMERICA:
+                 OVERVIEW OF THE BUILD AMERICA BUREAU
+                     AND THE U.S. DEPARTMENT OF
+          TRANSPORTATION RURAL TRANSPORTATION INITIATIVES
+
+                              ----------                              
+
+
+                       TUESDAY, JANUARY 28, 2020
+
+                               U.S. Senate,
+         Subcommittee on Transportation and Safety,
+        Committee on Commerce, Science, and Transportation,
+                                                    Washington, DC.
+    The Subcommittee met, pursuant to notice, at 10 a.m., in 
+room SH-216, Hart Senate Office Building, Hon. Deb Fischer, 
+Chairman of the Subcommittee, presiding.
+    Present: Senators Fischer [presiding], Wicker, Thune, 
+Moran, Young, Duckworth, Cantwell, and Blumenthal.
+
+            OPENING STATEMENT OF HON. DEB FISCHER, 
+                   U.S. SENATOR FROM NEBRASKA
+
+    The Chairman. The hearing will come to order. Good morning. 
+I am pleased to convene today's hearing as Chairman of the 
+Senate Subcommittee on Transportation and Safety. This hearing 
+will focus on the Department of Transportation's infrastructure 
+development programs housed within the Office of the Secretary 
+of Transportation. Specifically, we will examine the Build 
+America Bureau and the newly created rural opportunities to use 
+transportation for economic success, or the ROUTES initiative, 
+and the Railroad Rehabilitation and Improvement Financing, or 
+RRIF Express programs.
+    Everyone here can agree that the United States surface 
+transportation infrastructure is critical to public safety and 
+to the economy. It connects people across this country. Many of 
+us hear from our constituents about the poor state of American 
+infrastructure. Their concerns have been confirmed by numerous 
+studies, including the often-cited infrastructure report card 
+from the American Society of Civil Engineers, which gave U.S. 
+infrastructure a D+ in 2017. That is unacceptable. To ensure we 
+have the infrastructure we need for the future, the U.S. 
+transportation policy should focus on both improving the 
+infrastructure we currently have and building new assets to 
+accommodate increasing demand.
+    While infrastructure has always been a priority for this 
+Subcommittee, it is particularly important this year as we 
+consider the reauthorization of important Federal surface 
+transportation programs. That is why today we will examine OT 
+programs that affect both urban and rural transportation 
+infrastructure. As you know, Congress established the Build 
+America Bureau in the FAST Act in 2015. The idea was simple, 
+project sponsors should have a one-stop shop to access 
+information on DOT grants and financing, streamlined 
+application processes and technical assistance such as 
+permitting and procedural advice.
+    The FAST Act specifically directed the Bureau to administer 
+several programs, the Transportation Infrastructure Finance and 
+Innovation Act loan program known as TIFIA and the RRIF loan 
+program for rail, infrastructure for rebuilding America grant 
+program known as INFRA, and private activity bonds.
+    Today, we have the opportunity to learn more about DOT's 
+work to establish the Bureau, what the Bureau offers to aid 
+project sponsors, and how Congress could better support the 
+Bureau's work in a surface transportation reauthorization. In 
+particular, I look forward to hearing about the Bureau's vision 
+and strategy for how they plan to provide assistance and to 
+coordinate with project sponsors.
+    I also look forward to hearing specific details from the 
+witnesses about how DOT will implement the TIFIA rural project 
+initiative, RRIF Express, and the ROUTES initiative. As we have 
+seen, project sponsors especially in our rural areas may not be 
+aware of the resources available to them through DOT or they 
+simply may not have the means to access this assistance.
+    My colleagues and I often receive questions from 
+stakeholders asking how to access these important programs. 
+Many of my constituents will be interested to know what rural 
+project sponsors can expect if they reach out to DOT for 
+assistance. I hope today's witnesses can help us better direct 
+constituents to helpful resources that will guide them in their 
+efforts to improve our Nation's infrastructure, and I look 
+forward to the testimony of our panel.
+    At this point, I would like to invite my colleague and 
+Ranking Member Senator Duckworth for her opening comments.
+
+              STATEMENT OF HON. TAMMY DUCKWORTH, 
+                   U.S. SENATOR FROM ILLINOIS
+
+    Senator Duckworth. Thank you so much Chairman Fischer. 
+Thank you again for holding today's hearing. I want to thank 
+our witnesses for joining us today to highlight the 
+opportunities and challenges facing the DOT's Build America 
+Bureau and DOT's efforts to advance major infrastructure 
+projects in rural America.
+    As this Committee knows well, every sector of our economy 
+and every corner of the Nation benefits from reliable, 
+efficient transportation. I would go a step further and say 
+that our Nation's global competitiveness is dependent on our 
+safe, reliable, and efficient transportation network. Despite 
+this dependence however, investments in transportation 
+infrastructure have not kept pace with need and public 
+expenditures on infrastructure as a percentage of GDP has 
+declined to the lowest levels in a generation.
+    The American Society of Civil Engineers gives our 
+infrastructure a D+ rating and estimates that we must invest $2 
+trillion by 2025 to rebuild, maintain, and expand our 
+transportation infrastructure. In pursuit of reliability and 
+efficiency, Congress has established a variety of credit and 
+grant programs administered by DOT to invest in major projects 
+all across the Nation. For states, local governments, and other 
+stakeholders, the Build American Bureau is DOT's one-stop-shop 
+for Federal transportation funding and financing opportunities. 
+The Bureau's core responsibilities is administering finance 
+programs like RRIF program and TIFIA.
+    Meanwhile, the Office of the Secretary has taken the lead 
+on implementing INFRA grants to enhance our Nation's great 
+network and build grants to benefit projects of local or 
+regional importance. While many worthwhile projects have 
+advanced thanks to these programs, I do hope that today's 
+hearing will shed light on stakeholder concerns about 
+burdensome application processes, high front-end costs, and 
+extreme uncertainty in securing Federal support. For example, I 
+have heard from RRIF applicants who spent many months and more 
+than $1 million to not get a RRIF loan. Meanwhile, an opaque 
+project selection process for the INFRA and Build programs 
+undermines stakeholders' confidence and DOT's merit-based 
+decisionmaking.
+    For example, the portion of Build funding invested in rural 
+projects increased from 33 percent to more than 70 percent over 
+the past three years. Yet during that same period, transit 
+awards diminished from 27 percent to 8 percent. The Trump 
+Administration has made no secret of its focus on rural 
+investments and I agree that many rural communities face 
+stronger headwinds when applying for Federal resources than 
+their urban counterparts. That is why it is critically 
+important for DOT to ensure its practices and policies reflect 
+the transparency that Congress and the public require to make 
+informed decisions and ensuring a level playing field for all 
+stakeholders regardless of mode or geography.
+    I hope that today's witnesses will shed light on many of 
+these concerns and help this Committee identify opportunities 
+to further enhance DOT's credit and grant programs and maximize 
+outcomes for U.S. taxpayers. Thank you, and I yield back.
+    The Chairman. Thank you, Senator Duckworth. I would like to 
+ask the witnesses for their opening statements at this time. We 
+will begin with Mr. Szabat, who is the Assistant Secretary of 
+Aviation and International Affairs and performing the duties of 
+the Under Secretary for Policy. He has extensive experience 
+with transportation policy since joining the Department in 
+2002.
+
+                 STATEMENT OF HON. JOEL SZABAT,
+
+            ACTING UNDER SECRETARY OF TRANSPORTATION
+
+         FOR POLICY, U.S. DEPARTMENT OF TRANSPORTATION
+
+    Mr. Szabat. Thank you, Chairman Fischer, Ranking Member 
+Duckworth, and members of the Subcommittee. We appreciate the 
+opportunity to share with you the steps this Administration and 
+the Department of Transportation have taken to facilitate 
+better transportation in America's rural communities. Safety is 
+the first priority of Secretary Chao and the entire Department.
+    Data shows that the Federal Government ought to increase 
+its focus on rural transportation safety. Rural transportation 
+networks are also vital to economic growth, creating 
+opportunity and ensuring that no one is left behind. Many rural 
+communities in the United States continue to face 
+transportation disparities. While only 19 percent of Americans 
+live in rural communities, 69 percent of highway lane miles are 
+in rural areas.
+    Truck drivers, essential, unheralded, and literally the 
+prime movers of our economy, spend roughly half their working 
+days and nights rowing across rural roads. And two-thirds of 
+all U.S. rail freight originates in rural areas. Consequently, 
+there are disproportionately more highway fatalities in rural 
+areas, 72 percent of large truck occupant fatalities, 67 
+percent of pick up occupant fatalities, and 58 percent of SUV 
+occupant fatalities occur in rural areas.
+    In fact 46 percent of total highway fatalities in our 
+country occur on rural roads, at a rate twice that of urban. So 
+it is vitally important not only to growth and competitiveness 
+but to safety that the transportation infrastructure needs of 
+rural communities be addressed. The U.S. Department of 
+Transportation is working hard to address these inequities in 
+several ways.
+    The Administration recognizes that rural transportation is 
+a lifeline for farmers, working families, seniors, veterans, 
+individuals with disabilities, and tribal residents among 
+others. For that reason, the Administration is placing 
+considerable emphasis on underserved communities, including 
+those in rural America. Here I'll spotlight two particular 
+initiatives.
+    The Rural Project Initiative allows more sponsors of 
+infrastructure projects in rural communities to tap into the 
+Department's major loan programs, enabling projects that might 
+not otherwise get done and the rural opportunities to use 
+transportation for economic success, or ROUTES initiative helps 
+rural communities access Federal transportation grant funding 
+and loan programs. It also improves data sharing to help rural 
+communities better analyze their transportation needs.
+    Access to rural transportation can be a significant 
+challenge for seniors, people with disabilities, and low-income 
+communities. So the ROUTES initiative will address the rural 
+public transit lifeline as well. We have exceeded our rural 
+transportation obligations as laid out in the 2015, FAST Act. 
+We continue pressing forward with new ways to improve rural 
+mobility because our whole Nation, including urban citizens and 
+businesses, depend on it. While we have increased focus on 
+rural areas, we remain intent on improving transportation 
+systems throughout the Nation. Connecting urban and rural 
+transportation networks are critically important for domestic 
+production and export of agriculture, mining, and energy 
+commodities, as well as the quality of life for all Americans.
+    The disparity in transportation conditions between urban 
+and rural communities are exacerbated because urban communities 
+often are better equipped to seek out Federal resources to 
+address their needs. Our initiatives work to redress the 
+balance. The most meaningful way to help rural America's 
+transportation infrastructure is through the discretionary 
+grant. Since Fiscal Year 2016, the rural share of discretionary 
+funds awarded nearly doubled in the nine transportation 
+programs that distinguish between rural and non-rural.
+    Just two months ago, Secretary Chao announced the latest, 
+better utilizing investments to leverage development or build 
+discretionary grant awards. In the last three rounds of Build, 
+an infrastructure for rebuilding America or INFRA grants, each 
+around $900 million, the rural share of the awards ranged 
+between 50 percent and 64 percent. As detailed in my written 
+testimony, key operating administrations in the Department, 
+transit, highway, and rail, also increased their focus on rural 
+safety and mobility as indicated by their Fiscal Year 2019 
+funding priorities.
+    These awards are only a sample of the Department's effort 
+in the past thirteen months to champion rural transportation 
+improvements to discretionary grant awards. In some, they total 
+over $2.4 billion. In addition to efforts by DOT operating 
+administrations, our innovative financing arm, the Build 
+America Bureau, has also played a key role in supporting 
+development of rural transportation infrastructure. Credit 
+programs such as TIFIA and RRIF, which Dr. Farajian will speak 
+to next, are powerful tools to better address rural 
+transportation needs.
+    Special thanks are due to Dr. Farajian, his staff, and his 
+supervisor, the Chief Infrastructure Funding Officer of the 
+Department, Dan DeBono, for their work with rural communities. 
+I also commend Secretary Chao's Senior Policy Advisor, Jannine 
+Miller, who has been the driving force in shaping our rural 
+initiatives. Thank you, and I look forward to your questions.
+    [The joint prepared statement of Mr. Szabat and Mr. 
+Farajian follow:]
+
+ Joint Statement of Joel Szabat, Assistant Secretary for Aviation and 
+  International Affairs, Performing the Duties of Under Secretary for 
+  Policy, Department of Transportation; and Morteza Farajian, Ph.D., 
+ Executive Director, Build America Bureau, Department of Transporation
+    Thank you, Chairman Fischer, Ranking Member Duckworth, and Members 
+of the Subcommittee. We appreciate the opportunity to share with you 
+the steps the Trump Administration and Secretary of Transportation 
+Elaine L. Chao have taken to facilitate better transportation in 
+America's rural communities.
+    Rural transportation networks are vital to the Nation's economic 
+growth, creating opportunity, and ensuring that no one is left behind. 
+Yet many rural communities in the United States continue to face 
+significant transportation challenges. For example, while only 19 
+percent of Americans live in rural communities, 69 percent of highway 
+lane miles are in rural areas, nearly half of all truck vehicle miles 
+traveled occur on rural roads, and two-thirds of all U.S. rail freight 
+originates in rural areas.
+    One result of these challenges is a disproportionate high rate of 
+highway fatalities in rural areas.
+
+   72 percent of large truck occupant fatalities,
+
+   67 percent of pickup occupant fatalities, and
+
+   58 percent of SUV occupant fatalities occur in rural areas.
+
+    In fact, 46 percent of total highway fatalities in our country 
+occur on rural roads--and the fatality rate on rural roads is twice 
+that of urban roads. This is of special concern because safety is the 
+Department of Transportation's Number One priority. So it is vitally 
+important not only to growth and competitiveness, but to safety, that 
+the transportation and infrastructure needs of rural communities be 
+addressed.
+    The U.S. Department of Transportation is working hard to address 
+these inequities through a number of initiatives, including:
+
+   Funds Administration. The Department distributes about $70 
+        billion annually for infrastructure needs, much of which goes 
+        to State governments via formula stipulated by law. Yet DOT has 
+        several discretionary grant programs as well. Since FY 2016, 
+        the rural share of discretionary funds awarded nearly doubled 
+        in the nine transportation programs that distinguish between 
+        rural and non-rural. And the number of awards made to rural 
+        projects more than tripled.
+
+   Rural Project Initiative Implementation. This initiative 
+        allows more sponsors of infrastructure projects in rural 
+        communities to utilize the Department's major loan program, 
+        which offers very generous financing and loan repayment terms.
+
+   ROUTES Initiative. The Rural Opportunities to Use 
+        Transportation for Economic Success (ROUTES) initiative helps 
+        rural communities access Federal transportation grant funding 
+        and loan programs. It also improves data sharing to help rural 
+        communities better analyze their transportation needs. As part 
+        of this initiative, the Department established a ROUTES 
+        Council, which supports rural communities to better identify 
+        and assess their transportation needs, and re-balance DOT 
+        discretionary grants to address those needs. Rural Transit. 
+        Access to transportation can also be a significant challenge 
+        for seniors, people with disabilities and low-income 
+        communities in rural areas. Public transportation is a lifeline 
+        for them. So the ROUTES initiative will be addressing public 
+        transit in rural areas, as well. Addressing rural-urban 
+        transportation disparities will help ensure a more inclusive 
+        transportation network for the future. That's a goal that all 
+        countries can and should incorporate into their national 
+        transportation plans.
+
+    The Administration recognizes that transportation in rural areas 
+functions as a lifeline for farmers, working families, seniors, 
+veterans, individuals with disabilities, tribal residents, and others. 
+To that end, this Administration has placed considerable emphasis on 
+underserved communities like those in rural America. We have met and 
+exceeded our obligation regarding rural transportation in the 2015 FAST 
+Act, and we continue pressing forward with new ways to improve rural 
+mobility. In addition to efforts by DOT Operating Administrations, our 
+innovative financing arm, the Build America Bureau, has also played a 
+key role in supporting development of rural transportation 
+infrastructure. Of course, while we have increased focus on rural 
+areas, we are as intent as always on improving transportation systems 
+throughout the Nation.
+Rural transportation networks
+    Rural transportation networks are critically important for domestic 
+production and export of agriculture, mining, and energy commodities as 
+well as the quality of life for all Americans. For example, two-thirds 
+of rail freight originates in rural areas, and nearly half of all truck 
+vehicle-miles-traveled (VMT) occur on rural roads. And, 70 percent of 
+America's road-miles are in rural communities.
+    At the same time, 90 percent of posted, or limited weight, bridges, 
+which heavy trucks cannot use, are in rural areas. Freight-hauling 
+truck drivers in rural areas often contend with lengthy detours to find 
+a bridge able to handle the weight; these detours consume fuel and 
+time. In addition to the problem of weight-limited bridges, 80 percent 
+of the bridges in the U.S. that are rated to be in poor condition are 
+in rural areas.
+    Not surprisingly, a disproportionate number of roadway fatalities 
+occur in rural areas based on exposure measures like population and 
+VMT. While only one-fifth of the Nation's population lives in rural 
+areas, in 2018, 46 percent of the Nation's highway fatalities occur on 
+rural roads. Breaking that down into deeper categories, in 2018, 72 
+percent of large truck occupant fatalities, 67 percent of pickup 
+occupant fatalities, and fifty-eight percent of SUV occupant fatalities 
+occur in rural areas. And, the highway fatality rate per 100 million 
+VMT in rural areas is more than twice that of urban areas. It is worth 
+noting that 44 percent of personal vehicle miles traveled on rural 
+roadways are driven by urban residents traveling to destinations 
+outside their home metro areas, so rural roadway safety matters for our 
+entire country.
+    Many people living in rural and tribal communities can ill-afford 
+to drive the considerable distances they must travel to work and other 
+destinations. That is why 81 percent of U.S. counties provide rural 
+transit service. The disparity in transportation conditions between 
+urban and rural communities are exacerbated because urban communities 
+are better equipped to seek out Federal resources to address their 
+needs. Rural areas often lack the capacity to fully compete for Federal 
+transportation infrastructure funding.
+    This Administration is working hard through the Department of 
+Transportation to ensure that rural and all other communities are 
+treated fairly and equitably.
+The Department's Efforts and Achievements
+ROUTES: Rural Opportunities to Use Transportation for Economic Success
+    Addressing these disparities calls for a sharper focus on our 
+investments in rural areas to meet national priorities such as 
+improving safety and economic competitiveness in all parts of the 
+country. That's why Secretary Chao launched the ROUTES initiative, in 
+October 2019. The ROUTES initiative will improve how the DOT considers 
+rural project applications in our discretionary grant programs, 
+including ensuring that project costs, local resources, and the 
+benefits to the American people and economy are appropriately 
+considered. Under this initiative, ROUTES will provide rural areas with 
+user-friendly information to improve planning and development of grant 
+applications. It will also give projects in rural communities due 
+consideration in grant programs, to assist in meeting their 
+transportation needs.
+    Under the initiative, the Department has already begun collecting 
+input from stakeholders on the benefits rural projects offer for safety 
+and the economy, as well as the types and degrees of assistance rural 
+projects require. The Department recently issued a Request for 
+Information (RFI) seeking input on a number of rural transportation-
+related issues. This includes comments and data pertaining to current 
+unmet needs in rural transportation, barriers rural communities face in 
+addressing these transportation needs, stakeholders' experiences with 
+applying to and using DOT discretionary grant and credit programs, and 
+opportunities for the DOT to improve its services and technical 
+assistance to rural communities in relation to these grant and credit 
+programs, within the limits of statutory requirements. The RFI closed 
+yesterday, and, as of Friday January 24, we had already received input 
+from 130 respondents, and we expect this is just the beginning of an 
+effort to launch more data-driven approaches to better assess the need 
+for and benefits of rural transportation infrastructure projects.
+    Given the feedback we have been receiving, we are trying to make 
+DOT's discretionary grants easier for rural applicants to understand. 
+For instance, we are currently developing a Toolkit that will help 
+rural (and other) applicants identify which discretionary grant 
+programs could help fund their particular safety and infrastructure 
+priorities. We expect to make the Toolkit available this spring.
+    We have also established the ROUTES Council, an internal 
+deliberative body of DOT leadership that will review and use input from 
+the RFI as well as other public input to improve the alignment of the 
+Department's discretionary funding programs with the needs of rural 
+communities to address National transportation goals. The Council held 
+its first meeting in November 2019 and met again on-schedule in 
+January. It will review feedback received through the RFI and seek 
+additional input from stakeholders, starting with State DOTs, local 
+governments, and national organizations. The Council will identify 
+critical rural transportation concerns, coordinate efforts among DOT's 
+Operating Administrations, and shape the resources ROUTES avails to 
+rural stakeholders.
+Other Efforts
+    In addition to the new ROUTES initiative, the Department is also 
+seeking other opportunities to benefit rural and other communities. 
+Just two weeks ago, for example, Secretary Chao announced an 
+interactive map application showing transportation infrastructure 
+against a background layer featuring the U.S. Internal Revenue 
+Service's designated Opportunity Zones and the U.S. Census Bureau's 
+Urbanized Areas. Using the map, potential investors can discover which 
+Qualified Opportunity Zones, many of which are in rural communities, 
+offer good transportation connectivity. At the same time, other 
+investors can identify rural Opportunity Zones that would benefit from 
+private investment in transportation.
+Grants
+    As previously mentioned, a meaningful way to help rural America is 
+through discretionary grants. Just two months ago, in November 2019, 
+Secretary Chao announced the award of $900 million to 55 infrastructure 
+projects in 35 states through the Better Utilizing Investments to 
+Leverage Development (BUILD) Transportation Discretionary Grants 
+program. Fifty percent of that investment was awarded to 31 projects in 
+rural communities. In the previous year, the Department awarded $965 
+million--64 percent of its $1.5 billion appropriation--to 62 rural 
+projects.
+    Last July, the Secretary announced the award of $856 million in 
+Infrastructure for Rebuilding America (INFRA) grants. Fifty-four 
+percent of those awards, $465 million, went to rural projects, far 
+exceeding the FAST Act's statutory requirement of 25 percent. And, 10 
+percent of the FY 2019 INFRA investment was awarded to small projects 
+with costs between $5 million and $25 million, most of which were in 
+rural communities. Two weeks ago, the Secretary announced the Notice of 
+Funding Opportunity for the FY 2020 INFRA grants, and the Department 
+will continue to adhere to or surpass the statutory requirements.
+    The Department's Operating Administrations were also mindful of 
+rural America in their FY 2019 funding practices. For example, in FY 
+2019, the Federal Transit Administration (FTA) awarded $119 million in 
+Buses and Bus Facilities Discretionary Grants, 28 percent of the 
+program's total awards, to projects in rural communities. FTA also 
+awarded 41 percent of its Innovative Coordinated Access and Mobility 
+Pilot Program grants, $3.9 million, to rural projects, and a full 100 
+percent of its Tribal Transit Program awards, $5 million, went to rural 
+communities.
+    Also in FY 2019, the Federal Railroad Administration awarded $179 
+million in Consolidated Rail Infrastructure and Safety Improvements 
+(CRISI) awards to rural projects, 31 percent of its awards for that 
+year. And, in August 2019, the Federal Highway Administration awarded 
+$225 million in grant funding under the Competitive Highway Bridge 
+Program (CHBP) to 20 bridge improvement projects in 18 states, all of 
+which have population densities fewer than 100 persons per square-mile.
+    These awards alone, only a sample of the Department's effort in the 
+past 13 months to champion rural transportation improvements through 
+discretionary grant awards, total more than $2.4 billion. These grants 
+are a powerful tool the Department is using to address rural 
+transportation needs, in addition to the Operating Administrations' 
+formula grant funding, much of which is also targeted for rural 
+communities.
+The Build America Bureau is developing products and processes 
+        specifically tailored to rural communities
+    Authorized by the 2015 FAST Act and established in July 2016, the 
+Department's Build America Bureau administers the Transportation 
+Infrastructure Finance and Innovation Act (TIFIA) and Railroad 
+Rehabilitation and Improvement Financing (RRIF) credit programs, 
+administers the INFRA grant program, allocates Private Activity Bonds, 
+and serves as a one-stop shop for project sponsors to assist them in 
+navigating the complex regulatory, governance and financial processes 
+necessary in delivering successful transportation projects.
+New Executive Director
+    The Bureau's Executive Director, Morteza Farajian, Ph.D., joined 
+the Department in April 2019. Formerly, he served as Acting Deputy 
+Secretary of the Virginia Department of Transportation (VDOT) and 
+Director of that State's Public-Private Partnership (P3) program 
+office.
+Three Loans Issued During the Past 90 days
+    Dr. Farajian's experience as a practitioner is already paying 
+tangible dividends as three new loans have been issued by the Bureau in 
+just the past 90 days alone. These loans, totaling $1.6 billion, will 
+result in the delivery of $6 billion in new transportation 
+infrastructure The Bureau's participation in these projects alone has 
+generated more than $3 billion in non-Federal capital investment, 
+further leveraging Federal dollars.
+    The Bureau is implementing two overarching goals that will benefit 
+American transportation infrastructure in general and rural communities 
+in particular:
+
+   Enhance the pipeline of eligible projects to fully utilize 
+        the capacity provided by Congress, and;
+
+   Diversify the pipeline of eligible projects by geography 
+        (i.e., urban and rural, new States, etc.) size, and type (i.e., 
+        highway, transit, rail, port, etc.), to ensure an equitable 
+        distribution of program benefits.
+
+    To achieve these goals, the Bureau is focusing on three key 
+activities that will enable increased utilization and a more diverse 
+pipeline of projects. They are:
+
+   Conduct active, focused outreach to prospective borrowers 
+        that may not know of the Bureau, or of its new products and 
+        services. This activity includes the development and delivery 
+        of products that are best suited to underserved borrowers;
+
+   Enhance the scope and scale of technical assistance to 
+        project sponsors, especially new, smaller borrowers, and;
+
+   Continue to streamline the credit process, improving 
+        efficiency and reducing costs to borrowers.
+
+    The Bureau has considerable lending capacity and expertise to 
+significantly expand its loan portfolio, including loans to rural 
+borrowers.
+Tailored Products
+    Historically, the TIFIA loan program has financed large, complex 
+highway, bridge and transit projects that largely serve urban 
+communities. We have the capacity to continue to support these 
+projects. However, the TIFIA and RRIF loan programs--with some 
+modifications (within our existing authorities)--can be tailored to 
+focus on helping other geographic areas and asset classes that have, 
+until now, not received Bureau assistance. One area of Bureau 
+innovation that has been particularly valuable for rural communities is 
+the effort to develop products tailored to the specific needs of these 
+communities.
+TIFIA Rural Project Initiative
+    The first of these is the TIFIA Rural Projects Initiative (RPI), 
+which Secretary Chao announced in November, 2018. RPI represents a 
+targeted and significant easing of financial barriers to participation 
+in the TIFIA program--while maintaining robust creditworthiness 
+standards to protect taxpayers. By combining existing authorities, the 
+Bureau offers qualified borrowers a number of significant benefits.
+    An eligible RPI project is one that is not inside a U.S. Census 
+Bureau-designated urbanized area with a population greater than 150,000 
+persons and that has eligible project costs not greater than $100 
+million. For qualifying projects with total eligible costs between $10 
+million and $75 million, the usual application costs (e.g., the cost of 
+procuring independent financial and legal advisors) may be paid by DOT. 
+This often represents a savings of several hundred thousand dollars. 
+Eligible RPI may borrowers receive a 50 percent interest rate 
+reduction. As of mid-January, a rural project could receive a loan at a 
+fixed interest rate of slightly over one percent for 30 or more years. 
+Additionally, some rural borrowers may benefit from the Bureau's 
+flexibility--we can also provide short-term assistance at even further 
+reduced interest rates. In addition to the lower interest rate 
+available under RPI, eligible project sponsors under this program can 
+borrow up to 49 percent of a project's eligible costs instead of the 33 
+percent ceiling more typical of a TIFIA loan.
+    Currently, the Bureau is providing technical assistance to develop 
+12 RPI projects in eight states. This represents approximately 10 
+percent of the projects in the Bureau's pipeline.
+RRIF Express
+    Small and medium-sized freight railroads represent a significant 
+opportunity for economic growth in rural communities. Even small 
+marginal savings in shipping costs for agricultural, mining, energy or 
+manufacturing goods can have a major impact in global competitiveness, 
+and about 80 percent of short line and regional freight railroads are 
+in rural America. As such, the Bureau has developed a pilot program 
+that focuses on improving the borrowers experience for short line and 
+regional railroads, called RRIF Express, which I announced in mid-
+December, 2019.
+    Although the Bureau has, since its inception, closed four loans 
+under the Department's RRIF program, in its current form, RRIF is 
+significantly undersubscribed by smaller railroads. Like TIFIA RPI, 
+RRIF Express eases several financial barriers for prospective 
+borrowers. A qualifying RRIF Express borrower is a U.S. Class II or III 
+short line or regional railroad, seeking a loan up to $50 million that 
+meet the requirements set forth in the Notice of Funding Opportunity.
+    The cost of paying for the Bureau's external financial and legal 
+advisors and the Credit Risk Premium often poses a significant obstacle 
+for prospective RRIF borrowers. Under the RRIF Express initiative, 
+these costs are paid by DOT, using funds from appropriations. In 
+addition, RRIF Express also promises to expedite the credit process by 
+streamlining reviews and speeding the procurement of outside advisors.
+    The 90-day application window for RRIF Express opened on January 
+13, 2020 and we hope to receive a healthy number of qualified 
+expressions of interest.
+Innovative Procurement Model--Short-Term Design Build Finance
+    The TIFIA loan program can provide loans of up to 35 years after 
+the date of substantial completion. However, we are learning that some 
+jurisdictions, including State DOTs, might benefit more from shorter-
+term loans to increase efficiency and reduce the costs of projects they 
+otherwise would deliver in phases. A high proportion of these 
+jurisdictions are in rural America.
+    When projects are phased, costs and schedules can increase 
+considerably: multiple mobilizations, de-mobilizations, numerous 
+contracts and sequential construction all impact cost and schedule. 
+Future phases of construction also incur cost escalations, often 
+exceeding four percent annually.
+    Additionally, because rural projects often are not good candidates 
+for tolling, they often overlook Bureau credit as a financing option at 
+all.
+    To address these gaps, the Bureau has introduced an innovative 
+procurement concept that offers alternatives that allow project 
+sponsors to construct projects more quickly in a single phase, 
+potentially reducing costs due to single contract, single mobilization, 
+but also avoiding annual cost escalations incurred by future phases.
+    Under this concept, projects can proceed into construction of all 
+phases in a single procurement and utilize shorter-term loans, further 
+reducing costs. This procurement can take the form of a Design-Build-
+Finance procurement, where the developer actually borrows from the 
+Bureau while also delivering into service new or upgraded 
+transportation options more quickly.
+    Because the Bureau can lend to the contractor and not the public 
+sponsor, this can be particularly useful for projects whose sponsors 
+lack borrowing authority, or those who typically use a pay-as-you-go 
+infrastructure funding model.
+    In short, the Bureau--in engaging jurisdictions that have not 
+typically borrowed from TIFIA and/or RRIF--is finding that a one-size-
+fits-all approach to lending is not optimal and offering a wide variety 
+of financing options can help a far more diverse pool of applicants 
+deliver their projects more efficiently and at lower cost.
+Education & Technical Assistance
+    Since April, 2019, the Bureau has increased its Outreach and 
+Project Development (OPD) team by 150 percent, adding six staff 
+members, all of whom bring considerable experience. This team has been 
+instrumental in performing more up-front planning with project sponsors 
+and providing more technical assistance to project sponsors earlier in 
+the project cycle.
+    This earlier and more active engagement will facilitate a faster 
+credit process with less re-work and inefficiency, especially for 
+smaller, first-time borrowers such as rural project sponsors. It also 
+will help project sponsors avoid inadvertently making the project 
+ineligible for a loan by taking actions such as initiating non-
+qualified procurements, missing critical environmental review 
+requirements or not sourcing materials in the United States. Sponsors 
+of larger projects, typically urban or suburban, often avoid this type 
+of misstep thanks to experienced internal resources and to the 
+participation of outside consultants and advisors. Project sponsors 
+less experienced with Federal processes and less able to access the 
+valuable expertise of outside consultants cannot benefit from this 
+advantage, an inequity that earlier Bureau participation from a more 
+well-staffed OPD team will remediate. In addition to allowing the 
+Bureau to support more projects earlier in their development, a fully 
+staffed OPD team allows the Bureau to educate more prospective project 
+sponsors about the Bureau's products and services.
+    While the Bureau continues to represent itself at the larger, main-
+stream infrastructure and public-private-partnership (P3) conferences 
+and events, we have also targeted the events that cater to smaller 
+jurisdictions, rural communities, towns and counties. To educate 
+potential project sponsors and access more prospective projects, the 
+Bureau is now focusing on these venues, including, for example, the 4th 
+National Technical Assistance Conference of the Rural Transit 
+Assistance Program this past October. We look forward to introducing 
+the Bureau, its products, and its services to the membership of the 
+National Association of Towns and Townships this March.
+    We have also participated in regional meetings sponsored by the 
+U.S. Department of Commerce's Economic Development Administration 
+(EDA), including sessions in West Virginia and southeastern 
+Massachusetts, where the EDA convenes planners from distressed 
+communities seeking technical assistance to develop the infrastructure 
+needed for economic growth.
+    The Bureau has also increased its work with like-minded 
+organizations such as the Association of American State Highway and 
+Transportation Officials, planning associations, contractors and 
+industry groups. This has borne considerable fruit already.
+    The Bureau's recent engagement with the American Short Line and 
+Regional Railroad Association was instrumental in the successful launch 
+this past December of the RRIF Express pilot program for Class II and 
+III short line and regional railroads.
+State visits
+    Another important recent initiative is the Bureau's outreach to new 
+States. Under this initiative, the Bureau has reached out specifically 
+to States with little or no DOT credit experience or other Bureau 
+engagement. Many of these states are largely rural.
+    Bureau leadership visits the State capital for a full day of 
+meetings introducing the Bureau to the State DOT director or secretary, 
+participants from the Governor's office and congressional delegation, 
+key State legislators, administrators of the various State DOT 
+departments, economic development organizations, planners, and county 
+and municipal leaders. Many of the participants during these visits 
+indicate they had never heard of the Bureau or the Department's credit 
+programs and that they plan to utilize the Bureau and its products and 
+services in the future.
+    Since June 2019, the Bureau has visited with ten new states, 
+including Alabama, Mississippi, Wisconsin, Minnesota, North Dakota, 
+Montana, Nevada, Connecticut, Pennsylvania, and Louisiana. Those visits 
+have resulted in nearly two dozen prospective projects. Currently, the 
+Bureau has visits planned with Tennessee and New Mexico, and specific 
+discussions are underway with four other states: Arkansas, Arizona, 
+Maine, and Vermont.
+Regional Infrastructure Accelerators
+    Another element in the Bureau's ongoing mission to provide more 
+technical assistance to rural communities is the Regional 
+Infrastructure Accelerator program. By pooling resources, regional 
+accelerators can assist local governments in developing improved 
+infrastructure priorities and financing strategies for the accelerated 
+development of projects, many of which would be eligible for TIFIA, 
+RRIF and other innovative programs. Accelerators will act as 
+multipliers of the Bureau's existing staff and resources, helping 
+develop infrastructure planning and delivery capacity in rural 
+communities and elsewhere.
+    As a result of last month's $5 million Congressional appropriation, 
+the Bureau is developing a Request For Information to seek input from 
+interested parties about the most effective, transparent and expedient 
+ways to structure and deliver the accelerator program. Upon receipt of 
+public feedback, we intend to issue a Notice of Funding Opportunity to 
+fund, through grants, a small number of Regional Infrastructure 
+Accelerators as a demonstration program that will continue to explore 
+more innovative and efficient ways to identify, finance and deliver 
+projects--especially in small town America.
+Conclusion
+    The Department of Transportation and its Build America Bureau have 
+placed a long-overdue emphasis on Rural America. Through the ROUTES 
+Initiative, discretionary grant programs and the innovative solutions 
+offered by the Bureau, we have been focusing, and are continuing to 
+focus, all available resources and authorities on solutions for rural 
+communities. Focused Bureau outreach, tailored products such as TIFIA 
+RPI, RRIF Express, Build It Now and others, combined with technical 
+assistance and streamlining the process have already begun to produce 
+tangible dividends for small-town America.
+    We know we have much more work ahead as we continue the important 
+job of solving those challenges and improving the both the safety and 
+connectivity of transportation in rural America. We look forward to 
+working with the Committee and other partners to continue to remove 
+barriers to safety, economic growth and mobility for rural and urban 
+communities alike.
+    Thank you.
+
+    The Chairman. Thank you, Mr. Szabat. I see we have been 
+joined by the Ranking Member of our Committee, Senator 
+Cantwell. I would like to recognize you at this time for any 
+comments you would like to make.
+
+               STATEMENT OF HON. MARIA CANTWELL, 
+                  U.S. SENATOR FROM WASHINGTON
+
+    Senator Cantwell. Thank you, Chair Fischer. Thank you so 
+much for you and Ranking Member Duckworth for holding this 
+hearing. There couldn't be anything more dear to our heart in 
+the Northwest than building infrastructure, and I would like to 
+welcome former Superior Court Judge McCarthy who is now in a 
+new role as the Co-Chair of the Northwest Seaport Alliance.
+    Judge McCarthy has done great work as a port Commissioner 
+and working on a lot of the issues on the waterfront because he 
+was also a longshoreman. So the perspective I hope that he will 
+bring to this morning's hearing is his diverse background on 
+these issues at a point in time when United States freight is 
+supposed to expand by 40 percent over the next decade. I think 
+we feel that on the Pacific coast as we are shipping so much 
+West coast product all the way to Asia--I mean so much Midwest 
+product all the way to Asia.
+    The throughput of these ports is essential and so is your 
+work here on the Subcommittee and helping us get a surface 
+transportation bill, and the key focus of this Committee which 
+is the infrastructure piece. So, thank you. I couldn't be more 
+thrilled that you are having his hearing this morning. I know 
+both of you and your states are committed to getting 
+improvements to freight mobility, so thank you so much, and 
+thank you to our witness, Mr. McCarthy, for being here this 
+morning.
+    The Chairman. Thank you, Senator Cantwell. Next, I would 
+like to recognize Dr. Farajian, who is the Executive Director 
+of Build America Bureau. Before he joined the Department in 
+April 2019, he served as Acting Deputy Secretary of 
+Transportation and was Director of Public Private Partnerships 
+at the Virginia Department of Transportation. Welcome, doctor.
+
+              STATEMENT OF MORTEZA FARAJIAN, Ph.D.
+
+           EXECUTIVE DIRECTOR, BUILD AMERICA BUREAU,
+
+               U.S. DEPARTMENT OF TRANSPORTATION
+
+    Mr. Farajian. Thank you, Chairman Fischer, Ranking Member 
+Duckworth, and members of the Subcommittee. We appreciate the 
+opportunity to share with you the steps that the Build America 
+Bureau has taken to facilitate better transportation in 
+America's rural communities.
+    As you know, under Secretary Chao's leadership, the entire 
+Department has placed an emphasis on rural America. In addition 
+to implementing the ROUTES initiative and the discretionary 
+grant programs that Mr. Szabat just talked about, we have been 
+working on new programs that directly support the 
+Administration and Secretary Chao's priorities for more 
+efficient transportation infrastructure investment in America. 
+In general, the Bureau is implementing two overarching goals: 
+enhance the pipeline of eligible projects to fully utilize the 
+existing capacity, and diversify the pipeline of eligible 
+projects to ensure an equitable distribution of program 
+benefits.
+    To achieve these goals, the Bureau is focusing on three key 
+initiatives: continuing to streamline the credit process, 
+improve efficiency, and reduce costs to borrowers, conducting 
+focus outreach the potential borrowers, and enhancing the scope 
+and scale of technical assistance to project sponsors, 
+especially new, smaller borrowers. There are 33 states that 
+have not taken advantage of the Bureau's credit programs in the 
+past 15 years. Some of them have shovel-ready projects and non-
+Federal revenues that can be leveraged to deliver those 
+projects.
+    Since June, we have visited with ten of these states. These 
+visits have resulted in nearly two dozen perspective projects 
+that have been added or pipelined. During these visits, we 
+typically meet with a diverse audience from the Governor's 
+Office to State duty leadership and individual jurisdictions 
+such as Mayors, counties, and regional planners. Many of these 
+participants have never heard of the Bureau, but when they 
+learn about the opportunities that our programs provide, more 
+detailed conversations about specific projects tend to follow.
+    In addition to our outreach efforts, we are also developing 
+innovative products to create a more diverse pipeline of 
+projects. Historically, the TIFIA loan program has financed 
+large complex highway bridge and transit projects that 
+primarily serve urbanized and suburban communities. The 
+Bureau's other credit program, RRIF, is significantly 
+undersubscribed by smaller railroads.
+    About 80 percent of the track operated by these short-line 
+and regional freight railroads is in rural America and serves 
+as an economic engine for agriculture, mining, energy, 
+manufacturing, and other industries. While we will continue to 
+support the existing projects, we have tailored initiatives 
+under both TIFIA and RRIF programs to diversify our portfolio 
+and help new project sponsors who until now have not benefited 
+from Bureau's assistance to the same level. The first of these 
+is the TIFIA rural project initiative which Secretary Chao 
+announced in November 2018.
+    Under this initiative, qualified rural borrowers receive an 
+interest rate that is currently around 1 percent. This can be a 
+game changer for small communities, particularly when comparing 
+it to the savings from annual construction cost escalation, 
+which is currently around 4 percent. As of today, we have 13 
+projects under the rural project initiative in 7 different 
+states. This represents approximately 10 percent of our 
+existing pipeline. As we continue to visit new states, this 
+number will likely continue to climb. The second initiative is 
+RRIF Express that was announced last month to assist short 
+lines and regional railroads.
+    A qualifying RRIF Express borrower is a short line regional 
+freight railroad seeking a loan up to $50 million. RRIF Express 
+covers advisor fees and a substantial portion, if not all, of 
+the credit risk premium that has posed a significant obstacle 
+for small railroads. It also expedites the application and 
+review process.
+    In short, a one-size-fits-all approach to lending is not 
+optimal. Therefore, in support of the Administration and 
+Secretary Chao's infrastructure in rural priorities, the Bureau 
+will continue to diversify the pipeline of projects by 
+providing innovative financing programs and educating new 
+borrowers, especially those in rural America. We look forward 
+to working with the Committee--with the Subcommittee, to 
+eliminate obstacles, develop new products and services, and 
+continue to streamline our processes. Thank you.
+    The Chairman. Thank you, doctor. Next, I would like to join 
+Ranking Member Cantwell in welcoming Mr. McCarthy. It is so 
+nice to have you here. Mr. McCarthy is the Co-Chair of the 
+Northwest Seaport Alliance and a Commissioner at the Port of 
+Tacoma. He has previously served as a Pierce County District 
+and Superior Court Judge, a longshoreman, as well as a Member 
+of the Port of Tacoma Commission. Welcome, sir.
+
+  STATEMENT OF HON. JOHN McCARTHY, PORT OF TACOMA COMMISSION 
+     PRESIDENT AND CO-CHAIR, THE NORTHWEST SEAPORT ALLIANCE
+
+    Mr. McCarthy. Good morning Chairwoman Fischer, Ranking 
+Member Duckworth, Ranking Member Cantwell, and members of the 
+Subcommittee. Thank you for the invitation to be here today. 
+The Northwest Seaport Alliance is the fourth largest container 
+gateway in North America, created to manage the joint marine 
+cargo facilities of the ports of Tacoma and Seattle. Our cargo 
+activity employs over 58,000 people, but our focus is much 
+bigger with hundreds of thousands of jobs across rural and 
+urban areas that depend on our facilities.
+    The Alliance does not view the world through our urban or 
+rural lands because our success is embedded in both. More than 
+a quarter of the U.S. GDP is a result of cargo that moves 
+through seaports. Truly seaports serve the entire Nation not 
+just the communities where they are located. Our port is a 
+great example of this. Nearly 60 percent of our imports move 
+beyond the region and our exports originate from all 50 states.
+    As the number two U.S. agricultural port, we are an 
+essential partner to our Nation's farmers. As it relates to 
+waterborne trade, for example, from Nebraska, 8 percent of the 
+state's containerized exports and 26 percent of its 
+containerized imports pass through the NWSA. And from Illinois, 
+we handle at least 10 percent of each of that state's top 10 
+containerized imports.
+    We are also an important gateway for Illinois's 
+containerized export products, including 12 percent of its 
+soybeans and 23 percent of its cereals. Beyond these examples, 
+the Alliance handles about 90 percent of containerized exports 
+from Montana, half of the container exports from Orgon and 
+Idaho, and at least 20 percent from Minnesota, the Dakotas, and 
+Iowa. All of these rural trade dependent commodities need 
+efficient and reliable infrastructure to move goods to market, 
+yet America's port infrastructure is OK, just OK.
+    The American Society of Civil Engineers gives us a low 
+grade, as mentioned by Senator Duckworth. Rapid advancements in 
+freight are driving ports to make significant changes. For 
+example, a tripling of the container capacity of ships in the 
+last decade requires billions of dollars in new investments. 
+And improving our port system requires that we also focus 
+outside seaport gates across the U.S. freight networks. 
+Bottlenecks and the cost of fixing them is often beyond the 
+means of the communities where projects are located.
+    I greatly appreciate the Subcommittee's efforts to increase 
+understanding among policymakers and the public because I do 
+not think our Nation has found the right approach to supporting 
+U.S. ports and moving us beyond a low grade. Before I close, I 
+would like to offer an example from the Northwest. NWSA's main 
+competitors are the Canadian ports of Vancouver and Prince 
+Rupert. We are struggling to compete because the government of 
+Canada has made the success of these ports a national priority 
+and is providing substantial financial support to them.
+    In the past two years, Canada awarded $384 million to just 
+these two ports, which is more than 75 percent of the two-year 
+total for U.S. Department of Transportation support 
+infrastructure development program. Canada is also investing in 
+its freight corridors all the way into the U.S. heartland. This 
+investment has resulted in a 15 percent reduction in our market 
+share in recent years, causing job losses and fewer carrier 
+costs that U.S. exporters depend on.
+    We are committed to maintaining a growing competitive 
+gateway through investments in our port and connecting freight 
+infrastructure, and we are leveraging hundreds of millions of 
+dollars in private sector funds to remain a premier gateway, 
+yet limited funding is a barrier to keeping pace with Canada.
+    And unfortunately, we have had little success securing 
+Federal funding for our projects. The success of Canadian 
+initiatives to enhance its freight network represents a 
+successful partnership between its ports and the Canadian 
+government. In closing, I would respectfully recommend that the 
+Subcommittee consider supporting increased funding for the Port 
+Intermodal Improvement Program, freight formula funds, INFRA, 
+and the elimination of the multimodal funding cap.
+    Thank you once again for the opportunity to share my 
+thoughts about the importance of DOT programs and the 
+interdependence of urban and rural areas as it relates to 
+freight mobility and goods movement. I would be happy to answer 
+any questions that you might have.
+    [The prepared statement of Mr. McCarthy follows:]
+
+  Prepared Statement of Hon. John McCarthy, Port of Tacoma Commission 
+         President and Co-Chair, The Northwest Seaport Alliance
+Introduction
+    Good morning, Chairman Wicker, Ranking Member Cantwell, Chairwoman 
+Fischer, Ranking Member Duckworth and members of the subcommittee. I am 
+John McCarthy, Port of Tacoma Commission President and Co-Chair of The 
+Northwest Seaport Alliance (NWSA). It is an honor to be with you today 
+to discuss the importance of ports to the nation, including rural 
+America, and the critical role Federal partnerships play plays in our 
+ability to effectively serve the Nation's economy. Thank you for the 
+invitation to testify and for the work you are doing to address the 
+challenges facing ports and our freight system.
+    Founded in 1918, the Port of Tacoma is an independent special 
+purpose government with directly elected commissioners representing the 
+people of Pierce County, Washington. The NWSA is a unique partnership 
+formed in 2015 between the ports of Tacoma and Seattle (a similar 
+special purpose government representing the people of King County, 
+Washington) to jointly manage our marine cargo facilities, including 
+the fourth largest container port complex in North America as well as 
+substantial breakbulk, auto, military, and project cargo operations.
+    The primary mission of a port authority is to create and support 
+economic activity by building transportation infrastructure and 
+managing operations at our facilities. In our region, NWSA cargo 
+activity employs over 58,000 people. But our job and our focus are much 
+bigger than the Puget Sound region. The State of Washington is the most 
+trade dependent state in the nation, with 40 percent of all jobs tied 
+to trade, including hundreds of thousands in both rural and urban areas 
+who work for importers and exporters that use our facilities.
+    These job impacts carry far beyond the Puget Sound region because 
+ports are not simply local assets in urban centers. Our port system is 
+a fundamental foundation of the U.S. economy, supporting every corner 
+of the country. At the NWSA we cannot view the world through an urban 
+or rural perspective because our economic success is deeply embedded in 
+both.
+    The investments ports are making create nationwide benefits, but 
+what we're able to do locally is insufficient if our goal is to build a 
+system that enables the U.S. economy to remain among the most 
+competitive in the world. And that should be our goal. It is critical 
+to view our ports and our freight system through the lens of national 
+economic competitiveness and as strategic assets. The modernization of 
+this critical transportation infrastructure should be a top Federal 
+government priority and focus of Federal investment by all grant 
+programs at the Department of Transportation (DOT), including those 
+managed by the Build America Bureau. And as a representative of ports 
+today, I want to highlight the important work the Bureau is doing with 
+ports to drive Federal investment through programs like TIFIA and 
+INFRA. On behalf of all ports we look forward to continuing to work 
+with the Build America Bureau and DOT to facilitate Federal investment 
+and support of our Nation's ports and trade corridors.
+Seaports are Vital to the U.S. Economy
+    Every American depends on the success of our ports because seaports 
+are vital economic engines. Nearly all the country's overseas cargo 
+volume moves through seaports: 99 percent by weight and 64 percent by 
+value. International trade through seaports accounts for over a quarter 
+of the U.S. economy and supports over 31 million American jobs. In 
+2018, seaports generated nearly $5.4 trillion in total economic 
+activity and more than $378 billion in federal, state and local tax 
+revenues.
+    Seaports are critical to the success of U.S. businesses. For 
+agricultural shippers, ports often make the difference in whether their 
+products are competitive in global markets. Manufacturers depend on 
+highly efficient, reliable ports to get their goods to market and to 
+take advantage of the just-in-time processes that are common practice 
+in their industries. Strong ports provide critical advantages to 
+exporters, including lower shipping costs, more frequent calls by ocean 
+carriers serving more export markets, shorter time to market and 
+greater vessel capacity and container availability. If we hope to 
+increase U.S. exports and economic competitiveness more broadly, 
+enhancing our port system is essential.
+    Seaports serve the entire nation, not just the coastal and Great 
+Lakes states in which most seaports are located. Our port is a great 
+example of this. Nearly 60 percent of our containerized import volumes 
+are bound for the Midwest and other destinations outside the Pacific 
+Northwest. Our export cargo originates from all 50 states. While our 
+port is located in an urban area, we represent critical infrastructure 
+for the Nation's agricultural industry and the rural communities that 
+depend on it. In fact, according to the U.S. Department of Agriculture, 
+the NWSA is the second largest port in the country as measured by 
+agricultural trade tonnage.
+    In specialized agriculture markets the importance is even more 
+pronounced. For example, the NWSA is the Nation's leading export 
+gateway for refrigerated agriculture products, representing nearly 20 
+percent of national volumes. In the Northwest, among the top eleven 
+export markets for both apples and pears, nine of them depend on our 
+seaports. For Washington's potato industry 70 percent of the 10 billion 
+pounds of potatoes produced were exported, the vast majority of which 
+passed through NWSA seaport facilities.
+    The Washington state forage product industry is one of the best 
+examples of how competitive ports can affect jobs in an export-
+dependent industry. Forage products like hay are the largest export by 
+volume through the NWSA. However, our state's hay exports have been 
+constrained by limited vessel capacity and container availability, 
+which have been exacerbated by our loss of market share to expanding 
+Canadian ports, as well as by congested freight infrastructure. Given 
+the relatively low margins, small increases in cost have serious 
+implications for the future of the animal feed industry in the Pacific 
+Northwest.
+    As it relates to Nebraska, 8 percent of the state's containerized 
+waterborne exports pass through the NWSA, as do 26 percent of its 
+containerized waterborne imports and 10 percent of total imports.
+    And in Illinois, the NWSA handles at least 10 percent of each of 
+the state's top ten containerized waterborne imports. We also are an 
+important gateway for critical export products, including 12 percent of 
+Illinois' containerized soybean exports, 23 percent of containerized 
+cereal exports, 15 percent of oilseed exports, 10 percent of meat 
+exports, and 15 percent of dairy exports.
+    Beyond these examples, the NWSA handles about 90 percent of 
+containerized cargo from Montana, half of containerized exports from 
+Oregon and Idaho, and at least 20 percent from Minnesota, the Dakotas, 
+and Iowa. Most U.S. soybeans are grown in the Midwest and 23 percent of 
+all U.S. soybean exports including those from Nebraska and Illinois are 
+shipped through bulk and container terminals in the Pacific Northwest.
+    All of these rural, trade-dependent commodities need well 
+maintained, efficient and reliable infrastructure to move goods to 
+market both in the U.S. and abroad. Currently, it costs two to three 
+times MORE to ship a container of apples from Washington state to the 
+East Coast than it does to ship it to China. And of that cost of 
+shipping to Asia, as much as 40 percent is the cost of moving it from 
+the packing facility to the port itself. These products cannot move 
+without sufficient port and freight infrastructure. This is why rural 
+America understands and supports ensuring ports and freight corridors 
+into and through urban areas are well maintained and efficient.
+Our Port System's Infrastructure Challenges
+    Unfortunately, our ports and our freight system do not always get 
+the attention they deserve. I greatly appreciate the subcommittee's 
+efforts to increase understanding among policymakers and the public 
+because I do not think our Nation has found the right approach to 
+supporting its ports.
+    America's port infrastructure is OK. Just OK. The American Society 
+of Civil Engineers gives us a C+ in their Infrastructure Report Card. 
+Building a more modern port system requires that we address a long list 
+of shortcomings. Because the scope of this challenge is so great, 
+additional Federal investment and focus will be needed if we are to be 
+truly successful in this endeavor.
+    We need to not only maintain what we have in a state of good 
+repair, but also expand our ability to handle more cargo. This requires 
+ongoing and often significant investment, as many seaport terminals are 
+in need of major rehabilitation. In addition, ports need to increase 
+our capacity and efficiency to manage increased volumes. By 2045, DOT 
+estimates that container traffic at ports will be driven by a doubling 
+in the volume of imports and exports transported by our freight system.
+    Remaining competitive requires more than simply maintaining the 
+status quo. Rapid developments in our industry are driving ports to 
+make transformational changes. One of the most significant dynamics is 
+the dramatically increasing size of container ships. The average ship 
+calling at NWSA terminals about ten years ago could hold 5,000 to 6,000 
+twenty-foot containers. Today we receive calls on a weekly basis from 
+container vessels that can hold more than 13,000 containers, and 
+18,000-container ships are on the way soon. These vessels are longer 
+than five Boeing 747s and larger than an aircraft carrier. 
+Accommodating these larger ships require major investment at ports, 
+including deeper berths and navigation channels; larger cranes and 
+stronger docks to support them; electrical grid upgrades; additional, 
+high-efficiency cargo-handling equipment; and improvements to container 
+yards and intermodal facilities.
+    Alongside these projects, ports often must make investments to 
+mitigate the impacts of rising cargo volumes on neighboring 
+communities, which bear a disproportionate burden in supporting U.S. 
+trade flows. In addition, government regulations, community 
+expectations and customer demands increasingly require that we build 
+infrastructure in a more resilient and environmentally friendly 
+fashion. While necessary, this increases costs considerably.
+    Modernizing port terminal infrastructure at a pace sufficient to 
+remain competitive globally is already challenging enough for ports. 
+Yet improving our port system also requires that we look outside 
+seaport gates to the road and rail infrastructure that connects ports 
+to the rest of the national freight system. Upgrading this 
+infrastructure is even more costly than for marine terminals. An 
+additional challenge is that the roads, rails, bridges, tunnels, and 
+waterways that connect ports with the markets they serve are typically 
+outside port boundaries and thus are the responsibility of 
+municipalities, counties, states or the Federal government. Bottlenecks 
+in the supply chain can be found all over the country, but the cost of 
+prioritizing and fixing them is often beyond the means of the 
+jurisdictions in which the projects are located. Furthermore, building 
+a railroad overpass, for example, might be more important to an 
+exporter in a faraway state than it is to the local community that must 
+approve taxing themselves to pay for that overpass. This is why the 
+work of the DOT and Build America Bureau is important to ports. We need 
+Federal investment to bridge the gap through grant programs like INFRA 
+or loan programs like TIFIA to help communities bring to fruition these 
+critical infrastructure projects that provide nationwide benefits.
+    To that end, U.S. ports have identified $66 billion in needed 
+investments in terminal, road, rail and waterway infrastructure over 
+the next ten years.
+Significant Near-Term Investment in Freight is Key to U.S. 
+        Competitiveness--A Pacific Northwest Example
+    I would like to offer an example from the Pacific Northwest that 
+demonstrates the high stakes of the decisions our Nation faces about 
+how to prioritize ports and freight infrastructure and what role the 
+Federal government should play. To me it a case study for why 
+maintaining the status quo is not sustainable.
+    The port business is competitive, especially over discretionary 
+cargo bound for inland regions that can be shipped through any number 
+of ports. NWSA's main competitors are the nearby Canadian ports of 
+Vancouver and Prince Rupert, which in recent years have been 
+aggressively targeting U.S.-bound cargo. A key reason why we have 
+struggled to overcome the competitive threat from our neighbors to the 
+north is because the government of Canada has designated the 
+development of their West Coast ports to capture U.S. bound cargo as a 
+national priority and is providing substantial financial and policy 
+support to ensure they succeed.
+    Canadian Federal government funds have helped Vancouver and Prince 
+Rupert build highly competitive marine terminals and are continuing to 
+support their expansion. In the past two years the government of Canada 
+awarded $US 384 million to the ports of Vancouver and Prince Rupert 
+alone for projects that support goods movement through those ports. 
+Canadian Federal contributions in their trade gateways have been 
+mirrored by Federal investments along the entire trade corridor that 
+connects the ports to population centers in the Canadian and U.S. 
+heartland. Transport Canada has launched initiatives and adopted wide-
+ranging policies to improve performance of their ports and the goods 
+movement system. Because of the high priority Canada has placed on 
+optimizing their goods movement system, they now offer an efficient and 
+lower-cost alternative to shipping through ports in the U.S. Pacific 
+Northwest. As a result, the NWSA lost 15 percent of our market share to 
+the British Columbia ports in the decade following the opening of 
+Prince Rupert's container terminal in 2007. In addition to continuing 
+to expand on the West Coast, Canada has plans to repeat this success on 
+the East Coast.
+    The diversion of cargo from our ports to ports in Canada has 
+resulted in the loss of U.S. transportation sector jobs. It also has 
+reduced ocean carrier calls and, critically, the supply of returning 
+containers that exporters depend on, which increases shipping costs and 
+erodes or eliminates the competitiveness of their products in 
+international markets--as demonstrated by hay growers in Washington 
+state. If the Canadian ports continue to realize their goals for growth 
+at the expense of U.S. ports, the economic consequences for our region 
+and the agriculture exports from rural America I highlighted previously 
+could be grave.
+    The NWSA is committed to maintaining a growing and competitive U.S. 
+trade gateway in the Pacific Northwest. The cornerstone of our strategy 
+to respond to the challenge from Canada is ensuring we have the high-
+capacity, high-efficiency infrastructure we need to remain a preferred 
+port of call. The NWSA is making substantial investments to modernize 
+our marine terminals and deepen our waterways. And we are contributing 
+to projects in other jurisdictions that improve freight mobility 
+through our port, including evaluating intermodal yards to strengthen 
+our connectivity to rural communities.
+    Yet limited funding is a barrier to developing infrastructure at a 
+pace sufficient to keep up with Canada. We already are leveraging 
+hundreds of millions of dollars in direct private sector contributions 
+in support of our infrastructure efforts. Unfortunately, even though 
+our port is a critical economic asset for our nation, we have had 
+little success in obtaining Federal funding support for these 
+initiatives.
+    This resource challenge coupled with other cost drivers outside the 
+control of our ports increases the Canadian advantage. For example, the 
+major West Coast ports in the U.S. and Canada are blessed with 
+naturally deep harbors that do not require regular dredging. Yet U.S. 
+importers utilizing the ports of Tacoma, Seattle, Los Angeles and Long 
+Beach still are charged an ad valorem tax of .125 percent, known as the 
+Harbor Maintenance Tax (HMT), to maintain U.S. navigation channels. The 
+collections at just these four naturally deep harbors account for 
+approximately one-third of total HMT collections, but our ports receive 
+almost nothing in return. Conversely, Canadian West Coast ports do not 
+charge an equivalent tax, which creates a cost differential on average 
+of $125 per container that is driving U.S.-bound cargo to Canadian 
+ports. Similarly, rail rates to move containerized cargo from West 
+Coast ports to the Midwest are significantly higher than those charged 
+by the two Class 1 Canadian railroads.
+How Can the Federal Government Help?
+    We need to rethink our Nation's approach to port and freight 
+infrastructure policy and funding. The success of Canadian initiatives 
+to enhance its West Coast ports and the infrastructure that supports 
+international trade demonstrates the positive returns a better 
+partnership between ports and the Federal government can bring, 
+including job growth and increased export competitiveness. A more 
+proactive stance by the U.S. Federal government is justified given the 
+importance of ports to the entire U.S. economy. And not only is greater 
+Federal government involvement justified, it is absolutely necessary to 
+overcome the policy and funding challenges ports are facing.
+    I recommend this subcommittee explore the following actions.
+
+  1.  Increase funding for the Port Infrastructure Development Program/
+        Port and Intermodal Improvement Program
+
+     The NWSA and other U.S. ports were encouraged by the creation of 
+        the Port Infrastructure Development Program, which is now known 
+        as the Port and Intermodal Improvement Program, and I would 
+        like to thank Chairman Wicker and Ranking Member Cantwell for 
+        your efforts to authorize it. Congress appropriated $225 
+        million for this program for Fiscal Year 2020. While this will 
+        provide U.S. ports a tangible boost, it should be viewed as a 
+        beginning. As I highlighted above, nearly this level of funding 
+        was provided annually to just two Canadian ports by the 
+        Canadian Federal government. We urge Congress to prioritize 
+        this key program and to increase its authorized funding level 
+        in the upcoming reauthorization.
+
+  2.  Increase funding for the FAST Act's INFRA and freight formula 
+        programs
+
+     U.S. ports view the INFRA and freight formula funding programs 
+        created in the FAST Act as another step in the right direction. 
+        Yet funding levels for these programs are not sufficient to 
+        meet the needs of our gateways and trade corridors. The INFRA 
+        program is oversubscribed. In the combined FY19 funding round, 
+        DOT received $11 in unique requests for every $1 available. 
+        State planning efforts required by the FAST Act have 
+        demonstrated that the freight formula program also is 
+        underfunded. With the FAST Act expiring this year, Congress has 
+        an opportunity to increase funding levels for these programs.
+
+  3.  Remove multimodal funding caps on the INFRA and freight formula 
+        programs
+
+     Freight does not move by highways alone, as the Committee well 
+        knows. Our freight system is multimodal, and our freight 
+        programs should reflect that reality if they are to be 
+        effective. The FAST Act funding programs currently have 
+        limitations on the amount of funding that can go to non-road 
+        projects. Funding for these multimodal projects is capped at 
+        $500 million over five years in the INFRA program and 10 
+        percent of freight formula funding. I recommend these caps be 
+        removed. This will allow our Nation to more quickly modernize 
+        our seaports, as well as the first and last mile projects that 
+        connect us to the rest of the freight system to move goods, 
+        which have often fallen through the cracks in traditional 
+        Federal infrastructure funding programs.
+
+    In closing, I appreciate the opportunity to share my thoughts with 
+you about the importance of DOT programs and the interdependence of 
+urban and rural areas as it relates to freight mobility and goods 
+movement. It is essential that we embrace a wholistic view of the 
+supply chain to ensure that Federal freight investment is not viewed 
+simply through a rural vs. urban lens. Without enhanced Federal support 
+for freight we will continue to earn no better than a C+. And this 
+mediocrity will not allow us to overcome the challenges limiting our 
+export competitiveness, to support a modern global economy, or to 
+compete with our neighbors to the north or south that seek to supplant 
+U.S. ports as gateways to America's heartland and beyond, which will 
+result in grave consequences for rural agriculture communities 
+throughout our country.
+    I appreciate the Committee's continued leadership and the ongoing 
+commitment of Senator Cantwell specifically to help bring freight to 
+the forefront and drive economic growth.
+    Thank you for the invitation to testify today.
+
+    The Chairman. Thank you, Mr. McCarthy. We will begin with 5 
+minute rounds. So for our first round, I will start. Mr. 
+Szabat, one purpose of the ROUTES initiative is to provide 
+information to rural communities about available Federal 
+funding and financing options, as well as other technical 
+assistance. Can you provide more details about how the ROUTES 
+initiative will work for rural project sponsors? For example, 
+if a rural project sponsor calls or e-mails asking for 
+technical assistance, can you walk us through what they should 
+expect in response?
+    Mr. Szabat. Thank you, Senator, for the question. And 
+first, I will caveat my response for saying this is a brand new 
+program and initiative, and it is designed from the start to 
+evolve. So we will have a feedback loop with our the rural 
+communities which we work with and the goal is--so I will just 
+say the way in which we respond to an inquiry that comes in 
+today may not be the same process that we have six months from 
+now when we get their feedback.
+    But with that, I would say I can give an example of what we 
+are doing right now. We have just concluded a request for 
+information from rural communities and they have come in with 
+comments to say here is what we think, we the communities think 
+the Department ought to do different and do better. So those 
+communications have come to us and are being parsed by 
+dedicated staff that we have within the Office of Policy in the 
+Department, as well as within the our Build America Bureau.
+    And their responsibility is twofold. One, interactions and 
+communications directly back to the communities so that they 
+have somebody who they can deal with in the Department directly 
+and not have to wait weeks or months at a time for a response. 
+And second, they are kicking that upstairs to the leadership in 
+their offices and ensure that leadership is coordinated 
+intermodal so that we don't have things that are stuck in one 
+bucket, in a single silo of one mode. And our coordinating 
+office or organization is called the ROUTES Council. If you 
+have further questions about that, I would be happy to go into 
+more detail.
+    The Chairman. DOT's recent request for information 
+regarding the initiative ask for feedback--and that is to look 
+at the current unmet needs in rural transportation. How do you 
+think the DOT can work to better address them? How can the DOT 
+help rural areas in this country to be able to access even 
+right now the funds that would be available for them through 
+these initiatives?
+    Mr. Szabat. I appreciate the question, Chairman Fischer. 
+There are several ways and much of this is informed by the 
+feedback that we received from before the RFI and from what we 
+have received already. One is clarity of the world definition. 
+We have a collection of different programs that can serve rural 
+communities. Many of them have different statutory definitions.
+    So we find it is helpful for us to put that together in one 
+place and have a one-stop shop so that anybody who wants to 
+come and discover what program or programs may assist them, 
+that we can give them and not just say here is one example, 
+here is another example, but give them a comprehensive list.
+    The Chairman. Do people need to call in? Do managers need 
+to call in? Do they need to contact DOT in order to find that 
+information? Is it available in a clear way on a website?
+    Mr. Szabat. Yes. Well, yes to the first and we are 
+developing the second thing. I mean truly one of the issues 
+that we have identified was we need to have more information 
+and more up-to-date information and more quickly updated on our 
+website. That is one of the first--one of the initial actions 
+that we are taking.
+    The Chairman. When you are looking at different types of 
+proposals or resources that are out there, what does DOT expect 
+to provide as a result of the information that you get in? Is 
+it going to be available in that toolkit that you are going to 
+have out there?
+    Mr. Szabat. Yes----
+    The Chairman. User-friendly?
+    Mr. Szabat. Yes, user-friendly. So this is the intent. 
+Among the amount of feedback that we receive is how complex it 
+is to work through the range that we have, available grant sand 
+loan programs, and the associated effect of that is, it is 
+easier for communities that have a long history of working with 
+the Department and these tend to be larger communities and they 
+are better funded. They tend to have more success because they 
+know better how to work through these wickets.
+    So through the toolkit we want to help try to redress the 
+imbalance, level the playing field if you will, and provide 
+guidance to rural communities both on--and all underserved 
+communities, both on here is what you need, the information you 
+need to have in order to apply, here is how you should organize 
+it. The other thing that we can do is collect more, and we are 
+doing, is collect more data and share that with communities so 
+that they don't have to pay collect that information 
+themselves. That is a longer-term project that will not be part 
+of the initial toolkit, but we anticipate the toolkit coming 
+out later this quarter.
+    The Chairman. Thank you. I think that that is really 
+important when you look at the limited resources maybe those 
+underserved communities do face, and to make it easier for 
+those communities to access funds that are available for them 
+will be really helpful.
+    Usually larger communities, states, they have grant 
+writers, they have the ability to access grants where smaller 
+communities, underserved areas that definitely face long-term 
+needs are unable to do that. So I commend you on that being a 
+goal. Thank you. Senator Duckworth.
+    Senator Duckworth. Thank you, Chairman. Dr. Farajian, I was 
+a strong advocate for systems' approach to Federal 
+transportation policy. And to maintain our global 
+competitiveness in the 21st century, the U.S. will need to 
+break down the outdated and inefficient modal silos that have 
+developed over 75 years. Congress and DOT should do more to 
+reflect the realities of supply chains that stretch from 
+factories and shops in Illinois all the way across the world to 
+homes, all around the world.
+    To this end, I authorized a provision in the FAA 
+Reauthorization Act of 2018 that required DOT to study the 
+benefits of expanding TIFIA program to include eligible airport 
+related expenses. President Trump and I agree on very little, 
+but we did agree on this one thing. So Dr. Farajian, the FAA 
+Reauthorization Act required you to report to Congress within 9 
+months on the TIFIA airports study. That was 15 months ago.
+    Do I have your commitment that we will finally see the DOT 
+study by the end of this first quarter of 2020?
+    Mr. Farajian. Thank you very much, Senator, for that 
+question. If I may, I want to mention that this is an important 
+report for us and we have not taken it lightly. We have gone 
+through a lengthy process of collecting the necessary 
+information because we had to do a comprehensive market 
+analysis and engage different stakeholders.
+    We have gone through the steps. It was a national study 
+that we had to go through it and do a nationwide analysis of 
+the market to figure out what are the funding and financing 
+gaps in the market. We have also had to look at the impact to 
+the budget and impacts of the existing programs. That also is 
+something that we have spent a lot of time to look at those 
+impacts and reflect those in the report.
+    Finally, we had to make recommendations on whether to 
+expand eligibility under an existing program or establish an 
+entirely new program. So that also takes a lot of analysis. 
+There are a lot of details and we had to work through them. I 
+am glad to say that we are almost done with the report.
+    Senator Duckworth. So this quarter?
+    Mr. Farajian. We should be able to finalize the report and 
+put it in interagency clearance soon. Hopefully this quarter we 
+will be able to put it in interagency clearance. And as soon as 
+it is cleared, we will be happy to share that with the 
+Congress.
+    Senator Duckworth. I will be checking in with you on a 
+regular basis to get those results. Thank you. I also mentioned 
+in my opening statements, some stakeholders have spent seven 
+figures to not secure a loan and this is especially burdensome 
+for rural communities and small communities. While the Bureau's 
+new RRIF Express program is a step in the right direction, I 
+want to highlight that DOT approved only 6 loans in the last 8 
+years and less than 40 since the program's inception in 2002. 
+Clearly, the process is flawed.
+    To be fair, Congress enacted a credit risk premium 
+mechanism, more to appease a Congressional budget office and 
+hide the true cost of investing in rail infrastructure than 
+addressing the practical needs of rail stakeholders. In the 
+interest of time, I will be asking you to submit for the 
+record, Dr. Farajian, a list of recommendations for this 
+Committee to consider in the next reauthorization bill to 
+improve the RRIF program. Will you do that?
+    Mr. Farajian. Talking about the RRIF program, if I may, I 
+would like to also mention that as someone who used to be a 
+borrower of the programs that Bureau was providing in the past 
+when I was in Virginia, I completely understand some of those 
+concerns that you just mentioned.
+    The program, the RRIF program that you mentioned is 
+definitely a little bit challenging because the borrowers need 
+to go through the process with us in order to understand what 
+the CRP is going to be. And it requires a lot of studies, a lot 
+of analysis, gathering information to be able to provide them 
+with accurate information about what they should expect.
+    Senator Duckworth. I am sorry, I am running low on time. 
+Can you just send us a list of recommendations?
+    Mr. Farajian. Yes, we can do that.
+    Senator Duckworth. Thank you. Dr. Szabat, I have a very 
+short amount of time, but if you could tell me here and then 
+also in writing as a followup, can you tell me more about the 
+pilot program that Secretary Chao announced, the $38 million 
+multimodal First Responders safety technology pilot program. 
+Where is DOT putting the--where are you pulling the $38 million 
+from? When is DOT expected to begin accepting applications? 
+This is something that is very near and dear to my heart as 
+well as Senator Durbin and other Senators.
+    I think we have all lost public safety officials who have 
+been killed on the side of the road doing their jobs. And then 
+we want to make sure that our First Responders are protected.
+    Mr. Szabat. Thank you, Senator, for your interest in this 
+important initiative that we also care and Secretary Chao cares 
+very much about. This targeted investment about $38 million, we 
+intend it to build to demonstrate the benefits of a vehicle to 
+infrastructure technology for emergency response vehicles using 
+the 5.9 gigahertz safety band. We anticipate that the funding 
+opportunity will come out shortly and happy to give you more 
+details for record.
+    Senator Duckworth. Thank you. I am over time. Thank you.
+    The Chairman. Thank you, Senator Duckworth.
+    Senator Cantwell.
+    Senator Cantwell. Thank you, Madam Chair. And again, thank 
+you to the witnesses for being here. Mr. McCarthy mentioned the 
+juggernaut that Seattle and Tacoma are on moving product. In 
+Washington State we shipped $440 billion in freight products in 
+2018. That is a lot and I guess we are quite significant in the 
+total of U.S. agricultural products. One of the things that you 
+mentioned, which I wholeheartedly agree with, is that 
+communities are often left without the resources to take care 
+of moving all that freight.
+    I consider it to be almost like the last mile here. Ports 
+are the most critical aspect and they are right there, the last 
+mile. It is almost as if America's ports on local streets are 
+like clogged arteries. They are key to making it through the 
+system and yet they are clogged.
+    So, I wanted to ask our two DOT witnesses if they supported 
+lifting the multimodal cap on the INFRA program so we could put 
+more money into freight infrastructure so that we can solve 
+some of these problems of congestion that are taxing at the 
+last mile or in other aspects of building capacity, and 
+certainly in the rural communities< But this congestion problem 
+is certainly causing us great problems. So Mr. Szabat or----
+    Mr. Szabat. With your permission Senator, I will take first 
+crack at that question because you--I appreciate it very much. 
+You are addressing one of the most important challenges we 
+have. Safety is the Department's top priority but congestion 
+mitigation in all modes of transportation, getting that right 
+mix of multimodal use of transportation, are also high 
+priorities for us. And so you mentioned the challenge of the 
+possibility of raising the cap. We have got about $158 million 
+in INFRA funding that is still available to allocate to 
+multimodal projects or component projects in this current 
+fiscal year----
+    Senator Cantwell. So are you ready to give that to Mr. 
+McCarthy?
+    [Laughter.]
+    Senator Cantwell. Because he--and I don't mean to 
+interrupt. We are all short on time today. Mr. McCarthy just 
+said Canada, his competition is Prince Rupert, and the Canadian 
+government just gave, what did you say, $300 million?
+    Mr. McCarthy. $385 million.
+    Senator Cantwell. OK, and why? Because they want them to be 
+able to take business competitively from us. So their 
+government is making that investment and at the same time the 
+Chair's product, I guarantee you, is sitting too darn long 
+because it can't get through the congestion.
+    So we have to wake up, that this Nation's economy for the 
+future is very much based on the Pacific being able to move 
+export product to Asia and we have to make this investment. 
+Again, I'm glad that you have some extra left over money, but I 
+want to know how much are you willing to increase the 
+multimodal cap, because we are going to have this debate and I 
+am definitely going to be for lifting the cap.
+    Or doing are you for doing something else, if you don't 
+want to--if you want to leave the cap, what else can we do? 
+Because this is a problem. So are you for lifting the cap or 
+not?
+    Mr. Szabat. I am tempted to say, yes, to answer your 
+question of which you gave me the option of both yes or no, but 
+I will not give that as a formative an answer. The 
+Administration does not have the position on lifting the cap. 
+So we don't--the challenge that we have is the $158 million 
+that we have.
+    I suspect that the port or ports in Puget Sound could put 
+to good use every single dollar of that money and more but the 
+challenge of this is a national program because in there are 
+other ports and other transportation needs, multimodal 
+transportation needs across the country. So lifting the cap to 
+assist a particular project or mix of projects does not address 
+the overall need of transportation investment from all sources, 
+not just the Federal Government.
+    Senator Cantwell. I was illuminating the fact that other 
+countries are being more aggressive and that we pay the price 
+for the lack of that investment. I am sure that we can get a 
+very broad coalition of people who say we should be spending 
+more on freight. When you look at the numbers, you are going to 
+see a 40 percent increase in freight.
+    We should be celebrating that now we have on a global basis 
+for the first time in 2018, a tipping point. The majority of 
+the world's population is middle class. What does that mean? 
+They are going to eat and consume things that America can 
+produce and export to them. It is a tremendous market, but if 
+we can't get our products there because they are sitting 
+somewhere in traffic, it is going to be a problem for us.
+    So I guess I know DOT's position since you are the senior 
+person here, but we love the yes, and we look forward to 
+continue working with you in getting a robust administrative 
+decision on more freight investment. Thank you, Madam Chair.
+    The Chairman. Thank you, Senator Cantwell. And Dr. 
+Farajian, in my previous questions to Mr. Szabat, I was asking, 
+you know, how are you going to make it easier for stakeholders, 
+for managers to be able to access the grants that are 
+available, what is needed, especially those with limited 
+resources? I would ask you, in your testimony, you mentioned 
+state visits, which we would like to get you to Nebraska as 
+well. I noticed you haven't been there. But you mentioned state 
+visits is one thing but are there other actions that the Bureau 
+can take in order to inform states and localities about the 
+services that are available to them especially with regard to 
+the rural initiatives?
+    Mr. Farajian. Chairman Fischer, thank you for that 
+question. That is an excellent question. Since I joined the 
+Department, we have worked very hard to make sure that we have 
+a comprehensive outreach plan to reach out to those who have 
+not heard about their programs in the past or will have a 
+difficult time to understand how they can take advantage of 
+some of those programs.
+    So let me just explain to you briefly what are some of the 
+steps that we have taken. State visits is one of the successful 
+efforts that we have gone through, because when we go, we meet 
+with them face to face, we spend about a day with them at 
+different levels, as I mentioned in my oral testimony. We try 
+to meet with them at different levels, educate them about our 
+programs, answer their questions, and also explain to them how 
+the process works. That has been a very successful effort for 
+us.
+    But beside that, we have conference calls with them, we 
+have webinars for them, we go to different conferences and 
+industry gatherings, not only to the big ones that folks who 
+are familiar with our projects typically attend, but to those 
+that people from rural communities, counties, cities often go 
+and participate in those. So that is the outreach program that 
+we have in place. Our outreach team is very active in terms of 
+reaching out to people and answering any questions that they 
+may have.
+    Sometimes they reach out to us with questions. We will 
+spend time, walk them through the answers, walk them through 
+the process. Besides that, as I mentioned also in my oral 
+testimony, we have tried to tailor our products so that they 
+are not just benefiting larger projects the way that they were 
+being used in the past.
+    Some of the new projects that we have added to our pipeline 
+are smaller projects. They are not going for a 35, 40 year 
+loan. They actually are going for shorter type of loans. They 
+are simpler, not as complicated as some of the larger projects. 
+So we have put those also in the toolbox. So those who want to 
+take advantage of those tools also have access to those tools 
+as well.
+    The Chairman. Thank you. Also, Dr. Farajian and Mr. Szabat, 
+a question to you both. As you are developing these rural 
+transportation initiatives, have you or others at DOT 
+identified any statutory, regulatory barriers that may have 
+limited the Department's ability to support rural communities 
+or to carry out these initiatives?
+    Mr. Szabat. Senator, with your permission, I will take the 
+first crack at that answer. As we review the statutes and as we 
+identify areas and get feedback from the rural communities, we 
+intend to have a feedback loop with Congress, with these 
+members of this Committee who are interested, to inform you of 
+what those issues may be that we identify.
+    So for example, one thing that we know is almost certain to 
+come up, we have nine different programs that distinguish 
+between rural and urban and they have a range of different 
+definitions of what constitutes a rural and urban community. 
+There may be some advantage in having them more uniform or 
+there may be advantages in keeping some of these programs 
+defined the way they are. This is part of the conversation.
+    We have to have the rural communities before we make any 
+recommendations ourselves to our processes, the interagency 
+review, and then coming to you to talk to Members of Congress. 
+Similarly, on the regulatory side, I think this is one of the 
+main reasons we have the ROUTES Council established.
+    Take a look at what we are doing internal within the 
+Department of Transportation. What can we streamline and what 
+can we do quicker and better that would serve the communities, 
+and frankly, the best advice we are going to get on that is the 
+input we get from the communities themselves as opposed to us 
+looking at the tea leaves and trying to determine internally 
+what we are doing that that works well for the communities and 
+what we are doing that does not.
+    The Chairman. Thank you. Doctor?
+    Mr. Farajian. I just want to add to what Mr. Szabat just 
+mentioned that we actually think that within the existing 
+authorities and within the existing programs that we have there 
+are plenty of opportunities, and we are more focused on finding 
+where we can help rural communities to take advantage of those 
+programs in areas that were not explored in the past.
+    Maybe, for example, TIFIA rural project initiative is 
+something that I want to bring up. That is a program that, as I 
+mentioned in my oral testimony, is getting a lot of attention 
+especially from rural communities. We have 13 projects in seven 
+different states. It is a program that can greatly benefit 
+rural communities projects that are under $100 million, and it 
+is a program that doesn't require any modifications, any 
+changes to the existing requirements that we have. We can 
+easily implement it and we are going through that process with 
+our rural stakeholders.
+    The Chairman. I would ask that if both of you could follow 
+up with me on what this Committee should do to address any of 
+the concerns that are out there in the future so that we can 
+make sure that these efforts to help rural development are 
+going to happen.
+    So, I would appreciate that. I am going to keep going. Dr. 
+Farajian, Congress appropriated funding for RRIF credit 
+assistance, including $25 million in Fiscal Year 2018 to 
+address the cost of the RRIF credit risk premium. What impact 
+do you expect this assistance will have on the utilization of 
+the RRIF program?
+    Mr. Farajian. Chairman Fischer, that is an excellent 
+question. I was asked a question about some of the challenges 
+that currently the RRIF program is facing. That program, the 
+RRIF Express pilot program that you just refer to is our effort 
+to streamline our process and utilize the RRIF programs, 
+especially for short line and regional railroads.
+    If a project--if they have a project, short line and 
+regional railroads, who have a project that is less than $50 
+million, if it qualifies under the program, they can come to us 
+and borrow up to $50 million for their project costs, and we 
+with the money that you just mentioned has been appropriated to 
+us, are able to pay for credit risk premium of that loan as 
+well as some of the advising fees that typically they pay. We 
+have also streamlined our process to make it faster. We have 
+set up a team within the Bureau that is meeting on weekly 
+basis, looking at interests that we are receiving under that 
+program.
+    We have advisors that we can bring on board quickly to look 
+at the applications that we receive. Our goal is to make that 
+program streamlined and fast and efficient, as fast and 
+efficient as possible. We have received very good feedback so 
+far on that program.
+    As a matter of fact, just this afternoon at 2 p.m., the 
+American Short Line and Regional Association is hosting a 
+webinar to educate some of the potential borrowers on how they 
+can take advantage of the program. And the application period 
+has been open for 2 weeks. It is just the beginning of it.
+    So it will be open for another two and a half months, and 
+we are very optimistic that based on the feedback we have 
+received so far, that it is going to generate very good 
+results.
+    The Chairman. Thank you. Mr. McCarthy, I see you----
+    [Laughter.]
+    Mr. McCarthy. Well, it is really interesting to listen to 
+these two gentlemen. I am learning some things.
+    The Chairman. Well, we need to hear from you as well 
+because you represent an industry in an area that is extremely 
+important to our country, as was pointed out by Senator 
+Cantwell. You mentioned in your testimony that container 
+vessels are getting larger, noting that 18,000 container 
+vessels could be coming to port soon.
+    Mr. McCarthy. Yes.
+    The Chairman. What effect do these larger vessels have been 
+on port operations, and what actions are ports taking now to 
+mitigate any negative effects such as congestion at these 
+facilities? I have had the opportunity to visit ports on the on 
+the West coast and on the East coast, down to Florida. It is 
+fascinating what is going on at our ports and changes that are 
+being made, but no matter which port I have been at, there is 
+deep concern about the congestion problem.
+    Mr. McCarthy. Absolutely. It wasn't too many years ago that 
+most of our vessels were 6,000 to 8,000 equivalent unit 
+containers. And as you mentioned, we are looking at 18,000 
+TEUs, which is substantial. It creates a lot of activity over a 
+short period of time, which as you point out congest our roads, 
+rail, and other infrastructure.
+    So ports are struggling to develop that infrastructure 
+within the vicinity of the gateway. So, we are doing innovative 
+things like extended gate hours where we would operate on 24 
+hours a day if possible, which has a dual benefit. For example, 
+if I am not putting congestion on the roads when people are 
+commuting to and from work. So that is the type of innovation 
+that we are doing. Those come with expenses involved but our 
+cranes are getting bigger, our ships are getting bigger, but a 
+lot of it is the same activity.
+    But that expanded activity, as you say, does pose a 
+challenge with us that we are working through. We do need 
+assistance as local communities to bring those facilities so 
+that they are more than competitive with Canada, so that our 
+U.S. products will find their way to their markets outside of 
+the United States.
+    The Chairman. We have heard on this Committee about 
+technology and how technology can make some major changes. From 
+the Port of Long Beach, Dr. Hasegawa testified before the 
+Subcommittee about their work that they are doing on a port 
+optimizer and that provides all stakeholders with more clear 
+advanced information about the movement of freight. Is the 
+Northwest Seaport Alliance working on similar technologies or 
+practices to better utilize the current infrastructure you have 
+while we are waiting to build and not just maintain, but to 
+expand?
+    Mr. McCarthy. Yes. In the last couple of years, we have 
+expanded our efforts to track, for example, the length of time 
+that a truck is at the terminal and waiting for the terminal to 
+open up. And we have programs similar to those in Port of Long 
+Beach and Port of Los Angeles, although by a different name, 
+but for the record, I would like to provide some additional 
+details on those and provide them to you for the record, if I 
+could.
+    The Chairman. That would be wonderful. Thank you. I also 
+wanted to talk to you, sir, about concerns that I have heard 
+from shippers, particularly agriculture shippers, and that is 
+the result of the congestion and delays at port facilities. As 
+you know, the Federal Maritime Commission is currently 
+reviewing a proposal to clarify how it is going to assess the 
+reasonableness of the detention.
+    And what is the Northwest Seaport Alliance policy on the 
+fees that you have for detention? And do you have 
+recommendations for addressing the underlying issues which I 
+hope to receive from you on the port congestion and delays, 
+lack of clarity where the freight is, so that the port 
+facilities don't need to assess those fees in the first place? 
+My folks don't want to pay them. That is what I am saying to 
+you.
+    Mr. McCarthy. I understand. That is a fair question and one 
+that I have heard throughout our State. For example, we grow 
+about 10 billion pounds of potatoes and export about 70 percent 
+of them, apples and cherries, and other agricultural products. 
+And also we are huge exporter of hay.
+    And so I recently met with those that generate and compress 
+the hay for export and we have talked about those issues, and 
+the issue primarily centered around the fact that they have 
+certain number of trucks they sent over to our gateway. They 
+are tied up. They are unable to do, for example, two loads in a 
+different, you know, in the same work cycle. It expands their 
+costs. Those are the type of delays that are directly related 
+to our infrastructure issue problems.
+    As to the detention fees itself, that is another one of 
+those issues, if you don't mind, I would like to for the record 
+provide some additional information to you.
+    The Chairman. Thank you. Thank you so much. I understand 
+Senator Thune will be returning? Senator Thune will not be 
+returning. So I am just going to ask a couple more questions, 
+if I may.
+    Mr. Szabat, last year the Congressional Research Service 
+issued a report showing that several highways that are 
+projected to have the largest increases in truck traffic 
+between now and 2045, and that includes large portions of I-80 
+in my state of Nebraska as well as interstate portions in 
+Illinois and Texas and a handful of other States.
+    Can you tell me, does the DOT take into consideration 
+future increases in traffic demand or other similar metrics 
+when developing infrastructure policy? And should Congress 
+consider future freight demand, such as truck traffic demand 
+along Interstate 80, when developing surface transportation 
+infrastructure policy, particularly as it relates to the 
+National Highway Freight Program?
+    Mr. Szabat. I appreciate the question, Senator. The short 
+answer is yes to both aspects of your question. First, when we 
+look at applications for our discretionary grant program, one 
+of things that we are looking at is reduction and congestion 
+immediately, but also what is the forecast growth. And a second 
+aspect which plays into that is, what is the economic impact. 
+We try to measure benefit-cost analysis for each of these 
+projects----
+    The Chairman. When you look at the impact, do you look at 
+the impact within a state, within a locality, within a state, 
+within a region or nationally?
+    Mr. Szabat. So the--you will recall that when these 
+programs--the grandfather of all of our discretionary grant 
+programs was TIGER, and these were for projects of regional and 
+national significance.
+    And much of that remains within the criteria we have for 
+our programs today. So when we evaluate it, we look not just at 
+the local benefit, but for example, you know for highway 
+project like I-80 in Nebraska or from any of our rail or 
+highway projects, what is its benefit nationally to moving 
+freights, whether it is to the ports in the Pacific Northwest 
+or someplace else because investing in a highway just for the 
+sake of the people who live around that stretch rarely makes 
+sense. It makes sense for its impact on the Nation.
+    And then second, as you very much aware, we are working on 
+a national freight strategy and a national freight network. And 
+in both cases, in both of those, we are looking not just at a 
+snapshot in time as to where are the freight flows today, but 
+where are the opportunities to reduce congestion and develop, 
+if you will, shift freight flows to better utilize the network 
+so that we can get the maximum economic benefit at the least 
+infrastructure investment cost.
+    So I think all of that would flow into an answer of if you 
+are asking for a personal recommendation for should Congress 
+consider these factors going forward, I would give an emphatic, 
+yes.
+    The Chairman. Thank you. Also in Nebraska last year, we 
+experienced severe flooding that caused extensive damage to our 
+surface transportation infrastructure, including railroad 
+infrastructure. When a short line railroad in Nebraska had 
+significant damage, it had nowhere to turn to at DOT for grant 
+assistance. Congress has previously allocated grant funding to 
+repair critical short line infrastructure following disasters. 
+Mr. Szabat, would the Administration support Congressional 
+grant funding short line railroads could access to help recover 
+after disasters?
+    Mr. Szabat. Thank you, Senator. You have identified a 
+critical gap in how we, the Government, approach some modes of 
+transportation are not done unequally in certain circumstances. 
+As the Administration has not taken a position on the 
+legislation, I cannot say that we would or would not support. I 
+do say I would look very much forward to working with you, 
+members of your staff, other interested members in Congress to 
+provide whatever information or assistance that you need, both 
+in developing a proposal and possibly in developing the 
+Administration's position.
+    The Chairman. Thank you, sir. We will be in touch. 
+Additionally, Dr. Farajian, would the RRIF Express program, 
+including the credit risk premium assistance, be available for 
+short line railroads to use to repair infrastructure following 
+disasters?
+    Mr. Farajian. Thank you. Thank you for that question, 
+Senator. There are some eligibility criteria for different 
+types of projects that can use RRIF Express. Right now, I don't 
+know exactly what is the situation that you are describing, but 
+my staff will be happy to meet with any potential borrower and 
+answer their questions, look at the specific project that they 
+are trying to borrow, to develop--to spend money on it.
+    And if the project is eligible, yes, the answer is that 
+RRIF Express could be a source of financing for that project. 
+However, I should also mention that the duration that the 
+application period is open is as of now just for 3 months and 
+it is going to expire on April 13. So that is just something 
+that I wanted to have on record. A note that was published, it 
+specifically says that applications can be received between 
+January 13 and April 13.
+    The Chairman. Thank you very much, doctor. I would like to 
+thank all three of our panelists today. I appreciate you coming 
+in and sharing your expertise with us.
+    The hearing record will remain open for two weeks and 
+during this time Senators are asked to submit any questions for 
+the record. Upon receipt, the witnesses are requested to submit 
+their written answers to the Committee as soon as possible.
+    Again, thank you so much for your participation on this 
+very important subject. Thank you. The hearing is adjourned.
+    [Whereupon, at 11:05 a.m., the hearing was adjourned.]
+
+                            A P P E N D I X
+
+   Response to Written Questions Submitted by Hon. Maria Cantwell to 
+                            Hon. Joel Szabat
+    INFRA and BUILD funding. The FAST Act provide $4.5 billion over 
+five years for the Nationally Significant Freight and Highways Grant 
+Program, also known as the INFRA program. In that same time period, 
+Congress has provided $4.4 billion for the National Infrastructure 
+Investments Grant program, also known as BUILD.
+
+    Question 1. Mr. Szabat, how much funding would be needed to support 
+all the applications received for INFRA and BUILD grants last year?
+    Answer. In 2019, eligible applicants for the INFRA and BUILD 
+program requested approximately $19.4 billion in grant funding from the 
+Department. The continued overwhelming demand for the Department's 
+discretionary grant programs demonstrates the significant unmet 
+infrastructure needs across the country. Eligible BUILD applicants 
+requested $9.6 billion, and eligible INFRA applicants requested $9.8 
+billion.
+
+    Question 2. How much funding would be needed to support all of the 
+applications subject to the multimodal cap under the INFRA program?
+    Answer. For the 2019 round, approximately $1.2 billion of $9.8 
+billion in requested grant funding would have been subject to the 
+multimodal cap. At the beginning of the round, approximately $200 
+million of the original $500 million was still available to be awarded.
+
+    Freight Infrastructure. The FAST Act required the Department to 
+develop a National Strategic Freight Plan by December 2017. The FAST 
+Act also required the Department to establish a National Multimodal 
+Freight Network to assist in the prioritization of Federal freight 
+investment. DOT was required to issue a final network by December 2016.
+
+    Question 3. How is the Department able to appropriately prioritize 
+Federal freight investment through programs like INFRA and BUILD when 
+these items are not yet completed?
+    Answer. The Department recognizes the importance of Federal freight 
+investment to the safe and efficient movement of freight throughout the 
+United States. Through discretionary programs, the Department has 
+included evaluation criteria that allow the Department to identify 
+priority freight projects. For example, in the most recent INFRA notice 
+of funding opportunity, the Department has included whether a project 
+primarily serves freight and goods movement as a factor in the economic 
+vitality criterion evaluation.
+
+    Question 4. When can we expect the Department to finalize these 
+items?
+    Answer. The Department has completed the National Freight Strategic 
+Plan and it is expected to be released in FY20.The completion of the 
+National Freight Strategic Plan will directly lead into the 
+identification of the National Multimodal Freight Network.
+
+    GAO Report. Last March the GAO issued a report titled Action Needed 
+to Guide Implementation of Build America Bureau and Improve Application 
+Process noting that the Build America Bureau lacks a plan to guide 
+ongoing and future efforts, as well as any kind of performance 
+indicators to assess its progress. A year later, all five of the GAO's 
+recommendations remain open.
+    In response to a recommendation calling for a detailed 
+implementation plan that sets goals and a timeline for the Bureau's 
+continued efforts and prioritizes work to carry out the multiple 
+responsibilities given to the Bureau in the FAST Act, DOT stated it did 
+not plan to create a detailed implementation plan as that would detract 
+from higher priority efforts.
+
+    Question 6. What are the Bureau's top priorities, and what steps 
+has the Bureau taken to establish goals or timelines for ensuring that 
+states and local governments are able to complete the application 
+process and receive necessary funding in a timely manner?
+    Answer. The Bureau top priorities are to:
+
+   Enhance the pipeline of eligible projects by providing 
+        proactive educational outreach and technical assistance to 
+        potential borrowers in utilizing the TIFIA and RRIF programs, 
+        and their capacity to fill market gaps by leveraging 
+        substantial local and private co-investment.
+
+   Diversify the pipeline of eligible projects by geography 
+        (i.e., urban and rural, new States, etc.) size, and type (i.e., 
+        highway, transit, rail, port, etc.), to ensure an equitable 
+        distribution of program benefits.
+
+    The FAST Act directs the Department to establish technical 
+assistance programs to educate borrowers on how to access the 
+Department's credit programs. In addition, the FAST Act made certain 
+changes to the TIFIA program set forth in Chapter 6 of title 23 and 
+established other programs to facilitate access to the Bureau's credit 
+programs. To meet these requirements, the Bureau has established 
+several programs as outlined below and initiated an effort to educate 
+state and local government officials on how they can identify potential 
+projects and innovative approaches to benefit from the Department's 
+credit programs. Also, the Bureau has taken several steps to ensure 
+that states and local governments can complete the application process 
+and receive necessary funding in a timely manner, and we continue to 
+refine and streamline our processes wherever possible. For example:
+
+   The Bureau has merged both the Letter of Interest (LOI) and 
+        the loan Application forms so that a borrower can submit a 
+        single version of each form for either a RRIF or TIFIA loan or 
+        both.
+
+   The Bureau has implemented the FAST Act's new streamlined 
+        process for TIFIA applicants with highly rated credits not 
+        affected by project performance and the project is ready to go.
+
+   To address the needs of rural borrowers, the Bureau 
+        implemented the TIFIA Rural Projects Initiative that educates 
+        sponsors regarding the TIFIA program's statutory benefits for 
+        eligible small, rural projects, including application fee 
+        relief, ability to finance a larger share of eligible project 
+        cost, and a reduced interest rate equal to half the rate 
+        applicable to standard loans.
+
+   The Bureau launched the RRIF Express pilot program in 
+        December, 2019. Eligible applicants will receive reduced fees, 
+        Credit Risk Premium (CRP) relief and expedited loan processing.
+
+   In FY 2020, the Bureau will launch the Regional 
+        Infrastructure Accelerator demonstration program that was 
+        authorized under the FAST Act and funded under the Further 
+        Consolidated Appropriations Act, 2020, aimed at helping project 
+        sponsors develop capacity, obtain technical assistance and more 
+        easily access the TIFIA loan program at the regional level.
+                                 ______
+                                 
+  Response to Written Questions Submitted by Hon. Tammy Duckworth to 
+                            Hon. Joel Szabat
+    Question 1. Secretary Chao recently announced a $38 million multi-
+modal First Responder Safety Technology Pilot Program to equip 
+emergency response vehicles and transportation infrastructure, like 
+traffic signals and public transit, with ``V2X'' technologies using the 
+5.9-gigahertz safety band to enhance safety for emergency responders. 
+Per your commitment during the hearing, please provide additional 
+details about this pilot program, including but not limited to: the 
+specific source(s) of funding for the pilot program, the anticipated 
+timeline for issuing the Notice of Funding Opportunity and completion 
+of the application process, criteria that have been identified for 
+inclusion in the pilot program including, any specific requirements for 
+utilization of the 5.9 GHz band, as well as minimum and maximum grant 
+award limits.
+    Answer. The Department plans to invest up to $38 million for the 
+First Responder Safety Technology Pilot Program (First Responder) 
+through the Federal Highways Administration's Advanced Transportation 
+and Congestion Management Technologies Deployment (ATCMTD) Program (see 
+23 U.S.C. Sec. 503(c)(4)) and the National Highway Traffic Safety 
+Administration's vehicle safety research program (see 49 U.S.C. 
+Sec. 30182). This pilot program seeks to fund projects that equip law 
+enforcement, fire, and emergency medical services (EMS) vehicles, and 
+potentially other public vehicles (e.g., transit and tow trucks), and 
+related infrastructure (e.g., traffic control signals and highway-rail-
+grade crossings signals) with vehicle-to-everything (V2X) communication 
+technologies. This pilot program seeks a creative and innovative 
+approach to adopt V2X technologies that will use the 5.9 Gigahertz 
+Safety Band of spectrum in a technology-neutral manner.
+
+    Question 2. One hundred people die every day on the roads in the 
+U.S. V2X technologies is expected to significantly improve the safety 
+and efficiency of our transportation system. How does FCC's proposal 
+for reallocating the 5.9 GHz spectrum impact the development and 
+deployment of V2X technologies, like advanced driver-assistance systems 
+(ADAS) such as Left Turn Assist (LTA) and Forward Collision Warning 
+(FCW)?
+    Answer. Many of today's vehicles use ``conventional'' sensors 
+(e.g., radar, camera, lidar) for Advanced Driver Assistance Systems 
+(ADAS), such as forward collision waring (FCW), blind spot warning 
+(BSW), automatic emergency braking (AEB), rear cross-traffic alert, and 
+others. Notably, left turn assist (LTA) is not available on vehicles 
+today as this application cannot be reliably implemented with 
+conventional sensors. Vehicle-to-everything (V2X) technology, with its 
+ability to detect other V2X vehicles beyond just line-of-sight, enables 
+new safety applications such as LTA, intersection movement assist 
+(IMA). In addition, V2X can also improve the performance of existing 
+safety applications (such as FCW, BSW, and AEB) by augmenting 
+conventional sensors to identify collision threats more reliably and 
+accurately.
+    To date, all development and deployment of V2X safety applications 
+are based on dedicated-short-range-communications (DSRC) technology 
+using channel 172 of the Safety Band for vehicle-to-vehicle (V2V) and 
+channels 174-184 for vehicle-to-infrastructure (V2I). If the FCC 
+proposal for reallocating 5.9 GHz spectrum were to be implemented, 
+these applications would need to be moved to channel 180 and radios and 
+roadside installations re-engineered for that channel. While the 
+applications should operate the same on channel 180, testing would also 
+be necessary to determine whether interference from Wi-Fi operations on 
+adjacent channels may impact the safety performance of the 
+applications. USDOT has completed initial testing. Additional analyses 
+are underway on unlicensed Wi-Fi effects on the remaining channels 182-
+184 as well as with effects to other emerging technologies. Results are 
+provided on the Safety Band website as they are completed..
+
+    Question 3. Please describe which of the pilot deployments on 
+USDOT's map are actively using all 75 MHz today for the Dedicated 
+Short-Range Communication (DSRC) safety operations and what are the 
+specific DSRC safety operations? How many vehicles have these 
+technologies installed, and why do the pilot projects require more than 
+30 MHz of spectrum?
+    Answer. The Department surveyed the sites for channel usage 
+approximately a year ago. Approximately 35 percent of sites responded 
+to our survey. At that time, there were no sites using all 75 MHz of 
+spectrum. There was a total of seven sites using multiple channels. 
+Notably, New York City, which is one of USDOT's Connected Vehicle Pilot 
+sites, is using six of the seven available channels; while Michigan, 
+which has been hosting several deployments, is also using six of the 
+seven channels. The specific DSRC safety applications supported by 
+these sites include:
+
+   Curve Speed Warning
+
+   Dynamic Ridesharing and Shared Use Transportation
+
+   Eco-Approach and Departure at Signalized Intersections
+
+   Emergency Vehicle Preemption
+
+   Evacuation and Reentry Management
+
+   Freight Signal Priority
+
+   Integrated Multi-Modal Electronic Payment
+
+   Oversize Vehicle Warning
+
+   Parking Space Management
+
+   Pedestrian and Cyclist Safety
+
+   Queue Warning
+
+   Reduced Speed Zone Warning/Lane Closure
+
+   Restricted Lane Warnings
+
+   Road Weather Motorist Alert and Warning
+
+   Smart Park and Ride System
+
+   Signal Phase and Timing (Spat) messaging
+
+   Speed Warning and Enforcement
+
+   Transit Signal Priority
+
+   Basic Safety Message (BSM): Supports multiple V2V 
+        applications that are being implemented in CV pilot sites such 
+        as forward collision warning; blind spot warning; intersection 
+        collision warning; and red light violation warning, and 
+        emergency brake light warning
+
+   Work Zone Safety Monitoring
+
+    We estimate there are approximately 16,000 vehicles equipped with 
+V2X technology at these deployment sites with several thousand more in 
+the planning stages.
+    While most of the pilot sites are presently using less than 30 MHz 
+of spectrum, additional spectrum allows for anticipated expansion of 
+V2X services and applications into the future. Examples of applications 
+and services requiring additional spectrum include: vehicle-to-
+pedestrian (V2P) safety applications; platooning and cooperative-
+automation applications; and expanded vehicle-to-infrastructure 
+messaging.
+
+    Questions 4. The Government Accountability Office's (GAO) 2019 
+report, Surface Transportation: Action Needed to Guide Implementation 
+of Build America Bureau and Improve Application Process (GAO-19-279) 
+recommended that the USDOT Under Secretary of Transportation for Policy 
+ensure that the Build America Bureau develop and adopt a public 
+statement that outlines USDOT's and the Bureau's policy goals and 
+appetite for risk for the RRIF program. USDOT stated in their response 
+that they did not fully concur with this recommendation, but did not 
+provide any additional explanation for their reasoning. Please describe 
+the Department's appetite for risk related to the RRIF program.
+    Answer. In the Department's letter response to the GAO, we noted 
+that we do not believe that a risk appetite statement for the TIFIA or 
+RRIF loan programs would be feasible. In that letter, we noted the 
+following reason:
+
+        ``The loan programs in the Bureau cover a diverse portfolio of 
+        public, private, highway, transit, rail, intermodal, airport 
+        and seaport projects that range widely in size, complexity, 
+        location and financial structure. Given that diversity, a 
+        single statement designed to cover the whole portfolio would, 
+        by necessity, make the program inaccessible to some project 
+        sponsors. Developing the significant number of separate 
+        statements that would be necessary to address each project 
+        scenario needs would not be feasible. The Bureau has a due 
+        diligence process designed to appropriately vet the 
+        creditworthiness and potential risk of projects seeking credit 
+        assistance.''
+
+    Question 5. FMCSA recently announced a two-year delay in the 
+implementation of the entry-level driver training (ELDT) rule due to 
+information technology issues with the Training Provider Registry 
+(TPR). According to FMCSA, changes to in USDOT internal requirements 
+for cloud-based IT systems are primarily responsible for the delay in 
+the completion of the TPR technology platform. What is the current 
+status of the TPR? Has the Office of Management and Budget (OMB) 
+approved the Information Collection Request for ELDT? Please describe 
+the changes to USDOT's internal requirements that necessitated this 
+delay, when and why the determination to make those changes was made, 
+the estimated timeline for completing those changes, and whether other 
+USDOT rules or project deadlines have been--or are expected to be--
+impacted by these changes. Additionally, please describe how this delay 
+will impact state driver license agencies (SDLA) or may otherwise 
+impact safety.
+    Answer. On June 4, 2020, FMCSA launched the TPR website, followed 
+by the release of the Web Services Handbook, which will allow the 
+SDLAs, training providers, and American Association of Motor Vehicle 
+Administrators to meet the IT technical requirements for interfacing 
+with the TPR. FMCSA is currently finalizing several components of the 
+TPR, including the TPR system testing tools for external users 
+interfacing with the TPR, the training provider registration and search 
+functionality, and the ELDT certification transmission and retrieval 
+functionality.
+    Based on our project plan, FMCSA estimates that SDLAs will begin 
+integrating the TPR functionalities with State-based systems to allow 
+them to begin receiving ELDT driver-specific information by the 
+beginning of 2021, and we are planning to allow training providers to 
+begin registering for the TPR in October 2021.
+    With regard to the details about the technical challenges in 
+initiating the IT development phase the Agency has shared this 
+information with stakeholders via the preamble of the February 4, 2020, 
+Interim Final Rule (IFR) to ensure interested parties were aware of all 
+the factors the Agency considered in making the decision to issue the 
+IFR, and they too could consider those factors in providing comments to 
+the rulemaking docket.
+    Finally, in response to the question about the status of the 
+Information Collection Request, OMB approved FMCSA's request on June 
+26, 2020.
+
+    Question 6. What concerns and impediments have States raised with 
+USDOT regarding the implementation of the entry-level driver training 
+rule? What is USDOT doing to assist States in addressing those concerns 
+and impediments? Has the FMCSA established any dates or deadlines for 
+states by which states must make decisions on the format of IT systems, 
+where to store data, and any other required steps for compliance?
+    Answer. Several SDLAs have raised important questions and concerns 
+regarding the transmittal of ELDT certification information to the 
+States through the Commercial Driver's Licensing Information System 
+(CDLIS) and the Commercial Skills Test Information Management System 
+(CSTIMS), as well as obtaining the information from the Training 
+Provider Registry. Further, States questioned the need for a second 
+verification that an applicant completed the required ELDT training 
+prior to the issuance of a CDL.
+    In response, FMCSA made clarifying changes to the ELDT rules, 
+eliminating what would otherwise have been a duplicative requirement 
+imposed on the States. The Agency revised the rules to clarify that the 
+State must verify an applicant's completion of required ELDT at the 
+point of testing, not issuance (and testing). Additionally, FMCSA 
+amended the rule by removing the requirement to perform CDLIS 
+inquiries, which would limit the State to one interface option for 
+accessing the TPR. FMCSA has worked closely with, and will continue to 
+work with, the American Association of Motor Vehicle Administrators 
+(AAMVA) and the SDLAs during the implementation phases to address these 
+issues in a way that minimizes the administrative burden on States to 
+the greatest possible extent.
+    We also encourage States to apply for funding through FMCSA's 
+Commercial Driver's License Program Implementation grant program to 
+help offset the costs of implementing the ELDT rule. Implementation of 
+the ELDT rule is important to the FMCSA, so much so that we offer 100 
+percent reimbursement for these mandated projects.
+    FMCSA has not established any deadlines for States, other than the 
+proposed compliance dates. However, the Agency has set a high priority 
+on the development of an IT environment by October 2020, for the SDLAs 
+to begin testing their connectivity to the TRP. We have also determined 
+that the ELDT certification information will be stored in the Training 
+Provider Registry. The Agency believes that storing the training 
+information in the TPR should further alleviate administrative burdens 
+on States. As we further develop the TPR, we will continue to 
+communicate the system requirements to the States to help assist them 
+with creating or modifying their existing IT systems.
+                                 ______
+                                 
+   Response to Written Questions Submitted by Hon. Tammy Baldwin to 
+                            Hon. Joel Szabat
+    Question 1. The Consolidated Appropriations Act of 2020 directed 
+the Department of Transportation to continue to partner with State 
+DOTs, metropolitan planning organizations, local and Tribal governments 
+and other entities to assess vulnerabilities and analyze opportunities 
+to improve the resiliency of federal, state and local transportation 
+assets. According to the report language, such partnerships should 
+include additional pilot projects and ensure geographic diversity. 
+Further, in that report language, DOT was directed to expand its 
+technical assistance and trainings to help these entities revise 
+current practices to develop reliable indicators of vulnerability and 
+actionable mitigation measures in all phases of transportation 
+planning, asset management, project-specific planning and development, 
+and operations toward improving resiliency and reducing lifecycle 
+costs.
+    Please provide me with the status of implementation of each item 
+above.
+    Answer. The Department of Transportation's Federal Highway 
+Administration (FHWA) continues to partner with States and metropolitan 
+areas to increase the longevity of the Nation's highways by assessing 
+vulnerabilities and incorporating resilience throughout all phases of 
+transportation decision-making. This includes funding pilot projects, 
+developing resources, facilitating information exchange among 
+transportation agencies, and providing technical assistance.
+    The FHWA continues to work with State DOTs, Metropolitan Planning 
+Organizations, and local agencies across the country to develop lessons 
+learned and share this information nationally through the development 
+of resources on incorporating resilience into all aspects of 
+transportation decision making.
+    FHWA is expanding its technical assistance and training workshops 
+to help State and local officials. For example, FHWA is currently 
+working with the National Highway Institute (NHI) to develop training 
+for addressing resilience in highway project development and 
+preliminary design. FHWA is also working to provide technical 
+assistance and identify resilience related impacts and opportunities in 
+the form of ``rapid resilience assessments'' to State DOTs following 
+various natural and other hazard events.
+
+    Question 2. On December 3, 2019, Senator Duckworth and I wrote to 
+Secretary Chao and Administrator Dickson about implementation of 
+Section 440 of FAA Reauthorization. We have not yet received a response 
+to our letter, which requested an update on the status of DOT's review 
+and revision of regulations related to training programs for air 
+carrier personnel, including contractors, who provide physical 
+assistance to passengers with disabilities to ensure that training 
+programs are offered annually and include hands on training. I look 
+forward to a response to that letter.
+    Please provide me with the status of implementation of Section 440 
+of FAA Reauthorization.
+    Answer. I have summarized below and included a copy of DOT's 
+response to your letter referenced above.
+    Section 440 requires the Department to review, and if necessary 
+revise, applicable regulations to ensure that passengers with 
+disabilities who request assistance while traveling receive dignified, 
+timely, and effective assistance from trained personnel. Section 440 
+also requires the Department to review, and if necessary revise, 
+applicable regulations related to covered air carrier training programs 
+for air carrier personnel, including contractors, who provide physical 
+assistance to passengers with disabilities to ensure that training 
+under such programs occurs on an annual schedule for all new and 
+continuing personnel charged with providing physical assistance, and 
+includes as appropriate, instruction by personnel with hands-on 
+training for employees who physically lift or otherwise physically 
+assist passengers with disabilities, including the use of relevant 
+equipment.
+    The Department has completed its initial review of the applicable 
+regulations related to assisting passengers with disabilities in 
+enplaning, deplaning, and connecting between flights, and to training 
+for employees and airline contractors who physically lift or otherwise 
+physically assist passengers to determine whether regulatory changes 
+may be needed. The Department's review of its regulations and complaint 
+data, pursuant to section 440, revealed that the Department receives a 
+significant number of complaints from consumers alleging that they did 
+not receive prompt or timely wheelchair or guide assistance at the 
+airport. This suggests that airlines may not fully understand their 
+obligation to provide prompt passenger assistance for passengers with 
+disabilities in moving within the airport. Accordingly, through 
+issuance of the Spring 2020 Unified Agenda, the Department announced 
+its plans to amend its regulation to clarify airlines' responsibility 
+to provide prompt assistance to passengers with disabilities who 
+request assistance in moving within the airport.
+    Also, the Department shared information regarding its review with 
+the Air Carrier Access Act Advisory Committee (ACAA Advisory Committee) 
+at its first meeting, which was held on March 10 and 11, 2020. The ACAA 
+Advisory Committee consists of representatives of passengers with 
+disabilities, airlines, airports, and others. It is tasked with 
+identifying and assessing the disability-related access barriers 
+encountered by passengers with disabilities.
+    The Department has established three subcommittees of the ACAA 
+Advisory Committee. They are the Subcommittee on Ticketing Practices 
+and Seating Accommodations, Subcommittee on Stowage of Assistive 
+Devices, and the Subcommittee on Assistance at Airports and Related 
+Training. The Subcommittee on Assistance at Airports and Related 
+Training will be focusing on the issues identified in Section 440 of 
+the FAA Reauthorization, and will report its findings to the full ACAA 
+Advisory Committee in a public meeting. The Department believes it 
+would be beneficial to engage the expertise of the ACAA Advisory 
+Committee as part of its review pursuant to Section 440 to help inform 
+the Department's decision.
+                                 ______
+                                 
+     Response to Written Questions Submitted by Hon. Tom Udall to 
+                            Hon. Joel Szabat
+    Question 1. As you are aware, visibility is limited on rural roads, 
+and poor conditions and obstacles are prevalent, some risks could be 
+mitigated by increasing the number of road signs to warn drivers of 
+potential, unforeseen dangers. Does the DOT support increasing road 
+signage to better communicate possible dangers such as fallen rocks and 
+boulders, wildlife crossings, and train tracks which may help decrease 
+high fatality rates on rural roadways?
+    Answer. The Department, through the Federal Highway Administration 
+(FHWA), establishes nationwide standards for traffic control devices, 
+including signs, in the Manual on Uniform Traffic Control Devices for 
+Streets and Highways (MUTCD). The MUTCD is incorporated by reference in 
+regulations found at 23 CFR part 655, and it applies to all roads open 
+to public travel. State and local agencies make decisions on the 
+appropriate traffic control devices to deploy, and compliance by State 
+and local agencies is required. The MUTCD contains many warning signs 
+for different types of road hazards, such as horizontal curves and 
+intersections and occasional hazards such as fallen rock, wildlife, 
+weather-related conditions, and road surface conditions. Some examples 
+include Fallen Rock, Fog Area, and Deer Crossing. At passive highway-
+rail grade crossings (those without automatic gates or lights), a Stop 
+or Yield sign is required depending on the visibility of trains to 
+approaching drivers on the road. The Department currently promotes 
+several countermeasures for rural road safety and highway-rail grade 
+crossings to reduce crashes on rural roads, including Chevron signs 
+along curves, Intersection Warning signs, and Grade Crossing safety. 
+States may use Highway Safety Improvement Program (HSIP) funding to 
+install, replace, or otherwise improve signage, as long as it is to 
+address a highway safety problem, and is consistent with the State's 
+strategic highway safety plan.
+
+    Question 2. Costs to maintain and repair infrastructure in rural 
+areas is increasing at a higher rate than tax receipts used to cover 
+these costs, putting rural areas in a particularly difficult position. 
+Is there a plan to alleviate pressure on rural communities and help 
+address this imbalance of revenue to cost in rural communities?
+    Answer. The Department appreciates that rural communities face 
+unique challenges, and is working to address them through a number of 
+approaches, including the Department's ROUTES Initiative. The 
+Administration also has reinforced its commitment to meeting rural 
+needs through the President's Fiscal Year 2021 Budget Request.
+    To better address rural needs, Secretary Chao launched the ROUTES 
+Initiative in 2019. The ROUTES Initiative, which stands for Rural 
+Opportunities to Use Transportation for Economic Success, includes a 
+rural transportation infrastructure council and currently has three 
+focus areas: (1) collecting stakeholder feedback to identify rural 
+infrastructure project needs and challenges; (2) sharing user-friendly 
+information with rural communities to assist them in understanding and 
+applying for the Department's discretionary grants; and (3) improving 
+the Department's data-driven approaches to better assess needs and 
+benefits of rural transportation infrastructure projects. Modal 
+administrations including the Federal Highway Administration (FHWA), 
+the Federal Transit Administration (FTA), the Federal Railroad 
+Administration (FRA), and the Federal Aviation Administration (FAA) 
+will coordinate on the ROUTES Initiative.
+    Finally, the President's Fiscal Year 2021 Budget request calls for 
+a substantial increase in funding that could help address rural 
+infrastructure needs. For example, the Budget proposes $35 billion for 
+a new Bridge Rebuilding Program, including $12 billion to be allocated 
+by formula for use on ``off-system'' bridges--often locally-owned and 
+located in rural areas. The Budget also proposes another $25 billion 
+for a new Revitalizing Rural America program, which would help rural 
+communities deliver broadband, transportation, water, and other 
+infrastructure projects.
+
+    Question 3. Rural infrastructure is disproportionately impacted by 
+usage necessary to sustain economic activity in the area, specifically 
+within the agriculture and extractive industries that are more 
+prevalent in rural communities. These industries often use heavier, 
+oversized vehicles that increase wear and deterioration of 
+infrastructure and also lend to more dangerous traffic by causing 
+sudden decreases in speed, prompting other vehicles to pass them using 
+on-coming lanes, etc. These issues increase seasonally during peak 
+recreation seasons. What are some ways DOT plans to address these 
+issues?
+    Answer. In October 2019, Secretary Chao announced a major new 
+initiative to address disparities in rural transportation 
+infrastructure with the aim of improving safety and economic 
+competitiveness throughout the Nation. The Rural Opportunities to Use 
+Transportation for Economic Success (ROUTES) Initiative recognizes the 
+importance of rural transportation networks to the agriculture and 
+extractive industries, because transportation is essential for both 
+domestic uses and the export of agricultural, mining, and energy 
+commodities. As discussed in response to the previous question, the 
+ROUTES Initiative will begin work in three focus areas. One area 
+involves collecting ideas from stakeholders on the benefits rural 
+projects offer for safety and economic outcomes, as well as the kind of 
+assistance rural projects need. The other areas include providing rural 
+communities with information to assist them in applying for the 
+Department's discretionary grants and improving data-driven approaches 
+to evaluate needs and benefits of rural transportation projects. The 
+Department is open to other ideas for addressing impacts to rural 
+infrastructure resulting from economic activity.
+
+    Question 4. Insufficient rural broadband and wireless connectivity 
+is an issue across the country that needs to be addressed. Do you 
+support the ``dig once'' concept that pairs improvements in 
+infrastructure, specifically roads, with the installation and 
+improvement in wireless networks and broadband?
+    Answer. The Department agrees that it is important to expand access 
+to broadband connections, and has been supportive of the 
+Administration's work on broadband, including participation in the 
+American Broadband Initiative. Consistent with President Trump's 
+Executive Order 13821, ``Streamlining and Expediting Requests to Locate 
+Broadband Facilities in Rural America,'' the Federal Highway 
+Administration (FHWA) has been working with State transportation 
+officials to improve utility coordination and accommodation in the 
+highway rights-of-way to accelerate broadband infrastructure 
+deployment. Additionally, FHWA encourages States to work with service 
+providers on joint highway and utility planning, and to consider the 
+use of innovative practices and technologies to minimize roadway 
+excavation.
+    The FHWA is also developing a proposed rule to facilitate broadband 
+infrastructure deployment in the right-of-way (ROW) of applicable 
+Federal-aid highway projects. The proposed rule, which FHWA anticipates 
+publishing, in the coming months will implement provisions of the 
+MOBILE NOW Act (codified at 47 U.S.C. 1504) to ensure that States meet 
+specific registration, notification, and coordination requirements for 
+such broadband infrastructure ROW efforts.
+
+    Question 5. How is DOT working with rural communities to address 
+often times unique issues in the formulation and implementation of 
+infrastructure policy?
+    Answer. Planning policy and project development decisions are part 
+of the Statewide transportation planning process. Some States have 
+designated Rural Planning Organizations (RPO) or Rural Transportation 
+Planning Organizations (RTPO) that work directly with rural communities 
+to identify policy and planning needs. To assist in the formulation and 
+implementation of infrastructure policy, FHWA provides technical 
+support and expertise on design and construction specifications, 
+policies, and procedures. FHWA Division Offices work with State 
+Departments of Transportation in developing standard plans and 
+specifications, and local agencies and rural communities follow their 
+State's policies. The FHWA also develops resources to help small towns 
+and rural communities develop active transportation infrastructure that 
+is safe and comfortable for people of all ages and abilities. The 
+Department anticipates that the Rural Opportunities to Use 
+Transportation for Economic Success (ROUTES) Initiative described in 
+response to Questions 2 and 3 will build upon and enhance these 
+efforts.
+
+    Question 6. The unique challenges that rural areas face require 
+specific expertise in rural planning. The lack of such expertise leads 
+to reduced planning, which then negatively affects the application for 
+funding projects. According to officials in Sandoval County--a rural 
+county in New Mexico--creating a dedicated funding source for planning 
+and design of rural transportation needs could resolve this issue. Do 
+you agree with this assessment? What steps is DOT taking to assist 
+communities with technical assistance?
+    Answer. The Department agrees that planning is vital to 
+understanding transportation needs in rural areas. The Statewide 
+transportation planning process accounts for rural needs and offers 
+opportunities for identifying and prioritizing transportation 
+improvements in these areas. In some cases, the States have designated 
+Rural Planning Organizations or Rural Transportation Planning 
+Organizations that identify rural planning needs and priorities. In 
+other cases, States work directly with local officials. The needs and 
+priorities in rural areas can be different than those in non-rural 
+areas; therefore, approaches that are sensitive to the needs of rural 
+communities are important.
+    To assist communities, FHWA has produced resources to help rural 
+transportation planners increase their skillsets and abilities through 
+guidebooks and tools. For example, Regional Models of Cooperation, an 
+Every Day Counts initiative, helps regions pool resources to address 
+multi-jurisdictional transportation issues. Virtual Public Involvement 
+another Every Day Counts initiative, enhances and broadens the reach of 
+public engagement by making participation more convenient, affordable, 
+and enjoyable for greater numbers of people.
+
+    Question 7. Is DOT looking at ways to update the scoring of grant 
+applications in order to more fairly analyze the cost-benefit 
+assessments that are sometimes harder to quantify in rural communities?
+    Answer. Benefit-cost analysis is one of several factors that the 
+Department considers when evaluating grant applications. Such analyses 
+are intended to provide an objective and fair assessment of benefits 
+and costs for projects in both rural and urban areas. The Department is 
+consistently looking to update and improve its guidance on conducting 
+benefit-cost analysis, while being cognizant of the resource and 
+technical capacity constraints that potential applicants face, 
+particularly those in smaller communities. Our staff also works with 
+those applicants to help them better-articulate and quantify the 
+benefits of those projects through targeted webinars, debriefs, 
+technical assistance, and, in the case of rural communities, 
+initiatives such as ROUTES.
+
+    Question 8. Matching fund requirements are more challenging for 
+rural communities to meet due to often limited tax bases. What efforts, 
+if any, are being made to create information, support, and outreach 
+initiatives, to help rural communities learn about, and apply for 
+Federal options for matching fund sources? Additionally, are there any 
+efforts being made to allow non-DOT Federal funds to be used as 
+matching funds? If no such efforts are being made, would it be possible 
+to allow for rural areas to be required to match funds at a lower rate?
+    Answer. One of the main areas of activity for the ROUTES initiative 
+is developing easy-to-use information for rural communities to help 
+them better understand the Department's discretionary grant programs. 
+To that end, we are developing an Applicant Toolkit that provides an 
+overview of all the Department's discretionary grants and an 
+introduction to the application process. Some of our programs do 
+provide greater flexibility for rural applicants--for instance, BUILD 
+does not require a match for rural projects. In many cases, of course, 
+the rules for these programs are set by statute, but we are working 
+closely with the modes to identify programs where we may have authority 
+to provide useful flexibility for rural communities.
+
+    Question 9. Many rural communities have limited resources which 
+make it hard to hire technical assistance for grant writing, and grant 
+administration. In order to address this, do you think that DOT should 
+provide funding for a program specifically aimed at providing such 
+assistance and training to rural communities?
+    Answer. This is an area our ROUTES Council and Management Team are 
+examining. We are also examining options to leverage existing 
+Department programs that offer technical assistance to rural 
+communities, such as FHWA's Local Technical Assistance Program (LTAP) 
+and Tribal Technical Assistance Program (TTAP), as well as FTA's Rural 
+Transit Assistance Program (RTAP). We are also exploring ways to 
+partner with other Federal agencies such as USDA, who have extensive 
+presence in rural communities.
+                                 ______
+                                 
+   Response to Written Questions Submitted by Hon. Maria Cantwell to 
+                        Morteza Farajian, Ph.D.
+    Railroad Rehabilitation and Investment Financing. The FAST Act 
+provided the Department of Transportation $35 billion in loan authority 
+for the Railroad Rehabilitation and Investment Financing (RRIF) 
+program. However, only four loans have been provided since the passage 
+of the FAST Act and only $6.2 billion in loans has been distributed.
+
+    Question 1. Outside of the RRIF Express program, what actions has 
+the Bureau taken to encourage eligible entities to apply for RRIF 
+loans?
+    Answer. Since establishing the Bureau in 2016, we have implemented 
+a number of measures aimed at helping project sponsors access both the 
+RRIF and TIFIA credit programs more easily. These range from 
+establishing the Outreach and Project Development team that serves as 
+the single point of contact for project sponsors and helps then 
+navigate the regulatory and financial processes. We implemented a more 
+formal and streamlined processes for the review of applications, 
+including weekly meetings of the staff-level Credit Review Team and 
+monthly meetings of the Council on Credit and Finance, both of which 
+have served to reduce the time that it takes for a qualified borrower 
+to obtain a loan. Additionally, we have harmonized the application 
+processes between the TIFIA and RRIF program to the extent we can. We 
+are also developing standardized loan agreement templates for corporate 
+borrowers to make it easier for borrowers to get to financial close by 
+saving time and reducing transaction expenses. We are providing 
+increased in-house technical assistance, including help with 
+environmental (NEPA) and permitting issues.
+
+    Question 2. What are the most common concerns that you hear from 
+applicants regarding the RRIF the application process and what are you 
+doing to address those concerns?
+    Answer. The three most common challenges we hear from prospective 
+borrowers, especially the smaller short line and regional railroads, 
+are:
+
+   The amount of time it takes to secure a RRIF loan;
+
+   The cost of the Credit Risk Premium (CRP) and that the CRP 
+        cost is not known until late in the underwriting process; and
+
+   The expense that the borrower incurs in paying for Bureau 
+        financial and legal advisors to review the loan application.
+
+    The RRIF Express pilot program was implemented to address each of 
+these concerns and we anticipate learning much from this pilot to help 
+us better understand how to serve the short line and regional railroads 
+following its close-out later in the year.
+
+    Question 3. How many applications have your received so far for the 
+RRIF Express Program and when do you expect to complete the application 
+process for those applications?
+    Answer. The open application period for RRIF Express closed in mid-
+August, with ten initial Letters of Interest received at that point, 
+which we anticipate would not utilize all $25 million in budget 
+authority for credit subsidy that Congress appropriated. We are 
+considering options to expand eligibility and extend the deadline in 
+hopes of fully utilizing this budget authority. While it is difficult 
+to predict when projects will reach financial close because much of the 
+timing is driven by the prospective borrower's rate of progress, we 
+believe the application review process can be finalized within six 
+months of receiving a complete application. We will be happy to share 
+more details on the results of the pilot program and lessons learned 
+once we have the information available.
+
+    GAO Report. Last March the GAO issued a report noting that the 
+Build America Bureau lacks a plan to guide ongoing and future efforts, 
+as well as any kind of performance indicators to assess its progress. A 
+year later, all five of the GAO's recommendations remain open.
+
+    Question 4. What steps has the Bureau taken to implement each 
+recommendation and when can we expect each recommendation to be fully 
+implemented?
+    Answer. The Bureau responded to the GAO's report and 
+recommendations in a letter dated June 28, 2019. A copy of the letter 
+was provided to the Senate Subcommittee on Transportation, Housing and 
+Urban Development. The Bureau has completed actions to address three of 
+the five recommendations (Recommendations 3, 4 and 5), as of August 24, 
+and GAO has closed one (Recommendation 5). The Bureau is on track to 
+complete a deliverable that will address the two other Recommendations 
+(1 and 2) and provide them to GAO by October 1, 2020.
+
+    ROUTES and the Budget. The Build America Bureau's RRIF Express 
+program and Transportation Infrastructure Finance and Innovation Act 
+(TIFIA) loan program's Rural Project Initiative are key parts of the 
+Department ROUTES Initiative. Not only is tailoring infrastructure 
+programs to meet the needs of rural communities, but outreach and 
+technical assistance are vitally important to ensure rural communities 
+have access to these programs. The President's Budget proposes reducing 
+appropriations for the Build America Bureau by 15 percent to $4.25 
+million in FY 2021.
+
+    Question 5. How would this cut impact the Bureau's ability to 
+perform outreach and technical assistance to rural communities?
+    Answer. In addition to the resources appropriated to the Bureau for 
+administration, the Bureau also has access to the administrative 
+resources authorized in section 608 of title 23 for the TIFIA program, 
+which we envision will be reauthorized for Fiscal Year 2021. Together, 
+these funding sources for the Bureau's administrative expenses will 
+adequately support our rural and other initiatives. In addition, we 
+recently received an appropriation to conduct a regional infrastructure 
+accelerator demonstration program, which presents another opportunity 
+to provide technical assistance to rural and non-rural project sponsors 
+seeking TIFIA and other innovative financing. As such, the requested 
+funding level in the 2021 President's Budget for the Bureau's 
+administrative expenses will not negatively impact our ability to 
+conduct this outreach.
+
+    Question 6. What other impacts would this cut have on the Bureau's 
+activities?
+    Answer. We do not anticipate any negative impacts on the Bureau's 
+activities resulting from the 2021 President's Budget.
+
+    Question 7. At the hearing you testified that there were 
+approximately a dozen applications being considered pursuant to the 
+TIFIA Rural Projects Initiative. When do you expect to complete the 
+application process and make awards pursuant to that Initiative?
+    Answer. While it is difficult to predict when projects will reach 
+financial close because much of the timing is driven by the prospective 
+borrower's rate of progress and their timing needs, we do have a 
+growing pipeline of projects that are interested to use the TIFIA Rural 
+Project Initiative, mainly due to our expanded outreach and technical 
+assistance efforts to rural communities. We have two projects in the 
+final stages of the creditworthiness and negotiation phase, with 
+expected closing in September and October 2020. We also have a third 
+project which has entered the creditworthiness phase and is expected to 
+close by year-end 2020. We are closely working with the remainder of 
+the Rural Projects, but because they are less advanced in their 
+development, it is difficult to predict when they might reach financial 
+close, however, based on current participation, we believe it is likely 
+that all TIFIA subsidy funds set aside for rural projects will be used 
+by the end of FY 2021.
+                                 ______
+                                 
+  Response to Written Questions Submitted by Hon. Tammy Duckworth to 
+                        Morteza Farajian, Ph.D.
+    Question 1. Over the past five years, how many applicants 
+successfully completed the pre-application process for a Railroad 
+Rehabilitation and Improvement Financing (RRIF) loan. How many of these 
+applicants did USDOT invite to apply for a RRIF loan?
+    Answer. Over the past five years, a total of 10 projects have 
+completed the RRIF pre-application process, and USDOT invited all 10 to 
+submit a RRIF loan application.
+
+    Question 2. Stakeholders are frustrated with the time it takes, and 
+the associated costs, for USDOT to procure advisors for the RRIF pre-
+application process. Please describe the process of identifying and 
+procuring USDOT advisors for the RRIF process? On average, how long 
+does it take for USDOT to procure advisors for the RRIF pre-application 
+process? Please describe any impediments to the timely identification 
+and procurement of these advisors.
+    Answer. Through a competitive procurement process, USDOT has 
+established a select pool of financial and legal advisors that have 
+demonstrated to USDOT the specialized expertise necessary to evaluate 
+potential RRIF loans. As a result, USDOT can typically procure its 
+financial and legal advisors within 4-6 weeks from the time the Bureau 
+has determined that a RRIF project sponsor's letter of interest has 
+offered sufficient information to begin the evaluation of the project.
+
+    Question 3. Many stakeholders have complained about the high cost 
+associated with the financial and legal advice required in the RRIF 
+pre-application process. Some applicants have spent hundreds of 
+thousands of dollars during the RRIF pre-application process, which can 
+deter future applicants from seeking Federal financing assistance. What 
+is the spectrum of costs (low to high) for finance, legal and 
+administrative advice for the RRIF pre-application process? For 
+applicants who considering the pre-application process, how does USDOT 
+establish expectations for applicants regarding these costs?
+    Answer. The characteristics of RRIF loan projects can vary greatly, 
+and therefore the costs of both USDOT's advisors and the prospective 
+RRIF borrower's advisors also vary greatly. These costs are not 
+necessarily driven by the RRIF loan amount itself, and are due to a 
+number of factors, including, but not limited to, compliance with 
+Federal requirements, the project's technical complexity, and the 
+evaluation of the potential borrower's ability to repay the RRIF loan. 
+As we receive information from the applicant, we develop a range for 
+the estimated expenses. Those estimates are usually as good as the 
+level of information that we receive from the applicant. At early 
+stages it may be a wide range, but as we make progress in the process 
+and more accurate information becomes available the range becomes 
+tighter. Also, sometimes new information may become available or 
+unknown issues may arise that may require adjustments to the initial 
+estimates. In all cases, we try our best to communicate realistic 
+expectations regarding the expenses and estimates.
+
+    Question 4. How does USDOT ensure that applicants' pre-application 
+costs and timeline are minimized? What mechanism does USDOT employ to 
+incentivize advisors appropriate and timely advancement of the pre-
+application processes in a timely manner?
+    Answer. When USDOT releases a request for proposals for the 
+evaluation of a RRIF loan project to its pre-selected pool of financial 
+and legal advisors, USDOT evaluates all responsive proposals and 
+ultimately selects the proposal that offers the best value through a 
+combination of both the proposal's technical rating and total price. 
+This incentivizes USDOT's financial and legal advisors to submit 
+proposals that propose to analyze a RRIF loan project as efficiently as 
+possible.
+
+    Question 5. The Government Accountability Office's (GAO) 2019 
+report, Surface Transportation: Action Needed to Guide Implementation 
+of Build America Bureau and Improve Application Process (GAO-19-279), 
+highlights that the Build America Bureau (BAB) has a number of 
+prolonged vacancies. How many vacant positions currently exist at BAB? 
+How long have those positions been vacant? Please explain what 
+impediments exist to filling those vacancies? Please provide a list of 
+the vacant positions including, title and job description.
+    Answer. The Bureau has made several hires in the past year. The 
+Outreach and Project Development team has grown by six staff, the 
+Credit Programs team has added a Lead Underwriter, a Business Operation 
+Manager and two attorneys were hired. While there are a few remaining 
+vacancies in the process of being recruited, mainly to enhance 
+portfolio management and risk management functions, we are primarily at 
+the point that we are replacing staff as personnel turnover occurs.
+
+    Questions 6. In GAO-19-279, GAO recommended that BAB develop and 
+adopt a public statement that outlines USDOT's and the Bureau's policy 
+goals and appetite for risk related to the RRIF programs. USDOT stated 
+that it did not concur with the recommendation because a risk appetite 
+statement ``would not be feasible'' given the variety and diversity of 
+projects that may be funded by BAB's loan programs. USDOT indicated 
+that while it would be developing a strategy that outlined BAB's policy 
+goals, it did not intend to issue a public risk statement. Please 
+provide a timeline for when USDOT will be finalizing and releasing the 
+proposed strategy outlining BAB's policy goals, and describe USDOT's 
+appetite for risk specifically for the RRIF program. Additionally, if 
+USDOT or BAB have developed, or intend to develop, a private risk 
+appetite statement or other similar analysis for the RRIF program or 
+other programs under BAB's jurisdiction, please provide that statement 
+or the timeline for when such a statement will be completed.
+    Answer. As noted in our response to the GAO, we do not believe that 
+providing a risk appetite statement for either the TIFIA or RRIF 
+programs would be feasible and practical. In our response, we state 
+that; ``The loan programs in the Bureau cover a diverse portfolio of 
+public, private, highway, transit, rail, intermodal, airport and 
+seaport projects that range widely in size, complexity, location and 
+financial structure. Given that diversity, a single statement designed 
+to cover the whole portfolio would, by necessity, make the program 
+inaccessible to some project sponsors. Developing the significant 
+number of separate statements that would be necessary to address each 
+project scenario needs would not be feasible. The Bureau has a due 
+diligence process designed to appropriately vet the creditworthiness 
+and potential risk of projects seeking credit assistance.'' As an 
+alternative action, we have developed a risk approach statement which 
+provides a high-level overview of the Bureau approach within the 
+mandates and limitations of TIFIA and RRIF credit programs. This 
+document is going through final steps of internal review and will be 
+provided to the GAO by October 1, 2020.
+    In addition, we have posted the Bureau's policy goals for the TIFIA 
+and RRIF programs on our website in January, 2020, which are to:
+
+   Enhance the pipeline of eligible projects by providing 
+        proactive educational outreach and technical assistance to 
+        potential borrowers in utilizing the TIFIA and RRIF programs, 
+        and their capacity to fill market gaps by leveraging 
+        substantial local and private co-investment.
+
+   Diversify the pipeline of eligible projects by geography 
+        (i.e., urban and rural, new States, etc.) size, and type (i.e., 
+        highway, transit, rail, port, etc.), to ensure an equitable 
+        distribution of program benefits.
+
+    Question 7. Credit risk is generally considered the possibility of 
+a loss resulting from a borrower's failure to repay a loan. While it is 
+impossible to predict who will default on a loan, assessing and 
+managing risk is important to address the severity of a loss. However, 
+lenders charge interest as a reward for assuming that risk, and in the 
+case of the RRIF program, have the backing of the Federal government 
+and the authority provided by Congress. However, concerns have been 
+raised about USDOT's acceptance of risk in RRIF applications. For 
+example, some stakeholders have related that they have been required to 
+``let'' a project during the pre-application process. In layman's 
+terms, this is the equivalent of signing a contract to buy a house 
+without a financing contingency before securing a mortgage. Please 
+state whether this has occurred for any RRIF applications and cite to 
+USDOT's authority to compel applicants to let projects before a loan is 
+secured. Additionally, if this has occurred or if USDOT intends to 
+utilize such an approach in the future, please provide an explanation 
+of how this advances RRIF program goals of improving rail 
+infrastructure.
+    Answer. As required by statute and regulation, the interest rate on 
+a RRIF loan is equal to the rate on Treasury securities for a similar 
+term. The Treasury rate is a ``risk-free'' interest rate that only 
+compensates the Government for its time value of money. That is, the 
+RRIF loan interest rate does not account for the risk of a default on 
+the RRIF loan, and USDOT cannot charge a higher interest rate on a RRIF 
+loan to compensate for any potential loan default risk as other lenders 
+can.
+    As part of a RRIF loan evaluation, USDOT also analyzes a RRIF 
+project's construction and completion risk. USDOT does not require that 
+a potential RRIF borrower ``let'' a project during the pre-application 
+and application processes. However, USDOT does typically require that 
+final construction or other purchase contracts be executed before USDOT 
+can execute a loan agreement with a RRIF project sponsor to avoid 
+unanticipated increases in total project costs that could jeopardize 
+the project's completion, as well as the project's plan of finance, 
+including the RRIF loan.
+                                 ______
+                                 
+   Response to Written Questions Submitted by Hon. Maria Cantwell to 
+                           Hon. John McCarthy
+    Freight Data. Big data can help policy makers and transportation 
+planners with making important decisions about our transportation 
+networks. The FAST Act required the Bureau of Transportation Statistics 
+(BTS) to publish an annual Port Performance Freight Statistics report. 
+The report provides nationally consistence performance metrics to 
+measure capacity and throughput for the Nation's largest ports. 
+Additionally, BTS provides a number of freight related datasets in its 
+annual Freight Facts and Figures reports.
+
+    Question 1. How does the Northwest Seaport Alliance currently use 
+the information provided by BTS?
+    Answer. The Northwest Seaport Alliance does not use the performance 
+metrics for ports. They are too generic for decision making. We do 
+review the freight-related datasets BTS publishes to communicate with 
+partner agencies and the community at large. Our MPO, the Puget Sound 
+Regional Council (PSRC), uses Freight Analysis Framework (FAF) data to 
+some extent for its freight modeling efforts. Most (including our own) 
+consultants use the PSRC's model as the basis--with some adjustments--
+to evaluate the impacts of roadway and freeway projects on freight 
+mobility.
+
+    Question 2. What additional freight related data would you find 
+useful for BTS to provide?
+    Answer. NWSA offers the following suggestions on data that would be 
+helpful to our organization.
+
+   Metrics and measures that support U.S. businesses and trade: 
+        Data that support metrics that track freight system impacts on 
+        our exporters' and importers' competitiveness, including 
+        shipping cost, travel time and reliability.
+
+   Data that allow us to incorporate shipping costs into 
+        freight system performance metrics within each mode, for these 
+        reasons:
+
+     Cost is a reflection of freight system efficiency: The 
+            cost of shipping can be directly affected by the efficiency 
+            of freight systems, and therefore it is a useful metric to 
+            compare like-modal investments.
+
+     Cost is critical for freight system users: Moreover, 
+            shipping cost is of critical importance to those who depend 
+            on the system. For exporters, it can make the difference in 
+            whether their products are competitive in global markets. 
+            It also is important to U.S. manufacturers, who depend on a 
+            highly efficient system to get their goods to market and to 
+            take advantage of the just-in-time processes that are 
+            common practice in their industries.
+
+     Shipping cost can drive shifting trade routes: Cost 
+            also is a factor that can influence significant shifts in 
+            trade routes, a phenomenon that should be of concern to 
+            policymakers and closely tracked. The port business is 
+            extremely competitive, especially over discretionary cargo 
+            bound for inland regions that can be shipped through any 
+            number of ports.
+
+     Cost is the primary driver of the Canadian ports' 
+            advantage: At the NWSA we are keenly aware of the role cost 
+            plays in cargo routing decisions. Our main competitors are 
+            the nearby Canadian ports of Vancouver and Prince Rupert, 
+            which in recent years have aggressively targeted US-bound 
+            cargo. In the decade that followed the opening of Prince 
+            Rupert's container terminal in 2007, the NWSA lost 15 
+            percent of our market share to British Columbia ports. In 
+            addition to continuing to expand on the West Coast, Canada 
+            has plans to repeat this success on the East Coast. The 
+            NWSA competes well when it comes to efficiency, reliability 
+            and transit time to inland markets. Yet the cost of moving 
+            a container from Asia through the ports of Vancouver or 
+            Prince Rupert can be $600 less than it is to move a 
+            container through our port.
+
+   Data supporting other freight system performance metrics: 
+        Recent efforts by FHWA's Office of Freight Management and 
+        Operations to identify performance measures related to freight 
+        in the areas of safety, maintenance/preservation, mobility 
+        reliability, accessibility/connectivity and the environment 
+        provide a robust first set of performance measures for trucks. 
+        Truck travel time reliability, truck-based delays, and the 
+        value of wasted time and fuel also are helpful measures that 
+        could inform DOT's discretionary grant programs. However, some 
+        issues that warrant further work include:
+
+     Currently, analysis focuses mostly on the Interstate 
+            System and does not adequately cover state and/or local 
+            facilities providing access to that system or rail 
+            intermodal yards serving major freight intermodal 
+            facilities such as our port's container terminals. High-
+            volume, last-mile facilities are often located in urban 
+            areas that are severely congested, yet they are often 
+            overlooked in the analyses.
+
+     Future performance measures must address the 
+            performance of intermodal facilities, connectors and the 
+            rail and truck corridors to which they provide access in a 
+            way that addresses their role in the national freight 
+            system. (The current port performance metrics don't support 
+            this.)
+
+     Greater incorporation of environmental measures.
+
+   Data that allow us to benchmark the U.S. freight system with 
+        that of other nations: The Federal government should utilize 
+        international benchmarks and increase efforts to understand how 
+        our freight system compares at a global level. This will help 
+        ensure U.S. exporters retain the transportation-related 
+        competitive advantages they have enjoyed over previous decades. 
+        A comparison can utilize many of the metrics USDOT already is 
+        tracking. Another good area to compare is public and private 
+        spending on freight infrastructure.
+
+   Data that allow us to assess individual supply chains: It 
+        may also be helpful for USDOT to assess individual supply 
+        chains that are impacted by a project, set of projects or 
+        performance of certain corridors to determine the impacts of 
+        public investments on specific industries. For example, this 
+        could be helpful in determining the benefits of port 
+        improvements on the transportation costs of agricultural 
+        exports that are critical to supporting rural economies. Such 
+        an analysis should be performed based on end-to-end freight 
+        trips rather than over a single segment or mode.
+
+                                  [all]
+

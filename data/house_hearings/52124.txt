@@ -1,0 +1,1926 @@
+
+ - FIXING FISA: HOW A LAW DESIGNED TO PROTECT AMERICANS HAS BEEN WEAPONIZED AGAINST THEM
+
+[House Hearing, 118 Congress]
+[From the U.S. Government Publishing Office]
+
+
+                   FIXING FISA: HOW A LAW DESIGNED TO
+                       PROTECT AMERICANS HAS BEEN
+                        WEAPONIZED AGAINST THEM
+
+=======================================================================
+
+                                HEARING
+
+                               BEFORE THE
+
+       SUBCOMMITTEE ON CRIME AND FEDERAL GOVERNMENT SURVEILLANCE
+
+                                 OF THE
+
+                       COMMITTEE ON THE JUDICIARY
+
+                     U.S. HOUSE OF REPRESENTATIVES
+
+                    ONE HUNDRED EIGHTEENTH CONGRESS
+
+                             FIRST SESSION
+                               __________
+
+                        THURSDAY, APRIL 27, 2023
+                               __________
+
+                           Serial No. 118-18
+                               __________
+
+         Printed for the use of the Committee on the Judiciary
+         
+         
+                  [GRAPHIC NOT AVAILABLE IN TIFF FORMAT]         
+
+
+               Available via: http://judiciary.house.gov
+
+                               __________
+
+                    U.S. GOVERNMENT PUBLISHING OFFICE
+                    
+52-124                    WASHINGTON : 2023  
+
+
+
+                       COMMITTEE ON THE JUDICIARY
+
+                        JIM JORDAN, Ohio, Chair
+
+DARRELL ISSA, California             JERROLD NADLER, New York, Ranking 
+KEN BUCK, Colorado                       Member
+MATT GAETZ, Florida                  ZOE LOFGREN, California
+MIKE JOHNSON, Louisiana              SHEILA JACKSON LEE, Texas
+ANDY BIGGS, Arizona                  STEVE COHEN, Tennessee
+TOM McCLINTOCK, California           HENRY C. ``HANK'' JOHNSON, Jr., 
+TOM TIFFANY, Wisconsin                   Georgia
+THOMAS MASSIE, Kentucky              ADAM SCHIFF, California
+CHIP ROY, Texas                      DAVID N. CICILLINE, Rhode Island
+DAN BISHOP, North Carolina           ERIC SWALWELL, California
+VICTORIA SPARTZ, Indiana             TED LIEU, California
+SCOTT FITZGERALD, Wisconsin          PRAMILA JAYAPAL, Washington
+CLIFF BENTZ, Oregon                  J. LUIS CORREA, California
+BEN CLINE, Virginia                  MARY GAY SCANLON, Pennsylvania
+LANCE GOODEN, Texas                  JOE NEGUSE, Colorado
+JEFF VAN DREW, New Jersey            LUCY McBATH, Georgia
+TROY NEHLS, Texas                    MADELEINE DEAN, Pennsylvania
+BARRY MOORE, Alabama                 VERONICA ESCOBAR, Texas
+KEVIN KILEY, California              DEBORAH ROSS, North Carolina
+HARRIET HAGEMAN, Wyoming             CORI BUSH, Missouri
+NATHANIEL MORAN, Texas               GLENN IVEY, Maryland
+LAUREL LEE, Florida
+WESLEY HUNT, Texas
+RUSSELL FRY, South Carolina
+                                 ------                                
+
+                   SUBCOMMITTEE ON CRIME AND FEDERAL
+                        GOVERNMENT SURVEILLANCE
+
+                       ANDY BIGGS, Arizona, Chair
+
+MATT GAETZ, Florida,                 SHEILA JACKSON LEE, Texas, Ranking 
+TOM TIFFANY, Wisconsin                   Member
+TROY NEHLS, Texas                    LUCY McBATH, Georgia
+BARRY MOORE, Alabama                 MADELEINE DEAN, Pennsylvania
+KEVIN KILEY, California              CORI BUSH, Missouri
+LAUREL LEE, Florida                  STEVE COHEN, Tennessee
+RUSSELL FRY, South Carolina          DAVID N. CICILLINE, Rhode Island
+
+               CHRISTOPHER HIXON, Majority Staff Director
+          AMY RUTKIN, Minority Staff Director & Chief of Staff
+
+                            C O N T E N T S
+
+                              ----------                              
+
+                        Thursday, April 27, 2023
+
+                                                                   Page
+
+                           OPENING STATEMENTS
+
+The Honorable Andy Biggs, Chair of the Subcommittee on Crime and 
+  Federal Government Surveillance from the State of Arizona......     1
+The Honorable Sheila Jackson Lee, Ranking Member of the 
+  Subcommittee on Crime and Federal Government Surveillance from 
+  the State of Texas.............................................     4
+The Honorable Jerrold Nadler, Ranking Member of the Committee on 
+  the Judiciary from the State of New York.......................     7
+
+                               WITNESSES
+
+The Honorable Michael Horowitz, Inspector General, U.S. 
+  Department of Justice Office
+  Oral Testimony.................................................     9
+  Prepared Testimony.............................................    12
+The Honorable Sharon Franklin, Chair, Privacy and Civil Liberties 
+  Oversight Board
+  Oral Testimony.................................................    24
+  Prepared Testimony.............................................    26
+The Honorable Beth Williams, Board Member, Privacy and Civil 
+  Liberties Oversight Board
+  Oral Testimony.................................................    33
+  Prepared Testimony.............................................    35
+
+ 
+                   FIXING FISA: HOW A LAW DESIGNED TO
+           PROTECT AMERICANS HAS BEEN WEAPONIZED AGAINST THEM
+
+                              ----------                              
+
+
+                        Thursday, April 27, 2023
+
+                        House of Representatives
+
+       Subcommittee on Crime and Federal Government Surveillance
+
+                       Committee on the Judiciary
+
+                             Washington, DC
+
+    The Subcommittee met, pursuant to notice, at 9:05 a.m., in 
+Room 2237, Rayburn House Office Building, Hon. Andy Biggs 
+[Chair of the Subcommittee] presiding.
+    Members present: Representatives Biggs, Jordan, Gaetz, 
+Tiffany, Nehls, Moore, Kiley, Lee, Fry, Jackson Lee, Nadler, 
+Dean, and Cicilline.
+    Also present: Representatives Bishop and Cline.
+    Mr. Biggs. The Subcommittee will come to order. Without 
+objection, the Chair is authorized to declare a recess at any 
+time. We welcome everyone to today's Hearing on the Foreign 
+Intelligence Surveillance Act and appreciate our witnesses 
+being here. I do apologize because, like you, Ms. Jackson Lee, 
+I was down at the Judiciary Committee room, on the floor, just 
+wondering where everybody was. That is the way it goes. So, I 
+will now recognize myself for an opening statement.
+    I welcome my colleagues to this important hearing and I 
+want to welcome our witnesses. Thank you for being here.
+    FISA, the Foreign Intelligence Surveillance Act, has shown 
+to be a powerful tool for United States intelligence, but the 
+United States intelligence community has shown they cannot be 
+fully trusted to retain this vast power. In fact, I cannot 
+think of an example of when a powerful intelligence tool was 
+not abused in the United States in this way. When we give power 
+to the Federal government, the Federal government has abused 
+that power seemingly every time.
+    In my experience, we have a saying that when a man gets 
+power, thinks that they have power, they almost always tend to 
+abuse it. I think that is the case here.
+    President Obama's IRS had to apologize after targeting 
+conservatives. President Biden's DOJ targets Catholics and 
+characterizes worshippers as adhering to a radical traditional 
+Catholic ideology.
+    Just last week, the Judiciary Committee learned that the 
+Biden campaign, without any governmental power, peddled a 
+conspiracy theory that the Hunter Biden laptop was Russian 
+disinformation to effect the outcome of an election. They did 
+this without FISA.
+    A former CIA official testified to this Weaponization 
+Committee that then Biden campaign senior advisor, now 
+Secretary of State Antony Blinken, played a role in the 
+inception of the public statement signed by the current and 
+past intelligence officials that claim that the Hunter Biden 
+laptop was part of a Russian disinformation campaign.
+    A Twitter user was just sentenced for up to 10 years for 
+election interference for tweeting a meme, a joke, that fewer 
+than 5,000 people saw or believed. How many people believe this 
+election effort in the Politico article,
+
+        Hunter Biden story is Russian disinfo, dozens of former intel 
+        office officials say. More than 50 former intelligence 
+        officials signed a letter casting doubt on the provenance of a 
+        New York Post story on the former Vice President's son.
+
+    We want to be able to trust our intelligence community, the 
+officials who gather intelligence. Well, I view this now with a 
+great deal of skepticism. If they would lie to the free flow of 
+information to subvert an election and earn a top job with the 
+new administration without FISA, I fear that these same people 
+would still think they can break the rules if they retain 
+powerful tools like FISA. I believe they would do it, too, just 
+as they have done before.
+    In 2019, Department of Justice Inspector General Michael 
+Horowitz, who is one of our witnesses today, exposed the extent 
+to which President Obama's FBI violated its authorities under 
+FISA using FISA as a pretext to illegally spy on Trump campaign 
+associates in an attempt to affect another election. They 
+weren't as successful in 2016 as they were in 2020. I remember 
+having private conversations with Inspector Horowitz, besides 
+his public testimony, and always enlightening, and I appreciate 
+his candor. I look forward to it today.
+    At that time, in his investigation, Inspector General 
+Horowitz analyzed a sampling of 29 applications to the FISA 
+Court to authorize surveillance. In 25 of them, there was 
+unsupported, uncorroborated, or inconsistent information in the 
+Woods files which are procedures for ensuring the factual 
+accuracy of information contained in FISA applications. The FBI 
+was unable to even locate the Wood files for the other four 
+applications.
+    Further review by the Inspector General revealed that the 
+FBI failed to recognize the significant risk posed by systemic 
+noncompliance with the Woods procedures. In those 29 
+applications which were reviewed, the Inspector General found 
+over 400 instances of noncompliance with the Woods procedures. 
+The FISA Court, the FISC, approved all 29 of those 
+applications.
+    In 2020, FBI Director Wray testified before the Committee 
+telling then Ranking Member Jordan that,
+
+        Jordan would not lose any sleep over the vast majority of FISA 
+        applications and we wouldn't want to grind FISA to a halt with 
+        more scrupulous review.
+
+    Well, I can't speak for Chair Jordan, but I actually do 
+lose sleep over FISA applications. I lose sleep over the 3.4 
+million warrantless searches of Americans' communications using 
+FISA Section 702; 3.4 million warrantless searches in 2021 
+alone, which is nearly triple the approximately 1.3 million 
+queries in 2020.
+    While reports indicate the FBI conducted fewer queries in 
+2022, it still made roughly 559 searches per day. That 
+represents, in my opinion, intelligence officials breaking the 
+rules 559 times per day. I lose sleep over the fact that 
+Section 702 information acquired without a warrant can later be 
+used by the FBI in criminal prosecutions unrelated to foreign 
+intelligence or national security. I lose sleep knowing that 
+the FBI has misused privileged, warrantless spying power to 
+conduct rogue surveillance on innocent Americans. To me, this 
+is not a partisan issue. I don't believe either side can 
+condone that.
+    I lose sleep knowing that these reports are only a piece of 
+the government's abuses of the FISA program and only the ones 
+that I know about.
+    At the end of this year, Section 702 of FISA is set to 
+expire. Reports in recent years have exposed the government's 
+and specifically, the FBI's abuse of this program. A law 
+designed to provide tools to collect foreign intelligence and 
+prevent foreign terrorist attacks has been worked into a 
+domestic intelligence tool to intercept and catalogue 
+Americans' phone calls, text messages, emails, and other 
+electronic communications. Unfortunately, for the intelligence 
+community, we have a Fourth Amendment in the United States and 
+I say that sarcastically. It is not unfortunate that we have a 
+Fourth Amendment. It is one of the great blessings that sets 
+the United States apart from every other nation.
+    As Congress considers whether to reauthorize this program, 
+this Committee will be at the forefront, this Subcommittee will 
+be at the forefront. This Subcommittee has the opportunity to 
+shed a light on the broad issue of warrantless, mass 
+surveillance and hopefully end it once and for all. We must 
+consider whether this program can be reformed or if it is 
+beyond repair.
+    FISA Section 702 explicitly states that it may only be used 
+to target non-U.S. persons located abroad for the purpose of 
+obtaining foreign intelligence information, but it is clear 
+that the government has used communications acquired through 
+this program to conduct back-door searches of Americans' 
+communications.
+    For years now, I have called for serious reform or even 
+full repeal of FISA, but the Federal intelligence community, 
+even Members of Congress, have attempted to scare us to make us 
+believe that these unchecked powers are the only method 
+available to protect our Nation from harm. Well, every American 
+should be concerned to know Federal agents are spying on them, 
+even if you have nothing to hide.
+    We need to prohibit warrantless surveillance of Americans 
+and hold accountable any Federal official who violates the 
+civil liberties of Americans. I wonder how much longer we must 
+watch the FBI brazenly spy on Americans before we start 
+stripping it of its unchecked authority. Make no mistake, 
+actors within the FBI and other similar Federal agencies will 
+continue to conduct unlawful and unconstitutional surveillance 
+of Americans.
+    While there are political examples of abuse of intelligence 
+agencies to affect elections, this is not a political issue. It 
+is not a partisan issue. I hope that this issue has the 
+potential to be a rare bipartisan effort in this Congress to 
+protect the rights of Americans. I know I have talked to some 
+of my colleagues across the aisle who have similar views as I 
+do and I look forward to working with them to either fix or end 
+these abuses.
+    I thank again our witnesses for being here and look forward 
+to hearing your testimony today and with that, I will yield 
+back and recognize the distinguished Ranking Member, the 
+gentlelady from Texas, Ms. Jackson Lee.
+    Ms. Jackson Lee. Good morning, Mr. Chair, and thank you 
+very much. Thank you to the Members who are present here today 
+and thank you to the witnesses who are likewise present here 
+today.
+    I realize that today we are speaking of fixing FISA. I hope 
+it is in reference to many aspects of what we have seen 
+particularly in the September 2021 report. We have found that 
+there are fixes that can go across administrations, across 
+investigations, and our responsibility is to be the oversight 
+board, if you will, for the American people.
+    Having been here since 9/11, and recognizing the terror we 
+felt and the immediacy of concern, but this Committee, working 
+with our Chair and other Members of the Committee, made sure 
+that we likewise protected the American people in the 
+legislation that we passed at that time. In fact, we had to 
+redo it, in essence, to ensure the protection of the American 
+people. So, I know that we are talking about and should be 
+talking about a law that is designed to enhance America's 
+national security.
+    Let's be very clear. I take issue with my good friend's 
+assessment of the weaponization of this particular tool. We 
+must, in fact, find a way as we did previously in a bipartisan 
+manner to deal with the tool that we use for individuals that 
+are non-U.S. persons and who happen to be abroad.
+    Let me be clear, as well, that if we are specifically 
+looking at the contact between the 2016 Trump campaign and 
+surveillance of Carter Page, a former campaign advisor, we know 
+that this was under Title 1 of FISA, not under 702. So, we need 
+to recognize the broad base of the needs of national security. 
+I am about to mention as I begin my remarks the airman, the 
+National Guard Airman that has brought at least personal terror 
+to me. It is not a 702 case, but we will need the tools of 
+investigation to ensure, as we are now learning, that there may 
+be overseas connections to investigate the horror of a young 
+airman of being able to access the highest level of national 
+secrets in this country. We are not looking at that today. I 
+think that is an appropriate review. If it deals with tools 
+that the FBI may ultimately have to use. I, for one, certainly 
+hope that justice is rendered and that the gentleman faces 
+sufficient punishment to know that this is not something that 
+you fool with.
+    Today, we should be looking at not fooling with America's 
+security and doing it in the right way and ensuring that the 
+tools are stood up and that they are stood up right.
+    So, I thank you for convening today's hearing on the 
+Foreign Intelligence Surveillance Act. As the important and 
+sometimes controversial Section 702 of FISA is set to sunset 
+this year, hearings before this Subcommittee will be critical 
+to sorting out the record of privacy compliance by the 
+intelligence community during this last reauthorization period.
+    I expect that today's witnesses will offer us insight on 
+the performance of the intelligence visions under Section 702 
+and be distinctive, distinctive in what we are talking about 
+here today. We are not on a fishing expedition today. Maybe it 
+will be necessary forthright, but under Section 702 and 
+compliance efforts implemented in recent years to ensure that 
+U.S. persons are not needlessly swept into our international 
+surveillance web. The Foreign Intelligence Surveillance Act was 
+passed in 1978 to curb abuses in the collection and use 
+intelligence information, foreign and domestic. Under the 
+original provision of FISA, collection of foreign intelligence 
+required the government to show not only that there is probably 
+cause to believe the target of intelligence surveillance is an 
+agent of a foreign power, but also that foreign intelligence 
+gathering is a primary purpose of the collection.
+    As I indicated when we had to take a look at this under the 
+USA Patriot Act 2001 and the aftermath of 9/11 and beyond, the 
+government need only show such probable cause and that foreign 
+intelligence gathering is merely a significant purpose of the 
+collection. That was framed around the fears of 9/11.
+    In the wake of 9/11, the intelligence gathering needs of 
+the Nation and advances in technology require the government to 
+devote substantial resources to obtaining court approval based 
+on a showing of probable cause to conduct surveillance against 
+terrorists located overseas.
+    Witnesses before this Committee testified that these 
+standards frustrated intelligence gathering and stated that the 
+intelligence community was collecting only approximately two 
+thirds of the foreign intelligence information. That was 
+collected prior to legal interpretations that required the 
+government to obtain individualized FISA Court-ordered or 
+overseas surveillance.
+    In response to this situation and the evolution of 
+technology, Congress enacted the FISA Amendments Act of 2008. 
+The FAA authorized the government to collect massive amounts of 
+information through the targeted surveillance of foreign 
+persons reasonably believed to be outside of the United States 
+without a warrant. With such massive amounts of information 
+being collected invariably, information involving U.S. persons 
+in the U.S. whose information is not constitutionally subjected 
+to targeting might be collected.
+    However, the statute includes protection for U.S. persons 
+who may be on the other end of these communications. The FAA 
+requires intelligence agencies to design targeting procedures 
+which limit the scope of collection before the government acts 
+and minimalization [sic] of procedures which limit the use of 
+information about U.S. persons after the government 
+incidentally collects the information, rightly so for the 
+American people's protection.
+    The Foreign Intelligence Surveillance Court reviews these 
+procedures for legal sufficiency. The FISA Court is 
+indispensable and must play a meaningful role in ensuring 
+compliance with the law and Congress must have regular access 
+to information about the extent to U.S. communications being 
+collected and the authority to require of U.S. persons are 
+being scooped up through the surveillance of a target. That is 
+crucial to fit into our constitutional infrastructure.
+    The intelligence community reports that it adheres to both 
+the letter and the spirit of the law. So, remember, with nearly 
+all this oversight conducted in secret, the public has no 
+choice, but to take the government at its word and that is why 
+we are here today in an open, nonclassified briefing and 
+hearing. With the war in Ukraine and other political 
+instability around the globe, we clearly live in unstable times 
+requiring our intelligence community to maximize its resources 
+to keep America safe from threats both foreign and domestic.
+    America and its allies face continuous national security 
+threats from foreign nations and terrorist organizations, 
+foreign agents from rival nations continue to spy on the United 
+States and Al-Qaeda and other terrorist networks continue to 
+plot attacks against America. America's security cannot be 
+guaranteed at the border alone and I am reminded of my early 
+remarks about the young airman.
+    Congress must ensure that our national security agencies 
+are able to gather foreign intelligence information from 
+foreign terrorists and nation states, so that we can stop 
+threats before they reach our shores. It is clear that FISA and 
+Section 702 have proven successful in achieving this goal, but 
+as we consider reauthorization, we must also ensure that the 
+constitutional right of U.S. persons are not compromised in the 
+process. The objective is any authorized program of foreign 
+intelligence surveillance must be to ensure that American 
+citizens and persons in America are secure and that their 
+persons, papers, effects while making terrorists everywhere 
+else in the world insecure.
+    Finally, the best way to achieve these dual goals is to 
+follow the rule of law and the exclusive law to follow with 
+respect to authorization authorizing foreign surveillance 
+gathering on U.S. soil is FISA which can, and should be 
+modernized to accommodate new technologies. Therefore, as we 
+consider reauthorization of Section 702, we must examine the 
+existing privacy safeguards and consider further modification 
+to ensure Americans' constitutional rights are protected as we 
+have done in previous years.
+    In 2015, Congress enjoyed a great deal of success working 
+together to pass the USA Freedom Act that created a new program 
+for the targeted collection of telephone metadata, while 
+providing greater privacy in civil liberties protections for 
+Americans, expanding existing Congressional oversight for 
+businesses, and creating greater transparency of the Nation's 
+security programs operated under FISA. At that time, we 
+demonstrated that we can build consensus around our common 
+values, both in this Committee and on the House floor. Among 
+those values are a dedication to privacy, transparency, and 
+protection from unreasonable searches.
+    Mr. Chair, we have a similar opportunity before us again as 
+we discuss ways in which we can craft and reach an authority 
+that serves the Government's needs and respect our commitment 
+to protecting the cherished privacy of Americans. So, 
+therefore, let us work together on behalf of the American 
+people.
+    I look forward to the testimony of the witnesses, Mr. 
+Chair, and I yield back. Thank you for the time.
+    Mr. Biggs. Thank you. The gentlelady yields back. The Chair 
+now recognizes the Chair of the Full Committee, Mr. Jordan, for 
+an opening statement.
+    Mr. Jordan. Mr. Chair, I look forward to hearing from our 
+witnesses. Thanks for putting this hearing together. I yield 
+back.
+    Mr. Biggs. The gentleman yields back, and I now recognized 
+the Ranking Member of the entire Committee, Mr. Nadler.
+    Mr. Nadler. Thank you, Mr. Chair. Today, this Committee 
+finally gets back to the serious work of keeping Americans 
+safe, safe from those who seek to do us harm and safe from 
+those who might trample on our civil liberties in a quest to 
+keep our country secure no matter the cost. Section 702 of the 
+Foreign Intelligence Surveillance Act is scheduled to sunset on 
+December 31st of this year. I, myself, have never voted to 
+reauthorize Section 702, but I recognize that these authorities 
+are also important to national security especially in today's 
+threat environment.
+    I am looking forward to hearing from the expert witnesses 
+in today's hearing and the hearings to come. I intend to 
+approach the question of reauthorization this year with a 
+cautious, but open mind, toward reform.
+    Since FISA Section 702 was last reauthorized in January 
+2018, the surveillance landscape has considerably evolved. Five 
+years later, on the other end of the pandemic, our on-line 
+communications represent an even broader reflection of our 
+daily lives. Under an authority as powerful as Section 702, 
+even if the intelligence agencies are not targeting us 
+directly, the government is sweeping up records of our banking, 
+our meetings, our education, and our simplest human 
+interactions.
+    Foreign State actors have also adjusted to the new way of 
+life. Ransomware, cyber-threats, and cyber-espionage are all 
+now common threats to the United States. Today, a foreign state 
+actor can disable a hospital's computer systems, shut down a 
+power grid, and steal classified national security information, 
+all without entering the United States.
+    Section 702 is one important tool our intelligence 
+community uses to fight these and other threats. The problem 
+with this authority has always been in its application. The 
+statutory protections on the books are simply insufficient for 
+protecting our civil rights and our privacy. For example, 
+although Section 702 authorizes only the targeting of non-U.S. 
+persons who are outside the United States, we know that massive 
+amounts of U.S. persons' data are swept up under this 
+programmatic surveillance.
+    Despite our best efforts, our intelligence agencies have 
+kept us largely in the dark as to how many Americans' 
+communications are incidentally collected every year. We know 
+from what reporting is available that the government has a lot 
+of this data and that much of it could not have been obtained 
+without a warrant had they tried to collect it directly.
+    The warrantless collection of this much data alone should 
+give anyone pause. Those American communications are not just 
+collected and set aside. They are made available to agencies 
+like the FBI, who can search the 702 data base for our 
+communications for purposes having nothing to do with national 
+security. These so-called back-door searches are neither 
+hypothetical, nor rare. Last year, the FBI used U.S. personal 
+identifiers to query the 702 data base nearly 3.4 million 
+times.
+    Now, the FISA Court has found that querying information 
+that has already been legally acquired is not considered 
+another search under the Fourth Amendment. Incidental 
+collection is not accidental collection. The government knows 
+at the outset that it will obtain our communications. The FBI 
+should not also be able to rifle through them as if they 
+arrived by chance.
+    Simply put, Congress should no longer entertain the legal 
+fiction that back-door searches are either constitutional or 
+respectful of our privacy. Nor, should we find comfort in the 
+FBI's track record accessing this information appropriately. 
+The FISA Court has repeatedly found violations at the FBI where 
+employees searched U.S. personal identifiers for neither 
+foreign intelligence nor evidence of a crime.
+    True, in many of those cases the court found that the 
+unauthorized searches were not malicious or intentional, but 
+rather the product of a lack of training and difficult to use 
+technology. I suppose we should be gratified that the rate of 
+these incidents appears to have dropped dramatically in the 
+past year. We have been tinkering with better training and 
+better technology for almost two decades. Moving from of a few 
+million violations a year to merely a few hundred thousand does 
+not inspire confidence.
+    No massive surveillance operation should be given free rein 
+to evade our constitutional protections. Section 702, as it 
+currently exists, does just that.
+    The question we face this year is whether changes to the 
+702 program can effectively protect our civil liberties. That 
+is not a question that can be answered in just one hearing, but 
+there is reason to be optimistic that Section 702 can be 
+changed for the better. When Congress last reauthorized this 
+provision in January 2018, it implemented some minor statutory 
+changes to improve civil liberties protection. The effects of 
+these changes is just beginning to be seen in DOJ querying 
+practices and its publication of U.S. persons query numbers 
+among others.
+    These small improvements are not new to congressional 
+legislation. After the Court of Justice of the European Union 
+struck down the U.S.-EU privacy shield in 2020, an agreement 
+that governed the flow of data across the Atlantic, the Biden 
+Administration took steps to improve, redress, and oversight of 
+its surveillance operations as part of negotiations for a 
+different data privacy agreement. These, too, were steps in the 
+right direction.
+    As we consider the merits of this program, I could caution 
+my colleagues against using the Federal government as a 
+bogeyman to prove some political point. Many of us agree that 
+Section 702 needs to be updated to better protect Americans' 
+communications, but we should also acknowledge that the 
+problems presented by 702 are not cabined to this 
+administration or to the last administration. Section 702 has 
+been a threat to our privacy and civil liberties for years and 
+to pretend otherwise does a disservice to the important 
+bipartisan work ahead of us.
+    Thank you, Mr. Chair. I look forward to hearing from our 
+witnesses and I yield back the balance of my time.
+    Mr. Biggs. I thank Mr. Nadler and I am optimistic after 
+hearing your positions, because I think we share a lot of the 
+same positions on this.
+    We will now introduce today's witnesses.
+    The Honorable Michael Horowitz. Mr. Horowitz is the 
+Inspector General of the Department of Justice. He oversees a 
+staff of more than 500 special agents, auditors, inspectors, 
+attorneys, and support staff tasked with deterring, detecting 
+waste, fraud, abuse, and misconduct in DOJ programs and 
+personnel. He previously served as Chair of the Council of the 
+Inspectors General on Integrity and Efficiency from 2015-2020.
+    Welcome, Inspector General Horowitz.
+    The Honorable Sharon Bradford Franklin. Ms. Franklin is the 
+Chair of the Privacy and Civil Liberties Oversight Board. Prior 
+to her appointment, she served as Co-Director of the Security 
+and Surveillance Project at the Center for Democracy and 
+Technology. From 2013-2017, she served as the Executive 
+Director of the Privacy and Civil Liberties Oversight Board.
+    Thank you for being here, Ms. Franklin.
+    The Honorable Beth Williams. Ms. Williams is a Board Member 
+of the Privacy and Civil and Liberties Oversight Board. Prior 
+to her appointment, she served as an Assistant Attorney General 
+for the Office of Legal Policy at the Department of Justice and 
+was a litigator in private practice.
+    Welcome, Ms. Williams. Thank you for being here.
+    We welcome you today and thank our witnesses. We will begin 
+by swearing you in. Would you please each rise and raise your 
+right hand?
+    Do you swear or affirm under penalty of perjury that the 
+testimony you are about to give is true and correct to the best 
+of your knowledge, information, and belief, so help you God?
+    Let the record reflect the witnesses have answered in the 
+affirmative. You may be seated.
+    Please know that your written testimony will be entered 
+into the record in its entirety. Accordingly, we ask that you 
+summarize your testimony in five minutes. As I let you know at 
+the beginning, I will let all our Members know as well, just so 
+you will remember, we have the Joint Session of Congress for 
+the President of the Republic of Korea will be here at 11:00 
+and we have to be in our seats by 10:35-ish I think is the 
+word.
+    With that, Mr. Horowitz, you may begin.
+
+          STATEMENT OF THE HONORABLE MICHAEL HOROWITZ
+
+    Mr. Horowitz. Thank you, Chair Biggs, Ranking Member 
+Jackson Lee, and Members of the Committee. I appreciate you 
+inviting me to testify today.
+    In every year since 2006, the OIG's Annual Report on the 
+Top Management and Performance Challenges Facing the Department 
+of Justice has highlighted the difficulty faced by DOJ and the 
+FBI in maintaining the proper balance between protecting 
+national security and safeguarding civil liberties.
+    My office regularly conducts national security and 
+surveillance oversight work, including OIG reviews of the FBI's 
+use of its specific FISA authorities, the FBI's use of other 
+national security authorities, and the FBI's and other DOJ law 
+enforcement components' use of confidential human sources and 
+administrative subpoenas. I've attached to my written testimony 
+links to the 20 post-9/11 reports that my office has done in 
+these areas.
+    The overarching conclusion from this series of reports is 
+that compliance has certainly been far from perfect, and that 
+transparency, effective internal controls, and rigorous 
+internal and external oversight are needed and critical to 
+ensuring that the significant authorities held by the 
+department investigators and prosecutors to surveil Americans 
+are used in accordance with applicable laws, court orders, and 
+the Constitution.
+    Indeed, the importance of rigorous, ongoing, and effective 
+oversight in this area was highlighted by disturbing findings 
+in three of our recent reports.
+    First, our review of four FISA applications and other 
+aspects of the FBI's Crossfire Hurricane investigation.
+    Our audit of the FBI's execution of its Woods Procedures in 
+connection with FISA applications for U.S. persons.
+    Our audit on the roles and responsibilities of the FBI's 
+Office of General Counsel on national security matters.
+    These reports highlight three centrally important 
+principles that this Subcommittee and the Committee should be 
+considering as you look at the future of 702.
+    First, there needs to be effective supervisory review, and 
+that needs to occur in real time to prevent compliance errors 
+from occurring in the first place. In our experience, effective 
+and strong supervisory review helps detect and prevent errors 
+before they occur. In connection with both our Crossfire 
+Hurricane review and our Woods review, we identified 
+significant inadequacies in the supervisory review, as we 
+reported on, that could have had a meaningful impact on how 
+those programs were conducted.
+    Second, effective, routine, and regular internal oversight 
+is needed to identify and address any program weaknesses. With 
+any program, but, particularly, with the National Security 
+Program, DOJ, and FBI must have their own effective internal 
+auditing and compliance functions and controls to ensure that 
+they're complying with laws, rules, and regulations, and, of 
+course, the Constitution.
+    During our Woods Procedures audit, we actually found that 
+they did have such procedures and were doing such audits. The 
+problem was they weren't looking at the results, so that they 
+could make effective reforms and make changes.
+    We've seen recently that the FBI and the department has 
+created a compliance training--Compliance Trends Analysis Group 
+and an Office of Internal Accounting. Those are important 
+steps. We will be reviewing those as we look at our 
+recommendations and consider whether and how those actions have 
+affected compliance.
+    Third, the significant issues that we've identified 
+demonstrate the need for strong, rigorous, outside oversight. 
+That's the kind of work we've done. We're going to hear from 
+the Privacy and Civil Liberties Oversight Board, the work that 
+they've done, and others, to ensure that recommendations--to 
+ensure there's compliance and to ensure that recommendations 
+are followed and implemented.
+    One of the things that requires is timely access to 
+information and records. This Committee and the Congress took 
+an important step in that regard, in 2016, with passage of the 
+IG Empowerment Act. That work is also resource-intensive. Our 
+recent work on the Crossfire Hurricane and Woods audits 
+required well more than a dozen of our staff to work on those 
+matters for an extended period of time.
+    We've appreciated the strong support that Congress has 
+given us through the Appropriations Committees, and we look 
+forward to continuing that work with the support of the 
+Congress. We look forward to speaking further of that with the 
+Subcommittee, about how the work we do and our future--what 
+we've done, and our future work can continue to ensure that the 
+department operates with integrity, with efficiency, with 
+accountability, and in compliance with all laws, and, of 
+course, the Constitution.
+    Thank you. I look forward to answering your questions and 
+appreciate being here today.
+    [The prepared statement of the Hon. Horowitz follows:]
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+    
+    Mr. Biggs. Thank you, Inspector General.
+    Now, Ms. Franklin, you may begin.
+
+               STATEMENT OF THE HONORABLE SHARON
+
+                       BRADFORD FRANKLIN
+
+    Ms. Bradford Franklin. Chair Biggs, Ranking Member Jackson 
+Lee, and Members of the Committee, thank you for the 
+opportunity to testify before you today.
+    I'm testifying in my individual official capacity. So, the 
+views I express today are my own and not necessarily the views 
+of any fellow board members.
+    The Privacy and Civil Liberties Oversight Board is an 
+independent agency, and our role is to review Federal 
+counterterrorism programs to ensure that they have appropriate 
+safeguards for privacy and civil liberties.
+    The PCLOB is currently examining Section 702 of FISA, 
+which, as you know, is set to expire at the end of this year, 
+unless reauthorized. Our review does not examine traditional 
+FISA orders, such as those at issue in the Crossfire Hurricane 
+investigation.
+    Section 702 authorizes the government to target non-
+Americans located outside the United States and to collect the 
+content and metadata of their communications. Although the 
+board has not yet completed our Section 702 report, we can 
+already say that we agree three things are true.
+    Section 702 is valuable in protecting our national 
+security, and Section 702 creates risks to privacy and civil 
+liberties, and these risks can, and should be, addressed 
+without undermining the core value of the program. We are 
+confident that the privacy risks posed by Section 702 can be 
+addressed while preserving the program's value in protecting 
+our national security.
+    Since our report is not yet complete, I cannot say what 
+recommendations we'll make collectively as a board. Instead, I 
+will briefly describe my own views regarding three particular 
+privacy risks that I urge Congress to address.
+    First, Section 702 implicates the privacy rights of 
+Americans due to the volume of incidental collection. Section 
+702 targets can only be non-U.S. persons reasonably believed to 
+be located outside of the United States. The FISA Court 
+annually reviews and approves the general categories of foreign 
+intelligence to be collected, as well as targeting procedures, 
+minimization procedures, and querying procedures. No judge ever 
+reviews analysts' targeting decisions, nor do the procedures 
+require that targets be suspected of wrongdoing.
+    The legal rationale for these lower standards is that 702 
+targets are non-U.S. persons. So, they do not have recognized 
+Fourth Amendment rights. Nonetheless, if a U.S. person 
+communicates with a foreign target, their communications can be 
+collected through what the government calls incidental 
+collection.
+    The term ``incidental'' makes it sound like a small amount, 
+but we don't actually know the scope of this collection. The 
+government has argued that it would not be feasible to 
+calculate a meaningful number, but I believe that an estimate 
+that involves some margin of error can still be helpful to 
+Congress, as you assess what safeguards are needed for Section 
+702.
+    A second key aspect of Section 702 involves what the 
+government calls U.S. person queries. Analysts use queries to 
+search through already collected communications. As I've just 
+described, Section 702 does not require judicial review before 
+targeting or at the front end of Section 702 surveillance. 
+There also is no requirement that government agents establish 
+probable cause or obtain the permission of a judge before they 
+conduct a search through 702 data seeking information about a 
+specific American. That is why privacy advocates refer to these 
+U.S. person queries as ``backdoor searches.''
+    There's been a lot of public attention to FBI's violations 
+of the existing query rules. Importantly, the FBI has recently 
+implemented several reforms designed to improve compliance, but 
+I do not believe that these changes are sufficient to address 
+the privacy threats.
+    U.S. persons' communications are entitled to protection 
+under the Fourth Amendment. So, when there's no judicial review 
+at the front end, the government should not be able to search 
+through collected communications for a specific American's 
+communications without any individualized judicial review. As 
+Congress debates reauthorization of Section 702, I urge you to 
+incorporate a requirement for FISA Court review of U.S. person 
+query terms to ensure protection of U.S. persons' Fourth 
+Amendment rights.
+    The final privacy risk I want to mention is the risk that 
+the government will seek to restart ``abouts'' collection, 
+which involves communications that are neither to or from a 
+target, but, instead, include a reference to a target. In 2017, 
+the NSA announced that it had suspended ``abouts'' collection. 
+Then, the January 2018 reauthorization of Section 702 
+prohibited ``abouts'' collection, but also provided that the 
+government could restart this collection after obtaining FISA 
+Court approval and giving notice to Congress.
+    However, the unique privacy risks posed by ``abouts'' 
+collection would reemerge if restarted. I'd, therefore, urge 
+Congress to remove the provision authorizing the government to 
+restart this type of collection.
+    Ultimately, I urge Congress to use the opportunity of the 
+Section 702 sunset to adopt meaningful reforms, and I'm 
+encouraged that this Committee is beginning this process now. I 
+am confident that Congress can address the privacy risks posed 
+by Section 702, while preserving the key value the program 
+offers to protect our national security.
+    Thank you, and I look forward to your questions.
+    [The prepared statement of the Hon. Bradford Franklin 
+follows:]
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+    Mr. Biggs. Thank you, Ms. Franklin.
+    Now, Ms. Williams, you are recognized for five minutes.
+
+          STATEMENT OF THE HONORABLE BETH A. WILLIAMS
+
+    Ms. Williams. Good morning.
+    Thank you, Chair Biggs, Ranking Member Jackson Lee, and 
+Members of the Committee, for inviting me to testify before you 
+today regarding Section 702. On behalf of the Privacy and Civil 
+Liberties Oversight Board, I'm grateful to be here today.
+    Before I begin, there are a few caveats to my testimony.
+    First, as the Chair said, ``I am also only one Member of 
+the Board. So, I'm speaking in my individual capacity as a 
+board Member and not for the board as a whole.''
+    Second, I want to note that we are currently working on an 
+extensive report on the Section 702 program. We anticipate that 
+this report will explain the program in as complete and 
+unclassified a manner as possible, and that it will provide 
+further recommendations going forward.
+    On that last point, with the exception of the three points 
+of agreement Chair Franklin stated at the outset, the report 
+and the Members' discussions and deliberations are very much 
+still in process. So, out of respect for my fellow Members, as 
+well as the fact that we are still receiving new information, 
+much of which is classified, I'll be somewhat limited in what I 
+can opine on at this time.
+    Third, I note that our forthcoming report is focused on the 
+program operated pursuant to Section 702, and not on FISA as a 
+whole and not on Title I authorities. So, I would defer to my 
+co-panelist and Inspector General Horowitz on questions beyond 
+Section 702.
+    I am, however, deeply concerned, as I know are many of the 
+Members of this Subcommittee and others in Congress, regarding 
+FBI misuses of its authority. There must be no repeat of the 
+egregious violations of law and policy committed during the 
+investigation of alleged Russian interference in the 2016 
+election campaign of former President Trump.
+    Furthermore, although those violations occurred under a 
+separate section of FISA that governs investigations of U.S. 
+citizens, the intelligence community has not been faultless in 
+its application of the Section 702 program, either. Indeed, it 
+is evident that many queries of information about U.S. persons 
+were run against 702-
+collected information, specifically, by the FBI in conflict 
+with governing policies and procedures. This is unacceptable 
+and must be acknowledged and addressed.
+    The FBI has taken some steps to remediate this problem. I 
+anticipate that the board's forthcoming report will detail some 
+of the significant compliance incidents and will make further 
+recommendations to the FBI and to the intelligence community as 
+a whole.
+    Having said that, I would like to spend a few minutes this 
+morning clarifying some points about the program. To begin 
+with, Section 702 does not permit targeting of U.S. persons. 
+Also important, Section 702 is not a bulk collection program. 
+Instead, the program targets specific non-U.S. persons abroad 
+about whom an individualized determination has been made that 
+they are reasonably likely to possess, receive, or 
+communication foreign intelligence information.
+    That intelligence information has led to the discovery of 
+previously unknown terrorist plots directed against the United 
+States and our allies, enabling the disruption of those plots. 
+It has assisted and protected our troops abroad, and it has 
+been used to identify and to prevent multiple foreign attacks 
+on our critical infrastructure. There can be no question that 
+the program is extraordinarily valuable to the safety and well-
+being of Americans.
+    In contrast to some of the query and compliance issues that 
+I mentioned, we also have not seen significant compliance 
+problems with regard to the collection of information. Indeed, 
+in the most recently released joint assessment of the program, 
+the NSA targeting compliance incident rate was .08 percent. 
+During the same reporting period, the FBI targeting compliance 
+rate was .007 percent.
+    This means that the intelligence community is largely 
+avoiding improper collection under existing law and policies. 
+That is, they are not improperly targeting U.S. persons or 
+persons reasonably believed to be located in the United States.
+    As you are deliberating on how to improve Section 702 going 
+forward, I'd like to offer two topics for your consideration.
+    First, what the FBI considers sensitive queries are 
+crucially important. When you get at the heart of what most 
+worries concerned citizens, it is that the intelligence 
+community will be weaponized against politically disfavored 
+opponents. That is unacceptable in a democracy and must be 
+guarded against.
+    Recently, and belatedly, the FBI put in place procedures 
+that require heightened review for certain queries, such as 
+those involving elected officials, members of the media, and 
+religious figures. In the most sensitive cases, review is 
+required by the Deputy Director of the FBI personally. Congress 
+should look closely at these enhanced preapproval policies and 
+consider whether this requirement might be codified, 
+strengthened, or reviewed by the FISC.
+    Finally, Congress might consider how Section 702-derived 
+information could be used in the context of vetting, both for 
+immigration purposes and for individuals applying for high-
+level security clearance. Currently, for most agencies, a query 
+of unminimized Section 702 data is permitted only where the 
+search is reasonably likely to retrieve foreign intelligence 
+information. This means that the U.S. Government may already 
+have in its possession information that a visa applicant or a 
+person applying for the high-level clearance poses a threat to 
+our national security or is in communication with someone who 
+does. No one from our government might ever see this 
+information because our agents and analysts cannot run a query 
+for it in the unminimized 702 collection.
+    If Congress wants to ensure that persons coming in to work 
+in our country or persons entrusted with our most important 
+national security information are thoroughly vetted against 
+information already in the government's possession it might 
+consider looking further.
+    Mr. Biggs. Ms. Williams your five minutes has expired.
+    Ms. Williams. Thank you. I look forward to your questions.
+    [The prepared statement of the Hon. Williams follows:]
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+    
+    Mr. Biggs. Well, thank you so much, and we look forward 
+to--well, I've read your statement. I'll review it again.
+    Ms. Williams. Thank you.
+    Mr. Biggs. Thank you. With that, we're going to proceed now 
+under the five-minutes rule for questions.
+    The Chair recognizes the gentleman from Florida, Mr. Gaetz.
+    Mr. Gaetz. Good to see you again, Mr. Inspector General. We 
+appreciate you and all the great members of your team. I want 
+you to know we do read your reports. Just yesterday, I was 
+questioning the ATF Director about why they weren't following 
+some of the recommendations you put forward, and noted that 
+work is appreciated.
+    I also take note of our distinguished Ranking Member's call 
+for this FISA reform to be bipartisan and to be nonpartisan, 
+which at times are two different things. I think it is 
+thoughtful and mature, and I will do all I can to resist the 
+temptation to frequently point out that the very political 
+weaponization that Ms. Williams testified about is often 
+directed against Republicans.
+    Based on the Ranking Member's solemn, and I think 
+thoughtful, advice, we'll try to avoid seizing on that point as 
+frequently as we might otherwise.
+    I want to get into the 3.4 million backdoor searches that 
+the Ranking Member pointed out in his opening statement.
+    Mr. Inspector General, how should the public think about 
+those?
+    Mr. Horowitz. Well, I think what we've seen in the various 
+public reports--and I'm limited in what I can say about what's 
+public, which I think is one of the issues, by the way, that's 
+worth talking about, is transparency here--it's, obviously, 
+very concerning that there's that volume of searches, and 
+particularly, concerning the error rate that was reported on in 
+the last two years in the public reporting. Now--
+    Mr. Gaetz. That error rate was what?
+    Mr. Horowitz. I believe it was around 30 percent. I think--
+fellow members? I think it's around 30 percent.
+    Mr. Gaetz. Well, 30. Yes, I'm a lawyer, not a 
+mathematician, but 3.4 million, about 30 percent, you're 
+talking about seven figures of error in terms of these 
+searches. I'm wondering, how many people can perform these 
+backdoor queries?
+    Mr. Horowitz. I'm going to defer to board members, because 
+you have the review ongoing.
+    Ms. Bradford Franklin. I'm afraid I don't have those 
+figures at my fingertips in terms of the number of people that 
+can conduct those types of searches. I share the concern 
+expressed in the question that we need to have greater 
+safeguards, and I urge Congress to incorporate a requirement 
+for FISA Court review of these kinds of searches to protect 
+Americans' Fourth Amendment rights.
+    Mr. Gaetz. There are 3.4--you had 3.4 million backdoor 
+searches, more than a million of them in error. If I represent 
+to you that we believe there may be north of 10,000 people in 
+the Federal government that can perform those queries, would 
+anyone here have a basis to disagree with that assessment?
+    Mr. Horowitz. No.
+    Mr. Gaetz. So, FISA is unique in our jurisprudence because 
+it's not an adversarial process. Most of us think about 
+justice, where there's a lawyer on one side, a lawyer on the 
+other, and then, a judge or a jury makes the decision. Here in 
+FISA, you've got just one team and the referee, and you don't 
+have a defense attorney or an advocate there to point out these 
+things.
+    Given that FISA isn't adversarial, how does that increase 
+the importance of the Department of Justice taking the 
+recommendations of the Inspector General, as you've laid out 
+over the years?
+    Mr. Horowitz. Congressman, I think it's critical. You're 
+exactly right. That is one of the concerns we saw in the Title 
+I work we did on the Carter Page FISAs, which is, to some 
+extent, the FISC is relying--well, it is relying entirely on 
+what the government tells it. So, in some respects, it's unfair 
+to look to the FISC to try and do the kind of work that, as you 
+noted, a defense lawyer would do.
+    I was a Federal prosecutor. I was a defense lawyer as well. 
+There's a search for the truth--
+    Mr. Gaetz. Again, I'm a little annoyed they don't hold the 
+Federal prosecutors in contempt who come before them and don't 
+present complete evidence if that happened.
+    Mr. Horowitz. I'll just say, on the Carter Page FISAs, one 
+of the problems that we found, and one of the serious problems 
+we found, was the FBI was sitting on information and it wasn't 
+telling the prosecutors that information.
+    Mr. Gaetz. See, if I was in a civil litigation environment 
+in North Florida, and I was withholding evidence that the other 
+side had a right to, I would expect a judge to sanction me. I 
+know you don't oversee the court, but perhaps a message that 
+they would absorb.
+    Speaking of messages to absorb, we have this nonadversarial 
+process. We have these 3.4 million backdoor queries, more than 
+a million of them in error. It just doesn't seem like DOJ is 
+listening and they are as quick on the uptake as they should 
+be.
+    In 2019, you write a 470-page report detailing the 
+problems. In 2020, you publish a management advisory that lays 
+out the problems. In 2021, you lay out additional reforms. It 
+seems as though every time you write a report, and then, the 
+DOJ comes in and tells us that they now have fixed everything 
+and have seen the light. Then, you write another report showing 
+that there hasn't been sufficient compliance. I know there's a 
+report coming after this hearing, but I think that just 
+continues the cycle until we constrain these authorities.
+    Mr. Biggs. The gentleman's time has expired.
+    The Chair recognizes the gentlelady from Texas, the Ranking 
+Member, Ms. Jackson Lee.
+    Ms. Jackson Lee. Thank you very much.
+    Good morning.
+    Ms. Franklin, when Congress reauthorized FISA in January 
+2018, we added a provision requiring the Attorney General to 
+develop procedures for querying information in the 702 data 
+base, to be reviewed by the FISA Court as part of its annual 
+certification. Can you explain why having clearly defined 
+querying procedures can help protect Americans' Fourth 
+Amendment rights?
+    Ms. Bradford Franklin. Thank you for that question.
+    Yes, I agree that requiring specified querying procedures 
+is important. Previously, the rules that applied to querying 
+were contained in minimization procedures. They have now been 
+fleshed out and documented further, and we just had a release 
+recently, this week, by the FBI, of a public version of their 
+querying procedures. Having clarity can help prevent the kinds 
+of compliance violations that we have seen.
+    However, I would urge that those are not sufficient. I 
+believe that, in addition to having specified rules which are 
+approved by the FISA Court, Congress should incorporate a 
+requirement that individual queries be submitted to the FISA 
+Court for review to ensure full protection.
+    Ms. Jackson Lee. So, in any reform, you would add the 
+individual queries as well for clarification and transparency?
+    Ms. Bradford Franklin. Yes, and--
+    Ms. Jackson Lee. Within the intelligence community?
+    Ms. Bradford Franklin. Well, I think FISA Court review 
+can--the individualized judicial review is important because in 
+this program we do not have individualized judicial review at 
+the front end. So, when we are looking--when analysts are 
+looking for the information about specific Americans who have 
+recognized Fourth Amendment rights, to have the judicial review 
+at that point.
+    Ms. Jackson Lee. Thank you.
+    Inspector General Horowitz, in the 2018 reauthorization of 
+Section 702, Congress made some small changes to the law to 
+attempt to protect U.S. persons whose communications may be 
+swept up in 702 collections. One of the changes was to impose a 
+limited warrant requirement for U.S. persons who are the 
+subject of an open criminal investigation. How has the warrant 
+requirement been used in practice? What impact?
+    Mr. Horowitz. Let me get back to you on that. I want to 
+make sure that I'm fully informed on that. I have not looked at 
+that recently, and I want to be careful on how much I can say 
+in a public forum at this point.
+    Frankly, one of the challenges in talking about the use of 
+these tools is how much remains classified and how only in the 
+last recent months have we seen information coming forward. So, 
+I need to get back to you, if I can, on that, Congresswoman.
+    Ms. Jackson Lee. I want to take a leap, but you notice that 
+I mentioned the young airman. As I recall, what is in the 
+public domain is that there may have been some foreign contacts 
+that may come to our attention.
+    How would--we're all appalled at that. I'll just take a 
+brief moment on that before I ask Ms. Franklin a very quick 
+question. We're all appalled at that.
+    So, I want to just frame what we need to do to secure 702. 
+Just give us, if that was the case, and if there was a need to 
+engage, how the 702 would be utilized.
+    Mr. Horowitz. So, I think the important one--I'm not going 
+to talk about any specific case.
+    Ms. Jackson Lee. Yes.
+    Mr. Horowitz. As a general matter, what you mentioned is 
+the need to get a warrant in certain circumstances. That 
+requires a court. You don't self-issue a warrant. That creates 
+the oversight process that, I think, the Chair is referencing 
+more broadly, as a means by which there would be further court 
+review in other areas as well.
+    I won't speak for the Chair, but--
+    Ms. Jackson Lee. I have a question for her. She can follow-
+up on that, if she desires. Let me, let me do the question.
+    I think I just want to get to the point. It wouldn't be 
+willy nilly, if I may use that terminology. The FBI needs to 
+well document--
+    Ms. Bradford Franklin. It depends what they're trying to 
+do, I think is the right answer on that one. I don't know if--
+    Ms. Jackson Lee. Well, she can--let me pose this question. 
+Then, you might want to expand. Is it clear whether the small 
+changes in the 2018 legislation reauthorizing Section 702 have 
+improved the administration of Section 702?
+    Ms. Bradford Franklin. Thank you. I believe there have been 
+some benefits, as I had just discussed, regarding the 
+requirement for querying procedures that has helped, but I do 
+not believe that those changes were sufficient, and I urge 
+Congress to incorporate more robust and meaningful safeguards, 
+just as the three that I mentioned during my opening remarks, 
+including requiring account of the extent of incidental 
+collection; requiring FISA Court review of U.S. person query 
+terms, and preventing the restarting of ``abouts'' collection.
+    Ms. Jackson Lee. I thank the witnesses.
+    Mr. Biggs. I thank the gentlelady.
+    With that, I recognize the gentleman from Wisconsin, Mr. 
+Tiffany.
+    Mr. Tiffany. Thank you, Mr. Chair.
+    Mr. Inspector General, and all of you, good to see you here 
+today.
+    You referenced Carter Page, and the third authorization to 
+spy on him, and there was a lie that was told to the FISC by 
+former FBI Attorney Kevin Clinesmith. He ended up getting a 
+sentence of 12 months' probation, 400 hours of community 
+service.
+    Now, over the last week, it has been exposed, as a result 
+of the work of the leadership of this Committee, that the 
+Secretary of State colluded with the intelligence community to 
+lie to the American people about Hunter Biden's laptop.
+    How effective will the reforms of Section 702 be if we 
+can't trust our intelligence agencies? Justice, the FBI, NSA, 
+can we trust them to reform?
+    Mr. Horowitz. From my standpoint, I think it's all about 
+verifying and controls and oversight. You have to build in the 
+appropriate controls for these programs. I think we've seen 
+over the years, despite, as the Ranking Member just indicated, 
+changes that have helped improve the process, they clearly 
+haven't been sufficient.
+    Mr. Tiffany. Do you have a couple of mechanisms that you 
+suggest that should be added?
+    Mr. Horowitz. Well, I think one of the things that clearly 
+has been talked about is what the Chair just mentioned about 
+more--greater oversight by the FISC, by the Foreign 
+Intelligence Surveillance Court, of various authorities under 
+702.
+    I think there needs to be greater transparency. I think 
+this notion that we did a review recently of the FBI's Office 
+of the General Counsel and how it interacted with NSD and in 
+the course of that we found they had two differing views of 
+what the querying standard was for 702 queries. That's highly 
+problematic. We would not have known that, the public wouldn't 
+have known that unless we did our report. Having greater 
+clarity, clear rules, public transparent rules rather than 
+having this come up on the eve of every reauthorization where 
+there all the sudden seems to be more and more transparency.
+    Mr. Tiffany. Thank you.
+    Ms. Franklin, Ms. Williams, you can both--either of you can 
+take a shot at this. Should we be taking a hands-off approach 
+as the Judiciary Committee to this issue?
+    Ms. Bradford Franklin. No, Congressman, you should not be 
+taking a hands-off approach. I am encouraged that this 
+Committee is starting its consideration of Section 702 now with 
+the upcoming sunset at the end of this year. I'd like to agree 
+with the comments made by the Inspector General. It's important 
+to pair reforms with rigorous oversight, by Congress, by the 
+Inspector General, the PCLOB, and others.
+    Mr. Tiffany. So, why don't I just follow-up with my next 
+question then, Ms. Williams. So, we hear the sky is falling 
+from some if 702 goes away. Isn't there a backup to that?
+    Ms. Williams. Congressman, I wish there were. It's not like 
+the intelligence community doesn't have other authorities, but 
+I don't think this specific authority allows and puts actually 
+some privacy safeguards, but I agree not enough on the 
+collection of information.
+    I would just say also I think you really put your finger on 
+it with your last question because you said should we trust? 
+Obviously, there's a long way to go to regain trust. From my 
+perspective as an oversight body I feel like it's not my job to 
+trust. It's our job to look at what's actually going on, to put 
+strong guardrails in place and to recommend them to all of you.
+    Mr. Tiffany. Are you familiar with Executive Order 12333?
+    Ms. Williams. I am.
+    Mr. Tiffany. Yes. Would that provide more or less 
+protection than 702?
+    Ms. Williams. Well, it provides a different set of 
+protections. It involves foreign collection overseas. It 
+wouldn't apply with regard to communications that are 
+traversing U.S. soil.
+    Mr. Tiffany. Mr. Horowitz, do you care to comment on that?
+    Mr. Horowitz. Well, one is a Presidential Executive Order; 
+the other is a statute. They are in two different spaces, but 
+from my standpoint having a clear congressional decision and 
+statute is preferable than having internal guidance that--an 
+Executive Order is public, but what we've seen mostly in 702 is 
+internal guidance and querying standards that, for example, 
+were not public, the most recent ones, until the last few days.
+    Mr. Tiffany. Thank you. I think there is a broader question 
+here. Is the FBI's fixation on politics undermining crime 
+fighting in America? I think about the Parkland shooting. 
+Horrible incident down in Southern Florida. The FBI was warned 
+about that. Are they misallocating resources at this point? Are 
+they so focused on politics that they are not fighting crime in 
+America which this Committee has shown very capably that we 
+have a crime epidemic in America?
+    I yield back.
+    Mr. Biggs. The gentleman's time is expired.
+    The Chair recognizes the gentleman from New York, Mr. 
+Nadler.
+    Mr. Nadler. Thank you, Mr. Chair.
+    Ms. Franklin, the Chief concern that everybody here seems 
+to have is the incidental collection of information about 
+American citizens when we are targeting a foreign citizen 
+abroad. Why is it not feasible to require that all that 
+information immediately be destroyed, that the name of the 
+American be removed and that all references to whatever he or 
+she said also be removed?
+    Ms. Bradford Franklin. Thank you for that question. 
+Incidental collection is a recognized feature of Section 702 
+collection. Of course it is targeted at non-Americans located 
+overseas, but part of what has been authorized; and an 
+important role the intelligence agencies would tell you, for 
+that collection is when those people are talking to people 
+inside the United States to be able to identify them and know 
+if they are working with our valid 702 targets to plot or 
+otherwise pose a threat to the United States.
+    Now, of course, once we have identified those Americans in 
+the 702 collection, it then becomes incumbent on the 
+intelligence agencies and with assistance from Congress to have 
+those robust safeguards like FISA Court review. At the outset 
+the fact that somebody is talking to a foreign overseas 
+target--to be able to identify those potential threats inside 
+the United States is a feature of this program that is known 
+and recognized and not necessarily the problem. It's only when 
+they start to focus in on the American that we need to ensure 
+we have those safeguards.
+    Mr. Nadler. What do you mean when they start to focus in on 
+the American?
+    Ms. Bradford Franklin. At the point they're conducting U.S. 
+person queries, when they are looking to find what is going on 
+with a particular American and they want to search through the 
+data. At that juncture that is where we are implicating the 
+Americans' Fourth Amendment rights.
+    Mr. Nadler. So, why do we not prohibit that unless they get 
+a search warrant?
+    Ms. Bradford Franklin. Exactly. That is--I urge that.
+    Mr. Nadler. That is not in the current law?
+    Ms. Bradford Franklin. Correct.
+    Mr. Nadler. OK. In April 2016, I signed a bipartisan letter 
+to ODNI Director James Clapper requesting a public estimate of 
+the number of communications or transactions involving U.S. 
+persons subject to Section 702 surveillance on an annual basis. 
+Seven years later that number has still not been provided.
+    Inspector General Horowitz, has DOJ or FBI reported this 
+number to you and are you prepared to share this today?
+    Mr. Horowitz. They have not reported it to me.
+    Mr. Nadler. Can you get that information?
+    Mr. Horowitz. I will follow-up with them, but my 
+understanding is the position has been that it would be 
+impossible to come up with an accurate number, which I find 
+concerning.
+    Mr. Nadler. Yes.
+    Ms. Franklin, do we have any idea of the quantity of 
+American data collected through Section 702 surveillance each 
+year?
+    Ms. Bradford Franklin. We do not, and I urge Congress to 
+require that they provide such an estimate. Even if it can't be 
+as mathematically precise as some of the other numbers they 
+produce, I believe it still can be meaningful to Congress as 
+you assess whether safeguards are adequate under Section 702.
+    Mr. Nadler. Thank you.
+    Ms. Williams, in the PCLOB's 2014 report which we 
+referenced in the letter PCLOB recommended that the NSA 
+annually count certain communications including telephone 
+communications in which one caller is located in the United 
+States, Internet communications that originate or terminate in 
+the United States, and communications concerning U.S. persons. 
+Has the NSA provided you with these numbers?
+    Ms. Williams. Congressman, the NSA has not provided us with 
+these numbers because it is their position that it is 
+infeasible or would cause other privacy concerns, but that is 
+something that we are actively looking at. We are looking at--
+there's one paper, in particular, that I'm thinking about with 
+regard to Princeton University they put out, and we're looking 
+at different methods of ways that perhaps they could do it in a 
+privacy protective way. I expect that we'll encourage them to 
+consider those methods.
+    Mr. Nadler. Thank you.
+    Ms. Franklin, after Section 702 data is collected by the 
+NSA certain sections are made available to intelligence 
+agencies. The 702 data base often includes the communications 
+of Americans swept up in 702 surveillance. Do we know who at 
+the FBI has access to that information and what safeguards if 
+any exist to limit the number of people with access to the 702 
+data base?
+    Ms. Bradford Franklin. The FBI does have in place 
+requirements that agents undergo training on an annual basis to 
+maintain their access to 702 data. So, there are some 
+safeguards in place in that regard, and I think that is 
+important.
+    Mr. Nadler. Thank you very much. I yield back.
+    Mr. Biggs. Thank you.
+    The Chair recognizes the gentleman from Texas, Mr. Nehls.
+    Mr. Nehls. Thank you, Mr. Chair.
+    Thank you, Inspector General Horowitz. I served in law 
+enforcement for 30 years, as a sheriff for eight of a large 
+county. We served hundreds of warrants, if not thousands 
+throughout my years in law enforcement, and I can tell you to 
+obtain a warrant we had to find a judge, we had to establish 
+probable cause. if you didn't meet that threshold, the judge 
+wouldn't give you the warrant. Reasonable suspicion didn't meet 
+the standard; it was probable cause. This I agree with because 
+I think it was there--the whole purpose was to protect people 
+in their Fourth Amendment right.
+    Can you explain the process the FBI uses to obtain a FISA 
+warrant specifically? What is required to show probable cause?
+    Mr. Horowitz. So, on the Title I side of FISA, when they're 
+going to seek a warrant like they did in the Carter Page 
+circumstance, they need to show that there is sufficient 
+evidence, probable cause to believe that the individual they're 
+seeking the warrant against may be an agent or could be an 
+agent of a foreign power.
+    Mr. Nehls. Yes. I want to talk about the illegal 
+surveillance of Trump campaign associate Carter Page, and I 
+want to thank you for you and your investigative report, which 
+found that the FBI had abused its FISA authority on several 
+occasions to conduct illegal surveillance on Page, Mr. Page. 
+This was and continues to be critical for our oversight. Here 
+is the article, Washington Examiner, ``DOJ Inspector General 
+Finds 17 Significant Errors or Omissions in Carter Page FISA 
+Applications.''
+    You know when I go through this timeline and when you look 
+at Mr. Page--for those of you that may not be familiar with 
+some of these characters, you have got Carter Page, you have 
+got Kevin Clinesmith, Peter Strzok, Lisa Page, Christopher 
+Steele, the dossier, and Stuart Evans.
+    This Carter Page was a great American. In 1993, he 
+graduates from the Naval Academy, he serves in the Navy five 
+years, worked as an intel officer before rising to the rank of 
+lieutenant. In 2000, he goes to work for Merrill Lynch in 
+London. In 2004, Merrill Lynch promotes him to Deputy Branch 
+Manager in Moscow. He leaves Merrill, becomes an International 
+Energy Consultant based in New York and travels primarily from 
+London to Moscow. The CIA begins debriefing Page about his 
+contacts with Russians in 2008. So, he has a relationship now. 
+He is being interviewed. The CIA is interviewing him. CIA is 
+sharing information with the FBI.
+    In 2013, Russian agents posed as bankers approach Page in 
+New York, that energy symposium and try to cultivate him as a 
+source for economic information. The FBI, in April 2013, 
+records it. They record it. Russians are complaining because 
+Page didn't want to agree, didn't want to cooperate with them. 
+In June that same year the FBI interviews Mr. Page again and 
+reveals that he has spoken with the CIA. So, they are all 
+talking. This is good. The Federal agencies are talking to each 
+other.
+    Page agrees to cooperate as a key witness against this 
+Russian agent and the agent gets found guilty; sentenced him to 
+30 months in prison.
+    Then this is where it goes wrong. This is where it happens. 
+Then all of a sudden Page then starts working for Trump and 
+that is where these individuals: Christopher Steele, the former 
+British intel agent--he brings the Steele dossier together. 
+Hilary Clinton hires Fusion GPS to dig up the dirt on Trump. 
+This is the problem we have. We can see that it was all out 
+there to go after Trump, to dig up dirt on Trump.
+    The FBI knew Page was a credible man, but they ignored all 
+this. They get warrant after warrant after warrant and we take 
+it all the way up through 2017 and then eventually they find 
+out Mr. Page didn't do anything wrong. They sentence Mr. 
+Clinesmith. I didn't think they gave him enough time. They 
+sentence him to 12 months' probation and 400 hours of community 
+service.
+    When you look at what happened to Mr. Page because he 
+joined the Trump team, Mr. Page's previous years of serving his 
+country, doing a great job, cooperating with the FBI and the 
+CIA, they turn this guy now into some type of a villain, some 
+type of a Russian agent, all in the name of what? To go after 
+Trump and the Trump campaign, to make Trump look like he was in 
+collusion with the Russians.
+    I don't have time to go through the whole story, but what 
+safeguards have been in place, what safeguards have been in 
+place to ensure this doesn't happen in the 2024 election 
+especially given that Donald Trump is the leader of the 
+Republican Party? What are we going to do?
+    Mr. Horowitz. So, we made a series of recommendations in 
+both our review of the Crossfire Hurricane matter and the Woods 
+review that we did. We have a series of recommendations. Most 
+of those have been addressed, but not all of them. We continue 
+to follow-up to make sure what has been done is being 
+implemented effectively and works.
+    Mr. Nehls. Thank you. I certainly hopes so. God bless our 
+country. I yield back.
+    Mr. Biggs. Yes, thank you.
+    I recognize the gentleman from Rhode Island, Mr. Cicilline.
+    Mr. Cicilline. Thank you, Mr. Chair.
+    I want to thank the witnesses for being here today to 
+testify and to answer our questions about this very important 
+issue.
+    With Section 702 set to sunset at the end of this year it 
+is vital that we have these discussions before we take our next 
+steps. Over the last few decades the national security 
+landscape and warfare have changed dramatically. War is not 
+just fought on the grounds with troops and artillery anymore. 
+In fact it is more and more rare that we see this traditional 
+warfare alone.
+    Now, it is cyber warfare fought by enemies that don't ever 
+have to physically enter the United States or even see an 
+American soldier or citizen to cause grave harm. Entire 
+societies can be shut down by a cyber security threat. 
+Computers are now a battlefield of choice for terrorists. This 
+makes strong reliable intelligence perhaps more important than 
+ever before. Moreover, with mass atrocities still happening 
+across the world, with war criminals committing grave human 
+rights violations intelligence gathering is vital to a strong 
+response.
+    For example, last week Deputy Attorney General Monaco 
+testified before the Senate Judiciary Committee that Russia's 
+forces committing shocking atrocities as part of its brutal and 
+unprovoked invasion of Ukraine, and that some of this 
+intelligence was being gathered that today--that is being 
+gathered was gathered in connection with some of the 
+authorities that we are discussing today.
+    With that said, it is more important than ever that we 
+ensure that our civil rights are protected as our national 
+security agencies gather this intelligence. Our civil liberties 
+are not currency. They are not a price we pay for national 
+security. They are sacred and fundamental to our society and we 
+must ensure they are protected to the fullest extent.
+    I think we all recognize that information that gets swept 
+up by these searches, particularly, in the 702 data base and 
+the way they are accessed can present some real challenges. So, 
+I would like to pick up where Ranking Member Nadler left off 
+talking about just how much U.S. person data is swept up in 702 
+surveillance.
+    Inspector General Horowitz, is there any indication that 
+the intelligence agencies have even tried to track the quantity 
+of U.S. person communications that come in through 702, even a 
+general estimate, for last year for example?
+    Mr. Horowitz. I don't have information about the other 
+intelligence agencies. We only oversee the FBI. I'm not aware 
+of data from the FBI on what the numbers look like today.
+    Mr. Cicilline. Ms. Franklin, should U.S. data be collected 
+going forward; that is, U.S. person data? If so, what 
+additional procedures should be in place to make that happen, 
+or before that can happen?
+    Ms. Bradford Franklin. Thank you. I'd also like to address 
+the--
+    Mr. Cicilline. Yes.
+    Ms. Bradford Franklin. --piece of the question about what 
+they have done. So, the intelligence agencies have briefed I 
+believe Members of this Committee as well and us on several 
+techniques that they have considered to calculate the quantity 
+of U.S. person information. They have asserted that is 
+infeasible to calculate a meaningful number, however I believe 
+that the difference is in what is meaningful. They are thinking 
+of mathematical certainty and where the alternative is, that we 
+have no estimate whatsoever. An estimate that involves some 
+margin of error can still be meaningful, which is why I urge 
+Congress to require them to produce such an estimate.
+    With regard to the incidental collection, as I was stating 
+in my earlier response, at the outset knowing who valid foreign 
+targets are talking to, including if they are talking to people 
+inside the United States, is an important feature of the 
+program. However, it is at the juncture where the intelligence 
+agencies want focus in on a U.S. person and search through the 
+collected data, looking for their particular communications 
+that I believe it is important to protect those Americans 
+Fourth Amendment interests and their communications. Congress 
+should incorporate a requirement for FISA Court review of those 
+U.S. person queries.
+    Mr. Cicilline. Finally, is there any reason that with 
+respect to the second category; that is, information that 
+relates to a U.S. person query that currently doesn't require 
+judicial review or a finding of probable cause, or even a 
+review by a court? Is there any reason for that query when it 
+involves a U.S. person that you simply--we couldn't simply 
+impose statutorily a probable cause requirement or judicial 
+review requirement like every other citizen in the United 
+States and every other search context?
+    Ms. Bradford Franklin. I believe Congress certainly has the 
+power to impose that requirement. I'm urging Congress to do 
+so--speaking personally for myself as board member, to do so in 
+this reauthorization.
+    Mr. Cicilline. Do you agree, Mr. Horowitz?
+    Mr. Horowitz. Congress certainly has the authority to do 
+that and I think that's one of the key issues for this 
+Committee and the Congress to consider.
+    Mr. Cicilline. Do you think that is a responsible action 
+for Congress to take?
+    Mr. Horowitz. I would say that I think what you'll hear 
+from the department and the FBI is the question of the volume 
+of cases, and probably from the FISC as well, which is you will 
+need to consider the volume of the work that would increase for 
+the FISC and how you address that.
+    Mr. Cicilline. We are happy to pay for--provide additional 
+resources--
+    Mr. Biggs. The gentleman's time is expired.
+    Mr. Horowitz. That is the question.
+    Mr. Cicilline. Thank you. I yield back, Mr. Chair.
+    Mr. Biggs. Thank you, Mr. Cicilline.
+    I recognize the Chair, Mr. Jordan.
+    Chair Jordan. Ms. Franklin, you testified you have no idea 
+how many Americans are picked up in the incidental collection 
+and the FBI won't tell you or won't even give you an estimate 
+what that number may be. Is that right?
+    Ms. Bradford Franklin. That's correct.
+    Chair Jordan. You have no idea the amount of data collected 
+on American citizens and the FBI won't tell you or give you an 
+estimate on that either?
+    Ms. Bradford Franklin. The intelligence agencies have 
+asserted that it is infeasible for them to calculate a 
+meaningful number and they have not done so.
+    Chair Jordan. Then 10,000 people, approximately 10,000 
+people at the Justice Department have the ability to query this 
+incidental collection data base without any probable cause. We 
+know as the Ranking Member of the Full Committee, Mr. Nadler, 
+said earlier, ``there were 3.4 million queries of this data 
+base and 30 percent of those were in error.'' Is that all 
+right?
+    Ms. Bradford Franklin. I don't have at my fingertips all 
+those number, but I do recall specifically the 3.4 million 
+number of queries conducted in the prior calendar year.
+    Chair Jordan. The solution is simple, right? Require 
+probable cause if you are going to query this data base on 
+American citizens?
+    Ms. Bradford Franklin. As I have stated, I urge Congress to 
+require that the FISA Court review those U.S. person query 
+terms before they--
+    Chair Jordan. Ms. Williams, do you agree?
+    Ms. Williams. Well, Congressman, that's something that 
+we're looking at right now. I think you put your finger on it, 
+which is that you want to increase privacy and civil liberties 
+as much as possible for U.S. persons. The pros of that is that 
+it would make it harder to run a U.S. person search. The con of 
+that is it would make it harder to run a U.S. person search. 
+So, there's a balance there.
+    Chair Jordan. Americans are being picked up in this 
+incidental collection. We don't know the number. My guess it is 
+pretty darn big. They won't tell us. Without probable cause 
+that data base is being searched 3.4 million times with all 
+kinds of error rates, as Mr. Gaetz in his round of questioning 
+determined earlier.
+    How about if we just get the FBI out of the business 
+altogether?
+    Ms. Williams. I think the question is should--
+    Chair Jordan. What if the FBI can't query this data base? 
+In other words, you can't query--don't even mess with the--FBI 
+can't query this data base on American citizens.
+    Ms. Williams. Look, the FBI has a long way to go to regain 
+public trust. The question is, I think if the FBI is not doing 
+these searches to figure out who in the United States is 
+talking to terrorists abroad, who is going to do it? So, the 
+concerns are real and the--
+    Chair Jordan. Well, who is going to do it? We got other 
+agencies that do it already.
+    Ms. Williams. Well, we have agencies. Do you want to--
+there's a risk of turning the CIA or NSA, who look outward, 
+inward on Americans. We don't want to--
+    Chair Jordan. We are not allowed to do that.
+    Ms. Williams. Right. Exactly.
+    Chair Jordan. The CIA is not allowed to do that.
+    Ms. Williams. Exactly.
+    Chair Jordan. We are not going to change that.
+    Ms. Williams. Exactly.
+    Chair Jordan. No way.
+    Ms. Williams. Right.
+    Chair Jordan. I mean this Committee--you guys are on the 
+Privacy and Civil Liberties Board. That is what the main 
+function of this Committee, the Judiciary Committee, is to 
+protect the Constitution, protect the Bill--that is our 
+fundamental responsibility. Section 702 is up for--this the 
+most important thing we are probably going to do this Congress, 
+get this right, not let it continue with the data that you all 
+understand. That is our focus, should be our focus this--and 
+the fact that I think we can get bipartisan--we can get 
+agreement here on protecting those liberties I think is just 
+so--
+    When is the report going to be ready? Many of you have 
+referenced that. I think all three of you referenced it in your 
+opening statements. When is that coming?
+    Ms. Bradford Franklin. Not able to give you an exact date. 
+We are working hard. There's a lot of complex information at 
+issue.
+    Chair Jordan. Well, let me ask this question: Is it going 
+to be ready before December 31?
+    Ms. Bradford Franklin. Yes.
+    Chair Jordan. OK. That is important. We are working on this 
+now. I want to thank the Chair for calling this hearing. This 
+is something we had a--all Republicans met yesterday. We had a 
+one-hour meeting on this issue alone. We are trying to figure 
+out exactly what is best to protect Americans' privacy rights, 
+their fundamental freedoms. The sooner we get that report; I 
+think that is helpful information, the better. Any idea again.
+    Ms. Bradford Franklin. We're aiming for the summer.
+    Chair Jordan. Sooner the better.
+    With that, Mr. Chair, I yield back. Again, I thank the 
+Chair for putting this hearing together.
+    Mr. Biggs. I thank you, Mr. Chair.
+    With that, we are going to go into recess until the sound 
+of the gavel so that people can go to the Joint Session of 
+Congress. With that, we are in recess.
+    [Recess.]
+    Mr. Biggs. The Subcommittee is called to order. We expect 
+other Members to be coming back and joining us momentarily.
+    At this point, I thank the witnesses. Let the record 
+reflect the witnesses are all back. You are still under oath. 
+We are still in the five-minutes rule for questioning.
+    With that, the Chair recognizes the gentlelady from 
+Florida, Ms. Lee.
+    Ms. Lee. Thank you, Mr. Chair.
+    FISA is intended to be an important tool in gathering 
+foreign intelligence information designed to give law 
+enforcement a way to promote national security and keep our 
+homeland safe from foreign threats. It is a great 
+responsibility to have a surveillance technique that exists 
+outside of the standard public parameters of our courts and 
+search warrant procedures and incumbent on all of us to ensure 
+that when that process is used, it is used judiciously and 
+always within the parameters of the law.
+    We know that certain actors in our own government have 
+instead used FISA and Section 702 to conduct warrantless 
+surveillance of Americans, going against the ostensible purpose 
+of collecting information on non-U.S. persons and gathering 
+foreign intelligence information.
+    I have the utmost respect for our law enforcement officers 
+and our intelligence agencies when they are using the tools 
+afforded to them by law to keep Americans and our country safe. 
+We must carefully consider the use and the continuation of 
+these powers in the face of evidence of overreach and abuse.
+    Ms. Williams, I would like to start with a question for 
+you, going back to something that you mentioned in your opening 
+that actually relates to how we can be making constructive use 
+of some of the information that we have that we may not be 
+already doing. That is, you specifically mentioned background 
+checks, security clearances, and immigration related matters. 
+Would you please elaborate on how you think we could be using 
+information constructively within the law?
+    Ms. Williams. Well, thank you very much, Congresswoman.
+    I think this is a really important question, because one of 
+the things that I think a lot of the American people don't 
+realize is that this information may be about a clear and 
+present danger of persons to our national security is already 
+within our knowledge. The government may have already collected 
+that information. They can't run, our agents and analysts can't 
+run searches in the data base of this information unless they 
+have a reasonable belief that they will find foreign 
+intelligence information with regards to that query.
+    So, one idea for Congress to consider is for visa 
+applicants or for people who are applying for high-level 
+clearances to require them, when they apply for these things, 
+to consent to these searches, so that you don't have to have a 
+particularized reason to run that search. You can ensure that 
+these are people who are not talking to foreign terrorist 
+targets overseas, not in communication with those people, not 
+in concert with those people before they enter our shores and 
+come to work in our country.
+    Ms. Lee. Now, I also want to just follow-up generally. When 
+it is being used properly, with whom is 702-acquired 
+information shared?
+    Ms. Williams. So, 702-acquired information is shared 
+basically on a need-to-know basis. So, if an agency, if an 
+agent runs a query for a purpose, that information can be 
+communicated to other intelligence agencies who may have a need 
+to know that for their own either domestic law enforcement 
+purposes or for their own investigations.
+    Ms. Lee. In the conduct of your review and analysis of that 
+information and its actual use in practice, do you have ongoing 
+and continued concerns about whether that standard that you 
+just articulated for us is being followed?
+    Ms. Williams. So, we are taking a look at it. Part of that 
+is the minimization procedures, right, especially for U.S. 
+persons. So, when there is a finished intelligence product, any 
+U.S. person identifier would have to be masked.
+    I think one of the questions, one area Congress may want to 
+look at and that we are looking at is are the masking 
+guidelines appropriate or should they be tighter. So, if 
+somebody wants to unmask an identity, should there be more 
+transparency about when that happens? Should there be more 
+guardrails about when that happens?
+    Ms. Lee. So, in particular, are there specific reforms or 
+recommendations that you would make to us to help distinguish, 
+to help confine appropriate use of the tool and also limit 
+inappropriate, expansive overreach?
+    Ms. Williams. Absolutely. I think that is exactly what we 
+are hoping to do as a board to provide these recommendations. 
+Two of the areas that I mentioned in my statement, so the 
+special investigative matters for congresspeople, for elected 
+officials, journalists, religious figures, that I think is one 
+ripe area, and the other vetting, but also unmasking I think 
+are the areas that we would, some of the areas that we are 
+focusing on as a board.
+    Ms. Lee. Thank you, Mr. Chair.
+    Ms. Williams. Thank you.
+    Ms. Lee. I yield back.
+    Mr. Biggs. Thank you. The gentlelady yields back.
+    I yield time to myself, recognize myself for five minutes 
+of questions.
+    So, I am going to begin with you, Mr. Horowitz. You 
+mentioned earlier today that the FBI and DOJ lawyers had a 
+different understanding of the querying standard. That is what 
+I understood your testimony to be. That is a fairly significant 
+revelation.
+    The FBI, which conducts the queries, didn't show the same 
+understanding of the query standards as DOJ, who is supposed to 
+give the FISC accurate information about how the FBI is using 
+Section 702. What was the misunderstanding or what is the--or 
+is it persistent? What is that misunderstanding?
+    Mr. Horowitz. It was differing interpretations of what 
+evidence was, what the purpose was in going forward with the 
+searches. They were both looking at the same language and 
+having a different understanding of what the language was with 
+regard to the querying standards. So, it wasn't they were 
+making their own standards up. There was a standard there. They 
+had differing views of what that was.
+    As we reported on it, it has since been addressed by the 
+department in the querying standards that were released last 
+week where it became, that were released publicly last week 
+that were done well before that, that made it clear that, in 
+fact, the NSD lawyers were more correct in the approach they 
+were taking than what the approach was of the FBI--
+    Mr. Biggs. Are you telling me that it has been, you think 
+it has been resolved then?
+    Mr. Horowitz. The dispute has been resolved with these new 
+standards. What I can't tell you is how, yet, is how it is 
+being implemented, because it is recent. That is one of the 
+issues that we are planning to follow-up on, because, as you 
+know, whenever we do these and release recommendations, we then 
+follow-up to make sure that what we have been told has 
+addressed it has, in fact, addressed it.
+    Mr. Biggs. OK. So, well, we hope that it is solved going 
+forward anyway.
+    Mr. Horowitz. Well, we hope that they are aligned in 
+understanding it and that their understanding is reasonable and 
+appropriate. That is the thing we are going to, that is what we 
+will be asking questions about.
+    Mr. Biggs. OK. I am going to ask--well, I will ask all of 
+you this question, because part of the problem that I have 
+always had with this is the FISC itself. There is a just a few 
+judges. It is behind closed doors. There doesn't seem to be 
+over review, no transparent review of whether the judges 
+themselves are following the law appropriately.
+    What would you do to make or understand how to make the 
+FISC work more appropriately to protecting Fourth Amendment 
+rights and protections of U.S. citizens? I will start with you, 
+Ms. Williams.
+    Ms. Williams. Sure. I think that is an excellent question, 
+because you are right, there is not a lot of transparency 
+around the FISC.
+    One of the things that has been done is the introduction of 
+an amicus. That is someone who comes in. There is a few people 
+to represent the interests of the other side so that there 
+actually is an adversary process. One of the considerations, I 
+will speak only with regard to 702, because that is what we are 
+focusing on, is whether there should be an amicus appointed for 
+the annual 702 certifications. Right now there is not. That is 
+one of the potential recommendations that we are thinking 
+about.
+    Mr. Biggs. Thank you. Ms. Franklin.
+    Ms. Bradford Franklin. So, I would like to build on that 
+and just clarify. There is no requirement for the amicus to 
+come in. Typically there is. That is not necessarily required 
+for the FISA Court to appoint one.
+    I have done prior work on the issue of the amicus. Back in 
+2014, the Privacy and Civil Liberties Oversight Board, as part 
+of its report on the Section 215 program, actually recommended 
+something that the board then called special advocates. This 
+preceded the codification by Congress of the requirement for 
+the amici. It was stronger in recommendation than what 
+ultimately became enacted in law.
+    So, I would continue to urge that, consistent with the 
+original recommendations by the PCLOB, that the role of the 
+amicus be expanded and strengthened to expand the number of 
+cases, the types of cases in which they are required to be 
+appointed, including Section 702 and a recertification and 
+sensitive investigative matters, also that they have access to 
+all information relevant to the proceeding that they are 
+participating in, and finally that they have the ability to 
+petition for appeal to the FISA Court of Review or from there 
+on to the Supreme Court.
+    Mr. Biggs. Thank you. Mr. Horowitz, my time has expired. I 
+recognize the gentleman from South Carolina, Mr. Fry.
+    Mr. Fry. Mr. Chair, I yield my five minutes to you for 
+further questioning.
+    Mr. Biggs. Thank you.
+    Mr. Horowitz, would you please continue with your answer?
+    Mr. Horowitz. I will. So, building on what my two fellow 
+panelists mentioned, that is something that concerned us, the 
+lack of an adversarial process in connection with Carter Page 
+FISAs and that the problem being that agents when they swear 
+out affidavits are likely never to have to face cross 
+examination or any testimony that would be challenged by an 
+adversarial party in that process, because it is not like a 
+criminal case.
+    In a criminal case, having worked, again, as a prosecutor, 
+you understand that at some point you are going to produce that 
+to the defense, and if the case goes to trial or if there is a 
+pretrial hearing, the agent may be under oath in a witness 
+stand. That focuses the mind in making sure that you have got 
+every detail and fact correct. So, I think that is very 
+important.
+    I also would suggest considering how to make it more, as 
+you referenced, transparent. How do we find out, how does the 
+public find out sooner about decisions, about key findings? I 
+think one of the challenges has been, much as it has been for 
+our reports and my guess for the PCLOB's reports, is getting 
+through the clearance process, the security review process, and 
+how long it takes.
+    For example, our FISA report, we finished it in essence 
+around Labor Day of 2019. It was released publicly on December 
+9, 2019. During almost all that time, it was in the 
+classification review process, and exactly what was going to be 
+able to be made public and what could not be made public.
+    Mr. Biggs. OK. So, I hope that maybe you will include some 
+of those recommendations for the FISC itself in your report 
+going forward as well.
+    Ms. Williams, in your earlier testimony, and I wrote it and 
+I had it right here before the recess, so I am going by memory, 
+but I thought I jotted down something about the general 
+collection process. I think you said it is not meant to be a 
+bulk collection of data or information. It seems to be a bulk 
+collection of data or information.
+    The question is U.S. citizens getting caught up in that 
+somehow. I would like you to elaborate on how it has become, it 
+is bulk. It is broad. Then how do we somehow get back? You 
+guys, this is what the whole hearing has been about and you 
+have talking about this. How do we get it so where U.S. 
+citizens on U.S. soil are protected, because the intention of 
+this is non-U.S. citizens not on U.S. soil?
+    Yes, you got to mic up.
+    Ms. Williams. Yes. So, that is exactly right. So, the 
+reason I made the statement that it is not a bulk collection is 
+because that was what the PCLOB unanimously said in our 2014 
+report, ``that this is not a bulk collection program.'' What 
+that means is that before any collection can be done on any 
+foreign person overseas usually the NSA has to do very detailed 
+targeting to make sure that it is not a U.S. person, there is a 
+foreignness determination, and to make sure that there is an 
+expected collection of foreign intelligence information. So, 
+every single person is targeted.
+    That is the compliance rate that I talked about that was 
+low. There is a very--they are doing pretty well on that. Your 
+question, which is then the people of, U.S. people who get 
+caught up on that, the incidental collection are U.S. persons 
+who may be communicating with those targets overseas.
+    Mr. Biggs. So, I was fascinated by the statement you kind 
+of threw offhand and you kind of did earlier when you testified 
+to this. I would like everybody, we only have 48 seconds left, 
+so to be fast. When you said the compliance rate was low on the 
+bulk collection, I want to hear about that.
+    Ms. Williams. Yes, and I am sorry. I may have misspoken. 
+So, the compliance error rate was low, which means that they 
+are generally collecting in the way they should be collecting.
+    Mr. Biggs. OK.
+    Ms. Williams. The query error rate is high, which is once 
+the information is collected, are they searching the collected 
+information appropriately? That is where there are more errors.
+    Mr. Biggs. This is what we were talking about earlier. I 
+think the actual query error rate was 3.2 percent. Is that what 
+the actual query error rate is, 3.2 percent? Or would you 
+please check, Mr. Horowitz, and verify on that? That would be--
+    Mr. Horowitz. Yes, it has dropped significantly.
+    Mr. Biggs. OK.
+    Mr. Horowitz. I think that is where we are currently.
+    Mr. Biggs. OK. Great.
+    Mr. Horowitz. Or the most recent data I should add.
+    Mr. Biggs. Thank you so much.
+    I yield back to Mr. Fry.
+    Mr. Fry. I see my time has expired. I yield back, Mr. 
+Chair.
+    Mr. Biggs. The gentleman's time has expired.
+    Actually, no one else being present, I again thank the 
+witnesses. We look forward to hearing from you, look forward to 
+seeing your reports. I would urge the earlier the better, 
+because we are really going to try to do something. We don't 
+want to wait until the last minute. We want to make sure we 
+have a good product that will result from some of your 
+testimony. We will have additional hearings. Please, I think we 
+have asked for some data. If you could please respond to that, 
+that would be awfully kind.
+    With that, thanks again. We are adjourned.
+    [Whereupon, at 12:46 p.m., the Subcommittee was adjourned.]
+
+    The record for this hearing by the Members of the 
+Subcommittee on Crime and Federal Government Surveillance is 
+available at: https://docs.house.gov/Committee/Calendar/
+ByEvent.aspx?Event
+ID=115812.
+
+                                 [all]
+
