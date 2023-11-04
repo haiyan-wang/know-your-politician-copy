@@ -1,8 +1,12 @@
 import time
 import streamlit as st
 from utils import load_chain
+from sent_analysis import SentimentEvaluator
+from langsmith import Client
 
 
+client = Client()
+evaluator = SentimentEvaluator()
 company_logo = 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Seal_of_the_United_States_Congress.svg/1201px-Seal_of_the_United_States_Congress.svg.png'
 
 # Configure streamlit page
@@ -40,6 +44,7 @@ if query := st.chat_input("Ask me anything"):
         st.markdown(query)
 
     with st.chat_message("assistant", avatar=company_logo):
+        sentiments = []
         message_placeholder = st.empty()
         # Send user's question to our chain
         result = st.session_state['chain']({"question": query})
@@ -52,7 +57,13 @@ if query := st.chat_input("Ask me anything"):
             time.sleep(0.05)
             # Add a blinking cursor to simulate typing
             message_placeholder.markdown(full_response + "▌")
+        sent = evaluator.evaluate_run(full_response)
+        sentiments.append(sent)
+
+
         message_placeholder.markdown(full_response)
+        
 
     # Add assistant message to chat history
     st.session_state.messages.append({"role": "assistant", "content": response})
+    #st.session_state.messages.append({"role": "assistant", "content": sentiments})
