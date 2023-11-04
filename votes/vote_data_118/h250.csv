@@ -1,0 +1,435 @@
+id,vote,name,party, and Explosives relat
+0,district,vote,name,party
+1,4,Aye,Rep. Robert Aderholt [R],Republican
+2,2,No,Rep. Sanford Bishop [D],Democrat
+3,3,No,Rep. Earl Blumenauer [D],Democrat
+4,26,Aye,Rep. Michael Burgess [R],Republican
+5,41,Aye,Rep. Ken Calvert [R],Republican
+6,31,Aye,Rep. John R. Carter [R],Republican
+7,1,No,Rep. Ed Case [D],Democrat
+8,6,No,Rep. James “Jim” Clyburn [D],Democrat
+9,4,Aye,Rep. Tom Cole [R],Republican
+10,7,No,Rep. Danny Davis [D],Democrat
+11,1,No,Rep. Diana DeGette [D],Democrat
+12,3,No,Rep. Rosa DeLauro [D],Democrat
+13,26,Aye,Rep. Mario Diaz-Balart [R],Republican
+14,37,No,Rep. Lloyd Doggett [D],Democrat
+15,16,No,Rep. Anna Eshoo [D],Democrat
+16,12,Aye,Rep. Kay Granger [R],Republican
+17,6,Aye,Rep. Sam Graves [R],Republican
+18,7,No,Rep. Raúl Grijalva [D],Democrat
+19,5,No,Rep. Steny Hoyer [D],Democrat
+20,48,Aye,Rep. Darrell Issa [R],Republican
+21,18,No,Rep. Sheila Jackson Lee [D],Democrat
+22,9,No,Rep. Marcy Kaptur [D],Democrat
+23,2,No,Rep. Rick Larsen [D],Democrat
+24,1,No,Rep. John Larson [D],Democrat
+25,12,No,Rep. Barbara Lee [D],Democrat
+26,18,No,Rep. Zoe Lofgren [D],Democrat
+27,3,Aye,Rep. Frank Lucas [R],Republican
+28,8,No,Rep. Stephen Lynch [D],Democrat
+29,4,No,Rep. Betty McCollum [D],Democrat
+30,2,No,Rep. James “Jim” McGovern [D],Democrat
+31,5,No,Rep. Gregory Meeks [D],Democrat
+32,12,No,Rep. Jerrold Nadler [D],Democrat
+33,31,No,Rep. Grace Napolitano [D],Democrat
+34,1,No,Rep. Richard Neal [D],Democrat
+35,6,No,Rep. Frank Pallone [D],Democrat
+36,9,No,Rep. Bill Pascrell [D],Democrat
+37,11,No,Rep. Nancy Pelosi [D],Democrat
+38,5,Aye,Rep. Harold “Hal” Rogers [R],Republican
+39,3,Aye,Rep. Mike Rogers [R],Republican
+40,2,No,Rep. A. Dutch Ruppersberger [D],Democrat
+41,38,No,Rep. Linda Sánchez [D],Democrat
+42,9,No,Rep. Janice “Jan” Schakowsky [D],Democrat
+43,30,No,Rep. Adam Schiff [D],Democrat
+44,13,No,Rep. David Scott [D],Democrat
+45,3,No,Rep. Robert “Bobby” Scott [D],Democrat
+46,17,Aye,Rep. Pete Sessions [R],Republican
+47,32,No,Rep. Brad Sherman [D],Democrat
+48,2,Aye,Rep. Michael “Mike” Simpson [R],Republican
+49,9,No,Rep. Adam Smith [D],Democrat
+50,4,Aye,Rep. Christopher “Chris” Smith [R],Republican
+51,2,No,Rep. Bennie Thompson [D],Democrat
+52,4,No,Rep. Mike Thompson [D],Democrat
+53,10,Not Voting,Rep. Michael Turner [R],Republican
+54,7,No,Rep. Nydia Velázquez [D],Democrat
+55,43,No,Rep. Maxine Waters [D],Democrat
+56,2,Aye,Rep. Joe Wilson [R],Republican
+57,21,No,Rep. Jim Costa [D],Democrat
+58,25,No,Rep. Debbie Wasserman Schultz [D],Democrat
+59,5,No,Rep. Emanuel Cleaver [D],Democrat
+60,26,No,Rep. Brian Higgins [D],Democrat
+61,5,Aye,Rep. Virginia Foxx [R],Republican
+62,10,Aye,Rep. Patrick McHenry [R],Republican
+63,9,Not Voting,Rep. Al Green [D],Democrat
+64,10,Aye,Rep. Michael McCaul [R],Republican
+65,28,No,Rep. Henry Cuellar [D],Democrat
+66,5,Aye,Rep. Cathy Anne McMorris Rodgers [R],Republican
+67,4,No,Rep. Gwen Moore [D],Democrat
+68,7,No,Rep. Doris Matsui [D],Democrat
+69,7,No,Rep. Kweisi Mfume [D],Democrat
+70,5,Aye,Rep. Doug Lamborn [R],Republican
+71,2,No,Rep. Joe Courtney [D],Democrat
+72,14,No,Rep. Kathy Castor [D],Democrat
+73,16,Aye,Rep. Vern Buchanan [R],Republican
+74,4,No,Rep. Henry C. “Hank” Johnson [D],Democrat
+75,3,No,Rep. John Sarbanes [D],Democrat
+76,5,Aye,Rep. Tim Walberg [R],Republican
+77,3,Aye,Rep. Adrian Smith [R],Republican
+78,9,No,Rep. Yvette Clarke [D],Democrat
+79,4,Aye,Rep. Jim Jordan [R],Republican
+80,9,No,Rep. Steve Cohen [D],Democrat
+81,12,Aye,Rep. Gus Bilirakis [R],Republican
+82,1,Aye,Rep. Robert Wittman [R],Republican
+83,5,Aye,Rep. Robert Latta [R],Republican
+84,11,No,Rep. Bill Foster [D],Democrat
+85,7,No,Rep. André Carson [D],Democrat
+86,1,Aye,Rep. Steve Scalise [R],Republican
+87,11,No,Rep. Gerald Connolly [D],Democrat
+88,2,Aye,Rep. Brett Guthrie [R],Republican
+89,4,No,Rep. James “Jim” Himes [D],Democrat
+90,3,Aye,Rep. Blaine Luetkemeyer [R],Republican
+91,5,Aye,Rep. Tom McClintock [R],Republican
+92,1,No,Rep. Chellie Pingree [D],Democrat
+93,8,Aye,Rep. Bill Posey [R],Republican
+94,15,Aye,Rep. Glenn Thompson [R],Republican
+95,1,No,Rep. Dina Titus [D],Democrat
+96,20,No,Rep. Paul Tonko [D],Democrat
+97,5,No,Rep. Mike Quigley [D],Democrat
+98,28,No,Rep. Judy Chu [D],Democrat
+99,8,No,Rep. John Garamendi [D],Democrat
+100,7,No,Rep. Terri Sewell [D],Democrat
+101,9,Aye,Rep. Paul Gosar [R],Republican
+102,1,Aye,Rep. David Schweikert [R],Republican
+103,1,Aye,Rep. Eric “Rick” Crawford [R],Republican
+104,3,Aye,Rep. Steve Womack [R],Republican
+105,11,Aye,Rep. Daniel Webster [R],Republican
+106,24,No,Rep. Frederica Wilson [D],Democrat
+107,8,Aye,Rep. Austin Scott [R],Republican
+108,8,Aye,Rep. Larry Bucshon [R],Republican
+109,1,Aye,Rep. Andy Harris [R],Republican
+110,9,No,Rep. William R. Keating [D],Democrat
+111,4,Aye,Rep. Bill Huizenga [R],Republican
+112,6,Aye,Rep. Bill Johnson [R],Republican
+113,16,Aye,Rep. Mike Kelly [R],Republican
+114,3,Aye,Rep. Jeff Duncan [R],Republican
+115,3,Aye,Rep. Charles “Chuck” Fleischmann [R],Republican
+116,4,Aye,Rep. Scott DesJarlais [R],Republican
+117,9,Aye,Rep. Morgan Griffith [R],Republican
+118,2,Aye,Rep. Mark Amodei [R],Republican
+119,1,No,Rep. Suzanne Bonamici [D],Democrat
+120,4,Aye,Rep. Thomas Massie [R],Republican
+121,1,No,Rep. Suzan DelBene [D],Democrat
+122,10,No,Rep. Donald Payne Jr. [D],Democrat
+123,1,Aye,Rep. Doug LaMalfa [R],Republican
+124,2,No,Rep. Jared Huffman [D],Democrat
+125,6,No,Rep. Ami Bera [D],Democrat
+126,14,No,Rep. Eric Swalwell [D],Democrat
+127,22,Aye,Rep. David Valadao [R],Republican
+128,26,No,Rep. Julia Brownley [D],Democrat
+129,29,No,Rep. Tony Cárdenas [D],Democrat
+130,25,No,Rep. Raul Ruiz [D],Democrat
+131,39,No,Rep. Mark Takano [D],Democrat
+132,52,No,Rep. Juan Vargas [D],Democrat
+133,50,No,Rep. Scott Peters [D],Democrat
+134,22,No,Rep. Lois Frankel [D],Democrat
+135,10,No,Rep. Bradley “Brad” Schneider [D],Democrat
+136,6,Aye,Rep. Garland “Andy” Barr [R],Republican
+137,8,No,Rep. Daniel Kildee [D],Democrat
+138,2,Aye,Rep. Ann Wagner [R],Republican
+139,9,Aye,Rep. Richard Hudson [R],Republican
+140,2,No,Rep. Ann Kuster [D],Democrat
+141,4,No,Rep. Steven Horsford [D],Democrat
+142,6,No,Rep. Grace Meng [D],Democrat
+143,8,No,Rep. Hakeem Jeffries [D],Democrat
+144,2,Aye,Rep. Brad Wenstrup [R],Republican
+145,3,No,Rep. Joyce Beatty [D],Democrat
+146,14,Aye,Rep. David Joyce [R],Republican
+147,10,Aye,Rep. Scott Perry [R],Republican
+148,8,No,Rep. Matthew “Matt” Cartwright [D],Democrat
+149,14,Aye,Rep. Randy Weber [R],Republican
+150,20,No,Rep. Joaquin Castro [D],Democrat
+151,25,Aye,Rep. Roger Williams [R],Republican
+152,33,No,Rep. Marc Veasey [D],Democrat
+153,2,Aye,"Rep. Chris Stewart [R, 2013-2023]",Republican
+154,6,No,Rep. Derek Kilmer [D],Democrat
+155,2,No,Rep. Mark Pocan [D],Democrat
+156,2,No,Rep. Robin Kelly [D],Democrat
+157,8,Aye,Rep. Jason Smith [R],Republican
+158,5,No,Rep. Katherine Clark [D],Democrat
+159,1,No,Rep. Donald Norcross [D],Democrat
+160,12,No,Rep. Alma Adams [D],Democrat
+161,6,Aye,Rep. Gary Palmer [R],Republican
+162,2,Aye,Rep. French Hill [R],Republican
+163,4,Aye,Rep. Bruce Westerman [R],Republican
+164,3,No,Rep. Ruben Gallego [D],Democrat
+165,10,No,Rep. Mark DeSaulnier [D],Democrat
+166,33,No,Rep. Pete Aguilar [D],Democrat
+167,36,No,Rep. Ted Lieu [D],Democrat
+168,35,No,Rep. Norma Torres [D],Democrat
+169,4,Aye,Rep. Ken Buck [R],Republican
+170,1,Aye,Rep. Earl “Buddy” Carter [R],Republican
+171,11,Aye,Rep. Barry Loudermilk [R],Republican
+172,12,Aye,Rep. Rick Allen [R],Republican
+173,12,Aye,Rep. Mike Bost [R],Republican
+174,6,Aye,Rep. Garret Graves [R],Republican
+175,6,No,Rep. Seth Moulton [D],Democrat
+176,2,Aye,Rep. John Moolenaar [R],Republican
+177,6,No,Rep. Debbie Dingell [D],Democrat
+178,6,Aye,Rep. Tom Emmer [R],Republican
+179,1,Aye,Rep. Ryan Zinke [R],Republican
+180,7,Aye,Rep. David Rouzer [R],Republican
+181,12,No,Rep. Bonnie Watson Coleman [D],Democrat
+182,21,Aye,Rep. Elise Stefanik [R],Republican
+183,2,No,Rep. Brendan Boyle [D],Democrat
+184,36,Aye,Rep. Brian Babin [R],Republican
+185,8,No,Rep. Donald Beyer [D],Democrat
+186,4,Aye,Rep. Dan Newhouse [R],Republican
+187,6,Aye,Rep. Glenn Grothman [R],Republican
+188,2,Aye,Rep. Alexander Mooney [R],Republican
+189,1,Aye,Rep. Trent Kelly [R],Republican
+190,16,Aye,Rep. Darin LaHood [R],Republican
+191,8,Aye,Rep. Warren Davidson [R],Republican
+192,1,Aye,Rep. James Comer [R],Republican
+193,3,No,Rep. Dwight Evans [D],Democrat
+194,5,Aye,Rep. Andy Biggs [R],Republican
+195,17,No,Rep. Ro Khanna [D],Democrat
+196,19,No,Rep. Jimmy Panetta [D],Democrat
+197,24,No,Rep. Salud Carbajal [D],Democrat
+198,44,No,Rep. Nanette Barragán [D],Democrat
+199,46,No,Rep. Luis Correa [D],Democrat
+200,0,No,Rep. Lisa Blunt Rochester [D],Democrat
+201,1,Aye,Rep. Matt Gaetz [R],Republican
+202,2,Aye,Rep. Neal Dunn [R],Republican
+203,5,Aye,Rep. John Rutherford [R],Republican
+204,9,No,Rep. Darren Soto [D],Democrat
+205,21,Aye,Rep. Brian Mast [R],Republican
+206,3,Aye,Rep. Drew Ferguson [R],Republican
+207,8,No,Rep. Raja Krishnamoorthi [D],Democrat
+208,3,Aye,Rep. Jim Banks [R],Republican
+209,3,Aye,Rep. Clay Higgins [R],Republican
+210,4,Aye,Rep. Mike Johnson [R],Republican
+211,8,No,Rep. Jamie Raskin [D],Democrat
+212,1,Aye,Rep. Jack Bergman [R],Republican
+213,2,Aye,Rep. Don Bacon [R],Republican
+214,5,Not Voting,Rep. Josh Gottheimer [D],Democrat
+215,13,No,Rep. Adriano Espaillat [D],Democrat
+216,24,Aye,Rep. Claudia Tenney [R],Republican
+217,1,Aye,Rep. Brian Fitzpatrick [R],Republican
+218,11,Aye,Rep. Lloyd Smucker [R],Republican
+219,8,Aye,Rep. David Kustoff [R],Republican
+220,34,No,Rep. Vicente Gonzalez [D],Democrat
+221,19,Aye,Rep. Jodey Arrington [R],Republican
+222,7,No,Rep. Pramila Jayapal [D],Democrat
+223,8,Aye,Rep. Mike Gallagher [R],Republican
+224,4,Aye,Rep. Ron Estes [R],Republican
+225,5,Aye,Rep. Ralph Norman [R],Republican
+226,34,No,Rep. Jimmy Gomez [D],Democrat
+227,3,Aye,Rep. John Curtis [R],Republican
+228,8,Aye,Rep. Debbie Lesko [R],Republican
+229,27,Aye,Rep. Michael Cloud [R],Republican
+230,12,Aye,Rep. Troy Balderson [R],Republican
+231,1,Aye,Rep. Kevin Hern [R],Republican
+232,25,No,Rep. Joseph Morelle [D],Democrat
+233,5,No,Rep. Mary Gay Scanlon [D],Democrat
+234,7,No,Rep. Susan Wild [D],Democrat
+235,4,No,Rep. Greg Stanton [D],Democrat
+236,9,No,Rep. Josh Harder [D],Democrat
+237,47,No,Rep. Katie Porter [D],Democrat
+238,49,No,Rep. Mike Levin [D],Democrat
+239,2,No,Rep. Joe Neguse [D],Democrat
+240,6,No,Rep. Jason Crow [D],Democrat
+241,5,No,Rep. Jahana Hayes [D],Democrat
+242,6,Aye,Rep. Michael Waltz [R],Republican
+243,17,Aye,Rep. Gregory Steube [R],Republican
+244,7,No,Rep. Lucy McBath [D],Democrat
+245,1,Aye,Rep. Russ Fulcher [R],Republican
+246,4,No,Rep. Jesús “Chuy” García [D],Democrat
+247,6,Not Voting,Rep. Sean Casten [D],Democrat
+248,14,No,Rep. Lauren Underwood [D],Democrat
+249,4,Aye,Rep. James Baird [R],Republican
+250,6,Aye,Rep. Greg Pence [R],Republican
+251,3,No,Rep. Sharice Davids [D],Democrat
+252,3,No,Rep. Lori Trahan [D],Democrat
+253,7,No,Rep. Ayanna Pressley [D],Democrat
+254,6,No,Rep. David Trone [D],Democrat
+255,7,No,Rep. Elissa Slotkin [D],Democrat
+256,11,No,Rep. Haley Stevens [D],Democrat
+257,12,No,Rep. Rashida Tlaib [D],Democrat
+258,2,No,Rep. Angie Craig [D],Democrat
+259,3,No,Rep. Dean Phillips [D],Democrat
+260,5,No,Rep. Ilhan Omar [D],Democrat
+261,8,Aye,Rep. Pete Stauber [R],Republican
+262,3,Aye,Rep. Michael Guest [R],Republican
+263,0,Aye,Rep. Kelly Armstrong [R],Republican
+264,1,No,Rep. Chris Pappas [D],Democrat
+265,2,Aye,Rep. Jefferson Van Drew [R],Republican
+266,3,No,Rep. Andy Kim [D],Democrat
+267,11,No,Rep. Mikie Sherrill [D],Democrat
+268,3,No,Rep. Susie Lee [D],Democrat
+269,14,No,Rep. Alexandria Ocasio-Cortez [D],Democrat
+270,4,No,Rep. Madeleine Dean [D],Democrat
+271,6,No,Rep. Chrissy Houlahan [D],Democrat
+272,9,Aye,Rep. Daniel Meuser [R],Republican
+273,13,Aye,Rep. John Joyce [R],Republican
+274,14,Aye,Rep. Guy Reschenthaler [R],Republican
+275,4,Aye,Rep. William Timmons [R],Republican
+276,0,Aye,Rep. Dusty Johnson [R],Republican
+277,2,Aye,Rep. Tim Burchett [R],Republican
+278,6,Aye,Rep. John W. Rose [R],Republican
+279,7,Aye,Rep. Mark E. Green [R],Republican
+280,2,Aye,Rep. Dan Crenshaw [R],Republican
+281,5,Aye,Rep. Lance Gooden [R],Republican
+282,7,No,Rep. Lizzie Fletcher [D],Democrat
+283,16,No,Rep. Veronica Escobar [D],Democrat
+284,21,Aye,Rep. Chip Roy [R],Republican
+285,29,No,Rep. Sylvia Garcia [D],Democrat
+286,32,No,Rep. Colin Allred [D],Democrat
+287,6,Aye,Rep. Ben Cline [R],Republican
+288,7,No,Rep. Abigail Spanberger [D],Democrat
+289,10,No,Rep. Jennifer Wexton [D],Democrat
+290,8,No,Rep. Kim Schrier [D],Democrat
+291,1,Aye,Rep. Bryan Steil [R],Republican
+292,1,Aye,Rep. Carol Miller [R],Republican
+293,2,No,Rep. Jared Golden [D],Democrat
+294,8,Aye,Rep. Dan Bishop [R],Republican
+295,3,Aye,Rep. Gregory Murphy [R],Republican
+296,7,Aye,Rep. Thomas Tiffany [R],Republican
+297,27,Aye,Rep. Mike Garcia [R],Republican
+298,1,Aye,Rep. Jerry Carl [R],Republican
+299,2,Aye,Rep. Barry Moore [R],Republican
+300,23,Aye,Rep. Jay Obernolte [R],Republican
+301,40,Aye,Rep. Young Kim [R],Republican
+302,45,Aye,Rep. Michelle Steel [R],Republican
+303,51,No,Rep. Sara Jacobs [D],Democrat
+304,3,Aye,Rep. Lauren Boebert [R],Republican
+305,3,Aye,Rep. Katherine “Kat” Cammack [R],Republican
+306,18,Aye,Rep. Scott Franklin [R],Republican
+307,19,Aye,Rep. Byron Donalds [R],Republican
+308,28,Aye,Rep. Carlos Gimenez [R],Republican
+309,27,Aye,Rep. Maria Salazar [R],Republican
+310,5,No,Rep. Nikema Williams [D],Democrat
+311,9,Aye,Rep. Andrew Clyde [R],Republican
+312,14,Aye,Rep. Marjorie Taylor Greene [R],Republican
+313,2,Aye,Rep. Ashley Hinson [R],Republican
+314,1,Aye,Rep. Mariannette Miller-Meeks [R],Republican
+315,4,Aye,Rep. Randy Feenstra [R],Republican
+316,15,Aye,Rep. Mary Miller [R],Republican
+317,1,No,Rep. Frank Mrvan [D],Democrat
+318,5,Aye,Rep. Victoria Spartz [R],Republican
+319,1,Aye,Rep. Tracey Mann [R],Republican
+320,2,Aye,Rep. Jacob “Jake” LaTurner [R],Republican
+321,4,No,Rep. Jake Auchincloss [D],Democrat
+322,9,Aye,Rep. Lisa McClain [R],Republican
+323,7,Aye,Rep. Michelle Fischbach [R],Republican
+324,1,No,Rep. Cori Bush [D],Democrat
+325,2,Aye,Rep. Matthew Rosendale [R],Republican
+326,2,No,Rep. Deborah Ross [D],Democrat
+327,6,No,Rep. Kathy Manning [D],Democrat
+328,3,No,Rep. Teresa Leger Fernandez [D],Democrat
+329,2,Aye,Rep. Andrew Garbarino [R],Republican
+330,11,Aye,Rep. Nicole Malliotakis [R],Republican
+331,15,No,Rep. Ritchie Torres [D],Democrat
+332,16,No,Rep. Jamaal Bowman [D],Democrat
+333,5,Aye,Rep. Stephanie Bice [R],Republican
+334,2,Aye,Rep. Cliff Bentz [R],Republican
+335,1,Aye,Rep. Nancy Mace [R],Republican
+336,1,Aye,Rep. Diana Harshbarger [R],Republican
+337,4,Aye,Rep. Patrick “Pat” Fallon [R],Republican
+338,11,Aye,Rep. August Pfluger [R],Republican
+339,13,Aye,Rep. Ronny Jackson [R],Republican
+340,22,Aye,Rep. Troy Nehls [R],Republican
+341,23,Aye,Rep. Ernest “Tony” Gonzales [R],Republican
+342,24,Aye,Rep. Beth Van Duyne [R],Republican
+343,1,Aye,Rep. Blake Moore [R],Republican
+344,4,Aye,Rep. Clarence “Burgess” Owens [R],Republican
+345,5,Aye,Rep. Robert “Bob” Good [R],Republican
+346,10,No,Rep. Marilyn Strickland [D],Democrat
+347,5,Aye,Rep. Scott Fitzgerald [R],Republican
+348,5,Aye,Rep. Julia Letlow [R],Republican
+349,2,No,Rep. Troy Carter [D],Democrat
+350,1,No,Rep. Melanie Stansbury [D],Democrat
+351,6,Aye,Rep. Jake Ellzey [R],Republican
+352,11,No,Rep. Shontel Brown [D],Democrat
+353,15,Aye,Rep. Mike Carey [R],Republican
+354,20,No,Rep. Sheila Cherfilus-McCormick [D],Democrat
+355,1,Aye,Rep. Mike Flood [R],Republican
+356,1,Not Voting,Rep. Brad Finstad [R],Republican
+357,0,No,Rep. Mary Peltola [D],Democrat
+358,18,No,Rep. Patrick Ryan [D],Democrat
+359,2,Aye,Rep. Rudy Yakym [R],Republican
+360,5,Aye,Rep. Dale Strong [R],Republican
+361,2,Aye,Rep. Eli Crane [R],Republican
+362,6,Aye,Rep. Juan Ciscomani [R],Republican
+363,3,Aye,Rep. Kevin Kiley [R],Republican
+364,13,Aye,Rep. John Duarte [R],Republican
+365,15,No,Rep. Kevin Mullin [D],Democrat
+366,37,No,Rep. Sydney Kamlager-Dove [D],Democrat
+367,42,No,Rep. Robert Julio Garcia [D],Democrat
+368,7,No,Rep. Brittany Pettersen [D],Democrat
+369,8,No,Rep. Yadira Caraveo [D],Democrat
+370,4,Aye,Rep. Aaron Bean [R],Republican
+371,7,Aye,Rep. Cory Mills [R],Republican
+372,10,No,Rep. Maxwell Frost [D],Democrat
+373,13,Aye,Rep. Anna Paulina Luna [R],Republican
+374,15,Aye,Rep. Laurel Lee [R],Republican
+375,23,No,Rep. Jared Moskowitz [D],Democrat
+376,6,Aye,Rep. Rich McCormick [R],Republican
+377,10,Aye,Rep. Mike Collins [R],Republican
+378,2,No,Rep. Jill Tokuda [D],Democrat
+379,3,Aye,Rep. Zachary (Zach) Nunn [R],Republican
+380,1,No,Rep. Jonathan Jackson [D],Democrat
+381,3,No,Rep. Delia Ramirez [D],Democrat
+382,13,No,Rep. Nicole (Nikki) Budzinski [D],Democrat
+383,17,No,Rep. Eric Sorensen [D],Democrat
+384,9,Aye,Rep. Erin Houchin [R],Republican
+385,3,No,Rep. Morgan McGarvey [D],Democrat
+386,4,No,Rep. Glenn Ivey [D],Democrat
+387,3,No,Rep. Hillary Scholten [D],Democrat
+388,10,Aye,Rep. John James [R],Republican
+389,13,No,Rep. Shri Thanedar [D],Democrat
+390,4,Aye,Rep. Mark Alford [R],Republican
+391,7,Aye,Rep. Eric Burlison [R],Republican
+392,4,Aye,Rep. Mike Ezell [R],Republican
+393,1,No,Rep. Donald Davis [D],Democrat
+394,4,No,Rep. Valerie Foushee [D],Democrat
+395,11,Aye,Rep. Charles (Chuck) Edwards [R],Republican
+396,13,No,Rep. Wiley Nickel [D],Democrat
+397,14,No,Rep. Jeffrey Jackson [D],Democrat
+398,7,Aye,Rep. Thomas Kean [R],Republican
+399,8,No,Rep. Robert Jacobsen Menendez [D],Democrat
+400,2,No,Rep. Gabriel (Gabe) Vasquez [D],Democrat
+401,1,Aye,Rep. Nicolas LaLota [R],Republican
+402,3,Aye,Rep. George Santos [R],Republican
+403,4,Not Voting,Rep. Anthony D'Esposito [R],Republican
+404,10,No,Rep. Dan Goldman [D],Democrat
+405,17,Aye,Rep. Michael Lawler [R],Republican
+406,19,Aye,Rep. Marcus Molinaro [R],Republican
+407,22,Aye,Rep. Brandon Williams [R],Republican
+408,23,Aye,Rep. Nicholas Langworthy [R],Republican
+409,1,No,Rep. Greg Landsman [D],Democrat
+410,7,Aye,Rep. Max Miller [R],Republican
+411,13,No,Rep. Emilia Sykes [D],Democrat
+412,2,Aye,Rep. Josh Brecheen [R],Republican
+413,4,No,Rep. Valerie Hoyle [D],Democrat
+414,5,Aye,Rep. Lori Chavez-DeRemer [R],Republican
+415,6,No,Rep. Andrea Salinas [D],Democrat
+416,12,No,Rep. Summer Lee [D],Democrat
+417,17,No,Rep. Chris Deluzio [D],Democrat
+418,2,No,Rep. Seth Magaziner [D],Democrat
+419,7,Aye,Rep. Russell Fry [R],Republican
+420,5,Aye,Rep. Andrew Ogles [R],Republican
+421,1,Aye,Rep. Nathaniel Moran [R],Republican
+422,3,Aye,Rep. Keith Self [R],Republican
+423,8,Aye,Rep. Morgan Luttrell [R],Republican
+424,15,Aye,Rep. Mónica De La Cruz [R],Republican
+425,30,No,Rep. Jasmine Crockett [D],Democrat
+426,35,No,Rep. Gregorio Casar [D],Democrat
+427,38,Aye,Rep. Wesley Hunt [R],Republican
+428,2,Aye,Rep. Jennifer Kiggans [R],Republican
+429,0,No,Rep. Becca Balint [D],Democrat
+430,3,No,Rep. Marie Gluesenkamp Perez [D],Democrat
+431,3,Aye,Rep. Derrick Van Orden [R],Republican
+432,0,Aye,Rep. Harriet Hageman [R],Republican
+433,4,No,Rep. Jennifer McClellan [D],Democrat
