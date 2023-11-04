@@ -16,13 +16,13 @@ reader = DirectoryLoader("./data/senate_hearings", glob="**/*.txt", recursive=Tr
                             show_progress= True, loader_cls=TextLoader)
 documents = reader.load()
 
-# Split Notion content into smaller chunks
+# Split content into smaller chunks
 markdown_splitter = RecursiveCharacterTextSplitter(
     separators=["\n\n","\n","."],
     chunk_size=1500,
     chunk_overlap=100)
 docs = markdown_splitter.split_documents(documents)
-
+len(docs)
 # Initialize OpenAI embedding model
 embeddings = OpenAIEmbeddings(model="text-embedding-ada-002")
 
