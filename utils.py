@@ -26,17 +26,17 @@ def load_chain():
 		# Load our local FAISS index as a retriever
 		vector_store = FAISS.load_local("faiss_index", embeddings)
 		## look into search_kwargs parameter
-		retriever = vector_store.as_retriever(search_kwargs={"k": 3})
+		retriever = vector_store.as_retriever(search_kwargs={"k": 5})
 		
 		# Create memory 'chat_history' 
-		memory = ConversationBufferWindowMemory(k=3,memory_key="chat_history")
+		memory = ConversationBufferWindowMemory(k=5,memory_key="chat_history")
 		
 		# Create system prompt
 		template = """
     You are an AI assistant for answering questions about US legislators and politicians.
-    You are given the following extracted parts of historical hearings, speeches, and bills. Provide a conversational answer.
-    If you don't know the answer, just say 'Sorry, I don't know ... 😔. 
-    Don't try to make up an answer.
+    You are given the following extracted parts of historical hearings, speeches, and bills. 
+    If given a question asking about a person's opinion on a topic, please use the extracted parts to infer a reasonable response. 
+    Don't make up an answer and cite the document that you derived your response from. 
     If the question is not about US politicians or politics, politely inform them that you are tuned to only answer questions about the US politicians or politics.
     
     {context}
