@@ -1,0 +1,2879 @@
+
+ - IMPROVING INTERAGENCY AND INTERGOVERNMENTAL COORDINATION OF PFAS FOR MICHIGAN COMMUNITIES
+
+[Senate Hearing 117-665]
+[From the U.S. Government Publishing Office]
+
+
+
+
+
+                                                        S. Hrg. 117-665
+
+                       IMPROVING INTERAGENCY AND
+                     INTERGOVERNMENTAL COORDINATION
+                    OF PFAS FOR MICHIGAN COMMUNITIES
+
+=======================================================================
+
+                             FIELD HEARING
+
+                               before the
+
+                              COMMITTEE ON
+               HOMELAND SECURITY AND GOVERNMENTAL AFFAIRS
+                          UNITED STATES SENATE
+
+                    ONE HUNDRED SEVENTEENTH CONGRESS
+
+
+                             SECOND SESSION
+
+                               __________
+
+                             AUGUST 1, 2022
+
+                               __________
+
+        Available via the World Wide Web: http://www.govinfo.gov
+
+                       Printed for the use of the
+        Committee on Homeland Security and Governmental Affairs 
+        
+        
+        
+        
+        
+        
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+
+
+
+
+
+                              
+                 U.S. GOVERNMENT PUBLISHING OFFICE
+                 
+51-541 PDF               WASHINGTON : 2023
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        COMMITTEE ON HOMELAND SECURITY AND GOVERNMENTAL AFFAIRS
+
+                   GARY C. PETERS, Michigan, Chairman
+THOMAS R. CARPER, Delaware           ROB PORTMAN, Ohio
+MAGGIE HASSAN, New Hampshire         RON JOHNSON, Wisconsin
+KYRSTEN SINEMA, Arizona              RAND PAUL, Kentucky
+JACKY ROSEN, Nevada                  JAMES LANKFORD, Oklahoma
+ALEX PADILLA, California             MITT ROMNEY, Utah
+JON OSSOFF, Georgia                  RICK SCOTT, Florida
+                                     JOSH HAWLEY, Missouri
+
+                   David M. Weinberg, Staff Director
+                    Zachary I. Schram, Chief Counsel
+              Chelsea A. Davis, Professional Staff Member
+ Mike Stoever, Legislative Assistant, Office of Senator Gary C. Peters
+  Eric E. Keller, Regional Director, Office of Senator Gary C. Peters
+Joci C. McMichael, Mid-Michigan Regional Coordinator, Office of Gary C. 
+                                 Peters
+                Pamela Thiessen, Minority Staff Director
+            Sam J. Mulopulos, Minority Deputy Staff Director
+       Cara G. Mumford, Minority Director of Governmental Affairs
+                     Laura W. Kilbride, Chief Clerk
+                     Thomas J. Spino, Hearing Clerk 
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+
+                            C O N T E N T S
+
+                                 ------                                
+Opening statements:
+                                                                   Page
+    Senator Peters...............................................     1
+Prepared statements:
+    Senator Peters...............................................    49
+
+                               WITNESSES
+                         Monday, August 1, 2022
+
+Patrick Breysse, Ph.D., Director, National Center for 
+  Environmental Health/Agency for Toxic Substances and Disease 
+  Registry, Centers for Disease Control and Prevention, U.S. 
+  Department of Health and Human Services........................     3
+Bruno Pigott, Deputy Assistant Administrator, Office of Water, 
+  U.S. Environmental Protection Agency...........................     6
+Nancy Balkus, P.E. Deputy Assistant Secretary of the Air Force 
+  (Environment, Safety, and Infrastructure), Department of the 
+  Air Force......................................................     8
+John Gillespie, Senior Subject Matter Expert, Environmental 
+  Restoration, Air Force Civil Engineer Center...................     9
+Abigail Hendershott, Executive Director, Michigan PFAS Action 
+  Response Team..................................................    28
+Breanna Knudsen, Tribal Environmental Response Program 
+  Specialist, Planning Department, Saginaw Chippewa Indian Tribe 
+  of Michigan....................................................    30
+Cheryl Murphy, Ph.D. Director, Center for PFAS Research, Michigan 
+  State University...............................................    31
+Lt. Col. Craig L. Minor, USAF (RET.) Former Resident, Wurtsmith 
+  Air Force Base.................................................    33
+Cathy Wusterbarth, Founder, Need Our Water and Oscoda Citizens 
+  for Clean Water and Community Leader, Great Lakes PFAS Action 
+  Network East Lansing, Michigan.................................    34
+
+                     Alphabetical List of Witnesses
+
+Balkus, Nancy, P.E.:
+    Testimony....................................................     8
+    Prepared statement...........................................    74
+Breysse, Patrick, Ph.D.:
+    Testimony....................................................     3
+    Prepared statement...........................................    51
+Gillespie, John:
+    Testimony....................................................     9
+Hendershott, Abigail:
+    Testimony....................................................    28
+    Prepared statement...........................................    84
+Kidd, Richard:
+    Prepared statement...........................................    67
+Knudsen, Breanna:
+    Testimony....................................................    30
+    Prepared statement...........................................    91
+Minor, Lt. Col. Craig L.:
+    Testimony....................................................    33
+    Prepared statement...........................................    97
+Murphy, Cheryl:
+    Testimony....................................................    31
+    Prepared statement...........................................    92
+Pigott, Bruno:
+    Testimony....................................................     6
+    Prepared statement...........................................    57
+Wusterbarth, Cathy:
+    Testimony....................................................    34
+    Prepared statement with attachments..........................   106
+
+                                APPENDIX
+
+PFAS Contamination at the Former Wurtsmith Air Force Base: The 
+  True Story NOW Report..........................................   120
+Response to post-hearing questions submitted for the Record
+    Mr. Pigott...................................................   134
+    Mr. Kidd.....................................................   138
+    Ms. Balkus...................................................   148
+    Mr. Gillespie................................................   154
+
+ 
+                       IMPROVING INTERAGENCY AND 
+                     INTERGOVERNMENTAL COORDINATION 
+                    OF PFAS FOR MICHIGAN COMMUNITIES 
+
+                              ----------                              
+
+
+                             AUGUST 1, 2022
+
+                                     U.S. Senate,  
+                           Committee on Homeland Security  
+                                  and Governmental Affairs,
+                                                        Detroit, MI
+    The Committee met, pursuant to notice, at 9:59 a.m., 
+Michigan State University, Interdisciplinary Science and 
+Technology Building, Room 1404 (766 Service Road, East Lansing, 
+MI 48824).
+    Present: Senator Peters
+
+             OPENING STATEMENT OF SENATOR PETERS\1\
+
+    Chairman Peters. The Committee will come to order.
+---------------------------------------------------------------------------
+    \1\ The prepared statement of Senator Peters appears in the 
+Appendix on page 49.
+---------------------------------------------------------------------------
+    First off, I would like to thank Michigan State University 
+(MSU) for hosting us here today, and to thank each of our 
+witnesses on both panels that will be before us, for being with 
+us in East Lansing, and most importantly your dedicated service 
+to the American people each and every day.
+    Today's hearing will examine the Federal Government's 
+efforts to address contamination from polyfluoroalkyl 
+substances (PFAS), and identify potential solutions to build a 
+more comprehensive approach to conduct research, assess the 
+risks and effectively remediate the contaminated sites that we 
+have here in Michigan, as well as all across the country.
+    PFAS are man-made chemicals that are widely used in 
+industry and consumer products due to their ability to repel 
+water, oil, and heat; known as ``forever chemicals,'' because 
+they do not break down naturally. These substances are used in 
+everything from commercial products like food packaging, 
+nonstick cookware, stain-resistant carpet, and waterproof 
+clothing, as well as firefighting foams. Despite their 
+prevalence, the well-known health effects, PFAS are not 
+currently regulated by the Federal Government. For the last 80 
+years, they have been allowed to seep into our air, our soil, 
+and even our drinking water. Prolonged exposure to these toxic 
+chemicals can lead to serious health effects like cancer, liver 
+and kidney issues, and reproductive and developmental issues.
+    In Michigan, we have the highest amount of recorded PFAS 
+contamination sites in the entire country, largely because 
+Michigan is on the forefront of identifying these locations and 
+actually looking for them. We know when you look for them, you 
+will find them all over the country, as well, not just here in 
+Michigan. But these chemicals continue to pose significant risk 
+to our communities, and as of now, more than two million 
+Michigan residents having been exposed to toxic chemicals in 
+their drinking water.
+    In particular, servicemembers, first responders and their 
+families, and residents of communities surrounding military 
+sites across Michigan have continued to face sustained exposure 
+to PFAS. These folks, many of them who serve our country with 
+honor and distinction, deserve a whole lot better. That is why 
+as Chair of the Senate Homeland Security and Governmental 
+Affairs Committee (HSGAC) I have pushed for Federal agencies 
+responsible for PFAS contamination to take a more proactive 
+approach to addressing what is indeed a crisis. In September 
+2018, I convened the Senate's first hearing on PFAS 
+contamination to examine the Federal role in addressing this 
+crisis, as well as a field summit in Grand Rapids to hear 
+directly from Michiganders about the impact PFAS contamination 
+has had on their lives. Most recently, last December, I 
+convened a hearing to examine the Department of Defense 
+Inspector General (DOD IG) Report that showed that the 
+Department of Defense (DOD) continued to use these chemicals 
+despite knowing the harmful effects.
+    Since these hearings, my colleagues and I have passed 
+bipartisan infrastructure law, which invest in clean drinking 
+water, and includes dedicated funding to address the PFAS 
+contamination, and secured provisions in the 2019 National 
+Defense bill that bans the Department of Defense from 
+purchasing firefighting foams containing PFAS chemicals. I am 
+also pleased to see the administration has taken important 
+steps to address this crisis with the Environmental Protection 
+Agency (EPA) PFAS Strategic Roadmap and new drinking water 
+health advisories (HAs) for PFAS significantly lowering the 
+lifetime drinking water health advisories for perfluorooctanoic 
+acid (PFOA) and perfluorooctane sulfonic acid (PFOS), and 
+setting a new advisory level for GenX chemicals.
+    However, Michiganders are unfortunately continuing to 
+suffer the consequences of exposure to these hazardous 
+chemicals, and government must do more to protect these 
+communities. I am going to continue pushing Federal agencies 
+that are responsible for PFAS contamination to take additional 
+steps to help the communities that have been impacted by these. 
+I am also working to pass legislation that I introduced earlier 
+this year to prevent PFAS contamination in our communities, 
+including my Preventing PFAS Runoff at Airports Act, which 
+incentivizes commercial airports nationwide to purchase testing 
+equipment that avoids spreading PFAS chemicals, and my Federal 
+PFAS Research Evaluation Act, which will give us a more 
+complete understanding of the impact of PFAS, and the impact it 
+has on our health and environment so that we can more 
+effectively deal with this contamination.
+    I also plan to introduce new legislation in the coming 
+weeks to improve intergovernmental coordination for PFAS 
+contamination and facilitate a more comprehensive approach to 
+cleaning up existing sites, as well as preventing future 
+contamination.
+    Today, our first panel will feature Federal officials who 
+can speak about their agency's efforts on PFAS contamination, 
+and discuss strategic action plans, as well as additional 
+opportunities to improve the coordination for every aspect of 
+PFAS response, ranging from research to remediation.
+    Our second panel will feature Michiganders who have lived 
+this crisis firsthand and look--I certainly look forward to 
+hearing their perspectives and insights on how we keep our 
+friends, our families, and our loved ones out of harm's way. I 
+appreciate all of our witnesses for taking time to be here 
+today and share more about the work that they have undertaken 
+to address the PFAS exposure and to join in this what will be a 
+very productive conversation on what more we must do to protect 
+our communities, and our harmful chemicals.
+    It is the practice of the Homeland Security and 
+Governmental Affairs Committee to swear in witnesses. If each 
+of you would please stand and raise your right hands, please.
+    Do you swear that the testimony that you will give before 
+this Committee will be the truth, the whole truth, and nothing 
+but the truth, so help you, God?
+    Dr. Breysse. I do.
+    Mr. Pigott. I do.
+    Ms. Balkus. I do.
+    Mr. Gillespie. I do.
+    Chairman Peters. You may be seated.
+    Today's first witness is Dr. Patrick Breysse, Director of 
+the National Center for Environmental Health (NCEH) and Agency 
+for Toxic Substances and Disease Registry (ATSDR) at the 
+Centers for Disease Control and Prevention (CDC). Prior to 
+joining the CDC, Dr. Breysse worked at Johns Hopkins University 
+as Associate Chair for Educational Programs within the 
+Department of Environmental Health Sciences, Program Director 
+for the Industrial Hygiene Training Program, and as Co-Director 
+of the John Hopkins Center for Childhood Asthma in the Urban 
+Environment.
+    Dr. Breysse, welcome to the field hearing, and you may 
+proceed with your opening remarks.
+
+  TESTIMONY OF PATRICK BREYSSE, PH.D.,\1\ DIRECTOR, NATIONAL 
+CENTER FOR ENVIRONMENTAL HEALTH AND AGENCY FOR TOXIC SUBSTANCES 
+     AND DISEASE REGISTRY, CENTERS FOR DISEASE CONTROL AND 
+    PREVENTION, U.S. DEPARTMENT OF HEALTH AND HUMAN SERVICES
+
+    Dr. Breysse. Thank you, Senator. As you heard, I direct the 
+Agency for Toxic Substances and Disease Registry; I will refer 
+to them ATSDR, as well as the National Center for Environmental 
+Health, and I appreciate the opportunity to be here today to 
+discuss PFAS along with my colleagues from the Environmental 
+Protection Agency and the Department of Defense.
+---------------------------------------------------------------------------
+    \1\ The prepared statement of Dr. Breysse appears in the Appendix 
+on page 51.
+---------------------------------------------------------------------------
+    Since I was here last in 2018, we have learned much more 
+about PFAS. We know people in the United States have been 
+exposed to PFAS in their drinking water or via other pathways, 
+and in many case, we have documented this. ATSDR conducted 
+exposure assessments (EA) in ten communities, and they showed 
+that participants who lived in places where aqueous film 
+forming foam (AFFF) was used and where the water was 
+contaminated had higher levels of PFAS in their bodies than the 
+general U.S. population, and we think it is driven by that 
+water exposures.
+    As suspected, levels tend to be higher in older people and 
+in men. Why, I think, because all the people have been exposed 
+for longer period of time, and men have fewer excretion 
+pathways than women. The EA suggested as not all PFAS in a 
+person's body can be explained by the drinking water exposures, 
+and at this point, we know that PFAS is everywhere, and so 
+people get exposed to multiple routes. This suggestion is 
+corroborated by research, and ATSDR is actively engaged in 
+follow-up exposure investigations designed specifically to 
+learn more about non-drinking-water exposures.
+    There is expanding evidence on the human health effects of 
+PFAS, and this is a priority for us. While health effects of 
+many PFAS chemicals are well understood, ATSDR continues to 
+make contributions to build a scientific evidence base. ATSDR 
+has reviewed many studies that suggest the potential for an 
+association between PFAS exposure and health impacts to many 
+different parts of the body. We are conducting an ongoing 
+national PFAS multi-site health study, looking at the 
+relationship between PFAS exposure in multiple communities with 
+contaminated drinking water across the country.
+    We expect it will be a significant contribution to our 
+understanding of the relationship between PFAS exposure and 
+adverse health effects. We have seen the efforts to remove PFAS 
+from commerce in manufacturing use and consumer products. We 
+have seen that they are effective. The CDC's National 
+Biomonitoring Program has measured PFAS in the blood of the 
+U.S. population since 1999. This data strongly suggests that 
+actions such as reducing PFAS have resulted in significant 
+decreases in population levels of, in this case, PFOA and PFOS 
+in the blood of the U.S. population. We have also learned that 
+communities are effective partners in the pursuit of public 
+health when they are empowered with up to date comprehensive 
+scientific information.
+    Our partnership with community groups and individuals 
+across the country has demonstrated that we do better when we 
+treat community members as equal contributors to the 
+conversation. We are applying these lessons learned to our work 
+at ATSDR across the country. In collaboration with State health 
+departments, we are investigating exposures and health effects 
+in more than 40 communities across the country today, including 
+Michigan. The State of Michigan is leading in addressing PFAS 
+concerns, as you heard the Senator say.
+    The efforts undertaken by the Michigan PFAS Action Response 
+Team (MPART) can bring together different State agencies as 
+serving as a model for other States across the country. I am 
+happy to say that Michigan is part of ATSDR's multi-site health 
+study, and will evaluate exposures in Parchment and in the 
+Belmont and Rockford areas. The Michigan Department of Health 
+and Human Services (MDHHS) has a strong relationship with the 
+community and has so far successfully enrolled and completed 
+all study activities for 339 adults and 28 children. One of the 
+challenges with the multi-site study (MSS) going forward is we 
+are struggling to recruit children into the study, and I would 
+be happy to discuss this in more detail, if you are interested. 
+When I was here in 2018 I was able to visit the Wolverine 
+Worldwide site where ATSDR, the Michigan Department of Health 
+and Human Services and the Kent County Health Departments have 
+collaborated for many years.
+    The agencies are working to address concerns raised by the 
+disposal of PFAS in the area primarily served by private well 
+waters and many of which are contaminated with PFAS. In 
+addition, ATSDR is providing support to Michigan's effort to 
+address contamination at Camp Grayling, U.S. Army National 
+Guard Base. ATSDR also recently updated public health 
+assessment for the former Wurtsmith Air Force Base (WAFB) with 
+current scientific knowledge about volatile organic compounds, 
+but we are unable to focus on PFAS at this time.
+    It is not an understatement to say that PFAS is a complex 
+family of chemicals, but ATSDR is committed to working with all 
+government levels to help address PFAS. We are collaborating 
+with the EPA on PFAS studies and site work, provide technical 
+support and guidance to State and local health departments, and 
+we are participating in interagency scientific teams with the 
+Food and Drug Administration (FDA), National Institute of 
+Environmental Health Sciences (NIEHS), EPA, DOD, Veterans 
+Affairs (VA), and National Aeronautics and Space Administration 
+(NASA), among other agencies. These efforts acknowledge the 
+need to coordinate and to ensure addressing PFAS in a 
+systematic, harmonized approach.
+    In closing, I would like to leave a few thoughts. Even 
+though there is still some scientific uncertainty, we know 
+enough to be concerned about the toxicity of these chemicals 
+and their health impacts. ATSDR is committed to continue to 
+study PFAS exposures and its health effects, and communities 
+have spoken and we are listening. With their help, we can lead 
+with science and better understand PFAS. Thank you again for 
+the invitation to speak today, and I welcome any questions you 
+might have.
+    Chairman Peters. Thank you. Thank you, Dr. Breysse. We 
+appreciate your leadership on the issue and your testimony here 
+today.
+    Our next witness is Bruno Pigott, the Deputy Assistant 
+Administrator of the Environmental Protection Agency, Office of 
+Water. Mr. Pigott has more than two decades of experience with 
+the Indiana Department of Environmental Management (IDEM), 
+where he served as Commissioner for five years.
+    Mr. Pigott, welcome to the Committee. You may proceed with 
+your opening remarks.
+
+ TESTIMONY OF BRUNO PIGOTT,\1\ DEPUTY ASSISTANT ADMINISTRATOR, 
+     OFFICE OF WATER, U.S. ENVIRONMENTAL PROTECTION AGENCY
+
+    Mr. Pigott. Good morning, Chairman Peters. I am Bruno 
+Pigott, Deputy Assistant Administrator for Water and the U.S. 
+Environmental Protection Agency. Thank you for the opportunity 
+to testify today on the topic of per-and polyfluoroalkyl 
+substances, and to do so alongside my colleagues at ATSDR and 
+the Department of Defense. I am also excited to be here today 
+at my alma mater, Michigan State University, and in a State I 
+consider my home.
+---------------------------------------------------------------------------
+    \1\ The prepared statement of Mr. Pigott appears in the Appendix on 
+page 57.
+---------------------------------------------------------------------------
+    Today's hearing is focused on PFAS and ensuring effective 
+interagency and intergovernmental coordination. In my prior 
+role, as you mentioned, as Commissioner of the Indiana 
+Department of Environmental Management, as well as my current 
+role at U.S. EPA, I have experienced firsthand the critical 
+importance of effective Federal and State communication and 
+coordination.
+    As you mentioned, PFAS have been manufactured and used in a 
+variety of industry since the 1940s. As a result, EPA and 
+others can find PFAS in surface water, groundwater, soils from 
+remote rural areas to densely populated urban centers. Human 
+exposure to PFAS can occur in a number of ways, as Patrick 
+Breysse mentioned, including consuming it in drinking water, 
+through the food we eat, through contact and handling of PFAS 
+in industrial and manufacturing, and other ways.
+    A growing body of scientific evidence shows that exposure 
+at certain levels to PFAS can adversely affect human and 
+ecological health. Under the Biden-Harris administration, the 
+EPA has accelerated scientific research and policies needed to 
+protect the public from PFAS. Now, to ensure effective 
+coordination within our agency at U.S. EPA, one of 
+Administrator Regan's earliest actions was to establish the EPA 
+Council on PFAS to coordinate our agency-wide work.
+    In October 2021, we released the PFAS Strategic Roadmap, 
+which lays a whole-of-agency approach to safeguard communities 
+from PFAS contamination. That roadmap, as well as today's 
+hearing, demonstrates that a whole-of-government approach at 
+the Federal, the State, and the local levels is absolutely 
+critical. The roadmap sets specific timeframes for specific 
+actions during the first term of the Biden-Harris 
+administration. We are focused on three things; researching 
+PFAS, proactively restricting PFAS, and remediating or cleaning 
+up PFAS.
+    Through the roadmap, EPA will hold polluters and other 
+responsible parties accountable for cleaning up PFAS pollution. 
+I wanted to highlight a few of the significant actions that EPA 
+has taken since the release of the roadmap last October. On 
+June 15th, EPA released drinking water health advisories for 
+four PFAS compounds. EPA has also announced $1 billion in the 
+bipartisan infrastructure law funding to address PFAS in 
+drinking water, especially in small or disadvantaged 
+communities. This is just the first of $5 billion in grant 
+funding for those entities. In May, EPA added five PFAS to a 
+list of risk-based values for site cleanups, which help EPA 
+determine if further investigation or actions are needed to 
+protect public health.
+    Now, looking ahead, our top PFAS priority is to set 
+enforceable national drinking water regulations, a step 
+Michigan and other States have urged us to take for years. By 
+the end of 2022, we plan to propose a rule that would set 
+enforceable limits for PFOA and PFOS in drinking water, require 
+monitoring of public water supplies, and evaluate additional 
+PFAS for regulation. We plan to finalize that rule by the end 
+of 2023. EPA is working closely with our Federal agency 
+partners here at the table, and those not with us today, 
+including all of my colleagues as part of coordinated actions 
+as part of the Biden-Harris administration's effort to combat 
+PFAS pollution.
+    We are collectively advancing research efforts, analytical 
+methods, site cleanup, and other areas. Importantly, we are 
+supporting States' ongoing efforts to tackle PFAS. EPA region 
+five in Chicago works closely with the Michigan Department of 
+Environment, Great Lakes and Energy (EGLE) and the Michigan 
+PFAS Action Response Team. Thanks to the efforts of Governor 
+Whitmer, of my friend EGLE Director Clark, and MPART Executive 
+Director Hendershott, Michigan has established an all-of-
+government approach to tackling PFAS. Michigan has been a 
+proactive leader. Michigan has been a model for other States 
+and an example for us at EPA.
+    To truly deliver the PFAS protections that communities 
+deserve, we must all work together. Our ability to achieve the 
+needed health and ecological protections depends on our 
+coordination at the Federal, State, and local levels, and our 
+collaboration, and I look forward to doing so, and appreciate 
+the opportunity to talk today. Thank you.
+    Chairman Peters. Thank you and welcome back to your alma 
+mater.
+    Mr. Pigott. Thank you.
+    Chairman Peters. It is always good to be on the campus at 
+Michigan State University.
+    Mr. Pigott. It really is.
+    Chairman Peters. I share that joy that we are here today.
+    Mr. Pigott. Yes, thank you.
+    Chairman Peters. Our next witness is Nancy Balkus, Deputy 
+Assistant Secretary of the Air Force for the Environment, 
+Safety and Infrastructure. In her role, she provides executive 
+leadership for plans, policies, programs and budgets for Air 
+Force infrastructure, installation energy, and environmental 
+safety, and occupational health programs.
+    Ms. Balkus, welcome to the Committee, and you may proceed 
+with your opening remarks.
+
+ TESTIMONY OF NANCY BALKUS,P.E.,\1\ DEPUTY ASSISTANT SECRETARY 
+  OF THE AIR FORCE, ENVIRONMENT, SAFETY, AND INFRASTRUCTURE, 
+                  DEPARTMENT OF THE AIR FORCE
+
+    Ms. Balkus. Thank you. Good morning, Chairman Peters. Thank 
+you for the opportunity to discuss how the Department of the 
+Air Force is addressing PFAS impacts from our military 
+activities in Michigan, how we are working to improve our 
+community outreach, coordinating with tribal, State, and local 
+governments, and the importance of interagency and 
+intergovernmental coordination, including with my Federal 
+colleagues from U.S. EPA and ATSDR.
+---------------------------------------------------------------------------
+    \1\ The prepared statement of Ms. Balkus appears in the Appendix on 
+page 74.
+---------------------------------------------------------------------------
+    My name is Nancy Balkus, and I am the Deputy Assistant 
+Secretary of the Air Force for Energy, Safety and 
+Infrastructure. I have been in this position for four months. I 
+am extremely proud of the initiatives led by my predecessor, 
+Mark Correll, and the outstanding accomplishments of the entire 
+Air Force team. The cleanup of PFAS impacts from military 
+activities is very personal to me. As an Air Force veteran 
+myself, along with my brother who retired from the Navy, we 
+have lived and worked on or near Air Force and Navy 
+installations for most of our lives. At all of our assignment 
+locations, we drank the water.
+    I am also an engineer with a passion for problem solving, 
+and I am privileged to work with the Air Force's team of PFAS 
+and environmental cleanup subject matter experts like John 
+Gillespie, who is with me here today on the panel. To date, 
+nearly $215 million has been spent for environmental 
+restoration in the State of Michigan. $60 million has been 
+focused specifically on PFAS cleanup. At Wurtsmith, $41.4 
+million has been spent, and we have completed the initial 
+preliminary assessment and the site investigation.
+    Five interim removal actions have already been implemented 
+to reduce PFAS, with three additional interim actions and a 
+pilot project to take place before the end of calendar year 
+2022. I am dedicated to transparency and sharing the cleanup-
+related data, all of the work plans and the reports with 
+Congress, with State officials, regulators, and our local 
+communities. Meaningful community engagement and involvement 
+are critical to the success of the cleanup program.
+    I am committed to using and improving our public engagement 
+tools, which include restoration advisory boards, community 
+involvement plans, websites, community meetings, and 
+installation commander outreach. I am always open to 
+stakeholder feedback. Additionally, I am very much looking 
+forward to working with EPA and DOD in the State of Delaware on 
+the environmental justice project at Dover Air Force Base, and 
+then applying those lessons learned. The Department of the Air 
+Force is committed to continuously improving the responsiveness 
+of our cleanup program, including addressing PFAS by 
+incorporating advanced technologies, best practices, and 
+validated science as rapidly as possible.
+    While this program is both legally and technically complex, 
+its underlying purpose is simple, to address the releases 
+attributable to the Air Force in a manner that transparently 
+protects the American people. The objectives of this hearing 
+reflect that when it come to contaminants like PFAS, we are all 
+active participants in the rapidly evolving scientific, legal, 
+and regulatory environment.
+    We agree that a holistic approach to PFAS research, risk 
+and remediation will keep us focused on protecting human health 
+and the environment. The Department of the Air Force is fully 
+committed to responsible environmental management, which 
+includes assuring our veterans, personnel, families, and 
+surrounding communities are protected.
+    Thank you again for the opportunity to meet with you today, 
+and I look forward to your questions.
+    Chairman Peters. Thank you, Ms. Balkus. Thank you for your 
+testimony.
+    Our final witness of our first panel is John Gillespie. Mr. 
+Gillespie is an Air Force Civil Engineer Center senior subject 
+matter expert for geology, hydrology, and hydrogeology related 
+to environmental restoration. He has over 40 years of 
+experience conducting environmental studies for Federal, State, 
+and local governments.
+    Welcome, Mr. Gillespie. You may proceed with your opening 
+remarks.
+
+  TESTIMONY OF JOHN GILLESPIE, SENIOR SUBJECT MATTER EXPERT, 
+   ENVIRONMENTAL RESTORATION, AIR FORCE CIVIL ENGINEER CENTER
+
+    Mr. Gillespie. Thank you, sir. Good morning, Chairman 
+Peters, and thank you for this opportunity to share details 
+about the Air Force's progress at the former Wurtsmith and K.I. 
+Sawyer Air Force Bases. My name is John Gillespie, and I am a 
+subject matter expert in hydrogeology with the U.S. Air Force's 
+Civil Engineer Center. My degree in geology and geophysics are 
+from Michigan State University. My J.D. is from Thomas M. 
+Cooley Law School, and I am a member of the Michigan Bar.
+    Before taking my current position with the Air Force, I was 
+the District Groundwater Specialist for the U.S. Geological 
+Survey (USGS) here in Lansing, Michigan. My ties to Wurtsmith 
+and K.I. Sawyer predate my current role, and extend all the way 
+back to 1975 when I reported for my first duty assignment at 
+Wurtsmith Air Force Base. I worked four years in building 220, 
+the telecommunication center, a one-story windowless building 
+right next to the gym where Senator Peters held his 2019 Town 
+Hall. In 1977, the base instituted a water conservation effort 
+that severely restricted water use.
+    I vividly remember a conversation at work one afternoon 
+between two of the civilian switchboard operators in building 
+220. They were mothers and military dependents that lived in 
+on-base housing. They were discussing a rumor that it was water 
+contamination that caused the shortages on base; the water that 
+they and their families drank. It was the look of fear on their 
+faces that has stuck with me over the years and is one of the 
+motivations that led to my current career. Back then, cleanup 
+information was not widely shared, as it is now.
+    I remember a U.S. Army Corps of Engineer (USACE) 
+construction trailer catty-corner to building 220. 
+Occasionally, I would spot a baby-blue step van that would park 
+right across from my building with small print that read ``U.S. 
+Geological Survey.'' At that time, I had no idea what the Corps 
+and the USGS were doing. After I was discharged from the Air 
+Force and graduated from MSU, I was recruited by USGS and drove 
+that same baby-blue step van to projects, including Wurtsmith 
+and K.I. Sawyer. I also was the lead on a joint U.S. EPA-USGS 
+project that helped define how contaminants would move to the 
+upper Great Lake connecting channels. My USGS work at Wurtsmith 
+included searching for a new water supply in a deeper aquifer 
+in 1985, and learning how to construct a groundwater flow model 
+at K.I. Sawyer. In 1988-89, I constructed new geologic sections 
+and water table maps to support the development of a 
+hydrogeologic conceptual site model (CSM) at Wurtsmith.
+    The development and use of CSM's have proven invaluable in 
+the hunt for PFAS at Wurtsmith and other sites across the 
+country. The CSM combined the data collected by the Air Force 
+during the site investigation and by the Michigan Department of 
+Environment, Great Lakes and Energy allowed us to accelerate 
+design, construction, and operation of groundwater pump and 
+treat systems. The purpose of those systems is to intercept 
+PFAS impacted groundwater before it enters surface-water bodies 
+like Clark's Marsh, Lake Van Etten, Van Etten Creek, and 
+eventually, the Au Sable River.
+    As we speak, a new groundwater interceptor system is under 
+construction and will be operational this year stopping the 
+most concentrated PFAS plume entering Van Etten Lake. Another 
+one will address an area to the northwest along Van Etten Lake, 
+all before the investigation is completed. Together with your 
+support, can accelerate our programs to address the 
+uncontrolled release of PFAS with our four decade of knowledge 
+base, our very experienced human resources across the agencies, 
+and, of course, support from our communities.
+    Thank you, Mr. Chairman.
+    Chairman Peters. Thank you, Mr. Gillespie.
+    Let us start the questions to get a little bit more detail; 
+drill down. I appreciate all of your opening remarks, but we 
+need to have a little bit more detail, if we could.
+    My first question is going to be to Ms. Balkus and Mr. 
+Gillespie, and we will probably start with you, Ms. Balkus. You 
+have talked about the actions that each of you have been taking 
+in these areas. But I would like you to both be real specific 
+and detail the steps that you are taking to actually coordinate 
+these efforts with State, local and tribal governments. How are 
+you working together? Be as specific as you can. Give the 
+Committee and I some ideas.
+    Ms. Balkus. Chairman Peters, I think we are doing extensive 
+collaboration in the area, but there is always room for 
+improvement. What we are currently doing is we regularly 
+coordinate with both the State and our Federal partners. We are 
+in contact on a weekly basis. We use collaborative software to 
+post and share draft documents for State regulatory review with 
+EGLE, and those documents are posted on the online Air Force 
+administrative record that is available to government agencies 
+as well as the public. We engage with our State regulators, or 
+EGLE partners, through the Base Realignment and Closure (BRAC) 
+Cleanup team, where Air Force and EGLE State regulator 
+representatives have open and frank conversations about the 
+environmental cleanup strategies, our pre-decisional draft 
+documents to address comments or questions between the 
+agencies, and facilitate the investigation and cleanup process.
+    We also discuss planned field work and the subsequent 
+results to ensure we have a common understanding of the work, 
+and to minimize any data gaps. With regard to tribal 
+coordination, the Air Force is looking forward to expanding our 
+consultation opportunities to include access and coordination. 
+Our installations work on a government-to-government basis with 
+our tribes if actions are needed on their land, and we seek 
+their permission to access their land and to carry out our 
+cleanup actions.
+    I have regular meetings at my level with U.S. EPA in 
+Washington D.C. on the Comprehensive Environmental Response, 
+Compensation, and Liability Act (CERCLA) side, and in fact, I 
+spoke with Greg Gervais last week. I am personally engaged in 
+that collaboration in the four months that I have been in the 
+job, and our broader team through the Air Force Civil Engineer 
+Center and the BRAC Cleanup Team have additional details that I 
+am happy to let Mr. Gillespie fill you in on.
+    Chairman Peters. All right. Mr. Gillespie.
+    Mr. Gillespie. Yes, sir. I work in the technical branch, of 
+course and I want to hit your point, sir, on two levels. One is 
+on the broader level; we work closely with U.S. EPA and other 
+government agencies on trying to really find new technologies 
+that will address PFAS.
+    We have a very good history, although it took 40 years to 
+really kind of wrap up the Trichloroethylene (TCE) issue that 
+started at Wurtsmith Air Force Base here in Michigan and that 
+was the first place in the inventory to get hit with TCE. So we 
+are almost there with new technologies coming out. We are field 
+testing a lot of technologies with different partners. We are 
+about three to five years out to get the next level of 
+technologies online. Of course, the technologies we are using 
+right now, which are off the shelf, is the GAC units and the 
+resins.
+    On a different focus on how do we get these projects done, 
+I have worked projects across the United States. One thing we 
+can do a better job of here in Michigan, particularly 
+Wurtsmith, is I see a lot of meetings that we have, technical 
+get-together, a lot of it is contractual talk, scheduled talk, 
+things like that. I am a little disappointed we do not have 
+that face to face, just technical. People enter the room, put 
+their policies aside, and let's talk technical. 'Cause what we 
+owe the public is we owe them that we understand the subsurface 
+infrastructure. We have to agree on that. If we, the 
+stakeholders, do not agree on the subsurface infrastructure, 
+what that geology looks like, then we are always going to be 
+arguing. I think we could do a better job on working with our 
+regulatory stakeholders in technical meetings and have those 
+more administrative meetings at a different time.
+    Second, I think we can do a better job with the public. 
+There is a lot of people, particularly at Wurtsmith, that are 
+very astute on technology, on hydrogeology, and I think they 
+are more yearning for that type of information. I asked the 
+people who are doing the work at Wurtsmith, including our 
+contractors, and they said, ``Well, we do that, but it was a 
+poster session and people would come in and look at the posters 
+or whatever.''
+    But I think what the people want--at least this is what I 
+heard--is they would really like just meet at the library, 
+spend at least two, three hours, and we could explain to them 
+where we are coming from--both EGLE and Air Force, in our 
+understanding of the subsurface and how that water moves, sir.
+    Chairman Peters. That sounds great. Do you think this is 
+something we should do to improve the process. Why has that not 
+happened, and how can we put in some action steps to make that 
+a reality?
+    Mr. Gillespie. I think we can make it happen, sir. It is 
+done at other bases. Twenty five years ago, the biggest 
+environmental issue for the Air Force was the Massachusetts 
+Military Reservation (MMR), and we threw the kitchen sink at 
+it, and now it's a stabilized program, although PFAS has showed 
+up there, too. However, that was a big program with a lot of 
+problems.
+    Chairman Peters. OK. We will follow up with you to make 
+that.
+    Ms. Balkus, how can we improve collaboration? You mentioned 
+actually, in your response, ``we can do better.'' So elaborate 
+on what Mr. Gillespie said, and go beyond that, if you have 
+other ideas, please.
+    Ms. Balkus. Yes, sir, Senator Peters. I think a couple of 
+areas where we can improve--and I am willing to commit today 
+that we indeed set up a community meeting where I can bring 
+John and a couple of our other experts.
+    I have Kate Leness here with me in the audience today who 
+is my executive director for PFAS, in particular. She also is 
+from Michigan. Two locals that completely understand the 
+environment here, the communities here, grew up here, I think 
+would be better than me, a policymaker, trying to share the 
+technical details.
+    That is my commitment, is to bring our experts in, have a 
+meeting, go through the level of detail that John is familiar 
+with and can articulate very easily, allow anyone that has 
+interest to come into that meeting; there is no requirements; 
+there is no specificity. Just make it at a location where 
+everyone can get access to it. That is my commitment that I 
+would make here today.
+    Chairman Peters. That is great. I love commitments being 
+made today. Thank you.
+    This is a good conversation. Just keep going.
+    We are on a roll here with commitments. Thank you for that.
+    Mr. Pigott, you are clearly a leader in PFAS response, and 
+I would like you to elaborate on EPA's plans to help our State 
+agencies use the best practices and empower local folks to be a 
+part of the decisionmaking process. That is something that has 
+been lacking. We need to do a better job. How can we do that? 
+What are you doing? You are free to make any commitments you 
+would like, as well.
+    Mr. Pigott. First of all, I wanted to say we are committed, 
+and I am happy to commit to continued coordination with the 
+State of Michigan and particularly our partners in EGLE. When 
+we issued the health advisories, we made a commitment to 
+reaching out to the States and the communities and the 
+organizations that would be affected by this, to both explain 
+the basis for those health advisories but also to follow up and 
+say, ``Given this, what we know now, how can we chart a path 
+forward to ensuring that we cleanup PFAS?''
+    We have made a commitment at EPA to put in place drinking 
+water regulatory tools to propose it by the end of this year 
+and then finalize them next year. We have been working in a 
+number of areas, specifically with Michigan. Particularly with 
+our technical folks, we have worked to characterize fume 
+suppressants at chromium electroplating facilities throughout 
+the State of Michigan, managed to characterize those.
+    Because of our partnership with EGLE, they have used that 
+information to work with those facilities to help reduce the 
+PFAS at those facilities by, it is my understanding, 90 
+percent. It is that kind of upstream work that will help 
+deliver on our commitment to ensure that we restrict PFAS from 
+entering our water bodies in the first place. In addition to 
+that, we have been developing methods to characterize and 
+analyze PFAS in the foams that we see in lakes around Michigan. 
+How much PFAS is in those foams, and how can we characterize 
+it? We have been working with our partners in Michigan to do 
+that, and that is part of the effort. If we are going to really 
+commit to do this, we have a Federal partnership as well, and 
+have been working in a number of areas.
+    I cannot say enough about the ATSDR relationship with EPA 
+and the funding they provided to conduct studies to get tools 
+in place to ensure that we understand the toxicological profile 
+of these pollutants, and then collaborate on chemical class-
+based evaluations. As you know, the PFAS are a large group of 
+chemicals. It may be easier to deal with them and regulate them 
+in a way that approaches them by class, and we have been 
+committed to working together, all of us, to do just that, and 
+to explore ways to do that.
+    We have been working with DOD and collaborated to put in 
+place testing methodologies that resulted in the 1633 testing 
+methodology, and worked with U.S. Fish and Wildlife (USFWS) to 
+ensure that we accurately characterize the PFAS that is in fish 
+tissue. We are concerned both about working with our 
+communities at the State level, working with our Federal 
+partners to better understand PFAS and remediate it, and then 
+also address it and prevent it from getting in the environment 
+in the first place.
+    Chairman Peters. Right. Thank you.
+    Dr. Breysse, the ATSDR is currently working with State 
+partners and investigating exposure in about 30 communities 
+across the country, including areas here in Michigan; Camp 
+Grayling, the former Wurtsmith Air Force Base, and the former 
+Wolverine World Wide tannery. My question for you is could you 
+please detail the collaboration that you are working with the 
+Michigan Department of Health and Human Services, and how that 
+collaboration is going, and kind of the results of this 
+partnership? Bottom line, what do you think are the most 
+significant results?
+    Dr. Breysse. Yes, so thank you very much for that question. 
+First of all, I want to recognize that as you said in your 
+introductory remarks, Michigan has identified such a large 
+number of sources of exposure because they have looked. We 
+would actually like to see that model be adopted more 
+universally across the country right away, because the more you 
+look, the more you find. The more you find, the more you have 
+to understand kind of what the source of exposure is, and where 
+that comes from. We work with the State of Michigan to try and 
+understand what those pathways are.
+    Now, we do that at very specific sites where there is a 
+known source of exposure, there's a known pathway, and there is 
+a large enough population to be of concern, and I enumerated 
+some of those sites in my comments at the beginning. The State 
+of Michigan is a crucial partner in conducting those sites, 
+specifically investigations.
+    In the investigations, we go to the site, like Wolverine, 
+and we look at, where does the exposure come from, what are the 
+pathways it gets to people, how many people are exposed, and 
+what the health risks are. We write a report tying to find that 
+primarily to inform the communities about what their risks are, 
+and also to inform cleanup efforts, because we do this work in 
+partnership with the Environmental Protection Agency. The ATSDR 
+and EPA work side by side when we do these investigations going 
+forward.
+    Now, perhaps the most important collaboration ongoing right 
+now is the collaboration with our multi-site health study, so 
+that is a very unique effort. As many of you know, there was a 
+large health study conducted at the DuPont site in Ohio and 
+West Virginia, the so-called ``C8 study.'' What we are trying 
+to do is just build on that study by a national study, the 
+first ever national study, looking at drinking water exposures 
+and human health effects across the country. I am happy to say 
+that the State of Michigan is one of the collaborators on that 
+study, going forward. It is one of the sites that have been the 
+most successful at recruiting people for that study. 
+Unfortunately, we do not have any results to share right now. 
+These things take time, going forward. We are very excited 
+about the opportunities that the multi-site health study 
+provides, and the leadership role that the State of Michigan 
+plays in that.
+    Chairman Peters. All right. You talked about some 
+collaboration, and just as I asked our other panelists, are 
+there things that can be improved when it comes to State, 
+local, tribal governments? Are there areas that we can 
+strengthen collaboration, in your mind?
+    Dr. Breysse. Absolutely. We can always do more, as you 
+heard already. What we need to do is now help the State and 
+local health departments try and understand the rapidly 
+evolving signs, and the multiple new assessments that are 
+occurring and what it means from them. We need to help them 
+understand--what does it mean now with the new health 
+advisories? How do we incorporate that into our decisionmaking? 
+What does it mean now with the new advice that is coming out of 
+the National Academies of Sciences, Engineering, and Medicine 
+(NASEM) when we have new guidance about clinical guidance for 
+communities affected, including a recommendation that community 
+members who think they have been exposed at significant levels 
+should get their blood tested. Those are new challenges. I also 
+mention that the sciences is changing even as these new 
+guidances come out, so keeping up on the science is a 
+challenge. Primarily, I think we need to work with State and 
+local health departments to translate that information into 
+actual changes in what we do on the ground. How do we 
+incorporate that into the decisions that we make at the local 
+and State level? That is a big challenge.
+    Chairman Peters. It is. I actually want to pick up on the 
+recommendation--because I think its great--to Mr. Pigott.
+    How is the EPA now that we have these advisories, how is 
+the EPA communicating that with State, local, tribal, and 
+working to ensure that we are actually moving forward in a 
+dynamic and forceful way?
+    Mr. Pigott. Mr. Chairman, as you know, communication is not 
+something you just do and it is over with. One of the things we 
+realize at EPA is that communication has to be continual, and 
+that as we do more scientific work, we are going to learn more 
+about these PFAS chemicals. As we learn more, it will be 
+incumbent upon us as agencies of the Federal Government to work 
+closely with our State partners, but also to communicate on a 
+regular basis with citizens in the country to better understand 
+where we are at. That was an example of the PFAS health 
+advisories. You remember in 2017 when the U.S. EPA came out 
+with the 70 parts per trillion (ppt) health advisories. It was 
+not until this year, where we had the latest science, where we 
+have discovered that the health effects of PFAS occur at much 
+lower levels than what we previously understood--it is 
+communicating that information on a real-time basis.
+    One of the questions we are asked often is, ``Well, so why 
+did you communicate these health advisories now?'' It is our 
+responsibility at EPA, as protector of human health in the 
+environment, to ensure that when we have the latest information 
+about the health effects of chemicals that we release them to 
+the public, because it is important.
+    Whether it is the Federal Government and the panel here 
+today, or the State government in its effort to protect 
+drinking water in the States, or the communities themselves, 
+that they have the latest information that allows them and the 
+individual to take action as they see fit. Our health advisors 
+are not regulatory; they are not enforceable. That is why we 
+realize if we are going to work further, not just to 
+collaborate and communicate regularly, but to take action to 
+remove this from the environment, we have work to do. Some of 
+that work involves putting in place drinking water regulatory 
+mechanisms, and that is what we call our drinking water maximum 
+contaminant levels (MCLs). We are working to do that, as well.
+    But the communication about this stuff must happen not just 
+once, but on a regular basis, and that is why we meet with a 
+group of States, from Minnesota, Wisconsin, Michigan, of 
+course, and North Carolina, places where States have great 
+concerns, to talk with them on a regular basis in conjunction 
+with all of our Federal employees to say, ``OK. Here is what we 
+know today. What actions are you taking in your State to help 
+address this?'' That is vitally important if we're going to 
+tackle this PFAS challenge.
+    Chairman Peters. There is no question. I think it is 
+important to remind everyone that the health advisory levels 
+show that there is no safe amount of exposure.
+    Mr. Pigott. That's right.
+    Chairman Peters. That is a pretty big deal, ``No safe 
+exposure.'' When you say we need to move forward to phaseout 
+chemicals, and hold people accountable for cleanup and 
+remediation, that is a whole-of-government approach, not just 
+State, local, and tribal with the Federal government. You 
+talked about it is not regulatory right now. Clearly, we have 
+to have a national drinking water standard. You alluded to that 
+in your answer. So give us an update on where you are in terms 
+of establishing national drinking water standards for PFAS. 
+Then bottom line, what is the time line? We have to get this 
+done. You expressed a sense of urgency. Where are we in a time 
+line?
+    Mr. Pigott. Yes. For years now, States have been in the 
+lead of this.
+    Chairman Peters. Right. Absolutely. Michigan has been a 
+lead in it.
+    Mr. Pigott. Yes and Michigan, in particular, both 
+identifying sites that have PFAS, but also in putting in place 
+standards and regulatory mechanisms. For better or worse, there 
+was a gap previously. Now we are working really hard to ensure 
+that we put in place these regulatory standards that allow us 
+to take action in the drinking water arena, and we are going to 
+propose those standards by the end of this year. We are going 
+to have the public response to that. Then by the end of next 
+year, we are going to finalize those standards and have them in 
+place. That is one area we are working in.
+    Another area is to designate PFAS chemicals as hazardous 
+for our CERCLA program, or what we know as ``Superfund.'' Why 
+is that important? It is important because if we are to take 
+action in terms of ensuring that polluters and responsible 
+parties that actually put this stuff in the ground actually 
+clean it up, we have to have leverage. Designating these 
+compounds as hazardous for CERCLA will help us do that. There 
+are a number of areas we have to do it, and that is an 
+impending decision; that is coming up really quickly. I expect 
+that we will have that designation in place, which will help us 
+leverage those opportunities, and then we will use our current 
+enforcement tools, as well.
+    As you well know, we have a variety of mechanisms we can 
+use when polluters should be held responsible to take 
+enforcement action, and we are going to engage in that as well. 
+First step is the regulatory standards for drinking water. We 
+are going to get that done by the end of next year. Second step 
+is hazardous designation for PFAS and PFOA in our CERCLA 
+program. Then the third step is to continue our efforts in 
+enforcement to address this pollution.
+    Chairman Peters. The first step is by the end of next year?
+    Mr. Pigott. Correct.
+    Chairman Peters. The second step by when?
+    Mr. Pigott. The hazardous designation is impending. I 
+expect in the next month or so.
+    Chairman Peters. OK, great.
+    Mr. Pigott. Yes, and then enforcement along the way.
+    Chairman Peters. Great.
+    Ms. Balkus, in light of the new drinking water health 
+advisories that we have been talking about, what steps is the 
+Air Force prepared to take now, and quickly, as we have heard 
+the sense of urgency here from Mr. Pigott, to deal with our 
+former bases that we have, Wurtsmith and K.I. Sawyer, as well 
+as Selfridge Air National Guard Base, and other military 
+facilities that we have across the State. How is the Air Force 
+responding to that, and what actions are you taking 
+immediately?
+    Ms. Balkus. Thanks for asking, Chairman Peters. The Air 
+Force is using the new regional screening levels that EPA 
+issued in May of this year to implement our interim actions, 
+those things that we can do today even before we get to the 
+remedial investigation step in the CERCLA process. This is 
+going to help us be more protective of human health and the 
+environment, and then define the nature and extent of the 
+contamination. The interim health advisories that Mr. Pigott 
+was explaining helps complicate the designation of PFAS and 
+PFOA as hazardous substances, because almost any water source 
+will then be unable to used for drinking water. The second 
+dilemma I would highlight is that the interim health advisories 
+are set currently below any method that we can use to detect. 
+It is very difficult to determine a clean water source if it's 
+below four parts per trillion, which is today's analytical 
+method to be able to identify PFAS compounds.
+    They are based on draft analyses, which as Mr. Pigott 
+mentioned, are undergoing review by the EPA's scientific 
+advisory board. They are below those detectable limits, and 
+they are non-regulatory at the moment, so we too, from the Air 
+Force, are hand-in-hand with the EPA and are looking forward to 
+having a regulatory standard so that we have that maximum 
+contaminant limit. But what are we doing about it? That is 
+probably the crux of your issues, sir.
+    Chairman Peters. It is.
+    Ms. Balkus. I want to introduce to you two individuals that 
+I invited to join us here today, sir, from Battelle Memorial 
+Institute, Jeff Rose and Amy Dindal are sitting on the front 
+row, sir. They are attending here today at my invitation 
+because they are evaluating a technology demonstration project 
+at Wurtsmith this fall, and it could demonstrate two of their 
+technologies. Battelle has identified what they are calling 
+``Battelle Signature,'' which is to characterize PFAS compounds 
+related to AFFF, or firefighting foam, but also non-AFFF 
+sources. They will couple that with a small-scale demonstration 
+of the Battelle Annihilator technology, and that will show that 
+they can, in fact, destroy PFAS in impacted groundwater.
+    That is very similar to a project that they have already 
+conducted earlier this year, just a few months ago in March, in 
+Grand Rapids, Michigan, where they were able to show 99.99 
+percent reduction of PFAS on landfill leachate that was at a 
+wastewater treatment facility, this being operated by Heritage 
+Crystal Clean.
+    There was fairly significant news coverage of this great 
+technology, and we are looking forward to partnering with them 
+at Wurtsmith. The Annihilator is the first to market for this 
+total solution for PFAS destruction. The supercritical water 
+oxidation technique that was demonstrated is one of the first 
+that can guarantee a 99.99 percent in the total PFAS, and none 
+of the harmful byproducts that are associated with some of the 
+other means of destruction.
+    I thought it was important to highlight one of the things 
+that we are actually doing in addition to the interim actions, 
+that I mentioned in my opening comments.
+    I wanted to make sure that the audience here knows both 
+Jeff and Amy, and they are happy to answer any additional 
+questions about their technology. But bringing that here, they 
+have already demonstrated it in Grand Rapids, and we are going 
+to put another demonstration at Wurtsmith.
+    Chairman Peters. If I could continue with you, a question. 
+One of the advantages that Michigan has in addressing this PFAS 
+contamination problem is that we do have the standards, as was 
+mentioned, that we put in in the State. I think it is well 
+documented, though, that the Department of Defense and the Air 
+Force have not publically committed to meeting those standards 
+in some of the sites here in Michigan, and so my question is 
+pretty straightforward.
+    Do you have any updates or information you can provide, 
+whether the Air Force will commit? We will be on that commit-
+track. We already got you going on that starting at the 
+beginning here. If you will commit to meeting the State of 
+Michigan's PFAS standards here in the State of Michigan?
+    Ms. Balkus. Chairman Peters, yes. I am happy to commit, and 
+let me be clear on what I am committing to.
+    Chairman Peters. That is always a good thing, all on the 
+record.
+    Ms. Balkus. The Air Force is fully supportive of 
+incorporating Michigan's standards into our cleanups. In fact, 
+the 2020 National Defense Authorization Act (NDAA) on our 
+cooperative agreements under CERCLA addresses how, in fact, 
+State standards are used in determining the levels to be 
+attained during cleanup. An important recent change that has 
+happened is in December 2021, the Department of Defense--so 
+above me in the Department of the Air Force--the Department of 
+Defense issued a new policy that allows the evaluation of State 
+promulgated standards to be used in short-term removal actions, 
+as well as in the final remedy that comes after the remedial 
+investigation and feasibility study. This is really important.
+    It is a slight adjustment to the interpretation that we 
+have been using. But short answer with the long explanation is 
+``yes,'' we are fully supportive of using the Michigan 
+standards in the cleanup phase, and also in our upcoming 
+interim remedial actions.
+    Chairman Peters. You mentioned the studies and the ongoing 
+studies, and all this happens at the conclusion of that. In 
+terms of Wurtsmith, I think we are in the 13th year now of a 
+study, of an investigation. After 13 years of investigation, 
+there is still no cleanup plan in place? The Air Force has 
+indicated that it is going to take another two to five years 
+before such a plan is adopted? I think I speak for everybody 
+who lives around that area, that this is simply unacceptable to 
+have that kind of time line. It is time to get to work after 
+all of that time line. We have talked about how we want to 
+accelerate this, and certainly, we have heard that from the 
+panelists. What is the Air Force doing to bring a more urgent 
+and timely action, including any efforts to coordinate with 
+State and local that are obviously very engaged in this issue? 
+How can we speed this up? You are free to make any commitments, 
+again.
+    Ms. Balkus. Chairman Peters, we are doing a lot of work at 
+Wurtsmith, and I have to also follow the law and to be a good 
+steward of taxpayer dollars. Within those boundaries, we are 
+taking very aggressive action to implement cleanup processes 
+before we get to the remedial investigation and feasibility 
+study stages of CERCLA, which is a law that we must follow.
+    Let me give you a few examples of what we have done. Only 
+one well so far has been found to have concentrations on 
+Wurtsmith that were above the 2016 health advisory levels. In 
+that case, the Air Force immediately provided bottled water to 
+the resident, and then arranged for a connection to the 
+municipal drinking water system. In addition, since the 
+remedial investigation started in July 2020, we are well along 
+the way. John can certainly go into more detail about where we 
+are in the remedial investigation, but we have already 
+conducted five different interim removal actions.
+    Let me be a little more specific about where they are. So 
+at fire training area No. 2, we installed a pump and treat 
+system near Clark's Marsh; number two, at Arrow Street, which 
+is SS-21; at Benzene, which is site No. 6; and at Mission 
+Street, which is OT, number 24. We expanded those already 
+existing pump and treat systems to add PFAS and PFOA treatment 
+at those three locations that were already addressing those 
+other contaminants.
+    Then No. 5, we have removed over 24,000 cubic yards of PFAS 
+impacted soil that was beneath the fire training area near 
+Clark's Marsh. There are three more that we are going to do in 
+addition to Battelle's commitment to do additional action in 
+the fall. The fire training area at Clark's Marsh, which I 
+mentioned, we are going to further expand that pump and treat 
+system, and it goes online next week. Second, Van Etten Lake at 
+Ken Ratliff Memorial Park, we have installed a pump and treat 
+system there, and it is scheduled for completion next month.
+    Third, the aircraft apron AFFF waste site at Van Etten Lake 
+near Pierce's Point, we will also be installing a pump and 
+treat system. Finally, a pilot project that we are preparing to 
+award in September will be a pilot using FLUORO-SORB material 
+that will treat PFAS in storm water, and then it is in the 
+Three Pipes ditch, which ultimately discharges to the Au Sable 
+River. Combined with what Battelle Memorial Institute is doing, 
+I am very proud of all of these initiatives that are ongoing 
+now, today, showing that we are taking action and reducing 
+PFAS. We are not only studying, sir, we are also doing cleanup 
+and removal.
+    Chairman Peters. You mentioned in the beginning that these 
+were standards in 2016. Now with the new advisory, with the 
+State law, how has that changed? How does it change what you 
+are doing?
+    Ms. Balkus. We will have to go back to some of our sites to 
+look at the data we already have to verify if there were 
+detections below that 70 parts per trillion.
+    Chairman Peters. Which is likely.
+    Ms. Balkus. I will agree on that point.
+    Chairman Peters. When were you going to go back and do 
+that?
+    Ms. Balkus. We are in the process of doing that right now. 
+We are already looking at the data we already have, and then we 
+will follow it up with additional field sampling to be able to 
+verify what those detections are.
+    Chairman Peters. How long does that take?
+    Mr. Gillespie. I would imagine probably in the next few 
+months. We already have the infrastructure in place across the 
+country. There are installations where we went out and we 
+looked at if we had a really good hydrogen CSM, we knew where 
+the groundwater was leaving the base, and we also knew where 
+the surface water would either come off the base or bypass the 
+base and maybe pick up some PFAS. We sampled those areas using 
+the 2016 health advisory, and we would go out until we got half 
+of the HA, so 35.
+    Right now we are doubling up our efforts, and we are going 
+out further. We are looking at the information we have with the 
+standard of analysis we have, which we can measure down to 
+four--and now we are going out further, past that area. Some 
+areas it was not very far off base before it really dropped 
+off, other areas it could go out two, three miles, and in one 
+area, it went down--we chased it down a river system 15 miles. 
+That is what we are doing right now, sir. We are really gearing 
+up to go back out and resample around all our installations.
+    Chairman Peters. You said that takes several months?
+    Mr. Gillespie. I would say, to get all the bases done, sir, 
+yes, it is going to take a few months; yes, sir. I would like 
+to say one thing, a question too, is we look at our entire 
+portfolio across the Air Force. Wurtsmith does have the most 
+interim remedies of any installation we have. Thanks to you, 
+sir, we got a plus upright. The RI was awarded back in July 
+2020, and I am not going to sit here and make excuses for 
+contracting, why it takes, after that is awarded, a year to get 
+out in the field. We have to figure that one out; right? But so 
+have we been studying PFAS for 13 years at Wurtsmith? I would 
+not say it was that long, sir.
+    Thanks to EGLE, really, who was forward leaning on this, we 
+were able to have a lot of information to make the decisions we 
+have made with those interim measures before we even started 
+our RI. The interim measure we are doing now, which really I am 
+very happy about cause it is kind of personal to me in two 
+ways. One, Ken Radcliff loaned me the money to buy my first car 
+when I was 18. He retired from the Air Force and worked at the 
+Wurtsmith Federal Credit Union.
+    Second, though, where that enters Van Etten Lake is after 
+we discovered TCE when I was there in 1977, we switched the 
+well field over to that area. Unbeknownst to anybody, that is 
+the area that was probably being impacted, wells four and five, 
+by PFAS. When I looked at the well fields at K.I. Sawyer, wells 
+four, five, nine, and ten, they did not appear to be impacted 
+by PFAS at all over the years.
+    Chairman Peters. OK. We have to stay on it, clearly.
+    Mr. Gillespie. Yes, sir.
+    Chairman Peters. And not just stay on it, but accelerate 
+it. I think that is part of your commitment, is we are going to 
+accelerate that going forward.
+    Mr. Gillespie. Yes, sir, and if I may say something, sir, 
+these interim measures--and I think we state it pretty clearly 
+in all our documents--this is just a tourniquet on the patient 
+right now.
+    Chairman Peters. OK.
+    Mr. Gillespie. That is all it is.
+    Chairman Peters. Right.
+    Mr. Gillespie. We have a lot of work to do on the interior 
+of that base.
+    Chairman Peters. Right.
+    Mr. Gillespie. But right now, let us get the tourniquets on 
+so we can stop the PFAS, the uncontrolled release of PFAS from 
+our installations.
+    Chairman Peters. Then remediate it.
+    Mr. Gillespie. Yes, sir.
+    Chairman Peters. Absolutely.
+    Dr. Breysse, although we know an awful lot of the impacts 
+of PFAS on human heath, there is still a whole lot we do not 
+know. What more needs to be done to achieve a more complete 
+understanding of the impact of PFAS on our health and our 
+communities?
+    Dr. Breysse. Sure. If you follow the literature on PFAS, it 
+is quite remarkable, actually, how much is being published on 
+PFAS every month. There are literally dozens of papers, if not 
+more, every month, so that is the degree to which the data on 
+the health effects are accelerating. Not all those publications 
+are on health effects but many of them are. However, most of 
+the data comes from studies in toxicology in animals and the 
+cell systems. I think the big need for PFAS is human 
+epidemiology.
+    We need the evidence in humans, in particular, so we can 
+understand what we would call an ``exposure-response 
+relationship.'' How much in the water, how much in the body 
+results in how much disease? That information can be used to 
+more effectively set the safe standards and safe levels going 
+forward. What we think is needed is expansion in the effort in 
+human epidemiology, looking at the health effects in people.
+    Now, that is going to be a big effort, because that would 
+be a study to look at a thyroid disorder. It is not the same 
+thing as to look at cancer risk; it is not the same thing to 
+look at cholesterol levels and cardiovascular disease. All 
+these different end points would require different designs, 
+different approaches going forward. We are calling for an 
+increased emphasis in the human epidemiology to support our 
+understanding of the relationship between the exposure and the 
+disease.
+    Chairman Peters. You said the literature is increasing. We 
+have to probably coordinate to make sure that we are actually 
+answering all the questions that have to be asked instead of 
+focusing on one or two. As important as those are, you need to 
+have a better picture. If you could give me a sense of what 
+work the ATSDR is doing with other Federal agencies, States, to 
+look at the impacts on health, the human health, as you 
+mentioned, but particularly the long-term. Because these are 
+going to have to be long-term studies. Give me a sense of where 
+we are; where we need to go.
+    Dr. Breysse. Yes. The other two principal agencies that are 
+involved in research on the human side of things are the 
+Environmental Protection Agency, because they are experts at 
+measuring how much is in the environment. The National 
+Institute of Environmental Health Sciences (NIEHS), part of the 
+National Institutes of Health (NIH), also funds a lot of 
+external research organizations to do research on that, and 
+then ourselves. We all work closely to try and understand the 
+types of projects that are being funded, the type of work that 
+is being done. We are collaborating now with NIEHS on a health 
+study. We are collaborating with the EPA on an expanded 
+exposure study, so we understand the different routes that 
+people might get exposed to.
+    Even in a situation where there is principal water 
+exposure, there is still other things that are contributing to 
+that exposure. Understanding what those are are important also, 
+in part so we can look at the complex exposure as we try and 
+relate that to disease, but also so we understand what is the 
+biggest opportunity for reducing exposure.
+    We want to tackle all those routes where they are possible 
+there, and especially those that we think are associated with 
+exposure. There is a broad interest across the Federal 
+Government on the human health side of things, and principally, 
+it is ourselves, the EPA, and NIEHS focusing on that.
+     Chairman Peters. Given the new advisory where any level is 
+harmful, and given the levels that we are seeing in PFAS in 
+some of our lakes and rivers and streams here in Michigan, how 
+concerned are you about the fish in the Great Lakes region?
+    Dr. Breysse. So that is not principally our responsibility 
+at ATSDR other than we follow closely what the State and local 
+advisories are for consumption, which rely heavily on data that 
+I think the EPA and other environmental agencies produce in 
+terms of contamination going forward. What we would do is we 
+try and follow those, we identify them, and where they are 
+present, we incorporate them in all our community outreach 
+materials, and when we have our community outreach meetings, we 
+talk about what those advisories are, and why they are 
+important, and why they should be followed.
+    Chairman Peters. So have those advisories been adjusted 
+given the new levels we are talking about, that basically any 
+level is unsafe?
+    Dr. Breysse. I would be surprised if they had been at this 
+point.
+    Chairman Peters. Exactly, yes.
+    Dr. Breysse. Those advisory levels are pretty recent.
+    Chairman Peters. There would be some concern there?
+    Dr. Breysse. Absolutely. As far as contamination, I think 
+we worried about that. Other animal species, as well, can get 
+contaminated based on grazing experiences and stuff, so it is 
+not just fish that are potentially a concern.
+    Chairman Peters. Across the board. You are shaking your 
+hand, Mr. Pigott?
+    Mr. Pigott. Yes, I agree.
+    Chairman Peters. Elaborate.
+    Mr. Pigott. Yes, if it is OK, I would just love to add 
+because of the concerns about the aquatic life, one of the 
+things we have done is release aquatic life criteria. We have 
+been working in conjunction, of course, with ATSDR on the 
+scientific, and in terms of all the things you mentioned. But 
+also we have been working with U.S. Fish and Wildlife to 
+determine how do we characterize the fish tissue analysis.
+    As EGLE does in all the States, you collect fish, and you 
+take a core sample from the fish and analyze it to determine 
+well, what are the levels of pollutants in that fish and are 
+they of concern. That is one of the things we have been working 
+on why we establish water quality criteria, to ensure that not 
+only are we protecting the vitally important drinking water 
+that we all consume, but also that the aquatic life that we are 
+covering is protected, as well.
+    The way that happens is that we establish water quality 
+criteria which States then can use to develop their own 
+criteria and limits they put on wastewater treatment plants to 
+ensure that we not only get the PFAS out of our drinking water, 
+but also remove it from our wastewater that goes into our 
+waterways. Those criteria are really critical, and that fish 
+study is really vital to determining those levels.
+    Chairman Peters. I appreciate you brought up that criteria, 
+and that was actually a question that I was going to ask 
+related to criteria for PFOA and PFAS. What specifically would 
+you recommend Michigan and other States do to be in a position 
+to actually implement these recommendations that you just 
+talked about?
+    Mr. Pigott. In terms of the criteria, one of the things 
+that we look forward to the States doing is adopting the 
+criteria in the State regulatory process. That is one 
+recommendation we have, is we have the criteria out there; they 
+are helpful, and then Michigan can use them to adopt them into 
+their regulatory mechanisms, and then include monitoring 
+provisions in their wastewater permits around the State to 
+ensure that we know what is coming out of the wastewater 
+treatment plant, and then we can treat for that.
+    Right now, Michigan has been far and away in the lead in 
+terms of determining what is in their drinking water and 
+looking at the different sources. I do know, in fact, that 
+Michigan not only has looked at ``Well, what's come out of our 
+wastewater treatment plant? But where is it coming from that 
+gets to our wastewater treatment plant?'' They have conducted 
+an extensive study upstream of different industrial 
+contributors to determine where it is coming from. I think that 
+is another vital part that actually other States in the country 
+could do, and are not doing currently, to ensure that we know 
+and we treat for the PFAS that is coming out of our wastewater 
+systems.
+    Chairman Peters. I am going to continue this line of 
+questioning with you--that as the States are working to do 
+that, and to implement it, and you are working with it, it is a 
+resource issue and always a challenge. But as you know, and I 
+think you actually alluded to it in your opening comments, that 
+the infrastructure law that we passed just recently had $5 
+billion in grant funding for States to address PFAS and other 
+emerging contaminants, as well. But certainly, PFAS is a focus 
+of that in terms of a drinking fund.
+    Could you describe, for the Committee's benefit, what steps 
+the EPA is taking to ensure that the grant funding actually 
+aligns with the on-the-ground needs, and follows the guidance 
+that you are putting forward?
+    Mr. Pigott. Absolutely.
+    Chairman Peters. What should we expect, and when should we 
+expect it?
+    Mr. Pigott. Right. Such a great question, Senator Peters. 
+The money that comes to the States from the Bipartisan 
+Infrastructure Law is being run through the State revolving 
+fund programing in each State. Michigan's receiving, I think, 
+$22 million for PFAS work this year. Then the States put 
+together what they call ``intended use plans'' that identify 
+the communities that they are going to distribute those dollars 
+to.
+    We are standing up technical assistance to work with those 
+communities to ensure that they A, know about the money that is 
+out there; B, have the appropriate technical tools necessary to 
+apply for those dollars, and then get them, especially for the 
+disadvantaged communities, in the form of grants. The States 
+are a critical partner in ensuring that we get the money out to 
+our communities.
+    Michigan has been devoted, not only with PFAS, but also 
+with lead service line replacements, to ensure that dollars go 
+out to the disadvantaged communities that so desperately need 
+them to ensure that we protect our drinking water, whether it 
+is lead or PFAS. That money is distributed by the Federal 
+Government, and we are constantly in touch and examine the list 
+of communities that those dollars go out to to ensure that they 
+are properly distributed in the way that was intended under the 
+Bipartisan Infrastructure Law.
+    Chairman Peters. Right. We want to get regular 
+communications about how that is going, and how we can 
+facilitate all of that.
+    Mr. Pigott. Yes. We look forward to that.
+    Chairman Peters. Please, continue to work with us on that.
+    Mr. Pigott. I am happy to do so.
+    Chairman Peters. I appreciate that. Ms. Balkus, as we wrap 
+up this panel, you have been in such a great mood to commit, I 
+have a few commit questions for you here. This has been about 
+improving interagency cooperation and coordination, and you 
+have certainly committed to that, which I appreciate as we move 
+forward. I have a few specific questions, though, that folks 
+want to have answers to. First, can you explain why Oscoda 
+community members can no longer attend base closure team (BCT) 
+meetings at the former Wurtsmith Air Force Base?
+    Ms. Balkus. Chairman Peters, I would be happy to answer 
+that question. The BRAC Cleanup team meetings are intended to 
+be a regulator and regulatee meeting, so it is not open to the 
+public. That is to enable us to have those very frank and 
+honest conversations about what the geology is showing us, what 
+the groundwater flow is doing, what our proposed plans are with 
+the sampling is showing us, et cetera. In that format, it is 
+between the Air Force and the State of Michigan, or the EGLE 
+Team. Not that I wanted to State this, necessarily, but I think 
+it is important to say that we are following the Defense 
+Environmental Restoration Program (DERP) rules on that, so it 
+is not something that the Air Force came up with on our own. It 
+is our policies and practices.
+    However, we do highly encourage our community to be 
+involved in the environmental restoration process through the 
+Restoration Advisory Board (RABs) meetings, and the one that's 
+at Wurtsmith is phenomenal. They are actively involved. They 
+are passionate advocates for their community, and they provide 
+great insights to what we are doing and what we could do moving 
+forward. Additionally, those BRAC Cleanup team meetings are 
+summarized in Restoration Advisory Board meetings, and 
+sometimes those BRAC Cleanup team members are also members of 
+the RAB.
+    There is an opportunity for community members to interact 
+with the BRAC Cleanup team members in that open forum. All of 
+that to say, the BRAC Cleanup team is regulator and regulatee, 
+and our community members are invited to every Restoration 
+Advisory Board meeting and, as I committed earlier today to 
+you, Chairman Peters, we will do a community meeting where I 
+will bring in experts as many times as we need to until we are 
+able to answer all of the community's questions.
+    Chairman Peters. You mentioned some of the hurdles to be in 
+the base closure team meetings. Do you see a way that there 
+could be more involvement despite the issues that you raised?
+    Ms. Balkus. Sir, I think the BRAC Cleanup team needs to 
+remain between the regulators and the Air Force. That is where 
+we need to be able to discuss policies, practices, plans, and 
+procedures.
+    Chairman Peters. So there is no way to find some way for 
+the public opinion, or the residents' opinion in the area?
+    Ms. Balkus. There is plenty of ways for the public to 
+provide their opinion.
+    Chairman Peters. Within that meeting? I am sorry. Within 
+that meeting?
+    Ms. Balkus. Not in the BRAC Cleanup team, sir. But, yes, in 
+community meetings and Restoration Advisory Boards.
+    Chairman Peters. You are going to take full public--or 
+opportunities for the public to have input on a remedial 
+investigation work plan, or have already committed to that.
+    Ms. Balkus. Yes.
+    Chairman Peters. You are going to take that kind of input 
+on a regular basis?
+    Ms. Balkus. Yes, absolutely. In fact, one of the things 
+that I would propose that we do is to do earlier release of our 
+draft remedial investigation documents so that they are not 
+waiting until it becomes final. That is a premier way for 
+community members to have a voice earlier in the process.
+    Chairman Peters. Well, part of having a voice is you have 
+to have access to some documents and data, clearly, so you can 
+comment on that. Oscoda community members have learned that the 
+DOD regularly provides documents and data to State regulators 
+via a publicly inaccessible portal. My request for another 
+commitment is would you be committed to making this information 
+more readibly available to the impacted communities so that 
+they can make a thoughtful comment based on documents and data?
+    Ms. Balkus. Yes. That is one of the initiatives that we are 
+planning to implement. The reason that it is a secure website 
+between the regulated and the regulator parties is so that we 
+can reach agreements on what needs to be done. But in the 
+interim, going forward, our intention is to make sure that 
+those remedial investigation work plans are available and 
+accessible to the communities. I will see if Mr. Gillespie 
+would like to elaborate.
+    Mr. Gillespie. Yes. I stayed up pretty late last night 
+reading all the community's comments.
+    Chairman Peters. Good.
+    Mr. Gillespie. On the last interim measure we are taking, 
+and they were very good. I think 30 days is not enough--I agree 
+with Ms. Balkus--is not enough to give our community members 
+input on that. Maybe a little bit longer, but it was not much.
+    Chairman Peters. Now I have to pick up on that comment, 
+that they were good comments that you had.
+    Mr. Gillespie. Yes.
+    Chairman Peters. [continuing]. Public comments. As you read 
+them late last night, what stood out to you, or like ``Wow, 
+this is really great comments. These are the kinds of things I 
+am glad I am hearing here tonight or reading?''?
+    Mr. Gillespie. Yes. Sir, I think one of the things we have 
+not done a great job with at Wurtsmith is there has been so 
+many maps put out there by either the EGLE, the Air Force, or 
+by somebody else, that over the years--that show these plume 
+blobs--right?--and the Air Force would answer back to the 
+community members, saying, ``How come your map does not match 
+with EGLEs?'' What version is it they are talking about. What 
+is the latest plume map.
+    I am old school. I do not want a machine to contour my 
+groundwater table, and I do not want a machine to contour my 
+plume maps. I want a professional to do that. I do not know 
+whether EGLE does that or the Air Force contractor did that, 
+but as I interject myself as a technical person to our BRAC 
+team, that will stop. I would hope my EGLE counterparts--a lot 
+of them graduated from this great university too; right? I hope 
+they are not using some program to contour maps either.
+    Chairman Peters. OK. In other comments you read last night, 
+anything that stood out?
+    Mr. Gillespie. That was one of them, and then a lot of them 
+where people were, using lawyer-speak ``Hey''--one thing about 
+these interim remedies is you get another bite at the apple; 
+right? In other words, this is not the final remedy. As I said 
+before, this is a tourniquet that we are putting on this 
+uncontrolled release of PFAS from our installations. We have a 
+lot of work to do on the internal plumes yet. I think part of 
+the disappointment with the community is we did not do a lot of 
+work on the internal plumes.
+    For example, I would call it the ``old Air Force beach 
+plume,'' now Ken Ratliff Park--but I am not going to use Ken's 
+name and match it up with a plume. That plume is very well 
+defined where the mass is, about 3,000 feet in from the 
+lakeshore. However, when I look at the well spacing then--and 
+it is really good on the lakeshore, the definition where they 
+are putting in the extraction wells. But I had 1,000 feet of 
+space where we have massive plume, plume enters Lake Van Etten. 
+I had 1,000 feet between two points, so we need more 
+information there. I think that is what we were trying to get 
+across in some of the comments. I did not address those 
+comments, but I think that is what we were trying to get 
+across.
+    We got a ways to go before we start plume busting on the 
+internal part of that plume. Let us stop it going into the 
+surface water bodies, but now let us start thinking about the 
+technologies that we have off the shelf and that are coming on 
+the shelf soon so we can start learning how we are going to cut 
+up that plume.
+    Chairman Peters. Good. The conversation will continue, 
+although with all four of you. Thank you to all four of our 
+witnesses here today. Thank you for your work on this issue. I 
+know you are passionate on the issue. This is not a problem 
+going away anytime soon, so we are going to be talking an awful 
+lot in the months and years ahead as we work together. We 
+appreciate your willingness to be a part of the solution and 
+working diligently to get to that point where we can get to the 
+other side of this crisis.
+    We are going to take about a 10-minute break. We have a 
+second panel coming up. But as we have all been sitting here 
+for an hour and a half, we probably want to stretch our legs. I 
+will take a 10-minute recess. Then as our second panel of 
+witnesses can go to the table, that would be great. We will be 
+adjourned for a brief recess.
+    [Recess.]
+    The Committee will come back to order.
+    I would like to first start off by thanking our second 
+panel of witnesses to join us for this field hearing. Each of 
+you has experienced firsthand the impact of PFAS exposure and 
+unfortunately suffered the consequences of Federal delays and 
+incessant inaction to address this crisis. There is no question 
+that PFAS has caused irreparable damages to the health and 
+well-being of our communities for many years, and government 
+must take decisive action so that families and communities do 
+not have to endure the struggle for decades more. We have 
+waited far too long already for decisive action.
+    The second panel before us here today features both current 
+and former Michigan residents that will speak to their 
+experiences and provide critical suggestions on how the Federal 
+Government can best work with the State of Michigan and local 
+communities on the removal, treatment, and destruction methods 
+for PFAS substances, as well as efforts to transition to a 
+potentially and hopefully safer alternatives.
+    While the Federal Government must take greater measures to 
+address this crisis, we are lucky that Michigan is home to one 
+of the most successful PFAS responses in the nation, the 
+Michigan PFAS Action Response Team, which I believe can serve 
+as a model for the rest of the Nation. We are also lucky to 
+have a powerful network of advocates who are willing to work 
+together to raise awareness and push for substantive solutions 
+to address PFAS contamination. Again, thanks for each of you to 
+be here, taking time out of your day, and we anxiously await 
+your testimony, an important part of the record that we need as 
+we take action on this crisis.
+    It is the practice of this Committee to swear in witnesses, 
+so if you would please stand and raise your right hand.
+    Do you swear that the testimony that you will give before 
+this Committee will be the truth, the whole truth, and nothing 
+but the truth, so help you, God?
+    Ms. Hendershott. I do.
+    Ms. Knudsen. I do.
+    Dr. Murphy. I do.
+    Lt. Col. Minor. I do.
+    Ms. Wusterbarth. I do.
+    Chairman Peters. Thank you. You may be seated.
+    Our first witness on this panel is Abigail Hendershott, 
+Executive Director of the Michigan PFAS Action Response Team. 
+Ms. Hendershott is a 30-year veteran of the Michigan Department 
+of Environment, Great Lakes and Energy, and she has led a team 
+responsible for Michigan's largest PFAS contamination response 
+to date.
+    Welcome to the Committee, and you are now recognized for 
+your opening comments.
+
+   TESTIMONY OF ABIGAIL HENDERSHOTT,\1\ EXECUTIVE DIRECTOR, 
+               MICHIGAN PFAS ACTION RESPONSE TEAM
+
+    Ms. Hendershott. Thank you, Chairman Peters.
+---------------------------------------------------------------------------
+    \1\ The prepared statement of Ms. Hendershott appears in the 
+Appendix on page 84.
+---------------------------------------------------------------------------
+    Let us try this again. Thank you, Chairman Peters, for 
+inviting Michigan to provide testimony regarding the ongoing 
+work of our Michigan PFAS Action Response Team, to address per-
+and polyfluoroalkyl substances issues across our State. I will 
+acknowledge that I am also a Rockford citizen, and a graduate 
+of MSU. So go green.
+    As you said, my name is Abigail Hendershott.
+    I am the Executive Director for MPART, and I am pleased to 
+share with you the Michigan perspective on the need for a more 
+coordinated Federal response to PFAS contamination and explore 
+the interagency and intergovernmental policy solutions that 
+holistically address PFAS risk, remediation, and research.
+    The Michigan PFAS Action Response Team, initially created 
+in 2017, was established as an enduring body in February 4, 
+2019, by Governor Gretchen Whitmer to address the threat of 
+PFAS contamination in Michigan, protect public health, and 
+ensure the safety of Michigan's land, air, water, while 
+facilitating interagency coordination, increasing transparency, 
+and requiring clear standards to ensure accountability.
+    Since 2017, MPART has solidified its role as a national 
+leader in identifying and addressing PFAS contamination by the 
+coordinated activities of seven different State agencies. This 
+coordination and collaboration have allowed Michigan to 
+effectively leverage the actions of all agencies to swiftly 
+identify and respond to PFAS in our communities. These 
+departments include the Departments of Environment, Great 
+Lakes, and Energy, the Department of Natural Resources (DNR); 
+Transportation (DOT); Agriculture and Rural Development (USDA); 
+Health and Human Services (HHS); the State Fire Marshal (SFM); 
+and Military and Veterans Affairs, all of which have staff 
+dedicated to continuously address PFAS issues.
+    MPART is encouraged by the actions laid out in the EPA PFAS 
+Strategic Roadmap and the goals for coordinated and cooperative 
+cross-agency efforts to develop and improve tools to address 
+PFAS as announced by the Biden Administration in October 2021. 
+However, more can and must be done to coordinate and 
+collaborate on the tough issues that PFAS presents to not only 
+our Nation, but to the world.
+    Let me give you an example of how MPART's strategic 
+coordination has benefited the citizens of our State. Starting 
+in 2018, Michigan Department of Environment, Great Lakes and 
+Energy conducted pioneering work to trace PFAS in wastewater 
+back to industrial facilities. At one location, these results 
+led to the halt of land application of heavily impacted 
+biosolids on farmland. Sampling efforts revealed that crops and 
+cattle on the farm had been impacted by the industrially 
+contaminated PFAS-containing biosolids. Determining the next 
+steps at the farm required thoughtful collaboration with the 
+State DNR, Department of Agriculture, and Department of Health 
+and Human Services.
+    The Federal Government's lack of a unified approach and 
+standards meant that Michigan could not obtain written guidance 
+or advice from our Federal agencies regarding acceptable levels 
+of PFAS in beef, resulting in Michigan conducting its own 
+public health evaluation and risk determination. Similar 
+situations in Maine and New Mexico highlight the need for 
+national research and standards for food and crops, and for 
+enhanced Federal coordination to provide clarity and assistance 
+for our farmers and our States.
+    In fact, there are still many PFAS issues that would 
+benefit from coordinated efforts at the Federal level, such as 
+food testing and standards for PFAS in the food supply, further 
+study and better understanding of the transport and deposition 
+of airborne PFAS, continued research to find effective 
+fluorine-free replacements for firefighting foams, 
+collaboration and research to advance our toxicological 
+understanding of PFAS and the human health effects, and better 
+public notification and transparency so that our citizens can 
+be better informed about PFAS risks.
+    An important piece of the collaborative MPART model is our 
+Citizens Advisory Work Group (CAWG), which make up of residents 
+from around the State who have been directly or indirectly 
+affected by PFAS in their communities. The CAWG allows our 
+citizens to have a way to directly provide input to MPART on 
+PFAS topics. Their voices have reinforced the MPART mission to 
+collaborate among the departments and be transparent in our 
+efforts. The CAWG has also stressed the importance of notifying 
+the public when PFAS has been found in communities, especially 
+for residential drinking water well owners who may be 
+potentially at risk.
+    MPART has collaborated with the CAWG and several agencies 
+to develop successful measures to inform the public in 
+Michigan. Nationally, a toolbox of potential notification 
+protocols would be helpful for other States. Being able to 
+share that data with the public would help communicate PFAS 
+information nationally. Federal agencies should work together 
+to share their data and provide consistent messaging about PFAS 
+so that people can make sound decisions as to how to reduce the 
+risk for themselves and their families.
+    Thank you again for the opportunity to discuss Michigan's 
+leadership on the cutting edge of PFAS mitigation policy at the 
+State level, and to discuss the need for a national MPART-like 
+structure of collaboration and coordination moving forward.
+    I welcome hearing from the other witnesses today and look 
+forward to answering your questions. Thank you.
+    Chairman Peters. Thank you, Ms. Hendershott.
+    Thank you for your testimony, and also welcome back to 
+campus. We have a real trend going here. A lot of folks on 
+these panels know this place very well. Good to see you.
+    Our next witness is Breanna Knudsen, the Tribal 
+Environmental Response Program Specialist for the Saginaw 
+Chippewa Indian Tribe of Michigan. Previously, she served as 
+Brownfield Specialist for the Little River Band of Ottawa 
+Indians.
+    Ms. Knudsen, welcome to the Committee, and you may proceed 
+with your opening remarks.
+
+TESTIMONY OF BREANNA KNUDSEN,\1\ TRIBAL ENVIRONMENTAL RESPONSE 
+ PROGRAM SPECIALIST, SAGINAW CHIPPEWA INDIAN TRIBE OF MICHIGAN
+
+    Ms. Knudsen. Good Morning and thank you, Chairman Peters 
+for inviting us today. My name is Breanna Knudsen, and I am the 
+Environmental Response Program Specialist for the Saginaw 
+Chippewa Indian Tribe of Michigan, speaking today on behalf of 
+the Saginaw Chippewa Indian Tribe of Michigan. The Tribe is 
+appreciative of the opportunity to testify at this field 
+hearing and we were nominated to do so by the United Tribes of 
+Michigan.
+---------------------------------------------------------------------------
+    \1\ The prepared statement of Ms. Knudsen appears in the Appendix 
+on page 91.
+---------------------------------------------------------------------------
+    Historically, the Saginaw Indian Chippewa Tribe lived 
+primarily in the Eastern region of what is now Michigan. 
+Between 1795 and 1864, a total of sixteen treaties were made 
+between the U.S. Government and the Tribe. The main Ceded 
+Territories of the Tribe were designated specifically in the 
+Treaties of 1855 and 1864, which also established the Isabella 
+Reservation. Over 130,000 acres were allotted to the 
+Reservation. The Tribe also maintained a second satellite 
+Reservation area in Standish, and owns additional properties in 
+Arenac and Iosco Counties.
+    Within the Isabella Reservation of the Saginaw Chippewa 
+Indian Tribe of Michigan, there are three sites; two defunct 
+landfills, and an old refinery known to be sources of PFAS 
+contamination. Within Ceded Territory boundaries, there is the 
+Wurtsmith Air Force Base, a known source of PFAS contamination 
+as well. In Clark's Marsh, near that airbase, previous testing 
+for PFAS revealed extremely high levels of PFAS in the tissues 
+of fish caught in that marsh.
+    CERCLA provides to Tribal nations the rights to enforce 
+cleanup and remediation of contamination on tribal lands. 
+However, the Tribe cannot pursue cleanup actions in these sites 
+until the Federal Government officially classifies PFAS as 
+regulated hazardous substances under CERCLA designation. 
+Without this classification, there can be no cleanup standards 
+created to achieve and enforce. Without cleanup standards to 
+achieve and enforce, there can be no legal instrument to hold 
+responsible parties liable for contamination by remediating and 
+restoring these sites. Thus, to clean up PFAS from their lands, 
+the hands of the Tribe are tied without official classification 
+of PFAS as regulated hazardous substances under CERCLA. I am 
+glad to hear that it is soon coming.
+    It must be noted that statements made by the Saginaw 
+Chippewa Indian Tribe of Michigan do not and should not be 
+construed as representative of the other eleven federally 
+recognized tribes in Michigan. The Tribe has previously 
+facilitated inter-tribal and inter-agency efforts to address 
+PFAS issues in Michigan, and looks forward to continued 
+cooperation to resolve PFAS contamination on tribal lands. 
+Thank you for your time.
+    Chairman Peters. Thank you, Ms. Knudsen.
+    Our next witness is Cheryl Murphy, a professor in the 
+Department of Fisheries and Wildlife, and the director for the 
+Center of PFAS Research at Michigan State University. Dr. 
+Murphy was recently awarded a $1.9 million grant from the 
+Department of Defense to develop a toxicity testing framework 
+for PFAS mixtures and assess the risk that PFAS poses to 
+animals.
+    Dr. Murphy, welcome to the Committee. You may proceed with 
+your opening remarks.
+
+  TESTIMONY OF DR. CHERYL MURPHY,\1\ DIRECTOR, CENTER OF PFAS 
+              RESEARCH, MICHIGAN STATE UNIVERSITY
+
+    Dr. Murphy. Thank you very much, Chairman Peters, and thank 
+you very much for this opportunity to submit testimony related 
+to Improving Interagency and Intergovernmental Coordination on 
+PFAS for Michigan Communities, which is a really timely and 
+important issue.
+---------------------------------------------------------------------------
+    \1\ The prepared statement of Dr. Murphy appears in the Appendix on 
+page 92.
+---------------------------------------------------------------------------
+    My name is Cheryl Murphy, and I am a Professor in the 
+Department of Fisheries and Wildlife at Michigan State 
+University, and an ecotoxicologist. But I also serve as 
+Director, and I feel privileged to work with a lot of really 
+talented people at the MSU Center for PFAS Research.
+    For several decades, PFAS compounds have infiltrated and 
+accumulated in our drinking water, ecosystems, our atmosphere 
+and food supplies. Despite this, they are still being 
+manufactured in lots of different ways, and used for many 
+different processes. There are more than 5,000 of these man-
+made chemicals that are really resistant to degradation. They 
+remain in the environment and in organisms for many years. We 
+know PFOS and PFOA are two of the most commonly produced PFAS 
+compounds that have toxic effects, and they bioaccumulate in 
+organisms, but we know very little about the rest.
+    I provide much more background in my written testimony. 
+There was just this recent Government Accountability Office 
+(GAO) report on July 28th, called, ``Persistent Chemicals: 
+Technologies for PFAS Assessment, Detection, and Treatment,'' 
+that details a lot of these issues.
+    Because this PFAS issue is not only pervasive in Michigan 
+communities, but also throughout the United States and the 
+world, and is a problem that affects multiple aspects of our 
+daily lives, we at MSU, in the true spirit of the first land-
+grant institution, sought to determine how we could respond to 
+this emerging crisis. We quickly realized that effective 
+research solutions could only come from this very 
+multidisciplinary focus.
+    In some ways, we followed the model performed by the State 
+of Michigan in forming MPART, but we also thought a center 
+would make it easier to coordinate with them, as well with our 
+Federal agencies, our international partners, and to liaison 
+with communities, and to engage with industry on safer 
+replacements. Coordination would also avoid duplication and 
+more efficient progress toward solutions. We formed our center 
+to unite several colleges and schools to attract other 
+researchers with much needed skills that have not been focused 
+on PFAS yet, ranging from social scientists to engineers.
+    While we have been successful at acquiring specific 
+research grants from Federal agencies--Senator Peters mentioned 
+the DOD as one--we found that there seems to be no funding 
+mechanism that would provide larger overall support for an 
+initiative as broad and as comprehensive as the one that is 
+required to address the PFAS problem and to address it quickly. 
+Much of the research has been on drinking water, which is 
+really important; I am not saying that. But it is also in our 
+food supplies and our natural resources, and we cannot measure 
+most of them, and we do not know their toxicity.
+    Interagency coordination would be of considerable benefit 
+and help broader center initiatives that will allow for things 
+like cohesive data collection, and storage and sharing, and an 
+efficient investment into infrastructure needs, such as 
+equipment and facilities that could be used by many 
+researchers. For example, we are finding contaminated farms, 
+livestock, and fish, but we do not have facilities specifically 
+built that could assist in determining how the chemicals 
+accumulate their toxic properties. We need these to develop 
+mitigation strategies so that we do not consume more PFAS, and 
+provide immediate solutions to farmers and fishermen in our 
+communities. We also need to invest in technology to be able to 
+measure these chemicals quickly in all sorts of different 
+matrices, and we need to develop high throughput toxicity 
+assessment platforms and other tools that can be used for PFAS 
+and are validated for risk assessment.
+    Land-grant institutions would be ideal places to host such 
+research centers because of the breadth of expertise and the 
+focus on solutions related to food systems, natural resources, 
+and agriculture, and our outreach and extension into our 
+communities. This investment would help us train the next 
+generation of scientists and engineers so that they are 
+prepared to tackle these issues and some of these problems for 
+future generations.
+    In summary, a larger investment from coordinated Federal 
+agencies would enable the development of a number of focus 
+research hubs across the United States that would contribute to 
+solving key problems. We feel that the time to deal with these 
+compounds as isolated and independent cases is long past, and 
+we need to change our focus from delegating the 
+responsibilities to single agencies and specific researchers to 
+more collaborative, united collectives of vastly different but 
+complimentary disciplines to prioritize needs, focus on the 
+rapid development of solutions to these problems. This 
+initiative should be led by the Federal Government so that we 
+do not duplicate efforts, develop appropriate infrastructure, 
+and can respond quickly to the emergency issues like 
+contaminated food supplies that impacts other communities.
+    Thank you very much for this opportunity.
+    Chairman Peters. Thank you, Dr. Murphy.
+    Thank you for your testimony here today.
+    Our next witness is Lieutenant Colonel Craig Minor. Col. 
+Minor is a retired Air Force officer who used to serve at 
+Wurtsmith Air Force Base. He and his family's exposure to PFAS 
+chemicals during his service on base has unfortunately led to 
+some significant health challenges. His family was cast in the 
+``No Defense'' documentary, and he is the coauthor of 
+``OVERWHELMED, A Civilian Casualty of Cold War Poison.''
+    Col. Minor, pleasure to have you here. You may proceed with 
+your opening remarks.
+
+  TESTIMONY OF LT. COL. CRAIG L. MINOR, USAF (RET.)\1\ FORMER 
+               RESIDENT, WURTSMITH AIR FORCE BASE
+
+    Lt. Col. Minor. Thank you, Chairman Peters, for this 
+opportunity, and my family thanks you, and veterans from 
+Wurtsmith and their families thank you as well.
+---------------------------------------------------------------------------
+    \1\ The prepared statement of Lt. Col. Minor appears in the 
+Appendix on page 97.
+---------------------------------------------------------------------------
+    We are here because we know PFAS is harmful to people. In 
+fact, people are the number one reason we care about PFAS at 
+all. We want our ground and surface water cleaned up because we 
+do not want people to drink, eat, touch, or breathe this 
+poison. The priority is clear, people. No agency or person 
+would support a one-sided PFAS strategy that states or implies 
+``we ignore past harms and only focus on preventing future 
+harms.''
+    My testimony today is to highlight a significant past harm, 
+which requires your immediate leadership. From 1982 to 1997, 
+Wurtsmith Air Force Base citizens drank egregious amounts of 
+PFAS in the tap water; daily and for 10 years.
+    Beginning in 1982, Wurtsmith firefighters began to 
+routinely dispose of PFAS-laden AFFF along the grassy edge of 
+the operational apron near the fire station. The AFFF dump site 
+was only 500 yards upstream in the aquifer from the main 
+drinking water wells. Dumping AFFF on the ground was never an 
+approved disposal practice. A 1982 ``3M Product Environmental 
+Data Sheet'' clearly states: ``DISPOSAL OF PRODUCT: Bleed to a 
+wastewater treatment system in accordance with local 
+regulations.'' Because of the known toxicity of AFFF, Air Force 
+and Navy research documents from this period stated the same. 
+Had excess firefighter foam been disposed of in a wastewater 
+treatment facility and not dumped on the ground, I would not be 
+testifying in front of you today.
+    When Wurtsmith military operations ended in 1993, base 
+officials labeled the operational AFFF dump site ``SS-60.'' 
+According to Air Force documents, the practice of dumping AFFF 
+at site SS-60 ended in 1992. For 10 years, from 1982 to 1992, 
+AFFF with PFAS was dumped directly on the ground, entered the 
+groundwater, and was drawn into the main water wells supplying 
+all Wurtsmith's potable water via the water tower. After 1992 
+until 1997, smaller amounts of PFAS-ladened water continued to 
+enter the base water system from the PFAS saturated aquifer. In 
+1997, a local municipal water system was replaced and replaced 
+those wells.
+    The amount of PFAS entering the wells was not trivial. The 
+Michigan Department of Environmental Quality (MDEQ), would 
+discover, 25 years later, that the PFAS concentrations in the 
+groundwater at site SS-60 were over 43,000 parts per trillion. 
+Further, MDEQ measured high PFAS concentrations from SS-60, 
+stretching to the historical water wells. The MDEQ also 
+discovered trapped water in abandoned fire hydrants, a hot 
+water heater, and water softener from when Wurtsmith was 
+active. As expected, all trapped water contained various 
+concentrations of PFAS, and the highest concentration was 
+roughly 7,500 parts per trillion.
+    My wife Carrie and I worked and lived on base from 1985 to 
+1990. In October 1989, our son Mitchell was born at Wurtsmith 
+with severe cerebral palsy and microcephaly, and he passed 30 
+years later, two weeks after filming his story in the ``No 
+Defense'' documentary. In 1989, I was hospitalized on base for 
+an unidentifiable prostate issue. In addition, I had a large 
+tumor removed from my back. Two years after our profoundly 
+handicapped son was born, Carrie miscarried our next child. We 
+did not discover PFAS was in the Wurtsmith water until 2019; 
+two weeks after God prompted us to write ``OVERWHELMED,'' which 
+added, ``A Civilian Casualty of Cold War Poison.'' Go to 
+``mitchellsmemoir.com'' to learn more. In 2019 my overall blood 
+PFAS levels were 3.5 times higher than the national average, 
+and my perfluorohexane sulfonate (PFHxS) levels, a signature 
+component of AFFF, was nearly 20 times higher than national 
+exposure levels. Today, my liver and spleen are enlarged, and 
+my kidneys are low functioning, and this is just the beginning 
+of the list. I have met another veteran with similar blood 
+results and health issues.
+    It is now 40 years since Wurtsmith citizens began drinking 
+PFAS from AFFF in egregious amounts, and it is time for local, 
+State, and Federal leadership to officially recognize this 
+event. To start, governments and applicable agencies need to 
+cut through the red tape and add this poisoning event to the VA 
+Presumptive List until Congress can organize a more 
+comprehensive solution to care for all the U.S. citizens that 
+were poisoned. The DOD should be the loudest voice, taking lead 
+to triage its Cold War battlefield casualties. Why DOD? Because 
+we leave no one behind. Thank you.
+    Chairman Peters. Thank you, Col. Minor. Thank you for 
+sharing intensely personal story, as well.
+    Final witness is Cathy Wusterbarth, founder of Need Our 
+Water (NOW), and Oscoda Citizens for Clean Water. Through her 
+work, she serves as a reliable resource and catalyst for 
+education and for communication while advocating for long-term 
+health and environmental welfare plans on behalf of those 
+impacted by the water contamination from the former Wurtsmith 
+Air Force Base in Oscoda, Michigan.
+    Ms. Wusterbarth, thank you so much for being here, and you 
+may proceed with your opening comments.
+
+TESTIMONY OF CATHY WUSTERBARTH,\1\ FOUNDER, NEED OUR WATER AND 
+  OSCODA CITIZENS FOR CLEAN WATER AND COMMUNITY LEADER, GREAT 
+                   LAKES PFAS ACTION NETWORK
+
+    Ms. Wusterbarth. Chairman Peters, thank you for the 
+opportunity to be here today.
+---------------------------------------------------------------------------
+    \1\ The prepared statement of Ms. Wusterbarth appears in the 
+Appendix on page 106.
+---------------------------------------------------------------------------
+    I am Cathy Wusterbarth, a founder of Need Our Water, Oscoda 
+Citizens for Clean Water, a community leader with Great Lakes 
+PFAS Action Network, and a member of our local restoration 
+advisory board. I am a registered dietitian, clean water 
+advocate and a native of my beloved town of Oscoda, Michigan. I 
+was a competitive swimmer and young lifeguard on the U.S. Air 
+Force Base beach, which we know now is highly contaminated with 
+PFAS. Little did I know that the cancer and immunological 
+disease I developed a few years later in my 20s may have been 
+due to the drinking water and lake water exposure from 
+performing that lifeguarding job as a civilian employee for the 
+U.S. Air Force.
+    To this day I continue to battle these diseases, much like 
+my mother, my father and both sisters who have lifetime 
+illnesses potentially associated with their PFAS exposure. 
+Unfortunately, our family in Oscoda is not unique. Military 
+personnel, their families and our neighbors are reporting the 
+same conditions. Sadly, some cases have led to preventable 
+death.
+    I am proud to be part a community that supported the former 
+Wurtsmith Air Force base functions and continue to be proud of 
+the mission of the Department of Defense to provide combat 
+credible military forces needed to deter war and protect the 
+security of our Nation.
+    However, at the same time as providing these important 
+services to our national security, toxic PFAS has been flowing 
+essentially uninterrupted for decades from the former Wurtsmith 
+Air Force Base through the groundwater. This toxic PFAS 
+contamination is bleeding into nearby Van Etten Lake, Clark's 
+Marsh and the AuSable River, all of which carry that toxic 
+water to the drinking water source for hundreds of thousands of 
+people in the Great Lakes region. In 2015 and 1916 testing of 
+the Lake Huron municipal water system revealed 4.2 parts per 
+trillion average of PFAS and PFOS combined for the sampling. We 
+have had health advisories throughout our community due to this 
+uncontrolled spread of PFAS, including foam, fish, venison, and 
+all animals living in Clark's Marsh, which used to be a popular 
+fishing and hunting destination and is still used by 
+subsistence hunters and anglers to gather their food.
+    Because it is odorless, colorless and tasteless, we 
+unknowingly were subjected to these toxic PFAS chemicals for 
+decades, and continued to be exposed for decades after, but 
+PFAS manufacturers and the military knew PFAS chemicals were 
+harmful to human health. Shockingly, we now have that visual 
+evidence in the PFAS-laden foam forming on our waterways and 
+Lake Huron. After over a decade of knowing PFAS chemicals were 
+impacting our health and community, the past exposure we 
+experienced still has no comprehensive corrective measure. We 
+must live the best we can with the harm caused and must do so 
+while enduring a lack of transparency, accountability, and 
+collaboration from the Air Force and the Department of Defense 
+as part of the cleanup process.
+    Through Need Our Water's continued partnership with the 
+Wurtsmith site experts, some of whom are here today, The 
+National Wildlife Federation, community members and Wurtsmith 
+veterans, such as Craig, I was involved with creating a 
+document that summarizes the timeline of PFAS exposure and 
+actions at Wurtsmith. Starting in the 1970s, it details the DOD 
+actions that are inconsistent with the known severity of the 
+problem, false promises and endless delays. This well 
+researched, clearly detailed, and thoughtful document was 
+submitted by me at the September 2021 Restoration Advisory 
+Board meeting. During the meeting, when I asked for a formal 
+response to this document, the U.S. Air Force leadership asked 
+me why I would want a response to a public document. As part of 
+my testimony, I will submit this document for the Committee to 
+review.\1\ This incident is an example of the shift that needs 
+to occur in the U.S. Air Force and the DOD approach. 
+Communities have vital information to provide, and we should 
+not be dismissed when it is presented.
+---------------------------------------------------------------------------
+    \1\ The document referenced by Ms. Wusterbarth appears in the 
+Appendix on page 120.
+---------------------------------------------------------------------------
+    Through my advocacy I have learned to study the actions of 
+those doing this work before me, such as the late author of 
+``Silent Spring,'' Rachel Carson. She said, which ironically 
+could be posed to the DOD in literal terms today, ``Man's 
+attitude toward nature is critically important simply because 
+we have now acquired a fateful power to alter and destroy 
+nature. But man is part of nature, and his war against nature 
+is inevitably a war against himself. We are challenged as 
+mankind has never been challenged before to prove our maturity 
+and our mastery, not of nature, but of ourselves.''
+    Thank you.
+    Chairman Peters. Thank you, Ms. Wusterbarth. I thank you 
+for the personal story, and the document that you referenced 
+will be entered into the official record of the committee.
+    Ms. Hendershott, at the State level, Michigan clearly has 
+focused on improving in interagency collaboration on PFAS to 
+get kind of a robust and coordinated response to the crisis. If 
+you could explain to the Committee, and describe lessons that 
+you have learned in this approach, and how the Federal 
+Government can use this as a model, how we can effectively 
+address PFAS around the country.
+    Ms. Hendershott. That is a great question. I think the 
+biggest thing that we have learned is that there is not one 
+agency that can truly unravel and solve the complex PFAS issues 
+that present themselves. It takes the entire team. It requires 
+a team approach; it requires an agency approach, and it 
+requires some strategy.
+    All of these different agencies, whether at the Federal 
+level, the State level, all have different authorities and 
+different regulatory policies that have to be meshed together 
+to be able to provide strategic responses.
+    That strategic plan has to be holistic; it has to be 
+comprehensive to adequately protect public health, promote ways 
+to inform and educate our public, as well as actually provide 
+effective communication. The MPART collaboration structure 
+really works, though, because of the authority given to the 
+team by the Governor for the State of Michigan. That response 
+and the executive directive--or Executive Order (EO) actually 
+gives us the authority then to require coordination and 
+collaboration by all of our departments with the frequency that 
+gives us a unified and streamlined approach.
+    It does not come easily, and it is many hours of hard work 
+by our department staff. But you can see the efforts that it 
+pays off for our citizens when we do this.
+    I think the other thing that I would say is that when we 
+are working through PFAS issues, whether it is sampling useable 
+drinking water, or working through site-specific projects like 
+Wurtsmith or Wolverine, sampling surface water and fish, all of 
+these point to the need for constant communication. The 
+information, as you heard from the previous panel, is changing 
+so rapidly, there is so much research going on that it is very 
+important to be able to stay in constant communication and 
+sharing of information and the research.
+    I think that is the biggest lesson learned, is that 
+collaboration has to be done quickly, constantly, and 
+effectively to ensure that the public has really good, sound 
+messaging, because it can be very convoluted very quickly if we 
+do not apply a unified approach.
+    Chairman Peters. All right. Thank you for that.
+    Ms. Knudsen, could you speak to the Saginaw Chippewa Indian 
+Tribe's experience working directly with the Federal Government 
+to keep your community safe from PFAS contamination?
+    Ms. Knudsen. At Saginaw Chippewa Indian Tribe of Michigan, 
+we have had effective support from the State of Michigan and 
+our EGLE partners in addressing our PFAS issues, such as 
+assistance with testing of fish tissues and river areas. EGLE 
+consistently invites the Tribe to participate meaningfully in 
+relevant PFAS discussion, planning, and remedial action 
+planning. EGLE and the State of Michigan have created PFAS 
+cleanup standards to enforce, and thus are an actionable 
+partner. The Federal Government don't have any PFAS cleanup 
+standards to work with. Until the Federal Government classifies 
+PFAS as regulated hazardous substances under CERCLA, the Tribe 
+is ultimately limited in our ability to partner with the 
+Federal government to address these PFAS issues on our tribal 
+lands.
+    Chairman Peters. Have you reached out to the EPA or any 
+agency just for some advice and counsel, or you do not have any 
+dealings with them at all?
+    Ms. Knudsen. We do work with the EPA with many of our grant 
+programs, include the grant that I work under, the R128(a) 
+CERCLA Grant.
+    Chairman Peters. Right.
+    Ms. Knudsen. The EPA is a very good partner with us. In 
+this particular issue, we cannot really do much without those 
+cleanup standards to enforce.
+    Chairman Peters. Ms. Hendershott, if you could have given 
+some examples in your previous question, but kind of some 
+examples of proactive State-level leadership in Michigan that 
+the Federal Government, specifically, might be able to emulate, 
+and devise some more effective policies, what recommendations 
+would you give?
+    Ms. Hendershott.
+     When it comes to proactive Federal, Obviously, as Ms. 
+Knudsen said, having actual Federal standards is the first 
+step. The approach that the Federal Government needs to be able 
+to take has to start with a regulatory approach that has 
+authority. Starting with the MCL's--as Mr. Pigott said, 
+starting with the MCL's is a vital, crucial piece to starting 
+that process, working down to a CERCLA designation for PFOS and 
+PFOA will be a next step, but there is many other steps and 
+pieces that require the different programs to have regulatory 
+authority.
+    I think that is going be the first piece that we would like 
+to see from EPA, and that their leadership is going to be 
+necessary for. As far as other Federal regulatory programs, 
+there is many other ones that we intersect with, whether it 
+comes from USDA for food testing, FDA for additional food 
+testing, and U.S. Fish and Wildlife, et cetera.
+    There is many different agencies that have authorities that 
+we would like to be able to get their advice for the technical 
+expertise, and for the research that they are doing on PFAS. 
+Because there is a lot of research going on for PFAS. But the 
+States do not always have the resources to be able to do that 
+kind of research ourselves. But at least in Michigan, we do 
+have our own authority for regulations.
+    Chairman Peters. Michigan has their own authorities. We are 
+waiting for the EPA to set standards, which we talked about in 
+the previous panel. But we do have a health advisory that is 
+out. Do you see anything changing, or the landscape changing, 
+anyway, with that advisory, or do we have to wait for the 
+standard to come out?
+    Ms. Hendershott. I think that we are going to learn quite a 
+bit from the EPA's health advisory. In Michigan, we will 
+continue to use our enforceable standards until EPA has their 
+MCL's that become officially promulgated. But I think it is 
+more than that.
+    Having ATSDR at the table, and being able to look at the 
+science that they are reviewing, understanding the inputs, the 
+toxicological assumptions, the endpoints, all of that is really 
+important to our Department of Health and Human Services as 
+they take a second look at what we are looking at for our 
+State.
+    In this point, we will continue to use our enforceable 
+standards until EPA actually sets those drinking water 
+standards, and that they do not become just an interim health 
+advisory, but actually become an enforceable maximum 
+contaminant level that we can actually use.
+    Chairman Peters. Right. Thank you.
+    Ms. Knudsen, certainly PFAS contamination impacts all 
+communities. But are there some unique impacts in the 
+Indigenous community here in Michigan?
+    Ms. Knudsen. Yes. Every Indigenous community here is 
+unique, and again, Saginaw Chippewa Indian Tribe cannot speak 
+for the 11 other federally recognized tribes in Michigan. 
+Specific to us, though, PFAS contamination prevents the full 
+exercise of our hunting, gathering, and fishing rights, as 
+designated in those 16 treaties with the Federal Government.
+    There are now various PFAS consumption advisories for fish 
+caught in water bodies near our reservations and in our ceded 
+territories, including bluegill, sunfish, smallmouth bass, 
+largemouth bass caught in Saginaw River and Saginaw Bay areas. 
+There have also been PFAS consumption advisories for other 
+wildlife, including for deer within five miles of the Wurtsmith 
+Air Base. Thus, the Tribe's rights to sustenance, fishing, 
+gathering, and hunting in ceded territory areas, as were given 
+in the treaties, are being impeded by PFAS contamination and 
+its subsequent bioaccumulation in wildlife.
+    Chairman Peters. You mentioned the different advisories. I 
+know the rainbow smelt up in Lake Superior recently was put on 
+advisory. Do you believe you are getting adequate support from 
+either the State or the Federal Government to address these 
+concerns with wildlife and your abilities to hunt and to fish, 
+and what more could we do?
+    Ms. Knudsen. Saginaw Chippewa has previously hosted PFAS 
+listening sessions in the fall of 2018. All levels of 
+stakeholders were invited, including the EPA water division 
+staff, EPA staff in region five and headquarters, EGLE, MDHHS, 
+the area district health department, and local municipalities. 
+These communications have thus far been effective. Again, 
+without that CERCLA designation of those hazardous substances 
+for PFAS on our trust lands, we are unable to further our 
+efforts to remediate those issues.
+    Chairman Peters. All right. Thank you.
+    Dr. Murphy, as I mentioned in my opening comments, and you 
+referenced as well, I was certainly pleased to see that 
+Michigan State University was awarded a $1.9 million grant for 
+the Department of Defense's Strategic Environmental Research 
+and Development Program, which will basically develop a 
+toxicity testing framework for PFAS, and assess the risk that 
+these chemicals pose to animals. Could you explain the 
+importance of strengthening and expanding research on these 
+dangerous chemicals at the Federal level?
+    Why we need to continue to do this, and if we need to 
+continually do it, provide additional resources?
+    Dr. Murphy. Yes, for sure. So these PFAS compounds, they 
+exist not as single entities.
+    In the environment, they are mixtures, and so we do not 
+really have a good handle on starting to get a good handle on 
+two of them; PFAS and PFOA, but there is 5,000, and they are 
+all occurring in these different types of mixtures out there, 
+and so we do not really have good testing frameworks to tackle 
+this complexity. As a result there is a lot of different 
+standards, and there is a lot of moving targets.
+    What I think right now is we have been throwing tools at it 
+that we know work for other contaminants, but we are getting 
+this really incomplete picture. We are wasting valuable 
+resources and time by duplicating efforts and not developing 
+appropriate tools to handle the PFAS issues. As a result, I 
+think we have been tackling some of the low-hanging fruit, and 
+there is a lot more complexity that needs to be addressed.
+    In order to do that, we really do need this 
+interdisciplinary approach.
+    We need engineers, social scientists, toxicologists, 
+ecologists, computer sciences, policy expert, risk assessments, 
+and several more; I cannot list them all.
+    But we have to be working together with the State and 
+Federal partners, and with our communities, and also industry, 
+to come up with other solutions. This has to be navigated at 
+the Federal level. I do not see any other way to do that.
+    Chairman Peters. Yes. Speak to me a little bit more about 
+that, 'cause clearly you have a lot of moving pieces here. You 
+mentioned it has to be interdisciplinary.
+    Dr. Murphy. Yes.
+    Chairman Peters. You have to collaborate to go.
+    We know there are a lot of studies that are out now, which 
+we have heard testimony. Yes, and the amount is increasing. But 
+you just feel that there is not a coordination, that some body 
+is saying, ``We have ten studies on this subject, and we are 
+leaving this one behind. We really should maybe do five here 
+and five there, and make sure we are covering the ground?'' Is 
+that what you are describing, is that there needs to be----
+    Dr. Murphy. Yes. It has to be nimble, too. We have to be 
+able to get the new science, coordinate it all, assess it 
+quickly, and then redirect, because we do not know exactly what 
+the main issues are with most of these chemicals.
+    Chairman Peters. Who should do that, and how?
+    Dr. Murphy. The Federal Government. If you created large 
+research opportunities, center hubs, that coordinated well, I 
+mean, funding opportunities that had mandates to coordinate 
+with the local communities and the Federal agencies.
+    We all have them, but you need a lot of investment in that, 
+because we need all of these other people to sort of switch 
+their focus and get focused in on the PFAS issue so that we can 
+tackle it. Does that make sense?
+    Chairman Peters. Yes.
+    Dr. Murphy. Yes? Sorry.
+    Chairman Peters. The National Academies of Science and 
+other organizations----
+    Dr. Murphy. Yes, something like that would be great.
+    Chairman Peters. That would be a great way to move 
+forward----
+    Dr. Murphy. Yes. National Academy of Science would be 
+awesome.
+    Chairman Peters. Yes, and others. I was going to say, I do 
+have legislation to address that issue and I certainly 
+appreciate your testimony here.
+    We have heard from the food chains, and Ms. Knudsen talked 
+about it as well, you have contaminated cattle, you have 
+wildlife, the smelt. Talk to me more about the food chain. How 
+concerned are you about what is happening in the food chain? 
+Clearly, we have to do a lot more research?
+    Dr. Murphy. Yes.
+    Chairman Peters. Maybe paint a picture for us, a little bit 
+of some of the things that keep you up at night as you think 
+about what could be happening.
+    Dr. Murphy. A lot keeps me up at night.
+    Chairman Peters. What keeps you up? I do not want get into 
+all of that.
+    Dr. Murphy. I mean, the PFAS issue, and then----
+    Chairman Peters. Oh, OK.
+    Dr. Murphy. It was actually, I think, long before we 
+started focusing on drinking water here in the United States, I 
+think Canada was focusing on the food web, and finding it in 
+concern with what they were finding; right? As a result, they 
+took that information and went to the Stockholm Convention on 
+Persistent Organic Pollution (sic), tried to declare some 
+global sort of policy toward these compounds. Yes, I am very 
+concerned about it, because we just do not know. As Ms. Knudsen 
+had presented, it is showing up in smelt, for example, and that 
+is not a typical place where we would find large quantities of 
+contaminants; right?
+    We do not know why it is showing up in smelt in such high 
+levels. Usually we would find it in something that is a top 
+predator. We do not know how it is moving.
+    We do not know how it is bioaccumulating. If there is 
+species specific differences, or it is the way that they are 
+living, or what they are eating, about why they are 
+accumulating. As a result, it is just open. We have to throw 
+all sorts of new tools at it that we just do not have right 
+now.
+    Chairman Peters. Yes. You noted in your comments that only 
+two of the PFAS contaminants have really been studied for 
+decades; PFAS and PFOA. But we know this is a class of 
+chemicals with thousands of those chemicals.
+    Dr. Murphy. Yes.
+    Chairman Peters. What recommendations would you have as to 
+where we might start to go beyond those two chemicals, and how 
+we focus?
+    Dr. Murphy. Yes, so there has been a lot of effort with the 
+EPA with this ToxCast program and high-throughput testing. I 
+think more of that has to be developed specific to PFAS. But it 
+has to be validated, and so it has to be a lot of investment in 
+actually, like, seeing if we have all these cells and receptors 
+and stuff being triggered by PFAS, but does that translate to 
+whole organism responses? Does it translate to whole 
+accumulation in the actual organism?
+    In order to do that, we need to start to develop new 
+technologies, new instruments, and approaches for the PFAS. We 
+are finding it operates a lot differently than most of the 
+typical contaminants, and so we have to cater our instruments 
+to be able to do that.
+    Chairman Peters. How does it work differently?
+    Dr. Murphy. They have a lot of very different properties. 
+But the thing is, it is like a polar side and a hydrophillic 
+side, and it binds the proteins, and inserts itself into 
+membranes; it does all these kind of strange properties. I 
+think it acts kind of like a general messer-upper. It hits a 
+whole bunch of different systems. It does not have a single 
+mode of action. That makes it harder.
+    Chairman Peters. I do not like general messer-uppers. So 
+clearly we have to deal with this.
+    Dr. Murphy. Yes.
+    Chairman Peters. That is the technical term from your 
+scientific record.
+    Dr. Murphy. There you go.
+    Chairman Peters. But it explains it very accurately. Thank 
+you for sharing that. Col. Minor, as a Wurtsmith veteran, you 
+have a very personal experience, which you have already shared 
+with the Committee, with the PFAS contamination.
+    But what do you think would be helpful for the Federal 
+Government to know to ensure that other servicemembers and 
+their families do not face some of the barriers that you 
+clearly faced in trying to get help, and the assistance that 
+you need to get through this very difficult situation you are 
+in?
+    Lt. Col. Minor. First off, we have not even arrived at the 
+point to where we can talk about barriers. Because I read in a 
+letter from the Air Force, I guess this past February, that 
+said there is no evidence that anybody drank PFAS water in any 
+real amounts at the base. I read something else that said, ``It 
+has been so long now, it is not even in their blood''; false on 
+both. We wrote a book, obviously, been in the ``No Defense'' 
+documentary, we are here today.
+    I have not had one contact with anybody in the Air Force 
+DOD, not one call. As a matter of fact, is there anybody 
+representing DOD here today? Yes. So the barrier is that we 
+first have to acknowledge that we exist. I would say that if we 
+can get through that barrier, then we can start having 
+meaningful conversations to help other veterans. I do see other 
+veterans that I have heard from Wurtsmith; I have read their 
+submissions to the VA, for example, and basically, they are 
+rebuffed because it is not a presumptive site.
+    There is a mother-may-I process, as you know, and so over 
+to you, and your colleagues, and then DOD, and I am willing to 
+talk to anybody. I am probably one of the three or four people 
+from Wurtsmith who actually have all the historical knowledge 
+on the mechanism of how veterans were contaminated; not only 
+veterans, but our families, and not only our families, but 
+unborn children, not only that, but all the civilians that were 
+working there. We are talking upwards of 50,000 people-plus 
+from 1982 to 1997.
+    I know we are all looking forward to talking about it being 
+in fish and all that kind of stuff. But we have to turn around 
+and look back at what is left over of that tsunami, and that is 
+actual people that are devastated, and the ones that are still 
+alive that are having difficulty getting through life.
+    Chairman Peters. We did have someone from the Department of 
+Defense confirmed to be on the first panel. Unfortunately last 
+night, we found out they had Coronavirus Disease 2019 (COVID-
+19), so they were not able to attend.
+    Lt. Col. Minor. Oh, OK.
+    Chairman Peters. Obviously we will continue to work closely 
+with them. We had the Department of Air Force here, as you 
+know, earlier as well. But you are absolutely right. We need to 
+be focused on the past as well. It is an effort we are 
+undergoing.
+    Right now, we have before the Senate legislation to deal 
+with the toxic burn pits that many of our servicemembers dealt 
+with in Afghanistan, in Iraq, and unfortunately it is taken 
+this long to get to where we are, but we are going to make some 
+real positive steps to help those veterans. We need to do the 
+same with these other substances as well. This is an important 
+step.
+    Your story is incredibly important, and I am sad to say 
+there are many stories like yours that are out there as well. 
+But we have to make sure those are heard, and that that we take 
+quick and effective action. You have my commitment we are going 
+to continue to do that.
+    But looking back, what would you recommend as ways to 
+better serve veterans and servicemembers and their families? 
+What would you like to see happen?
+     Lt. Col. Minor. The first step needs to be the Air Force 
+step up and own what happened on the Cold War battlefield. This 
+is what this is. We need to take care of our people in the 
+military, and our Air Force or DOD can't step behind the EPA or 
+ATSDR, or any other organization, to begin to help the veterans 
+that are laying all over the place, and so that would be the 
+first step.
+    Somehow the Air Force or DOD needs to engage the Veterans 
+Administration to, at least at the beginning of this thing, put 
+it on the presumptive list. If we wait for this whole CERCLA 
+process, and if we wait for epidemiological studies to ripen to 
+when everybody feels great--we do all those things, and the 
+years have passed, and no one is left, so we may as well not 
+bother to have this conversation.
+    We have enough knowledge now to know how bad this chemical 
+is. As a matter of fact, it was so bad that the very chemical 
+that I was exposed to from the firefighter foam was 
+discontinued 20 years ago. They did not discontinue it, a great 
+profit-maker, because all of a sudden it was not making money; 
+they did it because they discovered it was hurting people. When 
+you do epidemiological studies, you need people to actually be 
+harmed by this stuff. We do not want to have people get 
+poisoned by PFAS.
+    All this to say is that the next step I think is the VA 
+needs to get engaged. They can come talk to me.
+    I have spent a lot of time with them. I will share the 
+information that I have. Let us get this on the presumptive 
+list, just like Camp Lejeune, let us get this on some 
+congressional funding to take care of also the civilians, and 
+all the veterans' families, because we know the VA's mechanism 
+is only going to take care of folks like myself. The burn pit, 
+that happened after the PFAS, of course.
+    Chairman Peters. Right.
+    Lt. Col. Minor. Yes. The burn pit was on foreign soil, and 
+Agent Orange was on foreign soil, but this is on American soil. 
+We need to do something.
+    Chairman Peters. Yes. I totally agree.
+    Agent Orange was a long struggle, as you know.
+    Lt. Col. Minor. Yes.
+    Chairman Peters. Actually, this legislation dealing with 
+the burn pits also has some additional provisions for Agent 
+Orange, which happened a real long time ago. We need to step up 
+and make sure that we continue to move forward, and we will do 
+everything we can to make that a reality, particularly as 
+people become more aware of the devastating impact that this 
+has on families like yours and others similarly situated.
+    Lt. Col. Minor. Thank you, sir.
+    Chairman Peters. Ms. Wusterbarth, unfortunately you have 
+also faced this in very close-up and personal terms. As a 
+resident of Oscoda, the impact in your family, it is a story 
+that you shared already, it is incredibly important. Thank you 
+for doing that. But if you could tell the Committee about how 
+it affected the overall community. You have mentioned that. But 
+if you could tell us in a little bit more detail. People need 
+to put a human face on this crisis.
+    Certainly we have your story and the Colonel's stories, and 
+others, to do it. But it does not impact those directly 
+impacted; it is an entire community, one way or another. Could 
+you talk a little bit about the impact on the Oscoda area, 
+whether it is economic, the health issues, clearly the 
+environmental issues? There is so manyissues. What are the 
+people saying on the ground in Oscoda?
+    Ms. Wusterbarth. I really appreciate you asking.
+    Thanks. As you might suspect, people think that maybe their 
+property values are affected. We are a tourism city. We have, 
+lakes and rivers surrounding us.
+    It is a beautiful place to be, but we have foam forming on 
+those shores, so it is pretty scary for everyone involved.
+    Those are some of the, I would say, initial reactions. But 
+when you go to your doctor's office, and you are told you have 
+cancer, that is when it really hits home.
+    Chairman Peters. Right.
+    Ms. Wusterbarth. So many people in Oscoda, in that area, 
+are being diagnosed with cancers. You know that when that 
+happens, your livelihood is affected, your income is 
+threatened, your daily life is changed. We live in a rural 
+area. That means we have to travel for miles to receive 
+adequate treatment, and this could go on for months or years 
+even, or a lifetime. People are hurting because they are 
+dealing with the health issues related to this exposure. That 
+is the bottom line.
+    Chairman Peters. Yes, absolutely. You have been dealing 
+with the Air Force for a long time. You heard testimony here 
+today about actions that are being taken, but it has been many 
+years. What would you like the Air Force to start doing now?
+    Ms. Wusterbarth. I appreciate you asking that, too. It is 
+very difficult for us as community members to hear once again, 
+today, that there will be some commitments.
+    We are very doubtful. If you might be able to understand 
+that we have been at this for a very long time, and very little 
+of the promises that were made have come through. I did think 
+about this a little bit, and the first thing would be to open 
+those portals of information that I had had been talking about 
+earlier with the State. Then expanding opportunities for public 
+input on the plans and responses on that input in a timely 
+manner.
+    For instance, the Department of Defense did engage with the 
+National PFAS Contamination Coalition for some quarterly 
+meetings with some leaders throughout the Nation.
+    We posed them questions, such that Craig was referencing 
+one of the answers earlier, in terms of were, ``Were people 
+drinking out of that well?,'' or ``Were they affected by the 
+PFAS out of that well?'' Well, that particular meeting, it took 
+them three months to answer those questions by those community 
+members. That is not a timely response for a community 
+engagement.
+    Now, unfortunately, I suspect the attorneys had to look at 
+that, all of those responses, because they tread lightly when 
+dealing with us in determining what their answers are. But 
+those sorts of things are what we would like to see, more 
+readily available, is those responses to our questions. Last, 
+and most importantly, we want inclusion of the local leaders at 
+the base closure team meetings, which, by the way, has been 
+done in the past, and is allowable through the CERCLA process, 
+but they would not indicate that that was the case today.
+    Chairman Peters. Yes, we did not get that commitment today. 
+We got some other commitments.
+    Ms. Wusterbarth. No, we did not.
+    Chairman Peters. We will keep working on that.
+    That does not mean we give up. We keep working to move it 
+forward. When you hear of their discussion about communication 
+in the past versus what they promised, give me a sense of the 
+past communication, your experience of the Air Force over these 
+last few years in terms of working with the community.
+    Ms. Wusterbarth. So communication, of course, has been 
+difficult, because we have a new site manager about every two 
+years. If you think about how long we have been through this, a 
+U.S. Air Force type manager. It is up to the community members 
+to reeducate the U.S. Air Force every time one comes in, and 
+that is what we have taken on ourselves, and we are trying to 
+be patient with them. But we do have to reeducate them on what 
+the expectations are. I would like to explain, just a little 
+bit farther, as a community, we stood beside the DOD while the 
+base was in operation, and we continue for them to reciprocate 
+through a shift in how they approach the water crisis.
+    But it is our expectation to be respected for our voices 
+and our stories, and for our real suffering from toxic PFAS 
+contamination, and to be heard and learned from, and from our 
+expertise as residents to be valued. Now, we are fortunate that 
+I think I am accurate in saying that we have a dream team in 
+Oscoda. We have two former site managers working with us. We 
+have multiple attorneys; we have veterans; we have community 
+members that live in the area and have experienced these 
+things, and we can critically look at those plans, and we want 
+to be heard.
+    We have valuable information, and it should be used 
+immediately and through those remedial investigations.
+    We should have that information. We should be able to give 
+that feedback, just like John was saying that he noticed.
+    Chairman Peters. As we wrap up, I always like to ask folks 
+who have all had the experiences that you have had, if there is 
+one suggestion that you would want to make to the Federal 
+Government, this is an opportunity to do that on the record. 
+You have a lot of suggestions; we heard a lot. But it is always 
+kind of like prioritizing.
+    What is the first thing, top of mind, that we should know--
+--
+    Ms. Wusterbarth. All right.
+    Chairman Peters. [continuing]. We would hopefully be able 
+to as the MP, you can reiterate something someone else says as 
+well. Then I know that is really an issue if I have more than 
+one person saying, ``This is the No. 1 issue.'' But what would 
+you like to tell the Federal Government right now, and on the 
+record, and in an open forum, that--``Please get this done. 
+This is something that is really important if we are going to 
+deal with this crisis''? We can start wherever, yes.
+    Ms. Wusterbarth. Yes, if you do not mind, I would----
+    Chairman Peters. No, I know you want to answer that one so 
+I am going to----
+    Ms. Wusterbarth. There is new leadership in the Department 
+of Defense, so first and foremost, I would like them to take 
+the opportunity that will establish the former Wurtsmith Air 
+Force Base as a model, or a kitchen sink project, I think was 
+mentioned today; right? So we have, they need to take that 
+opportunity at Wurtsmith sothat it can be replicated to the 
+hundreds of other military installations throughout the U.S., 
+and I encourage theirefforts to do that. I also want them to 
+monitor and support the health of those affected by the 
+Department of Defense's PFAS contamination; monitor health. Get 
+blood tests.
+    Regardless of whether we can do anything about it at this 
+point, get those blood tests, like Craig did. Then last, create 
+true partnerships with communities starting fresh, I would say, 
+with an apology from the Department of Defense to communities.
+    Chairman Peters. Very good. Whoever wants to be next. 
+Colonel?
+    Lt. Col. Minor. Yes. I would say quit ghosting your 
+military folks from the past. This contamination happened, and 
+we need to have the Federal Government step up and do whatever 
+it takes to start taking care of the people that are affected 
+by this. I want to say that our family, we do not want 
+anything; there is not a thing we want. It has taken care of us 
+exceeding well.
+    But I know, and I have talked to veterans out there, just 
+amazing struggles that you would not believe, and you look at 
+the struggles that they have, and they line right up with what 
+we already know is PFAS health problems. They need help. Come 
+talk to me, and let us get this done. Thank you.
+    Chairman Peters. Thank you. Dr. Murphy.
+    Dr. Murphy. I would suggest that we would need to coalesce 
+and coordinate our efforts at both the State and Federal 
+levels, create research hubs across the country with 
+researchers collected for specific areas. We need to entice 
+researchers with other skills into studying PFAS, because we 
+need their expertise to solve the problem. Coordination will 
+allow us to quickly respond to emergency research needs.
+    For example, contaminated food supply, or a farm, or a 
+drinking water issue. But it would also maintain focus so that 
+we can continue to make headway on developing the new tools and 
+technologies and knowledge for these chemicals to find 
+solutions quickly. We want to be able to have these research 
+clubs--hubs, so that they coordinate and work collaboratively 
+instead of competitively.
+    Chairman Peters. Wonderful. Ms. Knudsen.
+    Ms. Knudsen. I would like to ask that the Committee take 
+the time to speak to the other 11 federally recognized 
+sovereign tribes in Michigan. We do work with the Federal 
+Government on a Nation-to-Nation basis. EveryIndigenous 
+community is unique. But I think you would find that a lot of 
+Indigenous communities in Michigan are facing similar issues 
+with the impedance on our Treaty Rights for our sustenance, 
+fishing; those are real, legal issues. I would encourage you to 
+speak to the other tribes as well.
+    Chairman Peters. Very well. Ms. Hendershott.
+    Ms. Hendershott. Thank you. I think the biggest thing that 
+I would like to say to the Federal Government is that the 
+science is going to continue to evolve, but the public needs to 
+know that the polluters are going to be held accountable, and 
+the public health is being prioritized with standards to 
+enforce the State and Federal--if there becomes Federal 
+regulations. How do we do that? Going forward, what I would 
+like to ask for is that the Federal Government set up an MPART-
+like structure.
+    Let the States be a part of that structure. Let the States 
+have a seat at the table with the Federal Government to discuss 
+these collaboration and coordination issues that are going to 
+directly effect the States. I would also like to be a part of 
+the conversations as they go to set standards, because these 
+are very complicated, complex issues that have broad-reaching 
+effects.
+    Setting a CERCLA designation is going to have far-reaching 
+effects for many of our sites in the State, as well as other 
+cleanup efforts. We really need to be a part of those 
+conversations, and so I would ask that we be able to 
+participate and have a seat at the table with the Federal 
+agencies as they go to set up this new structure.
+    Thank you.
+    Chairman Peters. Very good. Thank you.
+    Thank you, and thank you to all of our witnesses.
+    Thank you for your testimony here today, and for 
+contributing to today's discussion. Clearly it is a discussion 
+we are going to continue to have for months and years in the 
+future, and your active involvement really will make a 
+difference, so thank you for that.
+    It is clear that the scope and the scale of the PFAS 
+contamination here in Michigan, as well as across the country, 
+is going to require a whole-of-government approach, and fully 
+addressing this problem will require both at the Federal level, 
+we are going to have to have both interagency, 
+intergovernmental cooperation, and the information that we got 
+here today will be essential for us to get that effective 
+policy response.
+    Be most assured what I have learned here today will go back 
+to Washington D.C. We will inform legislation that we have 
+before us in the Senate now and we will hopefully move through 
+the full Congress, as well as others that will be drafted. It 
+is also about pushing our Federal agencies to keep working hard 
+and to create the sense of urgency with them that this crisis 
+demands, as we have heard here loud and clear. But we will not 
+give up. We are going to keep the fight. The people in our 
+communities deserve the attention of the full force of the 
+Federal Government, and our government to address this issue.
+    The record for this hearing is going to remain open for 15 
+days, until 5 p.m.. on August 16, 2022, for the submission of 
+statements and questions of the record. I will be entering into 
+the record ``PFAS Contamination at the Former Wurtsmith Air 
+Force Base: The True Story,'' will be entered into the official 
+record.\1\
+---------------------------------------------------------------------------
+    \1\ The statement referenced by Senator Peters appears in the 
+Appendix on page 120.
+---------------------------------------------------------------------------
+    With that, this hearing is now adjourned.
+    [Whereupon, at 12:47 p.m., the hearing was adjourned.]
+
+                            A P P E N D I X
+
+                              ----------                              
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+
+                                 [all]
+

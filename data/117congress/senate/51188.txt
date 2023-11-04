@@ -1,0 +1,2092 @@
+
+ - DISASTER RECOVERY ASSISTANCE: AUTHORIZATION OF THE COMMUNITY DEVELOPMENT BLOCK GRANT-DISASTER RECOVERY PROGRAM
+
+[Senate Hearing 117-594]
+[From the U.S. Government Publishing Office]
+
+
+                                                       S. Hrg. 117-594
+
+
+                 DISASTER RECOVERY ASSISTANCE: AUTHORIZA-
+                   TION OF THE COMMUNITY DEVELOPMENT 
+                   BLOCK GRANT-DISASTER RECOVERY PROGRAM
+
+=======================================================================
+
+                                HEARING
+
+                              BEFORE THE
+
+                              COMMITTEE ON
+                   BANKING,HOUSING,AND URBAN AFFAIRS
+                          UNITED STATES SENATE
+
+                    ONE HUNDRED SEVENTEENTH CONGRESS
+
+                             FIRST SESSION
+
+                                   ON
+
+ EXAMINING THE AUTHORIZATION OF THE COMMUNITY DEVELOPMENT BLOCK GRANT-
+                       DISASTER RECOVERY PROGRAM
+
+                               __________
+
+                           DECEMBER 15, 2021
+
+                               __________
+
+  Printed for the use of the Committee on Banking, Housing, and Urban 
+                                Affairs
+                                
+[GRAPHIC NOT AVAILABLE IN TIFF FORMAT]                                
+
+
+                Available at: https: //www.govinfo.gov /
+
+                             __________
+
+                                
+                    U.S. GOVERNMENT PUBLISHING OFFICE                    
+51-188 PDF                 WASHINGTON : 2023                    
+          
+-----------------------------------------------------------------------------------     
+
+            COMMITTEE ON BANKING, HOUSING, AND URBAN AFFAIRS
+
+                     SHERROD BROWN, Ohio, Chairman
+
+JACK REED, Rhode Island              PATRICK J. TOOMEY, Pennsylvania
+ROBERT MENENDEZ, New Jersey          RICHARD C. SHELBY, Alabama
+JON TESTER, Montana                  MIKE CRAPO, Idaho
+MARK R. WARNER, Virginia             TIM SCOTT, South Carolina
+ELIZABETH WARREN, Massachusetts      MIKE ROUNDS, South Dakota
+CHRIS VAN HOLLEN, Maryland           THOM TILLIS, North Carolina
+CATHERINE CORTEZ MASTO, Nevada       JOHN KENNEDY, Louisiana
+TINA SMITH, Minnesota                BILL HAGERTY, Tennessee
+KYRSTEN SINEMA, Arizona              CYNTHIA LUMMIS, Wyoming
+JON OSSOFF, Georgia                  JERRY MORAN, Kansas
+RAPHAEL WARNOCK, Georgia             KEVIN CRAMER, North Dakota
+                                     STEVE DAINES, Montana
+
+                     Laura Swanson, Staff Director
+
+                 Brad Grantz, Republican Staff Director
+
+                       Elisha Tuku, Chief Counsel
+
+                Corey Frayer, Professional Staff Member
+
+                 Dan Sullivan, Republican Chief Counsel
+
+                      Cameron Ricker, Chief Clerk
+
+                      Shelvin Simmons, IT Director
+
+                    Charles J. Moffat, Hearing Clerk
+
+                      Jason T. Parker, GPO Detail
+
+                                  (ii)
+
+
+                            C O N T E N T S
+
+                              ----------                              
+
+                      WEDNESDAY, DECEMBER 15, 2021
+
+                                                                   Page
+
+Opening statement of Chairman Brown..............................     1
+        Prepared statement.......................................    23
+
+Opening statements, comments, or prepared statements of:
+    Senator Toomey...............................................     3
+        Prepared statement.......................................    24
+
+                               WITNESSES
+
+Michael A. Sprayberry, Senior Advisor for Emergency Management, 
+  Hagerty Consulting.............................................     6
+    Prepared statement...........................................    25
+    Responses to written questions of:
+        Senator Sinema...........................................    44
+Matt Mayer, President, Opportunity Ohio..........................     7
+    Prepared statement...........................................    27
+    Responses to written questions of:
+        Senator Toomey...........................................    44
+Carlos Martin, Rubenstein Fellow, Metropolitan Policy Program, 
+  Brookings Institution..........................................     7
+    Prepared statement...........................................    31
+    Responses to written questions of:
+        Senator Warren...........................................    45
+
+              Additional Material Supplied for the Record
+
+Letter submitted by the Bipartisan Policy Center.................    47
+Letter submitted by the Disaster Housing Recovery Coalition......    50
+
+                                 (iii)
+
+ 
+     DISASTER RECOVERY ASSISTANCE: AUTHORIZATION OF THE COMMUNITY 
+           DEVELOPMENT BLOCK GRANT-DISASTER RECOVERY PROGRAM
+
+                              ----------                              
+
+
+                      WEDNESDAY, DECEMBER 15, 2021
+
+                                       U.S. Senate,
+          Committee on Banking, Housing, and Urban Affairs,
+                                                    Washington, DC.
+    The Committee met at 10:03 a.m., via Webex and in room 538, 
+Dirksen Senate Office Building, Hon. Sherrod Brown, Chairman of 
+the Committee, presiding.
+
+          OPENING STATEMENT OF CHAIRMAN SHERROD BROWN
+
+    Chairman Brown. The Senate Committee on Banking, Housing, 
+and Urban Affairs will come to order.
+    This hearing is in a hybrid format. Our Members will be 
+here both in person--Senator Rounds and the Ranking Member are 
+here now. Others will be joining online.
+    The witnesses are all appearing virtually. I think we had 
+to because of Senator Dole's--the celebration of his life last 
+week. We had to change the hearing date. So some that were 
+going to join us in person could not.
+    So for those who have done this, the witnesses, once you 
+start speaking, there will be a slight delay before you are 
+displayed on the screen. To minimize background noise, please 
+click the mute button until it is your turn to speak or ask 
+questions. You should have a box on your screen labeled 
+``clock'' that will show how much time is remaining. At 30 
+seconds, you will hear a beep, then when your time is up. So 
+stick to the 5 minutes, please, if you can. Any technology 
+issue, Cameron and all of us will move to the next witness 
+until he can resolve it.
+    As we are here in a hybrid format, our speaking order, as 
+always, will be by seniority of the Members who checked at the 
+gavel either in person or online. So then we go back and forth 
+by party.
+    This morning the Banking, Housing, and Urban Affairs 
+Committee looks at the authorization of the Community 
+Development Block Grant-Disaster Recovery program known as, 
+sorry for the acronyms, CDBG-DR.
+    We meet today in the wake of devastating tornadoes that 
+have taken the lives of more than 80 people, torn apart 
+families, destroyed homes and businesses and infrastructure 
+across multiple States, including Kentucky, Illinois, and our 
+colleague, our new colleague, Senator Hagerty's State of 
+Tennessee. We have heard heartbreaking and infuriating stories, 
+lives torn apart, workers put in danger, unnecessarily 
+apparently. I want to express my sincere condolences to the 
+families and communities affected by these storms.
+    Even before this weekend's tragic events, we had already 
+seen 18 natural disasters; 538 people lost their lives in 
+calendar year 2021; losses exceeded a billion dollars. From 
+drought to flooding to severe storms, from wildfires to 
+tropical cyclones to winter storms, these events touched all 
+kinds of communities across the country, homes and businesses 
+destroyed, local economies devastated.
+    None of our States are immune. The people of Dayton and 
+Trotwood are still working to recover from tornadoes that 
+destroyed their neighborhoods in 2019. Senators Menendez' and 
+Kennedy's States, though, more than 1,000 miles apart, were 
+both devastated by Hurricane Ida this summer.
+    With a changing climate and, frankly, Congress' failure to 
+do much about addressing that climate change, our country will 
+continue to face extreme weather events and natural disasters. 
+We must be better prepared to recover from these disasters 
+quickly, efficiently, and equitably. We must rebuild to make 
+our homes and communities more resilient in the future.
+    Today's hearing will look at the critical role CDBG-DR 
+plays in offering disaster relief and long-term recovery 
+assistance to communities affected by disasters. We will 
+discuss how we can improve that aid, I hope, through a 
+permanent authorization of the program. Since 1993, Congress 
+has provided $95 billion--with a ``b''--95,000 million 
+dollars--in disaster relief, recovery assistance to States and 
+territories and communities through supplemental CDBG-Disaster 
+Recovery appropriations. The aid is particularly critical to 
+low-income and middle-class families usually hit the hardest by 
+natural disasters and always have the fewest resources to fight 
+back.
+    While Congress has relied on CDBG-DR to provide flexible, 
+long-term recovery assistance to communities in need, we have 
+never provided a permanent authorization for this program. 
+CDBG-DR is a valuable tool in the Federal response--Federal 
+disaster response tool kit to help communities across the 
+country pick up the pieces and rebuild following disasters. The 
+program has helped families and communities address needs that 
+have been unmet by insurance and Federal assistance from FEMA 
+and the SBA.
+    But as valuable as this aid has been, we have also heard 
+from survivors and from State and local governments, GAO, HUD, 
+and others that we can and should do better. In the absence of 
+a permanent, long-term or permanent authorization, HUD must 
+issue new regulations with each appropriation. We have heard 
+the delays and lack of predictability stemming from the 
+process, delays in getting assistance out to families, 
+communities prevented from doing the kind of early planning 
+that would be most effective, confusion created for States and 
+localities and families over what resources are available.
+    Think about what these families deal with. Your home has 
+been flooded. The business your family built for two 
+generations was destroyed. You are trying to deal with 
+insurance claims. Bills are piling up. Debt collectors are 
+calling. Just getting day to day through your personal life, 
+the last thing you want to do is deal with more delays, more 
+red tape, more confusion. That is where we come in to fix that.
+    Variations in appropriations and regulatory requirements 
+between disasters can impose administrative and operational 
+challenges for HUD and grantees, particularly smaller 
+communities or those administering multiple grants, and hinder 
+efforts to build capacity. We must do more to ensure that the 
+most vulnerable members of our community are not displaced and 
+they can help their community recover.
+    In response to recommendations from GAO, HUD, and others, 
+Republican Senators Collins and Young, Democratic Senators 
+Schatz, Van Hollen, and Tester have offered S. 2471 to 
+authorize and improve this program, something that should be an 
+opportunity for bipartisan, commonsense solutions, how we make 
+Government more efficient, actually do the job it is supposed 
+to do for the people whom we serve.
+    We will hear from our witnesses about authorizing CDBG-DR, 
+how authorizing the program could help our communities recover 
+and deliver resources in a more timely, effective, and 
+equitable manner.
+    And without objection, Senator Toomey, I would like to 
+enter into the record a letter from the Disaster Housing 
+Recovery Coalition in support of 2471. Without objection, so 
+ordered.
+    Chairman Brown. Senator Toomey.
+
+         OPENING STATEMENT OF SENATOR PATRICK J. TOOMEY
+
+    Senator Toomey. Thank you, Mr. Chairman. I, too, want to 
+start off by acknowledging the horrific destruction that we 
+witnessed over the weekend in Kentucky. I saw a headline this 
+morning that 12 children were among the 74 killed by that 
+storm. Of course, the death toll is expected to only rise in 
+the coming days. It is just unbelievably tragic news. My heart 
+goes out to the families who are experiencing this devastating 
+loss of their lives, their families. All of our thoughts are 
+with them.
+    I would suggest that today's hearing is about HUD's 
+Community Development Block Grant-Disaster Recovery program or 
+the CDBG-DR. This is about something different. Since 1993, 
+Congress has spent nearly $90 billion through CDBG-DR to 
+support disaster recovery efforts. Initially, CDBG-DR was used 
+in rare cases when the billions of dollars that Congress spent 
+annually on disaster recovery through other programs was 
+considered insufficient to meet the needs of serious disasters.
+    Unfortunately, since Superstorm Sandy in 2012, CDBG-DR 
+spending has become routine. In the past 4 years alone, we have 
+appropriated almost $40 billion for CDBG-DR. And we have done 
+this though billions of CDBG-DR funds appropriated for prior 
+disasters, including the 9/11 attacks and disasters that 
+occurred more than a decade ago, remain with grantees and 
+remain unspent. So I worry that making CDBG-DR a permanent 
+program without a more comprehensive review of disaster 
+assistance will only ensure that this wasteful trend continues.
+    In my view, we ought to be discussing whether such spending 
+through HUD is appropriate in the first place, not making it 
+permanent, because we already have an agency whose sole mission 
+is ``to help people before, during, and after disasters.'' That 
+agency is called FEMA. Through the normal appropriations 
+process, Congress provides billions every year to FEMA and 
+other agencies so that the Federal Government can provide 
+assistance to support communities struck by disaster.
+    In addition to those regular channels, Congress makes 
+emergency supplemental disaster appropriations almost every 
+single year. Let us consider some key examples of existing 
+programs. The Army Corps of Engineers and FEMA deploy boots on 
+the ground to help survivors and repair damage to communities. 
+FEMA funds repairs and replacement of homes for displaced 
+families; Small Business Administration does as well, including 
+replacement of personal property. Given all of this support, 
+why do we also need CDBG-DR?
+    Now theoretically, CDBG-DR is supposed to support longer 
+term recovery needs that are not met by other sources, and I 
+acknowledge there may be some circumstances where it is useful 
+for the Federal Government to help meet those needs. But we 
+need to remember that States and local governments are 
+primarily responsible for addressing these needs. Currently, 
+States and local governments are not lacking for financial 
+resources at all. In 2020, State and local tax collection set 
+an all-time record. On top of their record tax collections, 
+Congress sent another $900 billion to State and local 
+governments for COVID relief over the course of the year. This 
+included $5 billion specifically for CDBG, a significant 
+portion of which remains unspent and is available for purposes 
+such as disaster relief.
+    And then in November, Congress just passed a $1.2 trillion 
+infrastructure bill that will send billions more dollars to 
+State and local governments while States are sitting on record 
+budget surpluses and have more money on the way now thanks to 
+this recently passed bill. Why shouldn't they plan and save 
+some of that money for long-term disaster recovery and 
+mitigation?
+    We also should not ignore the fact that CDBG-DR has long 
+been plagued by waste, fraud, and abuse through the years. Let 
+us consider some examples of that waste. Two years after 
+Hurricane Katrina hit, HUD allowed Louisiana to use CDBG-DR 
+funds to pay college professors stipends to stay in the State 
+post-Katrina because that was an urgent need activity. In 
+Mississippi, HUD allowed a county to use $9.6 million CDBG-DR 
+funds to build a wastewater treatment facility for an 
+undeveloped plot of land where nobody lived. As bad as these 
+cases of waste are, the examples of fraud in the CDBG-DR may be 
+even worse.
+    HUD's Inspector General has repeatedly identified and 
+referred for prosecution cases of fraud and abuse in CDBG-DR, 
+including public corruption, embezzlement, bid rigging, 
+bribery, and kickback schemes. So given this track record, it 
+makes one wonder how well does HUD respond to fraud risks in 
+the CDBG-DR program?
+    Well, we know the answer to that. This year, HUD officials 
+admitted to GAO that HUD, and I quote, does not consider fraud 
+risks in programs managed by grantees to be direct risks to HUD 
+itself, end quote. In other words, HUD's responsibility to root 
+out fraud ends when it sends CDBG-DR money to States. Well, 
+that is concerning since Congress recently appropriated nearly 
+$20 billion through CDBG-DR to Puerto Rico that the Biden 
+administration has been eager to quickly distribute to a 
+Government with rampant fiscal mismanagement, to say the least.
+    Today we will hear from Matt Mayer, a former DHS official 
+and an expert on disaster recovery, who has concerns with 
+proposals to permanently authorize the CDBG-DR program. As Mr. 
+Mayer notes, the over-Federalization of disaster assistance for 
+virtually every disaster has allowed States to just reduce 
+their own emergency management programs, knowing that Federal 
+taxpayers will be forced to bail them out. He also sensibly 
+notes that Congress should step back and consider whether it 
+should continue to Federalize virtually all long-term disaster 
+recovery well after the crisis has passed since that has 
+traditionally been a State and local function.
+    I look forward to hearing from today's witnesses about the 
+CDBG-DR program. I recognize that improvements are needed in 
+how the Federal Government provides disaster assistance, but 
+for the reasons I have mentioned I am concerned that creating a 
+permanent authorization for the CDBG-DR program is not the 
+right way to go. As President Reagan wisely noted, Government 
+programs are the nearest thing to eternal life we will ever see 
+on this earth. So we should tread carefully before we create a 
+new one.
+    Chairman Brown. Thank you, Senator Toomey.
+    I will introduce the three witnesses, all remote, calling 
+from, I assume, their homes or offices. Mr. Michael Sprayberry 
+joins us from North Carolina. He is a Senior Advisor for 
+Emergency Management at Hagerty Consulting, previously served 
+in emergency management roles in the State of North Carolina 
+for 42 years. He led the State emergency response teams' 
+recovery efforts through State and federally declared 
+disasters. He served as President of the National Emergency 
+Management Association from 2017 to '18.
+    Mr. Sprayberry, welcome.
+    Mr. Matt Mayer is the President of Opportunity Ohio in my 
+State and is joining us remotely from our home State. Prior to 
+his current position, Mr. Mayer has written on national 
+security issues as a visiting fellow with the American 
+Enterprise Institute and a visiting scholar for the Heritage 
+Foundation. Mr. Mayer also serves as a senior official at the 
+U.S.--served, past tense, as a senior official at the U.S. 
+Department of Homeland Security under Secretaries Ridge and 
+Chertoff.
+    Mr. Mayer, welcome.
+    Dr. Carlos Martin is joining us remotely also. He is a 
+fellow at the Brookings Institute and Director of the 
+Remodeling Futures Program at Harvard's Joint Center for 
+Housing Studies. Dr. Martin previously led the Urban 
+Institute's Built Environment practice area, leading all 
+research on energy efficiency, climate adaptation, 
+environmental governance, the housing industry, and 
+construction regulations.
+    Thanks to all three of you for joining. Again, apologies 
+for moving the hearing from last week to this morning.
+    Each of you will speak for 5 minutes, and then you will 
+take questions. We will start with you, Mr. Sprayberry.
+
+    STATEMENT OF MICHAEL A. SPRAYBERRY, SENIOR ADVISOR FOR 
+            EMERGENCY MANAGEMENT, HAGERTY CONSULTING
+
+    Mr. Sprayberry. Good morning, Chairman Brown, Ranking 
+Member Toomey, and Members of the Committee. My name is Mike 
+Sprayberry, and I am the Senior Advisor for Emergency 
+Management with Hagerty Consulting, Incorporated, a firm which 
+specializes in emergency management and disaster recovery. I 
+appreciate the opportunity to appear today to discuss and 
+support permanent authorization for the Community Development 
+Block Grant-Disaster Recovery program administered by the U.S. 
+Department of Housing and Urban Development.
+    Prior to joining Hagerty 2 months ago, I served the State 
+of North Carolina for 15 years in leadership roles with the 
+State's Division of Emergency Management, including 8 years as 
+Director, while also leading the State's Office of Recovery and 
+Resiliency and serving as the State's Deputy Homeland Security 
+Advisor. I also served as President of the National Emergency 
+Management Association in 2017 and '18. In this context, I 
+gained familiarity with both the value of the CDBG-DR program 
+as well as the difficulties in deploying that funding.
+    Since 2017, North Carolina received more than $778 million 
+in the CDBG-DR funding plus $202 million in CDBG mitigation 
+funding in response to Hurricanes Matthew and Florence. That 
+funding has enabled a stronger focus on housing recovery needs 
+and has assisted low and moderate-income populations that have 
+the fewest resources to recover.
+    At the same time, the lack of a permanent authorization for 
+CDBG-DR has hampered its effectiveness. The most critical issue 
+is the ad hoc nature of CDBG-DR due to the lack of a formal 
+statutory and regulatory structure. This fact contributes to 
+unnecessary delays across the board, delays in Federal 
+appropriation, delays in HUD's allocation process, delays in 
+developing Federal Register notices that govern the use of the 
+funds, and ultimately, delays in delivering assistance to 
+disaster survivors and impacted jurisdictions. My written 
+statement cites how, after Florence made landfall in September 
+2018, it took 500 days for HUD to publish a Federal Register 
+notice governing available CDBG-DR assistance. While the 
+process will never be instantaneous, timelines can 
+significantly be reduced with permanent authorization.
+    Let me also make the important case for small CDBG-DR 
+planning allocations shortly after a major disaster is 
+declared. This step would provide a clear message to 
+jurisdictions that further assistance is likely and that 
+implementation efforts should be launched to prepare for that 
+possibility. Again, actions of this nature should be viewed as 
+helping to reduce the overall time it will take households and 
+communities to recover from disaster events.
+    I am aware that there are concerns as to whether CDBG-DR 
+should be authorized on a permanent basis. As we evaluate those 
+concerns, we can see the reality of 32 appropriations totaling 
+$95 billion over the past 3 decades. These facts seem 
+instructive that CDBG-DR is likely to be funded in the future 
+and it would be valuable in delivering aid to disaster 
+survivors if that funding were deployed more effectively. 
+Permanent authorization of CDBG-DR is a large step in that 
+direction, and for that reason I would support enactment of 
+Senate 2471, the Reforming Disaster Recovery Act.
+    Thank you for this opportunity, and I look forward to 
+addressing your questions.
+    Chairman Brown. Thank you, Mr. Sprayberry.
+    Mr. Mayer is with us from Ohio. Mr. Mayer, welcome.
+
+      STATEMENT OF MATT MAYER, PRESIDENT, OPPORTUNITY OHIO
+
+    Mr. Mayer. Thank you, Chairman Brown, Ranking Member 
+Toomey, and Committee Senators. Thank you for the opportunity 
+to appear before the Committee to testify on the issue before 
+us today. My name is Matt Mayer. I am President of Opportunity 
+Ohio. In lieu of reading my statement, written statement, and 
+taking all of my 5-minute allocation, I will briefly summarize 
+my concerns with the legislation and leave more time to answer 
+any questions you might have for me.
+    My largest concern with the proposed legislation is that it 
+continues the Federalization of natural disasters that started 
+in 1993 and has accelerated each decade as more natural 
+disasters that used to be considered inherently State and local 
+disasters have received Federal declarations and, therefore, 
+Federal funding.
+    Secondarily, it creates a permanent program, including 
+permanent staff and regulatory control, outside of the Federal 
+Emergency Management Agency to deal with elements following a 
+natural disaster, which I believe causes delays, gaps, 
+inefficiencies, and waste.
+    Another concern is that my research has shown that Federal 
+funds tend to supplant, rather than supplement, State and local 
+funds which is what occurred with Homeland Security grants 
+following 9/11.
+    Finally, the well-established patterns of where natural 
+disasters occur results in the vast majority of States 
+subsidizing States where the bulk of FEMA-HUD funding flows, 
+which is inequitable to State--to taxpayers in, quote, safer 
+States.
+    Thank you for the opportunity to testify to this Committee. 
+Please let me know if there is anything I can do as you debate 
+the proposed legislation. Thank you.
+    Chairman Brown. Thank you. It is good to see somebody from 
+Ohio come in way under the time limit. We are usually not that 
+good. So it does not happen every time.
+    Dr. Martin, welcome. Thank you for joining us.
+
+  STATEMENT OF CARLOS MARTIN, RUBENSTEIN FELLOW, METROPOLITAN 
+             POLICY PROGRAM, BROOKINGS INSTITUTION
+
+    Mr. Martin. Good morning and thank you, Chairman Brown and 
+Ranking Member Toomey and Members of the Committee, for this 
+opportunity to present my findings from my research. The views 
+expressed are my own and should not be attributed to any of the 
+institutions, the research organizations, with which I have 
+collaborated.
+    So my work explores many aspects of CDBG-DR, and there are 
+several findings that I can share today. Among the most 
+critical is simply that CDBG-DR works. It fills the needs that 
+remain after a disaster and after other assistance is 
+exhausted. These are needs that persist particularly for 
+residents that cannot recover on their own.
+    My work shows that disasters have a long-term negative 
+financial impact on the housing and the household finances of 
+survivors for years after the event. Without assistance, that 
+impact is longer and deeper. The depth of impact holds true 
+across jurisdictions regardless of their size or populations or 
+the severity of disaster damages or of the political 
+composition of their State and local leaders. CDBG-DR has made 
+a qualitative and quantitative difference in many survivors' 
+lives.
+    That does not mean there is not room for improvement. HUD 
+CPD has been forthcoming with regards to the improvements 
+identified by staff and from past and current grantees, and 
+they have acted on them. One study I conducted for HUD's Policy 
+Development and Research Office noted an increased speed in 
+HUD's process over a decade of disasters beginning with 
+Hurricane Katrina in 2005. I believe that HUD has squeezed out 
+many improvements in the process under its staff purview, that 
+is, after congressional appropriations. And as you know, these 
+are special appropriations, and they often lead to change in 
+program rules that lead to delays and uncertainty for the 
+survivor communities and complexity for the local officials.
+    Remaining opportunities exist for consistency, for 
+efficiency and speed, for comprehensively serving the most 
+severely affected communities and households, and for 
+monitoring compliance with all Federal statutes.
+    On the first count, CDBG-DR's lack of permanent statutory 
+authority has impeded consistency. Codifying the program could 
+yield consistent rules, standardized and more sophisticated 
+reporting and recordkeeping, and more uniform technical 
+assistance offerings. There are also benefits for HUD and its 
+grantees in their planning and timing from the consistency 
+established through permanent authorization.
+    Next, speed is impeded by the uncertainty and delayed 
+access to funds. In my study, the length of time between the 
+disaster and HUD's allocation, that is the Federal activity 
+before State and local grantees are directly involved, shapes 
+the time after in which grantees design, launch, and ramp up 
+their programs. I have encountered numerous cases of 
+jurisdictions being unable to plan, act, and inform households 
+of their options because of the lack of knowing whether and 
+when funds would come. This omission leads to suboptimal 
+recovery for everyone. Efficient and early resources and 
+knowledge make a difference in lives and livelihoods.
+    HUD's general CDBG program has a requirement to serve low 
+to moderate-income households. That could be pursued even more 
+deeply with permanently authorized CDBG-DR. Our research shows 
+that survivor households continue to slip through the cracks 
+because they lack the resources to wait or to absorb delay or 
+change. Extremely low-income households and low to moderate 
+income renters are particularly vulnerable. These groups suffer 
+from even modest financial hits and personal damages. They 
+could benefit from other changes I have already mentioned 
+simply because clearer roles and faster funding can help 
+jurisdictions catch them before they slip through the cracks.
+    But with these changes, there is an increased 
+responsibility to make it easier for the most vulnerable to 
+apply, qualify, and access assistance. So last, HUD and its 
+grantees could aggressively expand the robust, consistent, and 
+transparent data about the household beneficiaries once given 
+the breathing space of permanent authorization and early fund 
+disbursals. Ensuring that data gaps are filled will help HUD 
+and the Federal Government confirm that grantees will both use 
+funds effectively and in ways that target households with the 
+most severe and ongoing vulnerabilities.
+    CDBG-DR serves as a bridge between the immediate crisis and 
+long-term community development. Yet, that bridge has been 
+temporary and ephemeral without the stability of statutory 
+program authorization or the security of resources to let 
+households and communities decide their path to becoming whole. 
+Future disasters are certain. We must respond with equal 
+certainty and purposeful clarity.
+    Thank you for your attention.
+    Chairman Brown. Thank you, Dr. Martin.
+    I will start with Mr. Sprayberry. Thank you for your 
+comments. I especially appreciate--and I mentioned it to the 
+Ranking Member--what you said about the ad hoc situation and 
+the problems that causes. From your experience in North 
+Carolina, how would authorization of CDBG-DR, for which you 
+advocate, how would it help deliver efficient and effective 
+disaster assistance to survivors contrasted with what we do 
+now?
+    Mr. Sprayberry. Yes, sir, and thank you for that question. 
+So you know, it will allow States to effectively plan to 
+receive the funds, and that is critical. You know, if it is 
+codified and we know that it is coming, the team can begin 
+planning. We know that is going to reduce delays in the 
+implementation. As I mentioned, during Hurricane Florence, we 
+waited for 500 days before we got our Federal Register notice, 
+and so that was--you know, when you have people standing by, I 
+mean, to get that type of information, it slows everything up. 
+So I think that that would help us out.
+    I think also we want to talk about establishing a front-end 
+fund for CDBG-DR, a mechanism so that we can begin to procure 
+staffing and have contracts in place so that when the funding 
+is actually allocated from HUD and hits the State we are well 
+prepared to basically pivot and start getting that money to the 
+people that need it most when disasters----
+    Chairman Brown. Did that--so sorry to interrupt. Did that 
+500 days--did that surprise you, or we see that everywhere more 
+or less?
+    Mr. Sprayberry. It surprised me, sir. And so I can tell you 
+that in Hurricane Matthew we were hit in October. I think the 
+8th and 9th of October. Congress appropriated the funding in 
+December, and we got the Federal Register in January. And so 
+that was just a couple of months. And we were not prepared for 
+Florence which was our storm of record in North Carolina. Go 
+ahead.
+    Chairman Brown. It is so clear to me, listening to you, Mr. 
+Sprayberry, and listening to the other two witnesses, that 
+communities could use help in thinking through long-term 
+housing and community recovery needs and we do better when we 
+have a Federal law sort of directing as we, I would hope, could 
+write it bipartisanly, as we direct this agency and others on 
+what to do.
+    Let me shift to Dr. Martin. Based on your research, Dr. 
+Martin, what policy changes through authorization could ensure 
+that HUD disaster recovery dollars are distributed more 
+equitably, more quickly, to the hardest by these natural 
+disasters?
+    Mr. Martin. Certainly. And we are talking about different 
+pieces of what a permanent authorization allows, right? One is 
+the actual knowing that there is going to be resources coming 
+down and the actual amounts of the resources and the program 
+rules. And all of these expedited and clear, with clear 
+expectations on the State and local grantees, will be able to 
+make much more robust, much more clearly addressing the most 
+vulnerable communities in their regions that are affected. And 
+that is particularly true of the most vulnerable, extremely 
+long term folks that you are asking me about.
+    I think in particular those folks are the least likely to 
+be able to survive waiting for a longer period. They are the 
+ones who slip the cracks. And so the earlier and more 
+consistent amount of funding the easier it is for State and 
+local grantees to target and do outreach for those communities 
+to ensure that they are applying and that they are eligible for 
+the assistance that they are due.
+    Chairman Brown. Thank you. Let me pursue that. As you know, 
+this Senate for the last 10 months is known in part for 
+actually addressing issues of poverty. The child tax credit, 90 
+percent of families in my State with children under 18 getting 
+at least a $3,000 tax cut--at least a $3,000 tax cut--and that 
+is life changing for so many.
+    We know prepandemic--you mentioned a moment ago, renters. 
+Prepandemic, 25 percent of renters in this country paid more 
+than half their income in rent. One thing goes wrong. 
+Forgetting a natural disaster. Put that aside. But one thing 
+goes wrong, and their life turns upside down. Their car breaks 
+down. Their child gets sick. They miss 3 days of work for a 
+minor workplace injury.
+    What barriers do renters specifically face in accessing 
+housing recovery funding? Answer that. And I am sorry. In the 
+last few seconds, answer that please and then what we should do 
+about it in reauthorization.
+    Mr. Martin. Sure. So there are two of the strongest 
+vulnerabilities. One is that renters tend to be lower income 
+than homeowners. They have obviously less built-in wealth to be 
+able to recover and establish. And so they cannot access funds 
+like the Small Business Administration loan program because 
+they do not have a home to hold the loan against. And so 
+financially they are the hardest hit. That is the most 
+important.
+    Second, though, is oftentimes in these communities the 
+rental housing is lost. Rental housing is damaged. Just a 
+single-family house is damaged, but it takes much longer to 
+rebuild affordable rental housing in these communities. In my 
+written testimony, I have a graph showing the different ranges 
+of activities that CDBG-DR provides, and the construction of 
+new, affordable rental housing is second longest of all the 
+activities. So the earlier that that starts the likelier it 
+will be that you keep these people within the community and 
+give them housing as quickly as possible. And making sure that 
+that rental housing is built as quickly as possible is 
+absolutely critical.
+    Chairman Brown. Thank you.
+    Senator Toomey.
+    Senator Toomey. Thank you, Mr. Chairman. So theoretically, 
+CDBG-DR is only available when it becomes clear that all the 
+other resources the Federal Government provides for a 
+particular emergency are insufficient.
+    The Federal support for a declared emergency seems fairly 
+comprehensive. I mean, FEMA immediately arrives, along with the 
+Army Corps, to clear debris and other damage. Volunteer 
+organizations and charities also support those efforts. FEMA 
+and SBA also support repair and replacement of homes damaged as 
+a result of disasters. SBA also supports recoveries for 
+businesses and even funds replacement of personal property. 
+Then of course, these programs are designed to supplement 
+insurance policies, which families and small businesses should 
+carry to protect against catastrophic events. And the IRS 
+allows deductions for casualty losses resulting from disasters. 
+So this is a pretty big network of support.
+    Mr. Mayer, you have suggested--well, we know there are some 
+State and local contributions. Sometimes they go in the form of 
+a percentage of a matching grant. But, Mr. Mayer, you suggested 
+that the CDBG-DR probably tends to supplant, rather than 
+supplement, State and local money. And so I wonder if you could 
+give us some of your thoughts on why does that matter. Are 
+there issues of moral hazard that arise? Are there issues about 
+whether a State and local government is better equipped to make 
+judgments about longer-term investments? What about 
+accountability of how this money is spent? Could you elaborate 
+at all on why you think it is a bad idea to supplant State and 
+local money with Federal money?
+    Mr. Mayer. Yeah. Sure, Ranking Member Toomey. Thank you for 
+the question. So what we learned after 9/11 with the Homeland 
+Security grant funding and then the--we also learned this with 
+the Federalization through FEMA of natural disasters as more 
+and more disasters that historically were not Federalized, that 
+remained State and local issues to deal with entirely. As we 
+Federalized more of those in both the Homeland Security grant 
+world as well as the FEMA world, what the research showed is 
+that when States and localities began to have that 
+predictability that there will be Federal funds they started to 
+defund those kind of programs and move the money elsewhere so 
+that they could spend it differently.
+    And so the concern that I guess I have is, you know, when 
+you step back, right, you know, nobody probably disagrees that 
+substantively getting help to people is critical and we should 
+do that as often and as much as we can. That goes without 
+question. I guess the key is where does that help come from.
+    And you know, given the fact that State coffers are--you 
+know, are high right now. All the funds that have come in 
+through the pandemic and through the infrastructure legislation 
+that you guys passed, there is a lot of money out there. And so 
+you know, when we get into this issue of creating new permanent 
+Federal programs, States and localities, like any other 
+creatures, will act in their own self-interest, and they will 
+see that as a way that they can then shift funds elsewhere, do 
+other things, because they can kind of have that handout from 
+the Federal Government to have those funds come in.
+    So again, my broad concern on the supplementation issue is 
+history has shown us that both the Homeland Security grants and 
+FEMA, as it Federalized more and more inherently State and 
+local disasters, historically, that emergency management funds 
+went down. And then preparedness, terrorism, all that activity 
+then got shifted down because they could just, you know, wait 
+for the annual, you know, influx of funding from the Feds. And 
+then I think that that is not where we want to go because it 
+inherently means you are always looking toward Washington for 
+the solution rather than building the capacity there in the 
+State and local communities where things occur.
+    And again, you have the occasional Kentucky tornado event 
+happen. We all know that. But typically, there is some 
+regularity to natural disasters. We know where they occur, 
+which ones will occur, and historically tend to know what is 
+going to happen. So creating that predictability is important 
+for States and locals to do and not rely on the Federal 
+Government to sweep in and kind of come to the rescue. We need 
+to build that at the State and local levels and save Federal 
+funds for some of the most important stuff, especially as we 
+pass $3 trillion in debt.
+    Senator Toomey. Yeah. And just to follow up on this issue 
+of the concentration. I do not think anybody disputes the idea 
+of when a disaster strikes you want to immediately flood the 
+zone with resources to ameliorate the situation as much as you 
+can.
+    But in terms of long-term projects and construction and 
+even future mitigation, as you point out, these kinds of events 
+do not occur uniformly across the country. There are certain 
+regions that are more prone than others. It also happens that 
+the nature of the damage is mostly on property and it tends to 
+be very valuable property. So Florida is particularly at risk, 
+and Florida, of course, has some of the most valuable property 
+in America. Both coasts tend to be--have a higher concentration 
+of these risks.
+    So federalizing it, federalizing this long-term mitigation, 
+seems to be a subsidy from the interior of the country to the 
+coasts, and I am sure there are exceptions to that. But is that 
+a fair generalization in your mind, Mr. Mayer?
+    Mr. Mayer. It is not only a fair generalization; it is a 
+fact. I went through and did the research where I looked at 
+where all the funding had gone over the course of time and 
+where there was the occurrence of natural disasters. And what 
+you saw is exactly that, that States like Ohio, Pennsylvania, 
+Indiana, Michigan, you know, the interior part of the country, 
+the Great Plains, New England, the Midwest, the Mountain West, 
+tended not to have that many declared disasters in any given 
+period of time compared to your kind of southern, East Coast, 
+the Gulf Coast, and the California area.
+    And as a result, what ended up happening is taxpayers in 
+those other States that are ``safer,'' their funding that goes 
+to these programs gets essentially shifted down to taxpayers in 
+those other places. So we are seeing a subsidization occur, 
+which to me is just somewhat inequitable.
+    And when you think about--you know, again, many of these 
+things are typically stuff historically that were inherently 
+State and locally handled, but we have Federalized them over 
+the last 30 years. And if we could step back from that, I think 
+we might see a bit better resiliency and performance at the 
+State and local levels than we tended to see as we ramp these 
+things up to the Federal Government.
+    Chairman Brown. Thank you, Mr. Mayer.
+    Senator Reed from Rhode Island is recognized for 5 minutes, 
+remote.
+    Senator Reed. Thank you very much, Mr. Chairman, and thank 
+you, gentlemen, for your testimony.
+    Mr. Martin, in your testimony, you noted that the capacity 
+and experience of the State and local governments and the 
+amount of early resources makes a significant difference.
+    And I think, Mr. Sprayberry, your experience in North 
+Carolina would reinforce that.
+    How can we help HUD work with local communities to buildup 
+technical capacity for these disasters? And I would think 
+authorizing this legislation would give HUD the incentive and 
+legal authority to do so. But, Mr. Martin, your comments first.
+    Mr. Martin. Correct. So there are two benefits from the 
+authorization for that specific issue about State and local 
+capacity. And one is having clarity of rules in multiple 
+activities. Everything becomes less of an appropriation-based 
+directive and understanding the predictability of what the 
+program is going to be expecting. So that is number one.
+    The second is actual technical assistance offerings can 
+then be standardized, and the jurisdiction can be trained on 
+how to prepare, how to roll out the programs more quickly. I 
+mean, the biggest challenge, particularly for housing recovery, 
+as HUD has been in--these are block grants. And so let us be 
+clear about the issue of Federalization is that the State and 
+local governments get to decide how to use the money within 
+statutory requirements. So they--there has always been a goal 
+of being able to sort of roll out packages as quickly as 
+possible so that you do not have that time gap between early 
+assistance that occurs and the later CDBG-DR funding.
+    So having clear--clarity around what those programs are 
+going to be allows the technical assistance providers to be 
+that much more clear and specific and help those programs 
+launch more quickly.
+    Senator Reed. Your comments, Mr. Sprayberry, please.
+    Mr. Sprayberry. Yes, sir. I agree with Dr. Martin that, you 
+know, the predictability is going to allow HUD to build those 
+technical assistance teams that we rely on so heavily and have 
+relied on here in North Carolina. As part of this bill, it will 
+create an Office of Disaster Management and Resiliency within 
+HUD, which I think is just going to even increase more 
+standardization of how they deploy the program. So I think that 
+this legislation is actually going to enhance the efficiency.
+    And I know I heard earlier about maybe some issues in the 
+past. I can tell you that in North Carolina, you know, we are 
+constantly audited, not just by HUD but also by the State 
+auditor, and to make sure that we are staying within the rails 
+and make--and that we are looking at all the eligibility 
+criteria to make sure that everything is ``dress right dress.''
+    So I believe that this type of legislation is only going to 
+enhance that and making sure that everybody is staying, you 
+know, within the criteria, the eligibility criteria, and 
+getting the funding out to those disaster survivors who need it 
+so badly.
+    Senator Reed. Thank you. One of the issues--one of the 
+existential issues that we face is climate change. And in the 
+old days you could simply go back and build what you had and, 
+you know, pat yourself on the back. Now we have to prepare for 
+a future in which climate risk is going up. We have to respond 
+differently. And a similar question, how can this proposal help 
+us to ensure that local communities are not just building the 
+same thing but building for the future, Mr. Sprayberry?
+    Mr. Sprayberry. Well, this legislation requires that the 
+funding that is spent by the local jurisdictions is spent so 
+that it meets those requirements and that you are, in fact, 
+building back in a resilient way. That is a requirement. It 
+also allows for up to 30 percent funding--plus for activities 
+that reduce repetitive loss. And you know, HUD has already 
+started to move in this direction by providing CDBG mitigation, 
+and so I think that you can see where, you know, this 
+legislation incorporates all of that together.
+    Senator Reed. Well, thank you very much.
+    Mr. Martin, a quick comment, I think. I cannot see the 
+clock, so I am imposing I am sure.
+    Chairman Brown. Continue, Senator Reed.
+    Senator Reed. Mr. Martin, your comments.
+    Mr. Martin. That is completely correct. Because HUD has a 
+specific role in the recovery program to be a bridge to long 
+term community planning and long-term community development, 
+there is an awareness of where the high exposed areas are, 
+where the most vulnerable communities are, and that is the only 
+way you are going to be able to plan for long-term adaptation.
+    Senator Reed. Thank you very much.
+    Thank you, Mr. Chairman.
+    Chairman Brown. Thank you, Senator Reed.
+    Senator Menendez from New Jersey is recognized.
+    Senator Menendez. Thank you, Mr. Chairman. It has been 9 
+years since Hurricane Sandy devastated New Jersey, New York, 
+and the Northeast, and despite some members' efforts to block 
+disaster relief for our region we succeeded in securing 
+billions of dollars of CDBG-DR funding. Nine years later, HUD 
+is attempting to claw back from New Jerseyans the money they 
+used to repair their homes and get back on their feet, and the 
+reason some New Jerseyans are facing these clawbacks is because 
+CDBG grant money is considered to have duplicated a benefit 
+which is SBA loan money. Of course, loan money you have to pay 
+back; grant money you do not.
+    So Mr. Sprayberry, can you explain why it was important 
+that the Disaster Recovery Reform Act of 2018 ended the policy 
+of SBA loans duplicating CDBG-DR?
+    Mr. Sprayberry. Well, you know, for--you know, CDBG-DR is 
+targeted for low to moderate-income population, and so if they 
+are--if they qualify for CDBG-DR, it is unclear to me why you 
+would want to claw back the funding from an SBA loan.
+    I know that that clawback is not consistent with I think it 
+is Section 1210 of the Disaster Recovery Reform Act of 2018, 
+which calls HUD to revise their VOD policies and allow them 
+from the first of 2016 to the end of this month. You do not 
+have to pay back your SBA loans, the ones that you declined or 
+only received a part of. But I understand that does not cover 
+you, sir----
+    Senator Menendez. Yeah.
+    Mr. Sprayberry. ----in New Jersey.
+    Senator Menendez. Well, I just wanted the principle. I 
+mean, an SBA loan you have to pay back, and that is fine. A 
+CDBG-DR you get a grant.
+    And so first of all, with, I think, horrible messaging to 
+the potential victims in terms of what they could and could not 
+do--so I appreciated that Congress prevented this issue for 
+survivors from 2016 on. I hope my colleagues will work together 
+with me to pass relief that the House of Representatives passed 
+earlier this year in its appropriations bill so that the Sandy 
+victims can close this dark chapter of their lives.
+    I hear from some colleagues that CDBG-DR spending should be 
+curbed, that the recovery process should be left to the States. 
+You would be hard pressed to find a place in the country that 
+is not impacted by these natural disasters. Whether it be 
+flooding in my State, wildfires in the West, chronic droughts 
+across the Heartland, every single State inevitably needs 
+assistance, and it would be incredibly difficult for a State to 
+meet those challenges. Look at what is happening now in 
+Kentucky and other States.
+    We know that for every dollar invested in mitigation, the 
+Federal Government saves 6 dollars in disaster relief spending. 
+Mr. Martin, shouldn't Congress direct some CDBG-DR funds toward 
+mitigation of risk so that we can protect our communities, 
+reduce the fiscal damage to our local economies, and ultimately 
+prevent more Federal spending in the future?
+    Mr. Martin. Mitigation activities, I would agree with, 
+should certainly be allowed. And the reality is that so many of 
+the activities that have occurred in the long-term recovery, 
+particularly for housing and community infrastructure, are also 
+mitigation-related activities because they come in much longer 
+in the sequence of events.
+    Designated, specific quantities of recovery versus 
+mitigation for a jurisdiction is going to be a little 
+complicated because it is the nature of the hazard frequency, 
+hazard type that will vary in each place. And the kind of 
+mitigation activities or the cost differential between the two 
+will be a little more complicated. But I would certainly say I 
+think that mitigation activities should be encouraged in many 
+of these jurisdictions as they rebuild in the long term.
+    Senator Menendez. Thank you. By the way, according to a HUD 
+Inspector General report, the Trump administration 
+intentionally stalled roughly $20 billion of CDBG-DR funds for 
+Puerto Rico's recovery from Hurricane Maria, a storm that 
+killed more than 3,000 people and more by some estimates. To 
+make matters worse, the previous Administration tried to 
+obstruct the IG's investigation into the unprecedented 
+stonewalling of congressionally appropriated disaster aid to 
+Puerto Rico. I am pleased to see that President Biden has freed 
+the funding to the island, but the many harms of a delayed 
+recovery linger. The island still faces a beleaguered power 
+grid. Some families still have FEMA blue tarps over their 
+homes, which were supposed to be only temporary.
+    Mr. Martin, shouldn't the CDBG-DR grant-making and 
+rulemaking process be standardized so that future 
+Administrations cannot arbitrarily block disaster aid for 
+political or other reasons?
+    Mr. Martin. Certainly. And the holding back of money was 
+after the allocation had already been made. And our study had 
+shown that in the previous 10 years prior to, that ended in 
+2015, 2005 to 2015 disaster CDBG-DR grant-making, that HUD had 
+actually expedited that, had reduced the time from 
+appropriation through allocation and delivery of first funds. 
+So I think in many ways that was an anomaly. And one would 
+assume that left to HUD's own purview that that would 
+continuously be standardized and shrunk, and certainly with 
+permanent authorization that would allow clear transparency.
+    Senator Menendez. Yeah, it was a nefarious anomaly.
+    Thank you, Mr. Chairman.
+    Chairman Brown. Thank you, Senator Menendez.
+    Senator Tester is joining us from his office for 5 minutes, 
+from Montana. Senator Tester.
+    Senator Tester. Thank you, Mr. Chairman, and I appreciate 
+the folks who are here to provide testimony today. I do come 
+from Montana, and we have dealt with Mother Nature, the good, 
+the bad, the ugly. And because of our connection with the great 
+outdoors and our connection to agriculture and nature, it is 
+something that--it is why many folks move to Montana, because 
+of this connection.
+    Just this year, we faced incredible drought, and it could 
+be said--the same thing could be said for most of the ground 
+west of the Mississippi. And of course, with drought also comes 
+some pretty significant wildfire, which Montana was a part of 
+also. Many of these are climate-triggered disasters. There are 
+farmers who, in recent years, have struggled with excess 
+moisture--I am one--and this year faced with drought, in fact 
+the worst drought we have had maybe since my grandparents 
+homesteaded the land but certainly in the 44 years that I have 
+been on the farm. But that is another topic for another 
+hearing, probably in a different committee.
+    When these disasters happen in our rural and frontier 
+communities, they often do not get the attention or response of 
+disasters like hurricanes hitting population centers, and 
+because of that these so-called smaller disasters in smaller 
+communities are held hostage by the political process. They 
+have to wait for a larger crisis to occur to be able to get the 
+assistance that they need.
+    So, Dr. Martin, could you talk about how these delays 
+impact the Federal Government's ability to effectively respond 
+to disasters?
+    Mr. Martin. Certainly. And the huge challenge--some of the 
+challenge, in particular for more rural communities in what we 
+call medium or smaller scale disasters, which obviously have as 
+much impact on those households as happens in larger scale 
+disasters--the impact for the individual household is just as 
+severe, I should say--is Congress appropriating for a year's 
+worth of disasters, making a variety of disasters eligible, 
+that still have unmet need at the point of the appropriation 
+process. So there are ways to sort of be more generous and 
+considerate of different communities.
+    I agree that it would be helpful for Congress to think a 
+little more strategically about what the triggers are, to 
+ensure that there are a range of disasters that would be 
+included because it is the smaller scale disasters that do not 
+get the large appropriation. But certainly a permanent 
+authorization allows for a little more consistency in the 
+appropriations process and allowing a certain amount of funds 
+to be disbursed earlier on for communities that are going to be 
+in need regardless of their size and complexity.
+    Senator Tester. Thank you.
+    Mr. Sprayberry, what do these delays in assistance mean 
+practically on the ground in these communities?
+    Mr. Sprayberry. Well, what happens is--you know, something 
+that I think that a lot of people forget is most of the United 
+States of America is still rural and there is just not a lot of 
+capacity or capability even once you receive the disaster 
+programs. And so I think as soon as you can get it and 
+understand that you are getting it and there is a degree of 
+consistency and you know that you are going to be getting the 
+funding, that is only going to help our smaller communities 
+execute and implement those disaster programs because the way I 
+used to say as a director: We need to be fast, and we need to 
+be aggressive. And I think that the Federal Government needs to 
+do that all the way down through, you know, your municipalities 
+and so through the counties, the States, everybody.
+    And so I think that the faster that we can be the better it 
+is because if you slow it down, you know, we all have to keep--
+we are all here for one reason today. That is disaster 
+survivors, real people. And so I think that that is what we all 
+need to keep in mind and understand, that the faster that we 
+can deploy the programs the better it will be.
+    Senator Tester. I appreciate that.
+    I am a cosponsor of a bill that we are actually considering 
+today, the Reforming Disaster Recovery Act. Dr. Martin, I think 
+it is fair to say our current system is inefficient. How would 
+this legislation improve this process for the Federal 
+Government?
+    Mr. Martin. Thank you, Senator Tester. Certainly, the 
+authorization and some of the other program requirements that 
+are proposed in the legislation go a long way to making a sense 
+of security and stability in the CDBG-DR process for State and 
+local grantees, both in terms of the security of knowing the 
+kind of appropriation that is coming as well as that the fact 
+that some of the funding can occur earlier on in planning.
+    Senator Tester. I appreciate that. I would just say that I 
+know all our hearts go out to the folks in Kentucky and that 
+whole region that got hit by that massive tornado, but it seems 
+like everything is more massive these days. When I grew up--and 
+I have spent 65 years on the farm I am on--I never, ever 
+remember having smoke for 2 or 3 months out of the year, and I 
+live in eastern Montana, east of the Rocky Mountain front. But 
+that happens almost every year now. And then we are seeing 
+these horrendous hurricanes and incredibly damaging tornadoes.
+    I think this is a really important hearing today, and I 
+certainly appreciate the Chairman and Ranking Member for having 
+it and all of you for testifying. Thank you, Mr. Chairman.
+    Chairman Brown. Thank you, Senator Tester.
+    Senator Smith from Minnesota is recognized from her office 
+or home.
+    Senator Smith. Thank you very much. Thank you, Chair Brown, 
+and thanks to all of our panelists today. I am really 
+appreciating this.
+    I would like to start with Mr. Sprayberry. So in Minnesota, 
+flooding disasters have received the most CDBG-DR funds. With 
+what we know is happening, which is climate change, which is 
+increasing the frequency of these flooding disasters across the 
+Midwest, how can programs like CDBG-DR and permanently 
+reauthorizing them--how would that help communities to be able 
+to prepare better, be more resilient to these ongoing 
+disasters?
+    Mr. Sprayberry. Thank you for that question, ma'am. And 
+again, this legislation actually requires communities for their 
+projects to make sure that they are being resilient as they 
+build those projects, and so that is really critically 
+important. I think that, again, HUD would create an Office of 
+Disaster Management and Resiliency so that they can keep 
+pushing out projects.
+    We have the CDBG mitigation. Here in North Carolina, what 
+we do is we loop up our CDBG-DR folks with our FEMA folks, and 
+we have a resiliency office. And so we all work together to 
+make sure that HUD allocations, FEMA money, and State 
+appropriations--that we are as efficient as possible so that we 
+take a look at different projects and whoever is eligible for 
+which project. Then we can fit them in that slot so that nobody 
+gets dropped between the cracks.
+    And so I think that this legislation is going to really 
+push the fact that we need to--when we build and have projects 
+and when we--we just do not put a house back in the floodplain.
+    Senator Smith. Right.
+    Mr. Sprayberry. We buy it out and move it out, or we 
+elevate it, and so we create more green space. And I think that 
+that is what this will do--help us do. It will be standardized, 
+and I think it is going to also minimize risk and fraud.
+    Senator Smith. Yeah. Thank you for that. I totally agree.
+    Dr. Martin, some are arguing that State and local 
+governments should pay for this kind of disaster recovery and 
+mitigation efforts that CDBG-DR was designed to do. Now I have 
+worked at the State level, and I have worked at the city level. 
+And I have worked at both of those places when my State was 
+dealing with significant disasters, and I just do not see the 
+capacity there.
+    The last time that Minnesota received these funds was in 
+2008, when city and State budgets were hit incredibly hard by 
+massive flooding. And of course, at the same time, those 
+budgets were being impacted by--you know, were soon to be 
+impacted by the Great Recession. And a lot of this was 
+happening in rural communities where, you know, these smaller 
+towns were really hard hit and not in a position.
+    So can you address this issue? Is it really reasonable or 
+realistic to say that local communities can sort of fill this 
+gap if we were not doing this?
+    Mr. Martin. Those, Senator--thank you for that question, 
+Senator Smith. And I think those questions about local capacity 
+are absolutely critical, particularly when we are talking about 
+rural communities. Our study--the qualitative components of our 
+study actually looked at the local capacity issues, and clearly 
+there are persistent issues with the level of emergency 
+managers in the rural counties and in townships that just 
+simply cannot either afford and do not have the resources to be 
+able to do this.
+    And by definition, we are talking about CDBG-DR being 
+required where there are unmet needs; continuing, ongoing unmet 
+needs. So there are tranches of other assistance programs, 
+including those at the State and local levels, that are filling 
+that immediate need of relief and response already, and those 
+are exhausted by the time CDBG-DR comes in.
+    Senator Smith. That is exactly right. It is not as if those 
+local communities are just sitting on the sidelines. They have 
+already done so much.
+    Dr. Martin, I just want to quickly ask you one other 
+question. You know, when--because I am thinking about the 
+interplay between the role of this CDBG-DR program and the 
+broader challenges, system challenges, that we have in our 
+country around a shortage of housing, a shortage of 
+particularly affordable housing, both rental and home 
+ownership. And so, you know, what we know is happening in this 
+country is working families are paying more and more of their 
+housing--you have addressed this. More and more for their 
+housing and/or they are living farther and farther away from 
+schools or their jobs, where housing is more affordable, and 
+then that puts additional costs on their family budgets.
+    And you know, I want to point out that the President's 
+Build Back Better bill, which we are going to pass, would make 
+a significant difference in addressing this systemic housing 
+shortage.
+    But, Dr. Martin, could you just quickly talk a little bit 
+about how permanent reauthorization of this program would 
+connect with the broader systemic problems we have in this 
+country around a housing shortage?
+    Mr. Martin. Certainly. And I will be quick, knowing the 
+time concerns. That is exactly why CDBG-DR plays such a 
+critical role in disaster recovery. It is because it is a 
+housing and community development agency. So it is aware of the 
+local housing constraints, the local housing markets. So in 
+these cases, where the housing market is already in a crisis, a 
+natural hazard--or, excuse me. In many cases, a non-natural 
+hazard breaks the back of these communities. So there is not 
+any availability.
+    In many of these cases, after a hazard event, you will see 
+price gouging, rent gouging. You will see--and of course, there 
+are units that are off the market completely because they have 
+been damaged and they are no longer there. So the ability 
+particularly to build affordable rental housing as quickly as 
+possible is probably the most immediate benefit of this 
+proposed legislation, but also just being able to prepare and 
+plan for and appropriate longer-term community housing plans 
+into a recovery framework is absolutely critical.
+    Senator Smith. Thank you so much.
+    Thank you, Mr. Chair.
+    Chairman Brown. Thank you, Senator Smith.
+    Senator Cortez Masto from Nevada, from her office.
+    Senator Cortez Masto. Thank you, Mr. Chairman. Thank you to 
+the panelists joining us today. I think we were all horrified 
+by the tornadoes that we have seen that have devastated 
+families and communities last week. I along, I know, with all 
+my colleagues express my deepest regrets to the families and 
+friends of those who died, lost homes or businesses. But we are 
+also seeing disasters are becoming more frequent and more 
+devastating. When they occur, it is imperative that the Federal 
+Government comes to the aid of people who have lost everything.
+    So, Dr. Martin and Mr. Sprayberry, let me ask you this. I 
+introduced the Western Wildfire Support Act, which would allow 
+communities in Nevada and across the West to access training, 
+equipment, and funding they need to combat the increasing 
+amount of land at risk of burnup. We are seeing wildfires that 
+are no longer seasons. They are hotter. They are longer. And 
+they have a devastating impact on our communities.
+    But here is my question. Can you both talk about what a 
+reauthorization of the Community and Development Block Grant 
+Disaster Recovery program means for frontline communities in 
+States like Nevada that need help to combat wildfires 
+frequently on land owned by the Federal Government? Remember 
+about 85 percent of the land in Nevada is owned by the Federal 
+Government.
+    And can you also address how important the program is to 
+take into account the critical habitat and ecosystems at risk 
+of disaster as well because of the wildfires that we are 
+seeing? Dr. Martin and Mr. Sprayberry, I ask you both if you 
+could address that.
+    Mr. Martin. Certainly. Thank you, Senator. Certainly, 
+frontline communities are first and foremost in CDBG-DR's 
+planning and the eligible activities and beneficiaries that are 
+allowed in the program. And so looking at those that are going 
+to be suffering from particularly kinds of hazard events that 
+may or may not get a Presidential declaration is part of the 
+long-term community benefit or community planning that CDBG-DR 
+provides as a benefit to incorporate into the recovery 
+framework. So I certainly appreciate that comment and focus on 
+that specific kind of frontline community.
+    And I will pass it to my colleague first before I respond 
+to the second question.
+    Mr. Sprayberry. Well, so we do not have a whole lot of 
+wildfires here in North Carolina. We have had some. But I would 
+say that, you know, anything that, you know, is going to help a 
+frontline community, any program, you know, we have all got to 
+take a look at it, take a holistic view, and make sure that we 
+are doing whatever we can because even though, you know, maybe 
+you did not have so many wildfires back in the 2000s we know 
+that now it is a normal course of action. You are going to have 
+wildfires from year over year just like hurricanes here in 
+North Carolina. We saw the wind event in Iowa.
+    So what are we going to do as a Nation to take a look at 
+the existing programs to help our frontline communities? So I 
+think that it is something that we should look at and maybe 
+understand what the hazard is, what the threat is, and how we 
+can address it with the programs that are existing.
+    Senator Cortez Masto. Thank you.
+    Mr. Martin. And the other comment around the land use 
+planning, for example, the land that is controlled by the 
+Federal Government versus others. That is, again, because it is 
+in HUD and HUD has a very specific role in managing and 
+understanding the local planning issues and the housing 
+development issues HUD can certainly use its resources to 
+ensure that people are trained about where not to build, not to 
+further build, as well as what kind of protections should be 
+made for communities that are already on a hazard's edge.
+    Senator Cortez Masto. Thank you. And let me--I have only 
+got a few minutes. Let me touch on the bill that Senator Tester 
+talked about, Reforming Disaster Recovery Act of 2021. I know 
+there were several recommendations for how to improve the 
+funding that comes from CDBG-DR. Dr. Martin or Mr. Sprayberry, 
+can you speak to the data sharing provisions in the bill and 
+why is accurate data so important to have? Clearly, there is a 
+concern it is not accurate data we have and need right now.
+    Mr. Sprayberry. Well, thank you for that question. And I 
+can tell you that, you know, we need to make sure before the 
+bill is passed that those data sharing provisions have been 
+well vetted. It is so critical that FEMA and HUD share that 
+information so that, you know, there is not a duplication of 
+benefits and--as we move forward because duplication of 
+benefits and how we actually check on those takes a lot of time 
+and it costs a lot of money. And so the more data that can be 
+shared between FEMA and HUD the better it will, and it will 
+make for a more efficient operation. So that is one thing.
+    I am glad you asked that question because we certainly need 
+to make sure that that is in the legislation, and it is, but we 
+just need to make sure that before it gets passed that it is 
+well vetted and good to go with both agencies.
+    Mr. Martin. When you ask a question about data, Senator, 
+that is music to a researcher's ear. So I am happy to say that 
+there are probably two kinds of data. One is the kind of data 
+that my colleague panelist was mentioning, sort of the 
+operational data. That would include everything from details 
+about the beneficiaries that have been coming from other parts 
+of the Federal Government.
+    FEMA individual assistance, for example, is the first 
+Federal intervention in these communities' lives. And so 
+understanding the demographics about that community, 
+understanding any requirements that have occurred 
+operationally, including mapping and environmental review, to 
+answer--to add onto the previous question that you had. That is 
+required for every property. So there are so many pieces of 
+data that have occurred operationally. That is helpful for HUD 
+to receive and to operationalize.
+    But in the legislation, the data that is being referred to 
+is more granular demographic data about the beneficiaries. And 
+certainly that is--would be helpful for HUD to have, as well as 
+the Federal Government to have, because other statutory 
+requirements, constitutional requirements on civil rights, et 
+cetera. So making sure that HUD is able to collect that data 
+and do analysis and, in some cases, share it at an aggregate 
+level to the public to confirm that the right people are being 
+served.
+    Senator Cortez Masto. Thank you again.
+    Chairman Brown. Thank you, Senator Cortez Masto.
+    Thanks to the witnesses for joining us today. Everyone, 
+thank you. Everybody following--you know, every day following a 
+disaster is 1 day too many and what has happened in this 
+country. So we have a lot of work to do.
+    I ask unanimous consent to enter into the record a letter 
+from the Bipartisan Policy Center sent to Senator Toomey and to 
+me. Without objection, so ordered.
+    For Senators who wish to submit questions for the record, 
+those questions are due 1 week from today, Wednesday, December 
+22nd.
+    To our witnesses, thank you, Mr. Sprayberry, Mr. Mayer, and 
+Dr. Martin. To the witnesses, per our Committee rules, we ask 
+that you respond to any questions from Members of this 
+Committee within 45 days of your receipt of them. Thank you 
+again.
+    The Committee is adjourned.
+    [Whereupon, at 11:13 a.m., the hearing was adjourned.]
+    [Prepared statements, responses to written questions, and 
+additional material supplied for the record follow:]
+              PREPARED STATEMENT OF CHAIRMAN SHERROD BROWN
+    This morning the Banking, Housing, and Urban Affairs Committee 
+looks at the authorization of the Community Development Block Grant-
+Disaster Recovery Program, known as CDBG-DR.
+    We meet today in the wake of devastating tornadoes that have taken 
+the lives of more than 80 people, torn apart families, and destroyed 
+homes, businesses, and infrastructure across multiple States--including 
+Kentucky, Illinois, and our colleague Senator Hagerty's State of 
+Tennessee.
+    We have heard heartbreaking and infuriating stories, of lives torn 
+apart, and workers put in danger.
+    I want to express my sincere condolences to the families and 
+communities affected by these storms.
+    Even before this weekend's tragic events, we had already seen 18 
+natural disaster events. 538 people lost their lives. Losses exceeded 
+$1 billion in 2021.
+    From drought to flooding to severe storms, from wildfires to 
+tropical cyclones to winter storms, these events touched all kinds of 
+communities, all across the country. Homes and businesses were 
+destroyed. Local economies were devastated.
+    None of our States is immune.
+    The people of Dayton and Trotwood are still working to recover from 
+tornadoes that destroyed their neighborhoods in 2019.
+    Senator Menendez' and Senator Kennedy's States, though thousands of 
+miles apart, were both devastated by Hurricane Ida this summer.
+    With a changing climate, our country will continue to face extreme 
+weather events and natural disasters. We must be better prepared to 
+recover from these disasters quickly, efficiently, and equitably. And 
+we must rebuild to make our homes and communities more resilient in the 
+future.
+    Today's hearing will look at the critical role CDBG-DR plays in 
+offering disaster relief and long-term recovery assistance to 
+communities affected by disasters. And we'll discuss how we can improve 
+that aid, through a permanent authorization of the program.
+    Since 1993, Congress has provided over $95 billion in disaster 
+recovery assistance to States, territories, and communities through 
+supplemental CDBG disaster recovery appropriations.
+    This aid is particularly critical to low-income and middle class 
+families, who are often hit the hardest by natural disasters, and who 
+have the fewest resources to recover from them.
+    While Congress has relied on CDBG-DR to provide flexible, long-term 
+recovery assistance to communities in need, we have never provided a 
+permanent authorization for the program.
+    CDBG-DR is a valuable tool in the Federal disaster response toolkit 
+to help communities across the country pick up the pieces and rebuild 
+following disasters.
+    The program has helped families and communities address needs that 
+have been unmet by insurance and Federal assistance from the Federal 
+Emergency Management Agency and Small Business Administration.
+    But as valuable as this aid has been, we have also heard from 
+disaster survivors and from State and local governments, the General 
+Accountability Office, and the Department of Housing and Urban 
+Development itself--that we can and should do better.
+    In the absence of a permanent authorization, HUD must issue new 
+regulations with each appropriation.
+    We have heard that the delays and lack of predictability stemming 
+from the current process:
+
+    Delays in getting assistance out to families,
+
+    Communities prevented from doing the kind of early planning 
+        that will be most effective,
+
+    Confusion created for States, localities, and families over 
+        what resources are available to them.
+
+    Think about what these families are dealing with: Your home has 
+been flooded or the business your family built was destroyed. You're 
+trying to deal with insurance claims. Bills are piling up. Debt 
+collectors are calling.
+    The last thing you want to deal with is more delays, more red tape, 
+more confusion.
+    Variations in appropriations and regulatory requirements between 
+disasters can impose administrative and operational challenges for both 
+HUD and grantees--particularly smaller communities or those 
+administering multiple grants--and hinder efforts to build capacity.
+    We also must do more to ensure that the most vulnerable members of 
+our communities are not displaced, and that they can help their 
+community recover.
+    In response to recommendations from GAO, HUD, and others, Senators 
+Schatz, Collins, Young, Van Hollen, and Tester have offered the 
+Reforming Disaster Recovery Act of 2021 (S. 2471) to authorize and 
+improve the CDBG-DR program.
+    This is something that should be an opportunity for bipartisan, 
+commonsense solutions--how we make Government more efficient, and 
+actually do the job it's supposed to do for the people we serve.
+    Today, we will hear from our witnesses about how authorizing the 
+CDBG-DR program could help our communities recover, and deliver 
+resources in a more timely, effective, and equitable manner.
+    Without objection, I would like to enter into the record a letter 
+from the Disaster Housing Recovery Coalition in support of S. 2471.
+                                 ______
+                                 
+            PREPARED STATEMENT OF SENATOR PATRICK J. TOOMEY
+    Mr. Chairman, thank you.
+    I want to start off by acknowledging the horrific destruction that 
+we witnessed over the weekend in Kentucky. I saw a headline this 
+morning that 12 children were among the 74 killed by the storms. And 
+the death toll is only expected to rise in the coming days. What tragic 
+news.
+    My heart goes out to the many families experiencing such 
+devastating loss--loss of life and their families. Our thoughts are 
+with them this morning.
+    Today's hearing is about HUD's Community Development Block Grant-
+Disaster Recovery Program, or CDBG-DR. Since 1993, Congress has spent 
+nearly $90 billion through CDBG-DR to support disaster recovery 
+efforts.
+    Initially, CDBG-DR was used in rare cases when the billions of 
+dollars that Congress spent annually on disaster recovery through other 
+programs was considered insufficient to meet the needs of serious 
+disasters. Unfortunately, since Superstorm Sandy in 2012, CDBG-DR 
+spending has become routine.
+    In the past 4 years alone, we've appropriated almost $40 billion 
+for CDBG-DR. And we've done this even though billions of dollars of 
+CDBG-DR funds appropriated for prior disasters--including the 9/11 
+attacks and disasters that occurred more than a decade ago--remain with 
+grantees, sitting unspent.
+    I worry that making CDBG-DR a permanent program without a more 
+comprehensive review of disaster assistance will only ensure that this 
+wasteful trend continues. In my view, we should be discussing whether 
+such spending through HUD is appropriate in the first place, not making 
+it permanent.
+    We already have an agency whose sole mission is ``to help people 
+before, during and after disasters.'' It's called FEMA.
+    Through the normal appropriations process, Congress provides 
+billions every year to FEMA and other agencies so that the Federal 
+Government can provide assistance to support communities struck by 
+disasters. In addition to regular channels, Congress makes emergency 
+supplemental disaster appropriations almost every single year.
+    Let's consider some key examples of existing programs. The Army 
+Corps of Engineers and FEMA deploy boots-on-the-ground to help 
+survivors and repair damage to communities. FEMA funds repairs and 
+replacement of homes for displaced families. The Small Business 
+Administration does as well, including replacement of personal 
+property. Given all of this support, why do we also need CDBG-DR?
+    Theoretically, CDBG-DR is supposed to support longer term recovery 
+needs that aren't met by other sources. I acknowledge there may be 
+circumstances where it's useful for the Federal Government to help meet 
+these needs. But we need to remember that States and local governments 
+are primarily responsible for addressing such needs.
+    Currently, States and local governments are not lacking for 
+financial resources to do that. In 2020, State and local tax 
+collections set a new record. On top of their record tax collections, 
+Congress sent almost $900 billion to States and local governments for 
+COVID relief over the course of a year. This included $5 billion 
+specifically for CDBG, a significant portion of which remains unspent 
+and is available for purposes such as disaster relief. And in November, 
+Congress passed a $1.2 trillion infrastructure bill that will send 
+billions of dollars to States and local governments.
+    States are sitting on record budget surpluses and have more money 
+on the way thanks to the recently passed infrastructure bill. Why 
+shouldn't they plan and save for long-term disaster recovery and 
+mitigation?
+    We also can't ignore the fact that CDBG-DR program has long been 
+plagued by waste, fraud, and abuse through the years. Let's consider 
+some examples of that waste.
+    Two years after Hurricane Katrina hit, HUD allowed Louisiana to use 
+CDBG-DR funds to pay college professors stipends to stay in the State 
+post-Katrina because it was an ``urgent need activity.'' In 
+Mississippi, HUD allowed a county to use $9.6 million CDBG-DR funds to 
+build a wastewater treatment facility for an undeveloped plot of land--
+where nobody lived.
+    As bad as these cases of waste are, the examples of fraud in the 
+CDBG-DR may be even worse. HUD's Inspector General has repeatedly 
+identified and referred for prosecution cases of fraud and abuse in 
+CDBG-DR, including public corruption, embezzlement, bid-rigging, 
+bribery, and kickback schemes.
+    Given this track record, it makes one wonder how well does HUD 
+respond to fraud risks in the CDBG-DR program? Well, we know the answer 
+to that.
+    This year HUD officials admitted to GAO that HUD ``does not 
+consider fraud risks in programs managed by grantees to be direct risks 
+to HUD itself.'' In other words, HUD's responsibility to root out fraud 
+ends when it sends CDBG-DR funds to States. That's concerning since 
+Congress recently appropriated nearly $20 billion through CDBG-DR to 
+Puerto Rico that the Biden administration has been eager to quickly 
+distribute to a Government with rampant fiscal mismanagement.
+    Today, we will hear from Matt Mayer, a former DHS official and 
+expert on disaster recovery, who has concerns with proposals to 
+permanently authorize the CDBG-DR program. As Mr. Mayer notes, the 
+over-federalization of disaster assistance for virtually every disaster 
+has allowed States to reduce their own emergency management programs 
+knowing that Federal taxpayers will be forced to bail them out. He also 
+sensibly notes that Congress should step back and consider whether it 
+should continue to federalize long-term disaster recovery well after 
+the crisis has passed, which is a traditionally inherent State and 
+local function. I look forward to hearing from today's witnesses about 
+the CDBG-DR program.
+    I recognize that improvements are needed in how the Federal 
+Government provides disaster assistance. But for the reasons I've 
+mentioned, I'm concerned that creating a permanent authorization for 
+the CDBG-DR program is not the right way to go about that.
+    As President Reagan wisely noted, Government programs are ``the 
+nearest thing to eternal life we'll ever see on this earth.'' So we 
+should tread carefully before we create new ones.
+                                 ______
+                                 
+              PREPARED STATEMENT OF MICHAEL A. SPRAYBERRY
+      Senior Advisor for Emergency Management, Hagerty Consulting
+                           December 15, 2021
+    Chairman Brown, Ranking Member Toomey, and Members of the 
+Committee, my name is Mike Sprayberry and I am the Senior Advisor for 
+Emergency Management with Hagerty Consulting, Inc., a firm which 
+specializes in emergency management and disaster recovery--simply put, 
+we help diverse communities nationwide prepare for, respond to, recover 
+from, and mitigate disasters. I appreciate the opportunity to appear 
+before the Committee today to discuss and support permanent 
+authorization for the Community Development Block Grant-Disaster 
+Recovery (CDBG-DR) program administered by the U.S. Department of 
+Housing and Urban Development (HUD).
+    Prior to joining Hagerty Consulting 2 months ago, I served the 
+State of North Carolina for more than more than 15 years in various 
+leadership roles within the State's Division of Emergency Management 
+including 8 years as the Division's Director while also leading the 
+State's Office of Recovery and Resiliency (NCORR) and serving as the 
+State's Deputy Homeland Security Advisor. I also served as President of 
+the National Emergency Management Association in 2017-2018. It is in 
+this context that I gained familiarity with both the value of CDBG-DR 
+program as well as the difficulties in deploying that funding.
+    During my tenure as North Carolina's Emergency Management Director, 
+the State was impacted by two significant hurricanes--Matthew in 2016 
+and Florence in 2018--which generated a total of $778 million of CDBG-
+DR allocations to the State (plus an additional $202 million from HUD 
+for mitigation activities). These storms both struck the southeastern 
+corner of the State and created overlapping damage, most notably in the 
+form of extensive inland flooding which inundated low lying areas.
+    CDBG-DR funding ultimately proved to be an invaluable complement to 
+other recovery resources available from public and private entities, 
+most notably funding available through various programs administered by 
+the Federal Emergency Management Agency (FEMA). It has enabled a 
+stronger focus on housing recovery needs and has assisted the low- and 
+moderate-income population that has the fewest resources to recover. At 
+the same time, the lack of a permanent authorization for CDBG-DR has 
+hampered its effectiveness.
+    Let me focus on a few impacts arising from that reality. First, the 
+ad hoc nature of CDBG-DR means that it is difficult to effectively plan 
+to receive the funding. CDBG-DR exists only when funds are appropriated 
+for the purpose. Using information available on the HUD exchange 
+website, it appears there have been thirty-two (32) CDBG-DR 
+appropriations since the early 1990s for a total of almost $95 billion 
+if we include the most recent $5 billion enacted on September 30 of 
+this year. This track record indicates it has become reasonably 
+predictable that CDBG-DR will be appropriated in the wake of the most 
+catastrophic events but there is little certainty as to the timing or 
+scope of that action.
+    Prior to the CDBG-DR allocation in response to Hurricane Matthew, 
+North Carolina had not received CDBG-DR funding since 2004 when it was 
+awarded $4.5 million. As such, there was a very limited understanding 
+within the State as to the evolution of CDBG-DR during the intervening 
+12 years and the concurrent expectations that would be placed upon the 
+State.
+    We learned on the fly and ultimately Governor Roy Cooper 
+established NCORR to effectively manage CDBG-DR funding and improve 
+coordination across the spectrum of recovery and resilience efforts. 
+The problem was that we lost critical time in our recovery while 
+attempting to understand how to deploy the funding, a delay that could 
+have been reduced with a more structured implementation of CDBG-DR via 
+permanent authorization.
+    Second, delays in implementation of CDBG-DR must be reduced if the 
+program is to be of the greatest value to jurisdictions as they attempt 
+to recover from major disasters. Without a permanent legislative 
+authorization and implementing regulations, CDBG-DR timelines will 
+likely be negatively impacted by the recurring need to develop Federal 
+Register notices to govern the use of the funds. The upper half of this 
+graphic from the NCORR website demonstrates the elongated timeline 
+associated with Federal actions on the Hurricane Florence allocation:
+[GRAPHIC NOT AVAILABLE IN TIFF FORMAT]
+
+    In describing this timeline, NCORR notes that 500 days elapsed 
+between Florence's landfall until HUD was able to issue the Federal 
+Register notice governing the CDBG-DR funds allocated to address 
+recovery needs associated with that disaster. Half that time was 
+associated with the period from landfall until enactment of an 
+appropriation and the other half from appropriation to Notice issuance.
+    Focusing on the second half of that equation, permanent 
+authorization of CDBG-DR will enable HUD to issue standing regulations 
+which should reduce delays arising from the internal Federal 
+``friction'' that arises in the development of these Notices. Further, 
+permanent regulations will give CDBG-DR recipients confidence to begin 
+planning more quickly post-disaster based on an assurance that there 
+will not be policy changes that could negate planning efforts in 
+support of a rapid program launch. While HUD recently indicated that it 
+intends to issue a CDBG-DR ``universal notice,'' it seems like a soft 
+alternative to a well-structured, publicly reviewed regulatory 
+structure.
+    Third, establishment of a front-end CDBG-DR funding mechanism that 
+provides, at a minimum, early planning funding as a predicate to a 
+larger award would be exceptionally useful as a component of any 
+permanent authorization. This would enable grantees to begin the 
+necessary procurement and staffing efforts that are necessary to 
+successfully implement a CDBG-DR program. It is important to understand 
+that many States do not have an appropriate structure to effectively 
+manage CDBG-DR allocations which may total hundreds of millions of 
+dollars and thereby dwarf annual CDBG allocations. Extensive back-end 
+operations must be put in place rapidly to ensure a successful CDBG-DR 
+launch and it would be best to fund these actions with CDBG-DR funds. 
+In sum, early planning funding paired with aggressive technical 
+assistance efforts through HUD seem like essential tools in delivering 
+CDBG-DR benefits to disaster-stricken communities and households.
+    One final point that is important to me based on my experience in 
+North Carolina is to recognize that some areas of the Nation are 
+repeatedly impacted by disasters. This was the case in North Carolina 
+regarding hurricanes Matthew and Florence and the appropriations 
+language got in the way of being able to use the Matthew-related CDBG-
+DR funding to help deliver a rapid response to Florence. Any 
+authorization bill should take care to allow a degree of fungibility 
+between qualifying events to address emerging post-disaster needs in 
+real time and to minimize standards that require attributing repetitive 
+damage to particular events and their respective funding stream.
+    This hearing has been triggered by the introduction of S. 2471, the 
+Reforming Disaster Recovery Act, by a bipartisan group of senators. In 
+the absence of a broader examination of long-term disaster recovery 
+policies at the Federal level, it is important to deal with the reality 
+that CDBG-DR has been funded continually over the past three decades. 
+Overall, S. 2471 addresses the points I have raised in this statement 
+and deserves your consideration as a significant step forward that will 
+address the timing problems that have plagued CDBG-DR implementation.
+    Congress may choose not to fund CDBG-DR in the future but 
+considering the track record, we should assume that it will continue to 
+be part of Federal disaster recovery efforts. The prudent move would be 
+to create a permanent structure for CDBG-DR in pursuit of better and 
+more responsive performance for the Nation's disaster impacted 
+communities.
+    Thank you for this opportunity to appear before the Committee and I 
+look forward to addressing any questions that you might have.
+                                 ______
+                                 
+                    PREPARED STATEMENT OF MATT MAYER
+                      President, Opportunity Ohio
+                           December 15, 2021
+    My name is Matt Mayer. I am the President of Opportunity Ohio. From 
+2007 to 2016, I served as a Visiting Fellow at the American Enterprise 
+Institute and The Heritage Foundation where I focused on national 
+security issues, including disaster preparedness, response, and 
+recovery. I also served as the Counselor to the Deputy Secretary and 
+the Acting Executive Director of the Office of State and Local 
+Government Coordination and Preparedness (SLGCP) (formerly the Office 
+for Domestic Preparedness) at the U.S. Department of Homeland Security 
+(DHS) under President George W. Bush.
+    My time at DHS included the Department's response and recovery to 
+the four successive hurricanes (Cat 4 Charley, Cat 2 Frances, Cat 3 
+Ivan, and Cat 3 Jeanne) that struck Florida in August and September 
+2004 and Cat 5 Hurricane Katrina in 2005. Finally, I oversaw the 
+TOPOFF3 full-scale national exercise that occurred in New London, 
+Connecticut, and Newark, New Jersey, which tested several issues 
+including the overlap in authority among Federal departments and 
+agencies. In 2009, my book, Homeland Security and Federalism: 
+Protecting America From Outside the Beltway, was released by the 
+publisher. The second edition of that book came out in 2016. My 
+experience at DHS and my years of research provide me with insights I'd 
+like to share with the Committee.
+    Thank you for the opportunity to appear before the Committee today. 
+At no time have I received funding from any Federal, State, local, or 
+tribal department, agency, or office on matters covered by this 
+hearing. In lieu of restating the research I've done over the last 15 
+years and from my book, I would respectfully direct you to my research 
+publicly available at the websites of the American Enterprise Institute 
+and The Heritage Foundation. Should any Members want a copy of my book, 
+I'd be happy to provide that Member with a copy. I'd rather spend my 
+brief time framing the issues I see with the proposed legislation and 
+answer any questions you might have during our time together.
+    My largest concern with the proposed legislation is that it 
+continues the federalization of natural disasters that started in 1993 
+and has accelerated each decade, as more natural disasters that used to 
+be considered inherently State and local disasters have received 
+Federal declarations and, therefore, Federal funding. As noted below, 
+this federalization has led to supplanting State and local funds, an 
+underinvestment in mitigation and preparedness by States and 
+localities, and a forced subsidization of a minority of disaster-prone 
+States by the majority of ``safer'' States.
+    It doesn't appear Congress ever steps back for a moment and 
+considers whether it ``should'' federalize a traditional inherent State 
+and local function. With the national debt surpassing $30 trillion and 
+the flood of Federal funds that have been appropriated over the last 2 
+years in response to the pandemic, it may be time for Congress to pause 
+and reprioritize Federal spending. Of course, States will ``want'' the 
+``free'' Federal funds given most States are restricted by balance 
+budget amendments, so must prioritize spending annually. As we've seen 
+in the last year, the significant flow of Federal spending executed by 
+the printing of money is driving inflation to record highs. Failure to 
+restrain spending going forward will only make taming that inflation 
+more painful for the men and women in the communities you are intending 
+to help due to higher prices on everything they buy.
+    Secondarily, it creates a permanent program, including permanent 
+staff and regulatory control, outside of the Federal Emergency 
+Management Agency (FEMA) to deal with elements following a natural 
+disaster. In theory, the interagency process and cohesiveness between 
+Federal departments, including data sharing, should ``work,'' but 
+theory rarely becomes the reality in practice. My experience both 
+inside of the Federal Government and as a policy ``expert'' outside of 
+Government is that the creation of a program results in the political 
+and career personnel in that program seeing it as an opportunity to 
+grow their importance and roles. As a result, fiefdoms arise that 
+inhibit rather than encourage interagency coordination.
+    Following Hurricane Katrina, Congress intentionally consolidated 
+preparedness, response, and recovery functions in FEMA due to the 
+failures revealed in the response to that historical natural disaster. 
+Prior to that consolidation, several departments had roles in disaster 
+response that didn't necessarily require coordination with FEMA. My 
+former office, SLGCP, controlled several billion dollars worth of 
+homeland security grants, as well as training and exercise programs. In 
+the years and months leading up to Hurricane Katrina, we spent 
+countless hours in conflict with FEMA personnel, including with 
+Administrator Mike Brown, as FEMA wanted to control the grants. Our 
+concern with FEMA having control over the grants centered on the 
+likelihood that a natural disaster focus would overwhelm the goal of 
+the grants to strengthen America for a terrorist attack (i.e., given 
+how many natural disasters strike America in a given year, the 
+inclination at FEMA would be to focus on those incidents instead of 
+terrorism).
+    Similar ``territorial'' squabbles occurred within DHS with other 
+entities over FEMA's role and across the interagency. Even FEMA 
+circumvented DHS when it wanted to by cutting out the Secretary and 
+going directly to White House staffers or simply ignoring information 
+requests to keep the Secretary in the dark.
+    The post-Hurricane Katrina legislation that consolidated everything 
+under FEMA appears to have been successful at enhancing the Federal 
+response and decreasing interagency tension. Given the existence of 
+various FEMA programs aimed at housing and community redevelopment, 
+including its Individual and Households Program and its Public 
+Assistance Program, I'm unclear of why what exists today at FEMA is not 
+sufficient to address the concerns of Congress to ensure post-disaster 
+needs are met as efficiently and as effectively as possible. If 
+concerns exist, then it seems to me the more efficient and effective 
+approach would be to fix what isn't working at FEMA versus creating a 
+permanent separate, siloed program elsewhere.
+    Obviously, the U.S. Department of Housing and Urban Development 
+(HUD) should work closely with FEMA to provide its expertise on housing 
+and community redevelopment issues, but granting it permanent powers 
+and funding outside of FEMA likely will lead to territorial issues down 
+the road and run the risk of vital aspects falling through the cracks 
+that inherently exist when authorities and responsibilities exist with 
+two or more entities. Perhaps the wiser course of action at this 
+inflection point is to build upon the post-Hurricane Katrina reforms 
+that consolidated disaster activities within FEMA and consider moving 
+the Community Development Block Grant-Disaster Recovery (CDBG-DR) 
+program from HUD to FEMA.
+    As Senator Collins may recall from our time together with former 
+Senator Joe Lieberman during TOPOFF3 in 2005, one of the core issues we 
+discovered during that full-scale national exercise was which Federal 
+entity decided how clean was clean enough following a mustard gas 
+release at a pier. Both the U.S. Coast Guard and the Environmental 
+Protection Agency had roles and standards on that issue. The respective 
+standards on ``clean enough'' differed and both agencies insisted they 
+had the primary role. As a result, having multiple fiefdoms created 
+issues when it came to the Federal response.
+    Moreover, research has shown that multiple programs focused on the 
+same area result in benefit duplication and delay, including with CDBG-
+DR. As someone who worked closely with States, localities, and tribal 
+areas on grants, the reality is many jurisdictions lack the personnel, 
+expertise, and bandwidth to deal with numerous Federal agencies on 
+issues. Given that disasters are inherently unpredictable as to timing 
+and location, most State, local, and tribal areas won't have existing 
+staff available to deal with the influx of a multiheaded Federal 
+bureaucracy. Thus, consolidating CDBG-DR in FEMA will allow the Federal 
+Government to streamline the various threads dealing with housing and 
+community redevelopment under one roof and leverage the existing 
+emergency management personnel existing in State, local, and tribal 
+areas, with assistance from whatever local housing and community 
+redevelopment expertise exists.
+    In the rollout of DHS, some within it argued for the creation of 
+``fusion centers'' in which DHS grant funds would support the creation 
+and operation of State and local intel centers. Already existing 
+performing much of the same function were Joint Terrorism Task Forces 
+(JTTF). DHS didn't like JTTFs because those entities were controlled by 
+the U.S. Department of Justice/Federal Bureau of Investigation. This 
+Federal territorial scrum forced States and locals to try to staff both 
+entities, which they simply lacked the personnel to do effectively. 
+Unfortunately, this bifurcated effort still exists, which may partially 
+explain some of the failures our domestic intelligence system has 
+experienced in connecting the dots to detect and stop attacks (i.e., 
+items fall through the cracks or don't get shared between the fusion 
+centers and JTTFs). Having two Federal entities involved in funding 
+housing and community redevelopment after a disaster simply may results 
+in similar mistakes, such as delays, duplication, and waste.
+    Next, while I understand there may be housing and community 
+redevelopment issues after historically significant natural disasters 
+like Hurricane Katrina and the Northridge earthquake, I haven't been 
+successful in locating data showing that there are broader issues 
+existing predisaster that is destroyed or rendered unusable after 
+natural disaster strike. In any given year, certain locations deal with 
+flooding, other locations cope with tornadoes, coastal areas handle 
+hurricanes, western States fight wildland fires, and California must 
+remain ever vigilant regarding earthquakes. The regularity of these 
+occurrences tended to result in most communities being adept at 
+handling housing and redevelopment issues.
+    FEMA continues to provide assistance and, in some cases, housing to 
+victims of natural disasters while their homes and apartments are 
+rebuilt or fixed. FEMA also is heavily involved in larger community 
+development activities. Thus, what is missing in FEMA's portfolio that 
+justifies a permanent Federal program elsewhere? Is the goal to 
+prebuild affordable housing in safer locations that would remain 
+uninhabited unless a natural disaster struck? With poverty largely 
+located in urban centers and rural areas where few large-scale natural 
+disasters actually occur--most natural disasters that can destroy large 
+amounts of housing impact tourist zones along coasts, such an approach 
+would be highly inefficient and difficult to ``get right.''
+    Moreover, it also would warp the private market for land, 
+materials, and housing. We analyzed such an approach during TOPOFF3 in 
+regards to the health care elements that would be needed after a mass 
+terrorist attack. The elements included more hospitals, more supplies, 
+more nurses, more doctors, and more pharmaceuticals. As I recall, the 
+price tag for adding this post-disaster capacity that would remain in 
+reserve was in the tens of billions and deemed grossly inefficient 
+given the other pressing funding needs of the Federal Government.
+    Another concern is that my research has shown that Federal funds 
+tend to supplant rather than supplement State and local funds. 
+Following the influx of homeland security grants, States and localities 
+moved funds from their preparedness and emergency management programs 
+to other more pressing needs and replaced those funds with the Federal 
+homeland security grants. Thus, there wasn't a net increase in funding, 
+but a wash in funding in many cases. To stop this supplanting, I 
+strongly pushed for a hard matching requirement so that States and 
+localities maintain skin in the game.
+    Should you proceed with this legislation, I would strongly urge you 
+to include a matching element that cannot be waived. After all, housing 
+and community redevelopment are inherently State and local functions. I 
+also would urge measures are added to more effectively deal with waste, 
+fraud, and abuse and to shorten the time in which funds must be used to 
+a period of time consistent with the recovery operations following a 
+natural disaster. Lastly, I would urge greater restrictions on when 
+waivers can be granted, as experience from FEMA shows the exceptions 
+unfortunately become the rules.
+    Keep in mind, States and localities are (or will be) already flush 
+with Federal funds from the COVID pandemic and the infrastructure 
+package recently passed, as well as their own strong tax receipts. If 
+there is such a need as you envision, this new program will only 
+disincent States and localities from stepping up and meeting the needs 
+of their communities. With the infrastructure funds recently approved, 
+States and localities should have sufficient funds to deal with 
+whatever issues they face or could face after a natural disaster.
+    Finally, you must keep in mind that America is an enormous country 
+physically. Natural disasters don't happen uniformly across the 
+country. My research analyzing decades of natural disasters shows that 
+most nonroutine natural disasters (i.e., Category 3 or higher 
+hurricanes and 7.0 or higher Richter Scale earthquakes) occur along the 
+southern Atlantic coast, the Gulf Coast, and in California. Yes, the 
+States in the Great Plains, Mountain West, Midwest, and New England 
+experience natural disasters, but those disasters typically are routine 
+and well-planned for given the regularity of flooding, snowstorms, 
+wildland fires, and tornadoes in those communities year-after-year. 
+Obviously, the Mayfield, Kentucky, tornado is an exception, especially 
+given its timing and ferocity on the Enhanced Fujita scale.
+    As a result of these well-established patterns, the vast majority 
+of States end up subsidizing the States where the bulk of FEMA/HUD 
+funding flows. An occasional flood in Findlay, Ohio, is about all that 
+happens in my State that triggers FEMA funding, but, as the seventh 
+largest State in America, the proportion of Federal taxes Ohioans pay 
+to support FEMA end up subsidizing Floridians, Texans, and 
+Californians. The same goes for taxpayers in Pennsylvania, Rhode 
+Island, New Jersey, Idaho, Montana, Virginia, Maryland, Nevada, 
+Tennessee, Minnesota, Wyoming, Arizona, Kansas, North Dakota, and 
+Montana, as well as the other subsidizing States that aren't 
+represented on this Committee. Why should Ohioans be forced to 
+subsidize Floridians even more through another permanent Federal 
+disaster program?
+    As my testimony indicates, there are several concerns this 
+legislation creates that don't appear to be justified by the size of 
+the problem attempting to be solved and by the continued federalization 
+of natural disasters. If there is a need for what this legislation aims 
+to meet, fix it within FEMA or create it within FEMA so it is aligned 
+with FEMA's decades of experiences and programs related to housing and 
+community redevelopment issues post-disaster. Any legislation should 
+ensure that Federal funds aren't supplanting State, local, and tribal 
+area funds and that those entities have ``skin in the game.'' From a 
+pure equity position, Congress should ensure that States in which few 
+Stafford Act-eligible natural disasters occur aren't forced to 
+subsidize those States where big events occur regularly.
+    Thank you for the opportunity to testify to this Committee. Please 
+let me know if there is anything else I can do as you debate the 
+proposed legislation.
+                                 ______
+                                 
+                  PREPARED STATEMENT OF CARLOS MARTIN
+ Rubenstein Fellow, Metropolitan Policy Program, Brookings Institution
+                           December 15, 2021
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+        RESPONSES TO WRITTEN QUESTIONS OF SENATOR SINEMA
+                   FROM MICHAEL A. SPRAYBERRY
+
+Q.1. Grantees under the CDBG-DR Program are required to present 
+an action plan for approval by HUD before they receive funding. 
+The COVID-19 pandemic has had a significant impact on many of 
+our supply chains, including on the availability of certain 
+construction materials. Have these supply chain disruptions 
+adversely affected the ability of grant recipients to fulfill 
+their approved action plans? If so, what implications does this 
+have for grantees' current and future access to funding?
+
+A.1. Supply chain disruptions occurring since March 2020 have 
+certainly impacted the ability of CDBG-DR grant recipients to 
+make progress on programs and activities to be implemented 
+under their approved Action Plans. CDBG-DR is primarily a 
+construction-oriented funding source as the majority of funds 
+go to construction costs associated with housing and 
+infrastructure/public facilities. Localized shortages and 
+delays in obtaining materials and skilled labor are always 
+present post-disaster and have been exacerbated on a nationwide 
+basis by COVID-related disruptions. This reality has a negative 
+impact on grantee program execution timelines, but evidence 
+would have to collected on grantee-by-grantee basis to 
+determine the true impacts.
+    There are other factors which have likely impacted the pace 
+of implementation. First, for many grantees and their 
+subrecipients, staff attention to long-term recovery efforts 
+has been diverted to address the use of several trillion 
+dollars of Federal assistance appropriated in response to COVID 
+needs. Second, accounting for workflow changes due to increase 
+remote work had a negative impact on timelines, particularly in 
+the early months of the pandemic.
+    Grantee access to current CDBG-DR funds does not appear to 
+be at risk as it appears all CDBG-DR funds appropriated since 
+2015 are statutorily available until expended. HUD has imposed 
+administrative deadlines for use of the funds, but HUD has the 
+ability to move those deadlines if it chooses to do so. As for 
+access for future funds, that will be an issue to be decided 
+jointly by Congress and the Administration in the future.
+                                ------                                
+
+
+        RESPONSES TO WRITTEN QUESTIONS OF SENATOR TOOMEY
+                        FROM MATT MAYER
+
+Q.1. Duplication of Benefits--At the Senate Banking Committee 
+hearing on December 15, 2021, Mr. Michael Sprayberry testified 
+that ``it's so critical that FEMA and HUD share information so 
+that there isn't a duplication of benefits.''
+    Do you agree with Mr. Sprayberry that HUD should not 
+duplicate FEMA or other Federal assistance programs?
+
+A.1. First, I found it odd in his testimony and at the hearing 
+that Mr. Sprayberry didn't disclose a glaring conflict of 
+interest given that his current employer actively pursues and 
+receives HUD contracts funded by the Community Development 
+Block Grant-Disaster Recovery Program. Such a disclosure 
+doesn't take away from his experience and insights running 
+disasters in North Carolina, but it certainly adds critical 
+context to his support for HUD receiving disaster relief funds, 
+especially given my experience that FEMA/State emergency 
+managers typically strongly oppose disaster relief programs 
+outside of FEMA's domain.
+    Regardless, I agree that HUD funding should not duplicate 
+FEMA or other Federal assistance programs.
+
+Q.2. Do you think it is appropriate to waive a requirement 
+prohibiting the duplication of benefits, as allowed in the 
+Reforming Disaster Recovery Act (S. 2471)?
+
+A.2. I do not think it is appropriate to waive a requirement 
+prohibiting the duplication of benefits, as the entire point of 
+the requirement is to ensure benefits aren't duplicated, which 
+has been a significant problem in HUD-run disaster relief.
+
+Q.3. Do you think it is appropriate to establish penalties for 
+grantees failing to protect against the duplication of benefits 
+but permit waivers from the requirement that the Federal 
+Government pursue remedial action concerning such duplication 
+of benefits?
+
+A.3. Yes, there should be penalties for grantees failing to 
+protect against the duplication of benefits, as consequent-free 
+bureaucracy rarely benefits taxpayers or recipients of aid. 
+Similarly, waivers of the requirement that the Federal 
+Government pursue remedial action should not be permitted.
+                                ------                                
+
+
+        RESPONSES TO WRITTEN QUESTIONS OF SENATOR WARREN
+                       FROM CARLOS MARTIN
+
+Q.1. In response to an April 2019 request from myself and 
+Representative Bennie G. Thompson, Chairman of the House 
+Committee on Homeland Security, \1\ the Government 
+Accountability Office (GAO) recently released a study on the 
+extent to which the structure and administration of Federal 
+disaster programs, including CDBG-DR, exacerbate racial and 
+socioeconomic inequities in the United States, and the extent 
+to which they have a disparate impact on tribal nations. \2\
+---------------------------------------------------------------------------
+     \1\ Office of Senator Elizabeth Warren, ``Warren, Thompson Seek 
+GAO Review of Federal Disaster Aid Programs' Impact on Inequality'', 
+press statement, April 18, 2019, https://www.warren.senate.gov/
+oversight/letters/warrenthompson-seek-gao-review-of-federal-disaster-
+aid-programs-impact-on-inequality.
+     \2\ GAO, ``Disaster Recovery: Additional Actions Needed To 
+Identify and Address Potential Recovery Barriers'', GAO-22-104039, 
+December 15, 2021, https://www.gao.gov/products/gao-22-104039.
+---------------------------------------------------------------------------
+    GAO found that our Federal disaster programs ``lack key 
+information--data and analysis--that would allow them to 
+examine patterns and indicators of potential access barriers 
+and disparate recovery outcomes. Moreover, the programs have 
+not taken action to determine (1) the universe of data needed 
+to support this kind of analysis; and (2) sources and methods 
+to obtain those data when the programs do not already collect 
+them, including overcoming key challenges. Systematic efforts 
+to collect and analyze data, and routine, interagency processes 
+to address any identified access barriers or disparate 
+outcomes, would help ensure equal opportunity to participate in 
+disaster recovery in a meaningful way.'' \3\
+---------------------------------------------------------------------------
+     \3\ Id.
+---------------------------------------------------------------------------
+    Based on your research, what specific data are needed in 
+order to ensure that all communities--particularly communities 
+of color, low-income communities, and tribal nations--benefit 
+from Federal disaster relief programs?
+
+A.1. Response not received in time for publication.
+
+Q.2. The GAO report also found that while the Department of 
+Housing and Urban Development (HUD) officials who administer 
+CDBG-DR ``can access the demographic data that their grantees 
+are required to collected on beneficiaries . . . they do not 
+routinely and systematically use the data to identify access 
+barriers, because it is difficult to conduct analyses across 
+grants because of the flexibility given to each grant in its 
+administration of funds.'' \4\
+---------------------------------------------------------------------------
+     \4\ Id, p. 32.
+---------------------------------------------------------------------------
+    How can HUD best utilize and augment the demographic data 
+it collects for CDBG-DR to identify and address potential 
+barriers to accessing program funds and evaluate the 
+potentially disparate impact of the program across racial 
+groups, socioeconomic groups, and tribal communities?
+
+A.2. Response not received in time for publication.
+
+Q.3. How would permanent authorization of CDBG-DR facilitate 
+HUD's ability to ensure that aid administered in the wake of 
+natural disaster do not exacerbate existing racial and 
+socioeconomic inequities in affected communities?
+
+A.3. Response not received in time for publication.
+              Additional Material Supplied for the Record
+            LETTER SUBMITTED BY THE BIPARTISAN POLICY CENTER
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+      LETTER SUBMITTED BY THE DISASTER HOUSING RECOVERY COALITION
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+                        [all]
+

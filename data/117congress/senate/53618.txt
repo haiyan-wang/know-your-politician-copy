@@ -1,0 +1,2540 @@
+
+ - OVERSIGHT OF THE U.S. SECURITIES AND EXCHANGE COMMISSION
+
+[Senate Hearing 117-748]
+[From the U.S. Government Publishing Office]
+
+
+                                                       S. Hrg. 117-748
+
+
+                  OVERSIGHT OF THE U.S. SECURITIES AND 
+                            EXCHANGE COMMISSION
+
+=======================================================================
+
+                                HEARING
+
+                              BEFORE THE
+
+                              COMMITTEE ON
+                   BANKING,HOUSING,AND URBAN AFFAIRS
+                          UNITED STATES SENATE
+
+                    ONE HUNDRED SEVENTEENTH CONGRESS
+
+                             SECOND SESSION
+
+                                   ON
+
+           EXAMINING OVERSIGHT OF THE U.S. SECURITIES AND EXCHANGE 
+                                COMMISSION
+
+                               __________
+
+                           SEPTEMBER 15, 2022
+
+                               __________
+
+  Printed for the use of the Committee on Banking, Housing, and Urban 
+                                Affairs
+                                
+[GRAPHIC NOT AVAILABLE IN TIFF FORMAT]                                
+
+
+                Available at: https: //www.govinfo.gov /
+
+                                __________
+
+                                
+                    U.S. GOVERNMENT PUBLISHING OFFICE                    
+53-618 PDF                   WASHINGTON : 2023                    
+          
+-----------------------------------------------------------------------------------     
+
+            COMMITTEE ON BANKING, HOUSING, AND URBAN AFFAIRS
+
+                     SHERROD BROWN, Ohio, Chairman
+
+JACK REED, Rhode Island              PATRICK J. TOOMEY, Pennsylvania
+ROBERT MENENDEZ, New Jersey          RICHARD C. SHELBY, Alabama
+JON TESTER, Montana                  MIKE CRAPO, Idaho
+MARK R. WARNER, Virginia             TIM SCOTT, South Carolina
+ELIZABETH WARREN, Massachusetts      MIKE ROUNDS, South Dakota
+CHRIS VAN HOLLEN, Maryland           THOM TILLIS, North Carolina
+CATHERINE CORTEZ MASTO, Nevada       JOHN KENNEDY, Louisiana
+TINA SMITH, Minnesota                BILL HAGERTY, Tennessee
+KYRSTEN SINEMA, Arizona              CYNTHIA LUMMIS, Wyoming
+JON OSSOFF, Georgia                  JERRY MORAN, Kansas
+RAPHAEL WARNOCK, Georgia             KEVIN CRAMER, North Dakota
+                                     STEVE DAINES, Montana
+
+                     Laura Swanson, Staff Director
+
+                 Brad Grantz, Republican Staff Director
+
+                       Elisha Tuku, Chief Counsel
+
+                 Dan Sullivan, Republican Chief Counsel
+
+                      Cameron Ricker, Chief Clerk
+
+                      Shelvin Simmons, IT Director
+
+                        Pat Lally, Hearing Clerk
+
+                                  (ii)
+
+
+                            C O N T E N T S
+
+                              ----------                              
+
+                      THURSDAY, SEPTEMBER 15, 2022
+
+                                                                   Page
+
+Opening statement of Chairman Brown..............................     1
+        Prepared statement.......................................    40
+
+Opening statements, comments, or prepared statements of:
+    Senator Toomey...............................................     3
+        Prepared statement.......................................    41
+
+                                WITNESS
+
+Gary Gensler, Chair, U.S. Securities and Exchange Commission.....     5
+    Prepared statement...........................................    43
+    Responses to written questions of:
+        Senator Toomey...........................................    56
+        Senator Warren...........................................    77
+        Senator Sinema...........................................    79
+        Senator Ossoff...........................................    84
+        Senator Warnock..........................................    87
+        Senator Crapo............................................    89
+        Senator Scott............................................    91
+        Senator Tillis...........................................    94
+        Senator Kennedy..........................................   100
+        Senator Hagerty..........................................   102
+        Senator Daines...........................................   104
+
+              Additional Material Supplied for the Record
+
+Letter submitted by National Association of Manufacturers, 
+  Securities Industry and Financial Markets Association, and U.S. 
+  Chamber of Commerce............................................   108
+
+                                 (iii)
+
+ 
+        OVERSIGHT OF THE U.S. SECURITIES AND EXCHANGE COMMISSION
+
+                              ----------                              
+
+
+                      THURSDAY, SEPTEMBER 15, 2022
+
+                                       U.S. Senate,
+          Committee on Banking, Housing, and Urban Affairs,
+                                                    Washington, DC.
+    The Committee met at 10:02 a.m., via Webex and in room 538, 
+Dirksen Senate Office Building, Hon. Sherrod Brown, Chairman of 
+the Committee, presiding.
+
+          OPENING STATEMENT OF CHAIRMAN SHERROD BROWN
+
+    Chairman Brown. The Senate Committee on Banking, Housing, 
+and Urban Affairs will come to order.
+    Today's hearing, as usual, is in the hybrid format. 
+Witnesses are in person. The witness, Mr. Gensler, nice to see 
+you, Chair. Our witnesses are--Members have the option to 
+appear in person or virtually.
+    Welcome back, Chair Gensler, to this Committee.
+    Workers and their families do not measure the economy by 
+the stock market; neither should we. It is why in the Senate 
+and in the still new Biden administration we work to create an 
+economy that delivers results for people who get their incomes 
+from a paycheck, not an investment portfolio, raising wages and 
+good-paying jobs, and lowering costs. It means fighting the 
+corporate price gouging that so often hurts consumers and the 
+unfair labor practices that so often hurt workers. It means 
+investing in American manufacturing and the workers and farmers 
+who drive it. It means making sure our financial watchdogs keep 
+our economy and our markets stable.
+    At the SEC, that includes going after companies that try to 
+cheat the market. Chair Gensler is doing that very well. It 
+means strengthening corporate disclosures to stay ahead of 
+risks like climate change. It means looking into the practices 
+of private equity and hedge funds as they stretch their 
+tentacles into more and more areas of our economy.
+    It has been an eventful year. This summer, the Senate 
+confirmed President Biden's two nominees to the SEC. I know 
+both new commissioners got right to work on the many issues 
+before this Agency and the Commission and its dedicated staff 
+have been busy.
+    Republicans on this Committee have bellyached, and I assume 
+will today, about your ambitious agenda. If Wall Street and its 
+allies are complaining, it tells me you are doing your job. You 
+put America's savings first. You focus on transparency and 
+fairness, two concepts critical to making sure our markets work 
+for everyone, not just insiders, not just corporate execs.
+    The SEC must continue making enforcement a priority. Bad 
+actors are always coming up with new schemes to separate people 
+from their hard-earned money or to cheat the rules to gain a 
+little bit more for themselves. Under your watch, SEC has 
+increased prosecution for insider trading which, as of course 
+you know, under the Trump administration had fallen to the 
+lowest level in a generation.
+    In April, this Committee considered a Reed-Menendez bill 
+that would outlaw insider trading in statute. The House has 
+already passed a similar bill; the Senate must. Last month, we 
+saw the successful results of bipartisan work of our Committee 
+Members to improve transparency and fight fraud.
+    In 2020, Senator Kennedy, who is sitting to my left, more 
+or less, and Senator Van Hollen pushed for the passage of the 
+Holding Foreign Companies Accountable Act, a bill to stop the 
+U.S. Stock Exchange trading of foreign companies with China 
+based auditors that refused to comply with our oversight laws. 
+Because that law jumpstarted negotiations, the Public Company 
+Accounting Oversight Board signed an agreement with Chinese 
+authorities that will, finally, allow auditors to begin 
+inspections.
+    In March, the President signed an Executive order 
+establishing a whole-of-Government strategy for digital assets. 
+While agencies across our Government look at how we respond to 
+the growth of crypto and best protect Americans' money, we know 
+the SEC continues to enforce the laws, going after cryptotokens 
+that violate security laws, shutting down crypto Ponzi schemes, 
+charging insider trading crimes in crypto.
+    Over the last year in the Banking, Housing, and Urban 
+Affairs Committee, we have looked at how crypto assets are used 
+in scams and frauds and play a role in illicit finance. We 
+heard from the Treasury Under Secretary who testified on the 
+President's Working Group report on stablecoin.
+    This morning, the Ag Committee downstairs and Senator Smith 
+and I on this Committee, on the Democratic side, sit on both of 
+these Committees is considering a crypto bill sponsored by 
+Senators Stabenow and Boozman that focuses on digital 
+commodities. I appreciate their work to create regulation in 
+the crypto space.
+    It is critical, though, that we are careful and deliberate 
+in drawing jurisdictional lines. In this kind of regulation, we 
+have to prevent gaps and close loopholes that can be exploited 
+or abuse. It is not easy. It is why action by the Agriculture 
+Committee and the Commodity Futures Trading Commission Agency, 
+Chair Gensler is very familiar with, why that action is 
+welcome, but we also know it is not enough.
+    When Congress wrote Dodd-Frank, we fixed the problems in 
+the oversight of the over-the-counter derivatives market. It is 
+a lesson we need to remember, thinking of the damage that was 
+done prior to when it comes to crypto. Our regulators need to 
+work together to make sure investors and consumers and market 
+stability come first.
+    SEC's work on climate risk disclosure is an important 
+example of how to improve the market's understanding of risk 
+and to provide transparency and comparability. Clarity and 
+uniformity are key. If only a subset of companies provides 
+disclosure and they do so in whatever form they want, that does 
+not serve anyone. Investors outside the U.S. already benefit 
+from standardized climate risk disclosure. It is time the U.S. 
+market did as well.
+    SEC's recent rule proposal to require more disclosure about 
+corporate stock buybacks will also bring much needed 
+transparency to the market. Thank you for that.
+    We know stock buybacks are a big problem. They distort the 
+market. They funnel profits to executives at the expense of 
+long-term investment in workers and in innovation. The process 
+allowed for these buybacks has only made them more 
+manipulative. For decades, companies have been able to announce 
+stock buybacks to juice their stock price, but then they only 
+provide details months later on how, when, and even whether 
+they even completed their plans. Under SEC's new proposal, the 
+market and the SEC would understand when companies are buying 
+their stock and if executives are buying or selling at the same 
+time.
+    Taken together with unprecedented steps in the Inflation 
+Reduction Act to finally tax these buybacks--and I appreciate 
+Senator Tester and others on this Committee supporting that--
+these are the first real steps we have seen in years to rein in 
+this Wall Street scheme, another example of a new President of 
+the United States who fights for workers and sides with 
+workers.
+    Chair Gensler, I look forward to hearing more about other 
+ways the SEC is working to hold bad actors accountable and 
+protect Americans who invest their hard-earned money in the 
+markets.
+    Ranking Member Toomey.
+
+         OPENING STATEMENT OF SENATOR PATRICK J. TOOMEY
+
+    Senator Toomey. Thank you, Mr. Chairman.
+    Chairman Gensler, welcome back to the Committee. Good to 
+see you again.
+    The SEC, as we all know, has a critical role to play in 
+protecting investors, maintaining fair, orderly, and efficient 
+markets, and facilitating capital formation. Unfortunately, 
+some of the SEC's recent actions and inactions raise concern 
+about how well it is carrying out this important mission. Take 
+for example the SEC's handling of crypto lending platforms like 
+Celsius and Voyager. Celsius and Voyager were offering interest 
+rates as high as 18 percent if customers would lend their 
+digital assets to them. The firms would then lend that crypto 
+to presumably other larger investors to make short-term bets on 
+cryptomarkets. But once the crypto selloff began, many 
+borrowers could not pay their debts, and these platforms froze 
+customer accounts.
+    The SEC did take enforcement action against BlockFi for 
+similar activities last winter yet somehow let Celsius and 
+Voyager continue through the spring when both companies blew up 
+and found themselves in bankruptcy, with investors staring at 
+billions in losses. Where was the SEC?
+    And where has the SEC been in clarifying the rules of the 
+road for cryptomarket participants? The Chairman insists in his 
+written testimony that ``the vast majority'' of cryptotokens 
+are securities, but he has also acknowledged that Bitcoin is 
+not. Now presumably, that is because Bitcoin is so thoroughly 
+decentralized, but that naturally raises the question: Where on 
+the decentralization continuum does a token cease to be a 
+security?
+    Most of these tokens do not even have a financial claim on 
+the issuer. Doesn't that make these tokens very different from 
+at least the vast majority of ordinary securities?
+    And if the Chairman is right that most tokens should be 
+considered securities, then, as he himself states in his 
+written testimony, ``It follows that many crypto intermediaries 
+are transacting in securities and have to register with the SEC 
+in some capacity.''
+    But crypto transactions typically can be settled in real 
+time on chain and without intermediaries. As a result, crypto 
+intermediaries often serve different customer needs, they have 
+got different business models, and they pose different risks 
+than traditional securities intermediaries.
+    All of that raises the question: What is the crypto 
+specific roadmap for these crypto intermediaries to register?
+    Stepping back, I think there is a larger problem here. As 
+Bloomberg columnist Matt Levine put it, ``Chairman Gensler's 
+posture is that he should be in charge of writing the rules for 
+crypto but not write them. I just do not see how that can 
+work.'' I think Mr. Levine has a good point.
+    Given the novel nature of these tokens, really, Congress 
+ought to step in and provide clarity. In particular, we need to 
+revisit the definition of security as part of a larger effort 
+to tailor a regulatory framework that is calibrated to the 
+unique risks and activities of the cryptomarket.
+    As I have said, cryptotokens have varying degrees of 
+decentralization, they usually do not have a financial claim on 
+the issuer and typically can be settled in real time without 
+intermediaries. These are very major and important differences 
+from traditional securities, and they merit a clearly stated 
+and tailored regulatory framework.
+    Now while the SEC has failed to provide the regulatory 
+clarity in the cryptomarkets, it has been issuing numerous 
+controversial and burdensome rules and proposed rules in the 
+ordinary securities market. Top of that list is the SEC's 
+climate disclosure rule. Public companies are already required, 
+legally required, to disclose material climate change 
+information. The proposed rule, however, would go much further, 
+to require disclosure of exceedingly extensive global warming 
+data.
+    This data will be enormously expensive to collect, but 
+almost none of it will be material to a business's finances. 
+For annual reports alone, the SEC estimates that aggregate 
+external compliance costs for issuers will increase from $1.9 
+billion per year to $5.2 billion per year if the SEC's proposed 
+climate disclosure rule becomes effective. The SEC itself again 
+estimates that the external compliance cost of a company going 
+public will increase by more than five times at a time when 
+excessive regulatory costs are already resulting in ever fewer 
+companies going public. The cost of compliance will be more 
+material to the investor than the information itself.
+    But, of course, the climate disclosure rule is not really 
+about informed investment decision. It is about equipping 
+climate activists with data to run political pressure campaigns 
+against companies, which will often be to the detriment of 
+shareholders. The end game is to discourage capital investment 
+in oil, in natural gas, and other traditional energy 
+industries, and we have seen how well that is working out in 
+Europe.
+    The SEC is wading into controversial public policy debates 
+that are far outside its mission and its expertise, and they 
+are doing it without the legal authority to do so. And in the 
+process, the SEC risks politicizing the Agency, slowing 
+economic growth, increasing inflation, and possibly even 
+undermining national security.
+    So given the importance of these issues, Banking Committee 
+Republicans have written to the SEC, asking basic questions 
+about how the SEC developed the climate disclosure rule. 
+Instead of providing real, substantive answers, the SEC has 
+been stonewalling us. Well, the SEC may not want to answer to 
+Congress on its climate disclosure rule, but ultimately, the 
+SEC will have to answer to the courts, which should make it 
+nervous. The Supreme Court has repeatedly held ``Congress does 
+not alter the fundamental details of a regulatory scheme in 
+vague terms or ancillary provisions. It does not, one might 
+say, hide the elephants in mouse holes.''
+    This summer, the Supreme Court applied this sensible 
+principle in the West Virginia v. EPA case. There, it ruled 
+that the Executive branch and its agencies cannot use novel 
+interpretations of existing law to pretend that they have got a 
+legal authority to support sweeping policy changes, including 
+on climate change, that Congress never intended. Well, that is 
+precisely what the SEC appears to be trying to do with its 
+climate disclosure rule. The SEC should consider itself to be 
+on notice by the Court that the separation of powers still 
+exists and will be upheld.
+    Thank you, Mr. Chairman.
+    Chairman Brown. Thank you, Senator Toomey.
+    Today, we will hear from Securities and Exchange Commission 
+Chair Gary Gensler. This is his annual trip here, but he 
+sometimes does that more often, and we thank him for that.
+    And, Chair Gensler, you are particularly welcome because 
+this will--we have a very good, well above average turnout 
+today, so enjoy that, but thank you for joining us, Chair 
+Gensler.
+
+STATEMENT OF GARY GENSLER, CHAIR, U.S. SECURITIES AND EXCHANGE 
+                           COMMISSION
+
+    Mr. Gensler. Chair Brown, Ranking Member Toomey, and 
+Members of the Committee, I am honored to appear here before 
+you today. I want to start just by thanking you, this Committee 
+and all of Congress, for confirming our two new commissioners, 
+Mark Uyeda, who I know worked up here on the Hill, Jaime 
+Lizarraga, who worked on the other side of the Capitol for 32 
+years, terrific commissioners. It is welcome that we have a 
+full complement.
+    As is customary, I want to say that I am speaking for 
+myself; I do not speak on behalf of the fellow commissioners or 
+the staff in this hearing.
+    I would like to start by just discussing 2 key years in 
+policymaking a while back: 1933, 1934. I think it was when 
+Chair Fletcher sat in this seat, Chair Brown, if I recall my 
+history right, but it was in the middle of the Great 
+Depression. And President Roosevelt and Congress addressed the 
+crisis through a number of landmark reforms, and among them, 
+Congress and FDR came together to craft the first two Federal 
+securities laws. In 1933, President Roosevelt also suspended 
+the use of the gold standard. In other words, in those two 
+critical years, one could say that we replaced one gold 
+standard with, I would like to say, another, the securities 
+laws.
+    I really do believe the core principles of the securities 
+markets have contributed to America's economic success and 
+geopolitical standing. There was a basic bargain in there that 
+investors get to decide on what risks they want to take, but 
+there was a cop on the beat in securities laws where there was 
+full, fair, and truthful disclosure.
+    As we execute our mission to protect investors, maintain 
+fair and orderly, efficient markets, and facilitate capital 
+formation, we cannot take the leadership for granted, though. 
+Even gold medalists, especially gold medalists, constantly 
+train to stay ahead of the competition. And I do thank Senators 
+Kennedy and Van Hollen to help us a little bit with this issue 
+with China. We must remain vigilant to opportunities to drive 
+greater efficiency, integrity, resiliency across our remit.
+    First, markets work best when they are efficient. Now what 
+does that mean? That means that there is competition, there is 
+transparency in the middle of the market. When we lower the 
+costs in the middle, that means issuers have lower costs to 
+raise money and investors get better returns.
+    So we have done a lot, but we have not updated our national 
+market system, our equity system in 17 years. Imagine if you 
+had in your pocket a phone that was 17 years old. You would 
+think, oh, my God, maybe I should update that phone. Technology 
+moves fast.
+    We are also looking at the efficiency of our Treasury 
+market and, yes, our private funds market. Issuers and 
+investors also would benefit from greater competition because 
+it lowers the cost of capital, as I said.
+    Second, our system works best when there is integrity in 
+the market, and hence, we have rule proposals to bring greater 
+integrity into the market around special purpose acquisition 
+companies, the insiders trading plans, and so forth.
+    But another area is crypto, as Ranking Member Toomey 
+raised. Of the nearly 10,000 tokens in the cryptomarket, I do 
+believe that the vast majority are securities. Offers and sales 
+of these securities tokens are covered by the securities laws, 
+and given that, as the Ranking Member quoted me as saying, it 
+follows that many crypto intermediaries are transacting in 
+securities and have to register with the SEC in some capacity.
+    I would note when Chair Fletcher was in that seat there was 
+not a central electronic clearing and you could actually 
+exchange a security, person to person, in a paper form.
+    Thus, staff is working with market participants to help 
+ensure investors get time-tested protections in the market. In 
+that work and any work that Congress does, I do think we have 
+to make sure that we do not inadvertently undermine the 
+securities laws underlying a $100 trillion capital market. That 
+is the sort of motherlode. That is our capital markets. Crypto 
+is \1/100\th that size.
+    Third, markets work best when they are resilient, both in 
+normal times and stress. We have seen those stresses in 2008 
+and 2020. History tell us, no doubt, we will have stresses 
+again in the future. That is just the nature of economics and 
+finance. Thus, we have a number of projects on resiliency. This 
+includes shortening the settlement cycle. This includes the 
+work we are doing in the Treasury markets. It includes the work 
+we are doing around money market funds and open-end funds and 
+cybersecurity.
+    In all our work, we are anchored by the laws Congress 
+passed, the courts' interpretation of those laws, economic 
+analysis, and public input. And as the Commission, we benefit 
+greatly from public input including from Congress and this 
+Committee, Members, and I stand ready to meet with any of you, 
+one on one, nearly any time you want. We benefit from that 
+feedback.
+    Our capital markets are the gold standard. Let us do 
+everything we can to keep them that way.
+    I thank you. I look forward to questions.
+    Chairman Brown. Thank you, Chair Gensler. I think what you 
+have said--and I have heard you say this before in smaller 
+groups, publically, and bigger groups--that we cannot allow the 
+cryptomarket to undermine a $100 trillion capital market, that 
+is fundamentally our job here. Consumer protections, all that, 
+but fundamentally that is our job in the Banking, Housing, and 
+Urban Affairs Committee, and that is yours.
+    You have made improving transparency in corporate 
+disclosures a priority. In addition to the climate risk 
+disclosures, enhanced stock buyback information I mentioned 
+earlier, the Commission is addressing cybersecurity risks, 
+improving visibility, if you will, into concentrated ownerships 
+of stocks. Discuss briefly why it is critical that we improve 
+these types of disclosure for investments, large and small 
+investors, and for how markets operate.
+    Mr. Gensler. I would say, there is two core things and it 
+goes back to our founding. One was this basic bargain that 
+investors get to decide as long as they get the full and fair 
+disclosure, material disclosures, but full and fair 
+disclosures, and they get to decide, and you cannot defraud 
+them and mislead them. That lowers the cost of capital actually 
+because then there is trust in the market.
+    The second thing that transparency does is it helps promote 
+competition in the markets, and competition, that is the nature 
+of things. It promotes our economies as well and that 
+competition amongst intermediaries, amongst people trying to 
+raise money from the public.
+    So I would say those are the two things, not to mention 
+also market integrity.
+    Chairman Brown. Thank you. I have noticed today--I 
+commented, and Senator Toomey has confirmed this, that we have 
+seen--we will see an unusually high turnout of Republicans for 
+this hearing today. I think that the turnout of Republicans, 
+many of whom, against all evidence--many Republican Senators, 
+many of whom, against all evidence, are climate deniers, will, 
+I would assume, ask you questions about that, but let me go 
+with that.
+    On climate risk disclosure, specifically, discuss why your 
+Agency is--what you are proposing is not, quote, making climate 
+policy but, rather, how improving disclosure helps all 
+investors.
+    Mr. Gensler. Well, it is because right now hundreds of 
+companies and investors representing not trillions, but tens of 
+trillions of dollars of assets under management, are in this 
+conversation already. Investors get to decide. We are not a 
+merit regulator. Some people think we might be; we are not. We 
+are a disclosure-based regulator.
+    But investors today want to know about climate risk because 
+it matters to the future path of the performance, financial and 
+other performance. What are customers going to do? What is the 
+supply chain going to do? What might happen around the globe? 
+Because our U.S. issuers are operating in many jurisdictions 
+around the globe.
+    So it really does go back into when I buy or sell a stock, 
+or vote a proxy, climate risk matters to those investors. We 
+have a role to help bring some consistency to those 
+disclosures, so they are already happening.
+    Chairman Brown. Your clearly saying you are not a merit 
+regulator but a disclosure regulator is really important here, 
+and I hope my colleagues remember that you said that and think 
+that through as they ask their questions.
+    Let me ask about crypto in the last minute-and-a-half, the 
+cryptomarkets type securities and banking and commodities laws. 
+My colleagues developed legislation, as you know, that would 
+give the CFTC jurisdiction over part of the cryptomarket. 
+Remind us why it is important--I will ask two questions 
+together, so you can take the last minute-and-a-half.
+    Remind us why it is important for financial regulators to 
+coordinate oversight to make sure that gaps or loopholes do not 
+exist. And, would you agree to continue to work with our 
+Committee, the CFTC, and the banking regulators to make sure we 
+get this right?
+    Mr. Gensler. I do commit to that. Let me just say, when I 
+say that it is important to protect and ensure that the $100 
+trillion securities market works, it is because that is the 
+heart of how we price risk in our financial markets and how 
+investors save. And this Committee and the House Financial 
+Services Committee oversees that and wrote into law that there 
+was one cop on the beat, one regulator.
+    The definition of securities should be, I think, kind of 
+the exclusive remit of these two Committees--you know, I am 
+looking across the aisle--and the agency that you set up. If we 
+end up with that there is multiple Federal agencies defining 
+what a security is and another agency tries to define it, it 
+could undermine what we are doing as to when is a Treasury 
+security a security, when is something else in the equity 
+markets or elsewhere a security.
+    To your question about working together, we work together 
+with the other Federal financial regulators. We just yesterday 
+announced something in the Treasury markets that we worked hand 
+in glove with the Treasury and the Federal Reserve. With the 
+CFTC, I was honored to chair that agency. I love the Agency, 
+the CFTC. I love the SEC. It is like my three daughters.
+    But I do want to say that we work closely with the CFTC 
+with regard to a recent rule that we put out, and there are 
+many parties in the markets that are dual registrants. We have 
+dual broker-dealer registrants that are registered with the 
+CFTC and us, so as well on the fund advisory side. If Congress 
+moved forward to give the CFTC greater authority, let us say 
+over Bitcoin, then we would, of course, work together, but we 
+have already worked together dually on a number of enforcement 
+actions in the crypto space.
+    Chairman Brown. Thank you. One brief statement: Your 
+testimony mentioned the enforcement division shrank by 5 
+percent over the last 5 years; yet, despite that, the SEC has 
+pursued new cases in crypto, focused on fraud and misconduct 
+for financial professionals and securing admissions of guilt. 
+That does not happen often enough. I thank you for doing that.
+    Ranking Member Toomey.
+    Senator Toomey. Thank you, Mr. Chairman.
+    Chairman Gensler, in your written statement, you 
+acknowledge, as you have in the past, that there are some 
+tokens that are not securities, and I know your view that 
+whether or not a digital asset is a security is a facts-and-
+circumstances analysis. I know your view that the SEC has very 
+broad authority, but you have also made it clear in the past 
+that Bitcoin is not a security.
+    Now some SEC staff have also previously said that Ethereum 
+is not a security. The SEC's DAO report characterizes Ethereum 
+as decentralized.
+    So here is my question. Briefly, and without getting deep 
+into the weeds on this--and I acknowledge your belief that most 
+tokens have a large degree of central control. But, generally 
+speaking, is it fair to say that a significant factor for you 
+in whether or not a digital asset is a security is whether it 
+is centrally controlled or decentralized?
+    Mr. Gensler. Well, I look to the Supreme Court that has 
+often written about this, probably close to a dozen times in 50 
+years. And it is whether the investing public is anticipating 
+profits, and that includes anticipating profits from 
+appreciation as well as from, as you mentioned, rights based 
+upon a common enterprise----
+    Senator Toomey. Right.
+    Mr. Gensler. --but the efforts of that common enterprise.
+    Senator Toomey. Right. So I guess another way to put my 
+question, which you have not answered is: Is it possible to 
+have a common enterprise if it is something that is 
+decentralized? How could it have a common enterprise? I mean, 
+isn't centralization necessary to constitute a common 
+enterprise?
+    Mr. Gensler. You could have some things that are quite open 
+but still have if the public is anticipating a profit based 
+upon that common enterprise. So I am being careful with my 
+words here to be accurate as best I can. The common enterprise. 
+Are you relying on a group of individuals?
+    And, look, these are not laundromat tokens. There is a 
+group of people that are actually----
+    Senator Toomey. No, you are not answering my question, 
+though. Let me try it this way. What is it about Bitcoin that 
+causes you to conclude it is not a security?
+    Mr. Gensler. Well, there is--one is there is no group of 
+individuals in the middle.
+    Senator Toomey. Right. It is decentralized.
+    Mr. Gensler. There is no group of individuals in the 
+middle----
+    Senator Toomey. Right.
+    Mr. Gensler. ----that are basically--and you are not--in 
+essence, we are----
+    Senator Toomey. So----
+    Mr. Gensler. The investing public is not betting on 
+somebody in the middle or six people in the middle.
+    Senator Toomey. So you are choosing not to word--use the 
+term ``decentralized,'' but that is what you are describing. It 
+is the decentralized nature of Bitcoin, I think, is really what 
+you are getting at.
+    Here is my point, and I am going to run out of time here. 
+But, there are a lot of projects, as you know, that--I mean, 
+decentralization and centralization occurs on a continuum 
+really, I think. And you have acknowledged that there are 
+tokens, plural, that are not securities. I think it is because 
+of the centralization that you come to this conclusion.
+    And my point is it is not reasonable to fail to provide 
+clarity, to provide the definition of exactly where on this 
+continuum you have a sufficient common enterprise that it 
+qualifies as a security and where you do not.
+    You have said Bitcoin does not. Some of your colleagues 
+have said Ethereum does not. But a reasonable developer who 
+wants to comply with this does not know where that line is 
+drawn.
+    Mr. Gensler. So I think we might have differences. There 
+are many factors, and so it is not one spectrum of 
+centralization versus decentralization.
+    What the Supreme Court--and I try to stick to--they are the 
+Supreme Court, and you know, there will be debates about other 
+laws. I try to stick to what they say, a common enterprise. I 
+think about a group of individuals in the middle. That 
+developer is in the middle, and the investing public is betting 
+on them, counting on them.
+    Even if the token might be on a thousand computers, that is 
+not what the Supreme Court is looking at. It is not about the 
+token being on a thousand computers. It is just like a group of 
+developers in the middle.
+    Senator Toomey. If there is nobody controlling it in the 
+middle, that is what we call decentralized, and that does 
+happen.
+    As you know, of course, the Howey Test requires all four of 
+the tests to be met in order for something to be defined as a 
+security.
+    Let me move on to another related issue which is, as I said 
+in my opening statement, I do not think that the SEC has 
+provided a crypto-specific roadmap to the registration of 
+crypto intermediaries. One example of the problem that arises 
+is the SEC's consumer--customer protection rule was written in 
+1972 and does not address how a broker-dealer should hold a 
+customer's blockchain private keys, for instance.
+    Now I know the SEC claims to have provided relief, but the 
+relief has very onerous contingencies. It is time-limited, and 
+my understanding is few, if any, broker-dealers have been able 
+to comply.
+    So I know you have said many times you want to have the 
+industry, the intermediaries come in and have a conversation 
+with the SEC about this. But wouldn't it be better if the SEC 
+came out and laid out how you would apply the rules and 
+regulations to these novel devices?
+    Mr. Gensler. So we are in conversations with a number of 
+these intermediaries across the exchange, the lending, the 
+broker-dealer, the custody space. As I said a year ago, in the 
+lending space, people should make no mistake. And I think it 
+sounds like, Senator, you and I might even agree that the 
+lending platforms are----
+    Senator Toomey. Right.
+    Mr. Gensler. ----under the securities laws.
+    Senator Toomey. Right.
+    Mr. Gensler. But in the exchange space and the broker 
+dealer space, I accept that people have not come in and used 
+what was put in place under Chair Clayton, that broker dealer 
+custody rule that you mentioned. And so I have said to staff, 
+let us use everything in our regulatory tool kit, whether it is 
+Exemptive Orders and others, to help facilitate and get this 
+industry--people will not have trust in this space unless it 
+comes into investor protection.
+    Senator Toomey. I am out of time, Mr. Chairman. So I would 
+just say my concern is that the approach you are taking with 
+these one-off discussions, if it did even result in an 
+opportunity to comply, it would be this idiosyncratic Exemptive 
+Order negotiated with a single company, and that is not a good 
+way to pass rules. It ought to be through the APA and a very 
+public process.
+    Mr. Gensler. If the Chair would forgive me, I think we have 
+been very clear through 70 or 80 actions, starting with that 
+DAO Order, the Munchee Order, and many others, and they were 
+full votes of the Commission, not just staff.
+    Second, I just look at other times in history. The SEC and 
+the asset-backed securities market took 10 or 11 years where 
+they did these, as you would say, Exemptive Orders or relief to 
+individual issuers and did a rule at the end of that 10 or 11 
+years based upon all that experience. So we actually believe it 
+is worthwhile to talk to the industry, talk to the market 
+participants, and get them registered.
+    Chairman Brown. Thank you, Chair.
+    Senator Tester of Montana is recognized.
+    Senator Tester. Yeah, thank you, Mr. Chairman, and I want 
+to thank you, Chairman Gensler, for being here as always.
+    Recently, I led a group of my colleagues writing to you 
+about your process for a significant number of proposals that 
+the SEC has been working on over the last year. I would think 
+that you would agree that it is important there is sufficient 
+opportunity for stakeholder input and feedback. One of those 
+proposals that I have been hearing about is the enhancement and 
+the standardization of climate-related disclosures for 
+Investors.
+    You probably know that I am a farmer. My wife and I, this 
+is our 45th harvest as a matter of fact. And as a working 
+farmer, I can tell you that I can understand the importance of 
+considering the impacts of climate change. This year was our 
+second worst harvest due to drought. Last year, due to extreme 
+weather conditions, was our worst harvest. So climate change is 
+real, and it appears like it ain't going away. So we have got 
+some issues to deal with.
+    I also know, though, that access to capital and markets to 
+sell our product and to produce our product is really 
+important, and I can tell you I understand the burden of 
+reporting information. I get surveys nearly every day about 
+what I am doing as a farmer. This week, there were a number of 
+farm groups that were in that I visited with virtually and in 
+person, a number of banks, and they were concerned about this 
+rule.
+    So from an ag production and agricultural standpoint, as 
+you also know, I do not have a lot of options as a farmer. I 
+tell folks, when I wake up in the morning and throw a couple 
+hundred gallons of diesel fuel in a tractor, it is not like I 
+have got an electric tractor in the garage that I can use. So I 
+am pretty well locked into fuel, diesel fuel, carbon-based fuel 
+at this moment in time.
+    So under this rule, what responsibility would folks in 
+production agriculture, specifically Montana farmers, have for 
+disclosing their emissions?
+    Mr. Gensler. Thank you for that question. Presuming that 
+those farmers are not public companies, they do not come under 
+the rule, but we have heard from various farm bureaus and, of 
+course, the American Farm Bureau Federation. Zippy Duvall, and 
+I have talked about this, and other Members probably know 
+Zippy.
+    Public companies would have an obligation under the 
+proposal with regard to greenhouse gas emissions, their own 
+emissions, and then we say in the rule that they estimate their 
+supply chain emissions if it is material. So it has got a 
+materiality catch, but it is just that they estimate. And we 
+have heard some folks in the farm----
+    Senator Tester. Community.
+    Mr. Gensler. Community. Thank you. The farm community. That 
+they are concerned. And so we are taking a very close look at 
+that amongst our 14,000 other comments on this.
+    Senator Tester. So let me give you a scenario. Markets are 
+really important. I like to direct-market as much as I can, but 
+not much is direct-marketed off of my farm. OK? I sell to 
+publically owned companies. OK?
+    Let us just take wheat for example. I sell wheat to a 
+publically owned company, and they start doing their assessment 
+on climate impacts, which I certainly do not have a problem 
+with, by the way. What am I--as a farmer who sold them grain, 
+for example, or you could say cattle or pick a commodity, if 
+the company says to me, look, if you are going to do business 
+with me, I got to have all this information, what are my 
+recourses?
+    Mr. Gensler. So what we put out--and again, we got some 
+very good comments, and we are working through this--is that 
+that public company you sell to does not have any obligation to 
+ask you, specifically. They either need to estimate or, if they 
+do not have an estimate, just discuss how they are managing 
+that Scope 3.
+    But I would say this is what the public comment process is 
+about. We have heard from 14,000 other people but particularly 
+in the farm community and how we sort of address this to lower 
+the cost because the intent, Senator, is not that--whether it 
+is the farm community or other community, if they are not 
+public companies, they are not under this rule.
+    Senator Tester. I have got it, but my concern, as I 
+indicated with my previous statement, was we sell to public 
+companies. I mean, the vast majority of the product that is 
+sold is to a public company. And if the public--and I just 
+bring this to your attention, and I do not want to repeat 
+myself. But if the public company says, hey, we need you, Jon 
+Tester, T-Bone Farms, to tell us how much fuel you used, how 
+much fertilizer you used, how much your inputs were and all 
+that, it becomes an issue. It becomes an issue, especially for 
+the little guy who is, you know, out there running a tractor or 
+fixing that tractor and does not have a lot of time to sit in 
+the house behind a computer.
+    Mr. Gensler. And I will say two things. One is that is not 
+the intent of what we did, particularly how we did it with a 
+safe harbor and only estimates, but two, that is the benefit of 
+public comment.
+    Senator Tester. Sure.
+    Mr. Gensler. That is why this helps us. And of course, we 
+will put this hearing in the public record, in our public 
+record as well.
+    Senator Tester. Thank you, Chairman.
+    Thank you, Mr. Chairman.
+    Chairman Brown. Thank you, Senator Tester.
+    Senator Tillis from North Carolina is recognized.
+    Senator Tillis. Thank you, Mr. Chairman. I want to try and 
+fulfill your expectation that some Republicans are going to 
+bellyache during this hearing.
+    Chairman Brown. Thrilled you listened to my opening 
+statement.
+    Senator Tillis. I did, and I also listened to Senator 
+Toomey's. I have been watching this in my office and want to 
+get back to something that Senator Toomey mentioned. You know, 
+we sent an oversight request several months ago, I think a 
+follow-up on July the 21st, looking for a written response to 
+our oversight request.
+    Chairman Gensler, I know your office, in the initial 
+response, provided a one-page response that suggested that we 
+meet with staff. I am kind of curious when we could expect 
+specific written response to the oversight request that 
+Republicans have sent you.
+    Mr. Gensler. Sir, we do stand ready, the staff, to meet 
+with your staff, to walk through the process, the process that 
+we have on any rule. We put out to the public--and that release 
+was in hundreds of pages--our economic analysis and the 
+rationale and reasons for that.
+    Senator Tillis. I think about 500 pages long.
+    Mr. Gensler. That is correct. That is correct. And we stand 
+ready, again, to meet and walk through that process with you.
+    Senator Tillis. Then I guess maybe we can just get a 
+commitment. There may be other Members who are interested. But 
+absent a written response, getting a commitment from you to 
+meet so that we can go through and get the answers to the 
+specific questions we had in the oversight request?
+    Mr. Gensler. We stand ready to have staff meet to go 
+through and generally talk about the process. I mean, I want to 
+be careful because it is really about to talk about and try to 
+address the questions that you have and the concerns.
+    But, again, this rule is rooted in decades of law, and it 
+is about a conversation that is already going on between public 
+companies and their investors. And investors, I think, would 
+benefit if we can bring some consistency to this fragmented 
+disclosure that is happening now.
+    Senator Tillis. We may follow up with staff, but we are 
+going to continue--first, again, congratulations on your 
+confirmation, but we are going to continue to press on answers 
+to some of the specific questions, but thank you for that.
+    The U.S. Treasury market is the single-most important 
+market in the world. Do you agree with that?
+    Mr. Gensler. It is the base upon which the rest of our 
+capital markets exist.
+    Senator Tillis. It does a lot. It is important to monetary 
+policy. It is important in protecting retirement savings for 
+U.S. workers. We can run down a long list.
+    I think your recent SEC proposal could inadvertently 
+curtail involvement and liquidity in the Treasury market. I am 
+kind of curious. Did the Commission really intend to require 
+customers to register as dealers?
+    Mr. Gensler. We put out a proposal earlier this year based 
+on a 1986 law about dealer registration.
+    Senator Tillis. Yeah. My understanding is the proposal 
+would classify any firm as a dealer if it transacts more than 
+specific amount per month. Is that true?
+    Mr. Gensler. There is two prongs, but yes, it had over $25 
+billion a month.
+    Senator Tillis. So how would a pension fund that frequently 
+transacts in the Treasury market and exceeds the trading 
+threshold set by the Commission, in order to protect the 
+retirement savings of its members, be considered a dealer under 
+any common-sense interpretation?
+    Mr. Gensler. It is about whether you hold yourself out--the 
+statutory definition is about holding yourself out regularly 
+and transacting in a marketplace. There is not--by the way, 
+that number--and we go through this economics in the proposal--
+would not cover pension funds as we know it today.
+    Senator Tillis. So the nature of the trading would matter, 
+too?
+    Mr. Gensler. It is the size and scale of the Treasury 
+markets, as large as they are. It is also that their pension 
+funds are not trading at those types of levels that you 
+mention.
+    Senator Tillis. I have got a series of other questions, but 
+it would take me probably longer to ask it than I have time 
+remaining, so we will be submitting several questions for the 
+record.
+    And, again, I want to go back to the oversight request. We 
+need to kind of figure out how we can get the specific answers 
+to the question. I am happy to have my staff meet with you, but 
+we would also like to get a formal written response to the 
+request that we have now requested, a response in writing. A 
+discussion is good, but we will continue to press for that. 
+Thank you.
+    Mr. Gensler. Thank you, Senator.
+    Chairman Brown. Thank you, Senator Tillis.
+    Senator Menendez, you may proceed.
+    Senator Menendez. Thank you, Mr. Chairman.
+    Chairman Gensler, the last time you came before the 
+Committee, I asked you to move expeditiously to adopt the Asset 
+Management Advisory Committee's recommendations on diversity, 
+and last October, 22 Senators, including 9 Members of this 
+Committee, sent you a letter supporting the recommendations and 
+asking for immediate approval. Can you give us an update on the 
+status of adopting these recommendations?
+    Mr. Gensler. So I thank you, Senator. We have looked at--
+there was four recommendations, and there are some subpoints in 
+those recommendations. And working--and I think we have 
+informed your staff about this with regard to two important 
+ones in there. One is a recommendation around guidance, staff 
+guidance on how asset managers are selected and whether their 
+years of service or their assets under management could be--
+need to be taken into consideration or not, and another one is 
+with regard to EEO complaints and how those complaints are 
+shared with other agencies and the like. And I think we have 
+made some good progress on those two. I feel that staff will 
+probably shortly be putting out that guidance, and we continue 
+to look at the other two matters.
+    Senator Menendez. Well, look, I appreciate that you are 
+giving some of these recommendations serious attention, but at 
+the same time I must say I am disappointed. In so many other 
+areas, the SEC under your leadership has taken bold steps to 
+protect consumers, to strengthen oversight of markets, such as 
+your proposed climate risk disclosure rule. However, when 
+presented with AMAC's noncontroversial, unanimous 
+recommendations that would promote diversity in the asset 
+management field, you have not been as aggressive. So can you 
+commit to make concrete progress on these recommendations by 
+the end of the year?
+    Mr. Gensler. So, Senator, I take very seriously how 
+important diversity, inclusion, equity is important broadly in 
+our society but to the SEC as an agency. Our senior leadership 
+is probably the most diverse and inclusive that we have ever 
+been as an agency. We continue to lean in to try to make sure 
+that at our agency everybody can bring their best self to work 
+and work and that we get the benefit of the talent across this 
+great Nation.
+    And in terms of policy, it is held up in court right now, 
+but last year a self-regulatory organization, Nasdaq, put in 
+place a listing requirement with regard to their boards of 
+directors and diversity, and that was their decision, not ours. 
+It predated me, but we approved that.
+    And on these four Committee recommendations, as I said, I 
+think we have made some pretty good progress on two of them, I 
+think that guidance will be out in the near term, and we 
+continue to work on the others.
+    Senator Menendez. Well, I would like to highlight one of 
+AMAC's recommendations that I think would be particularly 
+impactful. The AMAC recommended that the SEC require enhanced 
+disclosure by investment companies and investment advisors 
+regarding diversity within their workforce and leadership. You 
+and I have spoken about the importance of leadership diversity 
+at your confirmation hearing. I just heard your comments now. I 
+think that disclosures about diversity are incredibly 
+important, which is why I introduced the Improving Corporate 
+Governance through Diversity Act.
+    Do you agree that enhancing diversity disclosures for 
+advisory firms, investment company boards and consultants would 
+empower investors and fund managers to make more informed 
+decisions?
+    Mr. Gensler. Again, as I said, I think that we benefit in 
+our organization, at the SEC, and in our great Nation by 
+tapping into the talents across our diverse Nation, and we 
+continue to look at this recommendation of AMAC with regard to 
+disclosures.
+    Senator Menendez. But one of the key findings of the AMAC 
+study is that--and for my colleagues, AMAC is an advisory board 
+that is created, you know, under the--I believe it is the SEC. 
+So one of their findings is that, quote, Investment performance 
+by diverse asset managers is equal to or greater than the 
+investment performance of firms that lack diversity in 
+ownership and senior leadership despite differences in size and 
+length of track record. And that is why they recommended that 
+the SEC issue guidance clarifying that fulfillment of fiduciary 
+duty does not require automatic exclusion of asset managers who 
+are new to the industry or do not meet a certain threshold of 
+assets under management.
+    In your view, is it necessary for fiduciaries to 
+automatically exclude new or smaller asset managers in order to 
+fulfill their duty?
+    Mr. Gensler. Senator, on that, on the guidance, I share 
+that view, I think, that you just said, and I think that is the 
+guidance that the staff is working to put. And you are right; 
+the AMAC is a Federal advisory committee. It is under the FACA 
+committee clause.
+    Senator Menendez. Let me close by saying, fundamentally, 
+using the excuse of fiduciary duty to exclude women- and 
+minority-led firms runs contrary to the actual data. AMAC's 
+study, along with a host of other studies by McKinsey, for 
+example, and others, have repeatedly shown that diversity-led 
+firms outperform their non-diverse counterparts.
+    And so given this data, I think that we can agree that new 
+or smaller asset managers being automatically excluded under 
+the guise of fiduciary duty is actually not helping investors; 
+it is harming them. And so that is why I have been pressing on 
+these issues and will continue to work with you. We hope to 
+have a robust response by the Commission.
+    Thank you, Mr. Chairman.
+    Chairman Brown. Thank you, Senator Menendez.
+    Senator Kennedy from Louisiana is recognized.
+    Senator Kennedy. Thank you, Mr. Chairman.
+    Thank you, Mr. Chairman, for being here today. I want to 
+also thank you for you and your good--your colleagues' good 
+work on implementing the Holding Foreign Companies Accountable 
+Act. Can you give us a quick overview about where we are? 
+China, I understand, has come to the negotiating table, and you 
+have negotiated a statement of protocol. Could you give us an 
+update on the status of your good efforts?
+    Mr. Gensler. Yes, and again, I want to thank you because 
+Senator Van Hollen--just came in--and you, you shepherded that 
+through. I think that the Holding Foreign Companies Accountable 
+Act gave us the additional leverage to work with Chair Williams 
+down at the PCAOB, and we had numerous meetings with the 
+Chinese.
+    We said to the Chinese last August, a year-plus ago, that 
+we would not be willing to send the inspectors over to China to 
+look at the audit work papers and the like unless we could get 
+a very detailed, prescriptive statement of protocol to 
+effectuate the will of Congress, and at its core it said how 
+can you trust the numbers in these Chinese companies unless 
+there is somebody in the U.S. who is auditing the auditor, so 
+to speak, technically inspecting and investigating. They did 
+sign that. We thought it was important to get that signed.
+    The PCAOB is sending inspectors over. I think they are on 
+flights tomorrow because I think it starts Monday the 19th and 
+it takes about 8 to 10 weeks to get through, so we will 
+probably know somewhere around Thanksgiving or early December.
+    And I do not know if the Chinese are going to comply. They 
+have told me--I mean, the Ministry of Finance has told me 
+directly on Webex calls, and the Chinese Securities Regulatory 
+Commission has said they will comply.
+    And it is pretty clear: No redactions in the work papers. 
+Take testimony from whomever the PCAOB needs to take testimony 
+from. They can onward share the information to us, and they can 
+pick whichever companies they want to look at.
+    Senator Kennedy. I am not sure they will comply either, but 
+they moved further toward compliance than at any point in the 
+past. Senator Van Hollen and I have a bill that has passed the 
+Senate, as you know, being considered by the House, to move the 
+deadline from 3 years to 2 years with respect to which if they 
+do not comply we tell them to leave our exchanges, and I think 
+that might help if we can get that passed. And I appreciate 
+your good efforts there.
+    In my last 2 minutes, I wanted to shift gears on the 
+climate risk disclosure, and I do not mean to be critical. I am 
+trying to understand because I thought Senator Tester raised 
+some very good questions. What is your best guess of the cost 
+of compliance with your climate risk disclosure rules?
+    Mr. Gensler. So, one, I do support your accelerating the 
+Holding Foreign Companies Accountable Act----
+    Senator Kennedy. Thank you.
+    Mr. Gensler. ----to 2 years versus three because I think it 
+will continue to have the right leverage. Even if the Chinese 
+authorities and the Chinese regulators allow for compliance 
+this year, what about next year, what about next year? So I do 
+support that.
+    Senator Kennedy. Thank you.
+    Mr. Gensler. In terms of the climate rule, we lay out in 
+this proposal all the economic analysis. And I do not mean to 
+speak for the numbers in that, but by company----
+    Senator Kennedy. What is your best guess, if you could? I 
+am sorry to interrupt you here, but I have only got a minute 
+left. What is your best guess of the cost of it to comply?
+    Mr. Gensler. So, per company, we lay that out. And 
+depending on the size--and I just do not want to misspeak--it 
+is, you know, from a couple hundred thousand to--I apologize.
+    Senator Kennedy. What is the total?
+    Mr. Gensler. And the total cost, I think Senator Toomey 
+accurately quoted it. You were not maybe in the room. It is 
+measured in the single-digit billions across the entire 
+economy. But what we benefit from is also people are coming in 
+and----
+    Senator Kennedy. Yeah, yeah.
+    Mr. Gensler. ----you know, giving us critical analysis to 
+whether we are accurate.
+    Senator Kennedy. I understand. I am sorry to interrupt, but 
+I am going to run out of time. Here is my question: It will 
+cost billions of dollars to comply. Those are scarce resources. 
+To the extent that people like Senator Tester has to spend the 
+money to comply, they cannot spend the money on something else.
+    Presumably, the purpose of the rule is to focus investors' 
+attention on the risk of climate change so that they will 
+demand that companies do a better job, the purpose of which is 
+to lower the world's temperatures. Am I doing OK?
+    Mr. Gensler. Actually, it is--but that is not the purpose. 
+The purpose--I mean, I can speak for the five-member Commission 
+but also for myself. We are not a merit regulator. So the 
+purpose actually is not to do what you said but just for 
+investors to get the information.
+    Senator Kennedy. I think the people supporting the rule, 
+that is their intention.
+    Mr. Gensler. That is not why I support it.
+    Senator Kennedy. OK, fair enough, but I think that is what 
+most people expect. You put pressure on the companies to 
+disclose. Shareholders put pressure. People do a better job.
+    But I would like to see--while you are asking Senator 
+Tester and the other people to estimate, I would like to see 
+some sort of estimate of how much all this money spent on 
+compliance is going to lower world temperatures. I mean, we are 
+spending--I believe in clean air and bright water. You know, I 
+want to be able to eat and live indoors.
+    But what bothers me is while we are spending these 
+trillions of dollars of scarce resources India and China--China 
+gets 60 percent of its energy from coal. China has 3,500 coal 
+fueled power plants. We have got less than 100. We do not have 
+any kind of agreement with India or China for them to reduce 
+emissions. So we spend all of this money, and world 
+temperatures are not reduced.
+    Can you give me your----
+    Chairman Brown. Chair Gensler, answer the question briefly. 
+Thank you.
+    Mr. Gensler. The good news is that is not what our 
+authorities are or what motivates this one commissioner. It is 
+about actually helping investors get more consistent 
+information. Even if they want to invest in what might be brown 
+assets rather than green assets, they will get more consistent 
+information and we will probably lower some of the greenwashing 
+that is out there and other things like that.
+    Senator Kennedy. Thank you for your indulgence, Mr. 
+Chairman.
+    Chairman Brown. Thank you, Senator Kennedy.
+    Senator Van Hollen of Maryland is recognized.
+    Senator Van Hollen. Thank you, Mr. Chairman.
+    And, great to see you, Mr. Chairman. Great to see an SEC 
+Chairman from the great State of Maryland.
+    Mr. Gensler. It is great to see my Senator.
+    Senator Van Hollen. Yeah, right. Let me just pick up on the 
+first point that Senator Kennedy raised in terms of 
+implementation of the Holding Foreign Companies Accountable 
+Act. I just want to thank you and your team for pursuing that.
+    I also agree we should shorten the time period to 2 years, 
+and I want to thank Senator Kennedy for his work on this. The 
+idea, of course, was to make sure we protect American 
+investors, especially smaller investors, by ensuring that all 
+companies listed on our exchanges comply with our accounting 
+rules.
+    And I know you had very tough negotiations with China. 
+Thank you for keeping us informed. The ultimate proof is in the 
+pudding, right? Their execution of it. But I do want to salute 
+you and your team for all your efforts to date on that.
+    I also want to thank you for moving ahead on a rulemaking 
+to crack down on abuses of 10b5-1, trading plans by insiders. 
+At the beginning of this Congress, Senator Fischer and I 
+introduced legislation directing the SEC to undertake such a 
+rulemaking. You did it, and we are monitoring that carefully.
+    I do not know if you saw the Wall Street Journal article 
+back in June, which I think, along with other studies, revealed 
+clear abuses by insiders in these areas. And of course, when 
+insiders benefit, it means the investors lose often because 
+sometimes these are gamed to take the gains before the overall 
+value of a company decreases stock value. So I want to thank 
+you for that, and we are monitoring that.
+    I also want to thank you and your team for recognizing the 
+real issue of fraudulent scams, securities scams, often 
+directed against seniors. These amount to up to $3 billion 
+every year. And we have a bipartisan bill here that I know the 
+Chairman and the Ranking Member are probably tired of hearing 
+of, but I appreciate their, I think, support for the bill which 
+is to empower states to better crack down on this fraud by 
+creating a grant, Federal grant, through the SEC to help them 
+out. And we have heard testimony on behalf of state insurance 
+commissioners and state securities commissioners strongly 
+indicating their support.
+    So you recognize this as a big problem that we should deal 
+with, do you not?
+    Mr. Gensler. Oh, I do. I think that fraud, as you said in 
+the elder community, or sometimes it is affinity-based fraud, 
+we see all too much of it at the SEC in our weekly enforcement 
+meetings.
+    Senator Van Hollen. I am sure you do, and we want to pass 
+this legislation just to better fortify states to crack down on 
+this kind of fraud.
+    We are working with you on the TICKER legislation as well, 
+Senator Scott from Florida and I.
+    I want to ask you about something you and I have spoken 
+about before, which is country-by-country reporting disclosures 
+by big, multinational corporations. We are seeing jurisdictions 
+around the world, including the EU and now Australia, move 
+toward increased disclosure requirements for large, 
+multinational corporations to disclose the countries in which 
+they book profits and pay taxes as a way to mitigate tax risk 
+to investors. We have a changing international tax 
+environmental, and clearly companies that have put a lot of 
+eggs in putting their profits in sketchy tax havens, their 
+investors are at risk, and that is why we believe as part of 
+providing investors with necessary information we should 
+provide country-by-country disclosures.
+    I was pleased to see the SEC take steps to protect 
+investors' interest in May by allowing them to put forward a 
+proposal at Amazon's shareholder meeting that would ask the 
+company to disclose its country-by-country reporting.
+    So my question, Mr. Chairman, is: In this rapidly changing 
+international cooperation tax landscape, can you look at this 
+question about whether new investor disclosures are needed in 
+this area?
+    Mr. Gensler. So, Senator, I thank you. And we are looking 
+at it, and as I discussed with you when we got together on the 
+phone, the Financial Accounting Standards Board actually has a 
+project, and we sometimes, you know, let them know. And I want 
+to say publically here I support the Financial Accounting 
+Standards Board's project around breaking out and 
+disaggregating tax reporting for public companies.
+    I believe that--I do not want to speak for them, but--in 
+the next handful of months they are going to go forward. And it 
+breaks out I do not think every country, but I think the top, 
+you know, couple of handfuls of countries. And then they will 
+sort of promulgate that, get public feedback, and back and 
+forth. But I think that that would be a productive approach, to 
+have such disaggregation that FASB is considering right now and 
+has an active project on.
+    Senator Van Hollen. Thank you, Mr. Chairman. I may have 
+some questions to submit for the record, but I appreciate it. 
+Thank you.
+    Chairman Brown. Thank you, Senator Van Hollen.
+    Senator Cortez Masto from Nevada is recognized.
+    Senator Cortez Masto. Thank you.
+    Chairman Gensler, it is good to see you. Thank you for 
+being here.
+    Mr. Gensler. Good to see you.
+    Senator Cortez Masto. Let me talk a little bit about crypto 
+regulation. Under your tenure, the SEC has pursued enforcement 
+actions against crypto asset insurers. However, few cases have 
+been brought against the exchanges, and crypto assets are, as 
+we know, traded primarily through the exchanges. The SEC has 
+proposed that intermediaries should be regulated under the 
+Exchange Act.
+    So could you address this? Why should crypto asset 
+intermediaries and exchanges be regulated under the Exchange 
+Act, and if you would, how would investors and market 
+participants benefit from regulating crypto assets under the 
+Exchange Act?
+    Mr. Gensler. So, I thank you. It is actually fairly 
+straightforward because of these 10,000 cryptotokens. Without 
+prejudging any one of them, I believe that the vast majority 
+are securities because there is a--somebody in the public is 
+betting on a better future, betting on anticipating profits, on 
+a common enterprise group of entrepreneurs in the middle. And 
+then given that, these intermediaries that often have 50 or 500 
+tokens, or 150 tokens, they are going to have a bunch of 
+securities on that platform.
+    How does it benefit the public? It is the time-tested 
+protections that these crypto exchanges would protect against 
+front-running and manipulation, and there is transparency as 
+you go into the New York Stock Exchange or into Nasdaq or the 
+like. This Committee has worked on laws long ago. I 
+complimented Chair Fletcher, who was here in 1934 and did it, 
+but long ago, for that very reason, the public benefits.
+    Right now, frankly, there is a fair amount of 
+noncompliance, and so we are going to continue to try to work 
+with the intermediaries, get them inside and regulated, if need 
+be, use our tool kit, our regulatory tool kit to adjust and 
+facilitate because there are some differences, as Senator 
+Toomey and I talked about earlier.
+    Senator Cortez Masto. Would you be able to, through the 
+enforcement, also identify potential money laundering activity?
+    Mr. Gensler. It is more the remit of the Department of 
+Treasury. However, one of the key things under, as I 
+understand, the money laundering laws, the SEC has a role that 
+our registrants, the exchanges, the broker-dealers have certain 
+compliance obligations over with the Financial Crimes 
+Enforcement Network at Treasury. Once they register, or whether 
+they should register--and I believe it is even if they do not 
+register but they are legally required to--they have to comply 
+with that.
+    Senator Cortez Masto. Thank you. Let me jump back to--
+because I do think Senator Kennedy--and I appreciate his 
+willingness to explore, to understand the issue of ESG and the 
+requirement.
+    My understanding--and thank you for your position and how 
+you perceive that regulation. But because now we have a whole 
+new generation of investors that are really conscious about 
+green and going green, there are new investors now that are 
+looking for ways to invest to be consistent with their values 
+in this role, correct?
+    Mr. Gensler. There are. There are also investors that are 
+just thinking, because of climate risk, it could affect the 
+financial performance of a company; it could affect their 
+supply chain; it could affect their competition; it could 
+affect future regulations. So they are thinking about how to 
+value today that future transition risk.
+    Senator Cortez Masto. Thank you. And then there was also 
+conversation--and I appreciate this as well--about the issue of 
+greenwashing, and I know some major global asset managers and 
+climate advocates have stated that the ESG integration label 
+could pose greenwashing risk. Can you talk a little bit about 
+that and address that?
+    Mr. Gensler. So there are asset managers managing trillions 
+of dollars that are saying to the public, we will invest your 
+money, your money, in something that is carbon neutral or green 
+and the like. And so to me it is about truth in advertising, 
+and so we put out some proposals earlier this year to address 
+what stands behind a name, literally the name of a fund, and 
+are you living up to the obligations that you made or 
+commitments you made to your investors when you ask for their 
+money. And I think that is really important, about the 
+integrity, and it would address some of this, what is sometimes 
+called greenwashing.
+    Senator Cortez Masto. All right. Thank you.
+    Thank you, Mr. Chair.
+    Chairman Brown. Thank you, Senator Cortez Masto.
+    Senator Rounds from South Dakota is recognized.
+    Senator Rounds. Thank you, Mr. Chairman.
+    I was going to start out today visiting a little bit about 
+farmers and ranchers, but I understand that Senator Tester beat 
+me to it. And I think the fact that we really do have a concern 
+about the ambiguities that some of our farmers and ranchers 
+have right now with what they are going to be expected to try 
+to share with providers of products to them with regard to 
+downstream environmental impacts, really is of concern, and the 
+ambiguity which it has been left with what, you know, can be 
+guesstimates and so forth is something that I really think you 
+need to take a second look at. It is just----
+    Mr. Gensler. Senator, I concur with you. As we talked in 
+the anteroom earlier, we thought the proposal had the right 
+balance because we said it is only an estimate. It is only 
+public companies. It is only if it is material or they made a 
+commitment to it and they have a big safe harbor.
+    But we heard a lot from the farm bureaus, and so we are 
+taking--you know, that is what we do. We take a look of all the 
+public comments and see how we can ensure that it does not 
+touch those private actors.
+    Senator Rounds. And that is precisely what I really wanted 
+to talk about. It is one thing with the rules. It is another 
+thing when there is an expectation that once the rules have 
+been established, if they are really ambiguous, then that means 
+that each time they have to come back to a regulator to ask 
+whether or not what they are doing is accurate or not. And I 
+think--and that causes some serious concerns for people that 
+want to invest. So I just simply say, look, if you are making 
+rules on these, and clearly you are making rules, a lot of 
+them, let us be as precise as we can in them, and I think that 
+will eliminate a lot of the questions that are coming up, sir.
+    Let me go into just a couple of items very quickly here. In 
+a speech that you delivered last week, you quoted Joseph 
+Kennedy, saying, no honest business should fear the SEC. You 
+went on to say that, given the nature of crypto investments, I 
+recognize that it may be appropriate to be flexible in applying 
+existing disclosure requirements.
+    Matt Levine openly questioned that sentiment in a column 
+for Bloomberg, stating, the SEC has been suing crypto projects 
+for illegally issuing securities for about 5 years now, but put 
+in that time it has not issued any rules or proposed any rules 
+or put anything on its rulemaking agenda about adapting the 
+securities and disclosure rules for crypto projects.
+    I echo Mr. Levine's comments. It seems to me that you want 
+to regulate an entire marketplace, but clearly, it does not 
+appear that you have got rules in place to do so at this time. 
+In my mind, this is simply unacceptable.
+    And I know that your background in the private sector is--
+you know, you have got a great history in the private sector, 
+so this is kind of confusing to us. I have heard from a variety 
+of companies who claim they try to work with you and with your 
+organization but then you turn around and then you have hit 
+them with some pretty enforcement actions or slow-walk the 
+process.
+    Mr. Chairman, you keep telling crypto entrepreneurs and the 
+companies to come in and to register. Has anyone actually tried 
+to do that?
+    Mr. Gensler. To answer your question, there is six 
+companies that are actually registered under the disclosure 
+regimes. I would say this; not liking the answer from the SEC 
+does not mean there is not guidance, just with all fairness. 
+And most of these tokens, a vast majority, are securities, and 
+thus the intermediaries are likely to be in noncompliance with 
+securities laws right now. So we are really trying to work with 
+them. We are talking to a wide swath of these organizations 
+right now to get them properly registered, to get them inside 
+the remit, and this is what we do.
+    With all respect to Mr. Levine, we have been pretty clear; 
+my predecessor, Chair Clayton, was through Commission actions 
+and in his public voice in front of this Committee and others 
+about this matter, and we are going to continue to protect the 
+public as best we can.
+    Senator Rounds. Thank you. As of August 2022, the SEC had 
+proposed 32 new rules in just 11 months and is preparing at 
+least another 19 for release in the next year. These are 
+complex rulemakings that will greatly impact markets and 
+capital formation. In addition to that, these rules are being 
+implemented in an overlapping timeline and affect the same or 
+interconnected financial products and market sectors. However, 
+despite the linkages between the various proposals, the SEC has 
+assessed the economic impact of each rule independently and in 
+isolation from the others. Implementing these proposals 
+simultaneously, without consideration of the cumulative and 
+cross-sector effects, will most certainly lead to unintended 
+consequences.
+    Mr. Chairman, why has the SEC not considered the cumulative 
+and the cross-sector effects when simultaneously implementing 
+these proposals that most certainly could lead to negative and 
+unintended consequences for our capital markets and broader 
+economy?
+    Mr. Gensler. Senator, we actually do consider cross, even 
+within any one of the 30. It is actually as of yesterday 34, to 
+bring you up to date.
+    Senator Rounds. Moving along.
+    Mr. Gensler. Moving along. I would note that Chair Clayton, 
+during his 4 years, did a little over 60 final rules. We have 
+about 50 on our docket. So it is--and Chair Schapiro and Chair 
+White were about the same, 40 to 60 range, during their 4 
+years. We might have been a little sooner getting them out to 
+proposals.
+    But we do consider those cross issues. I mean, sometimes we 
+even reopen proposals for that reason, like we did with stock 
+lending and stock buyback, and we reopened because there was 
+this cross consideration. We have done it in some other areas. 
+We are even looking now whether we should do that in some areas 
+and reopen some for that cross consideration.
+    But last, I would say we get comment letters after the 
+comment period as well, and we--you know, this is over the 
+years, and we do it now. Staff reads them. They put them in. It 
+takes us--it tends to take us months, sometimes a year to 18 
+months to finalize a rule after it is proposed.
+    Senator Rounds. Thank you. I wish we could continue the 
+conversation, but my time has----
+    Mr. Gensler. I think you still have my cell phone number, 
+so you can call me anytime, sir.
+    Senator Rounds. Thank you, Mr. Chairman.
+    Chairman Brown. Thank you, Senator Rounds.
+    Senator Smith of Minnesota is recognized.
+    Senator Smith. Thank you, Chair Brown and Ranking Member. 
+It is interesting, just apropos Senator Rounds's comments and 
+questions about crypto, I was not here earlier because I was at 
+the Banking Committee, where we were having a conversation 
+about issues--I mean, I was at the Ag Committee, pardon me. I 
+know, where am I? See, I am a little confused. I have been 
+running around.
+    Anyway, I just note that there are a handful of us, you, 
+Senator Brown and Senator Warnock and I, that serve on both 
+Agriculture and Banking, Housing. And as the issues of how we 
+should create a regulatory framework for crypto commodities, 
+digital commodities as well as digital securities, I think we 
+have--you know, we have an important job to do here.
+    Chair Gensler, on the--I want to go to the question of 
+materiality. On securities laws, they are grounded in the 
+concept of materiality. And since we have emerged from the 
+Great Depression, we have acknowledged that investing in the 
+stock market comes with its risks, but investors ought to have 
+information that they need to be able to prudently evaluate 
+those risks and make good, informed decisions.
+    And this is especially important today as more than half of 
+families have investments in the stock market, including their 
+retirement nest eggs. So could you talk to the Committee just 
+broadly speaking about how climate disclosures for public 
+companies are material information for investors?
+    Mr. Gensler. It is material because the Supreme Court says 
+substantial likelihood a reasonable investor is considering it 
+significant in their mix of information. And right now, it is 
+really remarkable what has happened in the last 10 to 20 years. 
+So many investors are considering it.
+    And why are they considering it? Because there is a future 
+chance of transition risk. They might have to change their 
+operations. Their competitors might change their operations. 
+Laws might change. These companies that are listed here in the 
+U.S. operate around the globe. On average, if you look at the 
+top 500 or 1,000 companies, half their operations are overseas. 
+And so it can affect all that, but it is material because, as 
+the Supreme Court says, because investors get to decide what 
+risk they take and investors are saying it.
+    In our comment file, if you look at the top 300 or 400 of 
+the investors, the big asset managers, it adds up to $50 
+trillion of assets under management that have come in mostly 
+supportive of this. I mean, I know that there is a lot of good 
+discussion about what do we do about the farmers and not 
+getting caught up in Scope 3, which is a good conversation we 
+have had, but mostly the investor community has come in, in 
+these 14,000 comments, supportive.
+    Senator Smith. And it is good for those investors to be 
+able to understand what those risks are in a more comprehensive 
+and clear way.
+    Mr. Gensler. Absolutely. And, investors get to decide. If 
+somebody says, I think those risks are significant, but a 
+company is managing it well. I should invest in it.
+    They might say that, you know, I think that the market is 
+overpricing a stock, and they might say, I want to sell that 
+stock----
+    Senator Smith. Right.
+    Mr. Gensler. --because I do not think this--I think that 
+assets that are emitting a lot of emissions are still going to 
+be really profitable. That is up to investors.
+    Senator Smith. On another topic I want to touch base on, I 
+was pleased to see the SEC take action to increase transparency 
+and accountability in the private fund market. Private funds, 
+including private equity and hedge funds, have an outsized 
+presence in our economy, $18 trillion in assets, and a 
+substantial portion of that again includes retirement savings 
+held in pension plans for teachers and municipal employees and 
+others. And in recent years, individual ownership of private 
+funds has also been on the rise.
+    So, Chair Gensler, can you talk about the recently proposed 
+amendments to Form PF and the private fund advisor rules and 
+how they would--you know, how they interact with eliminating 
+conflicts of interest issues, protect investors, and protect 
+the integrity of the private fund market?
+    Mr. Gensler. So we have done two sets of rules with regard 
+to private funds, one, to promote greater efficiency. What that 
+means is lowering the cost of this. It has actually grown since 
+that number, about $21 trillion. And they probably take 
+revenues of about $300 billion-plus, and that means those 
+teachers, firefighters, those pensioners are getting a little 
+lower, potentially, returns. So it helps them. So we are trying 
+to promote greater efficiency, transparency of fees, 
+performance, and side letters.
+    You mention a form called Form PF, Form Private Fund. That 
+is something that was put in place after the '08 crisis. 
+Congress thought the SEC and our sibling agency, the CFTC, 
+should get more information about these funds with regard to 
+mitigating and monitoring for systemic risk, the big crisis of 
+'08, and we are updating those forms.
+    Senator Smith. Thank you.
+    Thank you very much, Mr. Chair.
+    Chairman Brown. Thank you, Senator Smith.
+    Senator Lummis from Wyoming is recognized.
+    Senator Lummis. Thank you, Mr. Chairman. Appreciate your 
+holding this hearing on the important work of the SEC.
+    And, Chairman Gensler, it is great to see you again. So I 
+want to dive into a component of the Lummis-Gillibrand bill, 
+which you have had a chance to see, that deals with Section 301 
+of that bill. I agree with statements you and your predecessor, 
+Jay Clayton, have made that initial coin offerings, where 
+digital assets are sold to investors expecting to profit from 
+the seller's efforts, should be considered investment 
+contracts.
+    Senator Gillibrand and I share your concerns about 
+information gaps that can arise when digital assets are later 
+used and traded by others and the need to ensure users can make 
+informed decisions in the market. So we believe that it is 
+those that raise the money through an initial sale of digital 
+assets and those that continue to provide essential managerial 
+efforts should be held responsible to provide disclosures to 
+the market and that innocent secondary purchasers of digital 
+assets, that may or may not be aware that they are trading in 
+securities, should not be subject to strict liability.
+    So in our Act, the Responsible Financial Innovation Act, 
+rather than attempting to impose new, complex, difficult to 
+apply rules on secondary purchasers not involved in fundraising 
+transactions, Section 301 of our bill provides for robust 
+technology-neutral disclosure obligations that would hold 
+responsible those who benefited from that fundraising, not the 
+innocent users of digital assets who have no way of knowing 
+what the sponsor is up to.
+    So my question is this: Do you have any thoughts on the 
+need for disclosures in the digital asset markets in Section 
+301 of our bill?
+    Mr. Gensler. So I thank you for the question. It was good 
+to meet with you and Senator Gillibrand and discuss these as 
+well. I think that the disclosure, as you say, is key. We even 
+recently just were setting up a new industry office to help the 
+disclosure in this field in our corporate finance area.
+    I do think that, as you say, the innocent purchase. Let us 
+say the public. The public does not have a disclosure 
+obligation when they buy a stock on the New York Stock 
+Exchange, and it is not the public that should have a 
+disclosure obligation if they buy some crypto security token.
+    But the entrepreneurs, the sponsor, the promoter, the 
+entrepreneurs, that is where the disclosure obligation ought to 
+be, and I think we have authorities now to facilitate and 
+actually have a different set of disclosures just as we have in 
+other fields. We have different disclosures on something called 
+asset-backed securities than we do for equities.
+    But I do think where I might respectfully differ from, I 
+think, what might be in the question is that I think in the 
+secondary market, 5 years after a stock is issued, you know, a 
+stock of a great U.S. company is issued, there is still a 
+disclosure obligation.
+    And I think that is what Congress did in 1933, passed a law 
+saying you have got to make a disclosure if you raise money 
+from the public.
+    But the Congress knew that was not enough, and in '34 they 
+came back and said, you know what? We also have to cover the 
+secondary market in two ways, cover the intermediaries, like 
+the stock exchange and the broker-dealers, but also say that 
+there has got to be what is known as periodic reporting. You 
+know, the annual report.
+    And so--or maybe there is no difference here, but I think 
+the investor should not have an obligation. It is the 
+intermediaries, and then it is the common enterprise or the 
+folks in the middle.
+    Senator Lummis. And are you thinking that that disclosure 
+option or obligation would be similar for initial coin 
+offerings under our bill, or should be under our bill, similar 
+disclosure options as were instituted in 1934?
+    Mr. Gensler. I think similar in kind, but probably there 
+are some things--it might be a little bit different list. I 
+mean, there might not be a board of directors and things like 
+that. So I really do think--your bill had a list. We might 
+differ on that list. We might have other things to put on that 
+list. But it is not necessarily, as you say, everything that a 
+big multinational company is doing.
+    Senator Lummis. OK. Well, I want you to know that Senator 
+Gillibrand and I want to continue to work with you and your 
+staff to make sure that to the extent that we do not 
+philosophically disagree, that any of those sorts of gaps that 
+you have identified in our bill can be addressed because I do 
+not see our bill having an avenue to come before this Committee 
+or the Congress before the end of the year, but we do intend to 
+have it--to reintroduce it in January. And we want to make sure 
+that between now and January we have worked with you and your 
+staff to make sure that we can address items that we can 
+mutually agree need to be in the bill.
+    Mr. Gensler. I look forward to that and particularly, as I 
+said, in ways that we can ensure we do not undermine the $100 
+trillion capital market, the definition of security, the 
+definitions of other things that really are under this 
+Committee and stay under this Committee.
+    Senator Lummis. And we have talked about unintended 
+consequences of our bill before with you. We want to address 
+those unintended consequences. Obviously, you see things that 
+maybe we do not because of your perspective.
+    Mr. Chairman, thank you.
+    Really appreciate your being here, Mr. Chairman.
+    Chairman Brown. Thank you, Senator Lummis.
+    Senator Ossoff from Georgia is recognized.
+    Senator Ossoff. Thank you, Mr. Chairman.
+    And, Chairman Gensler, great to see you. Thanks for your 
+service. Thank you for your testimony.
+    Mr. Gensler. Senator Ossoff, good to see you again.
+    Senator Ossoff. I have routinely asked you this question. I 
+have also put this question periodically to Chair Powell and to 
+Secretary Yellen. What do you see as the most significant 
+threats to financial stability, or to put it another way, what 
+keeps you up at night?
+    Mr. Gensler. You do not want me to say my daughters. OK.
+    Look, I think in terms of--we are living in uncertain 
+times. I do not need to say this, but with the war in Eastern 
+Europe and Ukraine, with central banks around the globe moving 
+from accommodating to tightening, with the remaining, you know, 
+challenges, geopolitical challenges between great Nations, and 
+also with COVID and commodity prices, all of that in the mix, 
+what I look at and think about is the relationship between the 
+banking sector and the hedge fund sector and investors, the 
+relationship between the banking sector and commodity traders. 
+That is called a prime brokerage relationship, and those 
+relationships I really do think a lot about.
+    I think about resiliency in the market, and that is why we 
+have about a dozen or 15 projects in the Treasury market, what 
+we are trying to do in money market funds and open-end funds, 
+shortening the settlement cycle and the like. I think that if 
+we do our job well at the SEC we will build greater resiliency 
+for the stresses that come in the future, and those stresses 
+come because that is what an economy--we always have ups and 
+downs in economies.
+    So we have these longer-term projects, but near-term, it is 
+these issues that I just raised.
+    Senator Ossoff. Well, let us talk a little bit about the 
+Treasury market. You highlighted that in previous testimony. 
+You issued proposed rulemaking in the last several days. Can 
+you please break down into layperson's terms the nature of 
+concern about illiquidity in Treasury markets and how the 
+actions you are proposing to consider taking would address 
+them?
+    Mr. Gensler. So I would say to the American public it is a 
+big market. It is a quarter of our entire capital markets, $24 
+trillion. You can think of it as the base. It is sort of the 
+foundation of our financial house. Everything else is built 
+upon the Treasury market.
+    And what we have found is we have had real disruptions. 
+Call them jitters. I hate to say it; in the house way, it is 
+like there are some termites somewhere in the foundation, every 
+few years. We had them in the 1980s and 1990s, and we had them 
+in the last 6 years. And it put some pressure on our central 
+bank, the Federal Reserve that sometimes then opens up and 
+provides, using its balance sheet liquidity to the marketplace 
+sort of as a lender of last resort.
+    I think that we can lower the risk in that marketplace by 
+bringing--ensuring that all the dealers, the high frequency 
+trading dealers are registered and regulated; second, that 
+where the trading happens--these are trading platforms--are 
+regulated, and some of those are not; and really importantly, 
+getting the benefits of something that sounds boring, but it is 
+called clearing. It is the back office, which lowers risk in 
+the system.
+    So those are the main things. We have worked really closely 
+with Secretary Yellen and her team, and Chair Powell and his 
+team, on those proposals.
+    Senator Ossoff. Do you think that the persistent concern 
+about illiquidity in the Treasury markets threatens the Fed's 
+ability to execute open-market operations in a crisis?
+    Mr. Gensler. I think, if I might say, if we do this suite 
+of proposals in the Treasury market, it will bring greater 
+competition. There, historically, was a group of primary 
+dealers. Then that started to broaden out to these principal 
+trading firms, high frequency trading firms, and others. And I 
+think that we will build greater resiliency and also increase 
+some competition in the marketplace----
+    Senator Ossoff. OK. Let us follow up on this, and I will 
+have my office get with yours.
+    Mr. Gensler. Please. I would love to have a meeting.
+    Senator Ossoff. Great. And with my brief remaining time, I 
+want to ask about something of particular concern to Georgians. 
+We have thriving military communities, base communities, 
+veteran communities in Georgia. The SEC has, in the past and as 
+recently as December of 2021, filed emergency action to shut 
+down a multimillion-dollar Ponzi scheme that targeted 
+retirement funds held by veterans. I would like to ask for your 
+commitment that under your leadership the SEC will redouble and 
+intensify its efforts to ensure that within your jurisdiction 
+you are identifying and cracking down on schemes that could 
+defraud or harm America's veterans.
+    Mr. Gensler. You have that. And I would also say to all 
+Georgians and veterans, if you see something, you know, we have 
+a tips, complaints, referrals system. We have a whistleblower 
+system. Please let us know. Let the SEC know. We are a little 
+understaffed. I think we should have more staff, but let us 
+know. We will try to follow up and pursue those leads as people 
+see them.
+    Senator Ossoff. We will pass that along. Thank you.
+    Chairman Brown. Thank you, Senator Ossoff.
+    Senator Hagerty from Tennessee is recognized.
+    Senator Hagerty. Thank you, Chairman Brown.
+    Chair Gensler, I was reviewing your testimony last night, 
+and I was struck by a term that you used as you described the 
+Nation's securities laws and regulations. You described them as 
+the ``gold standard,'' and I do not believe that is true 
+anymore. What we have seen here in America over the past two 
+decades is the number of publically listed companies decline by 
+more than 40 percent. If you look at the U.S. share of global 
+IPOs, we have shrunk to less than 20 percent in the past 
+decade.
+    Why is that? It is because every new regulatory requirement 
+that you impose on public companies adds to the already 
+crippling costs of operating as a public company. So the 
+consequence of all these regulations is to encourage companies 
+to stay private or to look abroad to do their IPO.
+    You have rolled out 32 proposed rules in the past year, 
+including your ESG disclosure rule, which will cost hundreds of 
+millions of dollars a year in compliance cost and it has 
+created tremendous uncertainty in the marketplace. This will 
+undoubtedly make matters worse.
+    America had such a big lead in terms of having the world's 
+best capital markets, capital markets that have allowed 
+businesses to succeed here and thrive, but it has been in spite 
+of, not because of, this increasingly crushing red tape. More 
+regulation is a recipe for the preeminence of American capital 
+markets to die a slow death. If we continue down this path, 
+there will not be any investors left to protect. American 
+workers, American consumers, and retirees cannot afford that.
+    So, Chairman Gensler, under your tenure at the SEC, you 
+have rolled out an unprecedented slate of aggressive rule 
+proposals. Among the many troubling trends in your short term 
+as Chairman has been an expansion of the SEC's purview into 
+sophisticated markets under the guise of, quote, consumer 
+protection.
+    Because not all markets are accessible to retail investors, 
+the SEC has traditionally adopted differentiated levels of 
+paternalism depending on the given market, but the two most 
+egregious examples of this creep that is happening right now 
+are the private funds rule and the SEC's announcement that it 
+would begin to force significant disclosure requirements on 
+fixed income securities, including those that are regulated 
+under Rule 144A.
+    And your staff claims that these new rules will then, 
+quote, enhance investor protection, but as you know, the 
+qualified investors that invest in these products are not 
+unsophisticated. They do not need handholding in performing 
+their own due diligence. Yet, these new rules will pose 
+significant new costs, and they will act as an impediment to 
+American innovators who need early stage capital to grow.
+    So my question to you is: Do you think that the distinction 
+between large and mostly institutional investors versus mom-
+and-pop investors is somehow unimportant? Or, is there some 
+other motivation that is driving the SEC under your guidance to 
+dedicate so many resources to go after these larger investors, 
+these investors that all of your predecessors, I think rightly, 
+have given a degree of autonomy to?
+    Mr. Gensler. So, Senator, I think that there is a 
+distinction between what is called accredited investors and non 
+accredited investors. But I do think in the private funds rule, 
+if I can address that, this is now a $21 trillion assets under 
+management that the general partners, the asset managers, who 
+oppose what we are doing--I understand that, but those asset 
+managers probably collect over $300 billion a year in revenue.
+    And what does that mean? That means the issuers on one side 
+and the investors on the other side have that $300-plus billion 
+in the middle.
+    Now I think that you gave us a responsibility to look to 
+promote competition and efficiency in these markets. You did it 
+in 1976 in law; you did it in 1996 in law twice, that we have 
+that responsibility.
+    So in that proposal, it is we took a lot of the 
+recommendations from a group of limited partners, state pension 
+funds, state treasurers, and a group called ILPA, and we looked 
+at them and said, how can we promote greater competition 
+through transparency to those investors, those sophisticated 
+investors? That is what we are trying to do.
+    Senator Hagerty. Your suggestion is that this is going to 
+lower the cost of investment? This is going to increase the 
+cost because it increases regulatory requirements. Where are 
+you going with this?
+    Mr. Gensler. Yeah, I think that we might have a healthy 
+debate on this, but I think that actually when you have got 
+general partners that are taking $300 billion out of the 
+economy this will help promote greater competition----
+    Senator Hagerty. Increases regulatory cost, promotes 
+greater competition in the sophisticated market, I do not buy 
+that one bit.
+    Mr. Gensler. It is greater transparency to the investors of 
+the fees and performance.
+    Senator Hagerty. These are sophisticated investors, Mr. 
+Chairman. This is damaging to the marketplace. I have been on 
+the other side of the table there. Small companies that need to 
+access capital to grow are going to be deprived of that capital 
+because of this type of overreach.
+    Thanks, Mr. Chairman.
+    Chairman Brown. Thank you, Senator Hagerty.
+    Senator Warner from Virginia is recognized.
+    Senator Warner. Thank you, Mr. Chairman.
+    I want to stay on this topic for a moment, Senator 
+Hagerty's point. But you know, I do think from a historic 
+basis, as we have talked--and good to see you again, Mr. 
+Chairman--you know, that you are in that range of what your 
+predecessors have done. But I do think, you know, it is an 
+aggressive agenda, and candidly, a lot of it I support. I may 
+disagree with some of my colleagues on the other side.
+    But because you have been moving quickly, one of the things 
+I would like--and this falls a little bit on Senator Rounds's 
+comments. I would like you to fill in a little more both on how 
+you make sure that you determine appropriate comment times--and 
+I know in some of these regulations you have extended the 
+comment times. Some of them I do feel have been have too short.
+    But I would like you to also give me a little more 
+specificity about this interaction, not simply in terms of 
+total economic costs, but possible conflict for I am going to 
+come back and follow up for a moment on cybersecurity areas. I 
+just would like to get the sense. If all of these regs actually 
+get passed by the Commission, how are you holistically looking 
+at their interoperability? Drill down on it a little bit.
+    Mr. Gensler. No, no, I think it is a good question. We do 
+it proposal by proposal in the economic analysis. We benefit 
+from the public comment. And I would say we have a long 
+tradition of, regardless of what the comment period is, 60 days 
+or whatever the comment period is, when comments come in after 
+the comment period, we still--the staff considers it. We write 
+it up. We put it in, I mean, you know, if it comes in, you 
+know, not at the 1 day before we are finalizing it. Generally, 
+on average, it takes a year, year-and-a-half to finalize these 
+things. So I encourage people to continue to say, if you see 
+that interaction.
+    But second, we also occasionally--publically, we reopen 
+something, and we did that earlier this year on--there was a 
+security lending and a stock buyback, and we sort of reopened, 
+and we sort of said: Well, those are so closely interrelated. 
+Let us do that as well.
+    Senator Warner. And again, that is as you are focusing 
+within your purview.
+    Let me give you an area that I have got. You know, I think 
+too well-intentioned rules, but I worry about conflict. The 
+Chairman of the Intelligence Committee--I think the 
+cybersecurity issues. In my litany of things that keep me up at 
+night, that is one of the ones. Matter of fact, I am surprised 
+we have not seen more from Russia in light of the invasion of 
+Ukraine.
+    We worked in a bipartisan way really hard to get an across 
+the-board, mandatory, cyber incident reporting legislation 
+through and trying to find the right timing of when you make 
+that report and making sure that you do not interfere with a 
+criminal investigation.
+    You have got a similar SEC public company requirement. 
+Because I do believe a lot of these cyber incidents fall into 
+materiality--but take a few minutes, and I wanted to get to one 
+another quick question after this. Take a moment or two and 
+tell me how you do that potential interaction between something 
+that is outside your purview, this DHS CISA requirement, versus 
+your SEC cybersecurity requirement.
+    Mr. Gensler. It is a very good question because the 
+securities laws are about those investors understanding a 
+material risk and material events, and so we put out a 
+proposal, as you said, about corporate public companies making 
+cyber disclosure, how they manage cyber risk and when they have 
+a material incident--it has got to be a material incident--and 
+then report that within 4 days.
+    We have also been in conversation directly with the 
+Department of Justice and with the Department of Homeland 
+Security--you know the particular leadership there--and had 
+really good conversations. We included one important question 
+in that proposal about national security, and we could tell you 
+about--you know, it would take more than 50 seconds to tell you 
+about that, but--and working with the Department of Justice on 
+that.
+    Senator Warner. Well, the more you can, I think, spell out, 
+maybe not just here, but how you--the process of this 
+intersection between, you know, an agenda again that I 
+generally support, I think would make sense.
+    And you know, to show that, I want to use my last 30 
+seconds to touch on a topic that I have. You know, candidly, 
+your predecessor, Jay Clayton, started down this path, and you 
+and I have talked about a lot before and actually encourage 
+more action, and that is in human capital reporting. I think we 
+have discussed many times.
+    I think many of my colleagues have heard me go through this 
+litany about how assets on a balance sheet have changed 
+dramatically from, you know, tangible assets to intangible. A 
+lot of that is human capital. Chair Brown and I have some 
+disclosure legislation on this. I have been a big advocate of a 
+human capital R&D tax credit.
+    Talk to me a little bit about how you think moving forward 
+because I do believe human capital investment is 
+extraordinarily material for all these companies that say their 
+workforce is the most important asset. Speak to that.
+    Mr. Gensler. So you are right; Chair Clayton did put out a 
+rule. We now have 2 years of, you know, following of that rule 
+around human capital. We are looking at those first 2 years and 
+seeing what worked, what did not work, and everything.
+    But I know this from my days when I was on Wall Street. 
+When you bought or sold a company, there were those two or 
+three key pages with the key statistics about the workforce, 
+you know, turnover rates, what they got paid, were they--what 
+were the benefits, et cetera, what is the training like, are 
+they unionized. I mean, these were the key things when you buy 
+and sell a company. And so why shouldn't the public 
+shareholders also get that similar information?
+    And you had wrote recently about a letter that I think a 
+number of former SEC commissioners, from Joe Grundfest to Rob 
+Jackson and others, wrote, and we are taking a look at that 
+letter as well.
+    Senator Warner. Well, I would encourage you and look 
+forward to working with you on that.
+    Thank you, Mr. Chairman.
+    Chairman Brown. Thank you, Senator from Virginia.
+    Senator Daines from Montana.
+    Senator Daines. [off microphone.] Chairman, thank you.
+    Chair Gensler, glad to have you here.
+    Mr. Gensler. Good to see you again, Senator.
+    Senator Daines. [off microphone.] I want to talk about the 
+[inaudible]. The light is on, but nobody is home.
+    Chairman Brown. We did not do that on purpose, even though 
+you probably think we did.
+    Senator Daines. I hope not. I would never assume that, Mr. 
+Chairman.
+    Chairman Brown. Thank you, Senator Daines.
+    Senator Daines. All right, all right. Chairman Gensler, I 
+want to cut right to the chase here. I know some of my 
+colleagues have already talked about the proposed climate 
+disclosure rule. I have looked at it. I think it truly is 
+beyond unreasonable, and I would recommend it be withdrawn. The 
+massive burdens that it will place not just on large companies, 
+but also smaller companies, is going to have, I think, major 
+downstream impacts on the companies with whom they also do 
+business.
+    And I really want to zero in on the Scope 3 emissions 
+problem. The question: Do you really think it is reasonable to 
+ask companies to collect, analyze, reconcile, report on things, 
+literally, such as whether the company car of an employee is a 
+Tesla or a pickup? I mean, that is, in essence, what the 
+Commission is doing when it expanded now the Scope 3 rules in 
+emissions.
+    Mr. Gensler. So, Senator, what we have right now in America 
+is that we have many companies, hundreds, that are disclosing 
+greenhouse gas emissions to the public, and they are including 
+also--not all of them, but many of them--something around the 
+Scope 3. So this is--for the public listening, this is the 
+downstream or your suppliers and the like.
+    And so what we are trying to do is to bring some semblance 
+to that, some standardization. So what we have said is, it is 
+not a mandate, but if you have a commitment, if you have 
+publically said you are managing it or if you publically feel 
+it is material----
+    Senator Daines. Just to make sure I am--excuse me. So it is 
+not a mandate? So the rule would give the companies leeway 
+whether they need to expand to Scope 3 or not?
+    Mr. Gensler. Yes. It is only a proposal. The adoption has 
+still not happened. But the proposal was a mandate on what was 
+called Scope 1 and Scope 2 and then we took a different 
+approach on Scope 3. And we said if the company deems that it 
+is material or if the company already has made a public 
+commitment to manage Scope 3, like if they have--and that is 
+totally voluntary on their part. Then we said you had to 
+estimate.
+    Look, we have gotten a lot of comments on this, and there 
+is no goal to like touch--we had a good conversation with 
+Senator Tester and Senator Rounds. There is no goal to touch 
+farmers in any of the states that you represent, or ranchers, 
+and Senator Lummis----
+    Senator Daines. So would that be carved out explicitly 
+because it is--I mean, when you talk Scope 3, it is a very, 
+very wide net as you know.
+    Mr. Gensler. But it is from the public company's point of 
+view. Are you making a commitment to the public on how you are 
+managing it? This public company. And then how are you 
+estimating it? And we did say, estimating it. We said there was 
+a safe harbor, so we put some legal protections on it.
+    But again, we are looking at these 14,000 comments. We are 
+trying to balance this out.
+    The one thing is that we have to ensure that the public 
+companies that are saying this or that about Scope 3 are not, 
+you know, frankly, misleading the public.
+    Senator Daines. Yeah. Well, I hope you hear us out. I think 
+you have heard a lot of concern from the Committee here on both 
+sides on it.
+    Mr. Gensler. And I look forward to more conversations.
+    Senator Daines. Yeah. I have just watched--we all watch--
+what is going in Europe and California, where it just moves 
+from a passion for climate change to go into climate insanity 
+in terms of dealing with baseload issues and creating truly 
+existential threats to their economies, their national 
+security, and I just do not want to see our country follow the 
+same path that we have seen in Europe. I spend a lot of time 
+talking to European leaders, and they wish they had a redo on 
+this.
+    Mr. Gensler. Yeah. I actually think this is one of the 
+reasons that we could come together. And we want something here 
+in the U.S. that we adopt a rule and it is sustained in court 
+because, if we do not, large U.S. issuers will probably have to 
+comply with that European regime because the European regime 
+says if you have more than 150 million euro of sales in Europe 
+you have got to comply with their regime.
+    Senator Daines. Yeah. Well, they are going to have a 
+really, really tough winter, and we say our prayers at night 
+and pray for a warm winter in Europe.
+    Chairman Gensler, I want to talk about BDCs for a moment, 
+business development companies. They play an indispensable role 
+in providing credit to middle market businesses in Montana as 
+well as around the country. One pressing issue that has 
+impacted BDCs and investors for several years is the 
+application of the SEC's Acquired Fund Fees and Expenses 
+(AFFE)--you are getting acronyms--rules to BDCs. But simply, 
+when you apply the AFFEs to BDCs, it over-counts the true cost 
+of investing in BDCs, thereby, I think, misleading investors.
+    Senator Menendez and I have introduced the Access to Small 
+Business Investor Capital Act, which permits BDCs to move 100 
+percent of those AFFE disclosure to a footnote in lieu of a fee 
+table.
+    Let me just cut to the chase here on the question. Does the 
+SEC plan to fully address the misleading disclosure that AFFE 
+creates for BDC investors in lieu of the current unworkable 
+rule the SEC has proposed, and would you agree that BDC 
+investors deserve the parity in disclosure with REITs. That is 
+a lot there.
+    Mr. Gensler. There is a lot there. Why don't I say this; I 
+look forward to helping with technical assistance on your bill.
+    But also, on business development companies being owned by 
+other funds, mutual funds, there is transparency in what--there 
+was a 2006 rule on this, way before I got here, that there was 
+this transparency that the investors in the mutual fund need to 
+sort of see all those costs and rolling up in those costs, and 
+I think that is what you are trying to address in your statute.
+    Senator Daines. Right.
+    Mr. Gensler. Yeah.
+    Senator Daines. Thank you. I am out of time here.
+    Is it Chairman Toomey here or it is Chairman Reed? Oh, 
+Chairman Brown is still there. Chairman, I did not see you. I 
+am good. Thank you.
+    Chairman Brown. Senator Reed from Rhode Island is 
+recognized.
+    Senator Reed. Thank you very much, and Mr. Chairman, 
+welcome. Senator Cortez Masto and I have introduced 
+legislation, S. 4857, Private Markets Transparency and 
+Accountability Act. Basically, our legislation would require 
+the Nation's largest, most important private companies to 
+register with the SEC, and they would then be subject to 
+appropriate disclosure requirements. I think it is necessary 
+because we are seeing the decline in public registrations and 
+an extraordinary increase in private companies that are 
+controlling some public companies, some other companies.
+    Can you describe the main differences between the public 
+markets and the private markets when it comes to investor 
+protection?
+    Mr. Gensler. We benefit in this country, vibrant capital 
+markets, both public markets and private markets. My dad never 
+had a company that would be caught up in your bill, but he had 
+a small business that had 30, you know, employees. And so I 
+think that has been very helpful.
+    But there is a difference in disclosure and a difference 
+in, as you said, investor protection because Congress gave this 
+Agency a remit about those public companies and to protect 
+against--that the disclosure is there, that it is truthful, and 
+we protect against fraud and manipulation. That is, of course, 
+different if it is a private company. Not that my dad would 
+have done this, he was buying and selling the stock with his 
+partners.
+    Senator Reed. But I mean, again, I think in the--when the 
+SEC came about, most of the private companies were relatively 
+small, family owned, and that is not the case today. Huge 
+financial----
+    Mr. Gensler. No, no. It is estimated by outside public 
+sources there is about 1,200 companies in the U.S. that are 
+what is called ``unicorns,'' that are worth more than a billion 
+dollars and that the total market value is about $4 trillion.
+    Senator Reed. And the disclosure and the investor 
+protections for those companies are not at the same level of 
+strength as public companies?
+    Mr. Gensler. It is interesting. It is not--it is not under 
+our remit, but the disclosures to the holders or whatever, you 
+know, is privately negotiated between the holders and those 
+companies, and so it is not at the same level.
+    Senator Reed. I just want to quickly shift gears a bit 
+because this is the 20th anniversary of the Sarbanes-Oxley Act. 
+I think you are quite familiar with that. And it was a response 
+to the scandals of Enron and WorldCom, and it demonstrated why 
+investors need gatekeepers in our financial markets, especially 
+accountants. But one concerning trend is that the big four 
+accounting firms provide also lucrative consulting services to 
+public companies that they are also responsible for auditing. 
+So what steps is the SEC taking to ensure that auditors 
+prioritize independence over seeking non-audit revenue?
+    Mr. Gensler. Yeah, I thank you because I was sitting in the 
+seats behind the Chair and Ranking Member when it was Senator 
+Graham and Senator Sarbanes sitting there.
+    Senator Reed. I was over there.
+    Mr. Gensler. And you were over here. But I think what 
+Senator Sarbanes--and Senator Graham voted for that bill, 
+actually. So what they tried to do in that bill was to ensure 
+that there was some separation between the audit function and 
+consulting and so forth.
+    I have asked--because I think that there has been some 
+lessening of that separation over those 20 years, I have asked 
+a number of things, the Office of Chief Accountant at the SEC, 
+and I have also asked the board at the PCAOB. I have told all 
+five of the members there, could you put on your agenda as well 
+to update the standards, the PCAOB standards and the SEC 
+standards, about this separation and the independence? And I 
+also know our acting Chief Accountant, Paul Munter, has given 
+some speeches on this recently and leaned into this.
+    Senator Reed. Just a final question, there have been 
+several major cases with accounting firms over the past year, 
+ethical lapses, professional problems, but those findings are 
+basically not disclosed to the public. They are maintained by 
+the regulatory agency. And Senator Grassley and I have 
+legislation that would make them public, and I think that is 
+important. I think it is important to know whether a firm has 
+been engaged in----
+    Mr. Gensler. I think it would be. It was one of the 
+compromises laid between Senator Enzi and Senator Sarbanes as I 
+remember it.
+    Senator Reed. So, thank you.
+    Chairman Brown. Thank you, Senator Reed.
+    Senator Warren from Massachusetts is recognized.
+    Senator Warren. Thank you, Mr. Chairman.
+    So in March, the SEC proposed a climate risk disclosure 
+rule that takes a big step toward increasing the efficiency of 
+the economy and the financial markets by requiring companies to 
+inform investors about the climate-related risks that affect 
+their businesses. Now as part of this rule, the SEC proposes 
+that companies disclose their greenhouse gas emissions and 
+companies' submissions are classified into three different 
+categories called Scopes.
+    So, Chair Gensler, just so we can set a baseline here, let 
+us run through an example. Let us say I am Exxon. My Scope 1 
+emissions would be from things like my company's vehicles and 
+methane leaks that occur at the wellhead of the wells that I 
+own. Scope 2 emissions would be those from electricity I 
+purchase, for example, in order to power my operations. Scope 3 
+would cover upstream emissions from the production of what I 
+buy, like the chemicals I use to refine my oil into gasoline or 
+diesel fuel and the downstream emissions from what I sell, like 
+the refined gas or the diesel my customers buy at the pump. Do 
+I basically have that right, Chair Gensler?
+    Mr. Gensler. Yes.
+    Senator Warren. Good. So you need all three Scopes because 
+otherwise a company could just stop doing the filthiest part of 
+their business and hire some smaller, nonreporting company to 
+do the same filthy work, and then report themselves as greener.
+    So, Chair Gensler, for a fossil fuel company like Exxon, 
+what percentage of their total emissions are Scope 3 emissions?
+    Mr. Gensler. I suspect you might know that better than I. I 
+have not looked, but it is often over half. It could well be in 
+some companies--I do not know Exxon. Some companies, it is as 
+much as 90 percent.
+    Senator Warren. Well, you are close on that number. 
+According to an S&P global analysis, about 88 percent of the 
+emissions of these fossil fuel companies like Exxon are Scope 3 
+emissions. So in other words, oil and gas companies have Scope 
+3 emissions that, on average, as you say, it is about 90 
+percent of their total emissions.
+    Now the rule the SEC proposed in March already gives 
+companies, in my view, way too much wiggle room in disclosing 
+Scope 3 emissions, but evidently, that wiggle room is not 
+enough benefit for Exxon. They and their trade association, the 
+American Petroleum Institute, have been fiercely lobbying the 
+SEC to drop Scope 3 disclosures entirely from the final rule.
+    So Exxon wants to change the SEC proposal so the company 
+would have to tell about emissions when their own work trucks 
+were on the road but not about emissions from all the other 
+trucks that are fueled by Exxon diesel when they are on the 
+road, or, to say it another way, companies like Exxon do not 
+want to have to tell investors or the public about nearly 90 
+percent of their emissions.
+    And, if Exxon and the American Petroleum Institute get 
+their way, investors would remain in the dark about how 
+companies would be affected down the line when policymakers get 
+serious about tackling climate change and, for example, put 
+significant restrictions on trucks that are powered by fossil 
+fuels.
+    So, Chairman Gensler, if a company discloses only 12 
+percent of their total emissions to investors, do you think 
+that investors have all of the information that they need in 
+order to evaluate whether or not that company is well 
+positioned to succeed in a greener economy with much stricter 
+regulations on emissions?
+    Mr. Gensler. So I look at it this way, that many companies 
+today are already making commitments about all three of these 
+Scopes. More are making commitments about Scope 1 and 2, but 
+many are also making commitments. And our proposal was, if you 
+are making a public commitment about how you are managing it, 
+you ought to measure it because how do you manage that which 
+you do not measure. And then we also said, if it was material, 
+using a Supreme Court test of materiality, that you would have 
+to measure it. But we did get a lot of comments on this; you 
+are right.
+    Senator Warren. So I understand this, but the question I am 
+asking you is actually much narrower. It is a straightforward 
+investor question. If climate emissions are going to become 
+more important in valuing businesses as the regulatory 
+environment changes, if you only have to disclose 12 percent of 
+your emissions, does an investor have the information they need 
+to make a good investment decision?
+    Mr. Gensler. So again, I will quote from our comment file, 
+if we look at the top three or four hundred investor letters 
+that we got that manage tens of trillions of dollars of assets, 
+most--I do not remember the percent--most are supportive to 
+have all three Scopes part of this disclosure. So that is 
+straight from the investors rather than from me.
+    Senator Warren. Actually--and I think that is exactly the 
+right point because for months now the big banks, the pension 
+funds, and the investment management companies have been asking 
+for this Scope 3 information because it is crucial to making 
+good investment decisions.
+    I appreciate that you are working to protect investors and 
+not some particular industry because that is the job of the 
+SEC, and we are counting on you to do that.
+    Mr. Gensler. Thank you, Senator.
+    Senator Warren. Thank you, Mr. Chairman.
+    Chairman Brown. Thank you, Senator Warren.
+    Senator Toomey has a couple, the last two questions, a 
+couple questions.
+    Senator Toomey. Thank you, Mr. Chairman.
+    You know, I have made no secret about my concern that there 
+are people in this Administration, in this Congress for that 
+matter, who wish to use financial regulators as the tool by 
+which they will advance a liberal agenda, and I have criticized 
+this, among other reasons, because it is so undemocratic, 
+right. It is so undemocratic to have unelected, unaccountable 
+agency bureaucrats making the tough decisions that should be 
+made by the accountable parts of our Government. I have 
+criticized the Fed, the CFPB.
+    And, Mr. Chairman, I am putting you in this category, and 
+the climate disclosure rule, I think, is the example. You know 
+very well the Supreme Court held in the West Virginia v. EPA 
+case that the EPA lacked the authority under the Clean Air Act 
+to regulate greenhouse gas emissions. In coming to that 
+conclusion, they relied on the Major Questions Doctrine. In 
+that, the Court held that given the economic and political 
+significance of the asserted authority the Agency must point to 
+clear congressional authorization.
+    Now among the factors they used to decide that something is 
+a major question, yeah, the major question, the Court noted it 
+involved a novel approach, it involved technical and policy 
+expertise not traditionally needed by the Agency, such a 
+consequential decision is unlikely to have been left by 
+Congress to Agency discretion, and the Agency had adopted a 
+scheme that Congress had considered and rejected multiple 
+times.
+    Mr. Chairman, it looks to me that the climate rule that you 
+have proposed, under the Major Question Doctrine, just does not 
+have the congressional authority. So my question is: In light 
+of the EPA v. West Virginia case, have you given any 
+consideration to rescinding that rulemaking?
+    Mr. Gensler. Thank you, Senator. We take seriously the 
+courts and particularly the Supreme Court, and so we are 
+considering 14,000-plus comments in that comment docket, and we 
+are considering it in light of our authorities and the law. I 
+would say most of the comments are supportive.
+    Investors are using this information now, and they want the 
+information. And I think it does fit into our 80- or 90-year 
+history of how we do disclosures, that the disclosures are 
+already being made. And so what I just want to finish on is I 
+think we have a role to ensure that there is not only investor 
+protection but, as the law said, fair dealing, that the actual 
+disclosures are not misleading and the like.
+    Senator Toomey. Well, as I predicted, I think if you go 
+ahead with something substantively similar to the proposed 
+rule, you are going to find a very unsympathetic Court with 
+regard to the authority that you have.
+    Chairman Brown. Thank you, Senator Toomey.
+    Thank you, Chair Gensler, again, for joining us.
+    For Senators who wish to submit questions for the record, 
+those questions are due 1 week from today, Thursday, September 
+22nd.
+    Chair Gensler, per our Committee rules, we ask you respond 
+to any questions within 45 days from the day you receive them. 
+Thank you again.
+    The Committee is adjourned.
+    [Whereupon, at 12:06 p.m., the hearing was adjourned.]
+    [Prepared statements, responses to written questions, and 
+additional material supplied for the record follow:]
+              PREPARED STATEMENT OF CHAIRMAN SHERROD BROWN
+    Welcome back Chair Gensler.
+    Workers and their families don't measure the economy by the stock 
+market, and neither should we.
+    It's why in the Senate and in the Biden administration, we are 
+working to create an economy that delivers results for people who get 
+their incomes from a paycheck, not an investment portfolio--rising 
+wages and good-paying jobs and lower costs.
+    That means fighting the corporate price gouging that hurts 
+consumers, and the unfair labor practices that hurt workers.
+    It means investing in American manufacturing and the workers who 
+drive it.
+    And it means making sure our financial watchdogs keep our markets 
+and economy stable.
+    At the SEC, that includes going after companies that try to cheat 
+the market. It means strengthening corporate disclosures to stay ahead 
+of risks like climate change. It means looking into the practices of 
+private equity and hedge funds, as they stretch their tentacles into 
+more and more areas of our economy.
+    It's been an eventful year.
+    This summer, the Senate confirmed President Biden's two nominees to 
+the SEC. I know both new Commissioners got right to work on the many 
+issues before the agency. And the Commission and its dedicated staff 
+have been busy.
+    Republicans on this Committee have bellyached about your ambitious 
+agenda.
+    If Wall Street and its allies are complaining, it probably means 
+you're doing your job.
+    You put Americans' savings first and you focus on fairness and 
+transparency--two concepts critical to making sure our markets work for 
+everyone, not just insiders and corporate executives.
+    The SEC must continue making enforcement a priority.
+    Bad actors are always coming up with new schemes to separate people 
+from their hard-earned money, or to cheat the rules to gain a little 
+more for themselves.
+    Under your watch, the SEC has increased prosecutions for insider 
+trading, which under the Trump administration had fallen to the lowest 
+level in a generation.
+    In April, this Committee considered a Reed and Menendez bill that 
+would outlaw insider trading in statute. The House has already passed a 
+similar bill. Now the Senate must pass it.
+    Last month, we saw the successful results of bipartisan work of our 
+Committee Members to improve transparency and fight fraud.
+    In 2020, Sens. Kennedy and Van Hollen pushed for the passage of the 
+``Holding Foreign Companies Accountable Act'', a bill to stop the U.S. 
+stock exchange trading of foreign companies with China-based auditors 
+that refused to comply with our oversight laws.
+    Because that law jumpstarted negotiations, the Public Company 
+Accounting Oversight Board (PCAOB) signed an agreement with Chinese 
+authorities that will--finally--allow auditors to begin inspections.
+    In March, President Biden signed an Executive order establishing a 
+whole-of-Government strategy for digital assets.
+    While agencies across our Government look at how we respond to the 
+growth of crypto, and best protect people's money, we know the SEC 
+continues to enforce the law-going after cryptotokens that violate 
+securities laws, shutting down crypto Ponzi schemes, and charging 
+insider trading crimes in crypto.
+    Over the last year in this Committee, we have looked at how crypto 
+assets are used in scams and fraud, and play a role in illicit finance. 
+We also heard from the Treasury Under Secretary testify on the 
+President's Working Group report on stablecoins.
+    This morning, the Agriculture Committee is considering a crypto 
+bill sponsored by Sens. Stabenow and Boozman that focuses on digital 
+commodities. I appreciate their work to create regulation in the crypto 
+space.
+    It's critical that we are careful and deliberate in drawing 
+jurisdictional lines.
+    In this kind of regulation, we have to prevent gaps and close 
+loopholes that can be exploited or abused. That's not easy, and it's 
+why action by the Agriculture Committee and CFTC is welcome. But it's 
+not enough.
+    When Congress wrote Dodd-Frank, we fixed the problems in the 
+oversight of the over-the-counter derivatives market. That's a lesson 
+we need to remember when it comes to crypto--all our regulators need to 
+work together, and to make sure investors, consumers, and market 
+stability comes first.
+    The SEC's work on climate risk disclosure is also an important 
+example of how to improve the market's understanding of risks and to 
+provide transparency and comparability. Clarity and uniformity are key.
+    If only a subset of companies provides disclosure, and they do so 
+in whatever form they want, that doesn't serve anyone. Investors 
+outside the U.S. already benefit from standardized climate risk 
+disclosures; it's time the U.S. market did as well.
+    The SEC's recent rule proposal to require more disclosure about 
+corporate stock buybacks will also bring much-needed transparency to 
+the market.
+    We know stock buybacks are a big problem--they distort the market, 
+and they funnel profits to executives at the expense of long-term 
+investment in workers and innovation.
+    And the process allowed for these buybacks has only made them more 
+manipulative. For decades, companies have been able to announce stock 
+buybacks to juice their stock price, but then only provide details 
+months later on how, when, and even whether they ever completed their 
+plans.
+    Under the SEC's new proposal, the market and the SEC would 
+understand when companies are buying their stock, and if executives are 
+buying or selling at the same time.
+    Taken together with our unprecedented step in the Inflation 
+Reduction Act to finally tax these buybacks, these are the first real 
+steps we've seen in years to rein in this Wall Street scheme.
+    Chair Gensler, I look forward to hearing more about other ways the 
+SEC is working to hold bad actors accountable, and protect Americans 
+who invest their hard-earned money in our markets.
+                                 ______
+                                 
+            PREPARED STATEMENT OF SENATOR PATRICK J. TOOMEY
+    Mr. Chairman, thank you. And welcome, Chairman Gensler.
+    The SEC has a critical role to play in protecting investors, 
+maintaining fair, orderly, and efficient markets, and facilitating 
+capital formation. Unfortunately, some of the SEC's recent actions--and 
+inactions--raise concerns about how well it's carrying out this 
+important mission.
+    Take for example the SEC's handling of crypto lending platforms, 
+like Celsius and Voyager. Celsius and Voyager were offering interest 
+rates as high as 18 percent if customers would lend their digital 
+assets to them.
+    The firms would then lend that crypto to other larger investors to 
+make short-term bets on cryptomarkets. But once the crypto selloff 
+began, many borrowers couldn't pay their debts, and these platforms 
+froze customer accounts.
+    The SEC took enforcement action against BlockFi for similar 
+activities last winter, yet somehow let Celsius and Voyager continued 
+through this spring, when both companies blew up and found themselves 
+in bankruptcy, with investors staring at billions in losses. Where was 
+the SEC?
+    And where's the SEC been in clarifying the rules of the road for 
+cryptomarket participants? The Chairman insists in his written 
+testimony that ``the vast majority'' of cryptotokens are securities.
+    But he has also acknowledged Bitcoin is not. Presumably that's 
+because Bitcoin is so decentralized. That naturally raises the 
+question, where on the decentralization continuum does a token cease to 
+be a security?
+    Most of these tokens don't even have a financial claim on the 
+issuer. Doesn't that make these tokens very different from the vast 
+majority of securities?
+    And if the Chairman is right that most tokens should be considered 
+securities, then as he himself states in his written testimony, ``it 
+follows that many crypto intermediaries . . . are transacting in 
+securities and have to register with the SEC in some capacity.'' 
+However, crypto transactions typically can be settled in real-time on-
+chain and without intermediaries.
+    As a result, crypto intermediaries often serve different customer 
+needs, have different business models, and pose different risks than 
+traditional securities intermediaries. That raises the question, what 
+is the crypto-specific roadmap for these crypto intermediaries to 
+register?
+    Stepping back, there's a larger problem here. As Bloomberg 
+columnist Matt Levine put it: ``[Chairman] Gensler's posture is that he 
+should be in charge of writing the rules for crypto, but not write 
+them. I don't see how that can work.'' I agree.
+    Given the novel nature of these tokens, Congress ought to step in 
+to provide clarity. In particular, we need to revisit the definition of 
+``security'' as part of a larger effort to tailor a regulatory 
+framework that is calibrated to the unique risks and activities of the 
+cryptomarket?
+    As I've said, cryptotokens have varying degrees of 
+decentralization, usually do not have a financial claim on the issuer, 
+and typically can be settled in real-time without intermediaries. These 
+are important differences from traditional securities. And they merit a 
+clearly stated and tailored regulatory framework.
+    While the SEC has failed to provide regulatory clarity in the 
+cryptomarkets, it has been issuing numerous controversial and 
+burdensome rules and proposed rules in the ordinary securities market. 
+At the top of the list is the SEC's climate disclosure rule.
+    Public companies are already legally required to disclose material 
+climate change information. The proposed rule however would go much 
+further to require disclosure of exceedingly extensive global warming 
+data.
+    This data will be enormously expensive to collect, but almost none 
+of it will be material to a business's finances. For annual reports 
+alone, the SEC estimates that aggregate external compliance costs for 
+issuers increases from $1.9 billion per year to $5.2 billion per year 
+as a result of the SEC's proposed climate disclosure rule.
+    The SEC itself estimates that the external compliance cost of a 
+company going public will increase by more than five times, at a time 
+when excessive regulatory costs are resulting in ever fewer companies 
+going public. The cost of compliance will be more material to the 
+investor than the information itself.
+    But of course the climate disclosure rule isn't about an informed 
+investment decision. It's about equipping climate activists with data 
+to run political pressure campaigns against companies, often to the 
+detriment of shareholders.
+    The endgame is to discourage capital investment in oil, natural 
+gas, and other traditional energy industries. We've seen how that 
+worked out for Europe.
+    The SEC is wading into controversial public policy debates that are 
+far outside its mission and its expertise and without the legal 
+authority to do so. In doing so, the SEC risks politicizing the agency, 
+slowing economic growth, increasing inflation, and even undermining 
+national security.
+    Given the importance of these issues, Banking Committee Republicans 
+have written to the SEC asking basic questions about how the SEC 
+developed the climate disclosure rule. Instead of providing real 
+answers, the SEC has unacceptably stonewalled.
+    The SEC may not want to answer to Congress on its climate 
+disclosure rule. But, ultimately, the SEC will have to answer to the 
+courts, which should make it nervous.
+    The Supreme Court has repeatedly held that ``Congress . . . does 
+not alter the fundamental details of a regulatory scheme in vague terms 
+or ancillary provisions--it does not, one might say, hide elephants in 
+mouseholes.'' This summer the Supreme Court applied this sensible 
+principle in West Virginia v. EPA.
+    There it ruled that the Executive branch and its agencies, cannot 
+use novel interpretations of existing law to pretend they have legal 
+authority to support sweeping policy changes, including on climate 
+change, that Congress never intended. Well, that's precisely what the 
+SEC appears to be trying to do with its climate disclosure rule.
+    The SEC should consider itself to be on notice by the Court that 
+the separation of powers still exists and will be upheld.
+                   PREPARED STATEMENT OF GARY GENSLER
+             Chair, U.S. Securities and Exchange Commission
+                           September 15, 2022
+                           
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+              Additional Material Supplied for the Record
+ LETTER SUBMITTED BY NATIONAL ASSOCIATION OF MANUFACTURERS, SECURITIES 
+    INDUSTRY AND FINANCIAL MARKETS ASSOCIATION, AND U.S. CHAMBER OF 
+                                COMMERCE
+                                
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+     
+                                   [all]
+

@@ -1,0 +1,3122 @@
+
+ - THE STATE OF THE AMERICAN ECONOMY: A YEAR OF UNPRECEDENTED ECONOMIC GROWTH AND FUTURE PLANS
+
+[Senate Hearing 117-698]
+[From the U.S. Government Publishing Office]
+
+
+
+                                                        S. Hrg. 117-698
+
+
+  THE STATE OF THE AMERICAN ECONOMY: A YEAR OF UNPRECEDENTED ECONOMIC 
+                        GROWTH AND FUTURE PLANS
+
+=======================================================================
+
+                                HEARING
+
+                               before the
+
+                              COMMITTEE ON
+                   BANKING,HOUSING,AND URBAN AFFAIRS
+                          UNITED STATES SENATE
+
+                    ONE HUNDRED SEVENTEENTH CONGRESS
+
+                             SECOND SESSION
+
+                                   ON
+
+  EXAMINING THE CURRENT STATE OF THE AMERICAN ECONOMY, AND THE FUTURE 
+                         ECONOMIC GROWTH PLANS
+
+                               __________
+
+
+                           FEBRUARY 17, 2022
+
+                               __________
+
+  Printed for the use of the Committee on Banking, Housing, and Urban 
+                                Affairs
+
+
+
+
+
+                 [GRAPHIC NOT AVAILABLE IN TIFF FORMAT]
+
+
+
+
+
+
+                Available at: https: //www.govinfo.gov /
+
+                               ______
+                                 
+
+                 U.S. GOVERNMENT PUBLISHING OFFICE
+
+52-911 PDF                WASHINGTON : 2023
+
+
+
+
+
+
+
+
+
+
+
+
+            COMMITTEE ON BANKING, HOUSING, AND URBAN AFFAIRS
+
+                     SHERROD BROWN, Ohio, Chairman
+
+JACK REED, Rhode Island              PATRICK J. TOOMEY, Pennsylvania
+ROBERT MENENDEZ, New Jersey          RICHARD C. SHELBY, Alabama
+JON TESTER, Montana                  MIKE CRAPO, Idaho
+MARK R. WARNER, Virginia             TIM SCOTT, South Carolina
+ELIZABETH WARREN, Massachusetts      MIKE ROUNDS, South Dakota
+CHRIS VAN HOLLEN, Maryland           THOM TILLIS, North Carolina
+CATHERINE CORTEZ MASTO, Nevada       JOHN KENNEDY, Louisiana
+TINA SMITH, Minnesota                BILL HAGERTY, Tennessee
+KYRSTEN SINEMA, Arizona              CYNTHIA LUMMIS, Wyoming
+JON OSSOFF, Georgia                  JERRY MORAN, Kansas
+RAPHAEL WARNOCK, Georgia             KEVIN CRAMER, North Dakota
+                                     STEVE DAINES, Montana
+
+                     Laura Swanson, Staff Director
+
+                 Brad Grantz, Republican Staff Director
+
+                       Elisha Tuku, Chief Counsel
+
+                 Dan Sullivan, Republican Chief Counsel
+
+                      Cameron Ricker, Chief Clerk
+
+                      Shelvin Simmons, IT Director
+
+                        Pat Lally, Hearing Clerk
+
+                                  (ii)
+
+
+
+
+
+
+
+
+
+
+
+
+                            C O N T E N T S
+
+                              ----------                              
+
+                      THURSDAY, FEBRUARY 17, 2022
+
+                                                                   Page
+Opening statement of Chairman Brown..............................     1
+        Prepared statement.......................................    41
+
+Opening statements, comments, or prepared statements of:
+    Senator Toomey...............................................     4
+        Prepared statement.......................................    42
+
+                               WITNESSES
+
+Cecilia Rouse, Chair, Council of Economic Advisers; accompanied 
+  by Jared Bernstein, Member, Council of Economic Advisers; and 
+  Heather Boushey, Member, Council of Economic Advisers..........     6
+    Prepared statement...........................................    44
+    Responses to written questions of:
+        Senator Cortez Masto.....................................    46
+        Senator Daines...........................................    47
+
+                                 (iii)
+
+
+
+
+
+
+
+
+
+
+
+ 
+  THE STATE OF THE AMERICAN ECONOMY: A YEAR OF UNPRECEDENTED ECONOMIC 
+                        GROWTH AND FUTURE PLANS
+
+                              ----------                              
+
+
+                      THURSDAY, FEBRUARY 17, 2022
+
+                                       U.S. Senate,
+          Committee on Banking, Housing, and Urban Affairs,
+                                                    Washington, DC.
+    The Committee met at 10 a.m., via Webex and in room 538, 
+Dirksen Senate Office Building, Hon. Sherrod Brown, Chairman of 
+the Committee, presiding.
+
+          OPENING STATEMENT OF CHAIRMAN SHERROD BROWN
+
+    Chairman Brown. The Committee on Banking, Housing, and 
+Urban Affairs will come to order.
+    Today's hearing is in the hybrid format. Our witnesses are 
+in person. Members have the option to appear either in person 
+or virtually.
+    Every day, Americans get up, go to work, and do their jobs. 
+But as we know this week our Republican colleagues refuse to do 
+theirs.
+    On Tuesday, this Committee met to vote on five outstanding 
+nominees for the Federal Reserve. Republicans did not show up. 
+Not a one. Instead, they went AWOL in the fight against 
+inflation.
+    At this pivotal moment in our economic recovery, everyone 
+understands that we need a full Federal Reserve board--it would 
+be the first time in nearly a decade where all seven members 
+sat, confirmed members sat at the Fed--to help tackle 
+inflation. Republicans have no solutions. Only political 
+stunts. Americans do not want more political theatrics. They 
+want actions and solutions to bring down costs.
+    We will not stop fighting for these nominees. These 
+nominees--I will just tell you what they have all done. They 
+have met with every Senator, every single Senator who asked for 
+a meeting, on Committee, off the Committee. They met with 
+Committee staff, majority and minority. They offered to meet 
+with many of my colleagues who refused to meet with them, and 
+some of them then boycotted the vote. They answered every 
+question posed to them at the hearing. They answered every 
+question submitted for the record, more than 200 of them, in a 
+timely matter. One nominee even answered questions submitted 
+after the deadline.
+    If we are going to continue growing our economy, we need 
+all seven Governors in place. We need these professionals, 
+working and debating and making decisions about monetary 
+policy, and interest rates, and jobs, and tackling inflation.
+    I implore my Republican colleagues to show up and vote. 
+Vote yes, vote no, just show up and vote. It is your job. I 
+implore--and the American people expect--for you do your jobs, 
+just like they do every day.
+    Let me read a few headlines from the past few weeks:
+    ``Strong Jobs Report Shows Resilient Economy'', ``January 
+Jobs Report Crushes Expectations'', ``Biden Sets First-Year 
+Record With 6.6 Million Jobs Added''.
+    In my State, long derided as the ``Rust Belt,'' Ohioans 
+have been waking up to headlines like these:
+    ``Intel Picks Ohio for Largest Chip Factory in the World'', 
+``Hyperion Fuel-Cell Company To Open Largest Columbus Factory 
+in a Decade'', ``GE Aviation Lands $6.8 Billion Engine Deal in 
+Sign of Rebound From Pandemic'', ``Intel's Investment: 
+Gamechanger for Ohio Jobs''.
+    America is in the midst of unprecedented economic growth. 
+Our GDP grew by 5.7 percent last year, the strongest annual 
+growth in 40 years. For the first time in two decades--and this 
+is, I think, particularly significant--our economy grew faster 
+than the economy of China.
+    Job creation hit an all-time high. We added 6.4 million 
+jobs last year, an average of more than half a million jobs 
+every single month. We saw the fastest drop ever in the 
+unemployment rate. American entrepreneurs started more than 5 
+million new businesses in 2021, another record.
+    Raw jobs numbers of course do not tell the whole story. 
+They do not tell you how good the job is, what kind of wage it 
+pays. On that front, though, the news is perhaps even better. 
+Wages are rising, particularly for hourly workers who have been 
+left behind in past economic recoveries. Workers are finally 
+starting to share in more of the economic growth that they 
+create.
+    American families' disposable incomes were higher in 2021 
+than they were before the pandemic, even adjusting for 
+inflation. As Assistant Secretary of Treasury Ben Harris said 2 
+weeks ago, ``Household balance sheets were exceptionally 
+healthy due in part to the American Rescue Plan, other 
+Government pandemic assistance, and brisk wage growth.''
+    All of this progress was possible because of the American 
+Rescue Plan. We promised shots in arms, money in pockets, and 
+workers back on the job, and the Rescue Plan delivered.
+    We know that challenges remain. For all the progress we 
+have made, we cannot deny that many of the people we serve say 
+they do not feel it. People are exhausted. They are tired of 
+this pandemic, they are tired of the anxiety, they are tired of 
+the way that it has divided neighbors, divided schools, and 
+divided families.
+    The number one thing we can do to improve our economy and 
+improve people's lives is to defeat this pandemic, and we are 
+on the right course. Cases and hospitalizations are dropping. 
+Because of the American Rescue Plan, a great majority of 
+Americans are now vaccinated. Everyone can get a booster shot. 
+We no longer have to live in fear.
+    We also know that the pandemic has caused inflation to run 
+too high. Workers feel it every time they go the grocery store. 
+Inflation is a real problem and one that we, as a country, need 
+to address directly. It is all the more reason why we need a 
+full Federal Reserve board.
+    The pandemic has revealed that our supply chains are too 
+long and too fragile. It causes higher prices in some 
+industries. No one wants to have to go to three different 
+stores to get all their shopping done, or to have every option 
+they try to buy on backorder for months. It is maddening, it is 
+draining, it is frustrating for the American public.
+    We know how to fix it--you make more things in America. For 
+too long, our trade policy and our tax policy have encouraged 
+corporations to move production overseas. It has cost us 
+millions of jobs, especially in the States of Pennsylvania and 
+Ohio. It has contributed to our supply chain problems today. It 
+is time to bring those supply chains back home.
+    The House and Senate have passed bills to spur domestic 
+manufacturing, research, and development. They would allow us 
+to better compete with countries like China. They would support 
+the production of key inputs like semiconductors. We should put 
+a comprehensive bill on the President's desk soon.
+    We also took an important step to speed up our supply 
+chains by passing the Bipartisan Infrastructure Bill to improve 
+our roads, and our bridges, and ports, making it easier and 
+more efficient for American manufacturers to get products to 
+market.
+    As important as all of these steps are, Government is not 
+the only actor here. Corporate consolidation is reducing 
+competition, giving consumers fewer choices and workers fewer 
+options. Nobody explains better in the meatpacking industry 
+than my colleague from Montana, Senator Tester, what has 
+happened there. Too often corporations increase prices while 
+cutting an even larger check for executives and shareholders.
+    The Wall Street Journal tells us that two-thirds of the 
+largest publicly traded companies have reported larger profits 
+in 2021 than in 2019. In recent weeks, CEOs have bragged to 
+Wall Street about their ability to increase prices on 
+consumers.
+    Let us be clear. Raising prices is a choice, is a decision 
+that corporations make. They could make a different choice. 
+They could reduce the amount of stock buybacks. Millionaire 
+executives could actually take a bit of a pay cut, or even just 
+get a slightly smaller raise this year.
+    But there is nothing forcing them to make a better choice, 
+because there is not enough competition in the economy. We need 
+an economy that works for everyone, not just those at the very 
+top. We cannot declare the recovery complete until all workers 
+can find a job that pays them fair wages, that treats them with 
+dignity, and that allows them to keep up with the cost of 
+living.
+    Today we will hear from all three members of the 
+President's Council of Economic Advisers: Chair Rouse, Dr. 
+Bernstein, and Dr. Boushey. These are skilled economists who 
+understand that behind all the charts and models and tables are 
+real people with hopes, dream, and ambitions.
+    As Chair Rouse said in January, the actions that the Biden 
+administration has taken have led to, quote, ``unprecedented 
+improvement in our economy and important investments made in 
+its future productive capacity.'' I look forward to hearing 
+more about this year of unprecedented growth, the current state 
+of the economy, and plans to continue this expansion.
+    Ranking Member Toomey.
+
+         OPENING STATEMENT OF SENATOR PATRICK J. TOOMEY
+
+    Senator Toomey. Thank you, Mr. Chairman. I have to start by 
+observing it is a little bit rich to be lectured by the 
+Chairman about not attending a markup of nominees when the 
+Chairman personally led the Democratic boycott of the Senate 
+Finance Committee markup of two Trump nominees. There were 
+several other Democrats on the Committee who participated in 
+that boycott. I guess what is good for the goose is not good 
+for the gander.
+    It is also rich to hear wailing and gnashing of teeth about 
+vacancies on the Fed board and this newfound Democratic concern 
+over inflation. First of all, I and my Republican colleagues 
+have been on record for well over a year warning about 
+inflation risks, warning about the excessive spending. 
+Democrats criticized us for wanting to normalize interest rates 
+and Fed policy. And yet here our Democratic colleagues are 
+pushing for yet another inflation-fueling spending blowout 
+bill.
+    The fact is the Fed is fully functional. The FOMC has 9 of 
+its 12 members in place. They could raise rates today if they 
+wanted to. They could do it tomorrow. They could do it at any 
+time.
+    But what is really ironic is that it is the Chairman's 
+decision not to move five nominees forward. We made it clear, 
+and I made it clear last week to the Chairman repeatedly, 
+publicly, and privately, we are perfectly happy to vote on five 
+of the six nominees. That would be four Fed Governors and the 
+director of the FHFA. If we did, actually most of them would 
+get considerable Republican support. They would move on.
+    And if there were a concern about vacancies on the Fed, the 
+Chairman could fix that very quickly. He chooses not to. He 
+prefers to have the vacancies. That is his choice.
+    It is also interesting how some of my Democratic colleagues 
+have been so passionate about ending the revolving door. I 
+think you could argue some have practically made a career out 
+of railing against the revolving door, where people go from a 
+powerful Government regulator to go work for the industry that 
+they regulated, they enrich themselves, and then maybe they 
+come back to do it for another loop. Is there a more 
+archetypical example than Ms. Raskin?
+    Senator Warren recently tweeted and called Randy Quarles 
+``corrupt'' because after he left the Fed he went back to the 
+firm, the private equity firm that he had founded himself. So I 
+guess it is corrupt if a Republican does that, but the rules do 
+not seem to apply in the other direction.
+    The Chairman said that the candidates answered the 
+questions. Let me be very clear. Ms. Raskin was far less than 
+candid with us. She failed to disclose that she even was a 
+director of Reserve Trust. She failed to disclose the $1.5 
+million she made for that service. She failed to disclose 
+hundreds of pages of writing and hours of speeches.
+    When she was asked how did she get on the board of Reserve 
+Trust in the first place, she said she could not recall, which 
+is odd because the founder and chairman says in an article in 
+today's Wall Street Journal that he has known the Raskins for 
+decades.
+    When Ms. Raskin was asked if she ever contacted the Fed on 
+behalf of Reserve Trust, first she evaded the question 
+repeatedly, but then eventually she replied by saying she could 
+not recall.
+    Well, that is funny, because the Kansas City Federal 
+Reserve President recalled the conversation very well. The 
+chairman of Reserve Trust recalled the conversation. He was not 
+even part of it. But we are supposed to believe that Ms. Raskin 
+just could not recall.
+    And let me remind everybody why this is important. Reserve 
+Trust is a fintech company based in Colorado, and it applied 
+for something that is extremely valuable: a master account at 
+the Fed. To my knowledge, there is not a single fintech in 
+America that has gotten that, and unsurprisingly, they were 
+denied. Their application was turned down. Then, Ms. Raskin on 
+the board, called the Fed, and shortly thereafter, the Fed does 
+a 180-degree reversal and approves the master account.
+    To the best of my knowledge, as of today, there is a grand 
+total of one fintech in America that has a master account with 
+the Fed and it is Reserve Trust.
+    So we asked an obvious question. Why the reversal? Why the 
+180-degree change? What changed?
+    First we get stonewalled. Then we finally get a partial 
+answer from the Federal Reserve Bank of Kansas City. Let me 
+just quote one sentence that summarizes it. The Federal Reserve 
+Bank of Kansas City says, ``After its denial''--and that is a 
+reference to the denial of the master account application--
+``after this denial, RTC changed its business model and the 
+Colorado Division of Banking reinterpreted the State's law in a 
+manner that meant RTC met the definition of a depository 
+institution.'' That is from the Federal Reserve Bank of Kansas 
+City.
+    My problem with that is on Tuesday night, the Colorado 
+Division of Banking says that is not true. And this is what 
+they said, and I quote, ``We consider the statement that the 
+division reinterpreted State law as a misrepresentation of our 
+practice.''
+    So it remains entirely unclear what happened here. All we 
+know is that Ms. Raskin was in the middle of it. The firm on 
+whose board she sat applied for a very, very valuable account 
+with the Fed. They were turned down. She intervenes, they get 
+approved, and we cannot get an explanation of what happened 
+here.
+    Is that fair to all the other fintechs across America that 
+would also like to have master accounts, and they have been 
+turned down? How is that fair to anybody? And how is this 
+Committee doing its job if we do not insist on getting some 
+answers to this question? But we get stonewalled. We get 
+answers from the nominee that she cannot recall, and we get 
+basically nothing from the Fed.
+    So, Mr. Chairman, it is your choice if you want to continue 
+to preclude the possibility of having four nominees from the 
+Fed confirmed and the FHFA Director. We are quite happy to 
+process those nominees. But we want answers before we vote on 
+Ms. Raskin.
+    Let me just close with a quote justifying a boycott of a 
+recent markup of nominees. And I quote, ``By refusing to demand 
+honest, transparent information about the business dealings of 
+these nominees the Committee failed to do its job on behalf of 
+the American people.'' That is Sherrod Brown, February 1, 2017.
+    Chairman Brown. Thank you, Senator Toomey. I do not want 
+this to be back-and-forth, because we have witnesses here for a 
+real reason. But let me just say two quick things. One is our 
+not showing up in the Finance Committee and the HELP Committee 
+to discuss and actually ultimately vote on two, as it turned 
+out, particularly one corrupt Cabinet nominee, Dr. Price, who 
+was in office only about 4 or 5 months and resigned under a 
+scandal, did not stop the Committee from voting. It was a 
+protest that they had not answered nearly enough of our 
+questions. They did not give the kind of response that Sarah 
+Bloom Raskin, Governor Raskin and others gave, the fulsome 
+kinds of answer they gave to dozens and dozens of questions. So 
+we were protesting that, but did not block a vote because the 
+majority could still go ahead. That is the difference in this. 
+And the Banking Committee has never done that.
+    The second issue on voting on four noms--and I know that is 
+Senator Toomey's contention over and over--he knows, we all 
+know that that would set a precedent, of the Ranking Member can 
+decide, based on answers to questions that a nominee gave. I do 
+not like the answers to climate change especially is one that 
+has offended many, many Republican Members. Then if a Ranking 
+Member can say, ``I do not like the answers to the questions,'' 
+then simply withhold a quorum, it means the Ranking Members 
+then choose whom we are going to vote on. So any Ranking 
+Member, whether it is Finance or Banking or Veterans or any 
+other committee, can simply say, ``I did not like his answers. 
+I did like her answers. We are not going to show up to vote,'' 
+then essentially the Ranking Member determines whom we are 
+going to vote on.
+    So we are voting on all five of these Federal noms. We are 
+voting on FHFA. They are very qualified. That is our intention 
+when we get back in March.
+    To our witnesses--Dr. Rouse, Dr. Bernstein, Dr. Boushey--we 
+welcome you to the Committee. I believe this will be our first 
+hearing in a long time, as long as I can remember, with the 
+full CEA before the Committee.
+    Chair Rouse, please begin your testimony. Thank you for 
+joining us.
+
+    STATEMENT OF CECILIA ROUSE, CHAIR, COUNCIL OF ECONOMIC 
+ ADVISERS; ACCOMPANIED BY JARED BERNSTEIN, MEMBER, COUNCIL OF 
+  ECONOMIC ADVISORS; AND HEATHER BOUSHEY, MEMBER, COUNCIL OF 
+                       ECONOMIC ADVISORS
+
+    Ms. Rouse. Chairman Brown, Ranking Member Toomey, Members 
+of the Committee, thank you for inviting me and my colleagues, 
+Heather Boushey and Jared Bernstein, here to testify today.
+    Just over a year ago, President Biden entered office with a 
+full agenda, a pledge not only to fight the pandemic and 
+support economic recovery, but also to rebuild our economy for 
+sustainable and more widely shared growth. Success was not pre-
+ordained. The country faced a still-raging pandemic, a weak 
+economic recovery, and historic job loss.
+    Thanks to the collective efforts of the Administration, 
+Congress, and the Federal Reserve, we have been able to recover 
+with strength and speed. And importantly, we have begun to lay 
+the groundwork for an economy that is stronger, more resilient, 
+and more equitable.
+    Over the last year, millions of Americans have gained 
+protection from the worst of COVID-19, businesses have been 
+able to resume activity, and children are back at their school 
+desks. Economic recovery has been strong. In 2021, GDP grew 
+faster than it has in almost 40 years and the U.S. job market 
+gained more than 6.7 million jobs. Unemployment is down to 4 
+percent, years earlier than projected. Child poverty is likely 
+to be reduced by almost 40 percent in 2021.
+    The American Rescue Plan was a critical component of this 
+recovery. It served as an insurance policy to address the 
+uncertainty of a global pandemic, and support the economy as 
+the virus, and the tools to tamp it down, evolved. The 
+emergency measures worked, resulting in a robust economic 
+turnaround. Families and businesses have had the means and 
+resources to cope in the short-term. Ultimately, workers and 
+small businesses have avoided the lasting damage we typically 
+see when economic crises are allowed to linger.
+    But as President Biden has made abundantly clear, helping 
+Americans weather the pandemic is simply part one of his 
+economic vision. The Administration's strategy encompasses what 
+the President and Treasury Secretary Yellen have called 
+``modern supply side economics,'' that is, we must make 
+investments in our economy to boost labor supply, raise 
+productivity, reduce inequality, and create strong, sustainable 
+growth.
+    The Bipartisan Infrastructure Law is a historic step toward 
+realizing that vision, providing long-overdue investment in our 
+Nation's roads, bridges, water systems, and broadband 
+infrastructure. We commend the bipartisan work of many on this 
+Committee for making these necessary investments, and know your 
+Governors, mayors, and constituents are grateful.
+    Unlike the American Rescue Plan, which was short-run relief 
+designed to be spent out over the course of the pandemic 
+emergency, the infrastructure law will be spent out across the 
+country over years, building and strengthening the foundation 
+our economy needs to increase its productive capacity.
+    Other administrative actions this year will also contribute 
+to long-term economic growth. Examples include the whole-of-
+Government approach to increasing competition in markets, 
+addressing climate change, and fostering greater equity.
+    Of course, challenges remain. The gains in our economy have 
+taken place against the backdrop of a once-in-a-century 
+pandemic economy, where what we know about downturns and 
+recoveries has been tested. Vigilance is required to ensure we 
+do not backslide when curveballs like Omicron come our way.
+    And Americans are feeling the pinch of inflation--at the 
+pump, in grocery stores, and in the marketplace. The pandemic 
+itself has been a major driver. Consumers have shifted their 
+spending from services to goods and global supply chains have 
+been severely tested. A lack of workers has stymied the supply 
+of goods and services as well.
+    In the near-term, the principal tools to curb inflation 
+rest with the Federal Reserve, which is why it is critical to 
+confirm the five highly qualified nominees now. The 
+Administration also has some tools it can employ, as 
+demonstrated in recent actions to improve supply chain 
+disruptions at the ports and increase the capacity of the 
+trucking industry.
+    In the longer term, we must make real investments, be that 
+in our roads and bridges, or people and ideas. Sustainable 
+growth will only come about if we are able to increase economic 
+capacity and allow more Americans to participate productively 
+in our economy. The economic challenges of 2022 must, of 
+course, be met, but we must also lay a foundation for future 
+generations.
+    In doing so, we must create an economy that rewards work, 
+not wealth. The Administration's economic agenda aims to ensure 
+that those in the middle class, who have largely been left out 
+of economic investments for the past 40 years, will finally 
+benefit, ensuring that growth is more broadly shared.
+    We need Congress to act on the President's full economic 
+agenda to achieve these goals: providing necessary funding to 
+continue to address the pandemic and keep the economy 
+functioning; passing USICA to bolster competition and build 
+resiliency into the market; enabling the energy transition to 
+curb climate change; and making Build Back Better a reality so 
+that families can afford the needs of everyday life, like 
+prescription drugs and childcare. As noted by 17 Nobel Prize 
+winning economists, these long-term investments not only build 
+a stronger economy but also ease longer-term inflationary 
+pressures.
+    President Biden's economic vision is predicated on the fact 
+that the economic status quo has not worked for all Americans. 
+For decades, it largely benefited those at the very top. We 
+share his vision for a stronger and more equitable economic 
+future for our country. Thank you.
+    Chairman Brown. Thank you, Madam Chair. I have two 
+questions for you and I hope to get, if answers are short 
+enough, to Dr. Boushey and then Dr. Bernstein.
+    Chair Rouse, many American workers and families are 
+concerned about high prices at the grocery store and the gas 
+station. What is your assessment of inflation right now? What 
+is the best way to fight it?
+    Ms. Rouse. Well thank you very much, Mr. Chairman. So we 
+understand that inflation is affecting consumers' pocketbooks 
+with higher prices, at the pump, grocery stores, from various 
+goods. Our view is we expect inflation to moderate over the 
+coming year, because we believe that the factors that have been 
+causing high inflation will begin to ease as COVID cases 
+gradually decrease.
+    You know, inflation is fundamentally a mismatch between 
+supply and demand, which has partially reflected a change in 
+demands as consumers have shifted their spending to goods. So 
+what we need to do is we have to accommodate demand. We know 
+that we have to have increased supply. Producers have been 
+increasing their prices because of the constrained supply. So 
+we need to ensure that the ports are strong, that we have 
+robust investment in our infrastructure.
+    I will say in the short term this really is in the purview 
+of the Federal Reserve, which is why confirming the nominees is 
+so very important. The Administration is doing what it can to 
+increase supply chains, to get more workers back to work, 
+including truckers with apprenticeship programs, and other 
+efforts. In the medium term, the competition agenda is so very 
+important because we know concentration, in concentrated 
+markets that gives some price pressure for firms. It reduces 
+innovation. It can cause lower wages for workers.
+    Importantly, the President's economic vision of investing 
+in infrastructure and people and ideas is really the long-term 
+solution, building economic capacity for addressing longer-term 
+price pressures.
+    Chairman Brown. Thank you. My friend and colleague, Rob 
+Portman, called the Bipartisan Infrastructure Bill a 
+deflationary bill, that it will help drive down prices for 
+Americans consumers. Do you agree with that?
+    Ms. Rouse. What I agree is that the Bipartisan 
+Infrastructure Law makes critical investments in our roads, 
+ports, bridges, broadband, takes lead out of pipes. Those are 
+important investments which increase our economic capacity. By 
+increasing capacity we can accommodate more demand, and so 
+therefore it helps to ease inflationary pressures.
+    Chairman Brown. Thank you. Dr. Boushey, your work as an 
+economist is focused on how we fix problems with inequality in 
+the economy, whether by race, class, or gender, or even where 
+you live. The stock market always seems to bounce back first 
+from a downturn while the lowest-paid workers who experience 
+the biggest job losses are also the slowest to reap the 
+benefits of the economic growth that they essentially created.
+    How do we ensure that economic recovery reaches all 
+workers, from steel workers in rural Ohio to newly unionizing 
+baristas at Starbucks, and not just those at the top?
+    Ms. Boushey. Thank you. Thank you, Chairman. That is a 
+great question and a good place to start. You know, the 
+President has been very clear on this issue. In fact, in his 
+address to Congress last year he said that his economic agenda 
+focuses on building an economy from the bottom up and middle 
+out, and really making sure that we see strong, stable, and 
+shared economic growth. And that is why it was so important 
+when he first came into office to focus on getting our 
+economy--addressing the pandemic and getting us back to full 
+employment.
+    That is why the American Rescue Plan was so important. 
+There are charts behind us that show some of the successes, 
+getting 6.7 million workers into jobs, and importantly, many of 
+the gains, particularly in wages, have been felt by workers at 
+the bottom end of the wage spectrum. So when you get folks back 
+to work it has this pulling-up effect.
+    Now, of course, that has not solved all of the issues 
+around inequities, and I want to point out a couple of other 
+things that we have focused on early on. One thing that the 
+Administration focused on was making sure that the PPP program, 
+the Payroll Protection Program, actually went to those who 
+needed it the most, and there is now research showing that 
+actually once the Administration came into office more business 
+owners of color and women were able to access that program. So 
+that is one way.
+    And what shows is that you actually need to have a focused 
+attention, which is why President Biden, as Chair Rouse said, 
+these whole-of-Government approaches to equity, to addressing 
+climate change, and to issues around market structure and 
+competition, because it is only through making sure that all of 
+our policies are focused on both being inclusive and making 
+sure that those at the top are not able to be unduly rewarded 
+will we be able to have that kind of strong, stable, shared 
+growth.
+    I want to just end with a couple of notes, to echo what 
+Chair Rouse said. Certainly the Bipartisan Infrastructure Law 
+is an important downpayment on equity, in a variety of ways, 
+but I cannot stress enough how important Build Back Better is, 
+that more fulsome agenda, to make sure that we are addressing 
+the needs around care and climate across the U.S. economy.
+    Chairman Brown. Thank you, Dr. Boushey. Dr. Bernstein, 
+quickly--and sorry, I do not have a lot of time left--the 
+pandemic revealed longstanding weaknesses in our supply chain, 
+as you know. What should Congress and the Administration do to 
+make supply chains more resilient and bring prices down for 
+consumers?
+    Mr. Bernstein. Thank you for the question. As was 
+mentioned, the Administration is already engaged and working 
+with the ports and working with the trucking sector doing all 
+we can to help ameliorate some of these pressures that are 
+showing up in our elevated inflationary reads. The Ports of 
+L.A. and Long Beach process 40 percent of the Nation's 
+containerized imports. They actually broke their 2018 record 
+last year for annualized imports by 13 percent. The number of 
+containers sitting on the docks for 9 days has come down by 60 
+percent, and so on. In the interest of time perhaps we will be 
+able to get back to this.
+    But underscoring what both of my colleagues said, by 
+investing in the Nation's infrastructure, whether it is roads, 
+bridges, electric vehicles, climate we help to strengthen 
+supply chains by onshoring some critical capacity that is now 
+very much dependent on offshore arrangements. We also help to 
+bolster not just supply chains but build in the kind of 
+resiliency that has clearly been missing. Certainly microchips 
+are a great example of that, and USICA is very important policy 
+solution in that regard.
+    Chairman Brown. Thank you. Senator Toomey.
+    Senator Toomey. Thank you, Mr. Chairman. In 2019, wages 
+were rising, and they were rising faster than prices. And wages 
+were rising faster for low-income workers than they were for 
+upper-income workers. So we had workers--unemployment reached 
+record lows also--and workers were able to improve their 
+standard of living because their income was rising faster than 
+their expenses.
+    Now we are in a situation where wages are rising but prices 
+are rising faster, and the reality is for most workers they are 
+falling behind because the cost of the things they need to buy 
+every week is going up faster than any increase in their 
+income.
+    So the Bureau of Labor Statistics, on February 10th, 
+summarized it pretty neatly. They say, and I quote, ``Real 
+average hourly earnings decreased 1.7 percent, seasonally 
+adjusted, from January '21 to January '22. The change in real 
+average hourly earnings, combined with a decrease of 1.4 
+percent in the average work week, resulted in a 3.1 percent 
+decrease in real average weekly earnings over this period.''
+    I know that is not the intention, but is it not true--and I 
+will start with Dr. Rouse--that most low- and middle-income 
+workers have experienced a bigger rise in the cost of the 
+things they need to buy than in their incomes?
+    Ms. Rouse. Well, I appreciate the concern very much, 
+Senator, and we are all very concerned about inflation and 
+appreciate that that is, you know, the purview of the Fed in 
+the short term, and it is important that we have a full slate 
+of Governors.
+    I just would like to point out the chart on the far right.
+    Senator Toomey. OK, yeah, I am sorry, but look. We all know 
+that the number of Governors is adequate to do whatever they 
+need to do about inflation, so let us not go there.
+    Ms. Rouse. OK. So let us look at this chart on the far 
+right.
+    Senator Toomey. But can you confirm the simple fact that 
+for most workers' wages are not rising as fast as prices?
+    Ms. Rouse. So some recent estimates by economists Emmanuel 
+Saez and Zucman suggest that actually, if we look at the bottom 
+50 percent of workers, that their market income, before taxes 
+and benefits, is greater now than it was in Q4 2019, and if you 
+look after taxes and benefits that they are actually ahead.
+    Senator Toomey. So we saw the number of 7.5 percent as the 
+most recent annual rate of inflation. We also know that low- 
+and middle-income people have a worse experience than that 
+because they pay a disproportionate amount of their income for 
+things that are rising more rapidly than 7.5 percent, like 
+gasoline, like groceries.
+    Are you telling me that you think that the average worker 
+in America is more than keeping up with inflation?
+    Ms. Rouse. So what we know is that--look, inflation is 
+not--we do not want to see this level of inflation going 
+forward, and that is why the President is focused on doing what 
+he can. The Federal Reserve is likely to adjust how its posture 
+has been toward inflation. But we do know that household 
+balance sheets, because of the efforts of the Federal 
+Government, the Federal Reserve have been maintained through 
+this pandemic, which is what is reflected in this chart on the 
+left.
+    Senator Toomey. OK. I am surprised that we cannot candidly 
+acknowledge the obvious. Wages are not growing as fast as 
+prices for the large majority of workers. These workers are 
+falling behind. Yes, if you have a lot of accumulated assets, 
+they have appreciated in value, and you are probably doing 
+fine. But the Americans I am concerned about in this case are 
+those who do not have huge accumulated assets.
+    Let me ask a question of Dr. Boushey. Contrary to what I 
+occasionally hear, it is an objective fact that the 2017 tax 
+reform made the American income tax code more progressive. We 
+lowered the burden for everybody and in the process changing 
+rules shifted the percentage, the largest percentage, to more 
+upper-income people.
+    My understanding is the Administration supports legislation 
+that would raise the SALT deduction from the $10,000 limit that 
+we put for rich people to deduct their high State and local 
+taxes to $80,000. I do not know any working-class people who 
+have $80,000 worth of State and local taxes, and yet it looks 
+like the Administration supports that.
+    My understanding, from joint tax, that the top 10 percent 
+of income earners would get about 88 percent of the benefit of 
+lifting the SALT cap. So why does the Administration want to 
+have this huge giveaway to wealthy people who choose to live in 
+expensive jurisdictions?
+    Ms. Boushey. So the Administration has not come out with a 
+position on the SALT tax at this point, and I am not here to 
+negotiate that with you today.
+    Senator Toomey. I am sorry. Maybe I----
+    Ms. Boushey. But what I can tell you----
+    Senator Toomey. Did you not endorse the Build Back Better 
+legislation? The House-passed bill includes----
+    Ms. Boushey. So the President's framework has been very 
+clear on his priorities in terms of tax reform----
+    Senator Toomey. OK, I understand, so----
+    Ms. Boushey. ----and he has a very robust agenda.
+    Senator Toomey. I just want to be clear. You do not support 
+the House-passed bill.
+    Ms. Boushey. I just said that I am not here to negotiate 
+that particular piece of the legislation here today, but the 
+President has put out----
+    Senator Toomey. That does not sound like much of an 
+endorsement, OK.
+    Ms. Boushey. ----a very fulsome agenda around tax reform, 
+focusing on taxing wealth and not work, and focused on taxing 
+folks making more than $400,000 a year.
+    Senator Toomey. OK. Thank you, Mr. Chairman.
+    Chairman Brown. Senator Tester is recognized.
+    Senator Tester. Beautiful thing. I like that. Thank you 
+very, very much. Just a couple of things, and I do not want to 
+get into an extended debate on this. I do want to get to the 
+economy and I want to thank you all for being here.
+    But, you know, when Reserve Trust got their master account 
+they were not classified as a fintech. It was 3 years later 
+they did that. And then there is an outfit by the name of Jack 
+Henry that did the same thing.
+    But what is more important here is to know that when a 
+Secretary, a very important Secretary, came to my office during 
+the Trump administration and I asked him about disclosure and 
+conflicts of interest, he looked at me and said, ``That is none 
+of you guys' business.'' A very important Secretary. And he did 
+not answer any of the question because he did not think I 
+needed to know any of the questions when I had him in my 
+office. I could have tried to organize so we did not have a 
+vote on him, but the truth is I just voted no and that was 
+that. That is the first question.
+    The second thing is that, Senator Toomey, I know you have 
+great skills, and so do folks across the aisle, to be able to 
+come in here and try to persuade minds. And I know it is 
+difficult because it is difficult from our side to change you 
+guys' minds too. But part of showing up is having that debate, 
+and part of showing up is having that debate before we have the 
+vote, and God only knows what could have happened and did not 
+happy because nobody showed up.
+    The last thing I would say is that I think you are giving 
+Sarah Bloom Raskin way, way, way too much credit. I serve with 
+a lot of folks here, and I am sure when I get out of this 
+position they will continue to say, ``Jon, would you consider 
+this or consider that,'' in whatever position I am in, whether 
+it is being a farmer in Montana or a meatcutter or whatever. 
+And I would do the same thing that I think anybody on this 
+Committee would do, and that is, ``I will take a look at it. I 
+will give you a fair shake, but I ain't just going to do what 
+you tell me to do.''
+    And you guys are making the assumption that Sarah Bloom 
+Raskin made a request and they just rolled. I am going to tell 
+you, if that is the case, we have got the wrong people on these 
+regional Feds. We ought to take a look at replacing all of 
+those. Because if that is the process that is used for giving a 
+master account, then we have got bigger problems than Sarah 
+Bloom Raskin.
+    That is all, and I do not want to talk about any of that 
+anymore. We just to try to make the Senate functional, and not 
+showing up does not add to the functionality of the U.S. 
+Senate, which I think we can all agree is pretty damned 
+dysfunctional at this moment in time.
+    I want to talk about childcare, because it is something I 
+hear about almost all the time when I go back to Montana. And I 
+want to talk about housing, which is what I almost always talk 
+about when I go back to Montana. And the question I am going to 
+ask you is pretty simple, really, when it comes to childcare, 
+and I do not care who answers is. I think we have got a huge 
+problem, and I think folks have figured it out. Because of the 
+pandemic, when they were staying at home, they looked at their 
+bottom line and said, ``Hey, I have got more money not paying 
+childcare and not working than busting my hump working and 
+paying for childcare.''
+    So the question becomes, if we are going to have affordable 
+childcare--and accessible childcare, because that is important, 
+I think, absolutely important in rural America but probably 
+important in urban America too--if we are going to have 
+affordable childcare, how do we do that? How do we do that, or 
+do we just assume the private sector will take care of the 
+problem? And if we do, how long will that take? Because my 
+grandkids are actually in high school now, and when they were 
+in childcare it was over $10,000 a head for them to be in 
+childcare 10 years ago.
+    So does anybody want to respond to how we make childcare 
+more affordable and more accessible, and what role the 
+Government should play in that?
+    Ms. Boushey. I am happy to take that question, Senator, and 
+this is such an important issue and that is why addressing 
+childcare was both an important part of the American Rescue 
+Plan and also an important part of Build Back Better.
+    So, I mean, here is the thing. You know, childcare 
+businesses are out there every day, trying to provide a service 
+to American families. It is a service that is incredibly 
+expensive to provide, especially to get the kind of quality 
+childcare workers that families need, and families cannot 
+afford those costs. And so the crux of what the President 
+proposed in Build Back Better was to make it affordable for 
+families to be able to pay for childcare by capping the amount 
+of income that families have to pay while, at the same time, 
+subsidizing those businesses so that they could provide high-
+quality care, with qualified care providers, to families all 
+across the United States.
+    And, you know, we are already seeing just how challenged 
+that industry is right now. The number of workers in childcare 
+has fallen over the course of the pandemic as childcare centers 
+have really struggled to make ends meet. We have seen now that 
+the money from the American Rescue Plan is going out to those 
+providers, out to over 150,000 providers nationwide, to help 
+them cover their costs during the pandemic.
+    But all of this, it is about kids' well-being, and we know 
+that quality childcare is important for our future economy but 
+it also about making sure that parents can get to work. You 
+know, we have questions about making sure that labor supply 
+gets back to where it was prepandemic, and a lot of that is 
+about addressing this childcare crisis in America.
+    Senator Tester. Thank you. I am out of time. I would love 
+to get to housing and I would love to get to some job training 
+issues, but I will turn it back to the Chairman and Ranking 
+Member. Thanks, you guys.
+    Chairman Brown. Thank you, Senator Tester.
+    Senator Rounds is recognized, from South Dakota, from his 
+office.
+    Senator Rounds. Thank you, Mr. Chairman. Let me just begin 
+by saying I appreciate the opportunity to participate this way, 
+and I would like to focus on inflation and the causes of it, 
+and I would like our witnesses to talk a little bit about the 
+differences between what may very well be demand side 
+challenges versus supply side.
+    My constituents in South Dakota, like Americans across the 
+country are being squeezed by higher prices across the board. 
+Consumer prices in January were up 7.5 percent from a year ago. 
+Energy prices overall were 27 percent higher in January than 
+they were 1 year earlier. Electricity prices have jumped 10.7 
+percent. National gas prices have soared 40 percent since 
+January of 2021, reaching the highest level since August of 
+2014.
+    Right now the CPI indications are at about 7.5 percent 
+nationally, and PPI basically 9.7 percent, which would suggest 
+that there is going to be additional, or at least there is more 
+inflation in our future rather than less.
+    My question, Dr. Rouse, is what portion of this, in your 
+analysis, how much of this is due to demand side, where the Fed 
+would basically have a role versus the supply side, which, as 
+you indicated in your testimony earlier, this perhaps, you 
+know, the President having some things to do and the Fed having 
+some things to do. First of all, would you agree that the 
+supply side basically would rest more on the Presidential side 
+and the demand side more on the Federal Reserve side?
+    Ms. Rouse. Well, thank you for the question. So the way 
+that I see it is that we have inflation because it was 
+important for the Federal Government to support households, 
+workers, businesses through the pandemic. That is to maintain 
+demand. We see this in countries around the world that could 
+afford to do so, that they protected their constituents through 
+the pandemic. Supply was not able to accommodate that demand 
+and inflation fundamentally comes when you have a mismatch 
+between supply and demand.
+    So there have been various estimates that have been put 
+out, where we say the confidence interval is very wide, but we 
+know that as we get through the pandemic we will see regulation 
+in both of them.
+    And so what I would say is that as we are expecting that, 
+as we work through this pandemic, that the price pressures will 
+ease. You know, outside forecasters are expecting inflation to 
+be about half by this time next year.
+    Senator Rounds. Dr. Rouse, if I could I really did not mean 
+it to--it is not intended as a gotcha question. I am just 
+curious. When we talk about inflation we know that it is both 
+sides, and look, we recognize that we did what we could during 
+the pandemic to be able to make sure that our economy could 
+recover as quickly as possible.
+    My question is just right now with inflation where it is at 
+how do we go about addressing it? If we are serious about 
+addressing it, how do we do that if we cannot determine how 
+much the Federal Reserve should do versus how much the 
+Administration should do? That is my question. If you do not 
+have that information or if that is not part of the studies, 
+why not?
+    Ms. Rouse. So the Federal Reserve is an independent agency, 
+and they are studying and they will determine the speed and the 
+size of their response.
+    I will note that on a fiscal side that the fiscal impulse 
+has already turned rather negative, so we are already not 
+putting as much fiscal resources into the economy, which will 
+actually be slowing down the economy relative to where it has 
+been over the last 2 years. And we expect that as people come 
+back into the workforce, as the pandemic is under control, that 
+will ease some constraints. Getting people back to work will 
+help on the supply side. And as the pandemic is addressed 
+around the world, in particular, that will help bring more 
+goods as well. So there is a role to play for the Federal 
+Reserve in terms of fiscal policy in helping us to normalize 
+through this pandemic.
+    Mr. Bernstein. Senator, let me just say a couple of words 
+if I might, if that is OK.
+    Senator Rounds. Thank you very much. I appreciate it. My 
+only concern on this is I really think it is difficult to bring 
+this under control if we do not recognize how much of this is 
+actually due to supply side issues versus demand side. I think 
+part of that is the cost of petroleum, which is going to impact 
+everybody, and I think when we are not talking about what is 
+happening right now, when we talk about shutting down oil and 
+gas leases on Federal land and so forth, that sends a message 
+to futures, cost on crude and so forth. That may very well work 
+well for Mr. Putin because right now he is getting record 
+profits out of the oil and gas that he is producing, while at 
+the same time, back here at home, what we are seeing is 
+increasing prices for our consumers.
+    I just think that needs to be taken into account, and may 
+not be a popular thing to talk about right now with the 
+Administration. I think the American people should understand 
+that a lot of the inflationary trends that we are seeing are 
+due to the inflationary pushes on the supply side, which is 
+restricting the ability of us to have prices right now down to 
+where they were a year or a year and a half ago.
+    So I am kind of surprised at the split between the supply 
+side and the demand side has not been a little bit more of the 
+discussion that we should be having if we really want to get it 
+under control.
+    Mr. Chairman, my time has expired.
+    Chairman Brown. Dr. Bernstein, please answer briefly.
+    Mr. Bernstein. I will try to be brief because I actually 
+like the way you teed the question up and I think that our view 
+reflects much of the way you framed this, in the sense that 
+both demand and supply are clearly playing a role. The Federal 
+Reserve, of course, works more through the demand channel, and 
+as you suggested, our work is and can help further on the 
+supply channel.
+    The answer to the question of how much should each do, each 
+should do everything it can until inflationary pressures 
+normalize. What that means on the side of the Government, and 
+Congress definitely has a very important role to help here, is 
+to focus on the near-, medium-, and longer-term supply chain 
+constraints. In the near term, as I have mentioned, we have 
+intervened extensively in the ports, through trucking. Our 
+competition agenda is, as Chair Rouse suggested, intended to 
+help ease consumer prices in those sectors.
+    And then over the medium term, we very much believe that 
+investing in domestic semiconductor capacity is so important, 
+particularly regarding cars, a real source of auto pressure. We 
+talked a little bit about housing. That has the largest weight 
+in the consumer price index.
+    And over the longer term, the infrastructure bill and the 
+measures in Build Back Better are designed both to increase the 
+economy's supply side, productive capacity, and help reduce 
+costs that consumers face.
+    So I think your framework is actually the correct one, and 
+I think between the work of the Federal Reserve and Government 
+trying to expand productive capacity and supply side, we can 
+ease those pressures, perhaps as the forecast suggests, by the 
+end of this year.
+    Chairman Brown. Thank you.
+    Senator Menendez is recognized, from New Jersey.
+    Senator Menendez. Thank you, Mr. Chairman. You know, I did 
+not come here to talk about SALT, but since the Ranking Member 
+raised it let me just say, if I was Pennsylvania I would like 
+the way things are. Pennsylvania gets $15 billion more from the 
+Federal Treasury than it contributes to the Federal Treasury, 
+so if we could do that. I would be happy to make a deal with 
+all of my colleagues that have a problem with SALT, that we 
+will just get back whatever we send, and New Jersey would be 
+very happy.
+    Because there are maker States like New Jersey that invest 
+in education and research and development and infrastructure 
+that helps to drive the economy and sends billions to the 
+Federal Treasury more than it gets in return. So it is a maker 
+State. And then there those States that I call moocher States 
+that get a lot more than it sends to the Federal Treasury.
+    So if you want to continue to have States that are maker 
+States, that are blue-chip States, that make money for the 
+Federal Treasury, then just continue to ax the State and local 
+property tax deduction, which is the longest-serving part of 
+the Federal code in terms of a deduction, and you will see 
+those States be less of maker States, so that you can continue 
+to mooch off of it.
+    But let me move to the more current issue of the time. 
+There is no doubt that American families are feeling the pain 
+of inflation as supply shortages have wreaked havoc on the 
+world economy. However, that pain has been magnified by 
+companies that are hiding behind the headline inflation figures 
+to justify raising prices and profits on the backs of hard-
+working Americans. And let us be clear. Corporations are not 
+the ones hurting right now.
+    Here is a transcript of Kimberly Clark's last earnings call 
+a few weeks ago. CEO Mike Hsu stated that the company took, 
+quote, ``decisive action to offset the impact of higher costs 
+with significant pricing actions.'' He was not kidding. The 
+price of a 50-pack of Kimberly Clark N95 masks more than 
+doubled, from $23.19 to $57.15, from last October to January. 
+And the company's plan for the future is not to deliver relief 
+to consumers but to resume stock buybacks, quote, ``as soon as 
+we get the excess cash-flow.''
+    It is amazing to seek profit beyond simply hiding behind 
+the issue of inflation.
+    Dr. Bernstein, are you seeing this occur in other sectors 
+of the economy as well?
+    Mr. Bernstein. Yeah. Profit rates and profit margins are 
+highly elevated for firms across many sectors of the economy. 
+That is a short answer to your question. I guess putting it in 
+the context of our discussion--and by the way, I did want to 
+correct something that Senator Toomey said. Actually, while you 
+are correct about the year-over-years numbers, last month real 
+wages actually beat inflation.
+    But I wanted to talk about this in the context of wage 
+growth and inflation. It is commonly argued that wage growth is 
+a source of inflation, and that is potentially true based on a 
+full set of other factors that contribute to inflation, 
+including productivity growth and the share of national income 
+that is going to labor or to profits. And it is completely 
+coherent within the algebra of how wages and inflation interact 
+that non-inflationary wage growth can be paid for out of 
+reduced profit margins, and I think that is relevant to----
+    Senator Menendez. Well, I just cited one quarterly profit 
+call. There are many others in which clearly the companies are 
+using the guise of inflation to ratchet up their earnings, and 
+that is unconscionable and we have to think about ways in which 
+that transparency can take place so that consumers know. It is 
+pretty astounding.
+    Let me ask one other question. Even as we talk about a 
+growing economy, we have a labor shortage across the economy, 
+which is contributing also, in my mind, to rising inflation and 
+unmet consumer demand. There are currently nearly 11 million 
+job openings nationwide across low-wage and high-skilled 
+industries. Immigrants are ready and willing to fill those 
+jobs. We had the Secretary of Energy in New Jersey the other 
+day at one of our research and development centers. Four of the 
+six people who made presentations were clearly immigrants to 
+the United States, leading the way in innovation.
+    Unfortunately, there are over 1.6 million immigrants that 
+still have pending work permit applications before USCIS and 
+over 8 million immigrants that are stuck in the broader visa 
+backlog. Leading business groups, including the American 
+Business Immigration Coalition, agree that robust immigration 
+legalization provisions are urgently needed to address our 
+significant labor shortage.
+    What would each of you say is the role of immigrant workers 
+in mitigating the current labor shortage and rising inflation?
+    Ms. Rouse. Well, thank you, Senator Menendez, from the 
+great State of New Jersey. So we completely agree, and the 
+President, from day one of his Administration, he sent a bill 
+to Congress to modernize the immigration system. He has also 
+issued an Executive order directing a top-down review of 
+barriers to access in our legal immigration system, as you 
+know, on which U.S.-based employers rely to fill these critical 
+labor needs.
+    So in response to that order, agencies have worked to 
+create efficiencies in the work permit process, expediting work 
+permit approvals for health professionals, extended the period 
+for which such permits are valid, and are actively considering 
+other administrative actions to expand the labor supply.
+    So immigration is part of the solution here. I will add 
+that part of our labor supply challenge was going to happen 
+just due to the natural demographics of our society. This 
+pandemic hit at the height of our--pretty much at the height of 
+the baby boom, as they were retiring, and we have seen some 
+excess retirements.
+    I will add that a key part of getting people back to work 
+will be addressing the pandemic and ensuring we have the tools 
+so that people can get back to work safely and not risk their 
+health.
+    But there is no question that facilitating and dealing with 
+the backlog of these visas is top of mind. The President's team 
+is working on it, and that is part of the solution as well.
+    Chairman Brown. Thank you, Senator Menendez.
+    Senator Daines, from Montana, is recognized from his 
+office.
+    Senator Daines. Chairman Brown, thank you. I just want to 
+start off by echoing Ranking Member Toomey's comments earlier 
+about the markup that was supposed to occur this week. It is 
+truly a shame, in my opinion, that we did not move forward and 
+get five of the six nominees approved. I wrote a letter in 
+August supporting Chairman Powell's renomination, and I know 
+given past concerns from my colleagues on the other side of the 
+aisle about the use of the revolving door, frankly I am a bit 
+surprised that they would not share a desire to fully vet this 
+nominee before moving forward.
+    Turning to my statement, 2021 was the year of rampant 
+inflation, growing from 1.4 percent at the start of President 
+Biden's term now to over 7.5 percent. Inflation grew faster, 
+and has continued to grow faster than wages for the vast 
+majority of workers, meaning that paychecks are effectively 
+shrinking every month as this continues.
+    On an annualized basis, real average hourly earnings 
+dropped 1.7 percent. And, of course, other parts of the economy 
+are feeling the pain. Homebuilder confidence. I grew up the son 
+of a homebuilder. Their confidence fell for the second straight 
+month, in large part due to spiking lumber and steel prices as 
+well as months-long waits for cabinets, garage doors, 
+countertops, and just about everything else you would find in a 
+standard home.
+    Energy prices are rising, gas is up 40 percent year over 
+year, fuel oil is up 46 percent year over year, and up 9.5 
+percent in just the last month. And I just found it frankly 
+startling we are seeing significant increases of Russian diesel 
+being imported now at a time when we are watching the Russians 
+invade Ukraine.
+    This, of course, not going unnoticed by Montanans and 
+Americans across the country. Consumer sentiment is lower now 
+than it was at the beginning of the pandemic. In fact, 
+according to a recent Gallup poll, 71 percent of individuals 
+living in households with incomes of $40,000 or less say that 
+price hikes have caused their family financial hardship--71 
+percent.
+    Of course, we were all told, all throughout 2021, by 
+President Biden's administration this inflation was transitory. 
+I have not heard the word ``transitory'' lately, and many of us 
+on this side of the aisle were questioning this belief this 
+would be transitory. We did not buy it, and sadly, our 
+predictions now have come true.
+    They are continuing to insist that a peak is just around 
+the corner. Well even if it is, I have not seen anything that 
+suggests that 7.5 percent is far too high. We just do not need 
+inflation to peak soon. We need it to plummet.
+    Now to a few questions. Looking back at the economy in 
+February of 2020, we saw what I would describe as a 
+``Goldilocks economy.'' We had wage growth across the board. 
+Inflation was in check. Wages were actually growing the fastest 
+for individuals at the bottom of the wage spectrum. To me, this 
+broad-based, non-inflationary growth was about as good as it 
+gets.
+    My question for the panel is this. Would you agree that the 
+pre-pandemic economy, from February of 2020, is better than the 
+economic picture as we sit here today? A simple yes or no will 
+suffice.
+    Ms. Rouse. I will agree that the prepandemic economy on net 
+was looking fairly strong. However, that prepandemic economy 
+reflected many years of rather anemic growth. It was 
+reflecting, even in terms of wage growth at the median, we had 
+seen a little bit but there had been decades where at the 
+median there had not been robust wage growth. We know that 
+there were gaps by race and ethnicity that had been 
+longstanding.
+    So I would argue that while, in February of 2020, the bones 
+of the economy were strong that there were weaknesses there 
+that this President felt we should address, which is why his 
+economic agenda is designed to increase the economic capacity 
+in order to generate more robust, sustainable growth that can 
+be more equitably shared.
+    Mr. Bernstein. I will weigh in on your question as well. 
+The labor market is actually tighter now than it was then, by 
+some metrics. The unemployment rate was lower then than it is 
+now, although not by much--3.5 versus 4 percent. There are far 
+more job openings now than there were then. The GDP, probably 
+the most commonly cited indicator of economic health and 
+growth, is considerably faster now than it was then, which is 
+consistent----
+    Senator Daines. Dr. Bernstein, are you suggesting we are 
+better off right now than we were in February of 2020?
+    Mr. Bernstein. It is not a simple yes-no question, is what 
+I am more than suggesting. It is what I am articulating here.
+    There is a set of economic indicators--job openings, GDP 
+growth. Child poverty--child poverty was actually lower when 
+you factor in the interventions in the rescue plan in 2021, 
+probably than it was in 2020. We only have estimates of that so 
+far. And that is very much a function of the President's Rescue 
+Plan. By pulling the recovery forward, by getting shots in arms 
+and checks in pockets----
+    Senator Daines. Dr. Bernstein, I just firmly disagree with 
+that. We had $1 trillion of unspent COVID dollars at the end of 
+2020, and then, on a purely partisan basis, our colleagues 
+pushed another $2 trillion of Federal spending into the economy 
+in Q1----
+    Mr. Bernstein. Senator----
+    Senator Daines. ----and we were warned this was going to 
+have an inflationary effect. So anyway, I just respectfully 
+disagree.
+    Mr. Bernstein. OK. Well, I understand your point but let me 
+just----
+    Senator Daines. The balance sheet now----
+    Chairman Brown. Senator Daines--Dr. Bernstein, hold on.
+    Senator Daines. I am out of time.
+    Mr. Bernstein. I want to answer the question that you----
+    Chairman Brown. Dr. Bernstein, wait a minute. Senator 
+Daines, is that your last question?
+    Senator Daines. Well, I think I am out of time, Chairman 
+Brown. I want to respect the Committee.
+    Chairman Brown. Dr. Bernstein, a very short answer.
+    Senator Daines. I just respectfully disagree.
+    Mr. Bernstein. I am trying to answer the question that you 
+posed, Senator, and ticking off a set of indicators that are 
+actually doing better now than they were then, in the context 
+of a once-in-a-hundred year pandemic, which I think is a 
+remarkable achievement for our Administration and those in 
+Congress who helped us.
+    Senator Daines. Well, keep in mind the Federal balance 
+sheet right now is trillions of dollars higher than it was 
+before. Anyway, thank you.
+    Chairman Brown. Senator Warner, from Virginia, is 
+recognized from his office.
+    Senator Warner. Thank you, Mr. Chairman, and I appreciate 
+this Committee's nontransitory--transitory but relentless focus 
+on this issue. And I would point out to my colleague, I spent a 
+lot of time working with the former President's Treasury 
+Secretary, Senator Mnuchin, where we put about $5 trillion, 
+under President Trump, into COVID relief. We are talking about 
+what is potentially driving inflation. And I think those 
+investments, I was proud to work with him on those investments, 
+and I think they frankly saved this country from not only a 
+recession but potentially a depression.
+    I want to come to a topic that I think a couple of Members 
+have mentioned but I do not think have drilled down on, and 
+that is our housing shortage. We have seen rents go up 13.5 
+percent nationwide over the last year. In some markets it has 
+gone up 20 percent. We have seen home prices double over the 
+last decade.
+    A lot of this is frankly due to housing shortages. We now 
+have a housing shortage of about 1.7 million units, and that 
+grows by about 150,000 units each year. And everything I have 
+heard, at least, is that shortage is particularly acute not at 
+the upper ends, not even on the rental side at the highest-end 
+rental. It really is the most acute at low-income housing.
+    And that is one of the reasons why I am working with the 
+Chairman and many of us on the Committee. We had a robust 
+housing package in the second part of the President's 
+initiative that would have gone toward this supply issue. 
+Because if you are looking at housing costs driving upwards of 
+a third of CPI, and housing is a huge component of low- and 
+moderate-income folks' basic nut they have got to meet each 
+month, you know, if we really want to take on systemically and 
+not on a transitory basis but on a relentless basis the 
+question of inflation, we have got to increase housing supply.
+    So Dr. Bernstein--and I would be happy to hear from other 
+members of the panel as well--what should we be doing on 
+housing supply? And I was going to ask two questions. I will 
+try to ask just one, recognizing I would like to hear from the 
+whole panel. Housing supply, won't that address inflation? It 
+will not happen overnight but this is a long-term problem that 
+has been developing over a decade.
+    And beyond just direct Government programs there are tax 
+initiatives, like LIHEAP and others, LIHTC and others, that I 
+think make some sense. You know, private sector, then 
+bipartisan support of LIHTC gives that kind of incentive for 
+low housing construction to developers. Should we not use these 
+in our toolbox if we are really going to take on, not in a 
+short-term but in a long-term basis inflation?
+    Mr. Bernstein. Yes. That is an extremely important set of 
+questions, and let me begin by thanking you for your leadership 
+on this work as well as others on the Committee.
+    Let me start by just saying why this is so important, 
+underscoring some of the points that you made, Senator. There 
+is a long-term supply shortfall in the housing sector, and you 
+mentioned 150,000 units each year deficient supply. Multiply 
+that by 10 and you get to the number that you are suggesting in 
+terms of a shortfall. This is a market failure that is 
+particularly acute in the bottom half of the market. And why? 
+It is because the math does not always add up for people to 
+build, for builders to build, along with the problem of 
+exclusionary zoning problems. This makes this key to the 
+President's equity agenda, especially in rural areas and 
+communities of color.
+    And the third issue you correctly raised was inflation. 
+Shelter is the largest single component in the CPI. Housing 
+experts Jim Parrott and Jim Zandi recently wrote, quote, ``If 
+policymakers are serious about reining in inflation then they 
+have little choice but to take on the shortfall in housing 
+supply.''
+    What can we do? The Administration is already actively 
+using its executive powers to increase housing supply and 
+access. We have coordinated with various agencies--Fannie, 
+Freddie, HUD, Treasury--to create, deliver, or preserve 100,000 
+affordable units over the next 3 years.
+    But the Administration toolbox, Senator, as you well know, 
+is not nearly big enough to deal with the supply shortage that 
+goes back a decade, at least. Investments that we make now will 
+pay off for many years to come. Ideas that we have put on the 
+table, many of which you have helped champion, have a long 
+history of bipartisan support. And they involve the tax credits 
+that help to incentivize building on the supply side, where too 
+often middle- and low-income housing does not pencil out, given 
+land, permitting materials, and cost, again which predated the 
+pandemic; resources to help build and renovate houses; and 
+resources to build housing infrastructure through Community 
+Development Block Grants, which includes action on exclusionary 
+zoning.
+    I can say more about any of those details. It would 
+probably a whole other hearing to go through them in the way 
+they deserve, but let me stop there for now.
+    Senator Warner. And I think we have run out of time so I 
+would welcome any of my Republican colleagues who want to work 
+with me on bipartisan tax policy that actually incents the 
+increase of supply. If we do not want to take a transitory 
+approach and we want to take a long-term approach to deal with 
+inflation we have got to increase the supply of housing, 
+particularly for low- and moderate-income people.
+    Thank you, Mr. Chairman.
+    Chairman Brown. Thank you, Senator Warner.
+    Senator Scott, from South Carolina, is recognized.
+    Senator Scott. Thank you, Mr. Chairman, and thank you all 
+for showing up this morning. It has been a fairly feisty 
+hearing it sounds like to me, watching this back in the office 
+and paying attention to the comments.
+    I will say, there must be millions of kitchen table 
+economists, also known as parents, all over the country, asking 
+what in the world is the value of an economist degree in 
+Washington, DC? Because if we are failing to answer the simple 
+question that Senator Daines asked, which is are we better off 
+today than we were a year ago, the answer is emphatically 
+``no.'' That is not a question that people at the kitchen table 
+are asking in a serious manner.
+    When you ask yourself if the average person in this country 
+whether inflation was better this month than wages, the 
+cumulative effect of inflation in an average household in the 
+country, when your gas prices are up 40 percent and your 
+utilities are up 20 percent, the answer is ``no.'' If you had a 
+4 percent increase in your wages and a 7 percent increase in 
+inflation, the bottom line is that your spending power is down, 
+not up. If, in fact, you can look at inflation as an additional 
+tax on those folks with fixed incomes, are they better off, the 
+answer is ``no.''
+    This is not a hard question to even dig into. This is a 
+simple question that is clear. When your food is higher, and 
+your clothing is higher, and your utilities are higher, and 
+your gas is higher, to suggest that we are anything other than 
+worse off this year than we were last year, you do not even 
+have to believe me, as me. Ask the President's approval 
+ratings, the lowest ever. Why? It is because the average 
+American family is suffering through an incredible crisis that 
+they do not have to hear what you are saying. They can see with 
+their own eyes the disappearing dollars in their accounts. This 
+is not hard to see. This is easy to see.
+    What we should be asking ourselves is how do we make it 
+better, not pretending as if it is not bad. It is really bad, 
+and getting worse. When you are at a 40-year high in inflation, 
+this is not something that the average person says, ``I don't 
+really understand what inflation is anymore.'' They do not even 
+ask the question, ``What is the definition of transitory'' 
+because this is not transitory.
+    So the question I would pose, if I had a question, that is 
+for all three of you is, how do we tell the American people 
+that the inflationary impact is not devastating to someone like 
+the woman who raised me, a single mother, who is looking at her 
+account go down and her challenges go up? How do we say to that 
+person that there is somehow, some way, good news in the 
+current economy? And frankly, the confusion that is going to be 
+caused at tax time, when we accelerated the tax refunds through 
+the $300 monthly payment, that leads to confusion and a delay 
+in refunds, because we thought there was a better way to deal 
+with the Child Tax Credit. I think that is going to add more 
+confusion to this economy, less confidence in this economy 
+going forward.
+    So I hear what you are saying, and I think the average 
+American is literally sitting there asking themselves, this 
+cannot be the Banking Committee in the U.S. Senate, unable to 
+come to the conclusion that we came to in January of 2021, 
+February of 2021, March of 2021, January of 2022, February of 
+2022, and we are going to be saying the same thing in March of 
+2022 as well.
+    So I would love to hear how inflation is not having the 
+negative impact that every other person in the country seems to 
+be fully going through right now.
+    Ms. Rouse. Senator Scott, look, we understand. The 
+President understands your kitchen table economics and what 
+people are concerned about around the table. Part of the 
+challenge is we are in, we hope, only a 100-year pandemic. We 
+have been living with this for 2 years. In this country we have 
+had 900,000 deaths. The case is we are still living with this 
+pandemic.
+    What is hard for all of us to understand and appreciate is 
+what would have happened without the American Rescue Plan, 
+without the other efforts of the Federal Government and the 
+Federal Reserve to rescue this economy and ensure that we got 
+through whole. I appreciate that is a very hard counterfactual 
+to contemplate.
+    I am not saying that we are exactly where we want to be, 
+but as we have highlighted we have had the strongest recovery, 
+you know, on record. We are doing better than our peers. 
+Unemployment has fallen dramatically. I would remind the 
+kitchen table economists that when the President took office 
+the economy was almost 9.5 million jobs short of where it was 
+when the pandemic started, and we have recovered almost all of 
+those jobs. So now people who want a job can get a job, that 
+unemployment has fallen more quickly than it ever has in a 
+recovery.
+    And so while we have challenges, there is no doubt, and the 
+President is focused on doing what he can in the short term to 
+try to ease supply challenges, to nominate the Federal Reserve 
+nominees--and Senator Toomey, I will not say anything more 
+about that. But we know that we need to get inflation under 
+control. There is no question about it.
+    I think that the number one way that the President needs to 
+be focused on, and we all need to be focused on, is getting 
+this pandemic under control.
+    Senator Scott. Thank you, ma'am.
+    Ms. Rouse. That this is all driven by the pandemic.
+    Senator Scott. Mostly because Chairman Brown is going to 
+cut me off in a second, so I just want to finish up here, 
+because I think it is really important. I think you make some 
+really good points. Proving a counterfactual is implementation.
+    I, like many of my colleagues, would love to have been able 
+to vote for four members of the Federal Reserve and get answers 
+on the fifth one. I do think that unemployment has fallen, 
+without any question, partially because the long-term 
+unemployed should be absorbed in those numbers as well. As we 
+all know, especially you all better than I, that the more 
+people who are in the long-term unemployment line, the lower 
+your unemployment rate goes.
+    And I will finally finish with this--because you have been 
+very gracious, Chairman, with my time, and I appreciate that 
+more than I can say--that the $1.9 trillion COVID relief 
+package that had about 10 percent for COVID-related health, 1 
+percent for vaccines, and $1.6 or $1.7 trillion for spending 
+that actually helped to fuel the inflationary impact that we 
+are now trying to recover from has also been problematic.
+    Thank you, Mr. Chairman.
+    Chairman Brown. Thank you, Senator Scott.
+    Senator Van Hollen, from Maryland, is recognized.
+    Senator Van Hollen. Thank you, Mr. Chairman, and I do hope 
+we will vote on the Federal Reserve nominees. Vote yes, vote 
+no, but let's vote on all of them.
+    We passed the American Rescue Plan just about a year ago 
+because the pandemic had hit our economy hard. It had hit 
+workers hard. Millions of Americans were out of work. And as 
+you have testified today, and as the fact show--and I think 
+those factors are uncontested--we have seen jobs come roaring 
+back, over 6.6 million jobs, a record in the United States. We 
+have seen very robust, real GDP growth of 5.7 percent in 2021.
+    Now one of the reasons we passed the American rescue plan 
+was because families' incomes were being squeezed when they 
+were out of work. That included the $1,400 individual payments, 
+did it not, Dr. Rouse?
+    Ms. Rouse. Yes, it did.
+    Senator Van Hollen. And I keep hearing from our colleagues 
+about how the real purchasing power of American families went 
+down in 2021. It did not. Is it not the case that real 
+disposable income grew in 2021?
+    Ms. Rouse. Well, so again I will just refer to our chart 
+here, which is some new evidence from economists at U.C. 
+Berkeley, and would suggest, especially for the bottom 50 
+percent, that if you look at their market wages before tax and 
+before benefits, that they are better off today than in the 
+last quarter of 2019. And then when you add in benefits and 
+after taxes they are ahead.
+    So we know that inflation is a challenge, but household 
+balance sheets have weathered it well.
+    Senator Van Hollen. Well, so look. If I am a household and 
+what I look at is what is my purchasing power this year over 
+last year, and is it not a fact that real purchasing power went 
+up in 2021?
+    Ms. Rouse. It did. So these data suggest it did for most 
+families, but we have to acknowledge that inflation has also 
+been a challenge and has eaten into some of that purchasing 
+power. But because due to the record GDP growth there has been 
+a very strong recovery, so that household balance sheets are 
+strong and many Americans are better off today than they were 
+at the beginning of the year.
+    Senator Van Hollen. All right. And so, you know, as I look 
+at that, when you factor in the individual payments from the 
+American Rescue Plan, when you factor in the other relief, you 
+know, taken together with people's wages, the data indicate 
+that we have seen a growth in disposable, after-tax income, and 
+especially so for lower-wage individuals.
+    Let us get to where we are now, because, you know, there 
+has been a lot of year-over-year comparison with respect to 
+real wages. And I think, Dr. Bernstein, I think I heard you 
+clarifying something that had been said earlier. But if you 
+look at January's figures with respect to real wages, what do 
+we see?
+    Mr. Bernstein. I will tell you what we see but I will also 
+give you the beloved CEA caveat, which is that we never read 
+too much into any 1 month. We are always looking for trends. 
+However, we also look closely at the jobs report, and it did 
+show, in January, that the hourly wage beat the pace of 
+inflation. I think the hourly wage was up, if I am remembering 
+correctly, 0.7 percent; inflation was up 0.6 percent. Now that 
+is 1 month.
+    But it is indicative of trends that you have heard about 
+from all of us here today. The strength of the job market, that 
+was a month where we had an upside surprise in job gains of 
+467,000 jobs, well above what was expected, and a job market 
+that was powering through Omicron, that was very much upon the 
+land that month.
+    We should also underscore what Chair Rouse was just talking 
+about, that when the job market tightens up as much as it has, 
+bargaining power, leverage among working people goes up 
+disproportionately for those in the bottom half. And that is 
+one of the factors that is behind the stronger wage growth in 
+the bottom half and what you see there, vis-a-vis market 
+incomes and disposable incomes.
+    Senator Van Hollen. So really quickly, if we are successful 
+at beating this pandemic--more and more it does look like 
+Omicron is on the downward trend, although you never know what 
+will happen--but one of the issues we have seen, of course, is 
+during the pandemic people purchased a lot more goods relative 
+to what they purchased in services. In other words, that 
+balance changed.
+    Can we expect that as people get back out and can go to 
+restaurants and movies that that pressure, that price pressure 
+on goods will come down, and how would that impact inflation, 
+potentially?
+    Mr. Bernstein. That is certainly the dominant expectation, 
+and it is one of the main reasons why forecasts for inflation 
+predict that inflation will grow about half as fast at the end 
+of this year than it did last year. That goods-service 
+rebalancing helps in that regard because inflation in the goods 
+sector, due to the dynamic that you are describing, has vastly 
+surpassed that in the service sector.
+    But we will have to see, and look, forecasts have been 
+wrong. And I think the thing that we are trying to stress here 
+today, that both in terms of our Administration's actions in 
+terms of strengthening supply chains in the near term--our work 
+at the ports, our work at the trucks--and our legislative 
+agenda, including the Bipartisan Infrastructure Law and many of 
+the productive capacity-enhancing measures in the Build Back 
+Better agenda are extremely important to ease longer-term 
+inflationary pressures.
+    Senator Van Hollen. Thank you. Thank you all. Thank you, 
+Mr. Chairman.
+    Chairman Brown. Thank you, Senator Van Hollen.
+    Senator Tillis, from North Carolina, is recognized form his 
+office.
+    Senator Tillis. Thank you, Mr. Chairman. Unlike what 
+Chairman Brown insists, I think I can have competing concerns 
+at the same time. I think I can be concerned that the Biden 
+administration's policies are propelling inflationary pressures 
+higher, while I also believe that Ms. Raskin should provide 
+answers to important questions. Thirty-six separate ``I do not 
+recall'' statements are simply unacceptable. To suggest that 
+these concerns are somehow mutually exclusive I believe is 
+ridiculous.
+    Just this morning, Chairman Brown insisted his Finance 
+Committee boycott in 2017 was because, and I quote, ``They had 
+not answered nearly enough of our questions.'' Well, let us 
+review Ms. Raskin under this standard, just articulated by the 
+Chairman earlier in this Committee.
+    To date, Ms. Raskin has failed to provide numerous answers. 
+Ms. Raskin began by failing to list her time at Reserve Trust, 
+claiming to not even recall how she got the job. Ms. Raskin 
+failed to answer repeated questions at her nomination hearing 
+about her conduct lobbying her former colleagues at the Fed 
+while at Reserve Trust.
+    Subsequently, Ms. Raskin provided 36 identical ``I do not 
+recall'' responses to questions for the record. Ms. Raskin 
+finally canceled and did not reschedule a meeting with 
+Committee staff, and said that we could clear these issues up 
+and get real answers to important questions.
+    So misrepresenting my objection to Ms. Raskin as simply not 
+liking her shows a lack of understanding of my concerns.
+    Now, Mr. Chairman, or for the witnesses, I have been 
+listening to the entire Committee hearing in my office, and I 
+was really struck by what Senator Scott was saying. He used the 
+term ``kitchen table economist.'' Well, I will use the term 
+``trailer park economist,'' because I was one of those back in 
+the '70s, when I saw spiraling inflation, wrong-minded policies 
+from the administration, gas prices that were to a point where 
+I could not afford to fill up a 12-gallon gas tank at about $5 
+at a time.
+    That trailer park that I grew up in is still standing in 
+Nashville, and I will guarantee you if I went there today and I 
+presented the graphics that are behind the witnesses and said, 
+``You are better, right? We have had a historic recovery. We 
+just saw the strongest recovery on record,'' which was just 
+stated by one of the witnesses a few minutes ago, my guess is 
+they are feeling the same way that I did when failed policies 
+of the past put us in this position. For us to suggest that 
+people are not struggling, for us to suggest that somehow that 
+buying power of those folks that are living in the same trailer 
+park that I did is somehow stronger just absolutely conflicts 
+with real-world experiences that we see out there every single 
+day.
+    Mr. Chair, I also have to restate what Senator Toomey said 
+earlier. For witnesses on at least more than two occasions to 
+suggest that the way that we are going to fix the inflation 
+problem is to get these board members confirmed, really, either 
+they do not understand that we have a functioning board that 
+can take action today or they do not want to acknowledge that 
+fact because of an agenda to have these other four nominees 
+confirmed before we get answers to questions. And, 
+incidentally, we were prepared to vote on five out of the six 
+nominations in the markup, until the Chairman decided to go all 
+the way with the sixth nomination, Ms. Raskin, where we have 
+serious concerns.
+    For the witnesses, 55 percent of the CEOs believe that we 
+have an inflation problem. Why is it that you think we do not, 
+or why is it that you think that this should not be top of mind 
+for President Biden's administration? Why is it, because you 
+have mentioned Build Back Better several times, why is it that 
+you think flooding a zone with even more liquidity is somehow 
+going to fix the fundamental problems we have with this 
+economy?
+    Ms. Rouse. Thank you, Senator. So the President is very 
+focused on the concern of price increases. He understands that 
+the price of milk and gas have gone up, and that that is a real 
+challenge for families. This is a President who cares about the 
+middle class. That is his whole economic agenda.
+    Senator Tillis. If I may, because I want to try and be 
+respectful of the Chairman's time, but because I have heard you 
+and others say that Build Back Better is the solution to the 
+problem but I see several economists who say that it would 
+cause inflationary pressures over the long term. It would take 
+not months or weeks to recover from it but we would get back 
+maybe to reducing inflation over the course of years. How on 
+earth can we think that that is the right way to go about 
+fixing the real-world problems that we have today?
+    Ms. Rouse. So look. Seventeen Nobel Prize-winning 
+economists agree that Build Back Better is actually the 
+antidote to inflation going forward, because it----
+    Senator Tillis. Yeah, going forward, but how soon?
+    Ms. Rouse. Because it----
+    Senator Tillis. Are some of these same economists saying 
+that that could be a matter of years?
+    Ms. Rouse. The point is that Build Back Better is not 
+stimulus. It is not meant to be deficit financed. The President 
+has proposed that it be paid for and be fiscally responsible. 
+It makes critical investments, and those investments will not 
+cause inflation. In fact, they increase the capacity.
+    So it is not inflationary. I am not sure who you are 
+referring to, but we know that this is ways to make everyday 
+costs affordable for families, the very families you were 
+referring to, in prescription costs, in childcare, and to 
+ensure that people can get back to work, and so that our 
+economy has got faster growth and it is more equitably shared. 
+Yes, it takes time to build and to make those kinds of 
+investments, but that is the kind of sustainable growth that we 
+seek going forward.
+    Senator Tillis. Well, Mr. Chair, thank you for the time. I 
+can just tell you that those folks that I am going to go visit 
+back in that trailer park over the next week or so are probably 
+going to say, ``I do not have years to recover. I have months, 
+maybe weeks to recover,'' and we have to focus on the short-
+term crisis that we find ourselves in today.
+    Thank you, Mr. Chair.
+    Chairman Brown. Thank you, Senator Tillis.
+    Senator Smith, from Minnesota, is recognized.
+    Senator Smith. Thank you, Mr. Chair and Ranking Member 
+Toomey.
+    So I am sitting here and listening to this discussion, and 
+to listen to my Republican colleagues you would think this 
+economy in the United States is going to hell in a handbasket, 
+as my mother would say. And yet I am looking at the information 
+here that we have got. In the first year of President Biden's 
+term economy has created over 6 million jobs, the unemployment 
+rate has fallen to 4 percent, 3.1 percent in my State of 
+Minnesota, wages increased by 4.5 percent as well.
+    I note that according to numbers released in January by the 
+U.S. Census Bureau an astounding 5.4 million new business 
+applications were filed in 2021. So this says to me that the 
+American people are hopeful and are feeling that they can 
+achieve something in today's economy.
+    Now I am not saying that inflation, nor do I hear any of 
+you saying that inflation is not an issue that we need to pay 
+attention to. But let me dive into this a little bit.
+    A good friend of mine once said that for every complicated 
+question there is a simple answer that is almost always wrong, 
+and that seems to me to be the case when it comes to some of 
+the conclusions that my Republican friends are attempting to 
+draw when it comes to inflation.
+    So, Dr. Boushey, let me start with you. The question is why 
+is inflation going up. One simple answer pushed by my 
+Republican colleagues is that President Biden and the Democrats 
+have invested too much in the American people and that is why 
+inflation is going up. Is that the right conclusion to reach, 
+Dr. Boushey?
+    Ms. Boushey. Well, here is the thing. We are recovering 
+from a historic pandemic. As Chair Rouse said, everything about 
+our economy right now starts with that fact, that we have to 
+get the pandemic under control. That is why we had the economic 
+challenges. It is why we needed to take those historic actions 
+to support families through this crisis. And it is why, at this 
+point, even though we have supported families and 6.7 million 
+people have a job today that did not a year ago--an incredible 
+achievement, one that forecasters did not think that we would 
+be able to do.
+    But that has meant that demand and supply are not in 
+alignment, and, because of the pandemic, it has been hard for 
+suppliers to get goods to shelves and people are not going out 
+and doing things, buying services, at the same level that they 
+used to. They are not going out to eat. They are not doing 
+those things. They are buying stuff, but the pandemic has made 
+it difficult for those things to get to market.
+    And there are examples all across the economy, but it is an 
+imbalance in supply and demand. And it is because families have 
+been supported through this pandemic. You know, that is a core 
+part of the problem. They have jobs and so they can go out and 
+buy these goods and demand them.
+    So yes, it is a complicated issue but it does not mean that 
+the economy is all bad.
+    Senator Smith. Well, and it is not the correct assumption 
+to draw, or conclusion to draw that the actions that we have 
+taken are the reason why inflation is going up.
+    Dr. Rouse, this chart here shows that the inflation-
+adjusted income is rising for Americans in the bottom 50 
+percent of the economy. So what conclusion can we draw, based 
+on what Dr. Boushey just said, about whether the strong action 
+that we have taken has created more opportunity in the American 
+economy as we have been struggling with this pandemic?
+    Ms. Rouse. Well, when Congress took action because of the 
+pandemic there were two choices, right. Many people have been 
+concerned about the spending, that we could not afford it, but 
+there are two choices. We know that because we had to power 
+down the economy, if action had not been taken that actually 
+would have shrunk economic activity.
+    Senator Smith. Right.
+    Ms. Rouse. And so, therefore, we would have found ourselves 
+with people with less income. We would have had less economic 
+growth. Our economy would be smaller.
+    Instead, Congress, with you all and the prior 
+Administration, this Administration, the Federal Reserve, 
+thought it was more important to support the economy so that we 
+could come out actually even stronger. In fact, the IMF has 
+recently updated their forecasts, projecting that the U.S. 
+economy will be stronger in 2024 than it was before, because of 
+our actions.
+    So what was important was to maintain the economic activity 
+so that we could get through this downturn stronger than when 
+we came in. So that was the rationale.
+    Senator Smith. Thank you. And Dr. Bernstein, I mean, are 
+not Americans better off than they were a year ago? Do we not 
+have millions more Americans vaccinated? Do we not have most of 
+our students back in school? Are not millions more Americans 
+back at work?
+    Mr. Bernstein. Absolutely. And I want to underscore a point 
+that you are making, using the graph that you held up. If you 
+actually look back at the heart of the pandemic in 2020, where 
+you see that big dip in the red line and a big increase in the 
+other color line, which I am color-blind so I do not know what 
+color it is--I will call it blue--that gap there is a good 
+example of exactly what you are raising. Absent the fiscal 
+support, incomes would have looked much more like the red line 
+as opposed to the blue line. So this is really trying to 
+underscore the quote, what it would look like without the 
+support that Chair Rouse was talking about. So yes.
+    I think the thing that we never want to lose sight of is 
+that, yes, families face an inflation challenge that the 
+President underscores every time he talks about it, and we are 
+not sitting there watching that. We are doing everything we 
+can--near term, medium term, long term--with your help, to try 
+to ameliorate those pressures.
+    Senator Smith. Well, and there is more that we want to do 
+that we would like help from our Republican colleagues to do, 
+like lowering prescription drug prices, like lowering the cost 
+of childcare, like transitioning to clean energy so that our 
+utility rates are lower. And so I think those are the things 
+that we can do that we are already doing, thanks to the 
+leadership of the President.
+    Thank you, Mr. Chairman.
+    Chairman Brown. Thank you, Senator Smith.
+    Senator Ossoff, from Georgia, is recognized from his 
+office.
+    Senator Ossoff. Thank you, Mr. Chairman. Thank you to our 
+panelists. Thank you for your service.
+    Ms. Rouse, I would like to discuss the affordable housing 
+crisis faced by Georgians with you for a moment. Statewide home 
+prices were up 19 percent year over year in December. I hear 
+from constituents every day in places like Macon, Columbus, and 
+Atlanta about the dream of home ownership and the ability to 
+afford rental properties is becoming increasingly unattainable.
+    Of course, this is not a new phenomenon. The affordable 
+housing crisis has been growing and brewing for over a decade.
+    First question for you please, Ms. Rouse, is will you 
+commit to joining for a call or meeting with me, with Macon-
+Bibb Mayor Lester Miller, and Columbus Mayor Skip Henderson and 
+Atlanta Mayor Andre Dickens to discuss how the White House can 
+help support our efforts in Georgia to increase the supply of 
+affordable housing?
+    Ms. Rouse. OK. You are putting me on the spot, Senator. 
+What I will say--and I am open to considering the invitation--
+but we completely understand that the housing crisis is a 
+longstanding crisis and it was not created by this pandemic but 
+it was exacerbated by the pandemic, and that there has been a 
+long-run mismatch between the supply of housing and the demand. 
+And that is why the Administration has put a focus on this, 
+through Build Back Better as well as, you know, things that the 
+Administration can do through administrative action. There is a 
+discussion of tax credits and other supports, zoning and land 
+use.
+    So we understand the very importance of housing. We need to 
+solve this problem. It is not unrelated to the discussion of 
+inflation, and we need more affordable housing.
+    Senator Ossoff. Ms. Rouse, thank you for that. What I am 
+asking is not for a policy commitment. I am asking for a 
+commitment for a phone call or a meeting with me, with Atlanta 
+Mayor Andre Dickens, Macon-Bibb Mayor Lester Miller, Columbus 
+Mayor Skip Henderson, to discuss how the White House can 
+support our efforts in Georgia to increase the supply of 
+affordable housing.
+    Ms. Rouse. I would be happy to join such a phone call.
+    Senator Ossoff. Thank you so much. I appreciate that.
+    Dr. Boushey, with business incubators located in cities 
+like Augusta, Alpharetta, and Duluth, Georgia, is a place where 
+entrepreneurship is thriving. We have diverse immigrant 
+communities who are contributing to the growth of 
+entrepreneurship and small businesses. An interesting fact 
+about Georgia: We have the seventh-highest percentage of 
+minority-owned startups in the country, and the bipartisan 
+infrastructure legislation permanently authorized the Minority 
+Business Development Agency, which will help minority 
+entrepreneurs with technical assistance and access to capital.
+    How does, in your view, limited access to capital affect 
+the growth of minority-owned businesses, and innovation more 
+broadly? What policies might you suggest Congress can implement 
+or the Administration can undertake to address this issue?
+    Ms. Boushey. Well that is a great question. Small 
+businesses are the lifeblood of the economy all across these 
+United States, so it is an important part of our economy that 
+we need to support.
+    One of the things I want to note is that attention to who 
+has access to capital is something that the Administration has 
+been focused on since day one. When the President came into 
+office he, as a part of his efforts to focus on equity, a 
+whole-of-Government approach to equity, one of the things that 
+we focused on was making sure that the Paycheck Protection 
+Program, the support that went out to small businesses actually 
+reached the intended businesses.
+    There is actually new academic research out, that just came 
+out a couple of weeks ago, showing that those new efforts that 
+were really targeted at reaching the most vulnerable small 
+businesses, businesses led by owners of color and women, that 
+we were successful in doing that, more so than previous 
+iterations of the PPP program.
+    So that gives me some hope that with a focused attention on 
+questions of equity and putting that together with making sure 
+that small businesses have access to what they need that we can 
+do that.
+    Senator Ossoff. Thank you, Dr. Boushey.
+    Dr. Bernstein, I have had the pleasure of visiting and 
+working technical colleges and technical training institutions 
+across the State of Georgia over the last year, since I took 
+office. For example, I was with the leadership over at Gwinnett 
+Technical College to understand more about the exciting 
+workforce training programs they offer students, new 
+innovations in robotic welding, they are offering training 
+opportunities.
+    You know, my view and the view of many in my State is that 
+we need to make it easier for Americans to access technical 
+training, technical colleges, vocational training, to develop 
+the skills that are necessary for steady, good-paying work in 
+rapidly evolving industries with increasing applications of 
+technology.
+    How, in your view, Dr. Bernstein, do workforce and 
+technical training help improve productivity, opportunity in 
+our overall economy?
+    Mr. Bernstein. They do so by making probably one of the 
+most important connections we can make in the labor market, 
+which is the skills of the workforce aligning with the demands 
+of employers, particularly in sectors and areas where that 
+demand is growing and those, of course, disproportionately tend 
+to be in technical areas. So training workers for those jobs is 
+so important, and the way you framed it is exactly right.
+    Decades ago--I have been involved in this for a long time--
+training was much too disconnected to job openings. It was more 
+sort of getting yourself together, getting your act together in 
+a way to be able to go out for work. We are much more focused 
+now on employment-based training, connecting workers with 
+employers' demands.
+    Two other quick points. One, unions can be an essential 
+force in making this connection, particularly through 
+apprenticeship programs, and it is my understanding--I am 
+trying to think back of all the different proposals we have 
+made in this space--I do not think the Biden administration has 
+made a workforce proposal that does not include 
+apprenticeships. So a combination of unions, apprenticeships, 
+and the kind of technical training that you suggested is 
+absolutely integral to good jobs at good wages.
+    Chairman Brown. Senator Ossoff, thank you, and happy 
+birthday a day late, Senator Ossoff.
+    Senator Cortez Masto, from Nevada, is recognized from her 
+office.
+    Senator Cortez Masto. Thank you, Mr. Chair, and thank you 
+to the panelists here today.
+    Let me just State the obvious, because I think some of my 
+Republican colleagues obviously are out there stating the 
+obvious, which is families and individuals are dealing with 
+higher prices. What I did not hear from some of my colleagues 
+was how do we address it? How do we find solutions working 
+together to address it in the short term and long term?
+    I know one way to address it is to show up. I do not 
+understand why my colleagues did not show up to the hearing the 
+other day to reappoint Jerome Powell in the Federal Reserve, 
+Lael Brainard to the Federal Reserve, and look at three new 
+positions. I have not heard of their concerns about those 
+individuals so it just disappoints me that they did not show 
+up.
+    Why is this important? Because the Federal Reserve has the 
+important monetary tools to help us address inflation, which we 
+see corresponding to the high prices our families are dealing 
+with right now. I see them in my State. I talk to my families. 
+I talk to individuals. I see it at the gas pump when I fill up 
+my tank. I see it in my own family, when my mother was going 
+food shopping and she is telling me the prices, and I see it 
+when I am shopping or my husband is shopping.
+    So the obvious is there, but what are we going to do about 
+it? And so this is the conversation I appreciate the panelists 
+being here today, because unfortunately some of my colleagues 
+are more about stating the obvious, not finding solutions.
+    But here is the area I want to focus on. Because of the 
+high prices that I see in my State, including housing, this is 
+an area that I have been talking to many within my State about 
+how do we increase that supply chain to address the high 
+housing prices. Dr. Bernstein, you talked a little earlier 
+about this with Senator Warner, and highlighted the fact that 
+we do have, whether it is 5 million or 7 million, we have a 
+housing shortage here, and what can we do about working 
+together with the Administration?
+    I appreciate your comments that we need to continue, and 
+you are coordinating, and the Administration is coordinating 
+with Fannie Mae, Freddie Mac, and Federal home loan banks that 
+we are looking at continuing low-income housing tax credit, and 
+it is important to continue that in the BBB.
+    Let me ask you this. In the Build Back Better bill there 
+were some housing components that are actually going to address 
+the housing supply chain, and there are a number of them, not 
+just increasing the low-income tax housing credit authority, 
+but there is reduction of bond financing threshold from 50 
+percent to 25 percent to address it. There is 50 percent basis 
+boost for properties serving extremely low-income households 
+that we are looking at.
+    We are looking at closing the qualified contract loophole 
+to prevent the premature loss of units to early terminations 
+from the program. We are looking at protecting nonprofit 
+sponsors' ability to purchase properties at year 15. We are 
+looking to coordinate housing credit and renewable energy tax 
+credits. We are even looking at our Tribal communities that we 
+know need affordable housing and looking at area 30 percent 
+basis boosts.
+    These were all proposals that we were looking at in Build 
+Back Better, and I can tell you, I am talking to members in my 
+community about this proposal. This makes sense to increase the 
+housing supply.
+    My disappointment is my Republican colleagues are not even 
+there, working with us. I am hopeful that they hear this and 
+are going to help us address this issue instead of just 
+pointing fingers.
+    But can I ask you, based on the proposals that you have 
+heard and some others, does that make sense? Are we working in 
+the right area, the part of what we were looking at in Build 
+Back Better to address that housing supply and address this 
+issue in the short term and long term?
+    Mr. Bernstein. Not only does it make sense, but I do not 
+see how we achieve the housing goals that you articulated, and 
+that historically, partisans on all sides of the aisle have 
+shared. As you have suggested, much of the policies that you 
+are talking about typically involve increasing access to 
+housing finance, more often than not targeted at the bottom 
+half of the housing market, which is where the supply 
+constraints have been most acute. And historically these have 
+been bipartisan-supported measures. These, in many cases, are 
+subsidies that go to builders, whose housing deals simply do 
+not pencil out in the absence of the kinds of measures you are 
+talking about.
+    Now we have tried, as you know, in our Administration, to 
+leverage funds for the capital magnet fund, to work with the 
+FHFA to increase LIHTC equity investment caps significantly in 
+order to again increase affordable financing for that sector of 
+the market. And as you mentioned, in Build Back Better there 
+are extensive tax credits for the supply side, grants to 
+rebuild and renovate, and community block grants to renovate 
+infrastructure related to housing, as well as to push back on 
+exclusionary zoning.
+    Finally, what is particularly important about the comments 
+that you have made is that every intervention that you have 
+just elevated is on the supply side of the housing market. 
+There is a demand side, and, you know, we can think about that 
+and worry about that too. But the emergency is really on the 
+supply side, and the financing policies that we have discussed 
+answer the mail precisely there.
+    Senator Cortez Masto. Thank you. And I know I have run out 
+of time and I will submit the rest of my questions for the 
+record because I do have concerns about what the Administration 
+is doing to restore international travel and our trade 
+[inaudible] and prevent future instability in the hospitality 
+sector.
+    But let me say this. This is a time for people showing up, 
+working together to find solutions, not to state the obvious to 
+families, individuals that they already know. It is time to 
+show up. It is time to have solutions, come to the table and 
+work together. Clearly there are solutions that are out there, 
+but we need our colleagues to show up.
+    Thank you, Mr. Chairman.
+    Chairman Brown. Thank you, Senator Cortez Masto.
+    Senator Warren, from Massachusetts, is recognized.
+    Senator Warren. Thank you, Mr. Chairman, and Mr. Chairman, 
+before I jump into my questions I would like to urge my 
+Republican colleagues who are taking the time to attend the 
+hearing today to also do their jobs and vote on the five 
+outstanding Fed nominees. If you are going to talk to the 
+witnesses today about inflation, for example, then you should 
+be just as motivated to actually fight inflation by making sure 
+that the Fed has all hands on deck, and that means voting these 
+nominees through right now.
+    So let me turn to my questions. During President Biden's 
+first year in office, the economy added a record 6.6 million 
+jobs, more jobs than those added in the first years of the past 
+four Republican Presidents combined. Workers are benefiting 
+too, with wages growing at their strongest pace in years. And 
+this is particularly impressive because 1 year ago many 
+economists were predicting that at this point we would still be 
+caught up with high unemployment and slow economic growth as 
+the world struggled to deal with the fallout from the pandemic.
+    But this good news has also brought some bad news--
+inflation. Now you might think inflation would also be bad for 
+companies. After all, an increase in cost of doing business 
+would likely eat into a company's bottom line. But that is not 
+happening. In fact, the CEOs of some of the biggest companies 
+have been bragging to their investors that inflation has 
+created a terrific opportunity for them to boost profits.
+    Take the grocery chain, Kroger. Kroger has seen its 
+business boom during the pandemic, with its stock price rising 
+nearly 40 percent over the past year. Kroger's CEO recently 
+told investors that, quote, ``A little bit of inflation is 
+always good in our business,'' end quote.
+    So Dr. Boushey, would you agree that it is easier for 
+companies like Kroger to raise prices in an inflationary 
+environment because consumers are generally aware that prices 
+are going up and that lets companies hide behind inflation to 
+expand their profits?
+    Ms. Boushey. Well as you know, Senator, President Biden is 
+very attuned to kitchen table budget issues, and he has been 
+very focused on asking the regulatory agencies to be on the 
+alert for price gouging. And I have in front of me a long list 
+of things that have been happening over the past year on his 
+work to make sure that markets are competitive and fair.
+    But let me just note one, which is the Department of 
+Justice and the USDA have worked together to set up a website 
+where farmers and ranchers can say where they see problems in 
+their industry, and that is just one of many things. So it is 
+an important issue.
+    Senator Warren. So an important issue. But the point I am 
+trying to make here is the companies get to kind of draft in 
+behind the inflation, and I take it you agree that that is what 
+is going on here.
+    OK. I see you nodding your head yes. I will take that as a 
+yes.
+    Let me go to another example. In a call with investors last 
+week, the CEO of Tyson Foods, one of the big four conglomerates 
+that controls as much as 85 percent of the meat market, said 
+they have, quote, ``restructured our pricing approach,'' end 
+quote, and are, quote, ``asking them''--the consumers--``to pay 
+for inflation,'' end quote.
+    Dr. Bernstein, if all Tyson was doing was raising prices to 
+offset their production costs due to inflation, would you 
+expect their profit margins to stay roughly the same?
+    Mr. Bernstein. Roughly the same.
+    Senator Warren. Roughly the same.
+    Mr. Bernstein. Their price increases would offset their 
+cost increases----
+    Senator Warren. Right.
+    Mr. Bernstein. ----which would hold their profits.
+    Senator Warren. OK. So their profits should stay roughly 
+the same.
+    Mr. Bernstein. Roughly the same.
+    Senator Warren. If that is all that was going on.
+    Of course, that is not what happened. Tyson nearly doubled 
+its profit margin over the year, to 11.3 percent, only the 
+fourth time in the last 30 years that the company has achieved 
+double-digit profit margins.
+    And Tyson is not making record profits because it is 
+selling more. In fact, it is making record profits because it 
+is charging more. The number of beef products it sold declined 
+6 percent over the year while the price of beef went up 32 
+percent.
+    So let us do one more example here. Another phrase we hear 
+thrown around is ``pricing power.'' In a recent interview, the 
+CEO of Chipotle said, ``We are pretty fortunate with the 
+pricing power that we have,'' end quote, and that, quote, ``If 
+we need to take more pricing we have room to do it. To date we 
+have seen no resistance from our customers,'' end quote.
+    Now this sounds a lot to me like what Fed Chair Powell said 
+when he was here last month. Big companies are, quote, 
+``raising prices because they can.''
+    So Chair Rouse, let me ask you. For those of us who do not 
+speak economist, is it right to say that when executives talk 
+about pricing power they are referring to a company's ability 
+to raise prices and extract profits out of consumers without 
+worrying about losing business?
+    Ms. Rouse. I would say it is fair to say that a company has 
+pricing power when raising prices will not cause them to lose 
+too many customers.
+    Senator Warren. And could I just ask--I know I am out of 
+time--what is it that gives companies pricing power? Does 
+concentration in an industry give companies more pricing power?
+    Ms. Rouse. So market concentration does tend to create more 
+pricing power, which is one reason why increasing competition 
+is such an important component of the Administration's economic 
+agenda, because we know that increased competition also helps 
+workers, spurs innovation, and generally helps markets function 
+better.
+    Senator Warren. Well, thank you very much. I appreciate it. 
+Thank you, Mr. Chairman. And I just want to say, I am glad the 
+Biden administration is not standing by. We can go after this 
+concentrated power, industry by industry, and that is what will 
+help bring prices down.
+    Chairman Brown. Thank you, Senator Warren.
+    Senator Warnock, from Georgia, is recognized.
+    Senator Warnock. Thank you so very much, Mr. Chairman.
+    Rising costs for families, as my colleague as indicated, is 
+a persistent problem, and it is one that I am hearing from 
+Georgians about every day. And it seems to me that part of 
+fighting against rising costs is ensuring that Federal Reserve, 
+the independent agency charged with managing inflation, has the 
+leadership necessary in place. It seems a contradiction to me 
+to talk about rising costs and to leave the Federal Reserve 
+hamstrung.
+    So I would encourage my colleagues on the other side of the 
+aisle to join us in holding a vote on the five qualified, 
+diverse nominees in front of us.
+    I have introduced a bill with my colleagues to suspend the 
+Federal gas tax, and in our bill Treasury would ensure that 
+these savings at the pump are passed on to Georgians, cutting 
+their gas costs. Still, every day we see headlines that large 
+corporations and their wealthy investors have sought to take 
+advantage of market volatility to pad their bottom line and 
+enrich themselves while hard-working Americans are the ones 
+making difficult decisions with their pocketbooks. They are 
+seeing record profits. Consumers in Georgia are paying record 
+prices.
+    Dr. Bernstein, can you talk about some of the consequences 
+of market concentration and corporate consolidation in this 
+economy and over the past decades, and has this made 
+corporations more powerful?
+    Mr. Bernstein. Questionably so in terms of industries that 
+are highly concentrated. We have mentioned meatpacking, and you 
+just heard Chair Rouse talk about some of the pricing 
+implications of concentration, particularly an increase in 
+price levels relative to an industry situation with 
+considerably less concentration. So we share your intuition 
+there.
+    Senator Warnock. Dr. Rouse, would you share that opinion?
+    Ms. Rouse. Absolutely. It is why the President signed an 
+all-of-Government effort. He signed an EO last summer to try to 
+increase competition. We have seen increasing concentration, 
+and I believe it is three-quarters of industries. We know that 
+with increased concentration not only are firms able to raise 
+prices relative to a more competitive market but it generates 
+less innovation, it can be worse for workers, and generally not 
+good for our economic health.
+    Senator Warnock. It is one of the reasons why I have been 
+urging a Federal investigation into apparent price gouging by 
+international cargo carriers. We look at the supply chain 
+issues. Of course, that is an important nexus point, and that 
+price gets passed on to the rest of us. Can you say something 
+about that, Dr. Boushey?
+    Ms. Boushey. Yes, that a good [inaudible].
+    Senator Warnock. OK. Let me move on to another question. 
+The expanded Child Tax Credit, the largest tax cut in American 
+history for working and middle-class families. Let me say that 
+again because I think that gets lost in the conversation, and 
+when you say expanded Child Tax Credit the average person may 
+not know what you are talking about. We are talking about the 
+largest tax cut for working and middle-class families in 
+American history. And it seems to me that making this tax cut 
+permanent would go a long way. It would certainly cut childhood 
+poverty in half all across our country.
+    Now I have heard arguments that this tax cut would 
+contribute to the rising costs we are all experiencing, but 
+when I talk to Georgians I hear that this money goes toward 
+everyday expenses. Georgians have told me that the tax credit 
+helped them to pay for health expenses, pay off debt, buy a 
+coat for their kid.
+    Dr. Rouse, do you think that the concerns that the expanded 
+Child Tax Credit would add to rising costs are justified?
+    Ms. Rouse. So the Child Tax Credit we know has immense 
+benefits for children, both in the immediate term in terms of 
+reducing food insecurity, child hunger, child poverty. It 
+improves their educational outcomes. It generates outcomes. 
+These similar kinds of programs generate positive benefits as 
+adults. They are more likely to work, increasing labor supply. 
+As adults they have less criminal activity. So it has 
+tremendous benefits for the children and improves the mental 
+health of their parents. So there are tremendous benefits 
+there.
+    We do not believe that the Child Tax Credit would be 
+increasing inflation, in particular, because the increase is 
+just so small that it is modest relative to the size of the 
+economy. And furthermore, under the President's plan, any 
+increase in the expansion of the Child Tax Credit would be paid 
+for. So we do not share that concern, and we believe that the 
+benefits of the Child Tax Credit is part of an overall effort 
+to invest in children. Again, it is an important investment for 
+increasing the economic capacity.
+    Senator Warnock. So it is a net benefit to the economy and 
+the economies of these families.
+    Ms. Rouse. Absolutely.
+    Senator Warnock. OK. Thank you.
+    Chairman Brown. Thank you, Senator Warnock.
+    Senator Reed, from Rhode Island, is recognized.
+    Senator Reed. Thank you very much, Mr. Chairman, and I 
+thank the panel for their testimony and insights today.
+    Dr. Rouse, labor participation rates are falling while 
+demand for labor is increasing. Do you have any insights into 
+why labor participation rates are falling and what we might do 
+to raise them up?
+    Ms. Rouse. Well hello, Senator Reed. So labor force 
+participation fell at the beginning of the pandemic, but 
+actually we have had one of the fastest recoveries in labor 
+force participation on record. So if we look at prime-age labor 
+force participation, those are Americans 25 to 54, has 
+recovered 2.1 percentage points of the 3.1 percentage points 
+that were lost at the onset of the pandemic.
+    We know that participation is a little slower to recover 
+than unemployment, after a recession, but our participation 
+growth has actually been relatively strong.
+    What you are probably referring to is we also see record 
+numbers of job openings, so we have a very tight labor market. 
+So there is no question that some people are not participating 
+due to concern out of the pandemic, but let us also keep in 
+mind that at the onset of the pandemic we were almost at the 
+height of the baby boom retiring. So even just looking at what 
+would have been the change in labor force participation in our 
+labor force without the pandemic, we would have seen a decline. 
+In addition, with the pandemic we have seen excess retirements.
+    So many people, I think, will be coming back as the 
+pandemic gets under control, but let's face it, we do have a 
+labor force challenge in this country. Declining fertility, 
+immigration has been stymied due to the prior administration. 
+And then with the pandemic we need to find ways to be improving 
+our labor force participation and our labor supply because that 
+is part of economic growth.
+    Senator Reed. Related to that, as nominal wages are rising 
+because of the tight labor market, as we see more people coming 
+back with the end of the pandemic, we hope, can we sustain this 
+nominal wage growth?
+    Ms. Rouse. You are right, Senator, that right now a lot of 
+the wage growth is due to the fiscal support, and what I call 
+``pandemic economics.'' So we see wages rising in nominal 
+terms.
+    But honestly, the President's economic agenda--so this 
+includes the Bipartisan Infrastructure Law, and it includes 
+USICA, it includes Build Back Better, which are designed to 
+make important investments in our economy--should have the 
+benefit of increasing labor productivity so that what we have 
+are sustained wage gains that are due from increasing labor 
+productivity and therefore sustainable, and should be 
+benefiting those at the lower end of the wealth income and rate 
+distribution, those in the middle, therefore more equitably 
+shared.
+    Senator Reed. In fact, the President's program is very 
+specifically directed at trying to maintain wage growth for 
+low-income, middle-income Americans, very deliberately and very 
+consciously.
+    Ms. Rouse. It is. It is not only by ensuring that the kinds 
+of jobs that they have are well compensated and high-paying 
+jobs but also by lowering--making everyday costs more 
+affordable--prescription costs, childcare costs--so that just 
+overall family well-being and household balance sheets are 
+growing and sustainable.
+    Senator Reed. Thank you.
+    Dr. Bernstein, you spoke very insightfully about the 
+housing crisis we are facing today. First a question. With the 
+anticipated rate increases by the Federal Reserve, do you think 
+that will cool housing prices significantly?
+    Mr. Bernstein. Historically, increase in the Federal funds 
+rate show up fairly quickly in mortgage rates, and we are 
+seeing some of that, and yes, that puts some dampening pressure 
+on the growth in home prices.
+    Senator Reed. But the rise in housing prices has been so 
+significant that even with a dampening housing is out of reach 
+of many Americans, way up into the middle class. This is not 
+just an issue of----
+    Mr. Bernstein. Yeah. So that is exactly the right way to 
+think of it, in my view. We have referenced that a few times in 
+the hearing today, the idea that the Fed, the work of the Fed 
+tends to operate through the demand side channel. What is 
+really plaguing the housing market, particularly the bottom 
+half, is the supply side. And there we have tried to do what we 
+can and have helped to support the creation, delivery, and 
+preservation of about 100,000 affordable housing units over the 
+next few years.
+    But the task, the challenge of literally a decade of 
+insufficient housing supply, particularly in the bottom half, 
+is nothing that any Administration can do by itself. It 
+requires bipartisan support through the kinds of measures that 
+we have been talking about today, and measures that this 
+Committee, again, historically, on both sides, have supported, 
+particularly when it comes to housing finance and ensuring that 
+deals in the bottom half can occur.
+    Senator Reed. I would add another factor here, is that 
+there is a critical role for State and local government, 
+because land use planning and other factors might be as big a 
+constraint on the housing supply. But I think the 
+Administration's commitment and also through the money we have 
+given to States, Governors' commitments to increase affordable 
+housing, is significant. It is now a front-page issue. Ten 
+years ago it was----
+    Mr. Bernstein. You are exactly right to raise zoning. I do 
+not think we solve this problem without dealing with 
+exclusionary zoning issues.
+    Chairman Brown. Thank you, Senator Reed, for your insight.
+    Senator Toomey, in closing.
+    Senator Toomey. Thank you, Mr. Chairman. I will just 
+observe briefly, I think it is simply indisputable that with 
+inflation running at a 40-year high, 7.5 percent annual 
+inflation rate, wages are not keeping up, and that means 
+Americans are falling behind.
+    I think it is also very clear that super-easy money and too 
+much spending by Congress are two of the principal causes. It 
+appears as though there is going to be some reining in of the 
+former. It is just really important that we not engage in yet 
+another spending spree, which will only make it worse. Thank 
+you.
+    Chairman Brown. Thank you, Senator Toomey. Thank you to 
+Chair Rouse, especially, and also, of course, to Dr. Bernstein 
+and Dr. Boushey, for sharing your insights today about the 
+strength of our economy and making it work better for all 
+Americans, and I know you emphasize that always.
+    Our goal is simple. We want everyone to be able to get a 
+job that pays good wages and can afford to raise a family and 
+retire with dignity. We want the cost of living to be 
+affordable so people's paychecks are not eaten away by 
+expenses. We are making tremendous progress on jobs, as you and 
+those charts certainly point out, giving workers more options, 
+more power to negotiate higher pay and better working 
+conditions. You all understand the importance and the advantage 
+of carrying a union card.
+    Our charge now is to keep that progress. If you work hard 
+you ought to be able to afford a middle-class life. It is that 
+simple. It is something President Biden for sure understands. I 
+look forward to continuing our efforts to make sure our economy 
+reflects the dignity of work.
+    For Senators who wish to submit questions for the record 
+these questions are due 1 week from today, February 24. To the 
+members of the CEA, please submit your responses to questions 
+for the record within 45 days from the day you receive them.
+    Thank you again for your testimony. This Committee is 
+adjourned.
+    [Whereupon, at 12:14 p.m., the hearing was adjourned.]
+    [Prepared statements and responses to written questions 
+supplied for the record follow:]
+              PREPARED STATEMENT OF CHAIRMAN SHERROD BROWN
+    Every day, Americans get up, go to work and do their jobs. But our 
+Republican colleagues refuse to do theirs.
+    On Tuesday, this Committee met to vote on five outstanding nominees 
+for the Federal Reserve. But Republicans didn't show up. Instead, they 
+went AWOL in the fight against inflation.
+    At this pivotal moment in our economic recovery, everyone 
+understands that we need a full Federal Reserve board--the first one in 
+nearly a decade--to help tackle inflation. Republicans engage in 
+political stunts but have no solutions. Americans don't want more 
+political theatrics, they want solutions to bring down costs.
+    We will not stop fighting for these nominees. These nominees have 
+met with every Senator who asked for a meeting. They met with staff of 
+senators who asked. They met with Committee staff--majority and 
+minority. They offered to meet with many of my colleagues who refused 
+to meet with them--and then boycotted the vote. They answered every 
+question posed to them at the hearing. They answered every question 
+submitted for the record, more than 200 of them, in a timely matter. 
+One nominee even answered questions submitted after the deadline.
+    If we're going to continue growing our economy, we need all seven 
+Fed Governors in place. We need these professionals--working and 
+debating and making decisions--about monetary policy, and interest 
+rates, and jobs, and tackling inflation.
+    I implore my Republican colleagues to show up and vote--vote yes, 
+vote no, just show up and vote. It's your job. I implore--and the 
+American people expect--for you do your jobs, just like they do every 
+day.
+    Let me read a few headlines from the past few weeks: ``Strong Jobs 
+Report Shows Resilient Economy''; ``January Jobs Report Crushes 
+Expectations''; ``Biden Sets First-Year Record With 6.6 Million Jobs 
+Added''.
+    In my State--long derided as the ``Rust Belt''--Ohioans have been 
+waking up to headlines like these: ``Intel Picks Ohio for Largest Chip 
+Factory in the World''; ``Hyperion Fuel-Cell Company To Open Largest 
+Columbus Factory in a Decade''; ``GE Aviation Lands $6.8 Billion Engine 
+Deal in Sign of Rebound From Pandemic''; ``Intel's Investment: 
+Gamechanger for Ohio Jobs''.
+    America is in the midst of unprecedented economic growth.
+    Our GDP grew by 5.7 percent last year--the strongest annual growth 
+in nearly 40 years. For the first time in two decades, our economy grew 
+faster than China's.
+    Job creation hit an all-time high. We added 6.4 million jobs last 
+year--an average of more than half a million jobs a month. We saw the 
+fastest drop ever in the unemployment rate.
+    American entrepreneurs started more than 5 million new businesses 
+in 2021--another record.
+    Of course raw jobs numbers alone don't tell the whole story--they 
+don't tell you how good the job is, what kind of wage it pays.
+    And on that front, the news is even better. Wages are rising--
+particularly for hourly workers who have been left behind in past 
+economic recoveries. Workers are finally starting to share in more of 
+the economic growth they create.
+    American families' disposable incomes were higher in 2021 than they 
+were before the pandemic, even adjusting for inflation. As Assistant 
+Secretary of Treasury Ben Harris said 2 weeks ago, ``household balance 
+sheets were exceptionally healthy due in part to the American Rescue 
+Plan, other Government pandemic assistance, and brisk wage growth.''
+    All of this progress was possible because of the American Rescue 
+Plan. We promised shots in arms, money in pockets, and workers back on 
+the job.
+    And the Rescue Plan delivered.
+    Of course we know that challenges remain. For all the progress 
+we've made, we can't deny that many of the people we serve say they 
+don't feel it.
+    People are exhausted. They're tired of this pandemic, they're tired 
+of the anxiety, they're tired of the way that it's divided neighbors, 
+divided schools, divided families.
+    The number one thing we can do to improve our economy and improve 
+people's lives to to defeat this pandemic.
+    And we are on the right course. Cases and hospitalizations are 
+dropping. Because of the American Rescue Plan, most Americans are 
+vaccinated. Everyone can get a booster shot. We no longer have to live 
+in fear.
+    We also know that the pandemic has caused inflation to run too 
+high. Workers feel it every time they go the grocery store or fill up 
+the gas tank.
+    Inflation is a real problem and one that we, as a country, need to 
+address head on. It's all the more reason why we need a full Federal 
+Reserve board.
+    The pandemic has revealed that our supply chains are too long and 
+too fragile. It's causing higher prices in some industries. No one 
+wants to have to go to three different stores to get all their shopping 
+done, or to have every option they try to buy on backorder for months. 
+It's maddening, it's draining, it's frustrating.
+    We know how to fix it--make more things in America.
+    For too long, our trade policy and our tax policy have encouraged 
+corporations to move production overseas. It's cost us millions of 
+jobs, and it's contributing to our supply chain problems today.
+    It's time to bring those supply chains back home.
+    The House and Senate have both passed bills to spur domestic 
+manufacturing, research, and development. They would allow us to better 
+compete with countries like China, and would support the production of 
+key inputs like semiconductors. We should put a comprehensive bill on 
+the President's desk as soon as possible.
+    We also took an important step to speed up our supply chains by 
+passing the bipartisan infrastructure bill. It will improve our roads, 
+bridges, and ports--making it easier and more efficient for American 
+manufacturers to get products to market.
+    As important as all of these steps are, Government is not the only 
+actor here.
+    Corporate consolidation is reducing competition, giving consumers 
+fewer choices and workers fewer options. It allows corporations to 
+increase prices while cutting an ever larger check for their executives 
+and shareholders.
+    The Wall Street Journal tells us that two-thirds of the largest 
+publicly traded companies have reported larger profits in 2021 than in 
+2019. In recent weeks, CEOs have bragged to Wall Street about their 
+ability to increase prices on consumers.
+    Let's be clear: raising prices is a choice corporations make. They 
+could make a different choice: they could reduce the amount of stock 
+buybacks. Millionaire executives could take a pay cut--or even just get 
+a slightly smaller raise this year.
+    But there's nothing forcing them to make a better choice, because 
+there isn't enough competition in the economy.
+    We need an economy that works for everyone--not just those at the 
+very top.
+    We cannot declare the recovery complete until all workers can find 
+a job that pays them fair wages, that treats them with dignity, and 
+that allows them to keep up with the cost of living.
+    Today we will hear from all three members of the Council of 
+Economic Advisers--Chair Rouse, Dr. Bernstein and Dr. Boushey.
+    These are skilled economists who understand that behind all the 
+models, charts, and tables are real people with hopes, dream, and 
+ambitions.
+    As Chair Rouse said in January, the actions that the Biden 
+administration has taken have led to ``unprecedented improvement in our 
+economy and important investments made in its future productive 
+capacity.''
+    I look forward to hearing more about this year of unprecedented 
+growth, the current state of the economy, and plans to continue this 
+expansion.
+                                 ______
+                                 
+            PREPARED STATEMENT OF SENATOR PATRICK J. TOOMEY
+    Mr. Chairman, I'll start by observing it's a little bit rich to be 
+lectured by the Chairman about not attending a markup of nominees when 
+the Chairman personally led the Democratic boycott of the Senate 
+Finance Committee markup of two Trump nominees. There were several 
+other Democrats on the Committee who participated in that boycott. I 
+guess what's good for the goose is not good for the gander.
+    It's also rich to hear wailing and gnashing of teeth about 
+vacancies on the Fed board and this newfound Democratic concern over 
+inflation. First of all, I and my Republican colleagues have been on 
+record for well over a year warning about inflation risk, warning about 
+the excessive spending.
+    Democrats criticized us for wanting to normalize interest rates and 
+Fed policy. And yet here our Democratic colleagues are pushing for yet 
+another inflation fueling spending blowout bill.
+    The fact is the Fed is fully functional. The FOMC has 9 of its 12 
+members in place. They could raise rates today if they wanted to. They 
+could do it tomorrow. They could do it at any time.
+    But what's really ironic is that it's the Chairman's decision not 
+to move five nominees forward. We made it clear and I made it clear 
+last week to the Chairman repeatedly, publicly, and privately. We're 
+perfectly happy to vote on five of the six nominees. That would be four 
+Fed governors and the director of the FHFA. If we did, actually most of 
+them would get considerable Republican support. They'd move on.
+    And if there were a concern about vacancies on the Fed, the 
+Chairman could fix that very quickly. He chooses not to, he prefers to 
+have the vacancies. That's his choice.
+    It's also interesting how some of my Democratic colleagues have 
+been so passionate about ending the revolving door. I think you could 
+argue some have practically made a career out of railing against the 
+revolving door, where people go from a powerful Government regulator to 
+go work for the industry that they regulated, enrich themselves and 
+then maybe they come back to do it for another loop. Is there a more 
+archetypical example than Ms. Raskin?
+    Senator Warren recently tweeted and called Randy Quarles 
+``corrupt'' because after he left the Fed, he went back to the firm, 
+the private equity firm that he had founded himself. So I guess it's 
+corrupt if a Republican does that. But the rules don't seem to apply in 
+the other direction.
+    The Chairman said that the candidates answered the questions. Let 
+me be very clear: Ms. Raskin was far less than candid with us. She 
+failed to disclose that she even was a director of Reserve Trust. She 
+failed to disclose the 1.5 million dollars she made for that service. 
+She failed to disclose hundreds of pages of writing and hours of 
+speeches.
+    When she was asked how did she get on the board of Reserve Trust in 
+the first place, she said she couldn't recall. Which is odd because the 
+founder and Chairman says in an article in today's Wall Street Journal 
+that he's known the Raskins for decades.
+    When Ms. Raskin was asked if she ever contacted the Fed on behalf 
+of Reserve Trust, first she evaded the question repeatedly. But then 
+eventually she replied by saying she couldn't recall.
+    Well, that's funny, because the Kansas City Federal Reserve 
+President recalled the conversation very well. The chairman of Reserve 
+Trust recalled the conversation. He wasn't even part of it. But we're 
+supposed to believe that Ms. Raskin just couldn't recall.
+    And let me remind everybody why this is important. Reserve Trust is 
+a fintech company based in Colorado. And it applied for something 
+that's extremely valuable: a master account at the Fed. To my 
+knowledge, there's not a single fintech in America that has gotten 
+that.
+    And unsurprisingly, they were denied. Their application was turned 
+down. Then, Ms. Raskin who was on the board, called the Fed. And 
+shortly thereafter, the Fed does a 180 degree reversal and approves the 
+master account.
+    To the best of my knowledge, as of today, there's a grand total of 
+one fintech in America that has a master account with the Fed and it is 
+Reserve Trust.
+    So we asked an obvious question. Why the reversal? Why the 180 
+degree change? What changed?
+    First we get stonewalled. Then we finally get a partial answer from 
+the Federal Reserve Bank of Kansas City. Let me just quote one sentence 
+that summarizes it. The Federal Reserve Bank of Kansas City says, 
+``after its denial''--and that's a reference to the denial of the 
+master account application--``after this denial [Reserve Trust Company] 
+changed its business model and the Colorado Division of Banking 
+reinterpreted the State's law in a manner that meant RTC met the 
+definition of a depository institution.''
+    That's from the Federal Reserve Bank of Kansas City. My problem 
+with that is on Tuesday night, the Colorado Division of Banking says 
+that's not true. And this is what they said, and I quote, ``we consider 
+the statement that the division reinterpreted State law as a 
+misrepresentation of our practice.''
+    So it remains entirely unclear what happened here. All we know is 
+that Ms. Raskin was in the middle of it. The firm on whose board she 
+sat applied for a very, very valuable account with the Fed. They were 
+turned down. She intervenes, they get approved, and we can't get an 
+explanation of what happened here.
+    Is that fair to all the other fintechs across America that would 
+also like to have master accounts, and they've been turned down? How is 
+that fair to anybody?
+    And how is this Committee doing its job if we don't insist on 
+getting some answers to this question? But we get stonewalled. We get 
+answers from the nominee that she can't recall. And we get basically 
+nothing from the Fed.
+    So, Mr. Chairman, it's your choice if you want to continue to 
+preclude the possibility of having four nominees from the Fed confirmed 
+and the FHFA Director. We are quite happy to process those nominees. 
+But we want answers before we vote on Ms. Raskin.
+    Let me just close with a quote justifying a boycott of a recent 
+markup of nominees. And I quote, ``by refusing to demand honest 
+transparent information about the business dealings of these nominees 
+the Committee failed to do its job on behalf of the American people.'' 
+That is Sherrod Brown, February 1, 2017.
+                                 ______
+                                 
+                  PREPARED STATEMENT OF CECILIA ROUSE
+                  Chair, Council of Economic Advisers
+                           February 17, 2022
+    Chairman Brown, Ranking Member Toomey, Members of the Committee: 
+Thank you for inviting me and my colleagues, Heather Boushey and Jared 
+Bernstein, here to testify today.
+    Just over a year ago, President Biden entered office with a full 
+agenda: a pledge not only to fight the pandemic and support economic 
+recovery, but also to rebuild our economy for sustainable and more 
+widely shared growth. Success was not pre-ordained: the country faced a 
+still-raging pandemic, a weak economic recovery, and historic job loss.
+    Thanks to the collective efforts of the Administration, Congress, 
+and the Federal Reserve, we have been able to recover with strength and 
+speed. And importantly, we have begun to lay the groundwork for an 
+economy that is stronger, more resilient, and more equitable.
+    Over the last year, millions of Americans have gained protection 
+from the worst of COVID-19, businesses have been able to resume 
+activity, and children are back at their school desks. Economic 
+recovery has been strong. In 2021, GDP grew faster than it has in 
+almost 40 years and the U.S. job market gained 6.7 million jobs. 
+Unemployment is down to 4 percent--years earlier than projected. Child 
+poverty is likely to be reduced by almost 40 percent in 2021.
+    The American Rescue Plan (ARP) was a critical component of this 
+recovery. It served as an insurance policy to address the uncertainty 
+of a global pandemic, and support the economy as the virus--and the 
+tools to tamp it down-evolved. The emergency measures worked, resulting 
+in a robust economic turn-around. Families and businesses have had the 
+means and resources to cope in the short-term; ultimately, workers and 
+small businesses have avoided the lasting damage we typically see when 
+economic crises are allowed to linger.
+    But as President Biden has made abundantly clear, helping Americans 
+weather the pandemic is simply part one of his economic vision. The 
+Administration's strategy encompasses what the President and Treasury 
+Secretary Yellen have called ``modern supply-side economics''--that is, 
+we must make investments in our economy to boost labor supply, raise 
+productivity, reduce inequality, and create strong, sustainable growth.
+    The Bipartisan Infrastructure Law is a historic step toward 
+realizing that vision, providing long overdue investment in our 
+Nation's roads, bridges, water systems, and broadband infrastructure. 
+We commend the bipartisan work of many on this Committee for making 
+these necessary investments, and know your governors, mayors, and 
+constituents are grateful.
+    Unlike the ARP, which was short-run relief designed to be spent out 
+over the course of the pandemic emergency, the infrastructure law will 
+be spent out across the country over years, building and strengthening 
+the foundation our economy needs to increase its productive capacity.
+    Other Administrative actions this past year will also contribute to 
+long-term economic growth. Examples include the whole-of-Government 
+approach to increasing competition in markets, addressing climate 
+change, and fostering greater equity.
+    Of course, challenges remain. The gains in our economy have taken 
+place against the backdrop of a once-in-a-century pandemic economy, 
+where what we know about downturns and recoveries has been tested. 
+Vigilance is required to ensure we do not backslide when curveballs 
+like Omicron come our way.
+    And Americans are feeling the pinch of inflation--at the pump, in 
+grocery stores, and in the marketplace. The pandemic itself has been a 
+major driver: consumers have shifted their spending from services to 
+goods and global supply chains have been severely tested. A lack of 
+workers has stymied the supply of goods and services as well.
+    In the near-term, the principal tools to curb inflation rest with 
+the Federal Reserve, which is why it is critical to confirm the five 
+highly qualified nominees now. The Administration also has some tools 
+it can employ, as demonstrated in recent actions to improve supply 
+chain disruptions at the ports and increase the capacity of the 
+trucking industry.
+    In the longer-term, we must make real investments--be that in our 
+roads and bridges, or people and ideas. Sustainable growth will only 
+come about if we are able to increase economic capacity and allow more 
+Americans to participate productively in our economy. The economic 
+challenges of 2022 must, of course, be met, but we must also lay a 
+foundation for future generations.
+    In doing so, we must create an economy that rewards work, not 
+wealth. The Administration's economic agenda aims to ensure that those 
+in the middle class, who have largely been left out of economic 
+investments for the past 40 years, will finally benefit, ensuring that 
+growth is more broadly shared.
+    We need Congress to act on the President's full economic agenda to 
+achieve these goals: providing necessary funding to continue to address 
+the pandemic and keep the economy functioning; passing USICA to bolster 
+competition and build resiliency into the market; enabling the energy 
+transition to curb climate change; and making Build Back Better a 
+reality so that families can afford the needs of everyday life-like 
+prescription drugs and childcare. As noted by 17 Nobel Prize winning 
+economists, these long-term investments not only build a stronger 
+economy but also ease longer-term inflationary pressures.
+    President Biden's economic vision is predicated on the fact that 
+the economic status quo has not worked for all Americans--for decades, 
+it largely benefited those at the very top. We share his vision for a 
+stronger and more equitable economic future for our country.
+               RESPONSES TO WRITTEN QUESTIONS OF
+ SENATOR CORTEZ MASTO FROM CECILIA ROUSE, JARED BERNSTEIN, AND 
+                        HEATHER BOUSHEY
+
+Q.1. Hospitality and Tourism--Nevada's hospitality sector has 
+had persistently higher than average unemployment; nearly twice 
+as many leisure and hospitality workers are out of work 
+compared with the national average across industries. In 
+addition, emerging variants and lagging vaccinations rates have 
+led to only a partial return of business travel, trade shows, 
+and international travel has occurred. For instance, attendance 
+at the Consumer Electronics Show, a significant annual 
+convention and source of operating revenue, fell by more than 
+75 percent due to concerns about the emerging variant: Omicron. 
+\1\ Many businesses in the tourism and hospitality industry 
+have faced narrower margins and have had to reduce their 
+offerings due to supply chain constraints.
+---------------------------------------------------------------------------
+     \1\ https://www.reviewjournal.com/business/conventions/ces/ces-
+attendance-down-more-than-75-organizers-say-2509439/
+---------------------------------------------------------------------------
+    What is the Biden administration doing to restore 
+international travel and our trade shows and prevent future 
+instability in the hospitality sector?
+
+A.1. Starting on November 8, 2021, the Biden administration 
+implemented a new international travel system that helped 
+restore safe travel to the United States from the 33 countries 
+that were previously subject to limitations on travel. The 
+implementation of this new system contributed to an increase in 
+international travel to the United States while protecting the 
+American people by putting in strict, consistent protocols 
+around the world.
+    While incoming land border crossings into the U.S. have not 
+recovered to their prepandemic levels, the 12.85 million 
+passenger and pedestrian crossings in February 2022 are a large 
+increase from last year's volumes, reflecting increases through 
+2021 and particularly strong increases in the third quarter. 
+Air travel is also well on its way to recovering to its 
+prepandemic level. As of April 3, 2022, the total amount of 
+passengers flying in America was nearly 90 percent of what it 
+was on the same day in 2019. In 2021, air travel on April 3rd 
+was only two-thirds its 2019 level, and in 2020--during a 
+period of intense lockdown--it was only 5 percent of what it 
+was in April, 2019.
+
+Q.2. How can we strengthen and shorten our supply chains for 
+the inevitable next wave or next Pandemic? Where should we 
+prioritize investments in new domestic and global supply 
+capacity, including manufacturing and transportation?
+
+A.2. As the question suggests, shortening supply chains 
+(reducing lead time) is a key way of increasing resilience. 
+Important strategies for doing so are for firms to better 
+understand the structure of their supply chains (visibility), 
+invest in backup capacity (redundancy), and improve their 
+ability to solve problems and substitute between inputs 
+(agility), as well as vertically integrating components of the 
+production process. Private firms are increasingly aware of the 
+value of investments in these capabilities.
+    However, sometimes market failures make it unlikely that a 
+private firm will invest enough in resilience; factors giving 
+rise to market failures include the importance of resilience 
+for national and climate security and the frequency with which 
+investments in supply chain resilience made by one firm benefit 
+other firms as well. The U.S. Government should prioritize 
+investments in industries where market failures such as the 
+above are present, and/or are key to meeting national goals. 
+Such industries include semiconductors, clean energy, and 
+health (medicines, vaccines, and personal protective 
+equipment). In addition to industry-specific investments such 
+as these, the Government should also invest in improved 
+capability to monitor supply chains, develop and diffuse best 
+practices for managing supply chains, and help finance 
+innovation and workforce training, especially by the small 
+suppliers that make up a significant portion of U.S. supply 
+chains.
+    Much more detail on these issues of supply chain resilience 
+will be available in chapter 6 of the ``Economic Report of the 
+President'', forthcoming in mid-April.
+
+Q.3. Immigration--The CEO of the U.S. Chamber of Commerce 
+recently shared that immigration reform could help reduce 
+inflation and address the labor shortages that we're currently 
+seeing in key industries.
+    What is the impact that immigration reform would have on 
+inflation, labor shortages, job creation, and economic growth?
+
+A.3. Reform that increases immigration to the United States 
+would likely increase economic growth and job creation in the 
+long run, a conclusion supported by a comprehensive review of 
+research on immigration conducted by the National Academies of 
+Sciences. Immigrants are both potential employees and potential 
+customers for existing businesses. They also increase 
+innovation and entrepreneurship. Over time, this adds up to a 
+larger economy with more jobs and a higher standard of living.
+    Immigration reform that makes it easier for undocumented 
+immigrants already in the United States to work legally could 
+also address more immediate labor shortages and potentially 
+help reduce inflation. Right now, these immigrants are already 
+contributing to demand for goods and services, which may put 
+upward pressure on prices in some cases. However, their ability 
+to contribute to supply, and to fill jobs in critical sectors 
+that are experiencing labor shortages, is limited by their lack 
+of legal authorization to work. Granting such authorization 
+would free them to do jobs that use their skills well, 
+including jobs that employers are currently having difficulty 
+filling.
+                                ------                                
+
+
+        RESPONSES TO WRITTEN QUESTIONS OF SENATOR DAINES
+    FROM CECILIA ROUSE, JARED BERNSTEIN, AND HEATHER BOUSHEY
+
+Q.1. Do you believe corporate greed is causing the inflation we 
+are seeing throughout the economy?
+
+A.1. Healthy market competition is fundamental to a well-
+functioning U.S. economy. Basic economic theory demonstrates 
+that when firms have to compete for customers, it leads to 
+lower prices, higher quality goods and services, greater 
+variety, and more innovation.
+    There is evidence that in the United States, markets have 
+become more concentrated and perhaps less competitive across an 
+array of industries: four beef packers now control over 80 
+percent of their market, domestic air travel is now dominated 
+by four airlines, and many Americans have only one choice of 
+reliable broadband provider. There are a number of reasons for 
+these trends towards greater concentration, including 
+technological change, scale economies, the increasing 
+importance of ``winner take all'' markets, and more lenient 
+Government oversight over the last 40 years.
+    When there is insufficient competition, dominant firms can 
+use their market power to charge higher prices, offer decreased 
+quality, and block potential competitors from entering the 
+market-meaning entrepreneurs and small businesses cannot 
+participate on a level playing field and new ideas cannot 
+become new goods and services. There is also evidence that 
+dominant firms use market power to suppress wages, labor 
+standards, and labor's share of income generated by the firm.
+
+Q.2. Mark Zandi, the chief economist for Moody's Analytics, was 
+highly critical of Democratic proposals like suspending the gas 
+tax and pulling out pieces of BBB in order to combat inflation. 
+He said ``None of these ideas so far will help to a meaningful 
+degree, and could do some harm because they could juice up 
+demand at a time supply is constrained by the pandemic and 
+worsen inflation.'' Do you agree with Dr. Zandi's assessment?
+
+A.2. Elevated inflation has been a shared pandemic experience 
+among virtually all advanced economies. One cause is strong 
+consumer demand overall, and particularly strong demand for 
+goods that are specifically experiencing disrupted supply 
+chains and other supply constraints. Many of these supply 
+constraints will likely ease as the pandemic situation itself 
+improves. Other supply constraints reflect dynamics that pre-
+date the pandemic and will require long-term efforts to ease by 
+expanding the productive capacity of the economy. The 
+Bipartisan Infrastructure Law advances this by making critical 
+long-term investments in areas like ports and transportation. 
+Other pieces of the Administration's agenda would further 
+expand the U.S. economy's capacity as well, such as through 
+increasing women's labor force participation through the 
+provision of more accessible, affordable childcare and elder 
+care. The Administration in the FY 2023 Budget proposed a 
+combination of investments and offsets that would net reduce 
+the deficit by $1 trillion over 10 years. These outcomes would 
+help ease long-term inflationary pressure over time.
+
+Q.3. In your testimony, you stated that ``President Biden's 
+economic vision is predicated on the fact that the economic 
+status quo has not worked for all Americans--for decades, it 
+largely benefited those at the very top.'' Does 40-year high 
+inflation impact middle-class Americans or those at the very 
+top more?
+
+A.3. Inflation can have different impacts on households across 
+the income distribution, partly because of differences in the 
+mix of goods and services purchased, and partly because of 
+differences in the share of their income that is absorbed by 
+necessities such as food and shelter.
+    While there appear to be relatively small differences in 
+the average price increases faced by middle-income households 
+compared to upper-income households, price changes do not tell 
+the entire story of differences in household well-being. The 
+increase in prices should be compared to increases in wages and 
+income that also occurred during 2021.
+    Researchers from University of California-Berkeley, as part 
+of the Realtime Inequality Project, estimate that income from 
+just labor income (wages and employee benefits) and returns on 
+investments (excluding Government transfers and taxes) 
+increased for adults across the income distribution, even after 
+adjusting for inflation. Adults in the bottom 50 percent of the 
+income distribution experienced the strongest growth, with 
+their real annualized incomes rising by 10.1 percent between 
+December 2020 and December 2021.
+    Real income growth was 2.5 percent for adults with income 
+between the 50th and 90th percentile), and 6.3 percent for 
+upper-income adults (those above the 90th percentile). This 
+means that incomes grew at a rate that exceeded the historic 
+price inflation in 2021, and to a greater extent for households 
+with incomes up to the median.
+    An alternative measure is disposable income, which factors 
+in taxes and Government benefits. Though the patterns are 
+similar, when comparing annualized real disposable income in 
+December 2021 to income in December 2020, growth will tend to 
+be lower, in part because many COVID-19 relief programs sunset 
+at some point during 2021. Growth in real disposable income was 
+5.2 percent for adults in the bottom 50 percent, and 2.6 
+percent for individuals above the 90th percentiles. And for 
+middle-income individuals, between the 50th and 90th 
+percentile, real disposable income actually decreased somewhat, 
+by 1.1 percent, again primarily due to the roll-off of COVID-19 
+relief.
+
+Q.4. The Committee for a Responsible Federal Budget recently 
+released analysis, citing CBO data, that if interest rates rise 
+by one percentage point higher than was anticipated in CBO's 
+July 2021 economic forecast, average annual interest costs will 
+increase by $209 billion per year. That would bring total 
+interest costs from now through 2031 to $7.3 trillion. What do 
+you think the chances are of a 1 percent increase in net 
+interest costs above the current baseline, and do you think 
+that level of spending on interest is sustainable?
+
+A.4. One of the best measures of the sustainability of Federal 
+interest payments is the ratio of real net interest payments 
+relative to GDP. Real net interest--the Federal Government's 
+annual interest payments after adjusting for inflation--
+directly measures the cost of servicing the Nation's debt: the 
+real resources that are going toward servicing the existing 
+stock of debt, instead of investing in the future.
+    Real interest has averaged about 1 percent of the economy 
+since 1980 and was about 2 percent in the 1990s. Since then, 
+the effective real interest rate on Federal debt has fallen 
+ten-fold, from over 4 percent to 0.4 percent in the 2010s. As a 
+result, real interest has fallen--and real interest costs are 
+expected to remain negative in 2022. The economic assumptions 
+in the President's FY 2023 Budget anticipate that real interest 
+rates will rise over the coming decade, using projections in 
+line with private forecasters. Nevertheless, under these 
+assumptions, the President's policies would keep real interest 
+at or below the historical average over the coming decade. This 
+means that we have the capacity to make critical investments 
+that expand the productive capacity of the economy while also 
+keeping real interest cost burdens low by historical standards. 
+The fact that the President's policy agenda, as presented in 
+the FY23 budget, includes measures to more than offset the 
+costs of his proposals is also consistent with the budget's 
+interest rate forecast.
+    There are two-sided risks around any interest rate 
+projection. The Administration's projections reflect the path 
+of rates under which, in our view, the uncertainty around 
+economic risks is roughly balanced. Interest rates may come in 
+higher than expected, for example if productivity growth proves 
+stronger than anticipated. Rates may come in lower than 
+expected due to, for example, unanticipated economic shocks. 
+Over the last 20 years, Administrations of both parties, the 
+Congressional Budget Office, and private sector forecasts have 
+all, on average, overestimated interest rates in their 
+projections. Put another way, actual interest rates have 
+consistently come in below projections on average.
+
+Q.5. The Joint Committee on Taxation found that the BBB bill 
+would have added $750 billion to the debt in the first 5 years, 
+yet the Administration has repeatedly insisted it would help 
+bring down inflation. Can you explain to me how adding $750 
+billion to the debt in 5 years would reduce inflation? Or were 
+you all suggesting that inflation would come down 5 years after 
+the bill is enacted?
+
+A.5. The President's FY 2023 Budget proposes investments that 
+boost economic growth, reduce cost pressures, and promote 
+shared prosperity in a way that improves the fiscal outlook of 
+the United States and reduces fiscal risks over the long term. 
+Under the Budget's policies, deficits would continue to decline 
+from recent levels. Deficits would fall from 15 percent of GDP 
+in 2020 to 5.8 percent of GDP this year and then decline 
+further and remain below 5 percent of GDP through the 10-year 
+window. Moreover, under the Budget's policies, the medium-term 
+economic burden of Federal debt would remain low.
+    At the same time, the United States does face fiscal 
+challenges over the long term-driven largely by demographic 
+pressures on health and retirement programs, an inequitable tax 
+system, and rising health care costs. There is also uncertainty 
+about the interest rate outlook. The Budget's proposals 
+prudently address these future challenges by reforming the tax 
+system and more than paying for all new policies, reducing 
+deficits over the long run. The Budget proposes capacity-
+enhancing legislation and commits to fully paying for it; it 
+also proposes additional investment and revenue policy that 
+lower deficits by $1 trillion over the next 10 years.
+    Overall, the Budget details an economically and fiscally 
+responsible path forward-addressing the long-term fiscal 
+challenges facing the Nation while making investments that 
+produce stronger economic growth and broadly shared prosperity 
+well into the future.
+
+Q.6. Concerning, supply chain problems in the trucking 
+industry, does the Biden administration believe that current 
+solutions to alleviate employee shortages are able to fix long 
+term industry shortages?
+
+A.6. Current solutions, such as the Safe Driver Apprenticeship 
+Pilot Program, can be helpful in the near term, but ensuring an 
+adequate supply of drivers longer term may require a broader 
+effort. Working conditions in trucking have deteriorated over 
+the last several decades, and turnover is high compared to 
+other industries. Drivers are often misclassified as self-
+employed and forced to bear costs personally that would 
+normally be covered by an employer. The average driver is also 
+about four years older than the average worker overall, which 
+could suggest coming retirements and limited entry into the 
+industry by young workers may be a concern going forward. 
+Improving job quality is likely key to generating interest in 
+the industry among workers and maintaining an adequate supply 
+of skilled drivers. In addition, longer-term efforts can help 
+make more efficient use of truckers' time, thus reducing the 
+number of truckers needed. For example, currently truckers can 
+spend hours per day (often unpaid) waiting to load or unload 
+their trucks. Public- and private-sector efforts to improve 
+supply-chain functioning (for example, by paying truckers for 
+waiting time) may help improve this situation.
+
+Q.7. When do you believe inflation will stop rising? When do 
+you forecast inflation will return to 2 percent?
+
+A.7. In the very near-term, the Russian invasion of Ukraine 
+will put upward pressure on consumer prices, especially food 
+and energy. The Administration is taking a wide range of 
+actions to mitigate these pressures, including the announcement 
+of a historic 1 million barrel/day release on average from the 
+Strategic Petroleum Reserve for the next 6 months. The duration 
+of this pressure is uncertain and dependent on, above all, the 
+status of the conflict and the closer realignment of supply and 
+demand throughout many sectors of the economy.
+    Over the longer-run, the Federal Reserve, private 
+forecasters, market-implied forwards, and household surveys all 
+broadly expect inflationary pressures to ease over time. For 
+example, the March 2022 Blue Chip Consensus Forecast of CPI 
+inflation is that it will decline to 2.3 percent at an 
+annualized rate in 2023 Q4, a pace historically consistent with 
+the Federal Reserve's 2 percent PCE target. This outlook 
+largely reflects three factors: (1) the gradual unsnarling of 
+supply chains as the pandemic comes under control and consumer 
+demand renormalizes; (2) the shift of fiscal policy from 
+tailwind to headwind as pandemic support fades; (3) the effects 
+of shifts in monetary policy by the Federal Reserve, which 
+remains the primary line of defense against inflation.
+
+Q.8. In your testimony, you note that consumers have shifted 
+their spending from services to goods. The implication is that 
+the inflation we are seeing is being driven at least in part by 
+above-trend demand for goods, and that if demand moves from 
+goods to services, inflation will decrease. What gives you 
+confidence that demand for goods will subside? Could it be 
+possible that consumer behavior has permanently shifted toward 
+a higher demand for goods? If so, what implications does that 
+have for supply chains?
+
+A.8. The Administration is paying close attention to the 
+evolution of consumer demand as the economy heals. The level of 
+aggregate inflation-adjusted consumer spending, as measured by 
+real personal consumption expenditures (PCE), is roughly back 
+to its prepandemic trend. The composition of consumer spending 
+remains different than prepandemic, however, with the share of 
+PCE going to services being lower than before 2020 while the 
+share to goods is higher. The lower services spending as of 
+February 2022 is primarily being driven by lower spending in 
+recreational services and health services, the latter of which 
+is being in part driven by delays in elective surgeries and 
+dental visits. We expect that many services categories will 
+renormalize towards prepandemic consumption shares as services 
+reopen and COVID-19 risk fades. Conversely, we expect demand 
+for goods will also likely taper towards shares closer to those 
+that prevailed before the pandemic. The big issue we are 
+watching is whether aggregate demand exceeds aggregate supply 
+moving forward.
+
