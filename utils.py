@@ -7,6 +7,7 @@ from langchain.vectorstores import FAISS
 from langchain.embeddings import OpenAIEmbeddings
 from langchain.prompts import PromptTemplate
 from langchain.prompts.chat import SystemMessagePromptTemplate
+from langchain.chains import LLMChain
 
 openai.api_key = st.secrets["OPENAI_API_KEY"]
 
@@ -57,3 +58,36 @@ def load_chain():
 		chain.combine_docs_chain.llm_chain.prompt.messages[0] = SystemMessagePromptTemplate(prompt=QA_CHAIN_PROMPT)
 		
 		return chain
+
+def filterDB(query):
+	llm = ChatOpenAI(model="gpt-3.5-turbo", temperature=0.0)
+	prompt = '''
+You are an AI Chatbot who is a linguistic expert. Given a question related to the political 
+opinion of a legislator, you can identify the legislator itself and the topic being addressed.
+For instance, a question could be the following:
+"What is Senator Ted Cruz's opinion on abortion?" In this sentece, the legislator would be
+"Senator Ted Cruz", and the topic being addressed would be "abortion". Your answer should be in the
+following format: "{{subject: Ted Cruz, topic: abortion}}".
+
+{context}
+Question: {question}
+'''
+	chain = LLMChain.from_string(llm=llm, template=prompt)
+	response = chain({
+            "question" : query,
+        })
+	answer = response['text']
+	subject = answer['subject']
+	topic = answer['topic']
+	embeddings = OpenAIEmbeddings()
+	llm = ChatOpenAI(temperature=0)
+		
+	# Load our local FAISS index as a retriever
+	vector_store = FAISS.load_local("faiss_index", embeddings)
+	filtered_indices = [i for i, meta in enumerate(vector_store.metadata) 
+					 if meta["subject"] == subject and meta["topic"] == topic]
+	filtered_vectors = [vector_store[i] for i in filtered_indices]
+	return filtered_vectors
+
+
+
