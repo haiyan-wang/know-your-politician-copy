@@ -56,8 +56,8 @@ if query := st.chat_input("Ask me anything"):
             time.sleep(0.05)
             # Add a blinking cursor to simulate typing
             message_placeholder.markdown(full_response + "▌")
-            #sent = evaluator.evaluate_run(chunk)
-            #print(sent)
+            sent = evaluator.evaluate_run(chunk)
+            print(sent)
         #sentiments.append(sent)
         # message_placeholder.markdown(full_response + "\n Here is his opinion on the topic over time:" + sent)
         

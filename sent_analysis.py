@@ -3,11 +3,13 @@ from langchain.embeddings import OpenAIEmbeddings
 from langchain.vectorstores import FAISS
 from langchain.chains import LLMChain
 from langchain.chat_models import ChatOpenAI
+import matplotlib.pyplot as plt
 
 
 class SentimentEvaluator(RunEvaluator):
     def __init__(self):
-        prompt = """"What is the predominant sentiment in the following opinion?
+        prompt = """"
+        What is the predominant sentiment in the following opinion?
 ---------
 Statement: {input}
 ---------
@@ -32,3 +34,13 @@ Sentiment:"""
             "input" : data,
         })
         return response['text']
+    
+    def createPlot(self, sent_scores: [int], subject: str, politician: str) -> None:
+        x = list(sent_scores.keys())
+        y = list(sent_scores.values())
+        plt.plot(x, y)
+        plt.xlabel("Year")
+        plt.ylabel("Favorability towards {}".format(subject))
+        plt.title("{}'s Sentiment towards {} over Time".format(politician, subject))
+        plt.show()
+        return None
