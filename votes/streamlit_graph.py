@@ -4,6 +4,8 @@ import numpy as np
 import pandas as pd
 
 congress = 117 # Temporary variable, we'll probably just hardcode 117th Congress in for a specific question
+name = '[rep_name]'
+
 data = np.genfromtxt(f'{congress}embedding.csv', delimiter=',') # This is definitely the best clustering result
 colors = np.genfromtxt(f'{congress}colors.csv', delimiter=',')
 
@@ -16,7 +18,6 @@ if congress == 118:
 df.drop(0, inplace = True)
 df['name'] = df['name'].str.removeprefix('Rep. ').str.replace(r' \[.*\]', '', regex = True)
 name_id = dict(zip(df['name'], df.index))
-name = '[rep_name]'
 
 fig, ax = plt.subplots()
 ax.scatter(data[:,0], data[:,1], c = colors)
