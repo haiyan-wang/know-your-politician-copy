@@ -1,0 +1,435 @@
+id,vote,name,party
+person,vote,name,party
+400004,Present,"Rep. Robert Aderholt [R, 1997-2024]",Republican
+400030,Present,"Rep. Sanford Bishop [D, 1993-2024]",Democrat
+400033,Present,"Rep. Earl Blumenauer [D, 1996-2024]",Democrat
+400046,Not Voting,"Rep. Kevin Brady [R, 1997-2022]",Republican
+400052,Present,"Rep. Michael Burgess [R, 2003-2024]",Republican
+400057,Present,"Rep. Ken Calvert [R, 2013-2022]",Republican
+400068,Present,"Rep. John R. Carter [R, 2003-2024]",Republican
+400069,Present,"Rep. Ed Case [D, 2019-2024]",Democrat
+400071,Present,"Rep. Steve Chabot [R, 2011-2022]",Republican
+400075,Present,"Rep. James “Jim” Clyburn [D, 1993-2024]",Democrat
+400077,Present,"Rep. Tom Cole [R, 2003-2024]",Republican
+400081,Present,"Rep. Jim Cooper [D, 2003-2022]",Democrat
+400093,Present,"Rep. Danny Davis [D, 1997-2024]",Democrat
+400100,Present,"Rep. Peter DeFazio [D, 1987-2022]",Democrat
+400101,Present,"Rep. Diana DeGette [D, 1997-2024]",Democrat
+400103,Present,"Rep. Rosa DeLauro [D, 1991-2024]",Democrat
+400108,Present,"Rep. Mario Diaz-Balart [R, 2013-2022]",Republican
+400111,Present,"Rep. Lloyd Doggett [D, 2013-2022]",Democrat
+400114,Present,"Rep. Michael Doyle [D, 2019-2022]",Democrat
+400124,Present,"Rep. Anna Eshoo [D, 2013-2022]",Democrat
+400157,Present,"Rep. Kay Granger [R, 1997-2024]",Republican
+400158,Present,"Rep. Sam Graves [R, 2001-2024]",Republican
+400162,Present,"Rep. Raúl Grijalva [D, 2013-2022]",Democrat
+400170,Not Voting,"Rep. Alcee Hastings [D, 2013-2021]",Democrat
+400189,Present,"Rep. Steny Hoyer [D, 1981-2024]",Democrat
+400196,Present,"Rep. Darrell Issa [R, 2021-2022]",Republican
+400199,Present,"Rep. Sheila Jackson Lee [D, 1995-2024]",Democrat
+400204,Present,"Rep. Eddie Bernice Johnson [D, 1993-2022]",Democrat
+400211,Present,"Rep. Marcy Kaptur [D, 1983-2024]",Democrat
+400218,Present,"Rep. Ron Kind [D, 1997-2022]",Democrat
+400230,Present,"Rep. James “Jim” Langevin [D, 2001-2022]",Democrat
+400232,Present,"Rep. Rick Larsen [D, 2001-2024]",Democrat
+400233,Present,"Rep. John Larson [D, 1999-2024]",Democrat
+400237,Present,"Rep. Barbara Lee [D, 2013-2022]",Democrat
+400245,Present,"Rep. Zoe Lofgren [D, 2013-2022]",Democrat
+400247,Present,"Rep. Frank Lucas [R, 2003-2024]",Republican
+400249,Present,"Rep. Stephen Lynch [D, 2013-2024]",Democrat
+400251,Present,"Rep. Carolyn Maloney [D, 2013-2022]",Democrat
+400259,Present,"Rep. Betty McCollum [D, 2001-2024]",Democrat
+400263,Present,"Rep. James “Jim” McGovern [D, 2013-2024]",Democrat
+400271,Present,"Rep. Gregory Meeks [D, 2013-2024]",Democrat
+400289,Present,"Rep. Jerrold Nadler [D, 2013-2022]",Democrat
+400290,Present,"Rep. Grace Napolitano [D, 2013-2022]",Democrat
+400291,Present,"Rep. Richard Neal [D, 2013-2024]",Democrat
+400297,Present,"Rep. Devin Nunes [R, 2013-2021]",Republican
+400308,Present,"Rep. Frank Pallone [D, 1993-2024]",Democrat
+400309,Present,"Rep. Bill Pascrell [D, 2013-2024]",Democrat
+400314,Present,"Rep. Nancy Pelosi [D, 2013-2022]",Democrat
+400326,Present,"Rep. David Price [D, 1997-2022]",Democrat
+400340,Present,"Rep. Harold “Hal” Rogers [R, 1981-2024]",Republican
+400341,Present,"Rep. Mike Rogers [R, 2003-2024]",Republican
+400347,Present,"Rep. Lucille Roybal-Allard [D, 2013-2022]",Democrat
+400349,Present,"Rep. A. Dutch Ruppersberger [D, 2003-2024]",Democrat
+400350,Present,"Rep. Bobby Rush [D, 1993-2022]",Democrat
+400352,Present,"Rep. Tim Ryan [D, 2013-2022]",Democrat
+400355,Present,"Rep. Linda Sánchez [D, 2013-2024]",Democrat
+400360,Present,"Rep. Janice “Jan” Schakowsky [D, 1999-2024]",Democrat
+400361,Present,"Rep. Adam Schiff [D, 2013-2022]",Democrat
+400363,Present,"Rep. David Scott [D, 2003-2024]",Democrat
+400364,Present,"Rep. Robert “Bobby” Scott [D, 1993-2024]",Democrat
+400367,Present,"Rep. Pete Sessions [R, 2021-2024]",Republican
+400371,Present,"Rep. Brad Sherman [D, 2013-2022]",Democrat
+400376,Present,"Rep. Michael “Mike” Simpson [R, 1999-2024]",Republican
+400379,Present,"Rep. Adam Smith [D, 1997-2024]",Democrat
+400380,Present,"Rep. Christopher “Chris” Smith [R, 1981-2024]",Republican
+400402,Present,"Rep. Bennie Thompson [D, 1993-2024]",Democrat
+400403,Present,"Rep. Mike Thompson [D, 2013-2022]",Democrat
+400411,Present,"Rep. Michael Turner [R, 2013-2024]",Republican
+400414,Present,"Rep. Fred Upton [R, 1993-2022]",Republican
+400416,Present,"Rep. Nydia Velázquez [D, 2013-2024]",Democrat
+400422,Present,"Rep. Maxine Waters [D, 2013-2024]",Democrat
+400433,Present,"Rep. Joe Wilson [R, 2001-2024]",Republican
+400440,Present,"Rep. Don Young [R, 1973-2022]",Republican
+400616,Present,"Rep. George “G.K.” Butterfield [D, 2004-2022]",Democrat
+400618,Present,"Rep. Jim Costa [D, 2013-2022]",Democrat
+400623,Present,"Rep. Debbie Wasserman Schultz [D, 2013-2022]",Democrat
+400639,Present,"Rep. Emanuel Cleaver [D, 2005-2024]",Democrat
+400640,Present,"Rep. Jeff Fortenberry [R, 2005-2022]",Republican
+400641,Present,"Rep. Brian Higgins [D, 2013-2024]",Democrat
+400643,Present,"Rep. Virginia Foxx [R, 2005-2024]",Republican
+400644,Present,"Rep. Patrick McHenry [R, 2005-2024]",Republican
+400651,Present,"Rep. Louie Gohmert [R, 2005-2022]",Republican
+400653,Present,"Rep. Al Green [D, 2005-2024]",Democrat
+400654,Present,"Rep. Michael McCaul [R, 2005-2024]",Republican
+400657,Present,"Rep. Henry Cuellar [D, 2005-2024]",Democrat
+400659,Present,"Rep. Cathy Anne McMorris Rodgers [R, 2005-2024]",Republican
+400661,Present,"Rep. Gwen Moore [D, 2005-2024]",Democrat
+400663,Present,"Rep. Doris Matsui [D, 2013-2022]",Democrat
+407672,Present,"Rep. Kweisi Mfume [D, 2020-2024]",Democrat
+412186,Present,"Rep. Albio Sires [D, 2013-2022]",Democrat
+412189,Present,"Rep. Jerry McNerney [D, 2013-2022]",Democrat
+412190,Present,"Rep. Kevin McCarthy [R, 2013-2022]",Republican
+412191,Present,"Rep. Doug Lamborn [R, 2007-2024]",Republican
+412192,Present,"Rep. Ed Perlmutter [D, 2007-2022]",Democrat
+412193,Present,"Rep. Joe Courtney [D, 2007-2024]",Democrat
+412195,Present,"Rep. Kathy Castor [D, 2013-2024]",Democrat
+412196,Present,"Rep. Vern Buchanan [R, 2013-2024]",Republican
+412199,Present,"Rep. Henry C. “Hank” Johnson [D, 2007-2024]",Democrat
+412211,Present,"Rep. John Yarmuth [D, 2007-2022]",Democrat
+412212,Present,"Rep. John Sarbanes [D, 2007-2024]",Democrat
+412213,Present,"Rep. Tim Walberg [R, 2011-2022]",Republican
+412217,Present,"Rep. Adrian Smith [R, 2007-2024]",Republican
+412221,Present,"Rep. Yvette Clarke [D, 2013-2024]",Democrat
+412226,Present,"Rep. Jim Jordan [R, 2007-2024]",Republican
+412236,Present,"Rep. Steve Cohen [D, 2007-2024]",Democrat
+412239,Present,"Rep. Peter Welch [D, 2007-2022]",Democrat
+412250,Present,"Rep. Gus Bilirakis [R, 2013-2024]",Republican
+412255,Present,"Rep. Robert Wittman [R, 2007-2024]",Republican
+412256,Present,"Rep. Robert Latta [R, 2007-2024]",Republican
+412257,Present,"Rep. Bill Foster [D, 2013-2024]",Democrat
+412258,Present,"Rep. André Carson [D, 2008-2024]",Democrat
+412259,Present,"Rep. Jackie Speier [D, 2013-2022]",Democrat
+412261,Present,"Rep. Steve Scalise [R, 2008-2024]",Republican
+412272,Present,"Rep. Gerald Connolly [D, 2009-2024]",Democrat
+412278,Present,"Rep. Brett Guthrie [R, 2009-2024]",Republican
+412282,Present,"Rep. James “Jim” Himes [D, 2009-2024]",Democrat
+412286,Present,"Rep. Ann Kirkpatrick [D, 2019-2022]",Democrat
+412292,Present,"Rep. Blaine Luetkemeyer [R, 2013-2024]",Republican
+412295,Present,"Rep. Tom McClintock [R, 2009-2022]",Republican
+412307,Present,"Rep. Chellie Pingree [D, 2009-2024]",Democrat
+412309,Present,"Rep. Bill Posey [R, 2013-2024]",Republican
+412315,Present,"Rep. Kurt Schrader [D, 2009-2022]",Democrat
+412317,Present,"Rep. Glenn Thompson [R, 2019-2024]",Republican
+412318,Present,"Rep. Dina Titus [D, 2013-2024]",Democrat
+412319,Present,"Rep. Paul Tonko [D, 2013-2024]",Democrat
+412327,Present,"Rep. Marcia Fudge [D, 2008-2021]",Democrat
+412331,Present,"Rep. Mike Quigley [D, 2009-2024]",Democrat
+412379,Present,"Rep. Judy Chu [D, 2013-2022]",Democrat
+412382,Present,"Rep. John Garamendi [D, 2013-2022]",Democrat
+412385,Present,"Rep. Theodore “Ted” Deutch [D, 2017-2022]",Democrat
+412393,Present,"Rep. Tom Reed [R, 2013-2022]",Republican
+412395,Present,"Rep. Mo Brooks [R, 2011-2022]",Republican
+412396,Present,"Rep. Terri Sewell [D, 2011-2024]",Democrat
+412397,Present,"Rep. Paul Gosar [R, 2013-2022]",Republican
+412399,Present,"Rep. David Schweikert [R, 2013-2022]",Republican
+412400,Present,"Rep. Eric “Rick” Crawford [R, 2011-2024]",Republican
+412402,Present,"Rep. Steve Womack [R, 2011-2024]",Republican
+412404,Present,"Rep. Karen Bass [D, 2013-2022]",Democrat
+412410,Present,"Rep. Daniel Webster [R, 2017-2024]",Republican
+412412,Present,"Rep. Frederica Wilson [D, 2013-2024]",Democrat
+412417,Present,"Rep. Austin Scott [R, 2011-2024]",Republican
+412421,Present,"Rep. Adam Kinzinger [R, 2013-2022]",Republican
+412427,Present,"Rep. Larry Bucshon [R, 2011-2024]",Republican
+412432,Present,"Rep. Cedric Richmond [D, 2011-2021]",Democrat
+412434,Present,"Rep. Andy Harris [R, 2011-2024]",Republican
+412435,Present,"Rep. William R. Keating [D, 2013-2024]",Democrat
+412437,Present,"Rep. Bill Huizenga [R, 2011-2022]",Republican
+412443,Present,"Rep. Steven Palazzo [R, 2011-2022]",Republican
+412444,Present,"Rep. Vicky Hartzler [R, 2011-2022]",Republican
+412445,Present,"Rep. Billy Long [R, 2011-2022]",Republican
+412460,Present,"Rep. Bill Johnson [R, 2011-2024]",Republican
+412461,Present,"Rep. Steve Stivers [R, 2011-2021]",Republican
+412463,Present,"Rep. Bob Gibbs [R, 2013-2022]",Republican
+412465,Present,"Rep. Mike Kelly [R, 2019-2024]",Republican
+412470,Present,"Rep. David Cicilline [D, 2011-2023]",Democrat
+412472,Present,"Rep. Jeff Duncan [R, 2011-2024]",Republican
+412476,Present,"Rep. Charles “Chuck” Fleischmann [R, 2011-2024]",Republican
+412477,Present,"Rep. Scott DesJarlais [R, 2011-2024]",Republican
+412485,Present,"Rep. Morgan Griffith [R, 2011-2024]",Republican
+412486,Present,"Rep. Jaime Herrera Beutler [R, 2011-2022]",Republican
+412487,Present,"Rep. David McKinley [R, 2011-2022]",Republican
+412500,Present,"Rep. Mark Amodei [R, 2011-2024]",Republican
+412501,Present,"Rep. Suzanne Bonamici [D, 2012-2024]",Democrat
+412503,Present,"Rep. Thomas Massie [R, 2012-2024]",Republican
+412505,Present,"Rep. Suzan DelBene [D, 2012-2024]",Democrat
+412506,Present,"Rep. Donald Payne Jr. [D, 2012-2024]",Democrat
+412510,Present,"Rep. Doug LaMalfa [R, 2013-2024]",Republican
+412511,Present,"Rep. Jared Huffman [D, 2013-2024]",Democrat
+412512,Present,"Rep. Ami Bera [D, 2013-2022]",Democrat
+412514,Present,"Rep. Eric Swalwell [D, 2013-2022]",Democrat
+412515,Not Voting,"Rep. David Valadao [R, 2021-2022]",Republican
+412516,Present,"Rep. Julia Brownley [D, 2013-2024]",Democrat
+412517,Present,"Rep. Tony Cárdenas [D, 2013-2024]",Democrat
+412519,Present,"Rep. Raul Ruiz [D, 2013-2022]",Democrat
+412520,Present,"Rep. Mark Takano [D, 2013-2022]",Democrat
+412521,Present,"Rep. Alan Lowenthal [D, 2013-2022]",Democrat
+412522,Present,"Rep. Juan Vargas [D, 2013-2022]",Democrat
+412523,Present,"Rep. Scott Peters [D, 2013-2022]",Democrat
+412529,Present,"Rep. Lois Frankel [D, 2017-2022]",Democrat
+412534,Present,"Rep. Bradley “Brad” Schneider [D, 2017-2024]",Democrat
+412536,Not Voting,"Rep. Rodney Davis [R, 2013-2022]",Republican
+412537,Present,"Rep. Cheri Bustos [D, 2013-2022]",Democrat
+412538,Present,"Rep. Jackie Walorski [R, 2013-2022]",Republican
+412541,Present,"Rep. Garland “Andy” Barr [R, 2013-2024]",Republican
+412546,Present,"Rep. Daniel Kildee [D, 2013-2022]",Democrat
+412548,Present,"Rep. Ann Wagner [R, 2013-2024]",Republican
+412550,Present,"Rep. Richard Hudson [R, 2013-2022]",Republican
+412557,Present,"Rep. Ann Kuster [D, 2013-2024]",Democrat
+412559,Present,"Rep. Steven Horsford [D, 2019-2024]",Democrat
+412560,Present,"Rep. Grace Meng [D, 2013-2024]",Democrat
+412561,Present,"Rep. Hakeem Jeffries [D, 2013-2024]",Democrat
+412562,Present,"Rep. Sean Maloney [D, 2013-2022]",Democrat
+412564,Present,"Rep. Brad Wenstrup [R, 2013-2024]",Republican
+412565,Present,"Rep. Joyce Beatty [D, 2013-2024]",Democrat
+412566,Present,"Rep. David Joyce [R, 2013-2024]",Republican
+412568,Present,"Rep. Markwayne Mullin [R, 2013-2022]",Republican
+412569,Present,"Rep. Scott Perry [R, 2019-2024]",Republican
+412571,Present,"Rep. Matthew “Matt” Cartwright [D, 2019-2024]",Democrat
+412572,Present,"Rep. Tom Rice [R, 2013-2022]",Republican
+412574,Present,"Rep. Randy Weber [R, 2013-2024]",Republican
+412576,Present,"Rep. Joaquin Castro [D, 2013-2024]",Democrat
+412578,Present,"Rep. Roger Williams [R, 2013-2024]",Republican
+412579,Present,"Rep. Marc Veasey [D, 2013-2024]",Democrat
+412580,Present,"Rep. Filemon Vela [D, 2013-2022]",Democrat
+412581,Present,"Rep. Chris Stewart [R, 2013-2023]",Republican
+412583,Present,"Rep. Derek Kilmer [D, 2013-2024]",Democrat
+412585,Present,"Rep. Mark Pocan [D, 2013-2024]",Democrat
+412595,Present,"Rep. Robin Kelly [D, 2013-2024]",Democrat
+412596,Present,"Rep. Jason Smith [R, 2013-2024]",Republican
+412600,Present,"Rep. Katherine Clark [D, 2013-2024]",Democrat
+412606,Present,"Rep. Donald Norcross [D, 2014-2024]",Democrat
+412607,Present,"Rep. Alma Adams [D, 2014-2024]",Democrat
+412608,Present,"Rep. Gary Palmer [R, 2015-2024]",Republican
+412609,Present,"Rep. French Hill [R, 2015-2024]",Republican
+412610,Present,"Rep. Bruce Westerman [R, 2015-2024]",Republican
+412612,Present,"Rep. Ruben Gallego [D, 2015-2022]",Democrat
+412613,Not Voting,"Rep. Mark DeSaulnier [D, 2015-2022]",Democrat
+412615,Present,"Rep. Pete Aguilar [D, 2015-2022]",Democrat
+412616,Present,"Rep. Ted Lieu [D, 2015-2022]",Democrat
+412617,Present,"Rep. Norma Torres [D, 2015-2024]",Democrat
+412619,Present,"Rep. Ken Buck [R, 2015-2024]",Republican
+412622,Present,"Rep. Earl “Buddy” Carter [R, 2015-2024]",Republican
+412623,Present,"Rep. Jody Hice [R, 2015-2022]",Republican
+412624,Present,"Rep. Barry Loudermilk [R, 2015-2024]",Republican
+412625,Present,"Rep. Rick Allen [R, 2015-2024]",Republican
+412629,Present,"Rep. Mike Bost [R, 2015-2024]",Republican
+412631,Present,"Rep. Garret Graves [R, 2015-2024]",Republican
+412632,Present,"Rep. Seth Moulton [D, 2015-2024]",Democrat
+412634,Present,"Rep. John Moolenaar [R, 2015-2022]",Republican
+412637,Present,"Rep. Debbie Dingell [D, 2015-2022]",Democrat
+412638,Present,"Rep. Brenda Lawrence [D, 2015-2022]",Democrat
+412639,Present,"Rep. Tom Emmer [R, 2015-2024]",Republican
+412641,Present,"Rep. David Rouzer [R, 2015-2024]",Republican
+412644,Present,"Rep. Bonnie Watson Coleman [D, 2015-2024]",Democrat
+412646,Present,"Rep. Lee Zeldin [R, 2015-2022]",Republican
+412647,Present,"Rep. Kathleen Rice [D, 2015-2022]",Democrat
+412648,Present,"Rep. Elise Stefanik [R, 2015-2024]",Republican
+412649,Present,"Rep. John Katko [R, 2015-2022]",Republican
+412652,Present,"Rep. Brendan Boyle [D, 2019-2024]",Democrat
+412655,Present,"Rep. Brian Babin [R, 2015-2024]",Republican
+412657,Present,"Rep. Donald Beyer [D, 2015-2024]",Democrat
+412660,Present,"Rep. Dan Newhouse [R, 2015-2024]",Republican
+412661,Present,"Rep. Glenn Grothman [R, 2015-2024]",Republican
+412662,Present,"Rep. Alexander Mooney [R, 2015-2024]",Republican
+412673,Present,"Rep. Trent Kelly [R, 2015-2024]",Republican
+412674,Present,"Rep. Darin LaHood [R, 2015-2022]",Republican
+412675,Present,"Rep. Warren Davidson [R, 2016-2024]",Republican
+412676,Present,"Rep. James Comer [R, 2016-2024]",Republican
+412677,Present,"Rep. Dwight Evans [D, 2019-2024]",Democrat
+412682,Present,"Rep. Tom O’Halleran [D, 2017-2022]",Democrat
+412683,Present,"Rep. Andy Biggs [R, 2017-2024]",Republican
+412684,Present,"Rep. Ro Khanna [D, 2017-2024]",Democrat
+412685,Present,"Rep. Jimmy Panetta [D, 2017-2022]",Democrat
+412686,Present,"Rep. Salud Carbajal [D, 2017-2024]",Democrat
+412687,Present,"Rep. Nanette Barragán [D, 2017-2024]",Democrat
+412688,Present,"Rep. Luis Correa [D, 2017-2024]",Democrat
+412689,Present,"Rep. Lisa Blunt Rochester [D, 2017-2024]",Democrat
+412690,Present,"Rep. Matt Gaetz [R, 2017-2024]",Republican
+412691,Present,"Rep. Neal Dunn [R, 2017-2024]",Republican
+412692,Present,"Rep. John Rutherford [R, 2017-2022]",Republican
+412693,Present,"Rep. Al Lawson [D, 2017-2022]",Democrat
+412694,Present,"Rep. Stephanie Murphy [D, 2017-2022]",Democrat
+412695,Present,"Rep. Darren Soto [D, 2017-2024]",Democrat
+412696,Present,"Rep. Val Demings [D, 2017-2022]",Democrat
+412697,Present,"Rep. Charlie Crist [D, 2017-2022]",Democrat
+412698,Present,"Rep. Brian Mast [R, 2017-2022]",Republican
+412700,Present,"Rep. Drew Ferguson [R, 2017-2024]",Republican
+412701,Present,"Rep. Raja Krishnamoorthi [D, 2017-2024]",Democrat
+412702,Present,"Rep. Jim Banks [R, 2017-2024]",Republican
+412703,Present,"Rep. Trey Hollingsworth [R, 2017-2022]",Republican
+412705,Present,"Rep. Clay Higgins [R, 2017-2024]",Republican
+412706,Present,"Rep. Mike Johnson [R, 2017-2024]",Republican
+412707,Present,"Rep. Anthony Brown [D, 2017-2022]",Democrat
+412708,Present,"Rep. Jamie Raskin [D, 2017-2024]",Democrat
+412709,Present,"Rep. Jack Bergman [R, 2017-2024]",Republican
+412712,Present,"Rep. Ted Budd [R, 2017-2022]",Republican
+412713,Present,"Rep. Don Bacon [R, 2017-2024]",Republican
+412714,Present,"Rep. Josh Gottheimer [D, 2017-2024]",Democrat
+412717,Present,"Rep. Thomas Suozzi [D, 2017-2022]",Democrat
+412718,Present,"Rep. Adriano Espaillat [D, 2017-2024]",Democrat
+412721,Present,"Rep. Brian Fitzpatrick [R, 2019-2024]",Republican
+412722,Present,"Rep. Lloyd Smucker [R, 2019-2024]",Republican
+412724,Present,"Rep. David Kustoff [R, 2017-2024]",Republican
+412725,Present,"Rep. Vicente Gonzalez [D, 2017-2022]",Democrat
+412726,Present,"Rep. Jodey Arrington [R, 2017-2024]",Republican
+412728,Present,"Rep. Donald McEachin [D, 2017-2022]",Democrat
+412730,Present,"Rep. Pramila Jayapal [D, 2017-2024]",Democrat
+412731,Present,"Rep. Mike Gallagher [R, 2017-2024]",Republican
+412732,Present,"Rep. Liz Cheney [R, 2017-2022]",Republican
+412735,Present,"Rep. Ron Estes [R, 2017-2024]",Republican
+412738,Present,"Rep. Ralph Norman [R, 2017-2024]",Republican
+412739,Present,"Rep. Jimmy Gomez [D, 2017-2024]",Democrat
+412740,Present,"Rep. John Curtis [R, 2017-2024]",Republican
+412744,Present,"Rep. Conor Lamb [D, 2019-2022]",Democrat
+412745,Present,"Rep. Debbie Lesko [R, 2018-2024]",Republican
+412746,Present,"Rep. Michael Cloud [R, 2018-2024]",Republican
+412747,Present,"Rep. Troy Balderson [R, 2018-2024]",Republican
+412748,Present,"Rep. Kevin Hern [R, 2018-2024]",Republican
+412749,Present,"Rep. Joseph Morelle [D, 2018-2024]",Democrat
+412750,Present,"Rep. Mary Gay Scanlon [D, 2019-2024]",Democrat
+412751,Present,"Rep. Susan Wild [D, 2019-2024]",Democrat
+412753,Present,"Rep. Greg Stanton [D, 2019-2022]",Democrat
+412754,Present,"Rep. Josh Harder [D, 2019-2022]",Democrat
+412758,Present,"Rep. Katie Porter [D, 2019-2022]",Democrat
+412760,Present,"Rep. Mike Levin [D, 2019-2024]",Democrat
+412761,Present,"Rep. Joe Neguse [D, 2019-2024]",Democrat
+412762,Present,"Rep. Jason Crow [D, 2019-2024]",Democrat
+412763,Present,"Rep. Jahana Hayes [D, 2019-2024]",Democrat
+412764,Present,"Rep. Michael Waltz [R, 2019-2024]",Republican
+412766,Present,"Rep. Gregory Steube [R, 2019-2024]",Republican
+412769,Present,"Rep. Lucy McBath [D, 2019-2022]",Democrat
+412772,Present,"Rep. Cynthia Axne [D, 2019-2022]",Democrat
+412773,Present,"Rep. Russ Fulcher [R, 2019-2024]",Republican
+412774,Present,"Rep. Jesús “Chuy” García [D, 2019-2024]",Democrat
+412775,Present,"Rep. Sean Casten [D, 2019-2024]",Democrat
+412776,Present,"Rep. Lauren Underwood [D, 2019-2024]",Democrat
+412777,Present,"Rep. James Baird [R, 2019-2024]",Republican
+412778,Present,"Rep. Greg Pence [R, 2019-2024]",Republican
+412780,Present,"Rep. Sharice Davids [D, 2019-2024]",Democrat
+412781,Present,"Rep. Lori Trahan [D, 2019-2024]",Democrat
+412782,Present,"Rep. Ayanna Pressley [D, 2019-2024]",Democrat
+412783,Present,"Rep. David Trone [D, 2019-2024]",Democrat
+412784,Present,"Rep. Elissa Slotkin [D, 2019-2022]",Democrat
+412785,Present,"Rep. Andy Levin [D, 2019-2022]",Democrat
+412786,Present,"Rep. Haley Stevens [D, 2019-2024]",Democrat
+412787,Present,"Rep. Rashida Tlaib [D, 2019-2022]",Democrat
+412788,Present,"Rep. Jim Hagedorn [R, 2019-2022]",Republican
+412789,Present,"Rep. Angie Craig [D, 2019-2024]",Democrat
+412790,Present,"Rep. Dean Phillips [D, 2019-2024]",Democrat
+412791,Present,"Rep. Ilhan Omar [D, 2019-2024]",Democrat
+412792,Present,"Rep. Pete Stauber [R, 2019-2024]",Republican
+412793,Present,"Rep. Michael Guest [R, 2019-2024]",Republican
+412794,Present,"Rep. Kelly Armstrong [R, 2019-2024]",Republican
+412795,Present,"Rep. Chris Pappas [D, 2019-2024]",Democrat
+412796,Present,"Rep. Jefferson Van Drew [R, 2019-2024]",Republican
+412797,Present,"Rep. Andy Kim [D, 2019-2024]",Democrat
+412798,Present,"Rep. Tom Malinowski [D, 2019-2022]",Democrat
+412799,Present,"Rep. Mikie Sherrill [D, 2019-2024]",Democrat
+412800,Present,"Rep. Debra Haaland [D, 2019-2021]",Democrat
+412802,Present,"Rep. Susie Lee [D, 2019-2024]",Democrat
+412804,Present,"Rep. Alexandria Ocasio-Cortez [D, 2019-2024]",Democrat
+412805,Present,"Rep. Antonio Delgado [D, 2019-2022]",Democrat
+412807,Present,"Rep. Anthony Gonzalez [R, 2019-2022]",Republican
+412809,Present,"Rep. Madeleine Dean [D, 2019-2024]",Democrat
+412810,Present,"Rep. Chrissy Houlahan [D, 2019-2024]",Democrat
+412811,Present,"Rep. Daniel Meuser [R, 2019-2024]",Republican
+412812,Present,"Rep. John Joyce [R, 2019-2024]",Republican
+412813,Present,"Rep. Guy Reschenthaler [R, 2019-2024]",Republican
+412815,Present,"Rep. William Timmons [R, 2019-2024]",Republican
+412816,Present,"Rep. Dusty Johnson [R, 2019-2024]",Republican
+412817,Present,"Rep. Tim Burchett [R, 2019-2024]",Republican
+412818,Present,"Rep. John W. Rose [R, 2019-2024]",Republican
+412819,Present,"Rep. Mark E. Green [R, 2019-2024]",Republican
+412820,Present,"Rep. Dan Crenshaw [R, 2019-2024]",Republican
+412821,Present,"Rep. Van Taylor [R, 2019-2022]",Republican
+412822,Present,"Rep. Lance Gooden [R, 2019-2024]",Republican
+412823,Present,"Rep. Ron Wright [R, 2019-2021]",Republican
+412824,Present,"Rep. Lizzie Fletcher [D, 2019-2024]",Democrat
+412825,Present,"Rep. Veronica Escobar [D, 2019-2024]",Democrat
+412826,Present,"Rep. Chip Roy [R, 2019-2024]",Republican
+412827,Present,"Rep. Sylvia Garcia [D, 2019-2024]",Democrat
+412828,Present,"Rep. Colin Allred [D, 2019-2024]",Democrat
+412830,Present,"Rep. Elaine Luria [D, 2019-2022]",Democrat
+412832,Present,"Rep. Ben Cline [R, 2019-2024]",Republican
+412833,Present,"Rep. Abigail Spanberger [D, 2019-2024]",Democrat
+412834,Present,"Rep. Jennifer Wexton [D, 2019-2024]",Democrat
+412835,Present,"Rep. Kim Schrier [D, 2019-2024]",Democrat
+412836,Present,"Rep. Bryan Steil [R, 2019-2024]",Republican
+412837,Present,"Rep. Carol Miller [R, 2019-2022]",Republican
+412842,Present,"Rep. Jared Golden [D, 2019-2024]",Democrat
+412843,Present,"Rep. Fred Keller [R, 2019-2022]",Republican
+412844,Present,"Rep. Dan Bishop [R, 2019-2022]",Republican
+412845,Present,"Rep. Gregory Murphy [R, 2019-2024]",Republican
+456791,Present,"Rep. Thomas Tiffany [R, 2020-2024]",Republican
+456792,Present,"Rep. Mike Garcia [R, 2020-2022]",Republican
+456793,Present,"Rep. Chris Jacobs [R, 2020-2022]",Republican
+456799,Present,"Rep. Jerry Carl [R, 2021-2024]",Republican
+456800,Present,"Rep. Barry Moore [R, 2021-2024]",Republican
+456801,Present,"Rep. Jay Obernolte [R, 2021-2022]",Republican
+456802,Present,"Rep. Young Kim [R, 2021-2022]",Republican
+456803,Present,"Rep. Michelle Steel [R, 2021-2022]",Republican
+456804,Present,"Rep. Sara Jacobs [D, 2021-2022]",Democrat
+456805,Present,"Rep. Lauren Boebert [R, 2021-2024]",Republican
+456806,Present,"Rep. Katherine “Kat” Cammack [R, 2021-2024]",Republican
+456807,Present,"Rep. Scott Franklin [R, 2021-2022]",Republican
+456808,Present,"Rep. Byron Donalds [R, 2021-2024]",Republican
+456809,Present,"Rep. Carlos Gimenez [R, 2021-2022]",Republican
+456810,Not Voting,"Rep. Maria Salazar [R, 2021-2024]",Republican
+456811,Present,"Rep. Nikema Williams [D, 2021-2024]",Democrat
+456812,Present,"Rep. Carolyn Bourdeaux [D, 2021-2022]",Democrat
+456813,Present,"Rep. Andrew Clyde [R, 2021-2024]",Republican
+456814,Present,"Rep. Marjorie Taylor Greene [R, 2021-2024]",Republican
+456815,Present,"Rep. Kaialiʻi Kahele [D, 2021-2022]",Democrat
+456816,Present,"Rep. Ashley Hinson [R, 2021-2022]",Republican
+456817,Present,"Rep. Mariannette Miller-Meeks [R, 2021-2022]",Republican
+456818,Present,"Rep. Randy Feenstra [R, 2021-2024]",Republican
+456819,Present,"Rep. Marie Newman [D, 2021-2022]",Democrat
+456820,Present,"Rep. Mary Miller [R, 2021-2024]",Republican
+456821,Present,"Rep. Frank Mrvan [D, 2021-2024]",Democrat
+456822,Present,"Rep. Victoria Spartz [R, 2021-2024]",Republican
+456823,Present,"Rep. Tracey Mann [R, 2021-2024]",Republican
+456824,Present,"Rep. Jacob “Jake” LaTurner [R, 2021-2024]",Republican
+456825,Present,"Rep. Jake Auchincloss [D, 2021-2024]",Democrat
+456826,Present,"Rep. Peter Meijer [R, 2021-2022]",Republican
+456827,Present,"Rep. Lisa McClain [R, 2021-2022]",Republican
+456828,Present,"Rep. Michelle Fischbach [R, 2021-2024]",Republican
+456829,Present,"Rep. Cori Bush [D, 2021-2024]",Democrat
+456830,Present,"Rep. Matthew Rosendale [R, 2021-2022]",Republican
+456831,Present,"Rep. Deborah Ross [D, 2021-2024]",Democrat
+456832,Present,"Rep. Kathy Manning [D, 2021-2024]",Democrat
+456833,Present,"Rep. Madison Cawthorn [R, 2021-2022]",Republican
+456834,Present,"Rep. Yvette Herrell [R, 2021-2022]",Republican
+456835,Present,"Rep. Teresa Leger Fernandez [D, 2021-2024]",Democrat
+456836,Present,"Rep. Andrew Garbarino [R, 2021-2024]",Republican
+456837,Present,"Rep. Nicole Malliotakis [R, 2021-2024]",Republican
+456838,Present,"Rep. Ritchie Torres [D, 2021-2024]",Democrat
+456839,Present,"Rep. Jamaal Bowman [D, 2021-2024]",Democrat
+456840,Present,"Rep. Mondaire Jones [D, 2021-2022]",Democrat
+456841,Present,"Rep. Stephanie Bice [R, 2021-2024]",Republican
+456842,Present,"Rep. Cliff Bentz [R, 2021-2024]",Republican
+456843,Present,"Rep. Nancy Mace [R, 2021-2024]",Republican
+456844,Present,"Rep. Diana Harshbarger [R, 2021-2024]",Republican
+456845,Present,"Rep. Patrick “Pat” Fallon [R, 2021-2024]",Republican
+456846,Present,"Rep. August Pfluger [R, 2021-2024]",Republican
+456847,Present,"Rep. Ronny Jackson [R, 2021-2024]",Republican
+456848,Present,"Rep. Troy Nehls [R, 2021-2024]",Republican
+456849,Present,"Rep. Ernest “Tony” Gonzales [R, 2021-2024]",Republican
+456850,Present,"Rep. Beth Van Duyne [R, 2021-2024]",Republican
+456851,Present,"Rep. Blake Moore [R, 2021-2024]",Republican
+456852,Present,"Rep. Clarence “Burgess” Owens [R, 2021-2024]",Republican
+456853,Present,"Rep. Robert “Bob” Good [R, 2021-2024]",Republican
+456854,Present,"Rep. Marilyn Strickland [D, 2021-2024]",Democrat
+456855,Present,"Rep. Scott Fitzgerald [R, 2021-2024]",Republican

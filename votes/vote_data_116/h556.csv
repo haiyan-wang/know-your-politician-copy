@@ -1,0 +1,434 @@
+id,vote,name,party
+person,vote,name,party
+400004,Yea,"Rep. Robert Aderholt [R, 1997-2024]",Republican
+400029,Yea,"Rep. Rob Bishop [R, 2003-2020]",Republican
+400030,Yea,"Rep. Sanford Bishop [D, 1993-2024]",Democrat
+400033,Yea,"Rep. Earl Blumenauer [D, 1996-2024]",Democrat
+400046,Yea,"Rep. Kevin Brady [R, 1997-2022]",Republican
+400052,Yea,"Rep. Michael Burgess [R, 2003-2024]",Republican
+400057,Yea,"Rep. Ken Calvert [R, 2013-2022]",Republican
+400068,Yea,"Rep. John R. Carter [R, 2003-2024]",Republican
+400069,Yea,"Rep. Ed Case [D, 2019-2024]",Democrat
+400071,Yea,"Rep. Steve Chabot [R, 2011-2022]",Republican
+400074,Yea,"Rep. Lacy Clay [D, 2001-2020]",Democrat
+400075,Yea,"Rep. James “Jim” Clyburn [D, 1993-2024]",Democrat
+400077,Yea,"Rep. Tom Cole [R, 2003-2024]",Republican
+400081,Yea,"Rep. Jim Cooper [D, 2003-2022]",Democrat
+400090,Not Voting,"Rep. Elijah Cummings [D, 1996-2019]",Democrat
+400093,Yea,"Rep. Danny Davis [D, 1997-2024]",Democrat
+400097,Yea,"Rep. Susan Davis [D, 2003-2020]",Democrat
+400100,Yea,"Rep. Peter DeFazio [D, 1987-2022]",Democrat
+400101,Yea,"Rep. Diana DeGette [D, 1997-2024]",Democrat
+400103,Yea,"Rep. Rosa DeLauro [D, 1991-2024]",Democrat
+400108,Yea,"Rep. Mario Diaz-Balart [R, 2013-2022]",Republican
+400111,Yea,"Rep. Lloyd Doggett [D, 2013-2022]",Democrat
+400114,Yea,"Rep. Michael Doyle [D, 2019-2022]",Democrat
+400122,Yea,"Rep. Eliot Engel [D, 2013-2020]",Democrat
+400124,Yea,"Rep. Anna Eshoo [D, 2013-2022]",Democrat
+400157,Yea,"Rep. Kay Granger [R, 1997-2024]",Republican
+400158,Yea,"Rep. Sam Graves [R, 2001-2024]",Republican
+400162,Not Voting,"Rep. Raúl Grijalva [D, 2013-2022]",Democrat
+400170,Yea,"Rep. Alcee Hastings [D, 2013-2021]",Democrat
+400189,Yea,"Rep. Steny Hoyer [D, 1981-2024]",Democrat
+400199,Yea,"Rep. Sheila Jackson Lee [D, 1995-2024]",Democrat
+400204,Yea,"Rep. Eddie Bernice Johnson [D, 1993-2022]",Democrat
+400211,Yea,"Rep. Marcy Kaptur [D, 1983-2024]",Democrat
+400218,Yea,"Rep. Ron Kind [D, 1997-2022]",Democrat
+400219,Yea,"Rep. Peter “Pete” King [R, 2013-2020]",Republican
+400220,Yea,"Rep. Steve King [R, 2013-2020]",Republican
+400230,Yea,"Rep. James “Jim” Langevin [D, 2001-2022]",Democrat
+400232,Yea,"Rep. Rick Larsen [D, 2001-2024]",Democrat
+400233,Yea,"Rep. John Larson [D, 1999-2024]",Democrat
+400237,Yea,"Rep. Barbara Lee [D, 2013-2022]",Democrat
+400240,Yea,"Rep. John R. Lewis [D, 1987-2020]",Democrat
+400245,Yea,"Rep. Zoe Lofgren [D, 2013-2022]",Democrat
+400246,Yea,"Rep. Nita Lowey [D, 2013-2020]",Democrat
+400247,Yea,"Rep. Frank Lucas [R, 2003-2024]",Republican
+400249,Yea,"Rep. Stephen Lynch [D, 2013-2024]",Democrat
+400251,Yea,"Rep. Carolyn Maloney [D, 2013-2022]",Democrat
+400259,Yea,"Rep. Betty McCollum [D, 2001-2024]",Democrat
+400263,Yea,"Rep. James “Jim” McGovern [D, 2013-2024]",Democrat
+400271,Not Voting,"Rep. Gregory Meeks [D, 2013-2024]",Democrat
+400289,Yea,"Rep. Jerrold Nadler [D, 2013-2022]",Democrat
+400290,Yea,"Rep. Grace Napolitano [D, 2013-2022]",Democrat
+400291,Yea,"Rep. Richard Neal [D, 2013-2024]",Democrat
+400297,Yea,"Rep. Devin Nunes [R, 2013-2021]",Republican
+400308,Yea,"Rep. Frank Pallone [D, 1993-2024]",Democrat
+400309,Yea,"Rep. Bill Pascrell [D, 2013-2024]",Democrat
+400316,Yea,"Rep. Collin Peterson [D, 1991-2020]",Democrat
+400326,Yea,"Rep. David Price [D, 1997-2022]",Democrat
+400340,Yea,"Rep. Harold “Hal” Rogers [R, 1981-2024]",Republican
+400341,Yea,"Rep. Mike Rogers [R, 2003-2024]",Republican
+400347,Not Voting,"Rep. Lucille Roybal-Allard [D, 2013-2022]",Democrat
+400349,Yea,"Rep. A. Dutch Ruppersberger [D, 2003-2024]",Democrat
+400350,Yea,"Rep. Bobby Rush [D, 1993-2022]",Democrat
+400352,Not Voting,"Rep. Tim Ryan [D, 2013-2022]",Democrat
+400355,Yea,"Rep. Linda Sánchez [D, 2013-2024]",Democrat
+400360,Yea,"Rep. Janice “Jan” Schakowsky [D, 1999-2024]",Democrat
+400361,Yea,"Rep. Adam Schiff [D, 2013-2022]",Democrat
+400363,Yea,"Rep. David Scott [D, 2003-2024]",Democrat
+400364,Yea,"Rep. Robert “Bobby” Scott [D, 1993-2024]",Democrat
+400365,Yea,"Rep. James Sensenbrenner [R, 2003-2020]",Republican
+400366,Yea,"Rep. José Serrano [D, 2013-2020]",Democrat
+400371,Yea,"Rep. Brad Sherman [D, 2013-2022]",Democrat
+400373,Yea,"Rep. John Shimkus [R, 2013-2020]",Republican
+400376,Yea,"Rep. Michael “Mike” Simpson [R, 1999-2024]",Republican
+400379,Yea,"Rep. Adam Smith [D, 1997-2024]",Democrat
+400380,Yea,"Rep. Christopher “Chris” Smith [R, 1981-2024]",Republican
+400402,Not Voting,"Rep. Bennie Thompson [D, 1993-2024]",Democrat
+400403,Yea,"Rep. Mike Thompson [D, 2013-2022]",Democrat
+400404,Yea,"Rep. Mac Thornberry [R, 1995-2020]",Republican
+400411,Yea,"Rep. Michael Turner [R, 2013-2024]",Republican
+400414,Yea,"Rep. Fred Upton [R, 1993-2022]",Republican
+400416,Yea,"Rep. Nydia Velázquez [D, 2013-2024]",Democrat
+400417,Yea,"Rep. Peter Visclosky [D, 1985-2020]",Democrat
+400419,Yea,"Rep. Greg Walden [R, 1999-2020]",Republican
+400422,Yea,"Rep. Maxine Waters [D, 2013-2024]",Democrat
+400433,Yea,"Rep. Joe Wilson [R, 2001-2024]",Republican
+400440,Yea,"Rep. Don Young [R, 1973-2022]",Republican
+400616,Yea,"Rep. George “G.K.” Butterfield [D, 2004-2022]",Democrat
+400618,Yea,"Rep. Jim Costa [D, 2013-2022]",Democrat
+400623,Yea,"Rep. Debbie Wasserman Schultz [D, 2013-2022]",Democrat
+400630,Yea,"Rep. Daniel Lipinski [D, 2005-2020]",Democrat
+400639,Yea,"Rep. Emanuel Cleaver [D, 2005-2024]",Democrat
+400640,Yea,"Rep. Jeff Fortenberry [R, 2005-2022]",Republican
+400641,Yea,"Rep. Brian Higgins [D, 2013-2024]",Democrat
+400643,Yea,"Rep. Virginia Foxx [R, 2005-2024]",Republican
+400644,Yea,"Rep. Patrick McHenry [R, 2005-2024]",Republican
+400651,Yea,"Rep. Louie Gohmert [R, 2005-2022]",Republican
+400653,Yea,"Rep. Al Green [D, 2005-2024]",Democrat
+400654,Yea,"Rep. Michael McCaul [R, 2005-2024]",Republican
+400655,Yea,"Rep. Michael Conaway [R, 2005-2020]",Republican
+400656,Not Voting,"Rep. Kenny Marchant [R, 2005-2020]",Republican
+400657,Yea,"Rep. Henry Cuellar [D, 2005-2024]",Democrat
+400659,Yea,"Rep. Cathy Anne McMorris Rodgers [R, 2005-2024]",Republican
+400661,Yea,"Rep. Gwen Moore [D, 2005-2024]",Democrat
+400663,Yea,"Rep. Doris Matsui [D, 2013-2022]",Democrat
+412186,Yea,"Rep. Albio Sires [D, 2013-2022]",Democrat
+412189,Yea,"Rep. Jerry McNerney [D, 2013-2022]",Democrat
+412190,Yea,"Rep. Kevin McCarthy [R, 2013-2022]",Republican
+412191,Yea,"Rep. Doug Lamborn [R, 2007-2024]",Republican
+412192,Yea,"Rep. Ed Perlmutter [D, 2007-2022]",Democrat
+412193,Yea,"Rep. Joe Courtney [D, 2007-2024]",Democrat
+412195,Yea,"Rep. Kathy Castor [D, 2013-2024]",Democrat
+412196,Yea,"Rep. Vern Buchanan [R, 2013-2024]",Republican
+412199,Yea,"Rep. Henry C. “Hank” Johnson [D, 2007-2024]",Democrat
+412209,Yea,"Rep. David Loebsack [D, 2007-2020]",Democrat
+412211,Yea,"Rep. John Yarmuth [D, 2007-2022]",Democrat
+412212,Yea,"Rep. John Sarbanes [D, 2007-2024]",Democrat
+412213,Yea,"Rep. Tim Walberg [R, 2011-2022]",Republican
+412217,Yea,"Rep. Adrian Smith [R, 2007-2024]",Republican
+412221,Yea,"Rep. Yvette Clarke [D, 2013-2024]",Democrat
+412226,Yea,"Rep. Jim Jordan [R, 2007-2024]",Republican
+412236,Yea,"Rep. Steve Cohen [D, 2007-2024]",Democrat
+412239,Yea,"Rep. Peter Welch [D, 2007-2022]",Democrat
+412250,Yea,"Rep. Gus Bilirakis [R, 2013-2024]",Republican
+412255,Yea,"Rep. Robert Wittman [R, 2007-2024]",Republican
+412256,Yea,"Rep. Robert Latta [R, 2007-2024]",Republican
+412257,Yea,"Rep. Bill Foster [D, 2013-2024]",Democrat
+412258,Yea,"Rep. André Carson [D, 2008-2024]",Democrat
+412259,Yea,"Rep. Jackie Speier [D, 2013-2022]",Democrat
+412261,Yea,"Rep. Steve Scalise [R, 2008-2024]",Republican
+412272,Yea,"Rep. Gerald Connolly [D, 2009-2024]",Democrat
+412278,Yea,"Rep. Brett Guthrie [R, 2009-2024]",Republican
+412282,Yea,"Rep. James “Jim” Himes [D, 2009-2024]",Democrat
+412283,Yea,"Rep. Duncan D. Hunter [R, 2013-2020]",Republican
+412286,Yea,"Rep. Ann Kirkpatrick [D, 2019-2022]",Democrat
+412292,Yea,"Rep. Blaine Luetkemeyer [R, 2013-2024]",Republican
+412293,Yea,"Rep. Ben Ray Luján [D, 2009-2020]",Democrat
+412295,Yea,"Rep. Tom McClintock [R, 2009-2022]",Republican
+412302,Yea,"Rep. Pete Olson [R, 2009-2020]",Republican
+412307,Not Voting,"Rep. Chellie Pingree [D, 2009-2024]",Democrat
+412309,Yea,"Rep. Bill Posey [R, 2013-2024]",Republican
+412310,Yea,"Rep. David “Phil” Roe [R, 2009-2020]",Republican
+412315,Yea,"Rep. Kurt Schrader [D, 2009-2022]",Democrat
+412317,Yea,"Rep. Glenn Thompson [R, 2019-2024]",Republican
+412318,Yea,"Rep. Dina Titus [D, 2013-2024]",Democrat
+412319,Yea,"Rep. Paul Tonko [D, 2013-2024]",Democrat
+412327,Yea,"Rep. Marcia Fudge [D, 2008-2021]",Democrat
+412331,Yea,"Rep. Mike Quigley [D, 2009-2024]",Democrat
+412379,Yea,"Rep. Judy Chu [D, 2013-2022]",Democrat
+412382,Yea,"Rep. John Garamendi [D, 2013-2022]",Democrat
+412385,Yea,"Rep. Theodore “Ted” Deutch [D, 2017-2022]",Democrat
+412388,Yea,"Rep. Tom Graves [R, 2013-2020]",Republican
+412393,Yea,"Rep. Tom Reed [R, 2013-2022]",Republican
+412394,Not Voting,"Rep. Martha Roby [R, 2011-2020]",Republican
+412395,Yea,"Rep. Mo Brooks [R, 2011-2022]",Republican
+412396,Yea,"Rep. Terri Sewell [D, 2011-2024]",Democrat
+412397,Yea,"Rep. Paul Gosar [R, 2013-2022]",Republican
+412399,Yea,"Rep. David Schweikert [R, 2013-2022]",Republican
+412400,Yea,"Rep. Eric “Rick” Crawford [R, 2011-2024]",Republican
+412402,Yea,"Rep. Steve Womack [R, 2011-2024]",Republican
+412404,Yea,"Rep. Karen Bass [D, 2013-2022]",Democrat
+412405,Yea,"Rep. Scott Tipton [R, 2011-2020]",Republican
+412410,Yea,"Rep. Daniel Webster [R, 2017-2024]",Republican
+412412,Yea,"Rep. Frederica Wilson [D, 2013-2024]",Democrat
+412416,Yea,"Rep. Rob Woodall [R, 2011-2020]",Republican
+412417,Yea,"Rep. Austin Scott [R, 2011-2024]",Republican
+412421,Yea,"Rep. Adam Kinzinger [R, 2013-2022]",Republican
+412427,Yea,"Rep. Larry Bucshon [R, 2011-2024]",Republican
+412432,Yea,"Rep. Cedric Richmond [D, 2011-2021]",Democrat
+412434,Yea,"Rep. Andy Harris [R, 2011-2024]",Republican
+412435,Yea,"Rep. William R. Keating [D, 2013-2024]",Democrat
+412437,Yea,"Rep. Bill Huizenga [R, 2011-2022]",Republican
+412438,Nay,"Rep. Justin Amash [L, 2011-2020]",Independent
+412443,Yea,"Rep. Steven Palazzo [R, 2011-2022]",Republican
+412444,Yea,"Rep. Vicky Hartzler [R, 2011-2022]",Republican
+412445,Yea,"Rep. Billy Long [R, 2011-2022]",Republican
+412460,Yea,"Rep. Bill Johnson [R, 2011-2024]",Republican
+412461,Yea,"Rep. Steve Stivers [R, 2011-2021]",Republican
+412463,Yea,"Rep. Bob Gibbs [R, 2013-2022]",Republican
+412465,Yea,"Rep. Mike Kelly [R, 2019-2024]",Republican
+412470,Yea,"Rep. David Cicilline [D, 2011-2023]",Democrat
+412472,Yea,"Rep. Jeff Duncan [R, 2011-2024]",Republican
+412476,Yea,"Rep. Charles “Chuck” Fleischmann [R, 2011-2024]",Republican
+412477,Yea,"Rep. Scott DesJarlais [R, 2011-2024]",Republican
+412480,Yea,"Rep. Bill Flores [R, 2011-2020]",Republican
+412485,Yea,"Rep. Morgan Griffith [R, 2011-2024]",Republican
+412486,Yea,"Rep. Jaime Herrera Beutler [R, 2011-2022]",Republican
+412487,Yea,"Rep. David McKinley [R, 2011-2022]",Republican
+412500,Yea,"Rep. Mark Amodei [R, 2011-2024]",Republican
+412501,Yea,"Rep. Suzanne Bonamici [D, 2012-2024]",Democrat
+412503,Yea,"Rep. Thomas Massie [R, 2012-2024]",Republican
+412505,Yea,"Rep. Suzan DelBene [D, 2012-2024]",Democrat
+412506,Yea,"Rep. Donald Payne Jr. [D, 2012-2024]",Democrat
+412510,Yea,"Rep. Doug LaMalfa [R, 2013-2024]",Republican
+412511,Yea,"Rep. Jared Huffman [D, 2013-2024]",Democrat
+412512,Yea,"Rep. Ami Bera [D, 2013-2022]",Democrat
+412513,Yea,"Rep. Paul Cook [R, 2013-2020]",Republican
+412514,Yea,"Rep. Eric Swalwell [D, 2013-2022]",Democrat
+412516,Yea,"Rep. Julia Brownley [D, 2013-2024]",Democrat
+412517,Yea,"Rep. Tony Cárdenas [D, 2013-2024]",Democrat
+412519,Yea,"Rep. Raul Ruiz [D, 2013-2022]",Democrat
+412520,Yea,"Rep. Mark Takano [D, 2013-2022]",Democrat
+412521,Yea,"Rep. Alan Lowenthal [D, 2013-2022]",Democrat
+412522,Yea,"Rep. Juan Vargas [D, 2013-2022]",Democrat
+412523,Yea,"Rep. Scott Peters [D, 2013-2022]",Democrat
+412525,Yea,"Rep. Ted Yoho [R, 2013-2020]",Republican
+412529,Yea,"Rep. Lois Frankel [D, 2017-2022]",Democrat
+412531,Yea,"Rep. Doug Collins [R, 2013-2020]",Republican
+412532,Not Voting,"Rep. Tulsi Gabbard [D, 2013-2020]",Democrat
+412534,Yea,"Rep. Bradley “Brad” Schneider [D, 2017-2024]",Democrat
+412536,Yea,"Rep. Rodney Davis [R, 2013-2022]",Republican
+412537,Yea,"Rep. Cheri Bustos [D, 2013-2022]",Democrat
+412538,Yea,"Rep. Jackie Walorski [R, 2013-2022]",Republican
+412539,Yea,"Rep. Susan Brooks [R, 2013-2020]",Republican
+412541,Yea,"Rep. Garland “Andy” Barr [R, 2013-2024]",Republican
+412543,Yea,"Rep. Joseph P. Kennedy [D, 2013-2020]",Democrat
+412546,Yea,"Rep. Daniel Kildee [D, 2013-2022]",Democrat
+412548,Yea,"Rep. Ann Wagner [R, 2013-2024]",Republican
+412550,Yea,"Rep. Richard Hudson [R, 2013-2022]",Republican
+412552,Yea,"Rep. Mark Meadows [R, 2013-2020]",Republican
+412553,Yea,"Rep. George Holding [R, 2017-2020]",Republican
+412557,Yea,"Rep. Ann Kuster [D, 2013-2024]",Democrat
+412559,Yea,"Rep. Steven Horsford [D, 2019-2024]",Democrat
+412560,Yea,"Rep. Grace Meng [D, 2013-2024]",Democrat
+412561,Yea,"Rep. Hakeem Jeffries [D, 2013-2024]",Democrat
+412562,Yea,"Rep. Sean Maloney [D, 2013-2022]",Democrat
+412564,Yea,"Rep. Brad Wenstrup [R, 2013-2024]",Republican
+412565,Not Voting,"Rep. Joyce Beatty [D, 2013-2024]",Democrat
+412566,Yea,"Rep. David Joyce [R, 2013-2024]",Republican
+412568,Yea,"Rep. Markwayne Mullin [R, 2013-2022]",Republican
+412569,Yea,"Rep. Scott Perry [R, 2019-2024]",Republican
+412571,Yea,"Rep. Matthew “Matt” Cartwright [D, 2019-2024]",Democrat
+412572,Yea,"Rep. Tom Rice [R, 2013-2022]",Republican
+412574,Yea,"Rep. Randy Weber [R, 2013-2024]",Republican
+412576,Not Voting,"Rep. Joaquin Castro [D, 2013-2024]",Democrat
+412578,Yea,"Rep. Roger Williams [R, 2013-2024]",Republican
+412579,Yea,"Rep. Marc Veasey [D, 2013-2024]",Democrat
+412580,Yea,"Rep. Filemon Vela [D, 2013-2022]",Democrat
+412581,Yea,"Rep. Chris Stewart [R, 2013-2023]",Republican
+412583,Yea,"Rep. Derek Kilmer [D, 2013-2024]",Democrat
+412584,Yea,"Rep. Denny Heck [D, 2013-2020]",Democrat
+412585,Yea,"Rep. Mark Pocan [D, 2013-2024]",Democrat
+412595,Yea,"Rep. Robin Kelly [D, 2013-2024]",Democrat
+412596,Yea,"Rep. Jason Smith [R, 2013-2024]",Republican
+412600,Yea,"Rep. Katherine Clark [D, 2013-2024]",Democrat
+412601,Yea,"Rep. Bradley Byrne [R, 2014-2020]",Republican
+412606,Yea,"Rep. Donald Norcross [D, 2014-2024]",Democrat
+412607,Yea,"Rep. Alma Adams [D, 2014-2024]",Democrat
+412608,Yea,"Rep. Gary Palmer [R, 2015-2024]",Republican
+412609,Yea,"Rep. French Hill [R, 2015-2024]",Republican
+412610,Yea,"Rep. Bruce Westerman [R, 2015-2024]",Republican
+412612,Not Voting,"Rep. Ruben Gallego [D, 2015-2022]",Democrat
+412613,Yea,"Rep. Mark DeSaulnier [D, 2015-2022]",Democrat
+412615,Yea,"Rep. Pete Aguilar [D, 2015-2022]",Democrat
+412616,Yea,"Rep. Ted Lieu [D, 2015-2022]",Democrat
+412617,Yea,"Rep. Norma Torres [D, 2015-2024]",Democrat
+412619,Yea,"Rep. Ken Buck [R, 2015-2024]",Republican
+412622,Yea,"Rep. Earl “Buddy” Carter [R, 2015-2024]",Republican
+412623,Yea,"Rep. Jody Hice [R, 2015-2022]",Republican
+412624,Yea,"Rep. Barry Loudermilk [R, 2015-2024]",Republican
+412625,Yea,"Rep. Rick Allen [R, 2015-2024]",Republican
+412629,Yea,"Rep. Mike Bost [R, 2015-2024]",Republican
+412630,Yea,"Rep. Ralph Abraham [R, 2015-2020]",Republican
+412631,Yea,"Rep. Garret Graves [R, 2015-2024]",Republican
+412632,Yea,"Rep. Seth Moulton [D, 2015-2024]",Democrat
+412634,Yea,"Rep. John Moolenaar [R, 2015-2022]",Republican
+412637,Yea,"Rep. Debbie Dingell [D, 2015-2022]",Democrat
+412638,Yea,"Rep. Brenda Lawrence [D, 2015-2022]",Democrat
+412639,Yea,"Rep. Tom Emmer [R, 2015-2024]",Republican
+412641,Yea,"Rep. David Rouzer [R, 2015-2024]",Republican
+412644,Yea,"Rep. Bonnie Watson Coleman [D, 2015-2024]",Democrat
+412646,Yea,"Rep. Lee Zeldin [R, 2015-2022]",Republican
+412647,Yea,"Rep. Kathleen Rice [D, 2015-2022]",Democrat
+412648,Yea,"Rep. Elise Stefanik [R, 2015-2024]",Republican
+412649,Yea,"Rep. John Katko [R, 2015-2022]",Republican
+412652,Yea,"Rep. Brendan Boyle [D, 2019-2024]",Democrat
+412653,Yea,"Rep. John Ratcliffe [R, 2015-2020]",Republican
+412654,Yea,"Rep. Will Hurd [R, 2015-2020]",Republican
+412655,Yea,"Rep. Brian Babin [R, 2015-2024]",Republican
+412657,Yea,"Rep. Donald Beyer [D, 2015-2024]",Democrat
+412660,Yea,"Rep. Dan Newhouse [R, 2015-2024]",Republican
+412661,Yea,"Rep. Glenn Grothman [R, 2015-2024]",Republican
+412662,Yea,"Rep. Alexander Mooney [R, 2015-2024]",Republican
+412670,Yea,"Rep. Mark Walker [R, 2015-2020]",Republican
+412673,Yea,"Rep. Trent Kelly [R, 2015-2024]",Republican
+412674,Yea,"Rep. Darin LaHood [R, 2015-2022]",Republican
+412675,Yea,"Rep. Warren Davidson [R, 2016-2024]",Republican
+412676,Yea,"Rep. James Comer [R, 2016-2024]",Republican
+412677,Yea,"Rep. Dwight Evans [D, 2019-2024]",Democrat
+412682,Yea,"Rep. Tom O’Halleran [D, 2017-2022]",Democrat
+412683,Yea,"Rep. Andy Biggs [R, 2017-2024]",Republican
+412684,Yea,"Rep. Ro Khanna [D, 2017-2024]",Democrat
+412685,Yea,"Rep. Jimmy Panetta [D, 2017-2022]",Democrat
+412686,Yea,"Rep. Salud Carbajal [D, 2017-2024]",Democrat
+412687,Yea,"Rep. Nanette Barragán [D, 2017-2024]",Democrat
+412688,Yea,"Rep. Luis Correa [D, 2017-2024]",Democrat
+412689,Yea,"Rep. Lisa Blunt Rochester [D, 2017-2024]",Democrat
+412690,Yea,"Rep. Matt Gaetz [R, 2017-2024]",Republican
+412691,Yea,"Rep. Neal Dunn [R, 2017-2024]",Republican
+412692,Yea,"Rep. John Rutherford [R, 2017-2022]",Republican
+412693,Not Voting,"Rep. Al Lawson [D, 2017-2022]",Democrat
+412694,Yea,"Rep. Stephanie Murphy [D, 2017-2022]",Democrat
+412695,Yea,"Rep. Darren Soto [D, 2017-2024]",Democrat
+412696,Yea,"Rep. Val Demings [D, 2017-2022]",Democrat
+412697,Yea,"Rep. Charlie Crist [D, 2017-2022]",Democrat
+412698,Yea,"Rep. Brian Mast [R, 2017-2022]",Republican
+412699,Not Voting,"Rep. Francis Rooney [R, 2017-2020]",Republican
+412700,Yea,"Rep. Drew Ferguson [R, 2017-2024]",Republican
+412701,Yea,"Rep. Raja Krishnamoorthi [D, 2017-2024]",Democrat
+412702,Yea,"Rep. Jim Banks [R, 2017-2024]",Republican
+412703,Yea,"Rep. Trey Hollingsworth [R, 2017-2022]",Republican
+412704,Yea,"Rep. Roger Marshall [R, 2017-2020]",Republican
+412705,Not Voting,"Rep. Clay Higgins [R, 2017-2024]",Republican
+412706,Yea,"Rep. Mike Johnson [R, 2017-2024]",Republican
+412707,Yea,"Rep. Anthony Brown [D, 2017-2022]",Democrat
+412708,Yea,"Rep. Jamie Raskin [D, 2017-2024]",Democrat
+412709,Yea,"Rep. Jack Bergman [R, 2017-2024]",Republican
+412710,Yea,"Rep. Paul Mitchell [I, 2017-2020]",Republican
+412712,Yea,"Rep. Ted Budd [R, 2017-2022]",Republican
+412713,Yea,"Rep. Don Bacon [R, 2017-2024]",Republican
+412714,Yea,"Rep. Josh Gottheimer [D, 2017-2024]",Democrat
+412717,Yea,"Rep. Thomas Suozzi [D, 2017-2022]",Democrat
+412718,Yea,"Rep. Adriano Espaillat [D, 2017-2024]",Democrat
+412721,Yea,"Rep. Brian Fitzpatrick [R, 2019-2024]",Republican
+412722,Yea,"Rep. Lloyd Smucker [R, 2019-2024]",Republican
+412724,Yea,"Rep. David Kustoff [R, 2017-2024]",Republican
+412725,Not Voting,"Rep. Vicente Gonzalez [D, 2017-2022]",Democrat
+412726,Yea,"Rep. Jodey Arrington [R, 2017-2024]",Republican
+412728,Not Voting,"Rep. Donald McEachin [D, 2017-2022]",Democrat
+412730,Yea,"Rep. Pramila Jayapal [D, 2017-2024]",Democrat
+412731,Yea,"Rep. Mike Gallagher [R, 2017-2024]",Republican
+412732,Yea,"Rep. Liz Cheney [R, 2017-2022]",Republican
+412735,Yea,"Rep. Ron Estes [R, 2017-2024]",Republican
+412736,Yea,"Rep. Greg Gianforte [R, 2017-2020]",Republican
+412738,Yea,"Rep. Ralph Norman [R, 2017-2024]",Republican
+412739,Yea,"Rep. Jimmy Gomez [D, 2017-2024]",Democrat
+412740,Yea,"Rep. John Curtis [R, 2017-2024]",Republican
+412744,Yea,"Rep. Conor Lamb [D, 2019-2022]",Democrat
+412745,Yea,"Rep. Debbie Lesko [R, 2018-2024]",Republican
+412746,Yea,"Rep. Michael Cloud [R, 2018-2024]",Republican
+412747,Yea,"Rep. Troy Balderson [R, 2018-2024]",Republican
+412748,Yea,"Rep. Kevin Hern [R, 2018-2024]",Republican
+412749,Yea,"Rep. Joseph Morelle [D, 2018-2024]",Democrat
+412750,Yea,"Rep. Mary Gay Scanlon [D, 2019-2024]",Democrat
+412751,Yea,"Rep. Susan Wild [D, 2019-2024]",Democrat
+412753,Yea,"Rep. Greg Stanton [D, 2019-2022]",Democrat
+412754,Yea,"Rep. Josh Harder [D, 2019-2022]",Democrat
+412755,Yea,"Rep. TJ Cox [D, 2019-2020]",Democrat
+412756,Yea,"Rep. Katie Hill [D, 2019-2019]",Democrat
+412757,Yea,"Rep. Gilbert Cisneros [D, 2019-2020]",Democrat
+412758,Yea,"Rep. Katie Porter [D, 2019-2022]",Democrat
+412759,Yea,"Rep. Harley Rouda [D, 2019-2020]",Democrat
+412760,Yea,"Rep. Mike Levin [D, 2019-2024]",Democrat
+412761,Yea,"Rep. Joe Neguse [D, 2019-2024]",Democrat
+412762,Yea,"Rep. Jason Crow [D, 2019-2024]",Democrat
+412763,Yea,"Rep. Jahana Hayes [D, 2019-2024]",Democrat
+412764,Yea,"Rep. Michael Waltz [R, 2019-2024]",Republican
+412765,Yea,"Rep. Ross Spano [R, 2019-2020]",Republican
+412766,Yea,"Rep. Gregory Steube [R, 2019-2024]",Republican
+412767,Yea,"Rep. Debbie Mucarsel-Powell [D, 2019-2020]",Democrat
+412768,Yea,"Rep. Donna Shalala [D, 2019-2020]",Democrat
+412769,Yea,"Rep. Lucy McBath [D, 2019-2022]",Democrat
+412771,Yea,"Rep. Abby Finkenauer [D, 2019-2020]",Democrat
+412772,Yea,"Rep. Cynthia Axne [D, 2019-2022]",Democrat
+412773,Yea,"Rep. Russ Fulcher [R, 2019-2024]",Republican
+412774,Yea,"Rep. Jesús “Chuy” García [D, 2019-2024]",Democrat
+412775,Yea,"Rep. Sean Casten [D, 2019-2024]",Democrat
+412776,Yea,"Rep. Lauren Underwood [D, 2019-2024]",Democrat
+412777,Yea,"Rep. James Baird [R, 2019-2024]",Republican
+412778,Yea,"Rep. Greg Pence [R, 2019-2024]",Republican
+412779,Yea,"Rep. Steven Watkins [R, 2019-2020]",Republican
+412780,Yea,"Rep. Sharice Davids [D, 2019-2024]",Democrat
+412781,Not Voting,"Rep. Lori Trahan [D, 2019-2024]",Democrat
+412782,Yea,"Rep. Ayanna Pressley [D, 2019-2024]",Democrat
+412783,Yea,"Rep. David Trone [D, 2019-2024]",Democrat
+412784,Yea,"Rep. Elissa Slotkin [D, 2019-2022]",Democrat
+412785,Yea,"Rep. Andy Levin [D, 2019-2022]",Democrat
+412786,Yea,"Rep. Haley Stevens [D, 2019-2024]",Democrat
+412787,Yea,"Rep. Rashida Tlaib [D, 2019-2022]",Democrat
+412788,Yea,"Rep. Jim Hagedorn [R, 2019-2022]",Republican
+412789,Yea,"Rep. Angie Craig [D, 2019-2024]",Democrat
+412790,Yea,"Rep. Dean Phillips [D, 2019-2024]",Democrat
+412791,Not Voting,"Rep. Ilhan Omar [D, 2019-2024]",Democrat
+412792,Yea,"Rep. Pete Stauber [R, 2019-2024]",Republican
+412793,Yea,"Rep. Michael Guest [R, 2019-2024]",Republican
+412794,Yea,"Rep. Kelly Armstrong [R, 2019-2024]",Republican
+412795,Yea,"Rep. Chris Pappas [D, 2019-2024]",Democrat
+412796,Yea,"Rep. Jefferson Van Drew [R, 2019-2024]",Democrat
+412797,Yea,"Rep. Andy Kim [D, 2019-2024]",Democrat
+412798,Yea,"Rep. Tom Malinowski [D, 2019-2022]",Democrat
+412799,Yea,"Rep. Mikie Sherrill [D, 2019-2024]",Democrat
+412800,Not Voting,"Rep. Debra Haaland [D, 2019-2021]",Democrat
+412801,Yea,"Rep. Xochitl Torres Small [D, 2019-2020]",Democrat
+412802,Yea,"Rep. Susie Lee [D, 2019-2024]",Democrat
+412803,Yea,"Rep. Max Rose [D, 2019-2020]",Democrat
+412804,Yea,"Rep. Alexandria Ocasio-Cortez [D, 2019-2024]",Democrat
+412805,Yea,"Rep. Antonio Delgado [D, 2019-2022]",Democrat
+412806,Yea,"Rep. Anthony Brindisi [D, 2019-2020]",Democrat
+412807,Yea,"Rep. Anthony Gonzalez [R, 2019-2022]",Republican
+412808,Yea,"Rep. Kendra Horn [D, 2019-2020]",Democrat
+412809,Yea,"Rep. Madeleine Dean [D, 2019-2024]",Democrat
+412810,Yea,"Rep. Chrissy Houlahan [D, 2019-2024]",Democrat
+412811,Yea,"Rep. Daniel Meuser [R, 2019-2024]",Republican
+412812,Yea,"Rep. John Joyce [R, 2019-2024]",Republican
+412813,Yea,"Rep. Guy Reschenthaler [R, 2019-2024]",Republican
+412814,Yea,"Rep. Joe Cunningham [D, 2019-2020]",Democrat
+412815,Yea,"Rep. William Timmons [R, 2019-2024]",Republican
+412816,Yea,"Rep. Dusty Johnson [R, 2019-2024]",Republican
+412817,Yea,"Rep. Tim Burchett [R, 2019-2024]",Republican
+412818,Yea,"Rep. John W. Rose [R, 2019-2024]",Republican
+412819,Yea,"Rep. Mark E. Green [R, 2019-2024]",Republican
+412820,Yea,"Rep. Dan Crenshaw [R, 2019-2024]",Republican
+412821,Yea,"Rep. Van Taylor [R, 2019-2022]",Republican
+412822,Yea,"Rep. Lance Gooden [R, 2019-2024]",Republican
+412823,Yea,"Rep. Ron Wright [R, 2019-2021]",Republican
+412824,Yea,"Rep. Lizzie Fletcher [D, 2019-2024]",Democrat
+412825,Yea,"Rep. Veronica Escobar [D, 2019-2024]",Democrat
+412826,Yea,"Rep. Chip Roy [R, 2019-2024]",Republican
+412827,Yea,"Rep. Sylvia Garcia [D, 2019-2024]",Democrat
+412828,Yea,"Rep. Colin Allred [D, 2019-2024]",Democrat
+412829,Yea,"Rep. Ben McAdams [D, 2019-2020]",Democrat
+412830,Yea,"Rep. Elaine Luria [D, 2019-2022]",Democrat
+412831,Yea,"Rep. Denver Riggleman [R, 2019-2020]",Republican
+412832,Yea,"Rep. Ben Cline [R, 2019-2024]",Republican
+412833,Yea,"Rep. Abigail Spanberger [D, 2019-2024]",Democrat
+412834,Yea,"Rep. Jennifer Wexton [D, 2019-2024]",Democrat
+412835,Yea,"Rep. Kim Schrier [D, 2019-2024]",Democrat
+412836,Yea,"Rep. Bryan Steil [R, 2019-2024]",Republican
+412837,Yea,"Rep. Carol Miller [R, 2019-2022]",Republican
+412842,Yea,"Rep. Jared Golden [D, 2019-2024]",Democrat
+412843,Yea,"Rep. Fred Keller [R, 2019-2022]",Republican
+412844,Not Voting,"Rep. Dan Bishop [R, 2019-2022]",Republican
+412845,Yea,"Rep. Gregory Murphy [R, 2019-2024]",Republican
