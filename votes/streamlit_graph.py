@@ -7,7 +7,7 @@ congress = 117 # Temporary variable, we'll probably just hardcode 117th Congress
 name = '[rep_name]'
 
 data = np.genfromtxt(f'{congress}embedding.csv', delimiter=',') # This is definitely the best clustering result
-colors = np.genfromtxt(f'{congress}colors.csv', delimiter=',')
+colors = np.genfromtxt(f'{congress}colors.csv', delimiter = ',', dtype = None, encoding = None)
 
 if congress == 116:
     df = pd.read_csv('vote_data_116/h743.csv')
