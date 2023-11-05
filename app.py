@@ -44,7 +44,7 @@ if query := st.chat_input("Ask me anything"):
         st.markdown(query)
 
     # Regex logic
-    sentiment_pattern = r"sentiment|over time|opinion|view|believe|belief"
+    sentiment_pattern = r"sentiment|over time|opinion|view|believe|belief|changed|differ|alter|reverse|reversal|shift|switch"
     vote_pattern = r"voting record|voting history|voting patterns|party affiliation|vote in line|vote against|vote on|vote over time"
 
     run_sentiment = True if re.search(sentiment_pattern, query) else False # True if we want to display sentiment analysis
