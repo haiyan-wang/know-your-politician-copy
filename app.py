@@ -2,6 +2,7 @@ import time
 import streamlit as st
 from utils import load_chain
 from sent_analysis import SentimentEvaluator
+import re
 
 
 evaluator = SentimentEvaluator()
@@ -42,6 +43,13 @@ if query := st.chat_input("Ask me anything"):
     with st.chat_message("user"):
         st.markdown(query)
 
+    # Regex logic
+    sentiment_pattern = r"sentiment|over time|opinion|view|believe|belief"
+    vote_pattern = r"voting record|voting history|voting patterns|party affiliation|vote in line|vote against|vote on|vote over time"
+
+    run_sentiment = True if re.search(sentiment_pattern, query) else False # True if we want to display sentiment analysis
+    run_vote = True if re.search(vote_pattern, query) else False # True if we want to display vote analysis
+
     with st.chat_message("assistant", avatar=company_logo):
         sentiments = []
         message_placeholder = st.empty()
@@ -56,12 +64,16 @@ if query := st.chat_input("Ask me anything"):
             time.sleep(0.05)
             # Add a blinking cursor to simulate typing
             message_placeholder.markdown(full_response + "▌")
-            sent = evaluator.evaluate_run(chunk)
-            print(sent)
-        #sentiments.append(sent)
-        # message_placeholder.markdown(full_response + "\n Here is his opinion on the topic over time:" + sent)
+            if run_sentiment:
+                sent = evaluator.evaluate_run(chunk)
+                #print(sent)
+                sentiments.append(sent)
+
+        if run_sentiment:
+            message_placeholder.markdown(full_response + "\n Here are their opinion on the topic over time:" + sent)
         
 
     # Add assistant message to chat history
     st.session_state.messages.append({"role": "assistant", "content": response})
-    st.session_state.sentiments.append({"role": "assistant", "content": sentiments})
+    if run_sentiment:
+        st.session_state.sentiments.append({"role": "assistant", "content": sentiments})
