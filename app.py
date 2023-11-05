@@ -59,9 +59,7 @@ if query := st.chat_input("Ask me anything"):
             message_placeholder.markdown(full_response + "▌")
         sent = evaluator.evaluate_run(full_response)
         sentiments.append(sent)
-
-
-        message_placeholder.markdown(full_response)
+        # message_placeholder.markdown(full_response + "\n Here is his opinion on the topic over time:" + sent)
         
 
     # Add assistant message to chat history
