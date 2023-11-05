@@ -1,4 +1,3 @@
-from langsmith.evaluation import EvaluationResult, RunEvaluator
 from langchain.embeddings import OpenAIEmbeddings
 from langchain.vectorstores import FAISS
 from langchain.chains import LLMChain
@@ -6,7 +5,7 @@ from langchain.chat_models import ChatOpenAI
 import matplotlib.pyplot as plt
 
 
-class SentimentEvaluator(RunEvaluator):
+class SentimentEvaluator():
     def __init__(self):
         prompt = """"
         What is the predominant sentiment in the following opinion?
@@ -29,7 +28,7 @@ Sentiment:"""
         # visualization of the sentiment scores over time
         return []
 
-    def evaluate_run(self, data: str) -> EvaluationResult:
+    def evaluate_run(self, data):
         response = self.chain({
             "input" : data,
         })

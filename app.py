@@ -66,9 +66,12 @@ if query := st.chat_input("Ask me anything"):
             # Add a blinking cursor to simulate typing
             message_placeholder.markdown(full_response + "▌")
             if run_sentiment:
+                print(True)
                 sent = evaluator.evaluate_run(chunk)
                 #print(sent)
                 sentiments.append(sent)
+            else:
+                print(False)
 
         if run_sentiment:
             message_placeholder.markdown(full_response + "\n Here are their opinion on the topic over time:" + sent)
